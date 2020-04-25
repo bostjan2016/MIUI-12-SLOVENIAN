@@ -605,7 +605,8 @@ Pošljite to kodo nadzorniku."</string>
   <string name="password_toggle_content_description">Spremeni vidnost gesla</string>
   <string name="permission_account_tip">Dostop do podatkov o računu</string>
   <string name="permission_storage_tip">Dostopajte do slik v svoji napravi da jih lahko uporabite za ozadje</string>
-  <string name="phone_bind_too_many">Ta telefon je povezan z nekoliko Mi Računi v kratkem časovnem obdobju. Poskusite uporabiti drugo telefonsko številko.</string>
+  <string name="permission_storage_tip">Shraniti stvari v vašo napravo</string>
+  <string name="phone_bind_too_many">Ta telefon je povezan z več Mi Računi v kratkem časovnem obdobju. Poskusite uporabiti drugo telefonsko številko.</string>
   <string name="phone_hint">Številka telefona</string>
   <string name="phone_number">Številka telefona</string>
   <string name="platform_unavailable_qq">Namesti QQ</string>
@@ -748,8 +749,10 @@ Pošljite to kodo nadzorniku."</string>
   <string name="status_wallpaper_loop_start">Vklj.</string>
   <string name="subscribe_apply_wp">Ozadje zakl. zaslona nastavljeno</string>
   <string name="subscribe_dlg_btn">Začni</string>
+  <string name="subscribe_dlg_btn_txt">Naročite se</string>
   <string name="subscribe_dlg_content">Naročite se da boste vsakodnevno dobivali sveža ozadja na vaš zakl. zaslon in zjutraj dobivali pozdrave.</string>
   <string name="subscribe_dlg_content2">Naročite se na \"%1$s\"</string>
+  <string name="subscribe_dlg_desc">Naročite se za prikaz prezentacij</string>
   <string name="subscribe_dlg_title">Dodajte svoje priljubljene slike v miks</string>
   <string name="subscribe_free">Naročite se</string>
   <string name="subscribe_item_checked">Naročeno</string>
