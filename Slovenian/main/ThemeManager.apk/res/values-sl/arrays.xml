@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="wallpaper_settings_precust_cover_name">
+         <item>Zabava</item>
+         <item>Pokrajina</item>
+         <item>Zvezdno nebo</item>
+         <item>Botanika</item>
+         <item>Živali</item>
+    </string-array>
+</resources>

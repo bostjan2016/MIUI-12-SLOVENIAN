@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <plurals name="last_sent_time_day">
+        <item quantity="other">pred %d dni</item>
+        <item quantity="one">pred %d dnevom</item>
+    </plurals>
+    <plurals name="last_sent_time_hour">
+        <item quantity="other">pred %d urami</item>
+        <item quantity="one">pred %d uro</item>
+    </plurals>
+    <plurals name="last_sent_time_minute">
+        <item quantity="other">pred %d minutami</item>
+        <item quantity="one">pred %d minuto</item>
+    </plurals>
+    <plurals name="last_sent_time_month">
+        <item quantity="other">pred %d meseci</item>
+        <item quantity="one">pred %d mesec</item>
+    </plurals>
+    <plurals name="last_sent_time_week">
+        <item quantity="other">pred %d tedni</item>
+        <item quantity="one">pred %d tednom</item>
+    </plurals>
+    <plurals name="sent_frequency_per_day">
+        <item quantity="other">%d obvestil dnevno</item>
+        <item quantity="one">%d obvestilo dnevno</item>
+    </plurals>
+    <plurals name="sent_frequency_per_week">
+        <item quantity="other">%d obvestil tedensko</item>
+        <item quantity="one">%d obvestilo tedensko</item>
+    </plurals>
+</resources>

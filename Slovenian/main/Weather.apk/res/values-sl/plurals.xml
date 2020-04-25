@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="aqi_all_city_cur_num">
+        <item quantity="other">Povprečno %1$s postaj</item>
+        <item quantity="one">Povprečno %1$s postaja</item>
+    </plurals>
+     <plurals name="daily_forcast_drawer_on_top">
+         <item quantity="other">%1$s- dnevna napoved</item>
+         <item quantity="one">%1$s- dnevna napoved</item>
+     </plurals>
+    <plurals name="view_realtime_clear">
+       <item quantity="other">Vedro</item>
+        <item quantity="one">Sončno</item>
+     </plurals>
+     <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred %d min</item>
+     </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">pred %d urami</item>
+        <item quantity="one">pred %d uro</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">pred %d dnevi</item>
+        <item quantity="one">pred %d dnevom</item>
+    </plurals>
+	      <plurals name="no_vote_num">
+        <item quantity="other">%1$s oseb| </item>
+        <item quantity="one">%1$s oseba| </item>
+     </plurals>
+     <plurals name="total_voted_num_text">
+        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> oseb je glasovalo"</item>
+        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> oseba je glasovala"</item>
+     </plurals>
+     <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s oseb</item>
+        <item quantity="one"> | %1$s oseba</item>
+     </plurals>
+	 <plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">Povratne informacije lahko ponovno pošljete čez %1$s min.</item>
+        <item quantity="one">Povratne informacije lahko ponovno pošljete čez %1$s min.</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">Povratne informacije lahko ponovno pošljete čez %1$s sek.</item>
+        <item quantity="one">Povratne informacije lahko ponovno pošljete čez %1$s sek.</item>
+    </plurals>
+	<plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">Najvišja temperatura: %1$s °C</item>
+        <item quantity="one">Najvišja temperatura: %1$s °C</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">Najvišja temperatura: %1$s °F</item>
+        <item quantity="one">Najvišja temperatura: %1$s °F</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">Najnižja temperatura: %1$s °C</item>
+        <item quantity="one">Najnižja temperatura: %1$s °C</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">Najnižja temperatura: %1$s °F</item>
+        <item quantity="one">Najnižja temperatura: %1$s °F</item>
+    </plurals>
+	<plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">%1$s-dnevna napoved</item>
+        <item quantity="one">%1$s-dnevna napoved</item>
+    </plurals>
+</resources>

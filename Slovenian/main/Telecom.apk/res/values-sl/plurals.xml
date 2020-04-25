@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="notification_missedCallTitle_miui">
+         <item quantity="other">Zgrešeni klici</item>
+         <item quantity="one">Zgrešeni klic</item>
+   </plurals>
+   <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Povezanih je %1$d naprav</item>
+        <item quantity="one">Povezana je %1$d naprava</item>
+     </plurals>
+</resources>

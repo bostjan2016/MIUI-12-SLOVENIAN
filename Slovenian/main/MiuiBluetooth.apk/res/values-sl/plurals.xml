@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">Pritisnite in držite gumb na box-u %1$d sek.</item>
+        <item quantity="one">Pritisnite in držite gumb na box-u %1$d sek.</item>
+    </plurals>
+	<plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">Pritisnite in držite katerokoli področje slušalk občutljivo na dotik %1$d sek.</item>
+        <item quantity="one">Pritisnite in držite katerokoli področje slušalk občutljivo na dotik %1$d sekundo</item>
+     </plurals>
+</resources>

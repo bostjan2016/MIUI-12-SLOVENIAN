@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mins_ago">
+        <item quantity="other">pred %1$d min</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">pred %1$d hr</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">pred %1$d d</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred %d min</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">pred %d sati</item>
+        <item quantity="one">pred %d sat</item>
+    </plurals>
+    <plurals name="step_km">
+        <item quantity="other">%d km</item>
+        <item quantity="one">%d km</item>
+    </plurals>
+    <plurals name="steps">
+        <item quantity="other">%d|koraka</item>
+        <item quantity="zero">%d|koraka</item>
+        <item quantity="one">%d|korak</item>
+    </plurals>
+    <plurals name="assistant_day">
+        <item quantity="other">Za %d dana</item>
+        <item quantity="one">Za %d dan</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">Za %d minuta</item>
+        <item quantity="one">Za %d minutu</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">Za %d sati</item>
+        <item quantity="one">Za %d sat</item>
+    </plurals>
+</resources>

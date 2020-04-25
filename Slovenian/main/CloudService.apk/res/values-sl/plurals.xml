@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_items_close">
+         <item quantity="other">%d je izključeno</item>
+         <item quantity="one">%d je izključena</item>
+    </plurals>
+    <plurals name="items_unsynced">
+         <item quantity="other">Predmeti ki čakajo na sinhr.: %d</item>
+         <item quantity="one">Predmet ki čaka na sinhr.: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+         <item quantity="other">%d predmeti čakaju na sinhr.</item>
+         <item quantity="one">%d predmet čaka na sinhr.</item>
+     </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">Stiki: %d</item>
+        <item quantity="one">Stik: %d</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">Sporočil: %d</item>
+        <item quantity="one">Sporočilo: %d</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">Opomnikov: %d</item>
+        <item quantity="one">Opomnik: %d</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">Fotografij: %d</item>
+        <item quantity="one">Fotografija: %d</item>
+    </plurals>
+	<plurals name="dirty_callog_count">
+         <item quantity="other">%d zapisi zgodovine klicev</item>
+         <item quantity="one">%d zapis zgodovine klicev</item>
+     </plurals>
+     <plurals name="dirty_wlan_count">
+         <item quantity="other">%d WiFi omrežja</item>
+         <item quantity="one">%d WiFi omrežje</item>
+     </plurals>
+     <plurals name="dirty_recorder_count">
+         <item quantity="other">%d zapisov</item>
+         <item quantity="one">%d zapis</item>
+     </plurals>
+     <plurals name="dirty_music_count">
+         <item quantity="other">%d pesmi</item>
+         <item quantity="one">%d pesem</item>
+     </plurals>
+     <plurals name="dirty_browser_count">
+         <item quantity="other">%d nastavitve brskalnika</item>
+         <item quantity="one">%d nastavitev brskalnika</item>
+     </plurals>
+     <plurals name="dirty_calendar_count">
+         <item quantity="other">%d nastavitve koledarja</item>
+         <item quantity="one">%d nastavitev koledarja</item>
+     </plurals>
+     <plurals name="dirty_blocklist_count">
+         <item quantity="other">%d vnosov seznama blokiranja</item>
+         <item quantity="one">%d vnos seznama blokiranja</item>
+    </plurals>
+	<plurals name="dirty_personalAssistant_count">
+        <item quantity="other">%d vnosov v zakl. aplikacij</item>
+        <item quantity="one">%d vnos v zakl. aplikacij</item>
+    </plurals>
+	<plurals name="dirty_phrase_count">
+        <item quantity="other">%d pogostih izrazov</item>
+        <item quantity="one">%d pogost izraz</item>
+    </plurals>
+	<plurals name="dirty_secretphoto_count">
+         <item quantity="other">"%d skritih fotografij ni sinhronizirano. Odjavite se ko bodo vse stvari sinhronizirane da jih obdržite; drugače se bodo izbrisale."</item>
+         <item quantity="one">"%d skrita fotografija ni sinhronizirana. Odjavite se ko bodo vse stvari sinhronizirane da jih obdržite; drugače se bodo izbrisale."</item>
+    </plurals>
+	<plurals name="micloud_manual_pause_and_resume">
+         <item quantity="other">Sinhronizacija se nadaljuje čez %d min.</item>
+         <item quantity="one">Sinhronizacija se nadaljuje čez %d min.</item>
+     </plurals>
+     <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">pred %s  min.</item>
+        <item quantity="one">pred %s  min.</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">pred %s ur</item>
+        <item quantity="one">pred %s uro</item>
+     </plurals>
+	<plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s storitev bo sinhonizirano z Mi Cloudom</item>
+        <item quantity="one">%s storitev bo sinhonizirana z Mi Cloudom</item>
+    </plurals>
+	<plurals name="select_no_more_than">
+        <item quantity="other">"Ne morete izbrati več kot %d stvari"</item>
+        <item quantity="one">"Ne morete izbrati več kot %d stvar"</item>
+    </plurals>
+</resources>

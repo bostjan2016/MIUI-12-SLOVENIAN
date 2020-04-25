@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>   
+    <string-array name="pref_content_plugins_choices">
+        <item>Vedno vključeno</item>
+        <item>Vprašaj</item>
+        <item>Izključeno</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Privzeta začetna stran</item>
+        <item>Prilagojeno</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Majčkeno</item>
+        <item>Majhno</item>
+        <item>Normalno</item>
+        <item>Veliko</item>
+        <item>Ogromno</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Nikoli</item>
+        <item>Samo na WiFi</item>
+        <item>Vedno</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Stran naprej/nazaj</item>
+        <item>Zaznamek naprej/nazaj</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Stran naprej/nazaj</item>
+        <item>Zamenjaj zaslone</item>
+    </string-array>    
+    <string-array name="pref_link_prefetch_choices">
+        <item>Nikoli</item>
+        <item>Samo na WiFi</item>
+        <item>Vedno</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Nikoli</item>
+        <item>Samo na WiFi</item>
+        <item>Vedno</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>Nikoli</item>
+        <item>Samo na WiFi</item>
+        <item>Zmeraj</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Majčkeno</item>
+        <item>Majhno</item>
+        <item>Normalno</item>
+        <item>Veliko</item>
+        <item>Ogromno</item>
+    </string-array>
+	<string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Pad</item>
+    </string-array>
+	<string-array name="pref_navscreen_layoutstate_choices">
+	<item>Ploščice</item>
+        <item>Navpični prikaz</item>
+        <item>Vodoravni prikaz</item>
+     </string-array>
+	<string-array name="pre_webapp_text_sizes">
+        <item>Večji</item>
+        <item>Velik</item>
+        <item>Normalen</item>
+        <item>Droben</item>
+    </string-array>
+	<string-array name="shortcut_dialog_title">
+         <item>Sporočilo iz brskalnika</item>
+         <item>Spremljajte OI z Mi</item>
+     </string-array>
+	 <string-array name="pref_fling_gesture_entries">
+         <item>Stran nazaj-naprej</item>
+         <item>Zamenjaj vizitke</item>
+         <item>Nič</item>
+     </string-array>
+     <string-array name="shortcut_dialog_keep">
+        <item>V redu</item>
+        <item>Spremljaj</item>
+     </string-array>
+     <string-array name="shortcut_dialog_delete">
+         <item>Izbriši</item>
+         <item>Ne hvala</item>
+     </string-array>
+	   <string-array name="suggestion_weather_condition_message">
+    <item>Vedro</item>
+    <item>Rahla oblačnost</item>
+    <item>Oblačno</item>
+    <item>Nevihta</item>
+    <item>Vihar</item>
+    <item>Toča</item>
+    <item>Dež s snegom</item>
+    <item>Rosenje</item>
+    <item>Dež</item>
+    <item>Nevihta</item>
+    <item>Dežni vihar</item>
+    <item>Močan naliv</item>
+    <item>Nenadni vihar</item>
+    <item>Gosto sneženje</item>
+    <item>Sneženje</item>
+    <item>Zmerno sneženje</item>
+    <item>Močno sneženje</item>
+    <item>Metež</item>
+    <item>Megla</item>
+    <item>Leden dež</item>
+    <item>Peščeni vihar</item>
+    <item>Rahel do zmeren dež</item>
+    <item>Zmeren do močan dež</item>
+    <item>Zmeren do nenaden dež</item>
+    <item>Nenaden dež ali nevihta</item>
+    <item>Vihar ali ekstremen dež</item>
+    <item>Rahlo do umerjeno sneženje</item>
+    <item>Umerjeno ali močno sneženje</item>
+    <item>Močno sneženje ali metež</item>
+    <item>Prah</item>
+    <item>Pesek</item>
+    <item>Peščeni vihar</item>
+    <item>Gosta megla</item>
+    <item>Gosta megla</item>
+    <item>Meglica</item>
+    <item>Zmerna meglica</item>
+    <item>Gosta meglica</item>
+    <item>Zmerna meglica</item>
+    <item>Gosta megla</item>
+    <item>Gosta megla</item>
+    <item>Nič</item>
+    <item>Dež</item>
+    <item>Sneg</item>
+  </string-array>
+  <string-array name="pref_tab_restore_array">
+        <item>Vprašaj</item>
+        <item>Odpri</item>
+        <item>Ne odpri</item>
+    </string-array>
+	<string-array name="quick_link_tabs">
+       <item>Oznake</item>
+       <item>Zgodovina</item>
+    </string-array>	   
+</resources>

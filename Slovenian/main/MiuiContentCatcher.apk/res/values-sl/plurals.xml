@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="settings_clear_data_confirmation">
+        <item quantity="other">"Če zdaj izbrišete gesla jih boste morali naslednjič ročno vnesti za prijavo.
+Izbrišem gesla za izbrane aplikacije: %1$s?"</item>
+        <item quantity="one">"Če zdaj izbrišete gesla jih boste morali naslednjič ročno vnesti za prijavo.
+Izbrišem geslo za %1$s izbrano aplikacijo?"</item>
+    </plurals>
+</resources>

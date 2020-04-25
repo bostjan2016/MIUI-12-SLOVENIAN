@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="favor_delete_message">
+        <item quantity="other">Izbrišem izbrane stvari: %d?</item>
+        <item quantity="one">Izbrišem izbrano stvar: %d?</item>
+    </plurals>
+    <plurals name="favor_delete_succeed">
+        <item quantity="other">Izbrisano: %d</item>
+        <item quantity="one">Izbrisano: %d</item>
+    </plurals>
+    <plurals name="favor_select_num">
+        <item quantity="other">Izbrano: %d</item>
+        <item quantity="one">Izbrano: %d</item>
+    </plurals>
+    <plurals name="switch_prompt_content">
+         <item quantity="other">"Niste dovolili iskanje za %d predmetov"</item>
+        <item quantity="one">"Niste dovolili iskanja za %d predmet"</item>
+    </plurals>
+</resources> 

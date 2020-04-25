@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d datoteke</item>
+        <item quantity="one">%1$d datoteka</item>
+        <item quantity="few">%1$d datoteke</item>
+    </plurals>
+    <plurals name="send_file_success_detail_files">
+        <item quantity="other">Uspešno poslano %1$s datotek</item>
+        <item quantity="one">Uspešno poslana %1$s datoteka</item>
+        <item quantity="few">Uspešno poslane %1$s datoteke</item>
+    </plurals>
+    <plurals name="send_file_success_detail_images">
+        <item quantity="other">Uspešno poslano %1$s slik</item>
+        <item quantity="one">Uspešno poslano %1$s slika</item>
+        <item quantity="few">Uspešno poslane %1$s slike</item>
+    </plurals>
+    <plurals name="send_files_to_device_files">
+        <item quantity="other">Priprava za pošiljanje %2$d datotek v %1$s…</item>
+        <item quantity="one">Priprava za pošiljanje %2$d datoteke v %1$s…</item>
+        <item quantity="few">Priprava za pošiljanje %2$d datotek v %1$s…</item>
+    </plurals>
+    <plurals name="send_files_to_device_images">
+        <item quantity="other">Priprava za pošiljanje %2$d slik v %1$s…</item>
+        <item quantity="one">Priprava za pošiljanje %2$d slike v %1$s…</item>
+        <item quantity="few">Priprava za pošiljanje %2$d slik v %1$s…</item>
+    </plurals>
+    <plurals name="someone_send_file_to_you_files">
+        <item quantity="other">%1$s pošilja %2$d datotek za vas…</item>
+        <item quantity="one">%1$s pošilja %2$d datoteko za vas…</item>
+        <item quantity="few">%1$s pošilja %2$d datoteke za vas…</item>
+    </plurals>
+    <plurals name="someone_send_file_to_you_images">
+        <item quantity="other">%1$s pošilja %2$d slik…</item>
+        <item quantity="one">%1$s pošilja %2$d sliko…</item>
+        <item quantity="few">%1$s pošilja %2$d slike…</item>
+    </plurals>
+    <plurals name="someone_send_somefile_files">
+        <item quantity="other">%1$s pošilja %2$d datotek…</item>
+        <item quantity="one">%1$s pošilja %2$d datoteko…</item>
+        <item quantity="few">%1$s pošilja %2$d datoteke…</item>
+    </plurals>
+    <plurals name="someone_send_somefile_images">
+        <item quantity="other">%1$s pošilja %2$d fotografij…</item>
+        <item quantity="one">%1$s pošilja %2$d fotografijo…</item>
+        <item quantity="few">%1$s pošilja %2$d fotografije…</item>
+    </plurals>
+    <plurals name="start_receive_files_files">
+        <item quantity="other">Sprejem %2$d datotek iz %1$s…</item>
+        <item quantity="one">Sprejem %2$d datoteke iz %1$s…</item>
+        <item quantity="few">Sprejem %2$d datotek iz %1$s…</item>
+    </plurals>
+    <plurals name="start_receive_files_images">
+        <item quantity="other">Sprejem %2$d slik iz %1$s…</item>
+        <item quantity="one">Sprejem %2$d slike iz %1$s…</item>
+        <item quantity="few">Sprejem %2$d slik iz %1$s…</item>
+    </plurals>
+    <plurals name="start_send_files_to_device_files">
+        <item quantity="other">Pošiljanje %2$d datotek v %1$s…</item>
+        <item quantity="one">Pošiljanje %2$d datoteke v %1$s…</item>
+        <item quantity="few">Pošiljanje %2$d datotek v %1$s…</item>
+    </plurals>
+    <plurals name="start_send_files_to_device_images">
+        <item quantity="other">Pošiljanje %2$d slik v %1$s…</item>
+        <item quantity="one">Pošiljanje %2$d slike v %1$s…</item>
+        <item quantity="few">Pošiljanje %2$d slik v %1$s…</item>
+    </plurals>
+    <plurals name="success_receive_file_files">
+        <item quantity="other">Prejeto %2$d datotek od %1$s. Tapnite za prikaz.</item>
+        <item quantity="one">Prejeta %2$d datoteka od %1$s. Tapnite za prikaz.</item>
+        <item quantity="few">Prejeto %2$d datotek od %1$s. Tapnite za prikaz.</item>
+    </plurals>
+    <plurals name="success_receive_file_images">
+        <item quantity="other">Prejeto %2$d slik od %1$s. Tapnite za prikaz.</item>
+        <item quantity="one">Prejeta %2$d slika od %1$s. Tapnite za prikaz.</item>
+        <item quantity="few">Prejeto %2$d slik od %1$s. Tapnite za prikaz.</item>
+    </plurals>
+</resources>

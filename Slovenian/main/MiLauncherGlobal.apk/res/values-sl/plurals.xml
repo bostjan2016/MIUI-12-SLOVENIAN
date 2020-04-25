@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="announce_for_drag">
+        <item quantity="other">Povlek %1$d stvari</item>
+        <item quantity="one">Povlek %1$d stvari</item>
+        <item quantity="few">Povlek %1$d stvari</item>
+    </plurals>
+    <plurals name="announce_for_unread">
+        <item quantity="other">%2$s ni prebrano od %1$s</item>
+        <item quantity="one">%2$s ni prebrano od %1$s</item>
+        <item quantity="few">%2$s ni prebrano od %1$s</item>
+    </plurals>
+    <plurals name="delete_wallpapers_message">
+        <item quantity="other">Izbrišem (%1$d) slik ozadja?</item>
+        <item quantity="one">Izbrišem %1$d sliko ozadja?</item>
+        <item quantity="few">Izbrišem (%1$d) slik ozadja?</item>
+    </plurals>
+    <plurals name="editing_mode_title">
+        <item quantity="other">Izbrano %1$d stvari</item>
+        <item quantity="one">Izbrana %1$d stvar</item>
+        <item quantity="few">Izbrano %1$d stvari</item>
+    </plurals>
+    <plurals name="scroll_tip_format_when_announce_accessibility">
+        <item quantity="other">Strani%1$d, %2$d aplikacij.</item>
+        <item quantity="one">Strani%1$d, %2$d aplikacija.</item>
+        <item quantity="few">Strani%1$d, %2$d aplikacij.</item>
+    </plurals>
+    <plurals name="uninstall_dialog_title_multi_format">
+        <item quantity="other">Odstranim aplikacije %1$d?</item>
+        <item quantity="one">Odstranim %1$d aplikacijo?</item>
+        <item quantity="few">Odstranim aplikacije %1$d?</item>
+    </plurals>
+    <plurals name="uninstall_result_multi_failed">
+        <item quantity="other">Ne morem odstraniti %1$d aplikacij</item>
+        <item quantity="one">Ne morem odstraniti %1$d aplikacijo</item>
+        <item quantity="few">Ne morem odstraniti %1$d aplikacij</item>
+    </plurals>
+    <plurals name="uninstall_result_multi_succeeded">
+        <item quantity="other">Odstranjeno %1$d aplikacij</item>
+        <item quantity="one">Odstranjena %1$d aplikacija</item>
+        <item quantity="few">Odstranjeno %1$d aplikacij</item>
+    </plurals>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="select_items">
+         <item quantity="other">Izbrano %1$d</item>
+         <item quantity="one">Izbrano %1$d</item>
+     </plurals>
+     <plurals name="app_list_total">
+         <item quantity="other">Aplikacij: %d</item>
+         <item quantity="one">%d aplikacija</item>
+     </plurals>
+ <plurals name="power_config_ultimate_on_count">
+      <item quantity="other">Še %1$d korakov do vključitve Ultimativnega načina</item>
+      <item quantity="one">%1$d korak do vključitve Ultimativnega načina</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+       <item quantity="other">Še %1$d korakov do izključitve Ultimativnega načina</item>
+       <item quantity="one">%1$d korak do izključitve Ultimativnega načina</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">Naredite še %1$d korakov za odklepanje vseh opravil</item>
+        <item quantity="one">Naredite še %1$d korak za odklep vseh opravil</item>
+    </plurals>
+	<plurals name="search_app_count_txt_na">
+        <item quantity="other">Išči aplikacije: %d</item>
+        <item quantity="one">Išči %d aplikacijo</item>
+    </plurals>
+</resources>

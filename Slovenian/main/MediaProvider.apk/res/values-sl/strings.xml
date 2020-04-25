@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add_alarm_text">Dodaj alarm</string>
+  <string name="add_notification_text">Dodaj obvestilo</string>
+  <string name="add_ringtone_text">Dodaj melodijo zvonenja</string>
+  <string name="alarm_sound_default">Privzeti zvok alarma</string>
+  <string name="app_label">Prostor za shranjevanje</string>
+  <string name="artist_label">Izvajalec</string>
+  <string name="delete_ringtone_text">Izbriši</string>
+  <string name="grant_dialog_button_allow">Dovoli</string>
+  <string name="grant_dialog_button_deny">Zavrni</string>
+  <string name="notification_sound_default">Privzeti zvok obvestila</string>
+  <string name="permission_audio">Želite dovoliti aplikaciji <b>^1</b> da zamenja ali izbriše to glasbo?</string>
+  <string name="permission_images">Želite dovoliti aplikaciji <b>^1</b> da zamenja ali izbriše to sliko?</string>
+  <string name="permission_required">Za menjavo ali brisanje te stvari je potrebno dovoljenje.</string>
+  <string name="permission_required_action">Nadaljuj</string>
+  <string name="permission_video">Želite dovoliti aplikaciji <b>^1</b> da zamenja ali izbriše ta videoposnetek?</string>
+  <string name="ringtone_default">Privzeti melodija zvonjenja</string>
+  <string name="root_audio">Zvok</string>
+  <string name="root_images">Slike</string>
+  <string name="root_videos">Videoposnetki</string>
+  <string name="sound_name_awaken">Bujenje</string>
+  <string name="sound_name_bounce">Odskakovanje</string>
+  <string name="sound_name_drip">Kapljanje</string>
+  <string name="sound_name_gallop">Galop</string>
+  <string name="sound_name_nudge">Porivanje</string>
+  <string name="sound_name_orbit">Orbita</string>
+  <string name="sound_name_rise">Dvigovanje</string>
+  <string name="sound_name_sway">Zibanje</string>
+  <string name="sound_name_wag">Mahanje</string>
+  <string name="storage_description">Lokalna shramba</string>
+  <string name="uid_label">Medij</string>
+  <string name="unable_to_add_ringtone">Dodajanje prilagojene melodije zvonenja ni mogoče</string>
+  <string name="unable_to_delete_ringtone">Brisanje prilagojene melodije zvonenja ni mogoče</string>
+  <string name="upgrade_msg">Nadgradnja baze podatkov medija.</string>
+</resources>

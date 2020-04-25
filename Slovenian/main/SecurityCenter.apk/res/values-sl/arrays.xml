@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="date_of_traffic_cmcc">
+         <item>"Ta teden "</item>
+         <item>"Danes "</item>
+         <item>"Ta mesec "</item>
+     </string-array>
+	   <string-array name="date_of_traffic">
+       <item>"Včeraj "</item>
+       <item>"Danes "</item>
+       <item>"Zadnji mesec "</item>
+        <item>"Ta mesec "</item> 
+     </string-array>
+     <string-array name="date_of_traffic_prefix_cmcc">
+         <item>"Ta teden: "</item>
+         <item>"Danes: "</item>
+         <item>"Ta mesec: "</item>
+     </string-array>
+	  <string-array name="date_of_traffic_prefix">
+        <item>"Včeraj "</item>
+       <item>"Danes "</item>
+       <item>"Zadnji mesec "</item>
+       <item>"Ta mesec "</item>
+     </string-array>
+     <string-array name="date_of_app_all">
+         <item>"Včeraj (Mobilni podatki) "</item>
+         <item>"Danes (Mobilni podatki) "</item>
+	     <item>"Zadnji mesec (Mobilni podatki) "</item>
+         <item>"Ta mesec (Mobilni podatki) "</item>
+         <item>"Včeraj (WiFi) "</item>
+         <item>"Danes (WiFi) "</item>
+	     <item>"Zadnji mesec (WiFi) "</item>
+         <item>"Ta mesec (WiFi) "</item>
+     </string-array>
+     <string-array name="date_of_app">
+         <item>Včeraj (podatki)</item>
+         <item>Danes (podatki)</item>
+         <item>Ta mesec (podatki)</item>
+     </string-array>
+	 <string-array name="network_speed_update_internals">
+        <item>3 sek.</item>
+        <item>4 sek.</item>
+        <item>5 sek.</item>
+        <item>6 sek.</item>
+        <item>7 sek.</item>
+        <item>8 sek.</item>
+        <item>9 sek.</item>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"Mobilni podatki "</item>
+        <item>"WiFi uporaba "</item>
+     </string-array>
+     <string-array name="mi_service_traffic_type">
+        <item>"Mobilni podatki "</item>
+        <item>"WiFi uporaba "</item>
+     </string-array>
+     <string-array name="traffic_sort_type">
+        <item>"Mobilni podatki "</item>
+        <item>"WiFi uporaba "</item>
+     </string-array>
+     <string-array name="traffic_setting_sms_template">
+        <item>Nabavite samodejno</item>
+        <item>Nastavite ročno</item>
+     </string-array>
+     <string-array name="over_limit_traffic_waring_style">
+        <item>Pokaži opozorilo</item>
+        <item>Opozori in izključi mobilne podatke</item>
+     </string-array>
+     <string-array name="roaming_apps_sorted_type">
+         <item>Največ uporabljenp</item>
+         <item>Ime</item>
+     </string-array>
+     <string-array name="traffic_saving_compress_level_string_array">
+        <item>Nič</item>
+        <item>Nizka</item>
+        <item>Srednja</item>
+        <item>Visoka</item>
+     </string-array>
+    <string-array name="roaming_network_type">
+        <item>Zmeraj</item>
+        <item>Samo za izjeme</item>
+        <item>Nikoli</item>
+    </string-array>
+    <string-array name="lock_mode">
+         <item>Zakleni ko je naprava zaklenjena</item>
+         <item>Zakleni po izhodu iz aplikacije</item>
+         <item>Zakleni čez 1 min. po izhodu iz aplikacije</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Čez 1 minuto</item>
+        <item>Čez 5 minut</item>
+        <item>Čez 10 minut</item>
+	<item>Čez 30 minut</item>
+        <item>Nikoli</item>
+     </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Enkrat</item>
+        <item>Vsakodnevno</item>
+        <item>Ob delavnikh</item>
+        <item>Vikend</item>
+        <item>Po meri</item>
+     </string-array>	     
+<string-array name="alarm_repeat_type_no_workdays">
+        <item>Enkrat</item>
+        <item>Vsak dan</item>
+        <item>Vikend</item>
+        <item>Po meri</item>
+     </string-array>
+	 <string-array name="long_add_menu">
+         <item>Dodaj v izjeme</item>
+    </string-array>
+	 <string-array name="sms_report_type">
+         <item>Uporaba podatkov</item>
+         <item>Stanje računa</item>
+	 </string-array> 
+	     <string-array name="title_app_info">
+        <item>Vir namestitve</item>
+        <item>Čas namestitve</item>
+        <item>Vir zadnje posodobitve</item>
+        <item>Čas zadnje posodobitve</item>
+     </string-array>
+	 <string-array name="tether_limit_warn_type">
+         <item>Izključi in obvesti</item>
+         <item>Samo obvesti</item>
+     </string-array>
+	    <string-array name="sort_title">
+        <item>Razvrsti po statusu</item>
+        <item>Razvrsti po imenu aplikacije</item>
+        <item>Razvrsti po pogostosti uporabe</item>
+        <item>Razvrsti po izkor. pros. za shranjevanje</item>
+        <item>Razvrsti po času namestitve</item>
+     </string-array>
+     <string-array name="sort_type">
+        <item>Status</item>
+        <item>Ime aplikacije</item>
+        <item>Pogostost uporabe</item>
+        <item>Izkoriščeni prostor za shranjevanje</item>
+        <item>Čas namestitve</item>
+     </string-array>
+	 <string-array name="traffic_package_type">
+        <item>Mesečni plan podatkov</item>
+        <item>Dnevni plan podatkov</item>
+        <item>Neomejeni plan podatkov</item>
+    </string-array>
+	<string-array name="pc_settings_thermal_entries">
+        <item>Privzeto</item>
+        <item>Prednost ima zmogljivost</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Uporaba privzetega načina kontrole temperature</item>
+        <item>Prednost zmogljivosti</item>
+    </string-array>
+	<string-array name="ew_emergency_blood_type_arrays">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Da</item>
+        <item>Ne</item>
+    </string-array>
+	 <string-array name="applock_password_types">
+        <item>Vzorec</item>
+        <item>PIN</item>
+        <item>Geslo</item>
+    </string-array>
+	<string-array name="app_behavior_type_menu">
+        <item>Vsi zapisi</item>
+        <item>Samod. zagon</item>
+        <item>Verižni zagon</item>
+        <item>Uporaba dovoljenj</item>
+        <item>Občutljiva opravila</item>
+    </string-array>
+</resources>

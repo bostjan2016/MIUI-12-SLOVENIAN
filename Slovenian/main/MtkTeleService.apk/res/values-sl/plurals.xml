@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefon bo v stanju nujnega povratnega klica %s minut. V tem načinu ne morete uporabljati aplikacij ki potrebujejo podatkovno povezavo. Želite zapreti ta način?</item>
+        <item quantity="one">Telefon bo v stanju nujnega povratnega klica %s minuto. V tem načinu ne morete uporabljati aplikacij ki potrebujejo podatkovno povezavo. Želite zapreti ta način?</item>
+        <item quantity="few">Telefon bo v stanju nujnega povratnega klica %s minut. V tem načinu ne morete uporabljati aplikacij ki potrebujejo podatkovno povezavo. Želite zapreti ta način?</item>
+     </plurals>
+     <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Izbrano opravilo ni na voljo v načinu nujnega povratnega klica. Telefon bo v tem načinu %s minut. Želite zapreti ta način?</item>
+        <item quantity="one">Izbrano opravilo ni na voljo v načinu nujnega povratnega klica. Telefon bo v tem načinu  %s minuto. Želite zapreti ta način?</item>
+        <item quantity="few">Izbrano opravilo ni na voljo v načinu nujnega povratnega klica. Telefon bo v tem načinu %s minut. Želite zapreti ta način?</item>
+     </plurals>
+    <plurals name="auto_answer_summary_delay">
+         <item quantity="other">odloži: %d sek.</item>
+         <item quantity="one">odloži: %d sek.</item>
+    </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+         <item quantity="other">Lahko dodate do %s oseb, izberite ponovno.</item>
+         <item quantity="one">Lahko dodate %s osebo, izberite ponovno.</item>
+    </plurals>
+	<plurals name="call_record_auto_whitelist_summary">
+         <item quantity="other">%d številk</item>
+         <item quantity="one">%d številka</item>
+     </plurals>
+     <plurals name="call_remove_exception_numbers_confirm">
+         <item quantity="other">%d številk bo izbrisano.</item>
+         <item quantity="one">%d številka bo izbrisana.</item>
+     </plurals>
+     <plurals name="pin_attempts">
+         <item quantity="other">"
+ Ostalo vam je še %d poskusov."</item>
+         <item quantity="one">"
+ Ostal vam je še %d poskus."</item>
+     </plurals>
+	 <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Povezano je %1$d naprav</item>
+        <item quantity="one">Povezana je %1$d naprava</item>
+    </plurals>
+</resources>

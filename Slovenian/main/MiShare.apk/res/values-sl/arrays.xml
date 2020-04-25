@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Za dostop in shranjevanje slik, aplikacij in drugih datotek in njihov prenos</item>
+        <item>Za prenos datotek preko Bluetootha in WiFi-ja</item>
+    </string-array>
+</resources>

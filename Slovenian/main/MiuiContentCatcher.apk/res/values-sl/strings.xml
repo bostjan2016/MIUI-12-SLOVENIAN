@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Application Extension Service</string>
+  <string name="auth_activity_label">Kontrolne kode</string>
+  <string name="auth_fingerprint_content">Potrdite svoj prstni odtis da boste dostopili do shranjenih gesel</string>
+  <string name="auth_fingerprint_content_message">"Ne morem potrditi prstnega odtisa, poskusite ponovno"</string>
+  <string name="auth_fingerprint_content_message_error">"Ne morem skenirati prstnega odtisa, poskusite ponovno"</string>
+  <string name="auth_fingerprint_title">Potrdite svoj prstni odtis</string>
+  <string name="autofill_description">"MIUI lahko šifrira in shrani vaša gesla tako da jih lahko kadarkoli samodejno vnesete. Xiaomi ne more brati vaših šifriranih gesel."</string>
+  <string name="autofill_hint_email_address">E-pošta</string>
+  <string name="autofill_hint_name">Ime</string>
+  <string name="autofill_hint_password">Geslo</string>
+  <string name="autofill_hint_phone">Številka telefona</string>
+  <string name="autofill_hint_username">Uporabniško ime</string>
+  <string name="autofill_item_activity_label">Gesla aplikacij</string>
+  <string name="autofill_list_activity_label">Gesla aplikacij</string>
+  <string name="autofill_list_title">Urejanje gesel</string>
+  <string name="autofill_password">Vnesi gesla samodejno</string>
+  <string name="autofill_password_activity_label">Kontrolne kode</string>
+  <string name="autofill_service_label">Urejanje gesel</string>
+  <string name="autofill_setting_activity_label">Urejanje gesel</string>
+  <string name="cancel">Prekliči</string>
+  <string name="change_passwork_dialog_content">"Že ste shranili geslo za ta račun. Posodobim geslo?"</string>
+  <string name="change_passwork_dialog_title">Posodobim gesla?</string>
+  <string name="delete">Izbriši</string>
+  <string name="invalid_package_signature">Podpis aplikacije ni veljaven</string>
+  <string name="ok">V redu</string>
+  <string name="save_content_tip">"Shranjene bodo naslednje stvari: "</string>
+  <string name="search">Išči</string>
+  <string name="settings_clear_data_confirmation_description">"Če zdaj izbrišete gesla jih boste morali ročno vnesti naslednjič ko se prijavite.
+Izbrišem geslo?"</string>
+  <string name="settings_clear_data_confirmation_title">Brisanje gesel</string>
+  <string name="using_miui_autofill_message">Za samodejni vnos gesla bo MIUI shranil podatke o računu in geslu v vašo napravo.</string>
+</resources>

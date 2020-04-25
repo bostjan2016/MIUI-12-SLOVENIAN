@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="actionbar_button_up_description">Nazaj</string>  
+  <string name="casting_tips">Predvajanje…</string>
+  <string name="console_guide_btn_got_it">Razumem</string>
+  <string name="console_guide_subtitle_hang_up">"Ne prekinjajte predvajanja ko se zaslon telefona izključi. Lahko povzroči večjo porabo energije."</string>
+  <string name="console_guide_subtitle_private">"Ne predvajaj lebdečih obvestil, obvestil o dohodnih klicih in druge stvari ki lahko vsebujejo osebne podatke"</string>
+  <string name="console_guide_subtitle_small_window">Zmanjšaj predvajalno okno da boste lahko uporabljali druge storitve telefona med predvajanjem</string>
+  <string name="dialog_can_not_find_device">"Ne morem najti naprav v bližini"</string>
+  <string name="dialog_cancle">Prekliči</string>
+  <string name="dialog_connect_fail">"Povezovanje ni uspelo"</string>
+  <string name="dialog_connect_retry">Tapnite za ponovni poskus</string>
+  <string name="dialog_connect_verify_perssion">Najprej avtorizirajte predvajanje na televizorju</string>
+  <string name="dialog_connect_verify_perssion_fail">"Ne morem avtorizirati predvajanje na vašem televizorju. Počakajte minuto ali dve in poskusite ponovno."</string>
+  <string name="dialog_connected">Povezano</string>
+  <string name="dialog_connecting">Povezovanje…</string>
+  <string name="dialog_ok">V redu</string>
+  <string name="dialog_only_suport_content">Streamajte fotografije, videoposnetke ali glasbo</string>
+  <string name="dialog_open_wifi_bt">Vključi</string>
+  <string name="dialog_please_make_sure_tv_ok_or_help">"Preverite ali ima ciljna naprava omogočeno brezžično predvajanje zaslona.
+Za dodatna vprašanja poglejte Pomoč."</string>
+  <string name="dialog_recent_connected">Nedavno</string>
+  <string name="dialog_retry">Poskusi ponovno</string>
+  <string name="dialog_scanning_device">Iskanje naprav v bližini…</string>
+  <string name="dialog_scanning_precondition">Vključite WiFi in Bluetooth na svojemm telefonu za uporabo brezžičnega zaslona.</string>
+  <string name="dialog_select_tv">Izberite napravo (%d)</string>
+  <string name="dialog_show_help">Pomoč</string>
+  <string name="disconnect">Ustavi predvajanje</string>
+  <string name="hang_up">Predvajaj ko je ekran izključen</string>
+  <string name="hang_up_alert_dialog_content">"Predvajanje se ne bo prekinilo ko se zaslon vašega telefona izključi. Pritisnite tipko za vklop na telefonu da boste ponovno vključili zaslon."</string>
+  <string name="hang_up_alert_dialog_neg">Prekliči</string>
+  <string name="hang_up_alert_dialog_pos">V redu</string>
+  <string name="hang_up_alert_dialog_title">O predvajanju ko je zaslon izključen</string>
+  <string name="help_page_text_01">Pomoč</string>
+  <string name="help_page_text_02">Kaj je predvajanje?</string>
+  <string name="help_page_text_03">"Predvajanje projecira stvari iz zaslona vašega telefona na večji zunanji monitor. Omogoča vam deljenje slik in videoposnetkov z prijatelji in družino, pa tudi da skupaj igrate igre. Poraba energije vašega telefona se pri uporabi ponavadi ne spremeni."</string>
+  <string name="help_page_text_04">Kako lahko predvajam stvari na večji zaslon?</string>
+  <string name="help_page_text_05">1. korak: Preverite svoje naprave in omrežno okolje</string>
+  <string name="help_page_text_06">"1. Če želite oddati nekaj iz Mi telefona na Mi TV se vam ni treba povezati na splet.
+2. Če ne morete vzpostaviti povezave med obema napravama, poskusite obe povezati v isto omrežje WiFi."</string>
+  <string name="help_page_text_06_global">"1. Mi televizorji, Mi Box in Mi projektorji:
+Za najboljši učinek povežite telefon in zunanji monitor z istim omrežjem WiFi. Če sta povezana v različni omrežji lahko traja nekaj časa da se povežeta.
+
+Opomba: Starejši Mi televizorji morda ne podpirajo predvajanja v različnih omrežjih.
+2. Če uporabljate televizorje, televizijske sprejemnike ali projektorje drugih znamk, povežite telefon in zunanji monitor z istim omrežjem WiFi.
+Če obeh naprav ni mogoče povezati v isto omrežje, vklopite Miracast na zunanjem monitorju. Poimenovanje funkcije Miracast se lahko razlikuje."</string>
+  <string name="help_page_text_08">Korak 2</string>
+  <string name="help_page_text_09">"Tapnite bližnjico \"Predvajaj\" na vaši mobilni napravi v plošči obvestil. Vključite WiFi in Bluetooth za stabilnejšo povezavo."</string>
+  <string name="help_page_text_10">Če želite predvajati stvari iz Galerije ali Mi Video, lahko uporabite v teh aplikacijah vgrajene storitve za predvajanje.</string>
+  <string name="help_page_text_11">Korak 3</string>
+  <string name="help_page_text_12">Izberite zunanjo napravo s spiska naprav na voljo da boste začeli predvajanje.</string>
+  <string name="help_page_text_13">"Povezovanje z zunanjo napravo ni možno?"</string>
+  <string name="help_page_text_14">"1. Millet TV screencast, nadgradite aplikacijo Wireless Screening na seznamu aplikacij za televizijo na najnovejšo različico. 
+2. Če želite povečati stopnjo uspešnosti povezave, lahko poskusite telefon povezati s televizorjem v istem omrežju WiFi. Vendar nekateri usmerjevalniki morda ne bodo mogli zagotoviti stabilnega povezavnega okolja za zaslon, kar povzroči da ni nobene povezave ali pogoste prekinitve. 
+3. Če uporabljate Mi TV, bi vklop Bluetootha lahko izboljšal povezavo. 
+4. Če ni WiFi omrežij se prepričajte ali naprava (npr.. TV) podpira storitev Miracast. To ime je različno na različnih napravah. Glejte spodnje informacije, če želite izvedeti več o funkciji Miracast na različnih napravah
+."</string>
+  <string name="help_page_text_14_global">"1. Če želite uporabiti Xiaomi napravo, a je ne najdete na spisku naprav poskusite:
+Povežite svoj telefon in zunanji monitor (npr. vaš TV) s z istim WiFi omrežjem ali povežite zunanji monitor z hotspotom telefona. Če ni brezžičnega omrežja ali če se televizor in mobilni telefon ne moreta povezati na isto omrežje, preverite ali so storitve predvajanja v zunanjem monitorju posodobljene, vključite Bluetooth v vašem telefonu in v zunanjem monitorju in vključite Miracast na televizorju.
+2. Če prvič predvajate na Xiaomi napravo morate dokončati preverjanje.
+3. Če uporabljate napravo, ki ni Xiaomi, ali je ne najdete na spisku naprav poskusite:
+Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem ali povežite zunanji monitor z hotspotom telefona."</string>
+  <string name="help_page_text_15">Miracast funkcionalnost na različnih napravah</string>
+  <string name="help_page_text_16">Mi TV/Mi Projektor</string>
+  <string name="help_page_text_17">"Xiaomi mobilni telefon se lahko neposredno poveže z večino Xiaomi TV s funkcijo Bluetooth, namesto da ročno odpre storitev Miracast.
+Če morate ročno odpreti storitev Miracast, pritisnite gumb [Meni] na TV daljincu za izbiro TV ekrana. Aplikacije &gt; Brezžično deljenje &gt; Millet / Android Miracast."</string>
+  <string name="help_page_text_17_1">Xiaomi pomoč uporabnikom: 400-100-5678</string>
+  <string name="help_page_text_18">Samsung TV</string>
+  <string name="help_page_text_19">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko pritisnete tipko [SOURCE] na daljincu in potem izberite \"Screen Mirroring\". To je standardno vključeno na različnih modelih.</string>
+  <string name="help_page_text_20">Samsung pomoč uporabnikom: 400-810-5858</string>
+  <string name="help_page_text_21">LG TV</string>
+  <string name="help_page_text_22">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. To je standardno vključeno na različnih modelih.</string>
+  <string name="help_page_text_23">LG pomoč uporabnikom: 400-819-9999</string>
+  <string name="help_page_text_24">Philips TV</string>
+  <string name="help_page_text_25">Najprej preverite ali vaša naprava podpiraj Miracast funkcionalnost. To je standardno vključeno na različnih modelih.</string>
+  <string name="help_page_text_26">Philips pomoč uporabnikom: 400-880-0008</string>
+  <string name="help_page_text_27">TPV</string>
+  <string name="help_page_text_28">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko pritisnete tipko [MENU] na daljincu in potem izberite Nastavitve &gt; Povezava &gt; Omrežje &gt; Več zaslonov.</string>
+  <string name="help_page_text_29">TPV pomoč uporabnikom: 400-887-8007</string>
+  <string name="help_page_text_30">Hisense</string>
+  <string name="help_page_text_31">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko pritisnete tipko [SMART] na daljincu in potem izberite Predvajanje &gt; Brezžični zaslon. Pri nekaterih modelih Hi Screen &gt; Game Screening &gt; Android.</string>
+  <string name="help_page_text_32">Hisense pomoč uporabnikom: 400-611-1111</string>
+  <string name="help_page_text_33">Skyworth</string>
+  <string name="help_page_text_34">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko izberete Aplikacije &gt; Predvajanje &gt; Android naprava &gt; Miracast.</string>
+  <string name="help_page_text_35">Skyworth pomoč uporabnikom: 95105555</string>
+  <string name="help_page_text_36">Sony</string>
+  <string name="help_page_text_37">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko pritisnete tipko [SOURCE] na daljincu in potem izberite \"Screen Mirroring\";pri nekateri modelih lahko vključite v Omrežje &gt; WIFIDirekt; To je standardno vključeno na različnih modelih.</string>
+  <string name="help_page_text_38">Sony pomoč uporabnikom: 400-810-9000</string>
+  <string name="help_page_text_39">Panasonic</string>
+  <string name="help_page_text_40">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko izberete Aplikacije &gt; Screen Mirroring.</string>
+  <string name="help_page_text_41">Panasonic pomoč uporabnikom: 400-881-1315</string>
+  <string name="help_page_text_42">Changhong</string>
+  <string name="help_page_text_43">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko izberete Sistem &gt; Sistemska orodja &gt; Več zaslonov &gt; Screen Mirroring.</string>
+  <string name="help_page_text_44">Changhong pomoč uporabnikom: 400-811-1666</string>
+  <string name="help_page_text_45">TCL</string>
+  <string name="help_page_text_46">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko izberete Aplikacije &gt; Brezžični zaslon.</string>
+  <string name="help_page_text_47">TCL pomoč uporabnikom: 400-812-3456</string>
+  <string name="help_page_text_48">AODIN</string>
+  <string name="help_page_text_49">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Za vklop te storitve pojdite na Moje aplikacije &gt; WiFi zaslon.</string>
+  <string name="help_page_text_50">AODIN pomoč uporabnikom:400-810-5858</string>
+  <string name="help_page_text_51">LeTV</string>
+  <string name="help_page_text_52">Preverite ali model večjega zaslona podpira Miracast protokol. Na nekaterih modelih izberite Nastavitve &gt; Omrežje &gt; Multi-zaslon &gt; Brezžični zaslon.</string>
+  <string name="help_page_text_53">LeTV pomoč uporabnikom: 10109000</string>
+   <string name="help_page_text_55">"Če ni WiFi-ja na voljo preverite če zunanji zaslon (npr. TV) podpira storitev Miracast. Ime te storitve je različno na različnih napravah. Če želite izvedeti več glejte spodnje podatke o Miracastu na različnih napravah.
+4. V primeru drugih težav uporabite aplikacijo Povratne informacije."</string>
+  <string name="help_page_text_55_global">"Če se ne morete povezati na omrežje preverite ali vaš zunanji monitor podpira Miracast storitev in ali je vključena. Pri različnih modelih se to lahko imenuje brezžični zaslon, predvajanje zaslona ali večkratni zaslon.</string> 
+  <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
+  <string name="notification_rc_desc">Najboljši TV pomočnik za prenos vaših videov, fotografij in aplikacij v XiaoMi Box (ali TV) za vaš mobilni telefon, poskusite zdaj!</string>
+  <string name="notification_rc_title">XiaoMi TV pomočnik</string>
+  <string name="notification_show_more">Poglejte dodatne storitve</string>
+  <string name="privacy_agree">同意</string>
+  <string name="privacy_text_1">　　Vabljeni k uporabi storitve screencast. Storitev predvajanja zaslonov ponuja Milian, nekatere storitve predvajanja zaslona pa podpirajo televizijski ekrani drugih proizvajalcev. Če želite zagotoviti svojo zasebnost, ne pozabite prebrati&lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
+  <string name="privacy_text_2">　　S klikom Strinjam se strinjate z navedeno&lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;vsebino in dodeljenim privilegijem.</string>
+  <string name="privacy_text_pemission">"　　• Omrežna dovoljenja WIFI se uporabljajo za odkrivanje in povezovanje naprav.
+　　•Bluetooth se uporablja za odkrivanje in povezovanje naprav.
+　　•Branje pomnilnika telefona. Po branju vsebine vsebino predvajajte v napravo z velikim zaslonom.
+　　•Pridobite podatke o telefonu. Preberite IMEI, Android_id, verzijo in posnetke poročil v telefonu.
+　　•Po branju zvoka oddajte zvok napravi z velikim zaslonom.
+　　•Dovoljenja ciljanja. Poiščite in odkrivajte okoliške naprave."</string>
+  <string name="private_protect">Varujte zasebnost</string>
+  <string name="san_wait_msg_1">Ciljna naprava mora vključiti brezžično predvajanje</string>
+  <string name="san_wait_msg_2">Iskanje naprav lahko traja nekaj časa…</string>
+  <string name="san_wait_msg_3">"Zunanje naprave lažje najdete če so povezane na isto omrežje kot vaš telefon"</string>
+  <string name="san_wait_msg_4">"Poglejte \"Pomoč\" če ne najdete naprav"</string>
+  <string name="service_name">UniPlay storitev</string>
+  <string name="small_window">Minimiziraj okno</string>
+  <string name="status_bar_in_casting">Predvajanje</string>
+  <string name="status_bar_in_casting_long">Kliknite za razširitev dodatnih storitev</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="tile_label">Predvajanje</string>
+  <string name="toast_guide_show_more">Izvedite več</string>
+  <string name="toast_guide_title">Raziščite nove storitve</string>
+  <string name="toast_msg_for_multi_window">Ta storitev ni na voljo v načinu z deljenim zaslonom</string>
+  <string name="toast_msg_for_small_window">Po odprtju aplikacije ki jo želite predvajati uporabite storitev projekcije malega okna, prikazana aplikacija se ne bo prekinila, mobilni telefon lahko dela z drugimi aplikacijami.</string>
+  <string name="toast_title_for_small_window">Uporabite malo okno za predvajanje zaslona v aplikaciji.</string>
+</resources>

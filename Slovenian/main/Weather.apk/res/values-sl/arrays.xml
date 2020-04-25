@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+     <item>Ljubljana</item>
+        <item>Maribor</item>
+        <item>Celje</item>
+        <item>Kranj</item>
+        <item>Koper</item>
+        <item>Novo Mesto</item>
+        <item>Ptuj</item>
+        <item>Zagorje ob Savi</item>
+        <item>Kamnik</item>
+        <item>Jesenice</item>
+        <item>Nova Gorica</item>
+        <item>Domzale</item>
+        <item>Skofja Loka</item>
+        <item>Murska Sobota</item>
+        <item>Izola</item>
+        <item>Postojna</item>
+        <item>Logatec</item>
+        <item>Kocevje</item>
+        <item>Vrhnika</item>
+        <item>Slovenj Gradec</item>
+    </string-array>
+	<string-array name="aqi_detail_title">
+         <item>Dobro</item>
+         <item>Zmerno</item>
+         <item>Nezdravo za občutljive</item>
+         <item>Nezdravo</item>
+         <item>Zelo nezdravo</item>
+         <item>Tvegano</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Jasno</item>
+        <item>Oblačno</item>
+        <item>Oblačno</item>
+        <item>Megleno</item>
+        <item>Močan dež</item>
+        <item>Ploha</item>
+        <item>Ploha</item>
+        <item>Nevihta</item>
+        <item>Dež</item>
+        <item>Močan dež</item>
+        <item>Zmeren dež</item>
+        <item>Rahel dež</item>
+        <item>Moker sneg</item>
+        <item>Snežni vihar</item>
+        <item>Sneg</item>
+        <item>Gost sneg</item>
+        <item>Zmeren sneg</item>
+        <item>Rahlo sneženje</item>
+        <item>Hud peščeni vihar</item>
+        <item>Peščeni vihar</item>
+        <item>Pesek</item>
+        <item>Veter</item>
+        <item>Toča</item>
+        <item>Prah</item>
+        <item>Meglica</item>
+        <item>Zmrznjen dež</item>
+	<item></item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Slab</item>
+        <item>Srednji</item>
+        <item>Močan</item>
+    </string-array>
+	<string-array name="indices_sport">
+        <item>Ugodno</item>
+        <item>Neugodno</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Ugodno</item>
+        <item>Neugodno</item>
+    </string-array>
+    <string-array name="wind_direction">
+         <item>Sever</item>
+        <item>Severovzhod</item>
+        <item>Vzhod</item>
+        <item>Jugovzhod</item>
+        <item>Jug</item>
+        <item>Jugozahod</item>
+        <item>Zahod</item>
+        <item>Severozahod</item>
+    </string-array>	 
+    <string-array name="wind_direction_simple">
+       <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>JV</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
+	</string-array>	
+	<string-array name="wind_unit_simple">
+        <item>Beaufortova lestvica</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Sila 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Beaufortova lestvica</item>
+        <item>Kilometrov na uro (km/h)</item>
+        <item>Metrov na sekundo (m/s))</item>
+        <item>Milj na uro (mph)</item>
+        <item>Vozlov (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>Sila %1$s</item>
+        <item>%1$skm/h</item>
+        <item>%1$sm/s</item>
+        <item>%1$smph</item>
+        <item>%1$skn</item>
+		</string-array>
+	<string-array name="minute_rain_array">
+         <item>Močno</item>
+         <item>Zmerno</item>
+         <item>Lahko</item>
+     </string-array>
+	 <string-array name="pollution_level_desc_arr">
+         <item>Izvrstno</item>
+         <item>Dobro</item>
+         <item>Malo onesnaženo</item>
+         <item>Zmerno onesnaženo</item>
+         <item>Močno onesnaženo</item>
+         <item>Kritično onesnaženo</item>
+         <item>Nad indeksom</item>
+     </string-array>
+</resources>

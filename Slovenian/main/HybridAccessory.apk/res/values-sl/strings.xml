@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">HybridAccessory</string>
+   <string name="short_cut_dialog_cancel_button_text">Ne</string>
+   <string name="short_cut_dialog_cotent">Naslednje aplikacije se ne morejo uporabljati brez namestitve. Shranim bližnjice?</string>
+   <string name="short_cut_dialog_create_button_text">Da</string>
+   <string name="short_cut_dialog_not_tip_check_box">"Opomni spet čez 2 tedna"</string>
+   <string name="short_cut_dialog_title">Napravi bližnjico</string>
+</resources>

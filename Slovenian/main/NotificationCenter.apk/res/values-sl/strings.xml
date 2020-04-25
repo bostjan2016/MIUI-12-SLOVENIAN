@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Obvestila</string>
+  <string name="default_list_type">Razporedi po času prejema</string>
+  <string name="disable_float_notification">"Plavajoča obvestila niso dovoljena"</string>
+  <string name="disable_lockscreen_notification">"Obvestila zakl. zaslona niso dovoljena"</string>
+  <string name="disable_show_badge_notification">"Značke obvestil niso dovoljene"</string>
+  <string name="enable_float_notification">Plavajoča obvestila so dovoljena</string>
+  <string name="enable_lockscreen_notification">Obvestila zakl. zaslona so dovoljena</string>
+  <string name="enable_show_badge_notification">Značke so dovoljene</string>
+  <string name="expand_top_notification">Razširi zgornje obvestilo</string>
+  <string name="expandable_under_keyguard">Odpri ploščo obvestil na zakl. zaslonu</string>
+  <string name="float_notifications">Plavajoča obvestila</string>
+  <string name="hint_search_all">Iskanje aplikacij</string>
+  <string name="hint_search_in_disabled_apps">"Išči aplikacije ki ne morejo prikazati obvestil"</string>
+  <string name="hint_search_in_enabled_apps">Išči aplikacije ki lahko prikažejo obvestila</string>
+  <string name="last_sent_time_second">Prav zdaj</string>
+  <string name="list_title_disable_notification">"Obvestila niso dovoljena"</string>
+  <string name="loading">Samo trenutek…</string>
+  <string name="lock_screen_display_rules">Format</string>
+  <string name="lock_screen_tip_toast">Dovolite obvestila zakl. zaslona v \"Format\"</string>
+  <string name="lockscreen_notifications">Obvestila zakl. zaslona</string>
+  <string name="not_sent_recently">Nedavno</string>
+  <string name="notch_and_status_bar_setting">Zob &amp; vrstica obvestil</string>
+  <string name="notification_display_setting">Plošča obvestil</string>
+  <string name="notification_display_style">Stil obvestil</string>
+  <string name="notification_fold_summary">Vsa nevažna obvestila se bodo pojavila v zasebni mapi</string>
+  <string name="notification_fold_title">Mapa obvestil</string>
+  <string name="notification_manager">Obvestila aplikacij</string>
+  <string name="notification_style_android">Android</string>
+  <string name="notification_style_miui">MIUI</string>
+  <string name="off">Izključi</string>
+  <string name="on">Vključi</string>
+  <string name="settings_guide_title">Potrebujete druge nastavitve??</string>
+  <string name="show_badge_notifications">Značke obvestil</string>
+  <string name="status_bar_setting">Vrstica obvestil</string>
+  <string name="summary_disable_float_notification">"Plavajoča obvestila niso dovoljena"</string>
+  <string name="summary_disable_lockscreen_notification">"Obvestila zakl. zaslona niso dovoljena"</string>
+  <string name="summary_disable_show_badge_notification">"Značke obvestil niso dovoljene"</string>
+  <string name="summary_enable_float_notification">Plavajoča obvestila so dovoljena</string>
+  <string name="summary_enable_lockscreen_notification">Obvestila zakl. zaslona so dovoljena</string>
+  <string name="summary_enable_show_badge_notification">Značke obvestil so dovoljene</string>
+  <string name="summary_float_enable_notification_first">Dovolite obvestila da boste lahko vključili plavajoča obvestila</string>
+  <string name="summary_lock_screen_enable_notification_first">Dovolite obvestila da boste lahko vključili obvestila zakl. zaslona</string>
+  <string name="summary_show_badge_enable_notification_first">Dovolite obvestila da boste lahko vključili značke obvestil</string>
+</resources>

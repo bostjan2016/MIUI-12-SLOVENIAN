@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="doc_photo_adjust_section_title">Povleci za prilagoditev</string>
+  <string name="doc_photo_doc_photo_title">Uredi dokument</string>
+  <string name="doc_photo_enhance_bin">B&amp;W</string>
+  <string name="doc_photo_enhance_color">Izboljšano</string>
+  <string name="doc_photo_enhance_none">Original</string>
+  <string name="doc_photo_idcard_emblem">Nazaj</string>
+  <string name="doc_photo_idcard_mode_title">ID kartica</string>
+  <string name="doc_photo_idcard_portrait">Portret</string>
+  <string name="doc_photo_not_support">"Ne morem urediti te slike kot dokument"</string>
+  <string name="doc_photo_view_effect">Pregled</string>
+  <string name="extra_photo_common_permission_name">Bokeh</string>
+  <string name="extra_photo_common_save_fail">Ne morem shraniti</string>
+  <string name="extra_photo_common_saving">Shranjevanje…</string>
+  <string name="motion_photo_cancel">Pekliči</string>
+  <string name="motion_photo_re_pick_title">Fotografija v živo</string>
+  <string name="motion_photo_save_fail">"Ne morem shraniti"</string>
+  <string name="motion_photo_save_gif">Shrani kot GIF</string>
+  <string name="motion_photo_save_gif_ing">Shranjevanje GIF…</string>
+  <string name="motion_photo_save_image">Shrani najboljšo sliko</string>
+  <string name="motion_photo_save_image_ing">Shranjevanje najboljše slike…</string>
+  <string name="motion_photo_save_video">Shrani kot videoposnetek</string>
+  <string name="motion_photo_save_video_ing">Shranjevanje videoposnetka…</string>
+  <string name="motion_photo_toast_default">Privzeto</string>
+  <string name="motion_photo_toast_long_press_play">Pritisnite in držite fotografijo za predvajanje</string>
+  <string name="motion_photo_toast_suggest">Priporočeno</string>
+  <string name="refocus_discard_confirm_message">Shranim spremembe?</string>
+  <string name="refocus_discard_negative_btn">Zavrzi</string>
+  <string name="refocus_discard_positive_btn">Shrani</string>
+  <string name="refocus_photo_not_support">"Ni možno uporabiti zamegljenost za to fotografijo"</string>
+  <string name="refocus_relighting_toast">Premaknite krog da nastavite kot osvetlitve</string>
+  <string name="refocus_save_cancel">Prekliči</string>
+  <string name="refocus_save_title">Izberite format</string>
+  <string name="refocus_save_to_photo">Shrani kot sliko</string>
+  <string name="refocus_save_to_video">Shrani kot videoposnetek</string>
+  <string name="refocus_saving">Shranjujem</string>
+  <string name="refocus_title">Zamegli</string>
+  <string name="refocus_type_relighting">Studio osvetlitev</string>
+  <string name="refocus_type_relighting_no_face">"Ne najdem obraza"</string>
+  <string name="refocus_type_relighting_small_face">3D osvetlitev deluje na fotografijah kjer obrazi zavzemajo več prostora kot tu.</string>
+  <string name="refocus_type_static">Nivo zameglitve</string>
+  <string name="refocus_type_video">Svetlobne steze</string>
+</resources>

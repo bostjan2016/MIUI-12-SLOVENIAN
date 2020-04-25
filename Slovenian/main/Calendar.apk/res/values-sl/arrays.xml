@@ -1,0 +1,550 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="response_labels2">
+        <item>"Brez odgovora"</item>
+        <item>Sprejmem</item>
+        <item>Odločil se bom kasneje</item>
+        <item>Ne sprejmem</item>
+     </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Samo če je zavrnjeno</item>
+        <item>Če je zavrnjeno ali ni odgovorjeno</item>
+    </string-array>
+    <string-array name="week_header_name">
+         <item>NED</item>
+         <item>PON</item>
+         <item>TOR</item>
+         <item>SRE</item>
+         <item>ČET</item>
+         <item>PET</item>
+         <item>SOB</item>
+     </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>Obvestila</item>
+        <item>E-pošta</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Brez opomnika</item>
+        <item>1 minuta</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>1 ura</item>
+        <item>12 ur</item>
+        <item>1 dan</item>
+        <item>2 dni</item>
+        <item>1 teden</item>
+        <item>2 tedna</item>
+     </string-array>
+        <string-array name="miui_reminder_minutes_labels">
+        <item>0 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 ura</item>
+        <item>12 ur</item>
+        <item>1 dan</item>
+        <item>2 dni</item>
+        <item>1 teden</item>
+        <item>2 tedna</item>
+    </string-array>
+	<string-array name="miui_preferences_default_reminder_labels">
+        <item>Brez opmnika</item>
+        <item>0 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 ura</item>
+        <item>12 ur</item>
+        <item>1 dan</item>
+        <item>2 dni</item>
+        <item>1 teden</item>
+        <item>2 tedna</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Ob dogodku</item>
+        <item>5 minut prej</item>
+        <item>10 minut prej</item>
+        <item>15 minut prej</item>
+        <item>30 minut prej</item>
+        <item>1 ura prej</item>
+        <item>1 dan prej</item>
+        <item>2 dni prej</item>
+        <item>1 teden prej</item>
+    </string-array>
+    <integer-array name="reminder_minutes_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Brez opomnika</item>
+        <item>0 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 ura</item>
+        <item>12 ur</item>
+        <item>1 dan</item>
+        <item>2 dni</item>
+        <item>1 teden</item>
+        <item>2 tedna</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Privzeta oznaka države</item>
+        <item>Sob</item>
+        <item>Ned</item>
+        <item>Pon</item>
+     </string-array>
+     <string-array name="timezone_labels">
+        <item>Marshall Islands</item>
+        <item>Midway Island</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pacific Time</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mountain Time</item>
+        <item>Srednja Amerika</item>
+        <item>Central Time</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Eastern Time</item>
+        <item>Venezuela</item>
+        <item>Atlantic Time (Barbados)</item>
+        <item>Atlantic Time (Canada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Greenland</item>
+        <item>Montevideo</item>
+        <item>Mid-Atlantic</item>
+        <item>Azores</item>
+        <item>Cape Verde Islands</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrade</item>
+        <item>Brussels</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>W. Africa Time</item>
+        <item>Amman, Jordan</item>
+        <item>Athens, Istanbul</item>
+        <item>Beirut, Lebanon</item>
+        <item>Cairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Baghdad</item>
+        <item>Moscow</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Tehran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+     </string-array>
+    <string-array name="availability">
+        <item>Zaseden</item>
+        <item>Dostopen</item>
+        <item>Začasno</item>
+     </string-array>
+     <string-array name="visibility">
+        <item>Privzeto</item>
+        <item>Zasebno</item>
+        <item>Javno</item>
+     </string-array>
+    <string-array name="ordinal_labels">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>zadnji</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Ni odgovora</item>
+        <item>Da</item>
+        <item>Mogoče</item>
+        <item>Ne</item>
+    </string-array>
+	<string-array name="default_reminder_later_time_labels">
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+	<item>1 ura</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Samo ta dogodek</item>
+        <item>Ta in bodoči dogodki</item>
+        <item>Vsi dogodki</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Ta &amp; bodoči dogodki</item>
+        <item>Vsi dogodki</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Samo ta dogodek</item>
+        <item>Vsi dogodki v nizu</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Dan</item>
+        <item>Teden</item>
+        <item>Mesec</item>
+        <item>Razpored</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Zamujam samo nekoliko minut.</item>
+        <item>Bodite tam čez 10 minut.</item>
+        <item>Kar naprej, začnite brez mene.</item>
+        <item>Žal mi je, ne morm priti. Moramo spremeniti dogovor.</item>
+    </string-array>
+	<string-array name="prefEntries_alerts_popup">
+        <item>Izključeno</item>
+        <item>Za vse dogodke</item>
+        <item>Za najvažnejše dogodke</item>
+    </string-array>
+	<string-array name="prefEntries_alerts_popup_new">
+        <item>Izključeno</item>
+        <item>Za vse dogodke</item>
+        <item>Za najvažnejše dogodke</item>
+    </string-array>
+   <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Vedno</item>
+        <item>Samo ko je zvonec utišan</item>
+        <item>Nikoli</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Transparentno</item>
+        <item>Belo ozadje</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>Dan</item>
+        <item>Teden</item>
+        <item>Mesec</item>
+        <item>Leto</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+        <item>20.</item>
+        <item>21.</item>
+        <item>22.</item>
+        <item>23.</item>
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+        <item>30.</item>
+        <item>31.</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Pon</item>
+        <item>Tor</item>
+        <item>Sre</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sob</item>
+        <item>Ned</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Maj</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Avg</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>Prvi</item>
+        <item>Drugi</item>
+        <item>Tretji</item>
+        <item>Četrti</item>
+        <item>Zadnji</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Pon - Pet</item>
+        <item>Vikend</item>
+        <item>Cel teden</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Nikoli</item>
+        <item>Čas</item>
+        <item>Začelo</item>
+    </string-array>
+	    <string-array name="repeat_countdown">
+         <item>Nikoli</item>
+         <item>Mesečno</item>
+         <item>Letno</item>
+    </string-array>
+   <string-array name="travel_reminder_minutes_labels">
+        <item>3h</item>
+        <item>4h</item>
+        <item>5h</item>
+        <item>6h</item>
+        <item>1 dan</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner_plural">
+        <item>dni</item>
+        <item>tednov</item>
+        <item>mesecev</item>
+        <item>let</item>
+    </string-array>
+	<string-array name="aries_info">
+         <item>oven</item>
+         <item>Oven</item>
+         <item>3/21 - 4/19</item>
+     </string-array>
+     <string-array name="taurus_info">
+         <item>bik</item>
+         <item>Bik</item>
+         <item>4/20 - 5/20</item>
+     </string-array>
+     <string-array name="gemini_info">
+         <item>dvojčka</item>
+         <item>Dvojčka</item>
+         <item>5/21 - 6/21</item>
+     </string-array>
+     <string-array name="cancer_info">
+         <item>rak</item>
+         <item>Rak</item>
+         <item>6/22 - 7/22</item>
+     </string-array>
+     <string-array name="leo_info">
+         <item>lev</item>
+         <item>Lev</item>
+         <item>7/23 - 8/22</item>
+     </string-array>
+     <string-array name="virgo_info">
+         <item>devica</item>
+         <item>Devica</item>
+         <item>8/23 - 9/22</item>
+     </string-array>
+     <string-array name="libra_info">
+         <item>tehtnica</item>
+         <item>Tehtnica</item>
+         <item>9/23 - 10/23</item>
+     </string-array>
+     <string-array name="scorpio_info">
+         <item>škorpijon</item>
+         <item>Škorpijon</item>
+         <item>10/24 - 11/22</item>
+     </string-array>
+     <string-array name="sagittarius_info">
+         <item>strelec</item>
+         <item>Strelec</item>
+         <item>11/23 - 12/21</item>
+     </string-array>
+     <string-array name="capricorn_info">
+         <item>kozorog</item>
+         <item>Kozorog</item>
+         <item>12/22 - 1/19</item>
+     </string-array>
+     <string-array name="aquarius_info">
+         <item>vodnar</item>
+         <item>Vodnar</item>
+         <item>1/20 - 2/18</item>
+     </string-array>
+     <string-array name="pisces_info">
+         <item>riba</item>
+         <item>Riba</item>
+         <item>2/19 - 3/20</item>
+     </string-array>	     
+    <string-array name="close_alarm_repeating_labels">
+        <item>Samo za ta čas</item>
+        <item>Izključi ponovljeni opomnik</item>
+     </string-array>	
+    <string-array name="open_alarm_repeating_labels">
+        <item>Samo za ta čas</item>
+        <item>Nastavi ponovljeni opomnik</item>
+    </string-array>	 
+     <string-array name="date_calculate_spinner">
+         <item>Naprej</item>
+         <item>Nazaj</item>
+     </string-array>
+     <string-array name="repeat_by_nth_fri">
+        <item>vsak prvi petek</item>
+        <item>vsak drugi petek</item>
+        <item>vsak tretji petek</item>
+        <item>vsak četrti petek</item>
+        <item>vsak zadnji petek</item>
+     </string-array>
+     <string-array name="repeat_by_nth_mon">
+        <item>vsak prvi ponedeljek</item>
+        <item>vsak drugi ponedeljek</item>
+        <item>vsak tretji ponedeljek</item>
+        <item>vsak četrti ponedeljek</item>
+        <item>vsak zadnji ponedeljek</item>
+     </string-array>
+     <string-array name="repeat_by_nth_sat">
+        <item>vsako prvo soboto</item>
+        <item>vsako drugo soboto</item>
+        <item>vsako tretjo soboto</item>
+        <item>vsako četrto soboto</item>
+        <item>vsako zadnjo soboto</item>
+     </string-array>
+     <string-array name="repeat_by_nth_sun">
+        <item>vsako prvo nedeljo</item>
+        <item>vsako drugo nedeljo</item>
+        <item>vsako tretjo nedeljo</item>
+        <item>vsako četrto nedeljo</item>
+        <item>vsako zadnjo nedeljo</item>
+     </string-array>
+     <string-array name="repeat_by_nth_thurs">
+        <item>vsak prvi četrtek</item>
+        <item>vsak drugi četrtek</item>
+        <item>vsak tretji četrtek</item>
+        <item>vsak četrti četrtek</item>
+        <item>vsak zadnji četrtek</item>
+     </string-array>
+     <string-array name="repeat_by_nth_tues">
+        <item>vsak prvi torek</item>
+        <item>vsak drugi torek</item>
+        <item>vsak tretji torek</item>
+        <item>vsak četrti torek</item>
+        <item>vsak zadnji torek</item>
+     </string-array>
+     <string-array name="repeat_by_nth_wed">
+        <item>vsako prvo sredo</item>
+        <item>vsako drugo sredo</item>
+        <item>vsako tretjo sredo</item>
+        <item>vsako četrto sredo</item>
+        <item>vsako zadnjo sredo</item>
+     </string-array>
+	 <string-array name="year_view_week_header_name">
+        <item>N</item>
+        <item>P</item>
+        <item>T</item>
+        <item>S</item>
+        <item>Č</item>
+        <item>P</item>
+        <item>S</item>
+    </string-array>
+        <string-array name="repeat_monthly_on_day_count_values">
+        <item>prvi ponedeljek</item>
+        <item>prvi torek</item>
+        <item>prva sreda</item>
+        <item>prvi četrtek</item>
+        <item>prvi petek</item>
+        <item>prva sobota</item>
+        <item>prva nedelja</item>
+        <item>drugi ponedeljek</item>
+        <item>drugi torek</item>
+        <item>druga sreda</item>
+        <item>drugi četrtek</item>
+        <item>drugi petek</item>
+        <item>druga sobota</item>
+        <item>druga nedelja</item>
+        <item>tretji ponedeljek</item>
+        <item>tretji torek</item>
+        <item>tretja sreda</item>
+        <item>tretji četrtek</item>
+        <item>tretji petek</item>
+        <item>tretja sobota</item>
+        <item>tretja nedelja</item>
+        <item>četrti ponedeljek</item>
+        <item>četrti torek</item>
+        <item>četrta sreda</item>
+        <item>četrti četrtek</item>
+        <item>četrti petek</item>
+        <item>četrta sobota</item>
+        <item>četrta nedelja</item>
+        <item>zadnji ponedeljek</item>
+        <item>zadnji torek</item>
+        <item>zadnja sreda</item>
+        <item>zadnji četrtek</item>
+        <item>zadnji petek</item>
+        <item>zadnja sobota</item>
+        <item>zadnja nedelja</item>
+    </string-array>
+</resources> 

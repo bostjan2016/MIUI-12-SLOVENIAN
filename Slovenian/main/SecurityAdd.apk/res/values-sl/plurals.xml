@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="install_game_count_title">
+         <item quantity="other">Dodano %d iger</item>
+         <item quantity="one">Dodana %d igra</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+         <item quantity="other">"Ni dodano %d iger"</item>
+         <item quantity="one">"Ni dodana %d igra"</item>
+    </plurals>    
+    <plurals name="found_apps_title">
+         <item quantity="other">Najdeno %d aplikacij</item>
+         <item quantity="zero">Najdeno 0 aplikacij</item>
+         <item quantity="one">Najdena %d aplikacija</item>
+     </plurals>
+     <plurals name="find_applications">
+         <item quantity="other">Preišči med %d aplikacijami</item>
+         <item quantity="one">Preišči med %d aplikacijo</item>
+     </plurals>	
+</resources> 

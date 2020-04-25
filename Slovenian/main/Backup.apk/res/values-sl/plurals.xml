@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="backup_items_sysdata_tailer">
+         <item quantity="other">Podatkovne datoteke sistema: %d</item>
+         <item quantity="one">%d podatkovna datoteka sistema</item>
+     </plurals>
+     <plurals name="backup_items_app_tailer">
+         <item quantity="other">Podatkovne datoteke aplikacij: %d</item>
+         <item quantity="one">%d podatkovna datoteka aplikacij</item>
+     </plurals>
+	 <plurals name="trans_failed_summary">
+        <item quantity="other">"Ne morem poslati stvari: %d. Tapni za prikaz podrobnosti."</item>
+        <item quantity="one">"Ne morem poslati %d stvar. Tapni za prikaz podrobnosti."</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">"Ne morem poslati stvari: %d."</item>
+        <item quantity="one">"Ne morem poslati %d stvar."</item>
+    </plurals>
+     <plurals name="trans_time_format_minute">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+	<plurals name="total_num">
+         <item quantity="other">%d stvari,</item>
+         <item quantity="one">%d stvar,</item>
+     </plurals>
+     <plurals name="custom_progress">
+         <item quantity="other">%d stvari</item>
+         <item quantity="one">%d stvar</item>
+     </plurals>
+     <plurals name="trans_time_format_hours">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">%d ura</item>
+    </plurals>
+	<plurals name="select_item_summary">
+         <item quantity="other">%1$s | %2$d stvari</item>
+         <item quantity="one">%1$s | %2$d stvar</item>
+     </plurals>
+     <plurals name="select_item_count_unit">
+         <item quantity="other">stvari</item>
+         <item quantity="one">stvar</item>
+     </plurals>
+     <plurals name="save_item_saving_summary">
+         <item quantity="other">Obnovljene stvari: %d</item>
+         <item quantity="one">Obnovljena stvar: %d</item>
+     </plurals>
+     <plurals name="save_item_saved_summary">
+         <item quantity="other">Uvožene in obnovljene stvari: %d</item>
+         <item quantity="one">Uvožena in obnovljena %d stvar</item>
+     </plurals>
+	 <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s var. kopij (%2$s)</item>
+        <item quantity="one">%1$s var. kopija (%2$s)</item>
+    </plurals>
+     <plurals name="save_item_failed_summary_seg1">
+         <item quantity="other">"Uvoženo stvari: %d"</item>
+         <item quantity="one">"Uvožena %d stvar."</item>
+     </plurals>
+     <plurals name="save_item_failed_summary_seg2">
+         <item quantity="other">Ponovno uvozite stvari %d</item>
+         <item quantity="one">Ponovno uvozite stvar %d</item>
+	 </plurals>
+     <plurals name="data_item_count">
+        <item quantity="other">Stvari: %d</item>
+        <item quantity="one">%d stvar</item>
+     </plurals>
+</resources>

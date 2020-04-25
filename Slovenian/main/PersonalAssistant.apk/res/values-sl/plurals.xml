@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="agenda_count_down">
+        <item quantity="other">Čez %d min</item>
+        <item quantity="one">Čez %d minuto</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred %d min</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">pred %d urami</item>
+        <item quantity="one">pred %d uro</item>
+    </plurals>
+    <plurals name="main_delete_desc">
+        <item quantity="other">Odstranim %s iz priljubljenih?</item>
+        <item quantity="one">Odstranim %s iz priljubljenih?</item>
+    </plurals>
+    <plurals name="main_mark_select_num">
+        <item quantity="other">Izbrano: %s</item>
+        <item quantity="one">Izbrano: %s</item>
+    </plurals>
+    <plurals name="main_mark_fav_num">
+        <item quantity="other">Označene stvari kot pomembne: %s</item>
+        <item quantity="one">Označena stvar %s  kot pomembna</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">Čez %d min</item>
+        <item quantity="one">Čez %d minuto</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">Čez %d ur</item>
+        <item quantity="one">Čez %d uro</item>
+    </plurals>
+    <plurals name="sms_title_hours">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">%d ura</item>
+    </plurals>
+    <plurals name="sms_title_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d minuta</item>
+    </plurals>        
+   <plurals name="steps">
+        <item quantity="other">%d|korakov</item>
+        <item quantity="zero">%d|korakov</item>
+        <item quantity="one">%d|korak</item>
+    </plurals>
+	<plurals name="express_history_dialog_delete_message">
+         <item quantity="other">Izbrišem stvari: %s ?</item>
+         <item quantity="one">Izbrišem %s stvar?</item>
+     </plurals>
+     <plurals name="express_history_menu_select_num">
+         <item quantity="other">Izbrano stvari: %s</item>
+         <item quantity="one">Izbrana %s stvar</item>
+     </plurals>
+	 <plurals name="express_setting_phone_binded_info">
+        <item quantity="other">Dodano %d številk telefona</item>
+        <item quantity="one">Dodana %d številka telefona</item>
+    </plurals>
+</resources>
