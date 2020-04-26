@@ -383,11 +383,13 @@
   <string name="permdesc_install_widget">Programu omogoča dodajanje pripomočkov brez posredovanja uporabnika.</string>
   <string name="permdesc_read_settings">Aplikaciji omogoča branje nastavitev in bližnjic na začetnem zaslonu.</string>
   <string name="permdesc_uninstall_shortcut">Dovoli aplikaciji da odstrani bližnjice brez posredovanja uporabnika.</string>
+  <string name="permdesc_uninstall_widget">Dovoli aplikaciji da odstrani pripomočke brez posredovanja uporabnika.</string>
   <string name="permdesc_write_settings">Aplikaciji omogoča spreminjanje nastavitev in bližnjic na začetnem zaslonu.</string>
   <string name="permlab_install_shortcut">Naloži bližnjice</string>
   <string name="permlab_install_widget">Naloži pripomočke</string>
   <string name="permlab_read_settings">Preberi nastavitve začetnega zaslona in bližnjice</string>
   <string name="permlab_uninstall_shortcut">Odstrani bližnjice</string>
+  <string name="permlab_uninstall_widget">Odstrani pripomočke</string>
   <string name="permlab_write_settings">Spremeni nastavitve začetnega zaslona in bližnjice</string>
   <string name="photo_adjust">Pregled</string>
   <string name="photo_confirm">Nastavi</string>
@@ -456,7 +458,8 @@
   <string name="screen_locked_toast">Razporeditev zač. zaslona je zaklenjena</string>
   <string name="screen_number">Zaslon %d</string>
   <string name="search_in_apps_store">Išči \"%1$s\" v %2$s</string>
-  <string name="search_no_result">Nič ne najdem</string>
+  <string name="search_menu_title">Išči</string>
+  <string name="search_no_result">"Nič ne najdem"</string>
   <string name="scroll_tip_format_when_announce_accessibility">na strani %1$d, %2$d aplikacij</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_frame">Okvir</string>

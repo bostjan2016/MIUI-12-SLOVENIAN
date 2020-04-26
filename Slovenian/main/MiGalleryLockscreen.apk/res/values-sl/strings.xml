@@ -602,9 +602,9 @@ Pošljite to kodo nadzorniku."</string>
   <string name="passport_wrong_phone_number_format">Oblika telefonske številke ki ste jo vnesli ni veljavna</string>
   <string name="passport_wrong_vcode">Koda ki ste jo vnesli je napačna</string>
   <string name="passport_yes">Da</string>
-  <string name="password_toggle_content_description">Spremeni vidnost gesla</string>
+  <string name="password_toggle_content_description">Pokaži geslo</string>
   <string name="permission_account_tip">Dostop do podatkov o računu</string>
-  <string name="permission_storage_tip">Dostopajte do slik v svoji napravi da jih lahko uporabite za ozadje</string>
+  <string name="permission_storage_read_tip">Dostopajte do slik v svoji napravi</string>
   <string name="permission_storage_tip">Shraniti stvari v vašo napravo</string>
   <string name="phone_bind_too_many">Ta telefon je povezan z več Mi Računi v kratkem časovnem obdobju. Poskusite uporabiti drugo telefonsko številko.</string>
   <string name="phone_hint">Številka telefona</string>
