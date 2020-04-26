@@ -1,6 +1,12 @@
 <resources>
+    <string name="air_quality0">\'AQI \'+#aqi</string>
+    <string name="air_quality1">\'AQI \'+#aqi</string>
+    <string name="air_quality2">\'AQI \'+#aqi</string>
+    <string name="air_quality3">\'AQI \'+#aqi</string>
+    <string name="air_quality4">\'AQI \'+#aqi</string>
+    <string name="air_quality5">\'AQI \'+#aqi</string>
     <string name="weather_null">Tapni za pridobivanje informacij o vremenu</string>
-    <string name="weather_type_null">'Ni podatkov'</string>
+    <string name="weather_location_null">Ni podatkov o lokaciji</string>
     <string name="weather_type_0">Jasno</string>
     <string name="weather_type_1">Oblačno</string>
     <string name="weather_type_2">Megleno</string>
@@ -25,5 +31,5 @@
     <string name="weather_type_21">Peščena nevihta</string>
     <string name="weather_type_22">Toča</string>
     <string name="weather_type_23">Prah</string>
-    <string name="weather_type_24">Leden dež</string>
+    <string name="weather_type_24">Meglica</string>
 </resources>
