@@ -174,6 +174,7 @@
   <string name="converting_to_picture_message">Pretvarjanje v večpredstavnostno sporočilo...</string>
   <string name="converting_to_text_message">Pretvarjam v sporočilo...</string>
   <string name="converting_vcard_failed">"Ne morem pretvoriti stik"</string>
+  <string name="copy">Kopiraj</string>
   <string name="copy_message_text">Kopiraj besedilo</string>
   <string name="copy_message_text_success">Kopiraje končano</string>
   <string name="copy_to_sdcard">Shrani priponko</string>
@@ -195,7 +196,10 @@
   <string name="delete_wild_sims_title">Izbriši izbrane številke</string>
   <string name="delivery_report_activity">Poročilo o dostavi</string>
   <string name="delivery_toast_body">Sporočilo prejeto od %s.</string>
+  <string name="dialog_choice_all_correct_as_normal">Vsa sporočila od %s</string>
   <string name="dialog_complain_tips">Dovolite aplikaciji sporočila povezavo na omrežje.</string>
+  <string name="dialog_message_correct_as_ad">Vsa sporočila od %s (razen kontrolnih kod)bodo premeščena v promocijska sporočila.</string>
+  <string name="dialog_message_correct_as_normal">Izberite sporočila za premestitev</string>
   <string name="dialog_message_fake_cell_detect_error">Popravim informacije o tem sporočilu? Za to mora MIUI prebrati številko telefona (%1$s), vsebino sporočila in informacije o najbližji lokaciji njegovih strežnikov.</string>
   <string name="dialog_message_mx">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe.</string>
   <string name="dialog_message_mx_rcs">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam in uporabnikom China Mobile brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Se strinjate?</string>
@@ -208,6 +212,8 @@
   <string name="dialog_sim_locked_confirm">V redu</string>
   <string name="dialog_sim_locked_message">"Vaša SIM kartica ni popolnoma uporabna v tem telefonu ker ni v skladu z pravili in pogoji vašega predplačila. Za več informacij kontaktirajte Xiaomi servisne centre ali trgovino kjer ste kupili napravo."</string>
   <string name="dialog_smart_message_privacy_tips">Pametna sporočila ponuja Dianhuabang. Pred uporabo se strinjajte z \"%1$s\". Potrebna je spletna povezava in dostop do lokacije. Se strinjate?</string>
+  <string name="dialog_title_correct_as_ad">Premesti v promocijska sporočila</string>
+  <string name="dialog_title_correct_as_normal">Premesti v normalna sporočila</string>
   <string name="dialog_title_fake_cell_detect_error">Popravi</string>
   <string name="dialog_title_mx_rcs">Mi sporočilo</string>
   <string name="dialog_title_networking">Pogoji in pravila</string>
@@ -255,6 +261,7 @@
   <string name="exceed_message_size_limitation">Meja velikosti je bila dosežena.</string>
   <string name="exceed_message_size_limitation_add_slide">Velikost sporočila ni zadostna za dodajanje slide-a</string>
   <string name="exceed_message_text_limitation">Dosežena je omejitev velikosti sporočila.</string>
+  <string name="expand_button_title">Napredno</string>
   <string name="expire_on">Poteče: %s</string>
   <string name="exporting_progress_private_message">Izvažam...</string>
   <string name="fail_to_add_attachment">"Ne morem dodati priponke"</string>
@@ -327,6 +334,8 @@
   <string name="hms_first_use_tips">Če želite prejemati sporočila storitev morate biti povezani z omrežjem WiFi</string>
   <string name="hms_uri_param_err">"Povezava ne sme biti prazna"</string>
   <string name="hold_to_talk">Obdrži za razgovor</string>
+  <string name="home_tab_ad">Promocijska</string>
+  <string name="home_tab_common">Normalna</string>
   <string name="hybrid_check_network">Nastavitve omrežjae</string>
   <string name="hybrid_data_error">Prišlo je do napake</string>
   <string name="hybrid_locating_fail">"Ne morem najti vaše lokacije"</string>
@@ -340,7 +349,7 @@
   <string name="i_know">Razumem</string>
   <string name="ignore">Ne zdaj</string>
   <string name="imageview_ad">Oglas</string>
-  <string name="importing_progress_private_message">Uvažam...</string>
+  <string name="importing_progress_private_message">Uvažam…</string>
   <string name="in_sms">Sporočilo</string>
   <string name="insufficient_drm_rights">Zaznane nezadostne DRM pravice.</string>
   <string name="invalid_conversation">Neveljaven pogovor</string>
@@ -351,9 +360,9 @@
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">Postavitev diaprojekcije</string>
   <string name="left_cancel">Podrsajte levo za prekinitev</string>
-  <string name="loading_all_messages">Nalagam sporočila...</string>
-  <string name="loading_conversations">Nalagam pogovore...</string>
-  <string name="loading_mms">Nalagam...</string>
+  <string name="loading_all_messages">Nalagam…</string>
+  <string name="loading_conversations">Nalagam…</string>
+  <string name="loading_mms">Nalagam MMS…</string>
   <string name="manage_permission_app_label">Dovoljenja naprave</string>
   <string name="mark_number_by_own_dialog_subtitle">Označeno kot %1$s</string>
   <string name="me">Jaz</string>
@@ -362,6 +371,8 @@
   <string name="menu_call">Klic</string>
   <string name="menu_compose_new">Novo sporočilo</string>
   <string name="menu_contact">Poglej informacije stika</string>
+  <string name="menu_correct_as_ad">Premesti v promocijska</string>
+  <string name="menu_correct_as_normal">Premesti v normalna</string>
   <string name="menu_delete_messages">Izbriši sporočila</string>
   <string name="menu_edit">Spremeni</string>
   <string name="menu_forward">Posreduj</string>
@@ -405,6 +416,14 @@
   <string name="messagelist_sender_self">Jaz</string>
   <string name="messaging">Sporočila</string>
   <string name="mi_message_title">Mi sporočilo</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ni podatkov</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ni uspelo</string>
   <string name="mipub_messaging_entry_title">Mi sporočilo</string>
   <string name="mms">MMS</string>
   <string name="mms_block_alert_message">Vsa MMS sporočila razen poslanih od pooblaščenih pošiljateljev bodo blokirana. Pooblaščeni pošiljatelji vključujejo omrežne operaterje, državne sisteme za rezervacijo železnic itd.</string>
@@ -522,6 +541,8 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="non_english_subject_limit">13 znakov</string>
   <string name="nosend_message">Ne pošlji</string>
   <string name="not_prepare_for_send">Ni sporočil za pošiljanje</string>
+  <string name="not_set">Ni nastavljeno</string>
+  <string name="notification_ad_content">Dobili ste promocijsko sporočilo od %s</string>
   <string name="notification_channel_msg_description">Obvestilo o sporočilu</string>
   <string name="notification_channel_msg_name">Sporočilo</string>
   <string name="notification_channel_other_description">Obvestilo brez sporočila</string>
@@ -586,6 +607,8 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="pref_summary_allow_si_sl_push">Dovoli sporočilom branje spletnih strani</string>
   <string name="pref_summary_allow_upload_message_info">"Spam sporočila in informacije o pošiljatelju bodo poslani MIUI če jih prijavite."</string>
   <string name="pref_summary_auto_delete">Ko se doseže omejitev izbriši stara sporočila </string>
+  <string name="pref_summary_collapse_ad_notification">Pokaži vsa promocijska sporočila v zasebni mapi plošče obvestil</string>
+  <string name="pref_summary_collapse_ad_notification_mms">Pokaži vsa promocijska sporočila v zasebni kartici</string>
   <string name="pref_summary_delete_limit">%1$s sporočil na pogovor</string>
   <string name="pref_summary_delivery_reports">Pokaži stanje dostave za vsako sporočilo ki ga pošljete</string>
   <string name="pref_summary_delivery_ringtone">Prejmi zvočna obvestila za dostavljena sporočila.</string>
@@ -612,6 +635,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="pref_title_allow_upload_message_info">Pošlji spam sporočila</string>
   <string name="pref_title_auto_delete">Izbriši stara sporočila</string>
   <string name="pref_title_card_format">Deli kartični format</string>
+  <string name="pref_title_collapse_ad_notification">Skupinska obvestila o promocijskih sporočilih</string>
   <string name="pref_title_delivery_reports">Status dostave</string>
   <string name="pref_title_festival_networking">Spletna povezava</string>
   <string name="pref_title_fwd_sender_info">Posreduj informacije pošiljatelja</string>
@@ -640,8 +664,9 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="pref_title_system_mms_priority">Nastavi za privzeto</string>
   <string name="pref_title_vcard">Pošlji preko vKartice</string>
   <string name="pref_title_wake_up_screen">Zbudi zaslon</string>
+  <string name="preference_copied">\"%1$s\" kopiran v odložišče.</string>
   <string name="preferences_title">Nastavitve</string>
-  <string name="prepare_send">Priprava za pošiljanje...</string>
+  <string name="prepare_send">Priprava za pošiljanje…</string>
   <string name="press_recording">Pritisnite &amp; držite ikono mikrofona za snemanje</string>
   <string name="preview">Predogled</string>
   <string name="preview_slideshow">Predogled</string>
@@ -660,11 +685,13 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="privacy_password_title4">Geslo je posodobljeno</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="privacy_term">Pravila o zasebnosti</string>
+  <string name="private_entry_available">Spusti za odpiranje zasebne mape</string>
+  <string name="private_entry_default">Povleci dol za odpiranje zasebne mape</string>
   <string name="private_message">Privatna sporočila</string>
   <string name="private_new_notification">Obvestilo o sporočilu</string>
   <string name="private_protect">Zaščita zasebnosti</string>
   <string name="private_settings">Nastavitve</string>
-  <string name="processing">Obdelujem...</string>
+  <string name="processing">Obdelujem…</string>
   <string name="prompt_otp">Koda</string>
   <string name="prompt_phone">Številka telefona</string>
   <string name="prompt_summary">RCS vam omogoča brezplačno menjavo sporočil, fotografij, videoposnetkov in ustvarjanje skupinskih klepetov.</string>
@@ -738,6 +765,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="rcs_wait_for_retry_text">Čakam…</string>
   <string name="received_at_time">Prejeto: %1s</string>
   <string name="received_label">Prejeto:</string>
+  <string name="recent_label">Nedavni stiki</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Prejemnik :"</string>
   <string name="recipients_contain_sub_sim_number">"Kaže da obstaja sekundarna številka SIM-a med prejemniki. Pošljite to sporočilo s pomočjo sekundarne SIM kartice."</string>
@@ -763,6 +791,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="refresh_failed">Posodobitev ni uspela</string>
   <string name="refreshing">Osvežujem...</string>
   <string name="release_cancel">Spusti za prekinitev</string>
+  <string name="release_end">Spusti za zaustavitev</string>
   <string name="remind_follow">Spremljam to številko?</string>
   <string name="remove">Odstrani</string>
   <string name="remove_music">Odstrani glasbo</string>
@@ -817,6 +846,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="search_hint">Išči sporočila</string>
   <string name="search_keyword_mms">Sporočila</string>
   <string name="search_label">Sporočila</string>
+  <string name="search_menu_title">Išči</string>
   <string name="search_path_mms">Nastavitve/Sistemske aplikacije/Sporočila</string>
   <string name="search_setting_description">Besedilo v vaših sporočilih</string>
   <string name="search_show_more_results">Pokaži več</string>
@@ -961,6 +991,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   
 Če ne daste potrebnih dovoljenj ali nam ne dovolite zbiranje in uporabo vaših podatkov ta aplikacija ne bo mogla normalno delati."</string>
   <string name="system_permission_declare_privacy_declare">"%1s mora dobiti vaše podatke in zahteva naslednja dovoljenja:</string>
+  <string name="system_permission_declare_privacy_declare_new">Aplikacija se mora povezati na splet in zahteva naslednja dovoljenja:</string>
   <string name="system_permission_declare_revoke_path">Lahko prekličete avtorizacijo in izključite storitve v nastavitvah sporočil.</string>
   <string name="system_permission_declare_single_link">Preberite in sprejmite naše %1s pred uporabo.</string>
   <string name="system_permission_declare_triple_link" formatted="false">Preberite in sprejmite naše %1s, %2s, in %3s pred uporabo.</string>
@@ -1033,6 +1064,8 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="url_scanning">Preverjanje povezave…</string>
   <string name="user_agreement">Pogoji uporabe</string>
   <string name="user_term">Pogoji uporabe</string>
+  <string name="v7_preference_off">IZKLJUČENO</string>
+  <string name="v7_preference_on">VKLJUČENO</string>
   <string name="user_agreement1">Previdno preberite veljavne pogoje preden naložite dodatno programsko opremo ali pa uporabite ta izdelek.</string>
   <string name="user_agreement2">Pogoji uporabe</string>
   <string name="user_agreement3">" in "</string>

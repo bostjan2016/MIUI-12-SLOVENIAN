@@ -63,6 +63,11 @@
         <item>1 dan</item>
         <item>Maksimalno</item>
     </string-array>
+	<string-array name="dialog_choice_specific_correct_as_normal">
+        <item>Reklamna sporočila od %s</item>
+        <item>Sporočila mobilnega operaterja od %s</item>
+        <item>Finančna sporočila od %s</item>
+    </string-array>
     <string-array name="entries_mms_validity_period">
         <item>Maksimalno</item>
         <item>2 dni</item>

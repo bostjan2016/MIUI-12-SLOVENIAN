@@ -88,6 +88,10 @@
          <item quantity="other">"Prenos %1$d fotografij ni uspel, poskusim ponovno?"</item>
          <item quantity="one">"Prenos 1 fotografije ni uspel, poskusim ponovno?"</item>
      </plurals>
+	 <plurals name="picker_file_will_download">
+        <item quantity="other">Prenos %d preostalih datotek</item>
+        <item quantity="one">Prenos %d preostale datoteke</item>
+    </plurals>
 	 <plurals name="picker_no_network_retry_image_confirm_message">
          <item quantity="other">"Ne morem prenesti %1$d fotografij, povežite se z omrežjem in poskusite ponovno"</item>
          <item quantity="one">"Ne morem prenesti fotografijo, povežite se z omrežjem in poskusite ponovno"</item>

@@ -352,6 +352,7 @@
   <string name="sort_by_not_defined">Samodejno sortiranje</string>
   <string name="start_activity_failed">Ne morem zagnati vmesnika</string>
   <string name="starting_preset_app">Začenjam…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_downloaded">Prenešeno</string>
   <string name="status_downloading">Prenašanje</string>
   <string name="status_installing">Nalaganje</string>
