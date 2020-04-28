@@ -148,6 +148,14 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="menu_item_sort_name">Ime</string>
   <string name="menu_item_sort_size">Velikost</string>
   <string name="miui_device_name">Android</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne morem naložiti"</string>
   <string name="msg_alert_cancel_restore">Povrnitev stvari. Ustavim?</string>
   <string name="msg_alert_restore_error">Povrnitev stvari iz Mi Clouda ni uspela, poskusite ponovno.</string>
   <string name="msg_restore_start_with_metered_network">"Vaš zač. zaslon se bo ponovno zagnal. Var. kopija aplikacij bo samodejno prenešena. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s datotek bo prenešeno.&lt;/font&gt;&lt;/b&gt;"</string>

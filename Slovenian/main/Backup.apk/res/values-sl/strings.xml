@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
+    <string name="abc_action_bar_up_description">Pomik navzgor</string>
+    <string name="abc_action_menu_overflow_description">Več možnosti</string>
+    <string name="abc_action_mode_done">Končano</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
+    <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+    <string name="abc_capital_off">IZKLOP</string>
+    <string name="abc_capital_on">VKLOP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meni+</string>
+    <string name="abc_search_hint">Iskanje…</string>
+    <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
+    <string name="abc_searchview_description_query">Iskalna poizvedba</string>
+    <string name="abc_searchview_description_search">Iskanje</string>
+    <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
+    <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+    <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
+    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="abort_backup_confirm">"Izdelava var. kopije ni končana. Vseeno prekinem?"</string>
   <string name="abort_restore_confirm">"Obnovitev ni končana. Vseeno zaustavim?"</string>
   <string name="account_contact_backup_info">Google račun, Mi račun in stiki</string>
@@ -110,6 +137,7 @@ nastavitev in aplikacij"</string>
   <string name="connect_wifi">Povežite se na WiFi</string>
   <string name="connect_wifi_tip">Niste povezani na omrežje. Za uvoz podatkov iz MiClouda potrbujete WiFi.</string>
   <string name="contact_title">Stiki</string>
+  <string name="copy">Kopiraj</string>
   <string name="current_account">Trenutni račun: %s</string>
   <string name="current_pad_location">Pad</string>
   <string name="current_phone_location">Telefon</string>
@@ -164,6 +192,7 @@ nastavitev in aplikacij"</string>
   <string name="error_permissions">"Ta aplikacija nima dovoljenja za dostop do koledarja. Pojdite v nastavitve in preverite dovoljenja za nadaljevanje."</string>
   <string name="every_day">Vsak dan</string>
   <string name="exchange_account">Zamenjaj račun</string>
+  <string name="expand_button_title">Napredno</string>
   <string name="fail">Ni uspelo</string>
   <string name="failed_description">Ni uspelo</string>
   <string name="feature_title_account">Račun</string>
@@ -231,7 +260,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="local_app_name">Varnostno kopiraj</string>
   <string name="local_back_up_detail_description">"Opomba:
 1. Da preprečite izgubo podatkov kopirajte lokalne var. kopije na računalnik.
-2. Pred povrnitvijo na tovarniške nastavitve kopirajte lokalne var. kopije na računalnik; drugače boste izgubili izgubiti lokalne var. kopije.
+2. Pred povrnitvijo na tovarniške nastavitve kopirajte lokalne var. kopije na računalnik; drugače boste izgubili lokalne var. kopije.
 3. Kje se shranjujejo lokalne var. kopije? %1$s"</string>
   <string name="local_backup_select_activity">Napravi var. kopijo</string>
   <string name="local_backup_window_title">Podatki lokalne varnostne kopije</string>
@@ -274,6 +303,14 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="logining">Prijava…</string>
   <string name="miliao_account_guide">Uporabite svoj Mi račun da se prijavite v Mi Cloud, MIUI Teme in druge storitve Mi.</string>
   <string name="miliao_account_login">Prijavi se v Mi Talk</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ni podatkov</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Osveževanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ni uspelo</string>
   <string name="mms_title">MMS sporočanje</string>
   <string name="multi_select_title">Izbrano: %1$s</string>
   <string name="multi_user_mode_backup_message">"Ne morem uporabiti Si. kopijo v Multi-uporabniškem načinu. Izključite Multi-uporabniški način za nadaljevanje."</string>
@@ -282,9 +319,58 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="name_password_not_consistent">Napačno uporabniško ime ali geslo</string>
   <string name="never">Nikoli</string>
   <string name="new_backup">Izdelaj var. kopijo</string>
+  <string name="new_britem_audio">Avdio</string>
+  <string name="new_britem_doc">Datoteke</string>
+  <string name="new_britem_other">Ostalo</string>
+  <string name="new_britem_pic">Slike</string>
+  <string name="new_britem_video">Videoposnetki</string>
+  <string name="new_confirm_enable_encrypt_content">"MIUI povezuje šifrirane var. kopije z vašim Mi Računom. Morate se prijaviti v svoj Mi Račun da boste vrnili stvari iz var. kopij."</string>
+  <string name="new_confirm_enable_encrypt_title">Šifriraj</string>
+  <string name="new_local_button_backup">Var. kopiraj</string>
+  <string name="new_local_button_restore">Vrni</string>
+  <string name="new_local_click_to_jump">Tapnite za prikaz podrobnih navodil</string>
+  <string name="new_local_detail_description">"Opomba:
+%1$d. Kopirajte var. kopije v računalnik da boste preprečili izgubo podatkov. %2$s.
+%3$d. Var. kopije bodo shranjene v MIUI-Backup-AllBackup."</string>
+  <string name="new_local_tab_backup">Var. kopiranje na mobilno napravo</string>
+  <string name="new_local_tab_restore">Vrnite iz mobilne naprave</string>
+  <string name="new_low_storage_title">Ni dovolj prostora za shranjevanje</string>
+  <string name="new_more_settings_label">Dodatne nastavitve</string>
+  <string name="new_pc_backup_content1">%1$d. Odpri \"%2$s\".</string>
+  <string name="new_pc_backup_content2">%d. Počakajte da se varnostno kopirajo vse stvari.</string>
+  <string name="new_pc_backup_content3">%d. Najdite var. kopije u MIUI-Backup-AllBackup.</string>
+  <string name="new_pc_backup_content4">%d. Kopirajte datoteke na svoj računalnik.</string>
+  <string name="new_pc_backup_restore_link">Mobilna naprava</string>
+  <string name="new_pc_backup_summary1">Izberite stvari in tapnite \"Var. kopiraj\".</string>
+  <string name="new_pc_backup_summary2">Povežite svojo mobilno napravo z računalnikom preko USB kabla.</string>
+  <string name="new_pc_backup_summary4">Opomba: lahko kopirate tudi fotografije in videoposnetke iz MIUI-DCIM.</string>
+  <string name="new_pc_restore_content1">%d. Povežite svojo mobilno napravo z računalnikom preko USB kabla.</string>
+  <string name="new_pc_restore_content2">%d. Kopirajte var. kopijo iz računalnika v MIUI-Backup-AllBackup.</string>
+  <string name="new_pc_restore_content3">%1$d. Odprite \"%2$s\" in izberite stvari za vračanje.</string>
+  <string name="new_pc_title">Kopiraj Var. kopije</string>
+  <string name="new_select_file">Avdio, videoposnetke in datoteke</string>
+  <string name="new_select_message">SMS, stiki in zgodovina klicev</string>
+  <string name="new_select_pic">Slike</string>
+  <string name="new_select_system">Ostali podatki sistemskih aplikacij</string>
+  <string name="new_select_tencent">QQ in WeChat</string>
+  <string name="new_select_third">Aplikacije in podatki tretjih oseb</string>
+  <string name="new_select_third_apk">Aplikacije tretjih oseb</string>
+  <string name="new_select_third_data">Aplikacije in podatki tretjih oseb</string>
+  <string name="new_tab_pc_backup">Napravite var. kopijo na računalnik</string>
+  <string name="new_tab_pc_restore">Vrni iz računalnika</string>
+  <string name="new_task_finished">Končano</string>
+  <string name="new_usb_detail_description">"Opomba:
+%1$d. Ta metoda omogoča var. kopiranje aplikacij in podatkov tretjih oseb.
+%2$d. Preverite ali je dovolj prostora v vašem USB pogonu za shranjevanje var. kopija."</string>
+  <string name="new_usb_disconnect_dialog_message">Najprej povežite USB pogon.</string>
+  <string name="new_usb_disconnect_dialog_title">"USB pogon ni najden"</string>
+  <string name="new_usb_select_data_no_space">Samo %s prostora je na voljo na vašem USB pogonu. Sprostite nekaj prostora.</string>
+  <string name="new_usb_tab_backup">Napravite var. kopijo na USB pogon</string>
+  <string name="new_usb_tab_restore">Vrni iz USB pogona</string>
   <string name="no_encrypt_password">Brez gesla</string>
-  <string name="no_network">Povezave ni mogoče vzpostaviti</string>
-  <string name="note_title">Opombe</string>
+  <string name="no_network">"Ne morem se povezati na omrežje."</string>
+  <string name="not_set">Ni nastavljeno</string>
+  <string name="note_title">Beležke</string>
   <string name="nothing_searched">Ni zadetkov</string>
   <string name="notif_backup_complete_title">Var. kopija uspešno dokončana</string>
   <string name="notif_backup_content">Izdelava var. kopije upor. podatkov</string>
@@ -321,7 +407,6 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="password">Geslo</string>
   <string name="password_null">Polje Geslo ne sme biti prazno</string>
   <string name="pause">Premor</string>
-  <string name="platform_chooser_item_android">Uvozi iz naprave Android</string>
   <string name="perm_camera">Kamera</string>
   <string name="perm_location">Lokacija</string>
   <string name="perm_read_call_log">Branje zgodovine klicev</string>
@@ -330,10 +415,12 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="perm_read_sms">Branje SMS-ov</string>
   <string name="perm_storage">Branje in pisanje na zunanji pomnilnik</string>
   <string name="phone_title">Nastavitve telefona</string>
+  <string name="platform_chooser_item_android">Uvozi iz naprave Android</string>
   <string name="platform_chooser_item_android_mi">Mi Telefon</string>
   <string name="platform_chooser_item_android_others">Ostale znamke</string>
   <string name="platform_chooser_item_ios">Uvozi iz naprave Apple</string>
   <string name="platform_chooser_title">Izberite staro napravo</string>
+  <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="progress_backup_hint">Izdelava var. kopije…</string>
   <string name="progress_restore_hint">Obnavljam iz var. kopije…</string>
   <string name="prompt_reading">Berem…</string>
@@ -382,6 +469,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="sdcard_no_enough_space">Ni dovolj prostora</string>
   <string name="sdcard_no_enough_space_message">Na vaši SD kartici ni dovolj prostora</string>
   <string name="sdcard_unmounted">Vstavite SD kartico</string>
+  <string name="search_menu_title">Išči</string>
   <string name="see_backup_files_on_router">Pregled var. kopij na Mi Routerju %s</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_backup_item">Izberi elemente</string>
@@ -667,6 +755,8 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="user_notice_declaration_ignore">"Ne kaži več"</string>
   <string name="user_notice_message">Nekatera opravila za normalno delo potrebujejo spletno povezavo.</string>
   <string name="user_notice_title">Pozor</string>
+  <string name="v7_preference_off">IZKLJUČENO</string>
+  <string name="v7_preference_on">VKLJUČENO</string>
   <string name="view_password_description">Pokaži geslo</string>
   <string name="wait_link">"Odprite Mi Mover na stari napravi,
 Ne zapuščajte te strani dokler se povezava ne vzpostavi. "

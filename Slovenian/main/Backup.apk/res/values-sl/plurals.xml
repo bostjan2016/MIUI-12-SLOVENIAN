@@ -57,11 +57,23 @@
          <item quantity="one">"Uvožena %d stvar."</item>
      </plurals>
      <plurals name="save_item_failed_summary_seg2">
-         <item quantity="other">Ponovno uvozite stvari %d</item>
-         <item quantity="one">Ponovno uvozite stvar %d</item>
+         <item quantity="other">Ponovno uvozite %d stvari</item>
+         <item quantity="one">Ponovno uvozite %d stvar</item>
 	 </plurals>
      <plurals name="data_item_count">
         <item quantity="other">Stvari: %d</item>
         <item quantity="one">%d stvar</item>
+     </plurals>
+	 <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d stvari</item>
+        <item quantity="one">%1$d/%2$d stvar</item>
+     </plurals>
+     <plurals name="new_task_backup_failed">
+        <item quantity="other">"Var. kopija uspešno napravljena. Ne morem varnostno kopirati %d stvari."</item>
+        <item quantity="one">"Var. kopija uspešno napravljena. Ne morem varnostno kopirati %d stvar."</item>
+     </plurals>
+     <plurals name="new_task_restore_failed">
+        <item quantity="other">"Uspešno vrnjeno. Ne morem vrniti %d stvari."</item>
+        <item quantity="one">"Uspešno vrnjeno. Ne morem vrniti %d stvar."</item>
      </plurals>
 </resources>
