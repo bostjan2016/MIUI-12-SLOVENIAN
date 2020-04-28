@@ -115,6 +115,22 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_External_Storage">Dostop in menjava datotek na notranjem pomnilniku</string>
   <string name="HIPS_Perm_External_Storage_Desc">"Dodajanje in brisanje datotek na notranjem pomnilniku"</string>
   <string name="HIPS_Perm_GetCallState">dostop do natančnega stanja telefona</string>
+  <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Snemanje zvoka in klicanje</string>
+  <string name="HIPS_Perm_Intl_group_desc_auto_start">Samodejni zagon aplikacij v ozadju</string>
+  <string name="HIPS_Perm_Intl_group_desc_calendar">Dostop do dogodkov iz koledarja</string>
+  <string name="HIPS_Perm_Intl_group_desc_call_log">Dostop in urejanje zgodovine klicev</string>
+  <string name="HIPS_Perm_Intl_group_desc_camera">Fotografiranje in izdelava videoposnetkov</string>
+  <string name="HIPS_Perm_Intl_group_desc_contact">Urejanje in brisanje stikov</string>
+  <string name="HIPS_Perm_Intl_group_desc_location">Dostop do lokacije (GPS in omrežje)</string>
+  <string name="HIPS_Perm_Intl_group_desc_storage">"Dodajanje in brisanje datotek v notranjem pomnilniku"</string>
+  <string name="HIPS_Perm_Intl_group_name_audio_recorder">Mikrofon</string>
+  <string name="HIPS_Perm_Intl_group_name_auto_start">Samod. zagon</string>
+  <string name="HIPS_Perm_Intl_group_name_calendar">Koledar</string>
+  <string name="HIPS_Perm_Intl_group_name_call_log">Zgodovina klicev</string>
+  <string name="HIPS_Perm_Intl_group_name_camera">Kamera</string>
+  <string name="HIPS_Perm_Intl_group_name_contact">Stiki</string>
+  <string name="HIPS_Perm_Intl_group_name_location">Lokacija</string>
+  <string name="HIPS_Perm_Intl_group_name_storage">Shramba</string>
   <string name="HIPS_Perm_ListenCallState">prebrati stanje telefona</string>
   <string name="HIPS_Perm_Location">Pridobi podatke o lokaciji</string>
   <string name="HIPS_Perm_Location_Access">pridobiti natančne podatke o lokaciji (preko GPS in WiFi)</string>
@@ -345,7 +361,10 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="permission_group_title_charges_related">Telefon</string>
   <string name="permission_group_title_media_related">Multimedija</string>
   <string name="permission_group_title_privacy_related">Zasebnost</string>
+  <string name="permission_group_title_sensitive_privacy_related">Občutljiva dovoljenja</string>
   <string name="permission_group_title_settings_related">Nastavitve</string>
+  <string name="permission_list_include">"Vključno:
+"</string>
   <string name="permission_reminders">Opomniki dovoljenj</string>
   <string name="permission_request_title">Zahtevek dovoljenja</string>
   <string name="permission_warning_template">Dovolim %1$s  %2$s ?</string>
