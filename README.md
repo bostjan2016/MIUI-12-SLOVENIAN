@@ -1,8 +1,7 @@
 
 <dl><dd><img src="https://i.imgur.com/erbkbaC.jpg" border="0" alt="MIUI12_logo"></a></dd></dl>
 
-MA-XML-12.0-SLOVENIAN
-==========================
+# MIUI 12-XML-SLOVENIAN
 
 SLOVENIAN Translation For Xiaomi MIUI V12 Android Based OS
 
