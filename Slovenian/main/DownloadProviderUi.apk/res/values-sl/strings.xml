@@ -97,7 +97,7 @@
   <string name="dialog_confirm_delete_downloads_message">Izbrišem opravilo %d ?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Izbriši ta opravila</string>
   <string name="dialog_content_limit0">Omeji prenose</string>
-  <string name="dialog_content_limit0">Omeji prenose</string>
+  <string name="dialog_content_limit_max">Brez omejitev</string>
   <string name="dialog_delete_positive">Izbriši</string>
   <string name="dialog_failed_body">Boste kasneje spet poskusili prenesti datoteko ali jo izbrišem iz čakalne vrste?</string>
   <string name="dialog_file_already_exists">Datoteka že obstaja.</string>
