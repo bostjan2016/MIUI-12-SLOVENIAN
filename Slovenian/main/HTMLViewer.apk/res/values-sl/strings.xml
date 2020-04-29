@@ -7,9 +7,17 @@
   <string name="autoconnect">Samod. poveži</string>
   <string name="ime_privacy_policy">Izberi tipkovnico</string>
   <string name="license_host_unreachable">"Ne morem se povezati z omrežjem. Za pregled te informacije
-      pojdite na %s"</string>
+  pojdite na %s"</string>
   <string name="loading">Branje…</string>
   <string name="mibi_license">Mi Kredit Pogoji uporabe</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ni podatkov</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ne morem naložiti</string>
   <string name="open_wifi_connect_and_use_data_summary">Uporaba mobilnih podatkov. Tapnite za preklop na na WiFi.</string>
   <string name="open_wifi_connect_summary">Dotaknite se za prikaz podrobnosti.</string>
   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
@@ -19,6 +27,7 @@
   <string name="poco_privacy_policy">POCO Zaganjalnik Pravila o zasebnosti &amp; POCO Zaganjalnik Pogoji uporabe</string>
   <string name="policy_name">Pravilo:%s</string>
   <string name="pre_installed_apps">Prednameščene aplikacije</string>
+  <string name="privacy_station_title">Zasebnost v Xiaomi</string>
   <string name="settings_ad_loading">Samo trenutek…</string>
   <string name="settings_ad_loading_unavailable">"Ne morem prenesti."</string>
   <string name="settings_license_activity_loading">Samo trenutek…</string>

@@ -2,6 +2,8 @@
 <resources>
   <string name="accept_modify_call_request_prompt">Sprejmem zahtevo za spremembo klica?</string>
   <string name="add_vm_number_str">Dodaj številko</string>
+  <string name="ai_assistant">AI Pomočnik klicev</string>
+  <string name="ai_assistant_not_installed">Najprej namestite AI Pomočnik klicev</string>
   <string name="antispam_local_marked">Lokalno označen</string>
   <string name="antispam_notification_title">Neznana številka</string>
   <string name="antispam_provider">Identificiran od %s</string>
@@ -143,6 +145,8 @@
   <string name="do_not_ask">Ne kaži več</string>
   <string name="do_not_support_video_calls_by_remote">"Video klici niso podprti na drugi napravi"</string>
   <string name="emergency_call_dialog_number_for_display">Številka za klic v sili</string>
+  <string name="enter_ai_assistant">Uporabi</string>
+  <string name="enter_ai_assistant_tip">"AI pomočnik klicev lahko prevzame klic in prepiše govor druge osebe namesto vas. Dovolim AI da odgovori?"</string>
   <string name="fraud_call_answer">Odgovori</string>
   <string name="fraud_call_decline">Zavrni</string>
   <string name="fraud_call_waring">Bodite previdni: Vedno morate preveriti identiteto osebe s katero se pogovarjate po telefonu ali videoklicu, preden se odzovete na vsa sporočila, ki vključujejo vaše osebne podatke.</string>
@@ -268,14 +272,15 @@
   <string name="unlock_phone">Odkleni napravo</string>
   <string name="upgrade_vt_prompt">Želite nadgraditi klic v video klic?</string>
   <string name="user_locked_prompt">Odkleni napravo za dostop do stikov.</string>
+  <string name="video_call_downgrade_insufficient_bandwidth">Premalo prometa, premik na glasovni klic</string>
   <string name="video_call_not_allowed_if_tty_enabled">Izključite najprej TTY način</string>
   <string name="video_conference_caller_info_name">"Video konferenčni klic od %1$s"</string>
-   <string name="video_crbt_title">%s barva prstana</string>
+  <string name="video_crbt_title">"Predvaja se zvok videoposnetka drugega partnerja"</string>
   <string name="video_switch_to_voice_call_prompt">Preklopi na glasovni klic</string>
   <string name="voicemail">Govorna pošta</string>
+  <string name="voicemail_abbreviated">VM:</string>
   <string name="volte_call">VoLTE klic</string>
   <string name="volume_boost_text">Glasnost uspešno povečana</string>
-  <string name="voicemail_abbreviated">VM:</string>
   <string name="wait_prompt_str">"Pošljem naslednje tone?"
 "</string>
   <string name="waiting_close_airplane_mode">Samo trenutek…</string>

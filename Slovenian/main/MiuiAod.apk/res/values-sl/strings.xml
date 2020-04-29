@@ -51,6 +51,7 @@ d/M"</string>
   <string name="aod_signature_12">hh:mm aa</string>
   <string name="aod_style">Teme</string>
   <string name="aod_to_close">Izključi</string>
+  <string name="app_name">AOD</string>
   <string name="apply">Uporabi</string>
   <string name="apply_succeed">Uspešno nastavljeno</string>
   <string name="background_icon">Ozadje</string>
@@ -69,6 +70,7 @@ d/M"</string>
   <string name="clock_panel_icon">Videz ure</string>
   <string name="color_change_with_time_description">Časovno samodejno zamenjaj barvo teksta</string>
   <string name="color_change_with_time_title">Samodejno zamenjaj barvo</string>
+  <string name="copy">Kopiraj</string>
   <string name="custom_image">Slika po meri</string>
   <string name="deep_space_planet">Doba dneva</string>
   <string name="deep_space_planet_des">\"Doba dneva\" se nanaša na svetlobne spremembe ki se dogajajo okoli čez dan. Sončni vzhod in zahod v tej temi se sinhronizirata z vašo lokacijo.</string>
@@ -78,6 +80,7 @@ d/M"</string>
   <string name="disable_aod_in_power_save_mode_summary">"Ne kaži za prihranek baterije"</string>
   <string name="error_icon_content_description">Napaka</string>
   <string name="evening">PM</string>
+  <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Pokaži padajoči meni</string>
   <string name="icon_content_description">Ikona dialoga</string>
   <string name="font_thickness">Odebeljeni font</string>
@@ -136,7 +139,7 @@ d/M"</string>
   <string name="month_september_short">Sep</string>
   <string name="month_september_shortest">S</string>
   <string name="more">Več</string>
-  <string name="more_online_theme">Online storitvee</string>
+  <string name="more_online_theme">Online storitve</string>
   <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
@@ -172,6 +175,7 @@ d/M"</string>
 <string name="my_style_title">Moj stil</string>
   <string name="night">PM</string>
   <string name="noon">PM</string>
+  <string name="not_set">Ni nastavljeno</string>
   <string name="notification_anim_pulse">Pulzno</string>
   <string name="notification_anim_rhythm">Ritem</string>
   <string name="notification_anim_star">Starlight</string>
@@ -187,6 +191,7 @@ d/M"</string>
   <string name="photo_editor_saving">Shranjevanje…</string>
   <string name="please_input_signature">Vnesite podpis</string>
   <string name="pm">PM</string>
+  <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>
@@ -219,18 +224,20 @@ d/M"</string>
   <string name="sunday">Nedelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
+  <string name="super_wallpaper_date">"EEa
+dd/MM"</string>
   <string name="temporary_style">Čez 10 sekund po dotiku</string>
+  <string name="text_color">Barva teksta</string>
+  <string name="text_length_exceed_limit_alert">*Vnešeno besedilo je predolgo</string>
+  <string name="text_size">Velikost teksta</string>
+  <string name="theme_cate_title">Tema</string>
   <string name="thursday">Četrtek</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
+  <string name="time_location">Položaj ure</string>
   <string name="time_picker_dialog_title">Nastavi Čas</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
-  <string name="text_color">Barva teksta</string>
-  <string name="text_length_exceed_limit_alert">*Vnešeni tekst je predolg</string>
- <string name="text_size">Velikost teksta</string>
-  <string name="theme_cate_title">Tema</string>
-  <string name="time_location">Položaj ure</string>
   <string name="time_style">Stil</string>
   <string name="time_style_layout">Razpored</string>
   <string name="tip_to_open_aod_mode">Vedno na zaslonu je izključeno. Vključim?</string>
@@ -240,6 +247,8 @@ d/M"</string>
   <string name="tuesday_short">Tor</string>
   <string name="tuesday_shortest">T</string>
   <string name="user_agreement">Pogoji uporabe</string>
+  <string name="v7_preference_off">IZKLJUČENO</string>
+  <string name="v7_preference_on">VKLJUČENO</string>
   <string name="wednesday">Sreda</string>
   <string name="wednesday_short">Sre</string>
   <string name="wednesday_shortest">S</string>
