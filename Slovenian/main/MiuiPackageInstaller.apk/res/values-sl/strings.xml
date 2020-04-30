@@ -1,6 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Parse_error_dlg_text">Nastal je problem pri analizi paketa.</string>
+    <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
+    <string name="abc_action_bar_up_description">Pomik navzgor</string>
+    <string name="abc_action_menu_overflow_description">Več možnosti</string>
+    <string name="abc_action_mode_done">Končano</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
+    <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+    <string name="abc_capital_off">IZKLOP</string>
+    <string name="abc_capital_on">VKLOP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meni+</string>
+    <string name="abc_search_hint">Iskanje…</string>
+    <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
+    <string name="abc_searchview_description_query">Iskalna poizvedba</string>
+    <string name="abc_searchview_description_search">Iskanje</string>
+    <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
+    <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+    <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
+    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="adb_install_no_network">"Povezovanje na omrežje ni uspelo. Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="adb_install_open">Odpiranje…</string>
   <string name="adb_install_open_error">"Ne morem odpreti. Preverite omrežne nastavitve in poskusite ponovno."</string>
@@ -41,6 +68,7 @@
   <string name="btn_text_security_install">Zamenjaj z varno verzijo</string>
   <string name="caller_app">Zahteva dovoljenje od %1$s</string>
   <string name="cancel">Prekliči</string>
+  <string name="copy">Kopiraj</string>
   <string name="cta_button_text_agree">V redu</string>
   <string name="cta_button_text_cancel">Izhod</string>
   <string name="cta_dialog_msg">Aplikacija Varnost zahteva spletni dostop za prenos posodobitve, kakor tudi dostop do lokacije za normalno delo.</string>
@@ -67,6 +95,7 @@ Obstoječi podatki aplikacije bodo shranjeni."</string>
   
 Vsi obstoječi podatki aplikacije bodo shranjeni."</string>
   <string name="done">Končano</string>
+  <string name="expand_button_title">Napredno</string>
     <string name="external_sources_settings">Nastavitve</string>
   <string name="external_sources_settings_negative">Omeji</string>
   <string name="external_sources_settings_positive">Dovoli enkrat</string>
@@ -146,6 +175,8 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="miui_clean">Očisti</string>
   <string name="miui_clear_apk_desc">Izbrisan namestitveni paket in preostali podatki(%s)</string>
   <string name="miui_clear_apks">Izbriši namestitveni paket in preostale podatke (%s)</string>
+  <string name="miui_clear_apks_summary">Skupaj %s</string>
+  <string name="miui_clear_apks_title">Samodejno očisti namestitvene pakete</string>
   <string name="miui_compatibility_desc">"Ta aplikacija ni optimirana za vašo napravo. Če jo namestite morda ne bo pravilno delovala. Počakajte da programerji pripravijo novo verzijo."</string>
   <string name="miui_delete">Izbriši</string>
   <string name="miui_failed_already_exists">Ta aplikacija je že nameščena</string>
@@ -210,6 +241,14 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="miui_virus_scanning_2">Pregled..</string>
   <string name="miui_virus_scanning_3">Pregled...</string>
   <string name="miui_virus_title">Visoko tveganje</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ni podatkov</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ne morem naložiti</string>
   <string name="mobil_net_work_warning_cancel">Prekliči</string>
   <string name="mobil_net_work_warning_msg">"Uporabljate mobilne podatke. Namestitev te aplikacije zahteva %1$s mob. podatkov. Vseeno namestim?"</string>
   <string name="mobil_net_work_warning_ok">Naposti</string>
@@ -221,11 +260,12 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="no_apps">Ni aplikacij</string>
   <string name="no_new_perms">"Za to posodobitev niso potrebna nova dovoljenja."</string>
   <string name="no_permissions">Ni dovoljenj</string>
+  <string name="not_set">Ni nastavljeno</string>
   <string name="ok">V REDU</string>
   <string name="old_sdk_deny_warning">Ta aplikacija je bila zasnovana za starejšo različico sistema Android. Če dovoljenje zavrnete lahko preneha delovati kot bi morala.</string>
   <string name="other_permissions">Druge možnosti aplikacije</string>
   <string name="other_relative">Drugo</string>
-  <string name="out_of_space_dlg_text">Ni dovolj prostora za namestitev %1$s.</string>
+  <string name="out_of_space_dlg_text">"Ni dovolj prostora za namestitev %1$s."</string>
   <string name="out_of_space_dlg_title">Ni dovolj prostora</string>
   <string name="perm_action_accept">Dovoli</string>
   <string name="perm_action_prompt">Vprašaj</string>
@@ -262,6 +302,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="pref_key_antivirus_summary">Preverite aplikacije za viruse pred nameščanjem</string>
   <string name="pref_key_app_store_summary">Vprašaj za prenos aplikacij iz varnih virov pred namestitvijo</string>
   <string name="pref_key_app_store_title">Priporoči varne verzije</string>
+  <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="privacyPerms">Zasebnost</string>
   <string name="privacy_relative">Zasebnost</string>
   <string name="reboot_time">Pripravlja se ponovni zagon…(%1$s)</string>
@@ -277,6 +318,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="screen_overlay_button">Odpri nastavitve</string>
   <string name="screen_overlay_message">Če želite spremeniti nastavitev tega dovoljenja morate najprej izklopiti prekrivanje zaslona v »Nastavitve &gt; Aplikacije«</string>
   <string name="screen_overlay_title">Zaznano prekrivanje zaslona</string>
+  <string name="search_menu_title">Išči</string>
   <string name="security_settings_desc">Dovoli da ta aplikacija:</string>
   <string name="settings">Nastavitve</string>
   <string name="settings_warning_dialog_detail">"Zahtevano bo v naslednjih primerih:
@@ -317,6 +359,8 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="untrusted_external_source_warning_summary">"Vaš telefon in osebni podatki so občutljivi na napade aplikacij nameščenih iz neznanih virov. Z namestitvijo aplikacij iz teh virov prevzemate odgovornost za škodo ali izgubo podatkov."</string>
   <string name="user_is_not_allowed_dlg_text">Trenutni uporabnik nima dovoljenja za to odstranitev.</string>
   <string name="user_is_not_allowed_dlg_title">Ni dovoljeno</string>
+  <string name="v7_preference_off">IZKLJUČENO</string>
+  <string name="v7_preference_on">VKLJUČENO</string>
   <string name="virus_scan_caller_unknown">Neznano</string>
   <string name="virus_scan_clear">Odstrani</string>
   <string name="virus_scan_install">vseeno namesti </string>

@@ -251,9 +251,9 @@
      </string-array>
 	 <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>, aktivno</item>
-        <item>, aktivno (predstavnosti)</item>
-        <item>, aktivno (telefon)</item>
+        <item>" | Aktivno"</item>
+        <item>" | Aktivno (predstavnosti)"</item>
+        <item>" | Aktivno (telefon)"</item>
      </string-array>
 	 <string-array name="bt_hci_snoop_log_entries">
         <item>Onemogočeno</item>
