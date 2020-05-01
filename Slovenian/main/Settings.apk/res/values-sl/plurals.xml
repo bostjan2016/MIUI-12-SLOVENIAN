@@ -736,4 +736,12 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
         <item quantity="few">Obvestila %1$d aplikacij lahko preglasijo Ne moti</item>
 	<item quantity="many">Obvestila %1$d aplikacij lahko preglasijo Ne moti</item>
      </plurals>
+	      <plurals name="bt_usable_device_title">
+        <item quantity="other">Naprave na voljo: %d</item>
+        <item quantity="one">%d naprava na voljo</item>
+     </plurals>
+     <plurals name="saved_network_checked_num">
+        <item quantity="other">Izbrano: %d</item>
+        <item quantity="one">Izbrano: %d</item>
+     </plurals>
 </resources> 
