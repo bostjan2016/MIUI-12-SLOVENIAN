@@ -12,4 +12,8 @@
         <item quantity="other">Fokusirano. Najdeno %d obrazov</item>
         <item quantity="one">Fokusirano. Najden %d obraz</item>
      </plurals>
+	 <plurals name="clone_guide_tip2">
+        <item quantity="other">Istočasno lahko naredite do %d klonov.</item>
+        <item quantity="one">Istočasno lahko naredite do %d klon.</item>
+     </plurals>
 </resources>

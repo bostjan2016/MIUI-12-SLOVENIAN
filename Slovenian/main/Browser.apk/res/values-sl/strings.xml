@@ -208,6 +208,7 @@
   <string name="channel_network_error">Omrežna napaka. Preverite omrežne nastavitve in poskusite ponovno.</string>
   <string name="channel_no_data">"To je vse za zdaj. Poglejte ostale kanale!"</string>
   <string name="character_counter_content_description">Prekoračena je omejitev števila znakov %1$d od %2$d</string>
+  <string name="character_counter_overflowed_content_description">Prekoračena je omejitev števila znakov %1$d od %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_permission_of_current_location">Trenutni podatki o lokaciji</string>
   <string name="check_permission_of_current_url">Povezave obiskanih spletnih strani</string>

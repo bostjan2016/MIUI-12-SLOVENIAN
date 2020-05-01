@@ -14,6 +14,7 @@
   <string name="dialog_connect_verify_perssion_fail">"Ne morem avtorizirati predvajanje na vašem televizorju. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="dialog_connected">Povezano</string>
   <string name="dialog_connecting">Povezovanje…</string>
+  <string name="dialog_nfc_cast_wifi_off">Vključite WiFi da boste lahko predvajali preko NFC. Vključim?</string>
   <string name="dialog_ok">V redu</string>
   <string name="dialog_only_suport_content">Streamajte fotografije, videoposnetke ali glasbo</string>
   <string name="dialog_open_wifi_bt">Vključi</string>
@@ -131,5 +132,7 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
   <string name="toast_guide_title">Raziščite nove storitve</string>
   <string name="toast_msg_for_multi_window">Ta storitev ni na voljo v načinu z deljenim zaslonom</string>
   <string name="toast_msg_for_small_window">Po odprtju aplikacije ki jo želite predvajati uporabite storitev projekcije malega okna, prikazana aplikacija se ne bo prekinila, mobilni telefon lahko dela z drugimi aplikacijami.</string>
+  <string name="toast_nfc_dont_move">"Ne oddaljite telefona predaleč"</string>
   <string name="toast_title_for_small_window">Uporabite malo okno za predvajanje zaslona v aplikaciji.</string>
+  <string name="toast_turn_off_hotspot_before_cast">Izključite prenosni hotspot pred predvajanjem</string>
 </resources>

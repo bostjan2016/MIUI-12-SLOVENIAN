@@ -385,6 +385,8 @@ Avdio"</string>
     <string name="osu_sign_up_complete">Registracija je končana. Povezovanje …</string>
     <string name="osu_sign_up_failed">Registracije ni bilo mogoče dokončati. Če želite poskusiti znova, se dotaknite.</string>
     <string name="overlay_display_devices_title">Simul. sekund. prikazov.</string>
+  <string name="perm_ble_des">Dostop do BLE nastavitev</string>
+  <string name="perm_ble_lab">Dostop do BLE nastavitev</string>
     <string name="picture_color_mode">Način barv slike</string>
     <string name="picture_color_mode_desc">Uporaba sRGB-ja</string>
     <string name="pointer_location">Mesto kazalca</string>

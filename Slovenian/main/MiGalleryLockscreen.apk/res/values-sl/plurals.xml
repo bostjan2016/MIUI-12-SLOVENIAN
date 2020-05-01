@@ -40,4 +40,12 @@
         <item quantity="other">%d slik</item>
         <item quantity="one">%d slika</item>
      </plurals>		 
+	<plurals name="mtrl_badge_content_description">
+        <item quantity="other">Nova obvestila: %d</item>
+        <item quantity="one">%d novo obvestilo</item>
+    </plurals>
+	<plurals name="photo_count">
+        <item quantity="other">%s fotografij</item>
+        <item quantity="one">%s fotografija</item>
+    </plurals>
 </resources>

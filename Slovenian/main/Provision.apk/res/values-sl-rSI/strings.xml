@@ -45,6 +45,7 @@
   <string name="disageement_abnormal_download">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati te storitve."</string>
   <string name="disagree">Prekliči</string>
   <string name="disagreement_abnormal_running">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati te aplikacije. Lahko se odločite da ne boste uporabljali aplikacije ali pa ji boste omejili dovoljenja."</string>
+  <string name="disagreement_abnormal_running_fast_pairing">"Če se s takšnimi dovoljenji ne strinjate, te aplikacije ne boste mogli uporabljati. V takšnih primerih boste dovoljenja v nastavitvah lahko omejili."</string>
   <string name="disagreement_donnot_use_application">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati te aplikacije. Lahko se odločite da ne boste uporabljali aplikacije."</string>
   <string name="disagreement_donnot_use_product">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati tega proizvoda. Lahko se odločite da ne boste uporabljali proizvoda."</string>
   <string name="disagreement_donnot_use_service">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati te storitve. Lahko se odločite da ne boste uporabljali storitve."</string>
@@ -59,6 +60,7 @@
   <string name="enable_accessibility_dialog_positive_btn">V redu</string>
   <string name="fail_to_generate_qr_code">"Ne morem generirati QR kodo. Ponovno naložite to stran."</string>
   <string name="fast_application_introduction">Framework za hitre aplikacije vam omogoča ustvarjanje in ponujanje uslug v hitrih aplikacijah.</string>
+  <string name="fast_pairing_introduction">Mi Link omogoča, da se vaša naprava poveže z bližnjimi napravami Bluetooth. Če želite najti naprave v bližini, dovolite da se Mi Link poveže s spletom.</string>
   <string name="font_hint_large">Privzeta velikost teksta</string>
   <string name="font_hint_normal">Povečaj velikost teksta</string>
   <string name="framework_introduction">Mi Services Framework vam omogoča uporabo Mi Računa, Mi Push, Mi Stats in MIUI BI.</string>
@@ -79,6 +81,8 @@
   <string name="locale_picker_other_locale_title">Več regij</string>
   <string name="location_introduction">Storitve ki temeljijo na lokaciji iščejo proizvode in storitve v vaši bližini.</string>
   <string name="lockscreen_introduction">Wallpaper Carousel vam omogoča vsakodnevno dobivanje novih slik ozadja za zakl. zaslon.</string>
+  <string name="mint_keyboard_oobe_checkbox">"Prebral sem in se strinam z Pravila o zasebnosti Mint Keyboard"</string>
+  <string name="mint_keyboard_oobe_terms">Pravila o zasebnosti Mint Keyboard</string>
   <string name="miui_privacy_policy_no_network">"Niste povezani s spletom. Poglejte Pravila o zasebnosti na %s."</string>
   <string name="miui_terms_no_network">"Niste povezani s spletom. Poglejte Pogoje uporabe na %s"</string>
   <string name="multisim_settings_category">Nastavitve izbrane SIM kartice</string>
@@ -155,6 +159,8 @@ Vseeno izključim?"</string>
   <string name="permission_virusscan_introduction">Za iskanje virusov in optimizacijo vaše naprave</string>
   <string name="permission_xunlei_introduction">Za prijavo in urejanje sistemskih računov zaradi nudenja Xunlei storitev</string>
   <string name="poco_agree_terms_other">(Vključno POCO zaganjalnik Pravila o zasebnosti in Pogoji uporabe)</string>
+  <string name="poco_launcher_privacy_policy">POCO Launcher Pravila o zasebnosti</string>
+  <string name="poco_launcher_user_agreement">POCO Launcher Pogoji uporabe</string>
   <string name="pref_title_data_slot">Izbrana SIM kartica za podatke</string>
   <string name="pref_title_voice_slot">Izbrana SIM kartica za klice</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
@@ -179,6 +185,7 @@ Pokaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="service_name_content_center">Center vsebine</string>
   <string name="service_name_download">Prenosi</string>
   <string name="service_name_fast_application">Hitre aplikacije Framework</string>
+  <string name="service_name_fast_pairing">Mi Link</string>
   <string name="service_name_game">Dodatek za igre</string>
   <string name="service_name_google_service">Izjava o Googleovih storitvah</string>
   <string name="service_name_location">Storitve ki temeljijo na lokaciji</string>
@@ -189,6 +196,7 @@ Pokaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="service_name_security">Varnost</string>
   <string name="service_name_service_framework">Mi Services Framework</string>
   <string name="service_policy">&lt;Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a >.&lt;/Data</string>
+  <string name="service_policy_download">&lt;Data&gt;Pred uporabo preberite in se strinjajte z &amp;lt;a href=%1$s&amp;gt;Xunlei Pravila o zasebnosti&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
   <string name="service_privacy_index">Pravila o zasebnosti</string>
   <string name="servicestate_title">Izjava o osnovnih storitvah</string>
   <string name="setting_locale">Nastavljanje regije…</string>
@@ -227,6 +235,9 @@ Morate se strinjati z Facemoji Pravila o zasebnosti pred uporabo te storitve."</
   <string name="terms_of_use_lable_default_input_method_kika">"
 
 Morate se strinjati z Kika Pravila o zasebnosti pred uporabo te storitve."</string>
+  <string name="terms_of_use_lable_default_input_method_mint">"
+
+Morate se strinjati z Mint Keyboard Pravila o zasebnosti pred uporabo te storitve."</string>
   <string name="terms_of_use_lable_gms">, Storitve Google Playa</string>
   <string name="terms_of_use_lable_smart_cards">, Pametne kartice</string>
   <string name="terms_privacy_policy_input_method_facemoji">Facemoji Pravila o zasebnosti</string>
