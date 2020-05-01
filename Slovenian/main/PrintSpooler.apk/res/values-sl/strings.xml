@@ -73,7 +73,7 @@
   <string name="print_error_default_message">Na žalost ni uspelo. Poskusite ponovno.</string>
   <string name="print_error_printer_unavailable">Ta tiskalnik trenutno ni na voljo.</string>
   <string name="print_error_retry">Poskusi znova</string>
-  <string name="print_error">"Napaka tiskalnika"</string>
+  <string name="print_fail">"Ne morem tiskati"</string>
   <string name="print_fail_network_error">"Ne morem tiskati. Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="print_forget_printer">Odstranitev tiskalnika</string>
   <string name="print_help_label">Pomoč</string>

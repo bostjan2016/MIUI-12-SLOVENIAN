@@ -73,6 +73,7 @@
   <string name="account_user_gender_female">Ženska</string>
   <string name="account_user_gender_male">Moški</string>
   <string name="account_user_id">ID Mi Računa</string>
+  <string name="account_user_id_show">Mi Račun: %s</string>
   <string name="account_user_income">Prihodki</string>
   <string name="account_user_info">Info o računu</string>
   <string name="account_user_location">Lokacija</string>
@@ -91,6 +92,7 @@
   <string name="account_vip_level">Račun</string>
   <string name="account_xiaomi_service">Storitve</string>
   <string name="action_add_phone">Dodaj telefonsko številko</string>
+  <string name="action_retry">Poskusite ponovno</string>
   <string name="action_update_phone">Spremeni telefonsko številko</string>
   <string name="activate_email_notice">Aktivirajte vaš uporabniški račun v roku 24 ur</string>
   <string name="activity_not_found_notice">"Ne morem najti aplikacije"</string>
@@ -119,7 +121,10 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa .</string>
   <string name="change_password">Spremeni geslo</string>
   <string name="change_phone_number">Menjava številke telefona</string>
   <string name="character_counter_content_description">Vnešeni znaki %1$d od %2$d</string>
+  <string name="character_counter_overflowed_content_description">Prekoračena je omejitev števila znakov %1$d od %2$d</string>
   <string name="checking_phone_num_availible">Preverjanje telefona…</string>
+  <string name="cloud_description_closed">Zasedeno | Sinhr. je izključena</string>
+  <string name="cloud_description_normal">Zasedeno</string>
   <string name="cloud_service">Mi Cloud</string>
   <string name="collect_diagnosis_log">Zberi zapise pregleda</string>
   <string name="com_facebook_device_auth_instructions">Obiščite &lt;b&gt;facebook.com/device&lt;/b&gt; in vnesite zgoraj navedeno kodo.</string>
@@ -127,7 +132,7 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa .</string>
   <string name="com_facebook_internet_permission_error_message">Prijava za WebView zahteva dovoljenje spleta-a</string>
   <string name="com_facebook_internet_permission_error_title">AndroidManifest napaka</string>
   <string name="com_facebook_like_button_liked">Všeč mi je</string>
-  <string name="com_facebook_like_button_not_liked">Všeč</string>
+  <string name="com_facebook_like_button_not_liked">Ni mi všeč</string>
   <string name="com_facebook_loading">Samo trenutek…</string>
   <string name="com_facebook_loginview_cancel_action">Prekliči</string>
   <string name="com_facebook_loginview_log_in_button">Prijavi se</string>
@@ -166,15 +171,16 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa .</string>
   <string name="completed">Končano</string>
   <string name="confirm_activate_email">Potrjeno</string>
   <string name="confirm_bundled_phone_dialog_title">Potrdi skupinsko številko telefona</string>
-  <string name="confirm_new_pwd">Potrdi novo geslo</string>
   <string name="confirm_delete_app_message">Po odstranitvi te aplikacije boste morali potrditi številko telefona pri naslednji prijavi v svoj Mi Račun.</string>
   <string name="confirm_delete_browser_message">Po odstranitvi tega brskalnika boste morali potrditi številko telefona pri naslednji prijavi v svoj Mi Račun.</string>
   <string name="confirm_delete_device_message">Po izbrisu te naprave boste morali potrditi številko telefona pri naslednji prijavi v svoj Mi Račun.</string>
+  <string name="confirm_new_pwd">Potrdi novo geslo</string>
   <string name="confirm_phone_number_dialog_message">Koda za preverjanje bo poslana na: %s.</string>
   <string name="confirm_phone_number_dialog_title">Potrdi številko telefona</string>
   <string name="confirm_unbind">Prekinem povezavo s tem računom?</string>
   <string name="confirm_unbundled_phone_dialog_message">Številka telefona %1$s je povezana z Mi Račun %2$s. Ta ne bo več povezan z Mi Računom %3$s če boste nadaljevali. Nadaljujem?</string>
   <string name="continue_action">Nadaljuj</string>
+  <string name="copy">Kopiraj</string>
   <string name="cta_declaration_agree_and_continue">Strinjam se</string>
   <string name="cta_declaration_exit">Izhod</string>
   <string name="cta_declaration_ignore">Ignoriraj</string>
@@ -213,6 +219,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="error_shorter_answer_length">Odgovor bi moral biti dolg vsaj 2 znaka</string>
   <string name="exceed_binded_phone_times_notice">Ta številka telefona je že povezana z drugim Mi Računom.</string>
   <string name="exit">Izhod</string>
+  <string name="expand_button_title">Napredno</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Ta številka telefona je že povezana z drugim Mi Računom</string>
   <string name="find_device">Najdi napravo</string>
@@ -232,8 +239,8 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, povezana telefonska številka:%s</string>
   <string name="find_device_message">Trenutna naprava je zaklenjena, sporočil: %1$s, kontaktni telefon: %2$s.</string>
   <string name="find_device_null_credential_error">"Ne morem dobiti informacije o napravi, kontaktirajte Xiaomi službo za pomoč uporabnikom"</string>
-  <string name="find_device_operation_failed_error">Prišlo je do napake strežnika, počakajte minuto ali dve in poskusite ponovno</string>
   <string name="find_device_open">Vključeno</string>
+  <string name="find_device_operation_failed_error">Prišlo je do napake strežnika, počakajte minuto ali dve in poskusite ponovno</string>
   <string name="find_device_operation_failed_error_unknown">Prišlo je do napake, poskusite ponovno kasneje</string>
   <string name="find_device_owner_phone">Trenutna naprava je zaklenjena, kontaktni telefon: %1$s.</string>
   <string name="find_device_play_sound">Predvajaj zvok</string>
@@ -241,18 +248,25 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="find_device_remote_exception">RPC napaka</string>
   <string name="find_device_request_error">"Prišlo je do napake strežnika, počakajte minuto ali dve in poskusite ponovno"</string>
   <string name="find_device_request_prepare_error">"Ne morem dobiti statusa, poskusite ponovno kasneje"</string>
-  <string name="find_device_unknown_error">"Ne morem pridobiti statusa naprave, počakajte minuto ali dve in poskusite ponovno"</string>
   <string name="find_device_set_lost_model">Izgubljeni način dela</string>
   <string name="find_device_title">Najdi napravo</string>
+  <string name="find_device_unknown_error">"Ne morem pridobiti statusa naprave, počakajte minuto ali dve in poskusite ponovno"</string>
   <string name="first_login_time">Prvi poskus prijave: %s</string>
   <string name="for_diagnosis_usage_only">Uporablja se samo za iskanje problemov.</string>
-  <string name="get_back_pwd">Ponastavitev vašega gesla</string>
   <string name="forward_to_bind">Dodaj</string>
+  <string name="get_back_pwd">Ponastavitev vašega gesla</string>
   <string name="get_device_list_failed">Ne morem pridobiti naprave</string>
   <string name="get_phone_bind_exceed_limit">Povežete lahko do 3 Mi račune z eno številko telefona. Ni možno dodati nove račune.</string>
   <string name="get_phone_verifycode_exceed_limit">Preveč poslanih kod za potrjevanje na ta naslov e-pošte. Počakajte 24 ur in poskusite ponovno.</string>
-  <string name="guest_account_label">Račun Mi Gosta</string>
   <string name="google">Google</string>
+  <string name="guest_account_label">Račun Mi Gosta</string>
+  <string name="health_action_activate">Aktiviraj</string>
+  <string name="health_action_install">Namesti</string>
+  <string name="health_action_update">Posodobi</string>
+  <string name="health_description_normal">Koraki</string>
+  <string name="health_state_not_activated">Ni aktivirano</string>
+  <string name="health_state_not_installed">Ni nameščeno</string>
+  <string name="health_state_not_support">Ni podprto v tej verziji</string>
   <string name="i_agree">V redu</string>
   <string name="i_agree_continue">Nadaljuj</string>
   <string name="identity">Identifikacija</string>
@@ -279,17 +293,26 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="logout_account">Odjava</string>
   <string name="logout_failed">Ne morem se vpisati</string>
   <string name="mi_account_identity_title">Potrdite svojo identiteto</string>
-  <string name="mi_vip_info">Pokaži poslastice</string>
   <string name="mi_family">Mi Home</string>
-  <string name="mi_insurance">Mi Insurance</string>
+  <string name="mi_health">Xiaomi zdravje</string>
+  <string name="mi_insurance">Mi zavarovanje</string>
   <string name="mi_pass">Mi Pass</string>
   <string name="mi_pay_identity">Identiteta</string>
+  <string name="mi_vip_info">Pokaži poslastice</string>
   <string name="micloud_account_name">Mi Račun</string>
   <string name="micloud_space_info">%s na voljo</string>
   <string name="mili_center">Mi krediti</string>
   <string name="mipay_center">Mi Denarnica</string>
   <string name="miui_provision_find_status_text">"Ta naprava je povezana z obstoječim Mi Računom (%1$s), vnesite geslo za kontrolo naprave.
 (Št. odklepanj: %2$s)"</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ni podatkov</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ne morem naložiti</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Kaže da uporabljate privzeti prostor Mi Računa."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"V tem primeru se bodo vsi podatki sinhronizirali na vaš Drugi prostor. Da se ognete temu ne vključujte sinhronizacije z Mi Cloudom"</string>
@@ -303,6 +326,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="no_response_retry">Ni odgovora, poskusite ponovno.</string>
   <string name="no_sim_card_or_unactivated">Ni SIM kartice ali pa ni aktivirana</string>
   <string name="nobind">Ni povezano</string>
+  <string name="not_set">Ni nastavljeno</string>
   <string name="notify_network_restricted_content_bg_network">"Mi Račun nima dostopa do spleta. Tapnite za odobritev."</string>
   <string name="notify_network_restricted_content_hidden_state">"Aktivnost Mi Računa v ozadju je omejena. Tapnite za odobritev."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Račun nima dostopa do spleta. Tapnite za odobritev."</string>
@@ -336,9 +360,9 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_bad_authentication">Neveljavno uporabniško ime ali geslo</string>
   <string name="passport_barcode_add_account_prompt">Da povežete račun, po prijavi ponovno skenirajte QR kodo.</string>
   <string name="passport_btn_change_account">Menjava računa</string>
-  <string name="passport_can_not_receive_verification_code">"Ne morete prejeti kode za preverjanje?"</string>
   <string name="passport_btn_return">Nazaj</string>
   <string name="passport_button_cancel">Prekliči</string>
+  <string name="passport_can_not_receive_verification_code">"Ne morete prejeti kode za preverjanje?"</string>
   <string name="passport_change_account">Sprememba računa</string>
   <string name="passport_change_phone_number">Menjava številke</string>
   <string name="passport_checking_account">Preverjanje gesla…</string>
@@ -350,8 +374,8 @@ Pošaljite to kodo našemu tehniku."</string>
    ki ste ga prejeli v vaš poštni predal
   ."</string>
   <string name="passport_completed">Zaključeno</string>
-  <string name="passport_confirm_login">Nastavi</string>
-  <string name="passport_confirm">Potrdi</string>
+  <string name="passport_confirm">V redu</string>
+  <string name="passport_confirm_login">Nadaljuj</string>
   <string name="passport_confirm_recycle_account">Da</string>
   <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Kaže da je&lt;/font&gt; številko %s recikliral vaš operater, a Mi Račun je povezan z njo. Ali je ta račun vaš?"</string>
   <string name="passport_continue">Nadaljuj</string>
@@ -391,8 +415,8 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_error_user_name">Neveljavno uporabniško ime</string>
   <string name="passport_error_verify_activator_phone_message">Preverite ali je storitev SIM kartice aktivirana in da je naprava povezana z omrežjem.</string>
   <string name="passport_error_verify_activator_phone_title">"Ne morem preveriti telefonske številke"</string>
-  <string name="passport_extra_gdpr_license">Z izdelavo Mi Računa se strinjate da bo Xiaomi uporabljal vaše osebne podatke. Preberite naša Pravila o zasebnosti da vidite kako obdelujemo in uporabljamo osebne podatke.</string>
   <string name="passport_error_verify_code">Koda ki ste jo vnesli je napačna</string>
+  <string name="passport_extra_gdpr_license">Z izdelavo Mi Računa se strinjate da bo Xiaomi uporabljal vaše osebne podatke. Preberite naša Pravila o zasebnosti da vidite kako obdelujemo in uporabljamo osebne podatke.</string>
   <string name="passport_failed_to_send_activate_email">Ne morem poslati aktivacijski e-mail</string>
   <string name="passport_find_password_on_web_msg">Obišči account.mi.com za ponastavitev gesla.</string>
   <string name="passport_first_login_prompt">Mi Račun bo samodejno napravjen ko se prvič prijavite.</string>
@@ -406,6 +430,10 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_get_verify_code">Pridobi kodo</string>
   <string name="passport_getting_activator_phone">Sprejem podatkov o SIM kartici telefona…</string>
   <string name="passport_getting_verify_code">Prejemam</string>
+  <string name="passport_google_login">Prijavite se s prej uporabljenim Google Računom?</string>
+  <string name="passport_google_login_agree">Google račun</string>
+  <string name="passport_google_login_disagree">Mi Račun</string>
+  <string name="passport_google_login_failed">"Ne morem se prijaviti z Google Računom. Prijavite se neposredno v svoj Mi račun."</string>
   <string name="passport_i_know">Razumem</string>
   <string name="passport_identification_expired">Koda za potrditev je potekla, začnite znova</string>
   <string name="passport_identitfication_expired">Preverjanje kode je poteklo, poskusite znova</string>
@@ -419,8 +447,8 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_input_vcode_hint">Vnesite kodo za preverjanje</string>
   <string name="passport_input_voice_captcha_hint">Vnesite glasovno kodo za preveritev</string>
   <string name="passport_input_voice_hint">Vnesite glasovno  kodo</string>
-  <string name="passport_international_register_by_email">Napravite račun s pomočjo e-poštnega naslova</string>
   <string name="passport_instant_login">Prijavi se</string>
+  <string name="passport_international_register_by_email">Napravite račun s pomočjo e-poštnega naslova</string>
   <string name="passport_license_host_unreachable">"Ne morem se povezati z omrežjem. To stran si lahko ogledate na %s."</string>
   <string name="passport_license_info_collapse">Strni</string>
   <string name="passport_license_info_open">Podrobnosti</string>
@@ -539,10 +567,10 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_use_generated_pwd_title">Zapomnite si vaše geslo!</string>
   <string name="passport_user_agreement">Pogoji uporabe</string>
   <string name="passport_user_agreement_link">&lt;Data&gt;"Prebral sem in se strinjam z &amp;lt;a href=%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="passport_user_agreement_required">Pogoji uporabe (obvezno)</string>
   <string name="passport_user_id_notice">Vaš ID Mi Računa je %s.</string>
   <string name="passport_user_reg_region">Država/Regija</string>
   <string name="passport_user_reg_region_warning">"Po zaprtju računa ne morete spremeniti državo/regijo"</string>
-  <string name="passport_user_agreement_required">Pogoji uporabe (obvezno)</string>
   <string name="passport_vcode_notice">Koda</string>
   <string name="passport_vcode_notification_title">Vaš vpis za preverjanje je nepopoln</string>
   <string name="passport_vcode_prompt_long">Vnesite kodo za preverjanje ki jo je ustvaril Mi Varnostni žeton</string>
@@ -566,6 +594,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="phone_activated">%s aktivirano</string>
   <string name="phone_num_use_for">Telefonska številka se uporablja za:</string>
   <string name="photoPickerNotFoundText">Ni dostopnih fotografij.</string>
+  <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="push_notification_content">Pridobite kodo</string>
   <string name="push_notification_title">Prijavili ste se na svoj Mi Račun iz neznane naprave</string>
   <string name="push_notify_dialog_message">"Neznana naprava se poskuša prijaviti na vaš Mi Račun. Vnesite kontrolno kodo v napravi. Če to niste bili vi, takoj zamenjajte geslo Mi Računa. Kontrolno kodo ne zaupajte nikomur."</string>
@@ -601,7 +630,6 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="search_account_security">Varnost računa</string>
   <string name="search_account_security_desc">Nastavitve računa</string>
   <string name="search_app_name">Mi Račun</string>
-  <string name="search_menu_title">Išči</string>
   <string name="search_bind_Account">Računi</string>
   <string name="search_bind_Account_desc">Računi</string>
   <string name="search_bind_Account_key_words">Računi,Sina Weibo,QQ,Avtorizacija</string>
@@ -614,6 +642,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="search_logout_account_desc">Mi Račun</string>
   <string name="search_logout_account_key_words">Odjava</string>
   <string name="search_logout_account_path">Nastavitve/Mi Račun</string>
+  <string name="search_menu_title">Išči</string>
   <string name="search_mi_account">Mi Račun</string>
   <string name="search_mi_account_desc">Mi Račun</string>
   <string name="search_mi_account_key_words">Mi Račun,Prijava,izdelaj račun,Mi Cloud,Mi Krediti,Mi Wallet,Mi Pass,Mi Insurance,Nastavitve računa,Urejanje računa</string>
@@ -635,15 +664,20 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="send_email_activate_message">E-pošta za preverbo poslana</string>
   <string name="sending">Pošiljanje…</string>
   <string name="service_error">Napaka storitve</string>
+  <string name="set_security_question_title">Nastavi varnostna vprašanja</string>
   <string name="set_success">Uspešno zamenjano</string>
   <string name="sign_in">Prijavi se</string>
   <string name="sim_card">SIM kartica</string>
   <string name="sim_changed_notification_msg">Pritisnite za posodobitev vašega telefona in obdržite svoj račun varen.</string>
   <string name="sim_changed_notification_title">Telefonska številka je spremenjena?</string>
-  <string name="set_security_question_title">Nastavi varnostna vprašanja</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Poslano</string>
   <string name="sns_access_token_expired_warning">Potekel je čas prijave v račun. Prijavite se ponovno za ponovno povezovanje s tem računom.</string>
+  <string name="state_data_error">"Ne morem dobiti podatke"</string>
+  <string name="state_loading">Samo trenutek…</string>
+  <string name="submit_answers">Pošlji</string>
+  <string name="success">Končano</string>
+  <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="system_ad">Oglasi v sist. aplikacijaha</string>
   <string name="system_ad_list">Poglejte povezane aplikacije.</string>
   <string name="system_ad_summary">"Vklopite to storitev in tako omogočite prikazovanje majhnega števila oglasov v sistemskih aplikacijah. Ti oglasi nam pomagajo razvijati in izboljševati naše izdelke in storitve. To storitev lahko kadarkoli izklopite. Hvala za podporo! "</string>
@@ -651,8 +685,6 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="system_ad_switch_failed">"Ne morem uporabiti"</string>
   <string name="talkback_scan_barcode">Skeniraj QR kodo</string>
   <string name="temporary_not_available">"Trenutno še ni na voljo"</string>
-  <string name="submit_answers">Pošlji</string>
-  <string name="success">Končano</string>
   <string name="trusted_browsers">Varni brskalniki</string>
   <string name="trusted_browsers_prompt">Brskalnik ne bo več zaupanja vreden če izbrišete piškotke.</string>
   <string name="turn_off_find_device_failed_title">"Ne morem izključiti Najdi napravo"</string>
@@ -680,16 +712,18 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="used_cloud_storage_info">Izkoriščen prostor za shranjevanje %s</string>
   <string name="user_avatar_update_title">Zamenjaj sliko profila</string>
   <string name="user_avatar_uploading">Samo trenutek…</string>
+  <string name="v7_preference_off">IZKLJUČENO</string>
+  <string name="v7_preference_on">VKLJUČENO</string>
   <string name="verified_apps">Preverjene aplikacije</string>
   <string name="verified_devices">Preverjene naprave</string>
   <string name="verify_phone_prompt">Izberi številko telefona za preverjanje</string>
   <string name="verify_phone_title">Preveri številko telefona</string>
   <string name="vip_account_settings">Vip nastavitve</string>
   <string name="vip_more_info">Več Vip Info</string>
+  <string name="vip_settings_info">VIP nastavitve</string>
+  <string name="weixin">WeChat</string>
   <string name="wipe_data_dialog_msg">%s bo izbrisano če nadaljujete.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Nekateri predmeti niso bili sinhronizirani"</string>
-  <string name="vip_settings_info">VIP nastavitve</string>
-  <string name="weixin">WeChat</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

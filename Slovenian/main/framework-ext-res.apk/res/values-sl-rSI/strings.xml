@@ -101,8 +101,8 @@
   <string name="input_method_clipboard_checkbox_cancle">Prekliči</string>
   <string name="input_method_clipboard_checkbox_confirm">Izbriši</string>
   <string name="input_method_clipboard_clear_all_button">Izbriši vse</string>
-  <string name="input_method_clipboard_clear_all_phrase_des">Želite izbrisati vse stvari iz medpomnilnika?</string>
-  <string name="input_method_clipboard_clear_all_phrase_title">Čiščenje medpomnilnika</string>
+  <string name="input_method_clipboard_clear_all_phrase_des">Želite izbrisati vse stvari iz odložišča?</string>
+  <string name="input_method_clipboard_clear_all_phrase_title">Čiščenje odložišča</string>
   <string name="input_method_clipboard_copy_success">Uspešno kopirano</string>
   <string name="input_method_clipboard_delete_success">Uspešno izbrisano</string>
   <string name="input_method_clipboard_participle">Odvojene besede</string>
@@ -113,7 +113,7 @@
   <string name="input_method_phrase_edit">Uredi</string>
   <string name="input_method_phrase_top">Pripni</string>
   <string name="input_method_switch_settings_text">Nastavitve tipkovnice</string>
-  <string name="input_method_tab_clipboard_text">Medpomnilnik</string>
+  <string name="input_method_tab_clipboard_text">Odložišče</string>
   <string name="input_method_tab_phrase_text">Pogosti izrazi</string>
   <string name="internal_livetalk_enable">Uporabite doplačilo paketa za domače klice</string>
   <string name="international_livetalk_enable">Uporabite doplačilo paketa za mednarodne klice</string>

@@ -80,6 +80,14 @@
   <string name="low_momery_warning">Ni dovolj prostora za shranitev. Snemanje ustavljeno in videoposnetek je shranjen.</string>
   <string name="memory_not_allowed">Ni dovolj prostora za shranitev. Sprostite nekaj prostora da lahko snemate.</string>
   <string name="mic_sound">Mikrofon</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ni podatkov</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ne morem naložiti</string>
   <string name="no_recorder_info">Ni videoposnetka</string>
   <string name="no_recorder_info2">Pritisnite ikono za začetek snemanja.​</string>
   <string name="no_sound">Utišaj</string>
