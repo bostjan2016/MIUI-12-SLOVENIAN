@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_menu_item_split_disable">"Aplikacija ne podpira deljeni zaslon."</string>
-  <string name="accessibility_menu_item_split_enable">Aplikacija podpira deljeni zaslon</string>
-  <string name="accessibility_recents_item_open_app_info">Odpri podatke o aplikaciji %s.</string>
-  <string name="accessibility_splite_screen_primary">Dodano kot primarna aplikacija na deljenem zaslonu</string>
-  <string name="accessibility_splite_screen_secondary">Dodano kot sekundarna aplikacija na deljenem zaslonu</string>
     <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
     <string name="abc_action_bar_up_description">Pomik navzgor</string>
     <string name="abc_action_menu_overflow_description">Več možnosti</string>
@@ -32,6 +27,16 @@
     <string name="abc_shareactionprovider_share_with">Skupna raba z</string>
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
+  <string name="accessibility_menu_item_split_disable">"Aplikacija ne podpira deljeni zaslon."</string>
+  <string name="accessibility_menu_item_split_enable">Aplikacija podpira deljeni zaslon</string>
+  <string name="accessibility_recent_task_enter">Nedavno odprto</string>
+  <string name="accessibility_recent_task_exit">Nedavno zaprto</string>
+  <string name="accessibility_recent_task_locked_state">Zaklenjeno</string>
+  <string name="accessibility_recent_task_memory_info">Skupaj RAM: %2$s | Na voljo RAM: %1$s. Dvakrat tapnite za brisanje.</string>
+  <string name="accessibility_recent_task_unlocked_state">Odklenjeno</string>
+  <string name="accessibility_recents_item_open_app_info">Odpri podatke o aplikaciji %s.</string>
+  <string name="accessibility_splite_screen_primary">Dodano kot primarna aplikacija na deljenem zaslonu</string>
+  <string name="accessibility_splite_screen_secondary">Dodano kot sekundarna aplikacija na deljenem zaslonu</string>
   <string name="action_add_to_workspace">Dodaj v delovni prostor</string>
   <string name="activity_not_found">"Aplikacija ni naložena na vašem telefonu"</string>
   <string name="activity_not_unlocked">Počakajte da se naprava popolnoma znova zažene pred odpiranjen aplikacij</string>
@@ -39,6 +44,7 @@
   <string name="add_custom_category">Prilagodi</string>
   <string name="add_screen">Dodaj zaslon</string>
   <string name="added_all_category">Vse aplikacije uspešno dodane</string>
+  <string name="additional_settings">Dodatne nastavitve</string>
   <string name="all_app_category_all">Vse</string>
   <string name="all_app_category_communication">Komunikacija</string>
   <string name="all_app_category_default">Kategorija</string>
@@ -52,7 +58,6 @@
   <string name="all_app_category_photography">Fotografija</string>
   <string name="all_app_category_shopping">Kupovanje</string>
   <string name="all_app_category_tools">Orodja</string>
-  <string name="additional_settings">Dodatne nastavitve</string>
   <string name="all_apps">Vse aplikacije</string>
   <string name="all_apps_no_search_results">"Nič ne najdem"</string>
   <string name="all_apps_search_app">Išči aplikacije</string>
@@ -177,6 +182,7 @@
   <string name="content_description_for_shortcut_icon_checked">%1$s, preverjeno</string>
   <string name="content_description_shortcut_icon_unchecked">%1$s, ni preverjeno</string>
   <string name="content_description_workspace_thumbnail_item">Pregled zaslona, stran %1$s</string>
+  <string name="copy">Kopiraj</string>
   <string name="current_preview">Pregled</string>
   <string name="current_wallpaper">Trenutno</string>
   <string name="custom_wallpaper_picker">Po meri</string>
@@ -228,6 +234,7 @@
   <string name="emptyplaylist">Tapni če hočeš dodati pesem</string>
   <string name="enable_wallpaper_scroll">Vključi pomikanje slike</string>
   <string name="encryption">Šifriranje</string>
+  <string name="expand_button_title">Napredno</string>
   <string name="failed_to_delete_temporary">Izbris ni mogoč</string>
   <string name="failed_to_drop">Ni mogoče premakniti</string>
   <string name="failed_to_drop_widget_invalid">Pripomoček nepravilen</string>
@@ -359,15 +366,24 @@
   <string name="minus_one_screen">Osebni asistent</string>
   <string name="minus_one_screen_none">Nič</string>
   <string name="miui_screen_config_title">Nastavitve zač. zaslona</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ni podatkov</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ne morem naložiti</string>
   <string name="mtzgadget_missing_text">"Pripomoček ni dostopen"</string>
   <string name="multi_selecting_tips">Če hočete premakniti aplikacijo, odvlecite njeno ikono in jo izpustite tu</string>
   <string name="no_detail_page">Ni podrobnosti strani</string>
   <string name="no_space_toast">Ni dovolj prostora</string>
   <string name="no_space_toast_when_click_widget">Na tej strani je premalo prostora. Poskusite to stvar potegniti na drugo stran.</string>
   <string name="normal_wallpaper">Slika ozadja</string>
+  <string name="not_set">Ni nastavljeno</string>
   <string name="notification_installed">Uspešno nameščeno</string>
   <string name="notification_open_button">Odpri</string>
-  <string name="notification_reset_description">%1$s%1$s Ne morem resetirati zaganjalnik na %2$s</string>
+  <string name="notification_reset_description">%1$s%1$s Ne morem ponastaviti zaganjalnik na %2$s</string>
   <string name="notification_reset_duration">Čez 2 ure,</string>
   <string name="notification_reset_title">Samod. čiščenje je končano</string>
   <string name="one_key_call_title">Tapni za klicanje</string>
@@ -408,6 +424,7 @@
   <string name="pref_render_in_truecolor_title">Visoko kvalitetne grafike</string>
   <string name="pref_screen_transformation_type_title">Prehod zaslona</string>
   <string name="pref_wallpaper_scroll_type_title">Poravnava ozadja</string>
+  <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="preferences_general_title">Dodatne nastavitve</string>
   <string name="preferences_title">Nastavitve vmesnika</string>
   <string name="preferred_app_settings_not_selected">Ni izbrano</string>
@@ -426,7 +443,10 @@
   <string name="recents_empty_message">Ni nedavnih stvari</string>
   <string name="recents_empty_message_dismissed_all">"Vse ste očistili"</string>
   <string name="recents_empty_message_multi_window">Odpiranje aplikacij iz zač. zaslona</string>
+  <string name="recents_exit_multi_window_mode">Izhod</string>
   <string name="recents_forbid_dock_when_screening_toast_text">"Ne morem uporabiti deljeni zaslon med predvajanjem"</string>
+  <string name="recents_incompatible_app_message">"Ta aplikacija ne podpira deljeni zaslon"</string>
+  <string name="recents_smallwindow_text">Spusti za dodajanje</string>
   <string name="recents_task_screening">Predvajanje</string>
   <string name="recents_title_app_manager">Urejanje aplikacij</string>
   <string name="recents_title_game">Igre</string>
@@ -434,6 +454,7 @@
   <string name="recents_title_garbage_deepclean">Globinsko čiščenje</string>
   <string name="recents_title_market">Najdi aplikacije</string>
   <string name="recents_title_security_scan">Varnostni pregled</string>
+  <string name="recents_tv_small_window_text">Plavajoča okna</string>
   <string name="recommend_app">Predlogi aplikacij</string>
   <string name="recommend_apps_default_title">Prazno</string>
   <string name="recommend_apps_no_data">Ni podatka</string>
@@ -457,10 +478,10 @@
   <string name="screen_cells_config_title">Razpored zač. zaslona</string>
   <string name="screen_locked_toast">Razporeditev zač. zaslona je zaklenjena</string>
   <string name="screen_number">Zaslon %d</string>
+  <string name="scroll_tip_format_when_announce_accessibility">na strani %1$d, %2$d aplikacij</string>
   <string name="search_in_apps_store">Išči \"%1$s\" v %2$s</string>
   <string name="search_menu_title">Išči</string>
   <string name="search_no_result">"Nič ne najdem"</string>
-  <string name="scroll_tip_format_when_announce_accessibility">na strani %1$d, %2$d aplikacij</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_frame">Okvir</string>
   <string name="select_photo">Fotografija</string>
@@ -479,6 +500,14 @@
   <string name="show_mem_info_title">Pokaži status pomnilnika</string>
   <string name="show_most_popular_apps_you_used">Pokaži največkrat uporabljene aplikacije v predalu</string>
   <string name="show_recents_recommend_title">Pokaži predloge</string>
+  <string name="slide_to_open_newhome">Povleci gor za odpiranje Centra za kontrolo</string>
+  <string name="small_window_button_complete">Končano</string>
+  <string name="small_window_edit_content">Lahko dodate do %d aplikacij</string>
+  <string name="small_window_edit_title">Trenutne aplikacije</string>
+  <string name="small_window_empty">Izberite iz razpoložljivih aplikacij</string>
+  <string name="small_window_select_title">Razpoložljive aplikacije</string>
+  <string name="small_window_title_text">Tapnite za odpiranje plavajočega okna</string>
+  <string name="small_window_toast">Lahko dodate do %d aplikacij</string>
   <string name="sort_by_abc">Razvrsti po imenu</string>
   <string name="sort_by_frequency">Razvrsti po uporabi</string>
   <string name="sort_by_not_defined">Samodejno sortiranje</string>
@@ -527,6 +556,8 @@
   <string name="unnamed_folder_name">Mapa</string>
   <string name="unstable_dialog_content">"To je testna verzija sistema Android in je podvržena spremembam. Uporaba te verzije je urejena z licenčnim dogovorom za pregled SDK za Android. Testna verzija Androida ni stabilna izdaja in lahko vsebuje napake in pomanjkljivosti ki lahko poškodujejo sistem, napravo ali podatke. Ne testira se kot tovarniški OS in lahko povzroči prenehanje delovanja naprave, nameščenih storitev ali aplikacij."</string>
   <string name="use_theme_screen_cells_title">Dovoli temi da spremeni videz zaslona</string>
+  <string name="v7_preference_off">IZKLJUČENO</string>
+  <string name="v7_preference_on">VKLJUČENO</string>
   <string name="wallpaper">Slika za ozadje</string>
   <string name="wallpaper_auto_change_title">Zaklenjeni zaslon</string>
   <string name="wallpaper_failed_message">"Ne morem nastaviti sliko za ozadje"</string>

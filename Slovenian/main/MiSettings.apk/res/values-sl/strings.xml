@@ -45,6 +45,7 @@
   <string name="contact_title">Bližnjica stikov</string>
   <string name="contrast_ratio">Kontrast</string>
   <string name="control_center_title">Čas zaslona danes</string>
+  <string name="control_center_title_new">Uporabljeno danes</string>
   <string name="copy">Kopiraj</string>
   <string name="create">Izdelaj</string>
   <string name="create_failed">"Ne morem narediti"</string>
@@ -61,6 +62,7 @@
   <string name="expand_button_title">Napredno</string>
   <string name="first_unlock_time">"Prvo odklepanje: "</string>
   <string name="focus_mode_timer_add_limit">Lahko dodate do %d lastnih časovnikov</string>
+  <string name="focus_mode_custom_time">Prilagojeno trajanje</string>
   <string name="focus_mode_timer_delete">Izbriši</string>
   <string name="focus_mode_timer_exist">Ta seja že obstaja</string>
   <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d do %d min.</string>

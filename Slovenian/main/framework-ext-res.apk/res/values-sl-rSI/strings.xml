@@ -53,6 +53,10 @@
   <string name="default_device_name">Neznana naprava</string>
   <string name="default_name">Privzeto</string>
   <string name="description_title">Tihi način</string>
+  <string name="device_status_failed">"Ne morem poslati"</string>
+  <string name="device_status_sending">Pošiljanje…</string>
+  <string name="device_status_success">Uspešno poslano</string>
+  <string name="device_status_waiting">Na čakanju…</string>
   <string name="device_type_pc">Računalnik</string>
   <string name="eighthours">8 ur</string>
   <string name="enable_livetalk_summary">Prihranite 70% pri vaših klicih</string>
@@ -143,6 +147,8 @@
   <string name="miui_warning_button_ok">V redu</string>
   <string name="miui_warning_tip_info">Napaka %1$s. Zaprem aplikacijo?</string>
   <string name="onehour">30 minut</string>
+  <string name="open_close_tip_action">Razumem</string>
+  <string name="open_close_tip_content">Da zaprate plavajoče okno, pritisnite in držite akcijski trak, potem pa povlecite gor</string>
   <string name="package_delete_confirm_step_1">Odstranim %s?</string>
   <string name="package_delete_confirm_step_2">Odstranitev te aplikacije lahko povzroči nestabilnost sistema vaše naprave.</string>
   <string name="package_delete_confirm_step_3">"Ne boste mogli odpreti aplikacije ko jo odstranite."</string>
@@ -158,9 +164,9 @@
   <string name="popup_camera_cancel_popup">Prekliči</string>
   <string name="popup_camera_continue_popup">Odpri kamero</string>
   <string name="popup_camera_front_failed">"Ne morem odpreti sprednje kamere. Poskusite ponovno."</string>
+  <string name="popup_camera_front_falied_times">"Ne morem odpreti sprednje kamere večkrat. Približajte napravo bliže Mi Home-u da ugotovite problem."</string>
   <string name="popup_camera_front_when_use">Aplikacija Kamera mora ponovno odpreti sprednnj kamero. Odprem?</string>
   <string name="popup_camera_hid_device_name">Black shark</string>
-  <string name="popup_camera_front_falied_times">"Ne morem odpreti sprednje kamere večkrat. Približajte napravo bliže Mi Home-u da ugotovite problem."</string>
   <string name="popup_camera_popup_falied_times_calibrate">"Ne morem odpreti sprednje kamere večkrat. Poskusite kalibrirati kamero."</string>
   <string name="popup_camera_remove_hid_device">Kaže da je vaša naprava povezana z urejevalnikom za igre. Morda ne boste mogli odpreti sprednje kamere.</string>
   <string name="popup_camera_sure">Razumem</string>
@@ -213,6 +219,7 @@
   <string name="security_permission_validate_warning">Hvala vam ker nam pomagate izboljšati MIUI!</string>
   <string name="security_permission_wifi_and_data_opened_text">WiFi in mobilni podatki vključeni</string>
   <string name="security_permission_xiaomi_account_missed_text">Vnesite vaš ID Mi Računa</string>
+  <string name="security_share_text">Zaščita zasebnosti</string>
   <string name="select">Izberi</string>
   <string name="select_all">Izberi vse</string>
   <string name="send_files_to">Pošlji stvari na</string>
@@ -278,14 +285,14 @@
   <string name="super_resolution_maintain_tips">"Super ločljivost še ni na voljo."</string>
   <string name="switch_brand_desc_tv">Varnostne storitve ponuja Graphite</string>
   <string name="switch_desc_tv">Dva prostora. Ena naprava.</string>
-  <string name="takeback_camera_front_failed">"Ne morem zapreti sprednjo kamero. Poskusite ponovno."</string>
   <string name="switching_tv">Sprememba…</string>
+  <string name="takeback_camera_front_failed">"Ne morem zapreti sprednjo kamero. Poskusite ponovno."</string>
   <string name="talk_back_water_mark_string1">TalkBack je vključen</string>
   <string name="talk_back_water_mark_string2">Pritisnite in držite \"Glasnost +\" in \"Glasnost -\" 3 sekunde da ga izključite</string>
-  <string name="total">DND</string>
   <string name="throwing_print">Natisni</string>
   <string name="throwing_screen">Predvajaj</string>
   <string name="tips_prompt_enable_midrop">Delite datoteke z napravami v bližini</string>
+  <string name="total">DND</string>
   <string name="total_description">Utišaj zvoke in izključi vibriranje za vse stvari razen alarma</string>
   <string name="total_title">DND</string>
   <string name="translation_more">Več</string>
