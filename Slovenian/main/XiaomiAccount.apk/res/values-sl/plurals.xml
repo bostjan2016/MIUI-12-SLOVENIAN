@@ -28,4 +28,8 @@
          <item quantity="other">Pokaži vseh %d brskalnikov</item>
          <item quantity="one">Pokaži %d brskalnik</item>
      </plurals>
+	     <plurals name="health_description_title_suffix">
+        <item quantity="other">" korakov"</item>
+        <item quantity="one">" korak"</item>
+    </plurals>
 </resources>

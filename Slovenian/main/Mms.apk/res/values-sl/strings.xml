@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
+    <string name="abc_action_bar_up_description">Pomik navzgor</string>
+    <string name="abc_action_menu_overflow_description">Več možnosti</string>
+    <string name="abc_action_mode_done">Končano</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
+    <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+    <string name="abc_capital_off">IZKLOP</string>
+    <string name="abc_capital_on">VKLOP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meni+</string>
+    <string name="abc_search_hint">Iskanje…</string>
+    <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
+    <string name="abc_searchview_description_query">Iskalna poizvedba</string>
+    <string name="abc_searchview_description_search">Iskanje</string>
+    <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
+    <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+    <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
+    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="about_smart_sms_title">Partner Smart sporočilo</string>
   <string name="action_firewall_setting">Seznam blokiranih</string>
   <string name="action_get_otp">Dobi kodo</string>
@@ -104,6 +131,7 @@
   <string name="check_all">Izberi vse</string>
   <string name="chenghu_disable_mms">Ne morete uporabljati vzdevka v MMS</string>
   <string name="class_0_message_activity">Sporočilo razreda 0</string>
+  <string name="classifing">Združevanje sporočil…</string>
   <string name="click_to_update">Tapnite za preverjanje posodobitve</string>
   <string name="click_to_view">Tapni za prikaz</string>
   <string name="close">Zapri</string>
@@ -416,6 +444,7 @@
   <string name="messagelist_sender_self">Jaz</string>
   <string name="messaging">Sporočila</string>
   <string name="mi_message_title">Mi sporočilo</string>
+  <string name="millionbyte">MB</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežitev</string>
@@ -1000,6 +1029,9 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="system_permission_perm_read_mms">Branje MMS-ov</string>
   <string name="system_permission_perm_read_numbers">Branje številk telefona</string>
   <string name="system_permission_perm_send_mms">Poslati MMS</string>
+  <string name="tab_finance">Finance</string>
+  <string name="tab_message">Sporočila</string>
+  <string name="tab_promotions">Promocije</string>
   <string name="text_in_popup_saved_to_clipboard">Urejevan tekst v pojavnem oknu je shranjen v odložišče</string>
   <string name="text_message">Sporočilo</string>
   <string name="timed_message_expired_title">"%d označenih sporočil ni bilo poslano"</string>
@@ -1063,14 +1095,14 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="url_scan_again">Preveri ponovno</string>
   <string name="url_scanning">Preverjanje povezave…</string>
   <string name="user_agreement">Pogoji uporabe</string>
-  <string name="user_term">Pogoji uporabe</string>
-  <string name="v7_preference_off">IZKLJUČENO</string>
-  <string name="v7_preference_on">VKLJUČENO</string>
   <string name="user_agreement1">Previdno preberite veljavne pogoje preden naložite dodatno programsko opremo ali pa uporabite ta izdelek.</string>
   <string name="user_agreement2">Pogoji uporabe</string>
   <string name="user_agreement3">" in "</string>
   <string name="user_agreement4">Pravilnik o zasebnosti</string>
   <string name="user_agreement5">Z dotikom "V redu" se strinjate s Pogoji uporabe in Pravilnikom o zasebnosti.</string>
+  <string name="user_term">Pogoji uporabe</string>
+  <string name="v7_preference_off">IZKLJUČENO</string>
+  <string name="v7_preference_on">VKLJUČENO</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Kode za preverjanje</string>
   <string name="view">Pokaži</string>

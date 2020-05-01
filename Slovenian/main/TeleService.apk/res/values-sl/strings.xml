@@ -182,6 +182,8 @@
   <string name="advertisements_disable">Oglasi so izklopljeni</string>
   <string name="advertisements_enable">Oglasi so vklopljeni</string>
   <string name="agree_provision">Strinjam se in nadaljuj</string>
+  <string name="ai_assistant_not_installed">Najprej namestite AI Pomočnika klicev</string>
+  <string name="ai_assistant_setting_title">AI Pomočnik klicev</string>
   <string name="alarm_template">ob %1$s</string>
   <string name="alarm_template_far">ob %1$s</string>
   <string name="alert_dialog_close">Zapri profil</string>
@@ -209,6 +211,7 @@
   <string name="antispam_setting">Seznam blokiranih</string>
   <string name="apn_settings">Imena dostopnih točk</string>
   <string name="apn_settings_not_available">Nastavitve dostopne točke niso na voljo uporabniku</string>
+  <string name="app_name">Tele service</string>
   <string name="app_process_limit_title">Omejitev procesov v ozadju</string>
   <string name="area_code_preference_be_set_summary">Trenutna lokacija: %s</string>
   <string name="area_code_preference_summary">Samod. izberi klicno številko</string>
@@ -910,9 +913,9 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="dialpad_9_number">9</string>
   <string name="dialpad_abc">ABC</string>
   <string name="dialpad_def">DEF</string>
-  <string name="dialpad_eight">8</string>
-  <string name="dialpad_five">5</string>
-  <string name="dialpad_four">4</string>
+  <string name="dialpad_eight">%d</string>
+  <string name="dialpad_five">%d</string>
+  <string name="dialpad_four">%d</string>
   <string name="dialpad_ghi">GHI</string>
   <string name="dialpad_jkl">JKL</string>
   <string name="dialpad_mno">MNO</string>
@@ -976,15 +979,15 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="emergency_enable_radio_dialog_message">Vklop radia …</string>
   <string name="emergency_enable_radio_dialog_retry">Ni signala. Vnovičen poskus …</string>
   <string name="emergency_enable_radio_dialog_title">Klic v sili</string>
+  <string name="emergency_information_confirm_hint">Znova se dotaknite, da si ogledate podatke</string>
+  <string name="emergency_information_hint">Informacije za nujne primere</string>
+  <string name="emergency_information_owner_hint">Lastnik</string>
   <string name="emm_cause_11">"Trenutni operater ne podpira te storitve."</string>
   <string name="emm_cause_14">"Trenutni operater ne podpira mobilne podatkovne storitve."</string>
   <string name="emm_cause_2">"Registriracija telefonske številke ni uspela. Izključite napravo, jo ponovno vključite in poskusite ponovno."</string>
   <string name="emm_cause_3">"Ne morem potrditi uporabnika. Izključite napravo, jo ponovno vključite in poskusite ponovno."</string>
   <string name="emm_cause_6">"Ne morem potrditi naprave. Izključite napravo, jo ponovno vključite in poskusite ponovno."</string>
   <string name="emm_cause_7_8_12_13_15_16_17_22">"Ne morete uporabljati gostovanja. Izključite napravo, jo ponovno vključite in poskusite ponovno. Če se problem ponavlja se obrnite na Pomoč uporabnikom (SKT: +82-2-6346-9000)."</string>
-    <string name="emergency_information_confirm_hint">Znova se dotaknite, da si ogledate podatke</string>
-    <string name="emergency_information_hint">Informacije za nujne primere</string>
-    <string name="emergency_information_owner_hint">Lastnik</string>
   <string name="empty_alert">Polje %s je obvezno in ne sme biti prazno.</string>
   <string name="empty_networks_list">Najdeno ni bilo nobeno omrežje.</string>
   <string name="enable">Omogoči</string>
@@ -1115,6 +1118,7 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="fiveg_sa_switch_open_dialog_title">Pozor</string>
   <string name="fiveg_sa_switch_summary">Dovoli povezovanje z 5G omrežji v samostojnem načinu dela</string>
   <string name="fiveg_sa_switch_title">SA način</string>
+  <string name="fiveg_sa_switch_warning_toast">Ponovno zaženite telefon zaradi efekta.</string>
   <string name="fiveg_signal_strength1">5G Moč signala:</string>
   <string name="fiveg_switch_status1">5G stanje stikala:</string>
   <string name="fiveg_switch_title">5G omrežje</string>
@@ -1319,6 +1323,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="last_sim_callback_title">Zapomni si nastavitve SIM kartice</string>
   <string name="launch_defaults_none">Ni privzetih nastavitev</string>
   <string name="launch_defaults_some">Nastavljene so nekatere privzete nastavitve</string>
+  <string name="legacy_dhcp_client_summary">Uporabi DHCP klienta iz Lollipopa namesto novega Android DHCP klienta.</string>
   <string name="lgu_emm_16_17_22">Registriranje omrežja… Počakajte minuto ali dve in poskusite ponovno.</string>
   <string name="lgu_emm_cause_11_12_13_15">"Ne morem registrirati omrežja"</string>
   <string name="lgu_emm_cause_2">Potrebna je aktivacija. Obiščite servisni center (+82-2-3416-7010).</string>
@@ -1335,7 +1340,6 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="lgu_msim_emm_cause_7_14">"SIM %d omrežje ne ponuja mobilnih podatkovnih storitev"</string>
   <string name="lgu_msim_emm_cause_8">"SIM %d ne more registrirati omrežja. Obiščite servisni center (+82-2-3416-7010)."</string>
   <string name="lgu_msim_emm_cause_others">"SIM %d se ne more povezati na omrežje. Obiščite servisni center (+82-2-3416-7010)."</string>
-  <string name="legacy_dhcp_client_summary">Uporabi DHCP klient iz Lollipopa namesto novega Android DHCP klienta.</string>
   <string name="list_language_dtitle">Jeziki</string>
   <string name="list_language_summary">Izberite jezik novic</string>
   <string name="list_language_title">Jezik</string>
@@ -1363,7 +1367,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="livetalk_dial_direct">Kliči direktno</string>
   <string name="livetalk_experience_button">Poskusite zdaj</string>
   <string name="livetalk_introduction_text">"Nizka poraba, nizki stroški in visoka kakovost
-    Super poceni mednarodnih klici preko spleta"</string>
+Super poceni mednarodnih klici preko spleta"</string>
   <string name="livetalk_last_step">Nazaj</string>
   <string name="livetalk_login_experience_button">Vpiši se</string>
   <string name="livetalk_login_message">"Vpiši se z Mi računom
@@ -1479,13 +1483,21 @@ Zmeraj uporabi to številko"</string>
   <string name="miui_network_selection_reset_text">Ponastavi</string>
   <string name="miui_notification_network_selection_title">SIM: ni storitve</string>
   <string name="miui_notification_network_selection_title_by_sim">SIM %s: ni storitve</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ni podatkov</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ne morem naložiti</string>
   <string name="mmiCancelled">Koda MMI preklicana</string>
   <string name="mmiStarted">Koda MMI zagnana</string>
+  <string name="mo_call_type_title">MO Vrsta klica</string>
   <string name="mobile_advanced_dns_server_title">Naslov DNS strežnika</string>
   <string name="mobile_advanced_ip_address_title">IP naslov</string>
   <string name="mobile_advanced_nr_network_title">5G vrsta omrežja</string>
   <string name="mobile_connection_management">Urejanje mobilne omrežne povezave</string>
-  <string name="mo_call_type_title">MO Vrsta klica</string>
   <string name="mobile_data">"Mobilni podatki: "</string>
   <string name="mobile_data_activate_button">DODAJ PODATKE</string>
   <string name="mobile_data_activate_cancel_button">PREKLIČI</string>
@@ -1571,9 +1583,18 @@ Zmeraj uporabi to številko"</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Ni mogoče nastaviti med klicem</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Napaka SIM kartice</string>
   <string name="msim_setting_categery_title">Nastavitve SIM kartice</string>
+  <string name="msim_setting_default_data">Podatkovna kartica</string>
+  <string name="msim_setting_default_voice">Privzeto za klice</string>
+  <string name="msim_setting_install_virtual_sim_install">Namesti</string>
+  <string name="msim_setting_install_virtual_sim_message">Namestite Mi Carrier Services za nakup SIM kartic in upravljanje načrta vašega operaterja.</string>
+  <string name="msim_setting_install_virtual_sim_tip">Mi Carrier Services</string>
   <string name="msim_setting_no_sim_indicator">Ni SIM kartice</string>
+  <string name="msim_setting_no_sim_number">Ni nastavljeno</string>
+  <string name="msim_setting_no_sim_package_info">Ni podatkov o stanju računa</string>
   <string name="msim_setting_operator_network_title">Mobilno omrežje</string>
+  <string name="msim_setting_pop_text">Izberite SIM kartico za klicanje</string>
   <string name="msim_setting_screen_title">SIM kartice &amp; mobilna omrežja</string>
+  <string name="msim_setting_set_package">Izberite plan</string>
   <string name="msim_setting_sim_info_editor_title">Spremeni informacije o SIM</string>
   <string name="msim_sim_lock">Zaklenjeno</string>
   <string name="msim_sim_radio_off">Izključeno</string>
@@ -1691,10 +1712,10 @@ Kontaktirajte vašega operaterja."</string>
   <string name="notification_missedCallsTitle">Zgrešeni klici</string>
   <string name="notification_network_selection_text">Izbrano omrežje (%s) je onemogočeno</string>
   <string name="notification_network_selection_title">Ni storitve</string>
-  <string name="notification_switch_auto_text">"Kaže da ste se vrnili. Prestavljeno na lokalna omrežja."</string>
-  <string name="notification_switch_auto_title">Mobilna omrežja</string>
   <string name="notification_on_hold">Na čakanju</string>
   <string name="notification_ongoing_call">Klic v teku</string>
+  <string name="notification_switch_auto_text">"Kaže da ste se vrnili. Prestavljeno na lokalna omrežja."</string>
+  <string name="notification_switch_auto_title">Mobilna omrežja</string>
   <string name="notification_voicemail_no_vm_number">Številka glasovne pošte ni znana</string>
   <string name="notification_voicemail_text_format">Kliči %s</string>
   <string name="notification_voicemail_title">Nova glasovna pošta</string>

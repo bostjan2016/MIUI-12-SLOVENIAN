@@ -55,6 +55,7 @@
   <string name="camera_error_title">Napaka kamere</string>
   <string name="cancel">Prekliči</string>
   <string name="character_counter_content_description">Presežena je omejitev števila znakov %1$d od %2$d</string>
+  <string name="character_counter_overflowed_content_description">Presežena je omejitev števila znakov %1$d od %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_for_updates">Preveri za Beta posodobitve</string>
   <string name="choose_open_code_app">Izberite aplikacijo</string>
@@ -123,6 +124,7 @@
   <string name="document_title">Posnemite fotografijo dokumenta</string>
   <string name="document_top_panel_title">Fotografija dokumenta</string>
   <string name="done">Končano</string>
+  <string name="downloadAiVison">Da boste uporabili to storitev namestite dodatek</string>
   <string name="download_stable_version">Uporabi stabilno verzijo</string>
   <string name="download_use_stable_version">Prenesi stabilno verzijo</string>
   <string name="drag_barcode_into_frame">Poravnajte kodo znotraj okvirja</string>
@@ -255,6 +257,8 @@
   <string name="previous">Nazaj</string>
   <string name="prompt">Pozor</string>
   <string name="qr_code_details">Podrobnosti QR kode:</string>
+  <string name="queryGoodsFailed">"Ne najdem informacije o izdelku"</string>
+  <string name="qureyGoods">Išči izdelke</string>
   <string name="recognition_error_download_cancel">Kasneje</string>
   <string name="recognition_error_download_data_msg">Skeniranje kartic zahteva da prenesete orodje za prepoznavanje velikosti okoli 15M, bodite pozorni na uporabo podatkov</string>
   <string name="recognition_error_download_fail">Ne morem prenesti</string>
@@ -357,6 +361,7 @@
   <string name="translation_prompt_translating_word">Prepoznavanje…</string>
   <string name="translation_prompt_word">Postavite besedo znotraj okvira</string>
   <string name="translation_see_more">Pokaži opredelitev</string>
+  <string name="translation_type_chat">Klepet</string>
   <string name="translation_type_sentence">Izraz</string>
   <string name="translation_type_word">Beseda</string>
   <string name="uninstall_prompt">Če se med namestitvijo pojavijo problemi, pojdite na Nastavitve&gt; Aplikacije &gt; Informacije o aplikaciji &gt; Skener, tapnite \"Odstrani\", in poskusite ponovno namestiti aplikacijo.</string>

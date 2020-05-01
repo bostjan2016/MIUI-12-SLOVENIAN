@@ -6,15 +6,42 @@
 Sporočila se bodo pojavila samo v Drugem prostoru."</string>
   <string name="PrivacyContactDes2">"Če ste uporabljali zasebna sporočila v Prvem prostoru
 bo to opravilo samodejno dodano v Drugi prostor."</string>
+    <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
+    <string name="abc_action_bar_up_description">Pomik navzgor</string>
+    <string name="abc_action_menu_overflow_description">Več možnosti</string>
+    <string name="abc_action_mode_done">Končano</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
+    <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+    <string name="abc_capital_off">IZKLOP</string>
+    <string name="abc_capital_on">VKLOP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meni+</string>
+    <string name="abc_search_hint">Iskanje…</string>
+    <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
+    <string name="abc_searchview_description_query">Iskalna poizvedba</string>
+    <string name="abc_searchview_description_search">Iskanje</string>
+    <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
+    <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+    <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
+    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="about_ent_mode">O načinu Enterprise</string>
   <string name="activate_ent_mode">Aktiviraj način Enterprise</string>
   <string name="add_finger_print">Dodajte prstni odtis</string>
+  <string name="agree">Strinjam se</string>
   <string name="air_space_created">Delovni prostor uspešno izdelan</string>
   <string name="air_space_deleted">Delovni prostor uspešno izbrisan</string>
   <string name="air_space_exit">Izhod iz prostora</string>
   <string name="air_space_setting">Nastavitve prostora</string>
   <string name="airspace_users_full">"Delovnega prostora ne morem več izdelati"</string>
-  <string name="agree">Strinjam se</string>
   <string name="appData">Nameščene aplikacije</string>
   <string name="app_name">Komponenta varnosti jedra</string>
   <string name="back">Nazaj</string>
@@ -63,6 +90,7 @@ Vseeno izključim?"</string>
  da jih lahko vidite kadarkoli"</string>
   <string name="contact_us">Kontaktirajte nas</string>
   <string name="continueButton">Nadaljuj</string>
+  <string name="copy">Kopiraj</string>
   <string name="createANewSpace">Napravite zaseben prostor na svojem telefonu.</string>
   <string name="createUserFail">"Ne morem napraviti"</string>
   <string name="create_app_icon_failed">"Ne morem napraviti ikone"</string>
@@ -152,6 +180,7 @@ Preverite ali je ime vaše korporacije točno. Pred aktivacijo preberite in spre
   <string name="err_unknown">Neznana napaka</string>
   <string name="err_volume_not_enough">Ni dovolj prostora za shranjevanje</string>
   <string name="exit_private_space">Zamenjaj</string>
+  <string name="expand_button_title">Napredno</string>
   <string name="experience_more_features">Dodajte napravo da boste videli vse storitve</string>
   <string name="facebook_login">Prijavite se s pomočjo Facebooka</string>
   <string name="facebook_send">Deli na Facebooku</string>
@@ -227,9 +256,17 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="master_clear_apply_title">Pozor</string>
   <string name="master_clear_not_available">Povrnitev na tovarniške nastavitve je omejena s strani vaše organizacije.</string>
   <string name="master_clear_not_available_ep">"Ni vam dovoljena povrnitev na tovarniške nastavitve ali preklic vaše avtorizacije. Obrnite se na skrbnika."</string>
-  <string name="messageData">Sporočila</string>
-  <string name="more_settings">Več</string>
   <string name="menu_item_about_privacy_title">Pravila o zasebnosti</string>
+  <string name="messageData">Sporočila</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ni podatkov</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ne morem naložiti</string>
+  <string name="more_settings">Več</string>
   <string name="msg_switch_file">Izbrišem te datoteke v Prvem prostoru ko jih premestite?</string>
   <string name="msg_switch_file_second">Izbrišem te datoteke v Drugem prostoru po prestavitvi?</string>
   <string name="msg_switch_photo">Izbrišem te fotografije v Prvem prostoru ko jih premestite?</string>
@@ -245,6 +282,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="next_setp">Naprej</string>
   <string name="no_match_repate_scanner">"Ne najdem odgovarjajočih prstnih odtisov, skeniraj ponovno"</string>
   <string name="normal_app">Prvi prostor</string>
+  <string name="not_set">Ni nastavljeno</string>
   <string name="not_support_air_space">"To opravilo ni podprto na vašem telefonu"</string>
   <string name="not_support_multiple_users">"Večkratni prostori niso podprti"</string>
   <string name="notificationSetPassword">Nastavite geslo</string>
@@ -270,6 +308,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="please_diff_finger_print">Prepričajte se da uporabljate različne prstne odtise v Prvem prostoru in Drugem prostoru.
   
   Drugače ne boste mogli v Drugi prostor iz zakl. zaslona.</string>
+  <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="privacyContactsSummary">Pokaži zasebne nastavitve v Drugem prostoru</string>
   <string name="privacyContactsTitle">Zasebna sporočila in stiki</string>
   <string name="privacy_password_fingerprint_dialog_message">Postavite prst na senzor</string>
@@ -320,6 +359,7 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="sdcradfs_dialog_in_sec_message">"Za posodobitev morate izbrisati Drugi prostor in ga ponovno ustvariti. Premestite podatke iz Drugega prostora v Prvi prostor in ponovo zaženite napravo da dokončate posodobitev.\nČe ne posodobite, dvojne aplikacije mogoče ne bodo delovala pravilno."</string>
   <string name="sdcradfs_dialog_in_sec_title">Pomembna posodobitev</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+  <string name="search_menu_title">Išči</string>
   <string name="search_result_text">"Ne morem najti nobene aplikacije"</string>
   <string name="secondSpace">Drugi prostor</string>
   <string name="second_owner_finger_print">Prstni odtis za Drugi prostor</string>
@@ -328,6 +368,8 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="second_space_desktop_tips_dialog_title">Pomembna posodobitev</string>
   <string name="second_space_finger_printf_desc">Dodajte prstni odtis ki se bo posebej uporabljal za vstop v Drugi prostor</string>
   <string name="second_space_finger_printf_title">Prstni odtis za Drugi prostor</string>
+  <string name="secondspace_homepage">"Nastavite določeno zakl. zaslona za Drugi prostor.
+Umaknite in zavarujte svoje podatke."</string>
   <string name="select_existed_fingerprint">Izberite prstni odtis</string>
   <string name="serNameSummary">Drugi prostor</string>
   <string name="setSecondSpacePassword">Nastavite geslo Drugega prostora</string>
@@ -346,13 +388,14 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="setting_is_show_text_contacts">Nastavite zasebne stike in sporočila</string>
   <string name="settings_cross_notification_summary">Sprejemaj obvestila iz Drugega prostora</string>
   <string name="settings_cross_notification_title">Obvestila</string>
+  <string name="settings_guide_title">Potrebujete druge nastavitve??</string>
   <string name="settings_msg_add_shortcut">Bližnjica dodana v Prvi prostor</string>
   <string name="settings_msg_remove_shortcut">Bližnjica odstranjena iz Prvega prostora</string>
-  <string name="settings_notification_and_switch">Spremeni &amp; obvesti</string>
   <string name="settings_msg_add_shortcut_to_owner_space">Bližnjica dodana v Prvi prostor</string>
   <string name="settings_msg_add_shortcut_to_second_space">Bližnjica je izdelana v Drugem prostoru</string>
   <string name="settings_msg_remove_shortcut_from_owner_space">Bližnjica odstranjena iz Prvega prostora</string>
   <string name="settings_msg_remove_shortcut_from_second_space">Bližnjica odstranjena iz Drugega prostora</string>
+  <string name="settings_notification_and_switch">Spremeni &amp; obvesti</string>
   <string name="settings_notification_and_switch_owner_space">Nastavitve Prvega prostora</string>
   <string name="settings_notification_and_switch_second_space">Nastavitve Drugega prostora</string>
   <string name="settings_notification_from_owner_space_title">Pokaži obvestila iz Prvega prostora</string>
@@ -452,6 +495,8 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="undo_success">Uspešno preklicano</string>
   <string name="use_google_open">Zbudi s pomočjo Google pomočnika</string>
   <string name="use_xiaoai_open">Zbudi s pomočjo Mi AI</string>
+  <string name="v7_preference_off">IZKLJUČENO</string>
+  <string name="v7_preference_on">VKLJUČENO</string>
   <string name="wating">Samo trenutek…</string>
   <string name="weibo_send">Pošlji na Weibo</string>
   <string name="weixin_pay">WeChat Pay</string>
@@ -470,9 +515,9 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="xspace_default_setting_dialog_title">Privzeto</string>
   <string name="xspace_default_setting_label">Privzeta aplik.</string>
   <string name="xspace_description">Dvojne aplikacije so kopije aplikacij ki se lahko uporabijo zasebno z drugim računom.\n\nNekatere dvojne aplikacije zahtevajo podporo Google Services Framework. V teh primerih se ustvari dvojni Google Services Framework.</string>
-  <string name="xspace_facebook_title">Facebook</string>
   <string name="xspace_disable">Ni napravljeno</string>
   <string name="xspace_enable">Napravljeno</string>
+  <string name="xspace_facebook_title">Facebook</string>
   <string name="xspace_guide_des">Uporabljaj 2 računa brez menjanja</string>
   <string name="xspace_guide_title">Izdelaj dvojno aplikacijo</string>
   <string name="xspace_header">Dvojne aplikacije</string>

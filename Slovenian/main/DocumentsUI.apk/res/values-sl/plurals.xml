@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="clipboard_files_clipped">
-        <item quantity="other">%1$d stvari kopirano v medpomnilnik.</item>
-        <item quantity="one">%1$d stvar kopirana v medpomnilnik.</item>
-        <item quantity="few">%1$d stvari kopirano v medpomnilnik.</item>
+        <item quantity="other">%1$d stvari kopirano v odložišče.</item>
+        <item quantity="one">%1$d stvar kopirana v odložišče.</item>
+        <item quantity="few">%1$d stvari kopirano v odložišče.</item>
     </plurals>
     <plurals name="compress_begin">
         <item quantity="other">Stiskanje %1$d datotek.</item>

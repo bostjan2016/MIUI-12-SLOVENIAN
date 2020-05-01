@@ -22,6 +22,7 @@
   <string name="cloud_status_full_dialog_msg">"Vaša shramba v cloudu je polna, ne morete sinhronizirati posnetkov. Nadgradite svoj račun da boste dobili več prostora za shranjevanje."</string>
   <string name="cloud_status_full_dialog_ok">Nadgradnja</string>
   <string name="cloud_status_full_dialog_title">Mi Cloud je poln</string>
+  <string name="copy">Kopiraj</string>
   <string name="data_connection_body">Z uporabo mobilne podatkovne povezave in prenosom se bo povečala uporaba podatkov. Če greste čez mejo uporabe podatkov vašega zakupa lahko vaš ponudnik zaračuna dodaten strošek.</string>
   <string name="data_connection_button_text">V redu</string>
   <string name="data_connection_title">Opozorilo uporabe podatkov</string>
@@ -45,6 +46,7 @@
   <string name="error_filename_too_long">Ime datoteke je predolgo.</string>
   <string name="error_sdcard_access">Ne morem dostopati do pomnilnika</string>
   <string name="error_sdcard_unmounted">Vstavite SD kartico </string>
+  <string name="expand_button_title">Napredno</string>
   <string name="export_to_note">Izvozi v Beležko</string>
   <string name="head_set_tip_dialog_msg">izključite svoje slušalke da boste lahko posneli zvok z določenimi stvarmi (na primer, Glasba, Glas).</string>
   <string name="head_set_tip_dialog_ok">Razumem</string>
@@ -64,16 +66,25 @@
   <string name="mark_point_list_title">Označi</string>
   <string name="menu">Meni</string>
   <string name="message_file_size_error">Snemanje je doseglo največjo dolžino, ki je podprta s strani %s</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ni podatkov</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ne morem naložiti</string>
   <string name="network_tip_dialog_cancel">Prekini</string>
   <string name="network_tip_dialog_content">Program za prepoznavanje govora potrebuje spletno povezavo za normalno delo.</string>
   <string name="network_tip_dialog_ok">Dovoli</string>
   <string name="network_tip_dialog_title">Potrebna je spletna povezava</string>
   <string name="new_record_name">Nov posnetek</string>
   <string name="no_file">Prazno</string>
+  <string name="not_set">Ni nastavljeno</string>
   <string name="notification_message_all_paused">Čakam na povezavo WiFi.</string>
   <string name="notification_playback">Predvajanje...</string>
   <string name="notification_recording">Snemam...</string>
-  <string name="notification_recording_ticker">Utišan</string>
+  <string name="notification_recording_ticker">Telefon utišan.</string>
   <string name="notification_stopped">Snemanje končano</string>
   <string name="notification_title_all_paused">Nalaganje začasno ustavljeno</string>
   <string name="path_soundrecorder_setting">Sistemske aplikacije/Snemanje</string>
@@ -86,6 +97,7 @@
   <string name="preference_led_indicator_prompt">Med snemanjem kaži bližnjico v obvestilni vrstici stanja ter utripajočo lučko.</string>
   <string name="preference_record_scenes_dialog_title">Izberite vrsto snemanja</string>
   <string name="preference_scenes">Vrsta snemanja</string>
+  <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="preference_silent_mode">Izključi zvok zvonjenja med snemanjem</string>
   <string name="preference_status_bar_indicator_prompt">Pokaži bližnjico v obvestilni vrstici med snemanjem</string>
   <string name="preference_tip_rename">Ročno poimenuj posnetek</string>
@@ -175,6 +187,7 @@
   <string name="status_bar_back">Dotaknite se da se vrnete na snemanje</string>
   <string name="status_bar_recording">Snemam...</string>
   <string name="status_bar_recording_pause">Snemanje zaustavljeno</string>
+  <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="text_btn_backward_3_seconds">3 sekunde nazaj</string>
   <string name="text_btn_complete">Končano</string>
   <string name="text_btn_forward_3_seconds">3 sekunde naprej</string>
@@ -195,6 +208,8 @@
   <string name="toast_max_record_time">%1$s lahko snemam za toliko %2$s</string>
   <string name="toast_uninstall_fileexplorer">"Aplikacija raziskovalec ni nameščena"</string>
   <string name="usage_description">Prepisovanje zvoka in sinhroniziranje stvari z Mi Cloudom</string>
+  <string name="v7_preference_off">IZKLJUČENO</string>
+  <string name="v7_preference_on">VKLJUČENO</string>
   <string name="webview_check_network">Omrežne nastavitve</string>
   <string name="webview_data_error">Prišlo je do napake</string>
   <string name="webview_locating_fail">"Ne morem najti vaše lokacije"</string>

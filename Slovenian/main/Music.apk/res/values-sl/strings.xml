@@ -205,6 +205,7 @@
   <string name="cannot_download_to_sdcard_hint">"Stvari se ne morejo prenesti na SD kartico zaradi omejitve avtorskih pravic. Prenešeno bo v notranji pomnilnik."</string>
   <string name="change_download_quality">Zamenjaj kvaliteto prenosa</string>
   <string name="character_counter_content_description">Prekoračena je omejitev števila znakov %1$d od %2$d</string>
+  <string name="character_counter_overflowed_content_description">Prekoračena je omejitev števila znakov %1$d od %2$d</string>
   <string name="channel_list_fragment_title">Radio</string>
   <string name="checking_new_version">Preverjanje posodobitev…</string>
   <string name="chinese_female">Ženski izvajalci (Kitajska)</string>
