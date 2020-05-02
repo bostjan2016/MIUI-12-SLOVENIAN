@@ -5868,7 +5868,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="personal_data_section_title">Osebni podatki</string>
   <string name="personal_device_admin_title">Osebno</string>
   <string name="personal_section_title">Osebno</string>
-  <string name="phone_backup_summary">Napravite var. kopijo iv vrnite stvari na tej napravi</string>
+  <string name="phone_backup_summary">Napravite var. kopijo in vrnite stvari na tej napravi</string>
   <string name="phone_backup_title">Mobilna naprava</string>
   <string name="phone_call_noise_suppression">Odstrani hrup med klicem</string>
     <string name="phone_index_label">Izberite indeks telefona</string>
@@ -8215,7 +8215,7 @@ Googlov pristop k sinhroniziranju podatkov, s katerim lahko dostopate do stikov,
   <string name="system_backup">Var. kopija</string>
   <string name="system_backup_info">Nastavitve sistema, začetnega zaslona itd.</string>
   <string name="system_backup_section_title">Varnostna kopija</string>
-  <string name="system_backup_section_title_new">Napravi var. kopij ali vrni</string>
+  <string name="system_backup_section_title_new">Napravi var. kopijo ali vrni</string>
     <string name="system_dashboard_summary">Jeziki, poteze, ura, varnostno kopiranje</string>
     <string name="system_default_app">(Sistemsko privzeto)</string>
   <string name="system_haptic_feedback">Haptična povratna informacija</string>
