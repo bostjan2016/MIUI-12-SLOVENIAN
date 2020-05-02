@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="daily_brand">
+        <item>Po meri</item>
+        <item>Mi Fan kartica</item>
+        <item>Xiao Tiansheng kartica</item>
+        <item>Tencent King kartica</item>
+     </string-array>
+     <string-array name="debug_open_intercept">
+        <item>Do datotek v napravi boste lahko dostopali in jih urejali prek računalnika.</item>
+        <item>Namestitev aplikacij v vašo napravo brez vašega izrecnega dovoljenja bo dovoljena.</item>
+        <item>"Lahko boste daljinski spremljali in snemali vsebino vašega zaslona."</item>
+        <item>Dostopili boste lahko do podrobnih informacij o svoji napravi.</item>
+     </string-array>
+     <string-array name="miui_optimization_close_intercept">
+        <item>Važno: Več sistemskih aplikacij lahko preneha delovati pravilno.</item>
+        <item>Videz besedila, računi in vsebina morda ne bodo pravilno prikazani.</item>
+     </string-array>
+     <string-array name="perm_intercept_notification">
+        <item>Preberite vsa svoja obvestila, vključno z vsebino vaših besedilnih sporočil in drugih elementov, ki lahko vsebujejo osebne podatke</item>
+        <item>Omeji dovoljenja obvestil nekaterih programov</item>
+        <item>Simulirajte dotikanje obvestil in odpiranje aplikacij</item>
+        <item>Vključite in izključite DND način</item>
+     </string-array>
+     <string-array name="perm_intercept_statitics">
+        <item>Zberite podatke o svojih interesih in obnašanju, tako da se naučite, katere aplikacije uporabljate in kako pogosto jih uporabljate</item>
+        <item>Dostopajte do jezika in jezikovnih nastavitev ter drugih podrobnosti</item>
+     </string-array>
+     <string-array name="perm_intercept_unknown_source">
+        <item>"Aplikacije drugih proizvajalcev, ki jih GetApps ne potrdi, lahko povzročijo več težav in zmanjšajo stabilnost sistema."</item>
+        <item>Nekatere aplikacije drugih proizvajalcev lahko vsebujejo zlonamerno programsko opremo, ki ogroža vaše osebne podatke.</item>
+     </string-array>
+     <string-array name="priority_storage_entries">
+        <item>Notranji pomnilnik</item>
+        <item>Zunanji pomnilnik</item>
+     </string-array>
 	<string-array name="date_of_traffic_cmcc">
          <item>"Ta teden "</item>
          <item>"Danes "</item>

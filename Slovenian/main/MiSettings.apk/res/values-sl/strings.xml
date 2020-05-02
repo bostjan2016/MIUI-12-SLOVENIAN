@@ -343,7 +343,7 @@ Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje nasl
   <string name="usage_request_error_summary">Neznana napaka</string>
   <string name="usage_request_timeout_summary">Zahteva je potekla</string>
   <string name="usage_runtime_per_des_summary">Za shranjevanje statistike časa zaslona</string>
-  <string name="usage_runtime_per_des_title">"Dodajanje ib brisanje datotek v notranjem pomnilniku naprave"</string>
+  <string name="usage_runtime_per_des_title">"Dodajanje in brisanje datotek v notranjem pomnilniku naprave"</string>
   <string name="usage_runtime_summary">Ta dovoljenja so potrebna za omogočanje osnovnih funkcij in storitev te aplikacije.</string>
   <string name="usage_runtime_title">Obvezna dovoljenja</string>
   <string name="usage_special_feature">Posebne funkcije</string>

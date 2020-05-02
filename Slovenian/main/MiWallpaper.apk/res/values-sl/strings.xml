@@ -77,12 +77,12 @@ Mawrth Vallis"</string>
   <string name="mars_view_height_2">286.2 km</string>
   <string name="midnight">AM</string>
   <string name="miui_clock_city_name_local">Lokalno</string>
-  <string name="miui_lock_screen_date">EEEE, MMMM d</string>
-  <string name="miui_lock_screen_date_12">EEEE, MMMM d</string>
+  <string name="miui_lock_screen_date">dd.MM EEEE</string>
+  <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
 <string name="miui_lock_screen_date_two_lines">"EEEE
-d. MMMM"</string>
+dd. MMMM"</string>
      <string name="miui_lock_screen_date_two_lines_12">"EEEE
-d. MMMM"</string>
+dd. MMMM"</string>
      <string name="miui_lock_screen_large_date">"EEE
 dd.M"</string>
      <string name="miui_lock_screen_large_date_12">"EEE

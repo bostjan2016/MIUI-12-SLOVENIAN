@@ -114,20 +114,16 @@
   <string name="miui_clock_fancy_colon"></string>
   <string name="miui_device_name">Android</string>
   <string name="miui_digital_clock_dot">:</string>
-  <string name="miui_lock_screen_date">EEEE MM/dd</string>
-  <string name="miui_lock_screen_date_12">EEEE MM/dd</string>
+  <string name="miui_lock_screen_date">dd.MM EEEE</string>
+  <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
   <string name="miui_lock_screen_date_two_lines">"EEEE
-MM/dd"</string>
-  <string name="miui_lock_screen_date_two_lines_12">"EEEE
-MM/dd"</string>
-  <string name="miui_lock_screen_large_date">"EEE
-MM/dd"</string>
-  <string name="miui_lock_screen_large_date_12">"EEE
-MM/dd"</string>
-  <string name="miui_vertical_time_format_12">"hh
-mm"</string>
-  <string name="miui_vertical_time_format_24">"HH
-mm"</string>
+dd. MMMM"</string>
+     <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd. MMMM"</string>
+     <string name="miui_lock_screen_large_date">"EEE
+dd.M"</string>
+     <string name="miui_lock_screen_large_date_12">"EEE
+dd.M"</string>
   <string name="national_day"/>
   <string name="national_father_day"/>
   <string name="new_years_day"/>
