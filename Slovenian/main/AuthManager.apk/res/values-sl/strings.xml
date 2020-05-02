@@ -164,8 +164,8 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_Notification_Desc">prikazati obvestila v obvestilni vrstici</string>
   <string name="HIPS_Perm_Notification_Hint">(%1$s) aplikacij lahko prikaže obvestila</string>
   <string name="HIPS_Perm_PhoneID">Branje identitete naprave</string>
-  <string name="HIPS_Perm_PhoneID_Desc">"dostop številki telefona, IMEI in IMSI vaše naprave</string>
-  <string name="HIPS_Perm_PhoneID_Desc_Q">Dostop številki telefona in IMSI</string>
+  <string name="HIPS_Perm_PhoneID_Desc">"dostop do številke telefona, IMEI in IMSI vaše naprave</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">Dostop do številke telefona in IMSI</string>
   <string name="HIPS_Perm_PhoneID_Hint">"(%1$s) aplikacij lahko bere IMEI in IMSI naprave"</string>
   <string name="HIPS_Perm_PhoneID_ICCID">"prebrati ICCID naprave</string>
   <string name="HIPS_Perm_PhoneID_IMEI">"prebrati IMEI naprave</string>

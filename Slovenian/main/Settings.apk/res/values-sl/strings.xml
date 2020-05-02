@@ -3370,18 +3370,18 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="free_wifi_user_agreement_title">Opozorilo zasebnosti</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="free_xiaomi_wifi_connect_summary">Dotaknite se za povezovanje z %1$s.</string>
-  <string name="freeform_guide_drop_down_to_fullscreen_summary">Pritisnite in zadržite, nato povlecite navzdol čez delovno vrstico plavajočega okna</string>
+  <string name="freeform_guide_drop_down_to_fullscreen_summary">Tapnite in pridržite, nato povlecite navzdol delovno vrstico plavajočega okna</string>
   <string name="freeform_guide_drop_down_to_fullscreen_title">Ogled plavajočih oken v celozaslonskem načinu</string>
-  <string name="freeform_guide_move_summary">Pritisnite in pridržite akcijsko vrstico s plavajočim oknom, da povlečete</string>
+  <string name="freeform_guide_move_summary">Pritisnite in pridržite delovno vrstico plavajočega okna da povlečete</string>
   <string name="freeform_guide_move_title">Premikanje plavajočih oken</string>
   <string name="freeform_guide_move_to_small_freeform_window_summary">Povlecite plavajoče okno v kot zaslona</string>
   <string name="freeform_guide_move_to_small_freeform_window_title">Minimiziranje plavajočih oken</string>
-  <string name="freeform_guide_notification_drop_down_summary">Pritisnite in držite, nato povlecite akcijski trak obvestil</string>
+  <string name="freeform_guide_notification_drop_down_summary">Pritisnite in držite, nato povlecite navzdol delovno vrstico obvestil</string>
   <string name="freeform_guide_notification_drop_down_title">Odpiranje plavajočih oken</string>
   <string name="freeform_guide_settings">Plavajoče okno</string>
   <string name="freeform_guide_slide_up_to_close_summary">Povlecite navzgor z akcijske vrstice s plavajočega okna</string>
   <string name="freeform_guide_slide_up_to_close_title">Zapiranje plavajočih oken</string>
-  <string name="freeform_vedio_description">"·Pritisnite in zadržite, nato povlecite obvestilo, da ga odprete v plavajočem oknu.
+  <string name="freeform_vedio_description">"·Pritisnite in zadržite, nato povlecite dol da odprete obvestilo v plavajočem oknu.
 ·Tapnite \"Plavajoče okno\" v Nedavno za izbiro aplikacij."</string>
   <string name="frequently_fragment_delete">Odstrani</string>
   <string name="frequently_fragment_tempty">Pogosto uporabljene stvari bodo tukaj prikazane</string>
