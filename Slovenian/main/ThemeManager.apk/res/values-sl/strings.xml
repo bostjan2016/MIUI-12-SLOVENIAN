@@ -1007,7 +1007,7 @@ Tapnite, da se boste prijavili."</string>
   <string name="transparency_pref_title">Nivo neprozornosti</string>
   <string name="transparent_wallpaper">Transparenta slika ozadja</string>
   <string name="transparent_wallpaper_apply_success">"Uspešno nastavljeno.
-Pojdite v Teme&gt; Moj račun &gt za več opcij."</string>
+Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
   <string name="transparent_wallpaper_auto_start_pref_summary">Po ponovnem zagonu naprave še naprej uporabljajte prozorna ozadja</string>
   <string name="transparent_wallpaper_auto_start_pref_title">Samod. zagon</string>
   <string name="transparent_wallpaper_disable">Izključi</string>
