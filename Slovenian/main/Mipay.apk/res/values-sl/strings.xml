@@ -87,9 +87,9 @@ Preverite vaš lokalni datum in poizkusite ponovno."</string>
   <string name="mipay_error_common">Napaka sistema. Ponovno poizkusite  kasnije.</string>
   <string name="mipay_error_network">"Povezava z omrežjem ni mogoča."</string>
   <string name="mipay_error_server">Napaka strežnika. Ponovno poizkusite kasneje.</string>
-  <string name="mipay_format_date">MMM. dd, yyyy</string>
-  <string name="mipay_format_date_slash">MM/dd/yyyy</string>
-  <string name="mipay_format_time">MMM dd, yyyy hh:mmaa</string>
+  <string name="mipay_format_date">dd.MM.yyyy</string>
+  <string name="mipay_format_date_slash">dd.MM.yyyy</string>
+  <string name="mipay_format_time">dd.MM.yyyy hh:mmaa</string>
   <string name="mipay_handle_loading">Obdelava…</string>
   <string name="mipay_i_know">V redu</string>
   <string name="mipay_loading">Nalaganje…</string>

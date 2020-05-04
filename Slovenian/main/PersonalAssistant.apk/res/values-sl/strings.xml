@@ -666,8 +666,8 @@
   <string name="taxi_setting_brief">Dobite taksi z enim samim pritiskom.</string>
   <string name="time_just_now">Pravkar</string>
   <string name="timeline_headline">Prihajajoče</string>
-  <string name="time_month">dd/MM</string>
-  <string name="time_year">dd/MM/yyyy</string>
+  <string name="time_month">dd.MM</string>
+  <string name="time_year">dd.MM.yyyy</string>
   <string name="toast_function_add_limit">Dodate lahko do %d bližnjic</string> 
   <string name="toast_function_remove_not_allowed">Dodaj vsaj eno bližnjico</string>
   <string name="total_month_desc_text">Ta mesec</string>

@@ -117,13 +117,13 @@
   <string name="miui_lock_screen_date">dd.MM EEEE</string>
   <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
   <string name="miui_lock_screen_date_two_lines">"EEEE
-dd. MMMM"</string>
+dd.MMM"</string>
      <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd. MMMM"</string>
+dd.MMM"</string>
      <string name="miui_lock_screen_large_date">"EEE
-dd.M"</string>
+dd.MM"</string>
      <string name="miui_lock_screen_large_date_12">"EEE
-dd.M"</string>
+dd.MM"</string>
   <string name="national_day"/>
   <string name="national_father_day"/>
   <string name="new_years_day"/>

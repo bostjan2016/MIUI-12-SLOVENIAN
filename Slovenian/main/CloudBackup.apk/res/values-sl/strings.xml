@@ -55,7 +55,7 @@
   <string name="cloud_app_restore_error">"Ne morem obnoviti"</string>
   <string name="cloud_app_restore_success">Aplikacije obnovljene</string>
   <string name="cloud_app_restore_wifi_prompt">Obnovi iz var. kopije na Mi Cloudu.</string>
-  <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
+  <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
   <string name="cloud_back_up_detail_discription">"Te stvari bodo kopirane na vaš Mi Cloud kadar boste povezani na WiFi: 
 *\u0009\u0009\u0009Aplikacije, izgled zač. zaslona in slike za ozadje
 *\u0009\u0009\u0009Nastavitve alarma, ur in časa 
@@ -97,7 +97,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="copy">Kopiraj</string>
   <string name="customization">Prilagodi</string>
   <string name="custom_progress">Stvari: %d</string>
-  <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
+  <string name="date_format">HH:mm:ss dd.MM.yyyy</string>
   <string name="deskclock_backup">Alarm</string>
   <string name="desktop_downloading">Prenašam</string>
   <string name="desktop_failed">Ni uspelo</string>
