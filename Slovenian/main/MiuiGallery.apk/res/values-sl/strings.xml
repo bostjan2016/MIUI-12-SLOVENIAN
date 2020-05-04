@@ -429,8 +429,8 @@
   <string name="cloudfolder_name_reserved">Ime Albuma je rezervirano</string>
   <string name="collage__talkback_effect">Efekt %d</string>
   <string name="collage_choose">Izberi</string>
-  <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
-  <string name="collage_drawable_rect_date_month_day">dd/MM/</string>
+  <string name="collage_drawable_normal_date_format">dd.MM.yyyy</string>
+  <string name="collage_drawable_rect_date_month_day">dd.MM.</string>
   <string name="collage_drawable_rect_date_year">yyyy</string>
   <string name="collage_margin_text">Okvirji</string>
   <string name="collage_mirror">Zrcalo</string>

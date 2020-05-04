@@ -308,8 +308,8 @@
   <string name="always_use_accessory">"Uporabi kot privzeto za ta USB dodatek"</string>
   <string name="always_use_device">"Uporabi kot privzeto za to USB napravo"</string>
   <string name="animator_duration_scale_title">Razmerje dolžine animatorja</string>
-  <string name="aod_lock_screen_date">dd.MM. EEEE</string>
-  <string name="aod_lock_screen_date_12">dd.MM. EEEE</string>
+  <string name="aod_lock_screen_date">EE, dd.MM.yyyy</string>
+  <string name="aod_lock_screen_date_12">EE, dd.MM.</string>
   <string name="apn_settings_not_available">Nastavitve dostopne točke niso na voljo temu uporabniku</string>
   <string name="app_info">Informacije o aplikaciji</string>
   <string name="app_label">Sistem UI</string>

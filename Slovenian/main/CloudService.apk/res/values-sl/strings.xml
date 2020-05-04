@@ -122,7 +122,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="disable_find_device_error">"Ni mogoče izklopiti opravila Najdi napravo. %1$s"</string>
   <string name="disable_find_device_success">"Najdi napravo" je izključeno.</string>
   <string name="do_not_merge">Prekliči</string>
-  <string name="due_date_format">dd/MM/yyyy</string>
+  <string name="due_date_format">dd.MM.yyyy</string>
   <string name="enableAll">Sinhroniziraj vse</string>
   <string name="enable_cloud_service_notification">Aktivirati morate Mi Cloud</string>
   <string name="enable_find_device_error">"Ni mogoče izklopiti opravila "Najdi napravo". %1$s"</string>

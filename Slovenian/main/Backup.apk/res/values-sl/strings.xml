@@ -145,7 +145,7 @@ nastavitev in aplikacij"</string>
   <string name="data_detail_description">podrobnosti</string>
   <string name="data_item_desc">Podatki</string>
   <string name="data_no_enough_space_message">Na vaši napravi ni dovolj notranjega pomnilnika.</string>
-  <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
+  <string name="date_format">HH:mm:ss dd.MM.yyyy</string>
   <string name="delete">Odstrani</string>
   <string name="delete_backup_process">Odstranjujem...</string>
   <string name="delete_backup_title">Izbriši var. kopijo</string>
@@ -161,7 +161,7 @@ nastavitev in aplikacij"</string>
   <string name="dialog_backup_password_change_machine_tips">"Ne morete prenašati var. kopije zaščitene z geslom. Izključite geslo."</string>
   <string name="dialog_backup_password_restore_tips">"Ne morem vrniti stvari ko je geslo za var. kopije vključeno. Izključite geslo."</string>
   <string name="dialog_backup_password_to_settings">Nastavitve</string>
-  <string name="dir_date_format">yyyyMMdd_HHmmss</string>
+  <string name="dir_date_format">ddMMyyyy_HHmmss</string>
   <string name="disable_encrypt_description">Ni šifrirano</string>
   <string name="disable_encrypt_title">Izklopi šifriranje</string>
   <string name="enable_encrypt">Vklopi šifriranje</string>
@@ -281,7 +281,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="local_main_backup_manager_title">Urejanje var. kopij</string>
   <string name="local_main_backup_settings">Nastavitve lokalne var. kopije</string>
   <string name="local_main_backup_time">Zadnja var. kopija: %1$s</string>
-  <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
+  <string name="local_main_date_format">dd.MM.yyyy HH:mm</string>
   <string name="local_main_encrypt_backup_summary">Šifrirajte stvari za katere delate var. kopijo s pomočjo Mi Računa</string>
   <string name="local_main_encrypt_backup_title">Šifriraj var. kopijo</string>
   <string name="local_main_latest_backup_time_loading">Samo trenutek…</string>

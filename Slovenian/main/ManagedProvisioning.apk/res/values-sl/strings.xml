@@ -132,7 +132,7 @@
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="mtrl_picker_cancel">Prekliči</string>
   <string name="mtrl_picker_confirm">Shrani</string>
-  <string name="mtrl_picker_date_format">dd/MM/yyyy</string>
+  <string name="mtrl_picker_date_format">dd.MM.yyyy</string>
   <string name="mtrl_picker_header_prompt">Izberite datum</string>
   <string name="mtrl_picker_range_header_prompt">Izberite datumski razpon</string>
   <string name="next">Naprej</string>

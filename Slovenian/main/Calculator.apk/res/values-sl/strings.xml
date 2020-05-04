@@ -73,7 +73,7 @@
   <string name="date_picker_dialog_title">Nastavi datum</string>
   <string name="date_time_done">Končano</string>
   <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
-  <string name="dateformat">dd/MM/yyyy</string>
+  <string name="dateformat">dd.MM.yyyy</string>
   <string name="day">dan</string>
   <string name="degDesc">Kot</string>
   <string name="deleteDesc">Izbriši</string>

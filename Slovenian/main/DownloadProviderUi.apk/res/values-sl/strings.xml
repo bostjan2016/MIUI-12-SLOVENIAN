@@ -338,10 +338,10 @@
   <string name="search_favorite_title">Priljubljeni</string>
   <string name="search_history">Preišči zgodovino</string>
   <string name="search_history_empty">Ni predmetov</string>
-  <string name="search_history_month">dd/MM</string>
+  <string name="search_history_month">dd.MM</string>
   <string name="search_history_title">Zgodovina</string>
   <string name="search_history_today">Danes</string>
-  <string name="search_history_year">dd/MM/yyyy</string>
+  <string name="search_history_year">dd.MM.yyyy</string>
   <string name="search_history_yesterday">Včeraj</string>
   <string name="search_home_download_popup">Pojdi nazaj v prenos</string>
   <string name="search_home_vif_show_more">Več</string>

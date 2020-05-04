@@ -245,6 +245,8 @@
   <string name="event_color_picker_dialog_title">Barva dogodka</string>
   <string name="event_color_set_to_default">Nastavi na privzeto barvo koledarja</string>
   <string name="event_create">Nov dogodek</string>
+  <string name="event_date_format">dd.MM EEEE</string>
+  <string name="event_full_date_format">dd.MM.yyyy</string>
   <string name="event_delete">Izbriši dogodek</string>
   <string name="event_edit">Uredi dogodek</string>
   <string name="event_info_descrip">Opis</string>
@@ -561,9 +563,9 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="privacy_label">"Zasebnost"</string>
   <string name="productivity_add_event">Dodaj dogodek</string>
   <string name="productivity_cannot_move_event">"Ne morem premestiti ta dogodek"</string>
-  <string name="productivity_move_event_failed">"Ne morem premestiti ta dogodek na dd/MM/yyyy"</string>
+  <string name="productivity_move_event_failed">"Ne morem premestiti ta dogodek na na dd.MM.yyyy"</string>
   <string name="productivity_move_event_hint">Pritisni in drži dogodek za premik na drug dan</string>
-  <string name="productivity_move_event_success">Dogodek premeščen na dd/MM/yyyy</string>
+  <string name="productivity_move_event_success">Događaj pemješten na dd.MM.yyyy</string>
   <string name="productivity_no_event">Za danes ni planiranih dogodkov</string>
   <string name="pull_refresh_events">Pokaži dogodke %d</string>
   <string name="pull_refresh_events_default">Pokaži dogodke iz preteklega leta</string>

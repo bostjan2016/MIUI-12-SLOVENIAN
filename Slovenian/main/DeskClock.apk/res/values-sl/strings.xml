@@ -282,8 +282,8 @@
   <string name="more_setting">Več nastavitev</string>
   <string name="net_permission_cancel">"Ne strinjam se"</string>
   <string name="net_permission_ok">Strinjam se</string>
-  <string name="network_privacy">S ciljem ponujanja relevantnih informacij o lokalnih praznikih, prilagajanju alarma in nudenju prilagojenih storitev se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?</string>
    <string name="network_privacy_global">Za delovanje ura potrebuje povezavo s spletom. Pred uporabo preberite in se strinjajte z Pogoji uporabe in Pravila o zasebnosti. Se strinjate?</string>
+  <string name="network_privacy">S ciljem ponujanja relevantnih informacij o lokalnih praznikih, prilagajanju alarma in nudenju prilagojenih storitev se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?</string>
   <string name="never">Enkrat</string>
   <string name="new_label">Dodaj tekst alarma</string>
   <string name="no_alarm_setting">Ni alarmov</string>
@@ -482,10 +482,10 @@ ko bo Mi Zdravje analiziral dovolj podatkov</string>
   <string name="worldclock_title">Ura</string>
   <string name="worldclock_world_time">Časovni pasovi</string>
   <string name="worldcolock_date_display_prefix">Trenutno: </string>
-  <string name="worldcolock_time_date">dd/MM/yyyy</string>
+  <string name="worldcolock_time_date">dd.MM.yyyy</string>
   <string name="worldcolock_timezone_current">Trenutno: %1$s</string>
-  <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
-  <string name="worldcolock_timezone_date">dd/MM</string>
+  <string name="worldcolock_timezone_current_date">dd.MM.yyyy</string>
+  <string name="worldcolock_timezone_date">dd.MM</string>
   <string name="worldcolock_timezone_gap">%s H</string>
   <string name="worldcolock_timezone_local">Isto kot lokalni čas</string>
 </resources>
