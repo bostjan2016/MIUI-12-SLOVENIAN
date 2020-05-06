@@ -1954,16 +1954,16 @@ morda nadzira"</string>
     <string name="status_bar_airplane">Način za letalo</string>
     <string name="status_bar_alarm">Opozorilo</string>
     <string name="status_bar_clear_all_button">Počisti</string>
-  <string name="status_bar_clock_date_format">EEEE, d. MMMM</string>
-  <string name="status_bar_clock_date_format_12">EEEE, MMMM d</string>
-  <string name="status_bar_clock_date_time_format">H:mm MMMM d</string>
-  <string name="status_bar_clock_date_time_format_12">aah:mm MMMM d</string>
-  <string name="status_bar_clock_date_weekday_format">EEE MM/dd</string>
-  <string name="status_bar_clock_date_weekday_format_12">EEE MM/dd</string>
+  <string name="status_bar_clock_date_format">EEEE, dd.MM</string>
+  <string name="status_bar_clock_date_format_12">EEEE, dd.MM</string>
+  <string name="status_bar_clock_date_time_format">H:mm dd.MM</string>
+  <string name="status_bar_clock_date_time_format_12">aah:mm dd.MM</string>
+  <string name="status_bar_clock_date_weekday_format">EEE dd.MM</string>
+  <string name="status_bar_clock_date_weekday_format_12">EEE dd.MM</string>
   <string name="status_bar_date_format">"EEEE
-      d. MMMM"</string>
+ dd. MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE
-      d. MMMM"</string>
+ dd. MMMM"</string>
   <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Nastavi načine vnosa</string>
     <string name="status_bar_latest_events_title">Obvestila</string>

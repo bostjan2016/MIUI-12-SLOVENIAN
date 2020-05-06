@@ -32,13 +32,13 @@
   <string name="aod_close_color_inversion">"To se ne more kombinirati z inverzijo barv. Najprej izključite inverzijo barv."</string>
   <string name="aod_lock_screen_date">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12">dd.MM. EEEE</string>
-  <string name="aod_lock_screen_date_12_signature">d/M</string>
-   <string name="aod_lock_screen_date_12_smartcover">"EE
-d/M"</string>
-  <string name="aod_lock_screen_date_signature">d/M</string>
+  <string name="aod_lock_screen_date_12_signature">dd.MM</string>
+  <string name="aod_lock_screen_date_12_smartcover">"EE
+dd.MM"</string>
+  <string name="aod_lock_screen_date_signature">dd.MM</string>
   <string name="aod_lock_screen_date_smartcover">"EE
-d/M"</string>
-  <string name="aod_lock_screen_date_smartcover_b">d/M EE</string>
+dd.MM"</string>
+  <string name="aod_lock_screen_date_smartcover_b">dd.MM EE</string>
   <string name="aod_mode_preview">Predogled</string>
   <string name="aod_mode_style">Stil ure in ozadja</string>
   <string name="aod_mode_style_title">Več možnosti</string>
@@ -51,7 +51,7 @@ d/M"</string>
   <string name="aod_signature_12">hh:mm aa</string>
   <string name="aod_style">Teme</string>
   <string name="aod_to_close">Izključi</string>
-  <string name="app_name">AOD</string>
+  <string name="app_name">Vedno na zaslonu</string>
   <string name="apply">Uporabi</string>
   <string name="apply_succeed">Uspešno nastavljeno</string>
   <string name="background_icon">Ozadje</string>

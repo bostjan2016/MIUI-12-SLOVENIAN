@@ -114,7 +114,7 @@
   <string name="keyguard_charging_info_data_v">%sV</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Porabljeno</string>
   <string name="keyguard_charging_info_finished_charging_text">Napolnjeno</string>
-  <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
+  <string name="keyguard_charging_info_last_charge_time">dd.MM HH:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Danes %s</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Včeraj %s</string>
   <string name="keyguard_charging_info_last_charged_time_text">Napolnjeno</string>

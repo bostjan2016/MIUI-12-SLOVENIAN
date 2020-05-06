@@ -2989,6 +2989,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_look_all_permission_status">Vsa dovoljenja</string>
   <string name="privacy_look_all_permission_times">Vse aplikacije</string>
   <string name="privacy_manage_title">Urejaj</string>
+  <string name="privacy_mask_summary">Namesto vašega dejanskega identifikatorja bo MIUI aplikacijam tretjih oseb dal virtualno ID (PAID). Preprečuje, da bi aplikacije spremljale vaše vedenje in nastavitve ter ščiti vašo zasebnost.</string>
+  <string name="privacy_mask_title">Virtualna ID je vključena</string>
   <string name="privacy_mode_dialog_title">Način Gost</string>
   <string name="privacy_more_info_title">Izvedite več o funkcijah zasebnosti</string>
   <string name="privacy_notification_subtitle">Tapnite za urejanje dovoljenj</string>

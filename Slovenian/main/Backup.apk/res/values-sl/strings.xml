@@ -343,7 +343,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="new_pc_backup_restore_link">Mobilna naprava</string>
   <string name="new_pc_backup_summary1">Izberite stvari in tapnite \"Var. kopiraj\".</string>
   <string name="new_pc_backup_summary2">Povežite svojo mobilno napravo z računalnikom preko USB kabla.</string>
-  <string name="new_pc_backup_summary4">Opomba: lahko kopirate tudi fotografije in videoposnetke iz MIUI-DCIM.</string>
+  <string name="new_pc_backup_summary4">Opomba: lahko kopirate tudi fotografije in videoposnetke iz DCIM.</string>
   <string name="new_pc_restore_content1">%d. Povežite svojo mobilno napravo z računalnikom preko USB kabla.</string>
   <string name="new_pc_restore_content2">%d. Kopirajte var. kopijo iz računalnika v MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Odprite \"%2$s\" in izberite stvari za vračanje.</string>

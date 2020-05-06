@@ -426,11 +426,11 @@
   <string name="miuishare_share_editor_title">Deli</string>
   <string name="miuishare_title_more">Več</string>
   <string name="miuishare_title_share">Deli</string>
-  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+  <string name="miuishare_wechat_timeline_title">Wechat časovnica</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="month_day_format">dd/MM/</string>
-  <string name="month_day_hour_minute_format_en">dd/MM HH:mm</string>
-  <string name="month_format_en">dd/MM</string>
+  <string name="month_day_format">dd.MM</string>
+  <string name="month_day_hour_minute_format_en">dd.MM HH:mm</string>
+  <string name="month_format_en">dd.MM</string>
   <string name="music">Glasba &amp; Radio</string>
   <string name="music_card_error_str">Prišlo je do napake, odprite aplikacijo Glasba za predvajanje</string>
   <string name="music_open">Pokaži kartico Glasba &amp; Radio</string>

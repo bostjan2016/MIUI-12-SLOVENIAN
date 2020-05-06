@@ -1233,7 +1233,7 @@ Odstranim račun?"</string>
   <string name="unread_string">pogovor neprebran</string>
   <string name="unselected_lable">Več</string>
   <string name="unzip_file_failed">"Ne morem razširiti!"</string>
-  <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
+  <string name="update_date_format_templete">HH:mm aa, dd.MM.yyyy</string>
   <string name="update_domain_summary">Posodobi seznam domen na voljo in konfiguracijo</string>
   <string name="update_domain_title">Posodobi nastavitve domene</string>
   <string name="update_to_wps_mail">Uživajte v dodatnih opravilih storitve WPS Mail</string>
