@@ -183,7 +183,7 @@
   <string name="superpower_app_mms">Sporočilo</string>
   <string name="superpower_app_phone">Telefon</string>
   <string name="superpower_battery_dangerous">Čimprej priključite polnilec</string>
-  <string name="superpower_date">EEE,dd.MM</string>
+  <string name="superpower_date">EEE dd.MM</string>
   <string name="superpower_dialog_app_select_content">Aplikacije tretjih oseb porabijo več energije od sistemskih aplikacij. Vseeno dodam?</string>
   <string name="superpower_dialog_app_select_title">Pozor</string>
   <string name="superpower_exit_hint">Izklop Ultra varčevanja baterije…</string>

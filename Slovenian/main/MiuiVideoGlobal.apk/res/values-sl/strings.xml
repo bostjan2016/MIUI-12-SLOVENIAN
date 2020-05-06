@@ -933,7 +933,7 @@ Izboljša varnost vašega računa."</string>
   <string name="srl_header_refreshing">Osveževanje…</string>
   <string name="srl_header_release">Spustite za osvežitev</string>
   <string name="srl_header_secondary">Sprostite za drugo nadstropje</string>
-  <string name="srl_header_update">"'Zadnja posodobitev' M-d HH:mm"</string>
+  <string name="srl_header_update">"'Zadnja posodobitev' dd.MM HH:mm"</string>
     <string name="storage_external_sdcard">SD kartica</string>
     <string name="storage_internal_sdcard">Notranji pomnilnik</string>
   <string name="storage_permission_denied">Dovoljenje za dostop do shrambe je zavrnjeno</string>

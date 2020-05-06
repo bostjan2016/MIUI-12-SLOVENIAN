@@ -108,7 +108,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="close">Zapri</string>
   <string name="common_applying">Nameščanje…</string>
   <string name="common_downloading">Prenos…</string>
-  <string name="common_format_date_no_year">dd/MM</string>
+  <string name="common_format_date_no_year">dd.MM</string>
   <string name="common_google_play_services_enable_button">Omogoči storitve za Google Play</string>
   <string name="common_google_play_services_enable_text">%1$s ne bo deloval če ne omogočite Google  Play storitev.</string>
   <string name="common_google_play_services_enable_title">Omogoči storitve za Google Play</string>
