@@ -151,7 +151,7 @@
   <string name="failed_to_drop_widget_invalid">Pripomoček nepravilen</string>
     <string name="failed_to_load_image">Ne morem naložiti sliko</string>
     <string name="folder_name">Mapa</string>
-  <string name="frame_load_failed">Ni mogoče naložiti okvirja</string>
+  <string name="frame_load_failed">Ne morem naložiti okvirja</string>
     <string name="free_style_apps_title">Izberi aplikacijo</string>
     <string name="free_style_drawer_title">Vse aplikacije</string>
     <string name="free_style_edit_app">Aplikacija</string>

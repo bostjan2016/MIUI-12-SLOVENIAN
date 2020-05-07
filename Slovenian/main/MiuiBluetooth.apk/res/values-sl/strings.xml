@@ -244,7 +244,7 @@ Avdio"</string>
   <string name="expand_button_title">Dodatno</string>
   <string name="external_source_trusted">Dovoljeno</string>
   <string name="external_source_untrusted">Ni dovoljeno</string>
-  <string name="failed_to_open_app_settings_toast">Ni mogoče odpreti nastavitev za %1$s</string>
+  <string name="failed_to_open_app_settings_toast">Ne morem odpreti nastavitev za %1$s</string>
   <string name="fast_connect_device_battery">Baterija</string>
   <string name="fast_connect_device_box">Box</string>
   <string name="fast_connect_device_box_name">%1$s Box</string>
@@ -577,7 +577,7 @@ Avdio"</string>
     <string name="wifi_disconnected">Ni povezave</string>
     <string name="wifi_display_certification">Potrdilo brezžičnega zaslona</string>
     <string name="wifi_display_certification_summary">Pokaži možnosti za potrdilo brezžičnega zaslona</string>
-    <string name="wifi_fail_to_scan">Ni mogoče iskati omrežij</string>
+    <string name="wifi_fail_to_scan">Ne morem iskati omrežij</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>
     <string name="wifi_limited_connection">Omejena povezava</string>
     <string name="wifi_metered_label">Omejen prenos podatkov</string>

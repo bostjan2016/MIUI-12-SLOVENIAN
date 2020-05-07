@@ -303,6 +303,8 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="q_version_location_provider_btn_text">Vključite dostop do lokacije in izboljšajte natančnost lokacije</string>
   <string name="radar_cloud_image_title">Mapa Radarja</string>
   <string name="radar_cloud_update_time">Pred %1$s</string>
+  <string name="rain_sound_setting_summary_text">Spremljajte vreme z zvočnimi efekti</string>
+  <string name="rain_sound_setting_title_text">Zvočni efekti</string>
   <string name="rainfall_settings_summary">Nastavitve padavin</string>
   <string name="rainfall_settings_title">Opozorilo padavin</string>
   <string name="real_time_sunrise">Sončni vzhod %1$s</string>
@@ -314,6 +316,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="refresh_empty_data">"Ne morem naložiti podatkov. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="refresh_fail">"Ne morem se povezati na omrežje"</string>
   <string name="reminder_from_xiaomi_weather_app">Opozorila aplikacije Vreme</string>
+  <string name="request_cta_connect_net">Dovolite da se ta aplikacija poveže s spletom in ji dodelite potrebna dovoljenja, navedena zgoraj.</string>
   <string name="request_permission_location_dialog_content">Za prikaz informacij o vremenu ustreznih za vašo trenutno lokacijo</string>
   <string name="request_permission_main_purpose">Prikaz informacij o vremenu</string>
   <string name="request_permission_read_phone_state_dialog_content">Za identificiranje vaše naprave</string>

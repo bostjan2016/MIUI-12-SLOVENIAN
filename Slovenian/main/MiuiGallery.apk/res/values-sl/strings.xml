@@ -302,8 +302,8 @@
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Zamenjam na privzeto ozadje zakl. zaslona?</string>
   <string name="cancel_download_btn_text">Ustavi</string>
   <string name="cancel_hint">Opravilo odpovedano</string>
-  <string name="cannot_remove_creator">"Ni mogoče odstraniti avtorja"</string>
-  <string name="cannot_send_message">"Ni mogoče poslati sporočila"</string>
+  <string name="cannot_remove_creator">"Ne morem odstraniti avtorja"</string>
+  <string name="cannot_send_message">"Ne morem poslati sporočila"</string>
   <string name="cannot_send_message_reason">Ni veljavnih prejemnikov</string>
   <string name="card_delete_description">"Ta spomin se ne bo več pojavljal. Vseeno izbrišem?"</string>
   <string name="card_delete_negative_text">Prekliči</string>
@@ -462,7 +462,7 @@
   <string name="confirm_download_video_title">Naloži video</string>
   <string name="confirm_face">Ujemanje</string>
   <string name="confirm_hidden_recommend_group">V redu</string>
-  <string name="confirm_hidden_recommend_group_message">Ko so priporočila izključena lahko še naprej uporabljate to možnost \"Več oseb ki izgledajo podobno\"</string>
+  <string name="confirm_hidden_recommend_group_message">Ko so priporočila izključena lahko še naprej uporabljate to možnost \"Več oseb ki zgledajo podobno\"</string>
   <string name="confirm_hidden_recommend_group_title">"Ne prikazuj priporočil"</string>
   <string name="confirm_hide_selected_albums">Skrijem izbrane albume?</string>
   <string name="confirm_merge_face_albums">" "Združim ta album z %s?" "</string>

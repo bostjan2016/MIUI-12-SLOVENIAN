@@ -386,10 +386,10 @@ Tapnite + da napravite mapo"</string>
   <string name="sns_footer_text">Narejeno z Mi Beležka</string>
   <string name="sns_hint_content">Vnesi sporočilo</string>
   <string name="sns_hint_title">Tema (po želji)</string>
-  <string name="sns_message_disconnect">"Ni se mogoče povezati z omrežjem. Preveri povezavo in poskusi kasneje."</string>
+  <string name="sns_message_disconnect">"Ne morem se povezati z omrežjem. Preveri povezavo in poskusi kasneje."</string>
   <string name="sns_title_edit">Uredi naslov</string>
   <string name="sns_title_send">Pošlji sporočilo</string>
-  <string name="sns_toast_empty">"Ni mogoče poslati praznega sporočila"</string>
+  <string name="sns_toast_empty">"Ne morem poslati praznega sporočila"</string>
   <string name="sns_toast_over_limit">Pošlji kot sliko</string>
   <string name="sunday">Nedelja</string>
   <string name="sunday_short">Ned</string>
@@ -416,7 +416,7 @@ Tapnite + da napravite mapo"</string>
   <string name="thursday_shortest">Č</string>
   <string name="time_picker_dialog_title">Nastavi čas</string>
   <string name="toast_cancel_to_insert_image">"Ne morem dodati sliko."</string>
-  <string name="toast_folder_privacy_mode">"Ni mogoče spremeniti mape v načinu za goste"</string>
+  <string name="toast_folder_privacy_mode">"Ne morem spremeniti mape v načinu za goste"</string>
   <string name="toast_mark_privacy_notes">Uspešno skrito</string>
   <string name="toast_mark_privacy_notes_count">%1$s uspešno skrito</string>
   <string name="toast_message_add_image_fail">"Ne morem dodati sliko"</string>

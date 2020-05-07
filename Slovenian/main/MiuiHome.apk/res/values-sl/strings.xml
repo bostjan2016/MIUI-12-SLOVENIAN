@@ -236,12 +236,12 @@
   <string name="encryption">Šifriranje</string>
   <string name="expand_button_title">Napredno</string>
   <string name="failed_to_delete_temporary">Izbris ni mogoč</string>
-  <string name="failed_to_drop">Ni mogoče premakniti</string>
+  <string name="failed_to_drop">Ne morem premakniti</string>
   <string name="failed_to_drop_widget_invalid">Pripomoček nepravilen</string>
   <string name="failed_to_drop_widget_nospace">Na tem zaslonu ni več prostora</string>
   <string name="failed_to_load_image">"Ne morem naložiti slike"</string>
   <string name="folder_name">Mapa</string>
-  <string name="frame_load_failed">Ni mogoče naložiti okvirja</string>
+  <string name="frame_load_failed">Ne morem naložiti okvirja</string>
   <string name="free_style_apps_title">Izberi aplikacijo</string>
   <string name="free_style_drawer_title">Vse aplikacije</string>
   <string name="free_style_edit_app">Aplikacija</string>

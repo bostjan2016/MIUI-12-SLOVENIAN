@@ -36,7 +36,7 @@
     <string name="account_error_user_birthday">Rojstni dan, ki ste ga vnesli ni veljaven</string>
     <string name="account_error_user_name">Vzdevek je neveljaven. Poskusite drugega.</string>
     <string name="account_invalid_user_avatar">Ta fotografija je neveljavna. Poskusite drugo.</string>
-    <string name="account_limit_update_birthday">Ni mogoče posodobiti datuma rojstnega dne</string>
+    <string name="account_limit_update_birthday">Ne morem posodobiti datuma rojstnega dne</string>
     <string name="account_no_set">Nič</string>
     <string name="account_none_bind_info">Nič</string>
     <string name="account_none_user_name">Nič</string>

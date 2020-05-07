@@ -176,11 +176,11 @@
     <string name="decrypt_to">Dešifriraj in shrani v…</string>
     <string name="decrypting">Dešifriranje…</string>
     <string name="deepclean_apk_content">Izbriši APK datoteke ali nepotrebne aplikacije</string>
-    <string name="deepclean_apk_summary_empty">Vse izgleda vredu, ni APK datotek za počistiti</string>
+    <string name="deepclean_apk_summary_empty">Vse zgleda vredu, ni APK datotek za počistiti</string>
     <string name="deepclean_cache_content">Izbriši podatke ustvarene v aplikacijah</string>
-    <string name="deepclean_cache_summary_empty">Vse izgleda vredu, ni podatkov za počistiti</string>
+    <string name="deepclean_cache_summary_empty">Vse zgleda vredu, ni podatkov za počistiti</string>
     <string name="deepclean_large_content">Izbriši datoteke, večje od 10MB</string>
-    <string name="deepclean_large_summary_empty">Vse izgleda vredu, ni datotek za počistiti</string>
+    <string name="deepclean_large_summary_empty">Vse zgleda vredu, ni datotek za počistiti</string>
     <string name="deepclean_list_item_from_app">App Store</string>
     <string name="deepclean_list_item_from_download">Prenosi</string>
     <string name="deepclean_list_item_from_gallery">Galerija</string>
@@ -188,7 +188,7 @@
     <string name="deepclean_list_item_from_music">Glasba</string>
     <string name="deepclean_list_item_from_sdcard">SD kartica</string>
     <string name="deepclean_video_content">Izbriši že ogledane ali nepotrebne videoposnetke</string>
-    <string name="deepclean_video_summary_empty">Vse izgleda vredu</string>
+    <string name="deepclean_video_summary_empty">Vse zgleda vredu</string>
     <string name="default_cache_type">Podatkovne datoteke</string>
     <string name="default_change_log">Posodobite aplikacijo, da preverite nove funkcije.</string>
     <string name="delete_dialog_button">Izbriši</string>
@@ -291,7 +291,7 @@ Za dodajanje pritisnite in držite mapo ali tapnite \"Več\"."</string>
     <string name="ftp_account_req_notice">4-16 znakov, črk in številk, razlikovanje med malimi in velikimi črkami</string>
     <string name="ftp_anonymous_login">Anonimni vpis</string>
     <string name="ftp_invalid_username_or_password">Uporabniško ime ali geslo, ki ste ga vnesli, je nepravilno.</string>
-    <string name="ftp_open_port_error">Ni mogoče odpreti vrata. Preverite omrežno povezavo ali ponastavite številko vrat.</string>
+    <string name="ftp_open_port_error">Ne morem odpreti vrata. Preverite omrežno povezavo ali ponastavite številko vrat.</string>
     <string name="ftp_password_hint">Geslo</string>
     <string name="ftp_port_number">Številka vrat</string>
     <string name="ftp_random_port">Naključna vrata</string>
@@ -368,7 +368,7 @@ Za dodajanje pritisnite in držite mapo ali tapnite \"Več\"."</string>
     <string name="mode">Način</string>
     <string name="month_day_format">dd MMM</string>
     <string name="more">Več</string>
-    <string name="move_failed">Ni mogoče premakniti</string>
+    <string name="move_failed">Ne morem premakniti</string>
     <string name="move_icon_to_desktop_hint">Ustvarite bližnjico za Upravitelja datotek na Začetnem zaslonu za bolj učinkovito delo z datotekami.</string>
     <string name="move_icon_to_desktop_success">Bližnjica dodana na Začetni zaslon.</string>
     <string name="move_to">Premakni v…</string>
@@ -380,7 +380,7 @@ Za dodajanje pritisnite in držite mapo ali tapnite \"Več\"."</string>
     <string name="must_user_service">Pogoji uporabe (obvezno)</string>
     <string name="name_debuglog_dir">BSP dnevnik odprave napak</string>
     <string name="name_empty">Vnesti morate ime.</string>
-    <string name="network_settings_error">Ni se mogoče povezati na omrežje</string>
+    <string name="network_settings_error">Ne morem se povezati na omrežje</string>
     <string name="new_feature">Nova funkcija</string>
     <string name="new_folder_name">Nova mapa</string>
     <string name="no">Ne</string>
@@ -392,8 +392,8 @@ Za dodajanje pritisnite in držite mapo ali tapnite \"Več\"."</string>
     <string name="no_recent_files">Ni nedavnih datotek</string>
     <string name="no_wifi">Ni WiFi omrežja</string>
     <string name="no_wifi_hint">WiFi omrežja ni bilo mogoče najti. Tapnite, če želite odpreti nastavitve WiFi.</string>
-    <string name="not_connect">Ni mogoče povezati</string>
-    <string name="not_connect_user">Ni mogoče povezati: %1$s in %2$s</string>
+    <string name="not_connect">Ne morem povezati</string>
+    <string name="not_connect_user">Ne morem povezati: %1$s in %2$s</string>
     <string name="not_installed_documentsui">Aplikacija DocumentsUI ni nameščena</string>
     <string name="not_support_documentui">DocumentUI ni podprt na tej napravi</string>
     <string name="notif_server_starting">Zaganjam FTP strežnik…</string>

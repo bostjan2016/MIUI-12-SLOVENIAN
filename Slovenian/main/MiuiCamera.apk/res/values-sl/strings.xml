@@ -208,7 +208,7 @@ in za trenutek zapustite pregled"</string>
   <string name="clone_guide_title1">%d</string>
   <string name="clone_guide_title2">Kloniranje v fotografijah</string>
   <string name="clone_guide_title3">%d</string>
-  <string name="clone_guide_title4">Kako to izgleda</string>
+  <string name="clone_guide_title4">Kako to zgleda</string>
   <string name="clone_guide_video_title2">Kloniranje v videoposnetkih</string>
   <string name="clone_landscape_hint">Kloniranje deluje samo v ležečem načinu dela</string>
   <string name="clone_mode_start_hint">Tapnite sprožilec za začetek</string>
@@ -219,7 +219,7 @@ in za trenutek zapustite pregled"</string>
   <string name="clone_recapture_alert">Začnem znova?</string>
   <string name="clone_start_capture">Začnite klonirati</string>
   <string name="clone_too_much_movement_stop">Naprava je predaleč. Snemanje je ustavljeno.</string>
-  <string name="close">Zapri</string>
+  <string name="clone_video_mode">Videoposnetek</string>
   <string name="close_back_flash_toast">"Naprava je prevroča. Ne morem uporabiti bliskavice."</string>
   <string name="close_front_flash_toast">"Naprava je prevroča. Ne morem uporabiti bliskavice."</string>
   <string name="cloud_album_details">Podrobnosti Cloud albuma:</string>
@@ -545,7 +545,7 @@ Natisnite kopijo brezžično na papir A4."</string>
   <string name="macro_mode">Macro</string>
   <string name="macro_mode_tip">"Oddaljenost med objektivom in predmetom ne sme presegati 10 cm"</string>
   <string name="macro_mode_use_hint_text_body">"Uporabite Macro način da bodo majhni predmeti
-izgledali večji na fotografijah"</string>
+zgledali večji na fotografijah"</string>
   <string name="macro_mode_use_hint_text_title">Macro</string>
   <string name="maker">Avtor</string>
   <string name="makeup_reset_toast">Odstranjeni so učinki šminke</string>
@@ -678,7 +678,7 @@ izgledali večji na fotografijah"</string>
   <string name="no_storage">Pred uporabo kamere vstavite SD kartico.</string>
   <string name="no_thumbnail">Ni miniatur</string>
   <string name="not_enough_space">Notranji pomnilnik je poln</string>
-  <string name="not_selectable_in_scene_mode">Ni mogoče izbrati v načinu Scene</string>
+  <string name="not_selectable_in_scene_mode">Ne morem izbrati v načinu Scene</string>
   <string name="object_track_enable_toast">Tapnite na obeh koncih predmeta z dvema prstoma če ga hočete izbrati.</string>
   <string name="ok">V redu</string>
   <string name="only_mimoji_multi_window_mode_not_supported">"Ta storitev se ne more uporabiti v načinu dela z več okni"</string>

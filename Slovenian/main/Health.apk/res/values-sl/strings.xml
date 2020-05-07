@@ -47,7 +47,7 @@ Mi Health podpira naprave, ki ste jih predhodno dodali v aplikacijo Mi Home. Če
   <string name="added_data_source">Dodani viri</string>
   <string name="all_records">Vsi zapisi</string>
   <string name="auth_description">Dovoli %1$s sinhronizacijo podatkov iz naslednjih naprav</string>
-    <string name="auto_start_fail">"Ni mogoče dodeliti dovoljenj"</string>
+    <string name="auto_start_fail">"Ne morem dodeliti dovoljenj"</string>
     <string name="auto_start_success">Dovoljenja so bila uspešno dodeljena</string>
   <string name="auto_start_tips">Tapnite \"Nastavitve\" spodaj da odprete nastavitve Mi Zdravje in dajte potrebna dovoljenja.</string>
   <string name="average_cycle_days">Povprečni cikel</string>

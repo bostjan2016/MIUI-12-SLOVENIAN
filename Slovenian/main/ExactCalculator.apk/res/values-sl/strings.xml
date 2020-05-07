@@ -44,7 +44,7 @@
   <string name="error_nan">Ni število</string>
   <string name="error_overflow">Neskončno?</string>
   <string name="error_syntax">Napačen izraz</string>
-  <string name="error_zero_divide">Ni mogoče deliti z 0</string>
+  <string name="error_zero_divide">Ne morem deliti z 0</string>
   <string name="exact">(natančno)</string>
   <string name="menu_fraction">Pokaži rezultat kot ulomek</string>
   <string name="menu_leading">Pokaži rezultat z vodilnimi števkami</string>

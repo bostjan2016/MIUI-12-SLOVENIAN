@@ -2325,7 +2325,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="wifi_disconnected">Ni povezano</string>
     <string name="wifi_display_certification">Potrdilo brezžičnega zaslona</string>
     <string name="wifi_display_certification_summary">Pokaži možnosti za potrdilo brezžičnega zaslona</string>
-    <string name="wifi_fail_to_scan">Ni mogoče iskati omrežij</string>
+    <string name="wifi_fail_to_scan">Ne morem iskati omrežij</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
