@@ -192,7 +192,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antivirus_main_activity_back">Nazaj</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Izbriši tvegane aplikacije</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Izbriši viruse</string>
-  <string name="antivirus_monitor_clean_tips">Izbrisani predmeti: %s</string>
+  <string name="antivirus_monitor_clean_tips">Izbrisani stvari: %s</string>
   <string name="antivirus_monitor_risk_advice">"Ta aplikacija ni varna, izbrišite jo"</string>
   <string name="antivirus_monitor_virus_advice">Ta aplikacija lahko vsebuje virus, izbrišite jo</string>
   <string name="antivirus_monitored_app_empty">"Ne najdem kompatibilne aplikacije za plačevanje"</string>
@@ -1143,7 +1143,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s in %2$s drugih stiki so že na seznamu izjem.</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Konflikt izjem</string>
   <string name="dlg_add_keyword">Dodaj ključne besede</string>
-  <string name="dlg_add_white">"Novi klici in sporočila s številk dodanih v izjeme bodo prikazani v zgodovini klicev in dohodnih sporočil. Toda predhodno blokirani predmeti tam ne bodo prikazani. Ali želite dodati izbrane številke v izjeme?"</string>
+  <string name="dlg_add_white">"Novi klici in sporočila s številk dodanih v izjeme bodo prikazani v zgodovini klicev in dohodnih sporočil. Toda predhodno blokirani stvari tam ne bodo prikazani. Ali želite dodati izbrane številke v izjeme?"</string>
   <string name="dlg_antispam_mode_delete_message">"Po izbrisu pravila ne morete več dodati."</string>
   <string name="dlg_antispam_mode_delete_title">Izbrišem pravilo?</string>
   <string name="dlg_antispam_using_mode_delete_message">"Izbrišem pravilo ki ga trenutno uporabljate in vrnem nazaj na nastavljena pravila seznama blokiranih?"</string>
@@ -1166,9 +1166,9 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="dlg_keyword_ok">Shrani</string>
   <string name="dlg_message_not_open_stranger_identify">Za vklop te storitve, pojdite v Nastavitve &gt; Telefon.</string>
   <string name="dlg_move_to_white">Dodaj v izjeme</string>
-  <string name="dlg_no_block">Odblokiram to telefonsko številko?\nBo dodana v izjeme toda predhodno blokirani predmeti ne bodo vidni v zgodovini klicev.</string>
+  <string name="dlg_no_block">Odblokiram to telefonsko številko?\nBo dodana v izjeme toda predhodno blokirani stvari ne bodo vidni v zgodovini klicev.</string>
   <string name="dlg_no_block_ok">Odblokiraj</string>
-  <string name="dlg_not_block_call">"Odblokiram izbrane številke?\nBodo dodani v izjeme toda predhodno blokirani predmeti ne bodo vidni v zgodovini klicev."</string>
+  <string name="dlg_not_block_call">"Odblokiram izbrane številke?\nBodo dodani v izjeme toda predhodno blokirani stvari ne bodo vidni v zgodovini klicev."</string>
   <string name="dlg_not_block_sms">"Deblokiram izbrane številke?\nBodo dodane v izjeme toda predhodno blokirane stvari ne bodo vidne v dohodnih obvestilih."</string>
   <string name="dlg_remove_address_blacklist">Odstranim to lokacijo s seznama blokiranih?</string>
   <string name="dlg_remove_address_whitelist">Odstranim to lokacijo iz izjem?</string>
@@ -2811,7 +2811,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_connect_settings_enable_background_hint">"Dovoli aplikaciji uporabo mobilnih podatkov ko jih ne uporabljate"</string>
   <string name="pref_connect_settings_exceed_limit">Omeji porabo podatkov</string>
   <string name="pref_connect_settings_exceed_limit_hint">Izključi podatkovno povezavo ko poraba podatkov doseže omejitev</string>
-  <string name="pref_content_virus_white_list_none">Ni predmetov</string>
+  <string name="pref_content_virus_white_list_none">Ni stvari</string>
   <string name="pref_correction_setting">Nastavitve predloge za kalibracijo</string>
   <string name="pref_correction_setting_switch">Uporabi prilagojeno predlogo za kalibracijo</string>
   <string name="pref_correction_sms_content">Predloga za kalibracijo</string>
@@ -3080,8 +3080,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="reach_daily_limit_value_body_open_traffic_saving">Tapnite za vključitev Varčevanja podatkov.</string>
   <string name="reach_daily_limit_value_title">Dosežena omejitev dnevnih podatkov</string>
   <string name="read_all_sms">Preberi vse</string>
-  <string name="read_number">86 predmetov</string>
-  <string name="read_unit">" predmetov"</string>
+  <string name="read_number">86 stvari</string>
+  <string name="read_unit">" stvari"</string>
   <string name="receive_now">Prejmi</string>
   <string name="recently_reject_message">Zavrnjena namestitev (%1$s) in drugih aplikacij (%2$d)</string>
   <string name="recently_reject_message_one">Zavrnjena (%1$s) zahteva za namestitev</string>
@@ -3322,7 +3322,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sp_background_risk_type_sign">Neuradna aplikacija je zagnana</string>
   <string name="sp_background_risk_type_virus">Virus zagnan v ozadju</string>
   <string name="sp_background_risk_type_wifi">To WiFi omrežje je nevarno</string>
-  <string name="sp_button_text_ignore_alert_title">Ignoriram označen predmet?</string>
+  <string name="sp_button_text_ignore_alert_title">Ignoriram označen stvar?</string>
   <string name="sp_empty_title_sign_exception">Pritisnite in držite aplikacijo na strani z rezultati za dodajanje na seznam izjem</string>
   <string name="sp_monitored_apps_count_zero">Ni zaščitenih aplikacij za plačevanje</string>
   <string name="sp_monitored_apps_list_title">Nastavitve nadziranja</string>
@@ -3920,10 +3920,10 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="toast_network_eror">"Ne morem se povezati na omrežje"</string>
   <string name="toast_network_switch">Ta aplikacija se lahko povezuje na splet</string>
   <string name="toast_reject_sms_read_permission_success">Uspešno nastavljeno</string>
-  <string name="toast_removed_from_virus_white_list">Odstranjeni iz Izjem. Predmet se bo skenital naslednjič.</string>
+  <string name="toast_removed_from_virus_white_list">Odstranjeno iz Izjem. Stvar se bo skenirala naslednjič.</string>
   <string name="toast_root_apply_accept">Administratorski dostop odobren %s</string>
   <string name="toast_root_apply_reject">Zavrnjen administratorski dostop za %s</string>
-  <string name="toast_select_virus_white_need_remove">Izberite predmete</string>
+  <string name="toast_select_virus_white_need_remove">Izberite stvari</string>
   <string name="toast_set_success">Uspešno vključeno</string>
   <string name="toast_shortcut_install">Bližnjica postavljena na začetni zaslon</string>
   <string name="toast_shortcut_uninstall">Bližnjica odstranjena</string>
@@ -4189,7 +4189,7 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="vtb_func_desc">O storitvi</string>
   <string name="vtb_func_display_style_desc1">"Izbrani efekti ne bodo uporabljeni v HDR videoposnetkih."</string>
   <string name="vtb_func_display_style_desc2">"Ti efekti se ne morejo uporabiti pri posnetkih zaslona."</string>
-  <string name="vtb_func_frc_desc0">Glajenje gibov zmanjšuje zamegljevanje in dodaja podrobnosti premikajočim se predmetom. Uporaba povečuje porabo energije.</string>
+  <string name="vtb_func_frc_desc0">Glajenje gibov zmanjšuje zamegljevanje in dodaja podrobnosti premikajočim se stvarom. Uporaba povečuje porabo energije.</string>
   <string name="vtb_func_frc_desc1">"Glajenje gibov ne dela v naslednjih pogojih:"</string>
   <string name="vtb_func_frc_desc2">Ko je resolucija videoposnetka večja od 1080P</string>
   <string name="vtb_func_frc_desc3">Ko je hitrost kadra večja od 30 FPS</string>

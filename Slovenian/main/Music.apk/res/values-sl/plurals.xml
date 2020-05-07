@@ -17,8 +17,8 @@
         <item quantity="one">pred %d dan</item>
     </plurals>
 	<plurals name="dialog_confirm_delete_downloads_message">
-         <item quantity="other">Izbrišem predmete: %d?</item>
-         <item quantity="one">Izbrišem %d predmet?</item>
+         <item quantity="other">Izbrišem stvare: %d?</item>
+         <item quantity="one">Izbrišem %d stvar?</item>
      </plurals>
      <plurals name="download_info_count_deleted_tasks">
          <item quantity="other">%d prenosov odstranjeno</item>
@@ -109,8 +109,8 @@ Opomba: Datoteka bo izbrisana tudi iz te naprave."</item>
 	   <item quantity="one">Dodana %d skladba</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">Izbrano %d predmetov</item>
-        <item quantity="one">Izbran %d predmet</item>
+        <item quantity="other">Izbrano %d stvari</item>
+        <item quantity="one">Izbran %d stvar</item>
     </plurals>
     <plurals name="song_already_favorite">
         <item quantity="other">Skladbe so že označene kot priljubljene.</item>

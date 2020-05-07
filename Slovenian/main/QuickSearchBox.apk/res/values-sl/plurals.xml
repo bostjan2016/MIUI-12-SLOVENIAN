@@ -65,7 +65,7 @@
         <item quantity="one">Izbrano: %d</item>
     </plurals>
     <plurals name="switch_prompt_content">
-         <item quantity="other">"Niste dovolili iskanje za %d predmetov"</item>
-        <item quantity="one">"Niste dovolili iskanja za %d predmet"</item>
+         <item quantity="other">"Niste dovolili iskanje za %d stvari"</item>
+        <item quantity="one">"Niste dovolili iskanja za %d stvar"</item>
     </plurals>
 </resources> 

@@ -220,8 +220,8 @@
         <item quantity="one">Na voljo je %d posodobitev</item>
     </plurals>	
 	<plurals name="system_check_content">
-         <item quantity="other">%1$d predmetov zavarovanih</item>
-         <item quantity="one">%1$d predmet zavarovan</item>
+         <item quantity="other">%1$d stvari zavarovanih</item>
+         <item quantity="one">%1$d stvar zavarovan</item>
      </plurals>
      <plurals name="cache_check_content">
          <item quantity="other">Varujem %d aplik.</item>

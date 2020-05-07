@@ -33,7 +33,7 @@
   <string name="assistant_day_suffix">后</string>
   <string name="assistant_format_MMdd">dd/MM</string>
   <string name="authorize_button">Dovoli</string>
-  <string name="authorize_fav_tip">Dodajte tukaj favorite iz drugih aplikacij.</string>
+  <string name="authorize_fav_tip">Dodajte tukaj priljubljeno iz drugih aplikacij.</string>
   <string name="ball_CricketMatch_title">Kriket</string>
   <string name="ball_add_fav_team">Dodaj ekipe</string>
   <string name="ball_basket_rank_win_or_lose">Zma/Izg</string>

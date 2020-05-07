@@ -47,7 +47,7 @@
   <string name="apps_and_data_item_desc">Aplikacije in podatki</string>
   <string name="auto_backup">Načrtuj varnostno kopiranje</string>
   <string name="auto_backup_all_user_apps">Vse aplikacije</string>
-  <string name="auto_backup_choose">Varnostno kopiraj predmete</string>
+  <string name="auto_backup_choose">Varnostno kopiraj stvare</string>
   <string name="auto_backup_choose_empty">Ni varnostnih kopij.</string>
   <string name="auto_backup_choose_title">Izberite datoteke ki jih želite varnostno kopirati.</string>
   <string name="auto_backup_date">Dni</string>
@@ -620,8 +620,8 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_intro_desc_gms">"Zaradi velike možnosti neuspelih prenosov zaradi problema z kompatibilnstjo, Mi Mover ne podpira prenos podatkov generiranih od Googleovih aplikacij."</string>
   <string name="trans_intro_desc_multiapp">"Mi Mover ne prenese podatke Dvojnih aplikacij da se izogne konfliktom med datotekami."</string>
   <string name="trans_intro_desc_multiuser">"Mi Mover ne more dostopati do nastavitev v Drugem prostoru. Prestavite nastavitve v Prvi prostor in tam zaženite Mi Mover."</string>
-  <string name="trans_intro_desc_new">"Pritisnite \"Jaz sam prejemnik\". Generirala se bo QR koda."</string>
-  <string name="trans_intro_desc_old">"Pritisnite \"Jaz sem pošiljatelj\". Skenirajte QR kodo na novem telefonu, počakajte dokler Mi Mover ne določi katere datoteke pošiljate in pritisnite \"Pošlji\"."</string>
+  <string name="trans_intro_desc_new">"Pritisnite \"Sem prejemnik\". Generirala se bo QR koda."</string>
+  <string name="trans_intro_desc_old">"Pritisnite \"Sem pošiljatelj\". Skenirajte QR kodo na novem telefonu, počakajte dokler Mi Mover ne določi katere datoteke pošiljate in pritisnite \"Pošlji\"."</string>
   <string name="trans_intro_desc_old_market">Tapnite \"Začetek\". Skenirajte QR kodo na novem telefonu, počakajte da Mi Mover najde katere datoteke pošiljate in tapnite \"Pošlji\".</string>
   <string name="trans_intro_desc_private">"Mi Mover ne more dostopati do fotografij v skritem albumu ker so šifrirane. Te fotografije lahko prenesete z Mi Clouda na novi napravi."</string>
   <string name="trans_intro_question_1">%d. Kako uporabiti Mi Mover za premeščanje podatkov iz iOS naprave ?</string>

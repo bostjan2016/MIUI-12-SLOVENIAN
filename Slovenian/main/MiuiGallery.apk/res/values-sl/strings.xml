@@ -77,7 +77,7 @@
   <string name="ai_album_setting_key_word">Išči fotografije</string>
   <string name="ai_album_setting_sub_title">Dovoli AI algoritmu da prepozna osebe, mesta in objekte na vaših fotografijah da jih hitreje najdete.</string>
   <string name="ai_album_setting_title">Prepoznaj objekte na fotografijah</string>
-  <string name="album_ai_description">Osebe, mesta, predmeti</string>
+  <string name="album_ai_description">Osebe, mesta, stvari</string>
   <string name="album_ai_international_description">Osebe</string>
   <string name="album_ai_international_title">Osebe</string>
   <string name="album_ai_page_title">Pametni albumi</string>
@@ -89,7 +89,7 @@
   <string name="album_cloud_list_page_title">Urejanje sinhroniziranih albumov</string>
   <string name="album_creative">Moje urejene fotografije</string>
   <string name="album_detail_clear_local_page_empty">Ni shranjenih fotografij ali videoposnetkov za brisanje</string>
-  <string name="album_detail_page_empty">Ni predmetov</string>
+  <string name="album_detail_page_empty">Ni stvari</string>
   <string name="album_download">Prenosi</string>
   <string name="album_faces_name">Osebe</string>
   <string name="album_favorites_name">Priljubljeno</string>
@@ -522,7 +522,7 @@
   <string name="delete_album_msg_format_local">Izbrišem %1$s %2$s?</string>
   <string name="delete_album_success">Album izbrisan</string>
   <string name="delete_from_all_devices_and_cloud">iz vseh naprav in Mi Clouda</string>
-  <string name="delete_from_cloud">Izbriši predmete iz Mi Clouda</string>
+  <string name="delete_from_cloud">Izbriši stvare iz Mi Clouda</string>
   <string name="delete_from_devices">Iz vseh naprav ki so samodejno sinhronizirane</string>
   <string name="delete_from_devices_album">Iz vseh naprav ki so sinhr. ta  album</string>
   <string name="delete_from_homepage_album">Iz albumov ki so prikazani na začetni strani</string>
@@ -1680,7 +1680,7 @@ za fotografije"</string>
   <string name="search_failed_mark_feedback_false_positive">"Ne morem odstraniti"</string>
   <string name="search_feedback_contribute">Dodaj fotografije v bazo podatkov algoritma AI</string>
   <string name="search_feedback_false_negative_text">Dodam fotografije v \"%s\"?</string>
-  <string name="search_feedback_false_negative_title">Izbrani predmeti so \"%s\"</string>
+  <string name="search_feedback_false_negative_title">Izbrani stvari so \"%s\"</string>
   <string name="search_feedback_false_positive_text">Odstranim fotografije iz \"%s\"?</string>
   <string name="search_feedback_false_positive_title">Kaže da so to \"%s\"</string>
   <string name="search_feedback_likely_check_title">Preveri</string>
@@ -1765,7 +1765,7 @@ za fotografije"</string>
   <string name="send_public_url">Pošlji povezavo albuma</string>
   <string name="send_secret_file_failed">"Ne morem poslati"</string>
   <string name="send_secret_file_space_low">Ni dovolj prostora za shranjevanje</string>
-  <string name="send_too_many_files_error">"Ne morem poslati toliko predmetov (maks. %d)."</string>
+  <string name="send_too_many_files_error">"Ne morem poslati toliko stvari (maks. %d)."</string>
   <string name="sepia">Sepia</string>
   <string name="service_is_provided_by_miui_cloud_service">Ponuja Xiaomi Cloud</string>
   <string name="set_as_baby_lock_wallpaper">Nastavi za ozadje zakl. zaslona</string>

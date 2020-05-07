@@ -89,7 +89,7 @@
     <string name="cache_title_empty_folder">Prazna mapa (%d)</string>
     <string name="cache_title_empty_folder2">Prazna mapa</string>
     <string name="cache_title_system_cache">Predpomnilnik sistema</string>
-    <string name="can_not_send_with_too_many">Naenkrat ni mogoče poslati toliko predmetov</string>
+    <string name="can_not_send_with_too_many">Naenkrat ni mogoče poslati toliko stvari</string>
     <string name="cancel">Prekliči</string>
     <string name="cancel_auto_save">Ne, hvala</string>
     <string name="cancel_error">Odstranjevanje ni uspelo, poskusite ponovno</string>
@@ -109,7 +109,7 @@
     <string name="category_folder">Mape</string>
     <string name="category_installed_app">Nameščene aplikacije</string>
     <string name="category_midrive">Mi Drive</string>
-    <string name="category_move_limit_notice">Med 3 do 7 predmetov lahko premaknete na zgornji del zaslona</string>
+    <string name="category_move_limit_notice">Med 3 do 7 stvari lahko premaknete na zgornji del zaslona</string>
     <string name="category_music">Glasba</string>
     <string name="category_other">Drugo</string>
     <string name="category_photo">Fotografije</string>
@@ -155,7 +155,7 @@
     <string name="connection_lost">Povezava prekinjena</string>
     <string name="copy_failed">Kopiranje ni uspelo</string>
     <string name="copy_to">Kopiraj v…</string>
-    <string name="copy_to_internal_storage_first">Najprej kopirajte predmete v notranji pomnilnik.</string>
+    <string name="copy_to_internal_storage_first">Najprej kopirajte stvare v notranji pomnilnik.</string>
     <string name="dark_mode">Temni način</string>
     <string name="dark_mode_notice_message">Sedaj je na voljo temna tema!</string>
     <string name="data_support_cm">Omogoča Clean Master</string>
@@ -372,7 +372,7 @@ Za dodajanje pritisnite in držite mapo ali tapnite \"Več\"."</string>
     <string name="move_icon_to_desktop_hint">Ustvarite bližnjico za Upravitelja datotek na Začetnem zaslonu za bolj učinkovito delo z datotekami.</string>
     <string name="move_icon_to_desktop_success">Bližnjica dodana na Začetni zaslon.</string>
     <string name="move_to">Premakni v…</string>
-    <string name="msg_auto_seven_day">Predmeti v predpomnilniku bodo odstranjeni vsakih 24 ur. Želite podaljšati na 7 dni?</string>
+    <string name="msg_auto_seven_day">Stvari v predpomnilniku bodo odstranjeni vsakih 24 ur. Želite podaljšati na 7 dni?</string>
     <string name="msg_set_password">Najprej nastavite geslo</string>
     <string name="mtp_device">Prenos datotek (MTP)</string>
     <string name="must_permissions">Obvezna dovoljenja</string>

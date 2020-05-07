@@ -246,7 +246,7 @@
   <string name="favorite_add_home_add">Dodaj</string>
   <string name="favorite_add_home_cancel">Prekliči</string>
   <string name="favorite_add_home_content">Dodam bližnjico na začetni zaslon?</string>
-  <string name="favorite_add_home_process">Dodajam\u2026</string>
+  <string name="favorite_add_home_process">Dodajam...</string>
   <string name="favorite_all_selec">Izberi vse</string>
   <string name="favorite_cancel">Prekliči</string>
   <string name="favorite_clipboard_tip">Dodam naslov iz odložišča med priljubljene?</string>

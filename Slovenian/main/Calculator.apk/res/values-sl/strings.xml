@@ -403,7 +403,7 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
   <string name="search_input_description">Išči</string>
   <string name="secondFunctionDesc">Pojdi na drugo storitev</string>
   <string name="select_all">Izberi vse</string>
-  <string name="select_item">Izberi predmete</string>
+  <string name="select_item">Izberi stvare</string>
   <string name="send">Pošlji</string>
   <string name="send_sms_for_sync_notice">Odhodno SMS sporočilo bo mogoče potrebno za aktiviranje rte storitve. Vaš mobilni operater vam bo to zaračunal.</string>
   <string name="send_sms_for_sync_title">Opozorilo porabe podatkov</string>

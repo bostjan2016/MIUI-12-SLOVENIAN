@@ -104,7 +104,7 @@
         <item quantity="two">"Ne morem odstraniti \"%s\" in še 1 aplikacijo"</item>
     </plurals>
     <plurals name="announce_for_drag">
-        <item quantity="other">odstranjevanje predmetov %1$d</item>
+        <item quantity="other">odstranjevanje stvari %1$d</item>
         <item quantity="one">odstranitev %1$d stvari</item>
      </plurals>
 </resources> 

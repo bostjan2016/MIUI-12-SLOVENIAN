@@ -698,7 +698,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="audio_record_proc_title">Zmanjšanje zunanjih zvokov</string>
   <string name="auto_backup">Načrtuj varnostno kopiranje</string>
   <string name="auto_backup_all_user_apps">Vse aplikacije</string>
-  <string name="auto_backup_choose">Varnostno kopiraj predmete</string>
+  <string name="auto_backup_choose">Varnostno kopiraj stvare</string>
   <string name="auto_backup_choose_empty">Ni varnostnih kopij.</string>
   <string name="auto_backup_choose_title">Izberite datoteke ki jih želite varnostno kopirati.</string>
   <string name="auto_backup_date">Dni</string>
@@ -1768,7 +1768,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="clear_adb_keys">Preklic dovoljenj za odpr. težav prek USB</string>
   <string name="clear_all_data">Izbriši vse podatke</string>
   <string name="clear_cache_btn_text">Počisti predpomnilnik</string>
-  <string name="clear_data_alert_info">Vse var. kopije, shranjene v tej napravi, bodo trajno izbrisane. Pred nadaljevanjem kopirajte pomembne predmete v računalnik in Mi Cloud.</string>
+  <string name="clear_data_alert_info">Vse var. kopije, shranjene v tej napravi, bodo trajno izbrisane. Pred nadaljevanjem kopirajte pomembne stvare v računalnik in Mi Cloud.</string>
   <string name="clear_data_dlg_text">Vsi podatki te aplikacije bodo trajno izbrisani. To med drugim vključuje vse datoteke, nastavitve, račune in podatkovne zbirke.</string>
   <string name="clear_data_dlg_title">Želite izbrisati podatke aplikacije?</string>
   <string name="clear_data_failed">Podatkov aplikacije ni bilo mogoče izbrisati.</string>
@@ -2489,7 +2489,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s in prepreči
   <string name="dialog_backup_password_restore_tips">"Ne morem povrniti stvari ko je geslo za var. kopije vključeno. Najprej izključite geslo."</string>
   <string name="dialog_backup_password_to_settings">Nastavitve</string>
   <string name="dialog_backup_title">Posodobim var. kopije pred ponastavitvijo na tovarniške nastavitve?</string>
-  <string name="dialog_chose_item">Izberite predmet za prikaz</string>
+  <string name="dialog_chose_item">Izberite stvar za prikaz</string>
   <string name="dialog_content_login">Se želite prijaviti v svoj Mi račun za posodobitve?</string>
     <string name="dialog_location_message">"Telefon ne more ustrezno upravljati porabe energije akumulatorja, ker aplikacija %1$s nenehno zahteva lokacijo, tudi ko aplikacije ne uporabljate.
 
@@ -3081,8 +3081,8 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="face_data_manage_unlock_title">Odkleni z obrazom</string>
   <string name="face_data_siggesstion_next">Naprej</string>
   <string name="face_data_siggesstion_next_time">Naprej (%ds)</string>
-  <string name="face_data_suggesstion_first">Varnostni problemi: Odklepanje obraza je manj varno kot PIN, geslo ali vzorec. Vaša naprava bo morda odklenjena s vašo fotografijo, pa tudi z osebami ali predmeti podobnega videza.</string>
-  <string name="face_data_suggesstion_second">"Prepričajte se, da vsi deli obraza niso pokriti s predmeti in so dobro vidni. In vaš obraz naj bo dobro osvetljen.."</string>
+  <string name="face_data_suggesstion_first">Varnostni problemi: Odklepanje obraza je manj varno kot PIN, geslo ali vzorec. Vaša naprava bo morda odklenjena s vašo fotografijo, pa tudi z osebami ali stvari podobnega videza.</string>
+  <string name="face_data_suggesstion_second">"Prepričajte se, da vsi deli obraza niso pokriti s stvari in so dobro vidni. In vaš obraz naj bo dobro osvetljen.."</string>
     <string name="face_intro_error_max">Dodali ste največje dovoljeno število obrazov</string>
     <string name="face_intro_error_unknown">Obrazov ni več mogoče dodati</string>
     <string name="face_lock_screen_setup_skip_dialog_text">Telefon zaščitite z možnostjo zaklepanja zaslona, tako da ga ne bo mogel uporabljati nihče drug, če ga izgubite ali vam ga ukradejo. Zaklepanje zaslona potrebujete tudi za nastavitev preverjanja pristnosti z obrazom. Dotaknite se »Prekliči«, nato pa nastavite kodo PIN, vzorec ali geslo.</string>
@@ -3742,7 +3742,7 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="input_method_manage">Urejaj tipkovnico</string>
   <string name="input_method_quick_access">Hitri dostop</string>
   <string name="input_method_quick_cloud_mode_title">Obvesti o novi vsebini medpomnilnika</string>
-  <string name="input_method_quick_cloud_summary">Kopirajte predmete na kompatibilnih računalnikih in jih prilepite v svojo napravo</string>
+  <string name="input_method_quick_cloud_summary">Kopirajte stvare na kompatibilnih računalnikih in jih prilepite v svojo napravo</string>
   <string name="input_method_quick_cloud_title">Medpomnilnik Clouda</string>
   <string name="input_method_quick_paste_summary">Preglejte kopirane stvari z dotikom ikone medpomnilnika</string>
   <string name="input_method_quick_paste_title">Hitro prilepi</string>
@@ -5387,8 +5387,8 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="notification_log_details_parcel">velikost paketa</string>
     <string name="notification_log_details_priority">prednost</string>
     <string name="notification_log_details_public_version">različica za javnost</string>
-    <string name="notification_log_details_ranking_none">Predmet za uvrščanje ne vsebuje tega ključa.</string>
-    <string name="notification_log_details_ranking_null">Manjka predmet za uvrščanje.</string>
+    <string name="notification_log_details_ranking_none">Stvar za uvrščanje ne vsebuje tega ključa.</string>
+    <string name="notification_log_details_ranking_null">Manjka stvar za uvrščanje.</string>
     <string name="notification_log_details_remoteinput">oddaljeni vhodi</string>
   <string name="notification_log_details_sound">zvok</string>
     <string name="notification_log_details_title">naziv</string>
@@ -8055,7 +8055,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="structure_face_data_ir_input_face">Počasi premaknite glavo</string>
   <string name="structure_face_data_manage_delete_msg">Izbriši 3D obraz</string>
   <string name="structure_face_data_suggestion_text">"Prepričajte se, da so vsi deli obraza jasno vidni. Med fotografiranjem 3D-obrazov ne nosite klobukov, sončnih očal ali drugih dodatkov, ki bi lahko pokrivali vaš obraz. Poskrbite, da bo obraz enakomerno osvetljen.."</string>
-  <string name="structure_face_data_suggestion_warning_text">Opomba: Uporaba 3D obrazov je nekoliko varnejša kot uporaba gesla. Ljudje ali predmeti, ki so zelo podobni vam, bi lahko odklenili vašo napravo.</string>
+  <string name="structure_face_data_suggestion_warning_text">Opomba: Uporaba 3D obrazov je nekoliko varnejša kot uporaba gesla. Ljudje ali stvari, ki so zelo podobni vam, bi lahko odklenili vašo napravo.</string>
   <string name="structure_face_delete_data_dialog_msg">"Ne morem zagnati kamero in pregledati. Poskusite ponovno."</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Poskusite ponovno</string>
   <string name="structure_face_delete_data_dialog_title">"Ne morem zagnati kamero"</string>
@@ -8076,8 +8076,8 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="structure_face_unlock_model_other">Ostalo</string>
   <string name="structure_face_unlock_model_other_msg_2d">2D prepoznavanje</string>
   <string name="structure_face_unlock_model_other_msg_3d">3D prepoznavanje</string>
-  <string name="structure_face_unlock_model_other_suggestion_2d">2D prepoznavanje obrazov je manj varno kot vzorec, PIN ali geslo. Ko je ta funkcija vklopljena, lahko vašo napravo odklene vaša fotografija, pa tudi ljudje ali predmeti, ki so podobni vam.</string>
-  <string name="structure_face_unlock_model_other_suggestion_3d">"3D prepoznavanje obrazov je razmeroma varno. Zelo malo verjetno je, da bo vaša naprava ob vklopu te funkcije odklenjena z vašo fotografijo. Vendar bi lahko ljudje ali predmeti, ki so zelo podobni vam, odklenili napravo."</string>
+  <string name="structure_face_unlock_model_other_suggestion_2d">2D prepoznavanje obrazov je manj varno kot vzorec, PIN ali geslo. Ko je ta funkcija vklopljena, lahko vašo napravo odklene vaša fotografija, pa tudi ljudje ali stvari, ki so podobni vam.</string>
+  <string name="structure_face_unlock_model_other_suggestion_3d">"3D prepoznavanje obrazov je razmeroma varno. Zelo malo verjetno je, da bo vaša naprava ob vklopu te funkcije odklenjena z vašo fotografijo. Vendar bi lahko ljudje ali stvari, ki so zelo podobni vam, odklenili napravo."</string>
   <string name="structure_face_unlock_model_other_title">Prepoznavanje obraza</string>
   <string name="structure_face_unlock_not_same_person">"Vse korake morate končati sami. Ne menjajte mesta z nikomer."</string>
   <string name="structure_face_unlock_tof_covered">"Ne morem dodati obraz. Odmaknite se dlje od zaslona."</string>
@@ -8478,8 +8478,8 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_intro_desc_gms">"Zaradi mnogo ponesrečenih prenosov zaradi neustreznosti, Mi Mover ne podpira prenosa podatkov iz Google apps."</string>
   <string name="trans_intro_desc_multiapp">"Mi Mover ne prenese podatke Dvojnih aplikacij da se izogne konfliktom med datotekami."</string>
   <string name="trans_intro_desc_multiuser">"Mi Mover ne more dostopati do nastavitev v Drugem prostoru. Prestavite nastavitve v Prvi prostor in tam zaženite Mi Mover."</string>
-  <string name="trans_intro_desc_new">"Pritisnite \"Jaz sam prejemnik\". Generirala se bo QR koda."</string>
-  <string name="trans_intro_desc_old">"Pritisnite \"Jaz sem pošiljatelj\". Skenirajte QR kodo na novem telefonu, počakajte dokler Mi Mover ne določi katere datoteke pošiljate in pritisnite \"Pošlji\"."</string>
+  <string name="trans_intro_desc_new">"Pritisnite \"Sem prejemnik\". Generirala se bo QR koda."</string>
+  <string name="trans_intro_desc_old">"Pritisnite \"Sem pošiljatelj\". Skenirajte QR kodo na novem telefonu, počakajte dokler Mi Mover ne določi katere datoteke pošiljate in pritisnite \"Pošlji\"."</string>
   <string name="trans_intro_desc_old_market">Tapnite \"Začetek\". Skenirajte QR kodo na novem telefonu, počakajte da Mi Mover najde katere datoteke pošiljate in tapnite \"Pošlji\".</string>
   <string name="trans_intro_desc_private">"Mi Mover ne more dostopati do fotografij v skritem albumu ker so šifrirane. Te fotografije lahko prenesete z Mi Clouda na novi napravi."</string>
   <string name="trans_intro_question_1">%d. Kako uporabiti Mi Mover za premeščanje podatkov iz iOS naprave ?</string>

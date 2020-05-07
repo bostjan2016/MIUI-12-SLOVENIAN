@@ -54,7 +54,7 @@
   <string name="add_to_browser_favorite_failed">Ni uspelo</string>
   <string name="add_to_browser_favorite_success">Uspelo</string>
   <string name="add_video">Dodaj video posnetek</string>
-  <string name="adding_attachments">Počakajte medtem ko se predmeti dodajajo v diaprojekcijo</string>
+  <string name="adding_attachments">Počakajte medtem ko se stvari dodajajo v diaprojekcijo</string>
   <string name="adding_attachments_title">Dodajanje priponk</string>
   <string name="adding_recipients">Dodajanje prejemnikov...</string>
   <string name="alert_dlg_cancel_button">Prekini</string>
@@ -75,7 +75,7 @@
   <string name="attach_record_video">Zajemi video</string>
   <string name="attach_slideshow">Diaprojekcija</string>
   <string name="attach_sound">Avdio</string>
-  <string name="attach_subject">Predmet</string>
+  <string name="attach_subject">Stvar</string>
   <string name="attach_take_photo">Zajemi fotografijo</string>
   <string name="attach_transaction">Pošlji denar</string>
   <string name="attach_video">Video posnetek</string>
@@ -119,7 +119,7 @@
   <string name="can_not_view_group_chat_stranger">"Ne morem videti podrobnosti tujcev."</string>
   <string name="cannot_add_picture_and_video">Ne morem dodati videa in fotografije v en diapozitiv.</string>
   <string name="cannot_add_slide_anymore">Ne morem dodati diapozitivov.</string>
-  <string name="cannot_forward_drm_obj">DRM predmet vsebovan v sporočilu ne mora biti posredovan naprej.</string>
+  <string name="cannot_forward_drm_obj">DRM stvar vsebovan v sporočilu ne mora biti posredovan naprej.</string>
   <string name="cannot_get_details">Ne morem pridobiti podrobnosti.</string>
   <string name="cannot_resend_audio">"Ne morem poslati posnetka"</string>
   <string name="cannot_send_message">Ne morem poslati sporočil</string>
@@ -565,8 +565,8 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="no_delivery_report">Ni potrdila o dostavi</string>
   <string name="no_longer_recommend">"Ne kaži več "</string>
   <string name="no_network_description">"Povezovanje na omrežje ni uspelo. Preverite nastavitve omrežja in poskusite ponovno."</string>
-  <string name="no_subject">(Ni predmeta)</string>
-  <string name="no_subject_view">(Ni predmeta)</string>
+  <string name="no_subject">(Ni stvara)</string>
+  <string name="no_subject_view">(Ni stvara)</string>
   <string name="non_english_subject_limit">13 znakov</string>
   <string name="nosend_message">Ne pošlji</string>
   <string name="not_prepare_for_send">Ni sporočil za pošiljanje</string>
@@ -1005,8 +1005,8 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="sub_sim_card">Sub</string>
   <string name="sub_sim_card_indicator">Sub%d</string>
   <string name="sub_sim_not_support_mms">"MMS ni možno poslati z uporabo sekundarne SIM kartice"</string>
-  <string name="subject_hint">Predmet</string>
-  <string name="subject_label">"Predmet: "</string>
+  <string name="subject_hint">Stvar</string>
+  <string name="subject_label">"Stvar: "</string>
   <string name="subscribe">Naroči se</string>
   <string name="success_login">Uspešno prijavljen</string>
   <string name="summary_pref_cm_smart_sms">Predloge kartic, številke SMS storitev in še več.</string>

@@ -86,7 +86,7 @@
   <string name="announce_for_delete_item">%1$s je izbrisan</string>
   <string name="announce_for_drag_enter_delete_zone">Povlečene stvari v področje odstranitve</string>
   <string name="announce_for_drag_enter_folder_grid">Lahko izpustite stvari v  mapo</string>
-  <string name="announce_for_drag_enter_workspace_thumbnail">premik predmeta za vhod v pregled zaslona %1$d</string>
+  <string name="announce_for_drag_enter_workspace_thumbnail">premik stvara za vhod v pregled zaslona %1$d</string>
   <string name="announce_for_drop">Izpuščen %1$s</string>
   <string name="announce_for_drop_folder_grid_view">Število %1$d v mapi</string>
   <string name="announce_for_drop_folder_icon">V mapi %1$s</string>
@@ -249,8 +249,8 @@
   <string name="free_style_edit_bar_select_app">Izberi aplikacijo</string>
   <string name="free_style_edit_bottom_empty_tip">Tapni pravokotnik za spreminjanje</string>
   <string name="free_style_edit_drawer">Slikar</string>
-  <string name="free_style_edit_move_tip">Tapni &amp; drži za premikanje predmeta</string>
-  <string name="free_style_edit_tab_free_component">Predmet</string>
+  <string name="free_style_edit_move_tip">Tapni &amp; drži za premikanje stvara</string>
+  <string name="free_style_edit_tab_free_component">Stvar</string>
   <string name="free_style_edit_tab_shortcut">Bližnjica</string>
   <string name="free_style_edit_tab_widget">Pripomočki</string>
   <string name="free_style_enter_tip">Če si želite ogledati Mi prostor, potegnite z dvema prstoma navzdol z vrha zaslona</string>
@@ -493,7 +493,7 @@
   <string name="shake_to_align_icons_title">Pretresite da napolnite prazne celice</string>
   <string name="share">Deli</string>
   <string name="sharedUserId"/>
-  <string name="shortcut_share_dialog_content">"Datoteke, ki jih pošljete iz telefona, pa tudi njihove prejemnike izberete in določite vi. Bodite pozorni, ko izbirate datoteke za skupno rabo in izbiro prejemnikov. Svojega telefona ne smete uporabljati za pošiljanje virusov, zlonamerne programske opreme, trojancev, časovnih bomb in drugih škodljivih predmetov drugim ljudem. Ne uporabljajte telefona za prenos programske opreme, ki lahko vpliva na redno uporabo prejemnikove naprave ali drugih elementov, ki lahko poškodujejo, motijo, prestrežejo ali odstranijo kakršne koli sistemske podatke ali osebne podatke na mobilnih terminalskih napravah. Odgovorni boste za kakršno koli škodo, povzročeno drugim uporabnikom ali mobilnim terminalom. Xiaomi se bo po svojih najboljših močeh trudil, da bodo funkcionalnost deljenja ter vključena tehnologija in informacije varni, učinkoviti, natančni in zanesljivi. Vendar pa zaradi trenutnih tehnoloških omejitev Xiaomi ne zagotavlja, da je funkcija skupne rabe brezhibna in bo zadovoljila vse vaše potrebe."</string>
+  <string name="shortcut_share_dialog_content">"Datoteke, ki jih pošljete iz telefona, pa tudi njihove prejemnike izberete in določite vi. Bodite pozorni, ko izbirate datoteke za skupno rabo in izbiro prejemnikov. Svojega telefona ne smete uporabljati za pošiljanje virusov, zlonamerne programske opreme, trojancev, časovnih bomb in drugih škodljivih stvari drugim ljudem. Ne uporabljajte telefona za prenos programske opreme, ki lahko vpliva na redno uporabo prejemnikove naprave ali drugih elementov, ki lahko poškodujejo, motijo, prestrežejo ali odstranijo kakršne koli sistemske podatke ali osebne podatke na mobilnih terminalskih napravah. Odgovorni boste za kakršno koli škodo, povzročeno drugim uporabnikom ali mobilnim terminalom. Xiaomi se bo po svojih najboljših močeh trudil, da bodo funkcionalnost deljenja ter vključena tehnologija in informacije varni, učinkoviti, natančni in zanesljivi. Vendar pa zaradi trenutnih tehnoloških omejitev Xiaomi ne zagotavlja, da je funkcija skupne rabe brezhibna in bo zadovoljila vse vaše potrebe."</string>
   <string name="shortcut_share_dialog_positive_button">Razumem</string>
   <string name="shortcut_share_dialog_title">Izjava o omejitvi odgovornosti</string>
   <string name="show_all">Pokaži vse</string>

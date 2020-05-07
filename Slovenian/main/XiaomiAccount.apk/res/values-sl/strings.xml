@@ -724,6 +724,6 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="weixin">WeChat</string>
   <string name="wipe_data_dialog_msg">%s bo izbrisano če nadaljujete.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">"Nekateri predmeti niso bili sinhronizirani"</string>
+  <string name="wipe_data_dialog_title">"Nekateri stvari niso bili sinhronizirani"</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

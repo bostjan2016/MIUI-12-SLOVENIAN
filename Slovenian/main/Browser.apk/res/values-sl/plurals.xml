@@ -55,8 +55,8 @@
         <item quantity="one">Izbrišem %1$d stvar iz zgodovine?</item>
     </plurals>
     <plurals name="video_history_clear_info">
-        <item quantity="other">Uspešno izbrisano %1$d predmetov iz zgodovine.</item>
-        <item quantity="one">Uspešno izbrisan %1$d predmet iz zgodovine.</item>
+        <item quantity="other">Uspešno izbrisano %1$d stvari iz zgodovine.</item>
+        <item quantity="one">Uspešno izbrisan %1$d stvar iz zgodovine.</item>
     </plurals>
 	<plurals name="nav_screen_incognito_time">
          <item quantity="other">Čez %d sek. se bo samodejno ustvarila nova stran</item>

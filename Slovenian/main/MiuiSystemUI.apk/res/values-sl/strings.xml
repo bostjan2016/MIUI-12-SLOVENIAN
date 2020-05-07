@@ -2048,7 +2048,7 @@ morda nadzira"</string>
   <string name="structure_face_data_open_cameraing">Zagon Kamere…</string>
   <string name="structure_face_data_rgb_input_face">Postavite obraz znotraj okvirja</string>
   <string name="structure_face_data_suggestion_text">"Preverite, ali so deli obraza vidni. Ne nosite kape, sončnih očal ali drugih dodatkov ki lahko prekrijejo obraz. Preverite ali je vaš obraz enakomerno osvetljen."</string>
-  <string name="structure_face_data_suggestion_warning_text">Opomba: uporaba 3D podatkov obraza je manj varna od gesla. Ljudje ali predmeti ki so vam podobni lahko odklenejo napravo.</string>
+  <string name="structure_face_data_suggestion_warning_text">Opomba: uporaba 3D podatkov obraza je manj varna od gesla. Ljudje ali stvari ki so vam podobni lahko odklenejo napravo.</string>
   <string name="structure_face_delete_data_dialog_msg">"Ne morem zagnati kamere in prikazati obraz. Poskusi ponovno."</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Poskusi ponovno</string>
   <string name="structure_face_delete_data_dialog_title">"Ne morem zagnati kamere"</string>
@@ -2068,7 +2068,7 @@ morda nadzira"</string>
   <string name="structure_face_unlock_model_other_msg_2d">2D prepoznavanje</string>
   <string name="structure_face_unlock_model_other_msg_3d">3D prepoznavanje</string>
   <string name="structure_face_unlock_model_other_suggestion_2d">2D prepoznavanje obraza je manj varno od vzorca, PIN-a, ali gesla. Kadar je to opravilo vključeno se naprava lahko odklene z vašo fotografijo kot tudi z fotografijo vam podobnih ljudi.</string>
-  <string name="structure_face_unlock_model_other_suggestion_3d">"3D prepoznavanje obraza je relativno varno. Zelo malo je verjetno da se vaša naprava lahko odklene z vašo fotografijo kadar je to opravilo vključenoo. Toda ljudje ali predmeti ki so vam podobni mogoče lahko odklenejo vašo napravo."</string>
+  <string name="structure_face_unlock_model_other_suggestion_3d">"3D prepoznavanje obraza je relativno varno. Zelo malo je verjetno da se vaša naprava lahko odklene z vašo fotografijo kadar je to opravilo vključenoo. Toda ljudje ali stvari ki so vam podobni mogoče lahko odklenejo vašo napravo."</string>
   <string name="structure_face_unlock_model_other_title">Prepoznavanje obraza</string>
   <string name="structure_face_unlock_not_same_person">"Sami morate izvršiti vse korake. Ne menjajte mesta z nikomer."</string>
   <string name="structure_face_unlock_really_person">"Kaže da ste zamenjali obraz z nekim objektom."</string>
