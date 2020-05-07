@@ -450,7 +450,7 @@
   <string name="network_access_denied">Ne morem se povezati na omrežje, najprej se morate strinjati s pogoji in določili.</string>
   <string name="network_error">Napaka na omrežju</string>
   <string name="network_tip">Ne morem se povezati na omrežje.</string>
-  <string name="network_unavaliable">Ni mogoče pridobiti informacij. Preverite omrežno povezavo.</string>
+  <string name="network_unavaliable">Ne morem pridobiti informacij. Preverite omrežno povezavo.</string>
   <string name="no_install">Ni nameščeno</string>
   <string name="no_more_result">Ni več elementov</string>
   <string name="no_settings">Ni nastavljeno</string>
@@ -577,7 +577,7 @@
   <string name="setting_football_select_title" formatted="false">Izberite moštvo, ki mu boste sledili (%d/%d)</string>
   <string name="setting_football_toast_max">Izberete lahko do 4 moštva</string>
   <string name="setting_home_label">Dodaj domači naslov</string>
-  <string name="setting_launch_all_added">Ni mogoče dodati več stvari</string>
+  <string name="setting_launch_all_added">Ne morem dodati več stvari</string>
   <string name="setting_launch_change">Spremeni</string>
   <string name="setting_launch_select_other_app">Izberite druge aplikacije</string>
   <string name="setting_list_guide">Vodič</string>

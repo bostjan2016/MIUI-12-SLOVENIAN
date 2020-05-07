@@ -157,9 +157,9 @@
   <string name="incall_error_supp_service_hangup">"Ne morem prekiniti klic."</string>
   <string name="incall_error_supp_service_hold">"Ne morem zadržati klice."</string>
   <string name="incall_error_supp_service_reject">"Ne morem zavrniti klica."</string>
-  <string name="incall_error_supp_service_separate">"Ni mogoče ločiti klice."</string>
+  <string name="incall_error_supp_service_separate">"Ne morem ločiti klice."</string>
   <string name="incall_error_supp_service_switch">"Ne morem zamenjati klice."</string>
-  <string name="incall_error_supp_service_transfer">"Ni mogoče prenesti klica."</string>
+  <string name="incall_error_supp_service_transfer">"Ne morem prenesti klica."</string>
   <string name="incall_error_supp_service_unknown">"Ta storitev ni podprta."</string>
   <string name="incoming_answer_voice_text">Glasovni odgovor</string>
   <string name="incoming_call_forwarded_title">Posreduj dohodni klic</string>

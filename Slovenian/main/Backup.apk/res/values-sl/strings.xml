@@ -68,9 +68,9 @@
 nastavitve in aplikacije."</string>
   <string name="backup_empty_info_onpad">" Napravite var. kopijo vaših podatkov,
 nastavitev in aplikacij"</string>
-  <string name="backup_error">Ni mogoče varnostno kopirati</string>
-  <string name="backup_failed">Ni mogoče varnostno kopirati</string>
-  <string name="backup_file_error">Ni mogoče varnostno kopirati</string>
+  <string name="backup_error">Ne morem varnostno kopirati</string>
+  <string name="backup_failed">Ne morem varnostno kopirati</string>
+  <string name="backup_file_error">Ne morem varnostno kopirati</string>
   <string name="backup_finished">Varnostno kopiranje uspešno</string>
   <string name="backup_hint">Napravo pustite vklopljeno</string>
   <string name="backup_hint_onpad">Ne izključite naprave</string>

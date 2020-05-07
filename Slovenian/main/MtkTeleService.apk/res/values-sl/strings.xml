@@ -858,7 +858,7 @@ Avdio"</string>
   <string name="fdn_enabled">Fiksne klicne številke so vklopljene</string>
   <string name="fdn_errorcode_name_info">Ni uspelo, dolžina imena stika je predolga.</string>
   <string name="fdn_errorcode_number_info">Ni uspelo, dolžina številke stika je predolga.</string>
-  <string name="fdn_errorcode_phb_info">Ni mogoče, telefonski imenik ni pripravljen. Poskusite pozneje.</string>
+  <string name="fdn_errorcode_phb_info">Ne morem, telefonski imenik ni pripravljen. Poskusite pozneje.</string>
   <string name="fdn_errorcode_pin2_info">Ni uspelo, neveljavna PIN2.</string>
   <string name="fdn_errorcode_storage_info">Ni uspelo,shramba je polna.</string>
   <string name="fdn_errorcode_unknown_info">Ni uspelo, neznana napaka, poskusite kasneje.</string>
@@ -927,7 +927,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="inactive_app_active_summary">Aktivno. Pritisnite za spremembo.</string>
   <string name="inactive_app_inactive_summary">Ni aktivno. Pritisnite za spremembo.</string>
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
-  <string name="incall_error_call_failed">Ni mogoče izvesti klica</string>
+  <string name="incall_error_call_failed">Ne morem izvesti klica</string>
   <string name="incall_error_cannot_add_call">Klic trenutno ni mogoč.</string>
   <string name="incall_error_ecm_emergency_only">Izključite način nujnih klicev da lahko kličete normalno.</string>
   <string name="incall_error_emergency_only">Ni registrirano v omrežju.</string>
@@ -1137,7 +1137,7 @@ Gostovanje je mogoče spremeniti in / ali izklopiti v nastavitvah gostovanja"</s
   <string name="msim_pref_title_voice">Klicanje</string>
   <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">Napaka ICC kartice</string>
-  <string name="msim_set_sub_not_supported_phone_in_call">Ni mogoče nastaviti med klicem</string>
+  <string name="msim_set_sub_not_supported_phone_in_call">Ne morem nastaviti med klicem</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Napaka SIM kartice</string>
   <string name="msim_setting_categery_title">Nastavitve SIM kartice</string>
   <string name="msim_setting_no_sim_indicator">Ni SIM kartice</string>

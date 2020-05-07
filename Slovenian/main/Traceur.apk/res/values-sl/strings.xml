@@ -240,7 +240,7 @@ Izbor"</string>
     <string name="expand_button_title">Dodatno</string>
     <string name="external_source_trusted">Dovoljene</string>
     <string name="external_source_untrusted">Ni dovoljeno</string>
-    <string name="failed_to_open_app_settings_toast">Ni mogoče odpreti nastavitev za %1$s</string>
+    <string name="failed_to_open_app_settings_toast">Ne morem odpreti nastavitev za %1$s</string>
     <string name="five_gb">5 GB</string>
     <string name="force_allow_on_external">Vsili omogočanje aplikacij v zunanji shrambi</string>
     <string name="force_allow_on_external_summary">Poskrbi, da je ne glede na vrednosti v manifestu mogoče vsako aplikacijo zapisati v zunanjo shrambo</string>
@@ -569,7 +569,7 @@ Izbor"</string>
     <string name="wifi_disconnected">Ni povezave</string>
     <string name="wifi_display_certification">Potrdilo brezžičnega zaslona</string>
     <string name="wifi_display_certification_summary">Pokaži možnosti za potrdilo brezžičnega zaslona</string>
-    <string name="wifi_fail_to_scan">Ni mogoče iskati omrežij</string>
+    <string name="wifi_fail_to_scan">Ne morem iskati omrežij</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>
     <string name="wifi_limited_connection">Omejena povezava</string>
     <string name="wifi_metered_label">Omejen prenos podatkov</string>

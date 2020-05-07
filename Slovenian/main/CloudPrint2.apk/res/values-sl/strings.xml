@@ -116,9 +116,9 @@
   <string name="content_description_printer_info_icon">Standardna ikona informacij o tiskalniku</string>
   <string name="could_not_receive_printers_heading">Seznam tiskalnikov ni mogoče prejeti</string>
   <string name="could_not_receive_printers_message">S strežnika ni mogoče prejeti seznama tiskalnikov. Želite poizkusiti ponovno?</string>
-  <string name="could_not_resolve_content_type">Ni mogoče zagnati Cloud Print: vrsta datoteke ni prepoznana</string>
-  <string name="could_not_start">Ni mogoče zagnati Cloud Print</string>
-  <string name="could_not_start_unknown_intent">Ni mogoče zagnati Cloud Print: opravilo ni prepoznano</string>
+  <string name="could_not_resolve_content_type">Ne morem zagnati Cloud Print: vrsta datoteke ni prepoznana</string>
+  <string name="could_not_start">Ne morem zagnati Cloud Print</string>
+  <string name="could_not_start_unknown_intent">Ne morem zagnati Cloud Print: opravilo ni prepoznano</string>
   <string name="currently_offline">Trenutno ni v omrežju</string>
   <string name="decline">Zavrni</string>
   <string name="delete">Brisanje</string>
@@ -148,9 +148,9 @@ Kadarkoli lahko lastnika prosite da ga ponovno da v skupno rabo z vami."</string
   <string name="failure_msg_authentication_failed">Autentifikacija ni uspela</string>
   <string name="failure_msg_could_not_connect">Povezava s strežnikom ni uspela</string>
   <string name="failure_msg_could_not_create_http_request">Ni možno izdelati HTTP zahteve</string>
-  <string name="failure_msg_could_not_create_request">Ni mogoče izdelati zahteve za strežnik</string>
-  <string name="failure_msg_could_not_execute_http_request">Ni mogoče izvršiti HTTP zahteve</string>
-  <string name="failure_msg_could_not_parse">Ni mogoče analizirati odgovora strežnika</string>
+  <string name="failure_msg_could_not_create_request">Ne morem izdelati zahteve za strežnik</string>
+  <string name="failure_msg_could_not_execute_http_request">Ne morem izvršiti HTTP zahteve</string>
+  <string name="failure_msg_could_not_parse">Ne morem analizirati odgovora strežnika</string>
   <string name="failure_msg_file_not_found">Datoteka ni najdena ali pa ni na voljo</string>
   <string name="failure_msg_format_printer_delete">"Tiskalnik ni izbrisan. 
 Napaka: %1$s"</string>
@@ -274,7 +274,7 @@ Napaka: %1$s"</string>
   <string name="printer_label">Tiskalnik</string>
   <string name="printer_last_job_format">Zadnja naloga tiska je bila %1$s</string>
   <string name="printer_list_empty">Seznam tiskalnikov je prazen</string>
-  <string name="printer_list_load_failure">Ni mogoče prenesti tiskalnike.</string>
+  <string name="printer_list_load_failure">Ne morem prenesti tiskalnike.</string>
   <string name="printer_list_search_no_matches">Ni podobnih tiskalnikov</string>
   <string name="printer_owned_by">Lastnik: %1$s</string>
   <string name="printer_owned_by_me">V moji lasti</string>

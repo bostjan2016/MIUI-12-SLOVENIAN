@@ -1226,7 +1226,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="enable_extreme_power_save_mode">Ekstremno varčevanje baterije</string>
   <string name="enable_network">Najprej vključite omrežno povezavo</string>
   <string name="every_day">Vsak dan</string>
-  <string name="examination_score_100">Vse izgleda odlično!</string>
+  <string name="examination_score_100">Vse zgleda odlično!</string>
   <string name="examination_score_100_with_recommend">Toliko stvari(%d) se lahko optimizira</string>
   <string name="examination_score_60_0">Preveri zdaj</string>
   <string name="examination_score_80_100">Nekaj stvari je lahko optimiziranih</string>
@@ -1968,7 +1968,7 @@ Videoposnetki bodo shranjeni v Game Turbo &gt; Ključni trenutki."</string>
   <string name="memory_clean_cleaning_title">Brisanje predpomnilnika</string>
   <string name="memory_clean_click_tip">Povečaj hitrost</string>
   <string name="memory_clean_memory_size_tip">Predpomnilnik</string>
-  <string name="memory_clean_no_need_clean">Vse izgleda dobro</string>
+  <string name="memory_clean_no_need_clean">Vse zgleda dobro</string>
   <string name="memory_clean_no_running_process">Ni nalog za brisanje</string>
   <string name="memory_clean_running_process_title">Spremljanje aplikacij (%d)</string>
   <string name="memory_cleaned_memory_info">Na voljo spomina</string>
@@ -3066,7 +3066,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="quick_optimize_no_fix_issue_subtitle">"Ne morem podaljšati dobo trajanja baterije"</string>
   <string name="quick_optimize_no_fix_issue_title">"Ne morem popraviti težav baterije"</string>
   <string name="quick_optimize_no_issue">Ni težav baterije</string>
-  <string name="quick_optimize_no_issue_subtitle">Vse izgleda dobro</string>
+  <string name="quick_optimize_no_issue_subtitle">Vse zgleda dobro</string>
   <string name="quick_optimize_no_issue_title">"Ne morem najti težav baterije"</string>
   <string name="quick_optimize_sub_battery_text">Ostalo še približno %s</string>
   <string name="quick_optimize_sub_summary_text">Dodano %s dobi trajanja baterije</string>

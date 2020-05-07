@@ -872,9 +872,9 @@ nastavitve in aplikacije."</string>
 nastavitev in aplikacij"</string>
   <string name="backup_erase_dialog_message">Ali želite ustaviti varnostno kopiranje gesel za WiFi, zaznamke, drugih nastavitev in podatkov aplikacij ter izbrisati vse kopije iz Googlovih strežnikov?</string>
   <string name="backup_erase_dialog_title"/>
-  <string name="backup_error">Ni mogoče varnostno kopirati</string>
-  <string name="backup_failed">Ni mogoče varnostno kopirati</string>
-  <string name="backup_file_error">Ni mogoče varnostno kopirati</string>
+  <string name="backup_error">Ne morem varnostno kopirati</string>
+  <string name="backup_failed">Ne morem varnostno kopirati</string>
+  <string name="backup_file_error">Ne morem varnostno kopirati</string>
   <string name="backup_finished">Varnostno kopiranje uspešno</string>
   <string name="backup_hint">Napravo pustite vklopljeno</string>
   <string name="backup_hint_onpad">Ne izključite naprave</string>
@@ -3131,7 +3131,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="failed_to_check_find_device_status_title">"Ne morem preveriti statusa"</string>
   <string name="failed_to_erase_text">Izključite geslo za zaklep zaslona pred vnosom kode \"1217\".</string>
   <string name="failed_to_erase_title">"Ne morem dokončati"</string>
-    <string name="failed_to_open_app_settings_toast">Ni mogoče odpreti nastavitev za %1$s</string>
+    <string name="failed_to_open_app_settings_toast">Ne morem odpreti nastavitev za %1$s</string>
   <string name="failed_to_shut_down_find_device_content">"Ne morem izključiti Najdi napravo. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="failed_to_shut_down_find_device_title">"Ne morem izključiti Najdi napravo"</string>
   <string name="fallback_home_title">Samo trenutek…</string>
@@ -7778,7 +7778,7 @@ Pred uporabo naših storitev preberite in sprejmite naše %s."</string>
   <string name="status_bar_settings_status_bar">Vrstica stanja</string>
   <string name="status_bar_settings_style">Obvestila &amp; razpored bližnjic</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Po dotiku zapri</string>
-  <string name="status_bar_settings_toggle_layout_style">Vključi/izključi slog izgleda</string>
+  <string name="status_bar_settings_toggle_layout_style">Vključi/izključi slog zgleda</string>
   <string name="status_bar_settings_toggle_layout_style_applying">Spreminjanje sloga…</string>
   <string name="status_bar_settings_toggle_layout_style_compact">Vrstica</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Stran</string>

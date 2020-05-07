@@ -310,7 +310,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="review_button_cancel">Prekini</string>
   <string name="review_button_continue">Nadaljuj</string>
   <string name="risk_warning_bottom_button">Namesti iz GetApps</string>
-  <string name="risk_warning_msg">"Podpis na tem namestitvenem paketu ne izgleda avtentično. Zaradi varnosti namestite aplikacijo iz preverjenih virov."</string>
+  <string name="risk_warning_msg">"Podpis na tem namestitvenem paketu ne zgleda avtentično. Zaradi varnosti namestite aplikacijo iz preverjenih virov."</string>
   <string name="risk_warning_title">Najdeno tveganje</string>
   <string name="risk_warning_top_button">"Ne namesti"</string>
   <string name="safe_guard_support">Tehnična podpora je zagotovljena s strani %1$s</string>
@@ -340,7 +340,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="uninstall_confirm_question">Odstranim to aplikacijo?</string>
   <string name="uninstall_done">Aplikacija je odstranjena</string>
   <string name="uninstall_failed">"Ne morem odstraniti"</string>
-  <string name="uninstall_failed_device_policy_manager">Ni mogoče odstraniti aktivne aplikacije, ker je aktivni skrbnik naprave.</string>
+  <string name="uninstall_failed_device_policy_manager">Ne morem odstraniti aktivne aplikacije, ker je aktivni skrbnik naprave.</string>
   <string name="uninstall_failed_device_policy_manager_of_user">Te aktivne aplikacije ni mogoče odstraniti, ker je aktivni skrbnik naprav za uporabnika %1$s.</string>
   <string name="uninstall_failed_msg">%1$s ni mogoče odstraniti</string>
   <string name="uninstall_failed_retained_app_msg">"Ta aplikacija je bila spremenjena in je ni mogoče odstraniti v sedanji obliki."</string>

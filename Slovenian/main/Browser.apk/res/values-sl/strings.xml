@@ -232,7 +232,7 @@
   <string name="cloud_loading_tips">Podrsajte navzdol za sinhronizacijo</string>
   <string name="cloud_no_new_data_toast">Vse je posodobljeno</string>
   <string name="cloud_sync_closed_toast">Za posodobitev vključite sinhronizacijo</string>
-  <string name="cloud_sync_failed_toast">Ni mogoče posodobiti</string>
+  <string name="cloud_sync_failed_toast">Ne morem posodobiti</string>
   <string name="cloud_tab">Kartica Cloud</string>
   <string name="cloud_tabs_sync_off">Sinhr. je izključena</string>
   <string name="cloud_time_tips">Zadnja sinhronizacija</string>
@@ -289,7 +289,7 @@
   <string name="contextmenu_webpage_capture">Posnetek zaslona</string>
   <string name="contextmenu_webpage_html">Shrani kot HTML datoteko</string>
   <string name="contextmenu_webpage_snapshot">Shrani stran</string>
-  <string name="copy_to_clipboard_failure_message">Ni mogoče kopirati v odložišče</string>
+  <string name="copy_to_clipboard_failure_message">Ne morem kopirati v odložišče</string>
   <string name="copy_url">Kopiraj povezavo</string>
   <string name="create_qr_code">QR koda</string>
   <string name="current_version_pad">Pad</string>
@@ -373,9 +373,9 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="download_dialog_file_length_default_txt">Samo trenutek…</string>
   <string name="download_dialog_file_length_hint_txt">"Velikost datoteke: "</string>
   <string name="download_dialog_file_length_lessthan1kb">Manj kot 1KB</string>
-  <string name="download_dialog_file_length_nolength_error_txt">Ni mogoče prenesti</string>
+  <string name="download_dialog_file_length_nolength_error_txt">Ne morem prenesti</string>
   <string name="download_dialog_file_length_nolength_txt">Prenašam...</string>
-  <string name="download_failed">"Ni mogoče dokončati prenosa"</string>
+  <string name="download_failed">"Ne morem dokončati prenosa"</string>
   <string name="download_filter_all">Vse</string>
   <string name="download_filter_apk">Apk</string>
   <string name="download_filter_application">Aplik.</string>
@@ -1321,7 +1321,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="quicklink_bookmark_save">Shrani v</string>
   <string name="quicklink_cannot_save_url">"Ta povezava se ne more dodati."</string>
   <string name="quicklink_folder_text">Najboljše</string>
-  <string name="quicklink_not_saved">"Ni mogoče dodati na domačo stran"</string>
+  <string name="quicklink_not_saved">"Ne morem dodati na domačo stran"</string>
   <string name="quicklink_push_confirm_message">Vaša potisna pošta ne bo posodabljana po izključitvi te storitve. Vseeno izključim?</string>
   <string name="quicklink_saved">Dodano na domačo stran</string>
   <string name="quicklink_saved_before">Ta stran je že bila dodana</string>
@@ -1573,7 +1573,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="title_bar_loading">Nalagam…</string>
   <string name="title_notice_push">Obvestilo opomnnika</string>
   <string name="too_many_windows_dialog_message">Brskalnik ne more odpreti novega zavihka dokler ne zaprete odprtih</string>
-  <string name="too_many_windows_dialog_title">Ni mogoče odpreti novih zavihkov</string>
+  <string name="too_many_windows_dialog_title">Ne morem odpreti novih zavihkov</string>
   <string name="transfer_prompt_0">Predvajaj videoposnetek</string>
   <string name="transfer_restart">Ponovno zaženi</string>
   <string name="translation_copy">Kopiraj</string>

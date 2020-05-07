@@ -226,7 +226,7 @@
   <string name="decrypting">Dešifriranje…</string>
   <string name="delete_dialog_button">Izbriši</string>
   <string name="delete_error">"Ne morem izbrisati datotek, poskusite ponovno"</string>
-  <string name="delete_failed">"Ni mogoče izbrisati"</string>
+  <string name="delete_failed">"Ne morem izbrisati"</string>
   <string name="delete_failed_retry">"Ne morem izbrisati, poskusite ponovno čez %1$s"</string>
   <string name="delete_file">Izbrišem to datoteko?</string>
   <string name="delete_file_error">"Ne morem izbrisati datotek"</string>
@@ -436,7 +436,7 @@
   <string name="like_toast_2">Poglejte videoposnetke katere želite na svojem profilu.</string>
   <string name="like_toast_3">Prijavite se da pogledate videoposnetke katere želite na svojem profilu.</string>
   <string name="list_mode">Seznam</string>
-  <string name="load_err">Ni mogoče naložiti</string>
+  <string name="load_err">Ne morem naložiti</string>
   <string name="load_more">Pokaži več</string>
   <string name="load_sticker_fail">"Ne morem naložiti nalepke"</string>
   <string name="loading">Nalaganje...</string>
@@ -532,7 +532,7 @@
   <string name="mobile_photo">Slike telefona</string>
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">dd MMM</string>
-  <string name="move_failed">Ni mogoče premestiti</string>
+  <string name="move_failed">Ne morem premestiti</string>
   <string name="move_failed_retry">"Ne morem izrezati, poskusite ponovno čez %1$s"</string>
   <string name="move_icon_to_desktop_hint">Napravi bližnjico aplik. Raziskovalec na zač. zaslonu za učinkovitejše urejanje datotek.</string>
   <string name="move_icon_to_desktop_success">Zdaj imate bližnjico aplik. Raziskovalec na zač. zaslonu</string>
@@ -807,7 +807,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="rename_alert">"Če spremenite končnico datoteke je morda ne boste mogli odpreti."</string>
   <string name="rename_alert2">Datoteka bo skrita, če spremenite njeno končnico.</string>
   <string name="rename_description">Preimenujem…</string>
-  <string name="rename_failed">"Ni mogoče preimenovati %1$s"</string>
+  <string name="rename_failed">"Ne morem preimenovati %1$s"</string>
   <string name="rename_input_null">Vnesite novo ime datoteke</string>
   <string name="repair_done">Obnovljeno</string>
   <string name="repair_error">"Ne morem obnoviti"</string>
@@ -959,7 +959,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="shortcut_msg">Dodaj bližnjico na začetni zaslon za popularne videoposnetke</string>
   <string name="show_message">Preden odprete to datoteko jo morate prenesti.</string>
   <string name="sign_description">Vpisujem...</string>
-  <string name="signin_error">Ni se mogoče povezati s strežnikom. Preverite vašo povezavo.</string>
+  <string name="signin_error">Ne morem se povezati s strežnikom. Preverite vašo povezavo.</string>
   <string name="signin_success">Prijavili ste se! 
   Dodano %1$s brezplačnega prostora"</string>
   <string name="skip_file">Preskoči</string>

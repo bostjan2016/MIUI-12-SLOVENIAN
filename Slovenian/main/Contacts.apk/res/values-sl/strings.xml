@@ -197,7 +197,7 @@
   <string name="cancel_import_confirmation_message">"Preklic uvoza %s?"</string>
   <string name="cancel_import_dialog_message">Ustavim uvoz stikov?</string>
   <string name="cancel_import_dialog_title">"Ustavi"</string>
-  <string name="cancel_vcard_import_or_export_failed">"Ni mogoče preklicati vCard uvoza/izvoza"</string>
+  <string name="cancel_vcard_import_or_export_failed">"Ne morem preklicati vCard uvoza/izvoza"</string>
   <string name="chat">"Klepet"</string>
   <string name="chat_aim">Klepet preko AIM</string>
   <string name="chat_gtalk">Klepet preko Google Talk</string>
@@ -257,7 +257,7 @@
   <string name="contactDetailUpdates">"Posodobitve"</string>
   <string name="contactMultiPickerActivityTitle">"Izberi stike"</string>
   <string name="contactPickerActivityTitle">Izberi stik</string>
-  <string name="contactSavedErrorToast">Ni mogoče shraniti sprememb</string>
+  <string name="contactSavedErrorToast">Ne morem shraniti sprememb</string>
   <string name="contactSavedToast">Stik shranjen</string>
   <string name="contact_clear_search_history">Izbriši zgodovino</string>
   <string name="contact_delete_toast">Stik je izbrisan</string>
@@ -311,7 +311,7 @@ Vizitke stikov so izključene"</string>
   <string name="contact_is_readOnly">Ne morem urediti stika ki je samo za branje</string>
   <string name="contact_list_loading">"Nalagam…"</string>
   <string name="contact_pick_photo">"Fotografija"</string>
-  <string name="contact_read_only">Ni mogoče urejati iz te aplikacije.</string>
+  <string name="contact_read_only">Ne morem urejati iz te aplikacije.</string>
   <string name="contact_search_history">Zgodovina</string>
   <string name="contact_status_update_attribution">preko %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s preko %2$s</string>
@@ -336,7 +336,7 @@ Vizitke stikov so izključene"</string>
   <string name="createContactShortcutSuccessful">Pripomoček za stike dodan na domači zaslon</string>
   <string name="create_group_dialog_title">Ustvari novo skupino</string>
   <string name="create_group_item_label">Ustvari novo skupino</string>
-  <string name="create_qrcode_fail_message">Ni mogoče kreirati QR kode</string>
+  <string name="create_qrcode_fail_message">Ne morem kreirati QR kode</string>
   <string name="create_voip_shortcut_success">Bližnjica je napravljena</string>
   <string name="customLabelPickerTitle">Ime oznake po meri</string>
   <string name="custom_list_filter">Definiraj ogled po meri</string>
@@ -1031,7 +1031,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="non_phone_close">Zapri</string>
   <string name="none_paired">Trenutno ni povezanih naprav</string>
   <string name="noon">PM</string>
-  <string name="not_applied">"Ni mogoče uporabiti"</string>
+  <string name="not_applied">"Ne morem uporabiti"</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="notification_action_voicemail_play">Predvajaj</string>
   <string name="notification_new_voicemail_ticker">Nova glasovna pošta od %1$s</string>

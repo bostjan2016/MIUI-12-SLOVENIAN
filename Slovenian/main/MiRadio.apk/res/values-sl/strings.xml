@@ -40,7 +40,7 @@
     <string name="account_error_user_birthday">Rojstni dan, ki ste ga vnesli ni veljaven</string>
     <string name="account_error_user_name">Vzdevek je neveljaven. Poskusite drugega.</string>
     <string name="account_invalid_user_avatar">Ta fotografija je neveljavna. Poskusite drugo.</string>
-    <string name="account_limit_update_birthday">Ni mogoče posodobiti datuma rojstnega dne</string>
+    <string name="account_limit_update_birthday">Ne morem posodobiti datuma rojstnega dne</string>
     <string name="account_no_set">Nič</string>
     <string name="account_none_bind_info">Nič</string>
     <string name="account_none_user_name">Nič</string>
@@ -84,7 +84,7 @@
   <string name="action_settings">Nastavitve</string>
     <string name="action_update_phone">Spremeni številko telefona</string>
     <string name="activate_email_notice">Aktivirajte vaš uporabniški račun v roku 24 ur</string>
-    <string name="activity_not_found_notice">Ni mogoče najti aplikacijo</string>
+    <string name="activity_not_found_notice">Ne morem najti aplikacijo</string>
   <string name="ad_close">Zapri</string>
   <string name="ad_data_exception">Napaka v podatkih oglasa</string>
   <string name="ad_details">Pokaži podrobnosti</string>
@@ -266,7 +266,7 @@ Dostop do shrambe za dostop do ovitka in prenesenih datotek"</string>
   <string name="detail">Podrobnosti</string>
   <string name="device_connected">Povezano</string>
   <string name="device_not_connected">Ni povezave</string>
-  <string name="diagnosis_log_send_failed">"Ni mogoče poslati poročila. Poskusite ponovno."</string>
+  <string name="diagnosis_log_send_failed">"Ne morem poslati poročila. Poskusite ponovno."</string>
   <string name="diagnosis_log_sent_format">"Poročila so bila uspešno poslana.
 ID:%s
 Pošljite to kodo nadzorniku."</string>
@@ -757,7 +757,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="passport_empty_password">Polje za geslo ne sme biti prazno</string>
     <string name="passport_empty_user_name">Uporabniško ime ne sme biti prazno</string>
     <string name="passport_error_auth_fail">Seja je potekla. Vpišite se ponovno.</string>
-    <string name="passport_error_device_id">Ni mogoče dobiti ID naprave</string>
+    <string name="passport_error_device_id">Ne morem dobiti ID naprave</string>
     <string name="passport_error_email">E-poštni naslov, ki ste ga vnesli ni veljaven</string>
     <string name="passport_error_empty_captcha_code">Vnesite Captcha</string>
     <string name="passport_error_empty_email">Vnesite vaš naslov e-pošte</string>
@@ -766,7 +766,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="passport_error_empty_vcode">Vnesite kodo za preverjanje</string>
     <string name="passport_error_empty_voice_code">Vnesite Captcha</string>
     <string name="passport_error_illegal_pwd">Neveljavno geslo</string>
-    <string name="passport_error_network">Ni se mogoče povezati na omrežje</string>
+    <string name="passport_error_network">Ne morem se povezati na omrežje</string>
     <string name="passport_error_no_password_user">Niste še nastavili gesla. Prijavite se s SMSom.</string>
     <string name="passport_error_phone_error">Neveljavna telefonska številka</string>
     <string name="passport_error_server">Napaka na strežniku</string>
@@ -826,7 +826,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="passport_vcode_notification_title">Vaše preverjanje za vpis je nepopolno</string>
     <string name="passport_vcode_prompt_long">Vnesite kodo za preverjanje</string>
     <string name="passport_vcode_sms_send_prompt">Pošlji kodo na %s</string>
-    <string name="passport_verification_failed">Ni mogoče preveriti</string>
+    <string name="passport_verification_failed">Ne morem preveriti</string>
     <string name="passport_verify">Preveri</string>
     <string name="passport_wechat_not_install">Najprej namestite WeChat</string>
     <string name="passport_wrong_captcha">Koda, ki ste jo vnesli je nepravilna</string>
@@ -945,7 +945,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="retry_download">Poskusi ponovno</string>
   <string name="ringtone_not_support">"Ta format pesmi ni podprt"</string>
   <string name="root_downloads">Prenosi</string>
-    <string name="runtime_permission_ungranted">Ni mogoče začeti snemanje zaradi neodobrenega dovoljenja</string>
+    <string name="runtime_permission_ungranted">Ne morem začeti snemanje zaradi neodobrenega dovoljenja</string>
     <string name="same_new_and_old_pwd">Novo geslo ne sme biti enako, kot je bilo staro</string>
   <string name="save">Shrani</string>
   <string name="save_to_playlist">Shrani kot seznam pesmi.</string>
@@ -1156,7 +1156,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="toast_fm_error_startfailed">Napaka snemanja. Druga aplikacija morda uporablja snemanje.</string>
     <string name="toast_fm_recorder_access_error">Snemanje ni mogoče medtem ko ste v načinu Gost</string>
     <string name="toast_fm_recorder_internal_error">Napaka FM snemanja</string>
-    <string name="toast_fm_recorder_storage_full">Ni mogoče nadaljevati snemanja: premalo prostora</string>
+    <string name="toast_fm_recorder_storage_full">Ne morem nadaljevati snemanja: premalo prostora</string>
     <string name="toast_fm_seeking">Uglaševanje…</string>
     <string name="toast_fm_starting">Začenjam…</string>
   <string name="toast_new_playlist_name_no_enter">"Ne morem začeti novega seznama"</string>

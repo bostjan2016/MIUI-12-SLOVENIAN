@@ -120,9 +120,9 @@
   <string name="cannot_add_picture_and_video">Ne morem dodati videa in fotografije v en diapozitiv.</string>
   <string name="cannot_add_slide_anymore">Ne morem dodati diapozitivov.</string>
   <string name="cannot_forward_drm_obj">DRM predmet vsebovan v sporočilu ne mora biti posredovan naprej.</string>
-  <string name="cannot_get_details">Ni mogoče pridobiti podrobnosti.</string>
+  <string name="cannot_get_details">Ne morem pridobiti podrobnosti.</string>
   <string name="cannot_resend_audio">"Ne morem poslati posnetka"</string>
-  <string name="cannot_send_message">Ni mogoče poslati sporočil</string>
+  <string name="cannot_send_message">Ne morem poslati sporočil</string>
   <string name="cannot_send_message_reason">Vaše sporočilo nima veljavnih prejemnikov.</string>
   <string name="card_insert_to_contact">Uvozi stik</string>
   <string name="change_duration_activity">Spremeni trajanje</string>

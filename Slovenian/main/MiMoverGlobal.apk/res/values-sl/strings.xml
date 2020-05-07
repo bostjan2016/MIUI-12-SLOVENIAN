@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account_or_password_incorrect">Nepravilni uporabniški ID ali geslo</string>
+    <string name="account_or_password_incorrect">Nepravilna uporabniška ID ali geslo</string>
     <string name="antispam">Seznam blokad</string>
     <string name="app_name">Mi Mover</string>
     <string name="audio">Avdio</string>
@@ -9,7 +9,7 @@
     <string name="btn_got_it">Razumem</string>
     <string name="btn_install_complete">Nameščeno. Začnite prenos.</string>
     <string name="button_finish">Končano</string>
-    <string name="button_import">Izvoz</string>
+    <string name="button_import">Uvoz</string>
     <string name="button_return">Nazaj</string>
     <string name="button_scanning">Preverjanje…</string>
     <string name="button_send">Pošlji</string>
@@ -18,37 +18,37 @@
     <string name="cancel_moving_dialog_message">Želite ustaviti uvoz?</string>
     <string name="cancel_moving_dialog_title">Ustavi uvoz</string>
     <string name="cannot_use_mi_huanji_button">Razumem</string>
-    <string name="cannot_use_mi_huanji_summary">Izgleda, da MIUI trenutno varnostno kopira predmete. Ustavite varnostno kopiranje v teku ali ponovno zaženite vašo napravo, da bi aplikaciji Mi Mover omogočili začetek prenosa.</string>
-    <string name="cannot_use_mi_huanji_title">Prenos sedaj ni mogoč</string>
-    <string name="clear_old_task_failed">Ni mogoče odstraniti stara opravila</string>
-    <string name="close_twice_auth_btn">Izklopite dvofaktorno avtentikacijo</string>
+    <string name="cannot_use_mi_huanji_summary">Kaže da MIUI trenutno varnostno kopira predmete. Ustavite varnostno kopiranje v teku ali ponovno zaženite vašo napravo, da bi aplikaciji Mi Mover omogočili začetek prenosa.</string>
+    <string name="cannot_use_mi_huanji_title">Prenos zdaj ni mogoč</string>
+    <string name="clear_old_task_failed">Ne morem odstraniti starih opravil</string>
+    <string name="close_twice_auth_btn">Izklopite dvonivojsko avtentikacijo</string>
     <string name="close_twice_auth_note">"Pozor:
-Ko ustvarite novo varnostno vprašanje in potrdite datum rojstva, bo Apple ID dvofaktorna avtentikacija izklopljena. Če ne vidite opcije izklopitve dvofaktorne avtentikacije na strani računa Apple ID, je ne morete izklopiti."</string>
+Ko ustvarite novo varnostno vprašanje in potrdite datum rojstva bo Apple ID dvonivojska avtentikacija izklopljena. Če ne vidite opcije izklopitve dvonivojske avtentikacije na strani računa Apple ID, je ne morete izklopiti."</string>
     <string name="close_twice_auth_operation">"Spletna stran:
 Obiščite https://appleid.apple.com/#!&amp;page=signin za izklop"</string>
     <string name="close_twice_auth_step_1">1. Odprite katerikoli brskalnik na računalniku in pojdite na appleid.apple.com.</string>
-    <string name="close_twice_auth_step_2">2. Prijavite se na Apple ID za katerega želite onemogočiti dvofaktorno avtentikacijo, pojdite na \"Varnost\" v nastavitvah računa in izberite \"Uredi\".</string>
-    <string name="close_twice_auth_step_3">3. Pritisnite \"Izklopi dvofaktorno avtentikacijo\". Pritisnite ponovno za potrditev.</string>
-    <string name="close_twice_auth_steps">Sledite te korake da boste izklopili Apple ID dvofaktorno avtentikacijo:</string>
-    <string name="close_twice_auth_tutor">Izklopite Apple ID dvofaktorno avtentikacijo</string>
-    <string name="close_vpn_summary">Izgleda, da je trenutno vaša naprava povezana na VPN. Izklopite VPN, da se lahko povežete na druge naprave.</string>
+    <string name="close_twice_auth_step_2">2. Prijavite se v Apple ID za katerega želite onemogočiti dvonivojsko avtentikacijo, pojdite na \"Varnost\" v nastavitvah računa in izberite \"Uredi\".</string>
+    <string name="close_twice_auth_step_3">3. Pritisnite \"Izklopi dvonivojsko avtentikacijo\". Pritisnite ponovno za potrditev.</string>
+    <string name="close_twice_auth_steps">Sledite te korake da boste izklopili Apple ID dvonivojsko avtentikacijo:</string>
+    <string name="close_twice_auth_tutor">Izklopite Apple ID dvonivojsko avtentikacijo</string>
+    <string name="close_vpn_summary">Kaže da je trenutno vaša naprava povezana na VPN. Izklopite VPN, da se lahko povežete na druge naprave.</string>
     <string name="close_vpn_title">Izklopi VPN</string>
     <string name="comma_seperator">", "</string>
-    <string name="connect_icloud_fail">Ni se mogoče povezati na iCloud</string>
-    <string name="connect_icloud_fail_tips">Preverite, da je vaš iCloud račun aktiviran. Če ni, pojdite na icloud.com in sledite navodilom, da bi aktivirali vaš račun.</string>
+    <string name="connect_icloud_fail">Ne morem se povezati na iCloud</string>
+    <string name="connect_icloud_fail_tips">Preverite ali je vaš iCloud račun aktiviran. Če ni, pojdite na icloud.com in sledite navodilom, da boste aktivirali vaš račun.</string>
     <string name="connect_wifi">Povežite se na WiFi</string>
-    <string name="connect_wifi_tip">Povezava z omrežjem ni uspela. Za uvoz podatakov iz iClouda potrbujete WiFi.</string>
+    <string name="connect_wifi_tip">Povezava z omrežjem ni uspela. Za uvoz podatkov iz iClouda potrbujete WiFi.</string>
     <string name="connecting">Povezovanje…</string>
     <string name="connection_tips_activity_label">Odpravljanje težav</string>
-    <string name="connection_tips_other_message">"1. Preverite, da je na stari napravi nameščena najnovejša različica aplikacije Mi Mover. To različico lahko prenesete iz GetApps ali na naslednji povezavi: %1$s.
-2. Če se dostopna točka nove naprave ne prikaže v aplikaciji Mi Mover, odprite Wi-Fi nastavitve in preverite, če jo tam vidite. Če jo vidite, jo ne pritisnite.
+    <string name="connection_tips_other_message">"1. Preverite ali je na stari napravi nameščena najnovejša različica aplikacije Mi Mover. To različico lahko prenesete iz GetApps ali na naslednji povezavi: %1$s.
+2. Če se dostopna točka nove naprave ne prikaže v aplikaciji Mi Mover, odprite WiFi nastavitve in preverite, če jo tam vidite. Če jo vidite, jo ne pritisnite.
 3. Pojdite nazaj v Mi Mover in tapnite na ime dostopne točke."</string>
     <string name="connection_tips_other_title">Če je vaša stara naprava Android telefon tretjih oseb:</string>
     <string name="connection_tips_owner_message">Mi Mover je že nameščen na vseh napravah z MIUI 11. Če imate starejšo različico MIUI, novejšo različico lahko prenesete v GetApps ali uporabite naslednjo povezavo: %1$s.</string>
     <string name="connection_tips_owner_title">Če je vaša stara naprava Mi telefon:</string>
     <string name="contacts">Stiki</string>
     <string name="current_user_not_supported_summary">Trenutne sistemske namestitve omejujejo prenos podatkov z uporabo aplikacije Mi Mover.</string>
-    <string name="current_user_not_supported_title">Ni mogoče prenesti predmetov</string>
+    <string name="current_user_not_supported_title">Ne morem prenesti predmetov</string>
     <string name="dialog_backup_password_cancel">Prekliči</string>
     <string name="dialog_backup_password_change_machine_tips">Varnostnih kopij, zaščitenih z geslom, ne boste mogli prenesti. Pred uporabo Mi Mover izklopite varnostno geslo.</string>
     <string name="dialog_backup_password_verify">V redu</string>
@@ -60,22 +60,21 @@ Obiščite https://appleid.apple.com/#!&amp;page=signin za izklop"</string>
     <string name="dialog_request_network_btn_negative">Izhod</string>
     <string name="dialog_request_network_btn_positive">Strinjam se</string>
     <string name="dialog_request_network_message">"Dobrodošli v Mi Mover! Aplikacijo lahko uporabite za prenos podatkov iz stare naprave na novo.
-
-Vaše osebne podatke bomo varovali glede na ustrezne zakone, predpise in pravilnike o zasebnosti. Bodite pozorni, da Mi Mover mora biti povezan na omrežje in zahteva naslednja dovoljenja, da bi zbiral vaše osebne podatke: vklop in izklop Wi-Fi omrežja, dostop do in prenos vaših stikov, zgodovina klicev, SMS, MMS, posnetki klicev ter avdio posnetki."</string>
+Vaše osebne podatke bomo varovali glede na ustrezne zakone, predpise in pravilnike o zasebnosti. Bodite pozorni, da Mi Mover mora biti povezan na omrežje in zahteva naslednja dovoljenja, da bi zbiral vaše osebne podatke: vklop in izklop WiFi omrežja, dostop do in prenos vaših stikov, zgodovina klicev, SMS, MMS, posnetki klicev ter avdio posnetki."</string>
     <string name="dialog_request_network_message_extra">Če ne želite dodeliti takšna dovoljenja ali deliti in naložiti vaše osebne podatke, ne boste mogli uporabiti to aplikacijo. V takvih primerih lahko izberete, da aplikacijo odstranite ali omejite dovoljenja v Nastavitvah.</string>
-    <string name="dialog_tip_upgrade_summary">Izgleda, da je Mi Mover preveč star. Posodobite Mi Mover na najnovejšo različico, da lahko prenesete datoteke.</string>
+    <string name="dialog_tip_upgrade_summary">Kaže da je Mi Mover preveč star. Posodobite Mi Mover na najnovejšo različico, da lahko prenesete datoteke.</string>
     <string name="dialog_tip_upgrade_title">Posodobite Mi Mover</string>
     <string name="dialog_version_summary_tip">Kaj je novega:</string>
     <string name="dialog_version_title_tip">Posodobitev je na voljo</string>
     <string name="document">Dokumenti</string>
-    <string name="err_authentication_failed">Ni mogoče preveriti</string>
-    <string name="err_bakfile_broken">Ni mogoče uporabiti te varnostne kopije.</string>
+    <string name="err_authentication_failed">Ne morem preveriti</string>
+    <string name="err_bakfile_broken">Ne morem uporabiti te varnostne kopije.</string>
     <string name="err_bakfile_not_exist">Datoteka varnostne kopije ne obstaja.</string>
     <string name="err_binder_died">Aplikacija se je nepričakovano ustavila.</string>
     <string name="err_low_storage">Ni dovolj prostora za shranjevanje</string>
     <string name="err_no_gms">Nezdružljiva različica aplikacije. To aplikacijo namestite ločeno.</string>
     <string name="err_not_allow">Ni podprto</string>
-    <string name="err_pkg_not_exist">Ni mogoče najti aplikacijo.</string>
+    <string name="err_pkg_not_exist">Ne morem najti aplikacijo.</string>
     <string name="err_unknown">Neznana napaka</string>
     <string name="err_user_abort">Prekinil uporabnik.</string>
     <string name="err_version_too_old">Varnostna kopija je prestara.</string>
@@ -86,20 +85,20 @@ Vaše osebne podatke bomo varovali glede na ustrezne zakone, predpise in praviln
     <string name="finished">Končano</string>
     <string name="get_known_tip">Poskusite ponovno</string>
     <string name="group_info_scanning">Izračunavanje…</string>
-    <string name="guest_hint_connect_new_device">Tapnite novo napravo, da bi se povezali.</string>
+    <string name="guest_hint_connect_new_device">Tapnite novo napravo, da se boste povezali.</string>
     <string name="guest_install_app_hint_ensure">Prenesi</string>
     <string name="guest_install_app_hint_summary">Nova različica aplikacije Mi Mover ni kompatibilna s tisto, ki je nameščena na tej napravi. Prenesite in namestite novo različico.</string>
     <string name="guest_install_app_hint_title">Prenesite novo različico aplikacije Mi Mover</string>
     <string name="guest_unfinished_task_alert_btn_negative">Začni ponovno</string>
     <string name="guest_unfinished_task_alert_btn_positive">Nadaljuj</string>
-    <string name="guest_unfinished_task_alert_message">Zdi se, da imate nedokončane naloge prenosa. Želite nadaljevati s prenosom?</string>
+    <string name="guest_unfinished_task_alert_message">Kaže da imate nedokončane naloge prenosa. Želite nadaljevati s prenosom?</string>
     <string name="guest_unfinished_task_alert_title">Nedokončane naloge prenosa</string>
     <string name="hide_password_description">Skrij geslo</string>
     <string name="host_boot_installation_bottom_tips">Ne najdete Mi Mover? Tapnite za prenos.</string>
     <string name="host_boot_installation_button">Naprej</string>
     <string name="host_boot_installation_content">"1. Na stari napravi pojdite na Nastavitve.
 2. Vnesite \"Mi Mover\" v iskalno vrstico.
-3 Tapnite \"Mi Mover\" v rezultatih iskanja."</string>
+3. Tapnite \"Mi Mover\" v rezultatih iskanja."</string>
     <string name="host_boot_installation_dialog_message">Različica aplikacije Mi Mover, ki jo imate na stari napravi ni kompatibilna s tisto, ki je tukaj nameščena. Na stari napravi posodobite Mi Mover.</string>
     <string name="host_boot_installation_first_title">Odprite Mi Mover na vaši stari napravi</string>
     <string name="host_boot_installation_message">Izberite stran, ki jo vidite na vaši stari napravi. Če uporabljate starejšo različico aplikacije Mi Mover vam bomo povedali kako jo lahko posodobite.</string>
@@ -111,23 +110,23 @@ Vaše osebne podatke bomo varovali glede na ustrezne zakone, predpise in praviln
     <string name="host_connect_timeout_tip">Že dolgo časa se ni mogoče prijaviti</string>
     <string name="host_dialog_install_button">Namesti na drugi napravi</string>
     <string name="host_dialog_known_button">Razumem</string>
-    <string name="host_dialog_message">Preverite, da imate najnovejšo različico Mi Mover nameščeno na drugi napravi; drugače se dve napravi ne bosta povezale.</string>
+    <string name="host_dialog_message">Preverite ali imate najnovejšo različico Mi Mover nameščeno na drugi napravi; drugače se dve napravi ne bosta povezale.</string>
     <string name="host_dialog_title">Že dolgo časa se ni mogoče prijaviti</string>
     <string name="host_memory_insuff_cancel">Prekliči</string>
     <string name="host_memory_insuff_confirm">Ponovno izberite</string>
     <string name="host_memory_insuff_summary">Na novi napravi ni dovolj prostora za shranjevanje, da bi se prenos začel.</string>
     <string name="host_memory_insuff_title">Ni dovolj prostora za shranjevanje</string>
     <string name="hsa_code_null">Koda za preverjanje ne sme biti prazna</string>
-    <string name="hsa_input_tip">Vaš Apple ID uporablja dvofaktorno avtentikacijo. Vnesite kodo za preverjanje.</string>
+    <string name="hsa_input_tip">Vaš Apple ID uporablja dvonivojsko avtentikacijo. Vnesite kodo za preverjanje.</string>
     <string name="hsa_send_again">Pošlji ponovno</string>
     <string name="hsa_send_again_countdown">Pošlji ponovno (%ds)</string>
     <string name="hsa_send_failed">Pošiljanje kode za preverjanje ni uspelo. Poskusite ponovno kasneje.</string>
     <string name="hsa_sending">Pošiljanje…</string>
     <string name="hsa_tip_message">Če ne morete dobiti kodo za preverjanje, preverite, če ste se že prijavili v iCloud na vaši Apple napravi.</string>
-    <string name="hsa_tip_message_shutdown_hsa">Kako izključiti dvofaktorno avtentikacijo</string>
+    <string name="hsa_tip_message_shutdown_hsa">Kako izključiti dvonivojsko avtentikacijo</string>
     <string name="hsa_tip_title">Pomoč</string>
-    <string name="hsa_verify_failed">Dvofaktorno avtentikacijo ni uspela</string>
-    <string name="hsa_verify_failed_message">Dvofaktorno avtentikacijo ni uspela. Lahko poskusite ponovno ali izklopite dvofaktorno avtentikacijo.</string>
+    <string name="hsa_verify_failed">Dvonivojska avtentikacija ni uspela</string>
+    <string name="hsa_verify_failed_message">Dvonivojska avtentikacija ni uspela. Lahko poskusite ponovno ali izklopite dvonivojsko avtentikacijo.</string>
     <string name="hsa_verify_retry">Poskusite ponovno</string>
     <string name="hsa_verify_shutdown">Izklop</string>
     <string name="icloud_data_importing">Uvažanje…</string>
@@ -145,14 +144,14 @@ Vaše osebne podatke bomo varovali glede na ustrezne zakone, predpise in praviln
     <string name="icloud_start_now">Uporabi mobilne podatke</string>
     <string name="icloud_verify_tips">Tapnite \"Dovoli\" na vaši iOS napravi in vnesite kodo, ki se pokaže.</string>
     <string name="im_recipient">Sem prejemnik</string>
-    <string name="im_sender">Pošiljatelj sem</string>
+    <string name="im_sender">Sem pošiljatelj</string>
     <string name="image">Slike</string>
     <string name="import_again">Ponovni uvoz</string>
     <string name="import_data_from_icloud">Uvoz podatkov iz iClouda</string>
     <string name="install_app_dialog_title">V bližini ni najdenih naprav</string>
     <string name="install_app_link_text">Zakaj se moja stara naprava ne more povezati na dostopno točko?</string>
     <string name="install_app_message">"Če že dolgo časa ne morete najti vaše nove naprave, poskusite naslednje:
-1. Preverite, da je Mi Mover nameščen na vaši novi napravi.
+1. Preverite, ali je Mi Mover nameščen na vaši novi napravi.
 2. Približajte dve napravi eno drugi."</string>
     <string name="install_app_new_title">Poskenirajte QR kodo, da bi namestili Mi Mover na novi napravi</string>
     <string name="install_app_old_title">Poskenirajte QR kodo, da bi namestili Mi Mover na stari napravi</string>
@@ -176,10 +175,10 @@ Vaše osebne podatke bomo varovali glede na ustrezne zakone, predpise in praviln
     <string name="main_chooser_item_android_others">Uvoz iz drugega Android telefona</string>
     <string name="main_chooser_item_ios">Uvoz iz iPhone telefona</string>
     <string name="main_chooser_title">Izberite staro napravo</string>
-    <string name="message_request_package_stats_perm">Tapnite \"Nadaljuj\", da bi odprli Nastavitve in dodelili aplikaciji Mi Mover zahtevana dovoljenja.</string>
+    <string name="message_request_package_stats_perm">Tapnite \"Nadaljuj\", da boste odprli Nastavitve in dodelili aplikaciji Mi Mover zahtevana dovoljenja.</string>
     <string name="miui_need_location_permission_summary">Dovolite aplikaciji Mi Mover dostop do lokacije, da lahko najde naprave v bližini. Aplikacije ne boste mogli uporabiti dokler ne dodelite to dovoljenje.</string>
     <string name="miui_need_location_permission_title">Dovolite dostop do lokacije</string>
-    <string name="miui_need_open_high_accuracy_summary">Dovolite aplikaciji Mi Mover dostop do vaše lokacije v načinu \"Visoke natančnosti\", da lahko najde naprave v bližini. Aplikacije ne boste mogli uporabiti dokler ne dodelite to dovoljenje.</string>
+    <string name="miui_need_open_high_accuracy_summary">Dovolite aplikaciji Mi Mover dostop do vaše lokacije v načinu \"Visoka natančnost\", da lahko najde naprave v bližini. Aplikacije ne boste mogli uporabiti dokler ne dodelite to dovoljenje.</string>
     <string name="miui_need_open_high_accuracy_title">Dovolite dostop do natančnih podatkov o lokaciji</string>
     <string name="mms">MMS</string>
     <string name="mms_contacts_calllog">Sporočila, stiki, zgodovina klicev</string>
@@ -271,7 +270,7 @@ Vaše osebne podatke bomo varovali glede na ustrezne zakone, predpise in praviln
     <string name="save_finish_with_failing_items">"Prenos je prekinjen.
 Podatki, ki niso uvoženi bodo morali biti ponovno uvoženi."</string>
     <string name="saving_data">Uvoz podatkov iz iClouda…</string>
-    <string name="saving_data_not_close_wifi">Ni mogoče izklopiti WiFi</string>
+    <string name="saving_data_not_close_wifi">Ne morem izklopiti WiFi</string>
     <string name="saving_data_space_low">"Ni dovolj prostora za shranjevanje.
 Sprostite najmanj %s."</string>
     <string name="scan_soft_ap_label">Povežite se na novo napravo</string>
@@ -281,7 +280,7 @@ Sprostite najmanj %s."</string>
     <string name="scanner_quit_alert_btn_negative">Izhod</string>
     <string name="scanner_quit_alert_btn_positive">Ne zapusti</string>
     <string name="scanner_quit_alert_message">Dve napravi boste morali ponovno povezati, če sedaj zapustite Mi Mover. Želite vseeno zapustiti?</string>
-    <string name="scanner_quit_alert_title">Želite zapustite sedaj?</string>
+    <string name="scanner_quit_alert_title">Želite zapustiti zdaj?</string>
     <string name="scanner_send_dialog_btn">Razumem</string>
     <string name="scanner_send_dialog_message">Med prenosom ne izklopite WiFi ali preklopite med omrežji.</string>
     <string name="scanner_size_selected">Izbrano: %s</string>
@@ -298,7 +297,7 @@ Sprostite najmanj %s."</string>
     <string name="select_item_remind">Opomniki</string>
     <string name="select_item_summary_loading">Samo trenutek…</string>
     <string name="selected">Izbrano</string>
-    <string name="send_verification_code_fail">Ni mogoče poslati kode za preverjanje</string>
+    <string name="send_verification_code_fail">Ne morem poslati kode za preverjanje</string>
     <string name="send_verification_code_fail_tips">Preverite, da ste se prijavili v ta račun na vaši Apple napravi. Če niste, kode ne boste prejeli.</string>
     <string name="settings_phone">Nastavitve telefona</string>
     <string name="settings_powerkeeper">Podatki števca korakov</string>
@@ -318,8 +317,8 @@ Sprostite najmanj %s."</string>
     <string name="time_concentrator" />
     <string name="time_spent">Čas: <g id="time">%1$s</g></string>
     <string name="title_request_package_stats_perm">Zahtevana so dovoljenja</string>
-    <string name="trans_detail_item_app_data_skip_data">Ni mogoče prenesti podatkov aplikacije</string>
-    <string name="trans_detail_item_app_skip_data">Ni mogoče premakniti te aplikacije</string>
+    <string name="trans_detail_item_app_data_skip_data">Ne morem prenesti podatkov aplikacije</string>
+    <string name="trans_detail_item_app_skip_data">Ne morem premakniti te aplikacije</string>
     <string name="trans_detail_qq_data">QQ podatki (vključno z zgodovino pogovorov)</string>
     <string name="trans_detail_wechat_data">WeChat podatki (vključno z zgodovino pogovorov)</string>
     <string name="trans_install_guide_new_content_first">"Poskenirajte to QR kodo z vašim novim telefonom.
@@ -339,10 +338,10 @@ avdio, video, dokumente in aplikacije na novo napravo"</string>
     <string name="trans_time_spent">Čas: %s</string>
     <string name="transfer_bottom_tip">Ne boste lahko uporabljali WiFi ali Bluetooth med prenosom. Ne zapustite te strani.</string>
     <string name="transfer_finish_bottom_tip">Če svoje stare naprave ne boste več uporabljali, lahko izbrišete vse podatke na njej, ko potrdite, da so bili vsi pomembni elementi uspešno preneseni.</string>
-    <string name="transfer_lose_connect_summary">Izgleda, da je bila povezava prekinjena. Ponovno se povežite.</string>
+    <string name="transfer_lose_connect_summary">Kaže da je bila povezava prekinjena. Ponovno se povežite.</string>
     <string name="transfer_lose_connect_title">Povezava je bila prekinjena</string>
     <string name="transfer_multi_connect_summary">Vaš prenos je bil prekinjen zaradi varnostnih razlogov. Če vseeno želite nadaljevati tapnite \"Poveži ponovno\".</string>
-    <string name="transfer_multi_connect_title">Izgleda, da je več naprav povezanih na to dostopno točko</string>
+    <string name="transfer_multi_connect_title">Kaže da je več naprav povezanih na to dostopno točko</string>
     <string name="transfer_quit_alert_btn_negative">Izhod</string>
     <string name="transfer_quit_alert_btn_positive">Ne zapusti</string>
     <string name="transfer_quit_alert_message">"Mi Mover trenutno deluje. Želite vseeno zapustiti?
@@ -350,7 +349,7 @@ avdio, video, dokumente in aplikacije na novo napravo"</string>
 "</string>
     <string name="transfer_quit_alert_message_extra">Napredek prenosa bo shranjen. Ko naslednjič povežete obe napravi, boste prenos lahko nadaljevali z mesta, kjer ste končali.</string>
     <string name="transfer_quit_alert_title">Pozor</string>
-    <string name="transfer_snap_error">Ni mogoče prenesti</string>
+    <string name="transfer_snap_error">Ne morem prenesti</string>
     <string name="transfer_snap_new_receiving">Prejemanje…</string>
     <string name="transfer_snap_new_restore_finish">Uspešno prenešeno</string>
     <string name="transfer_snap_new_restoring">Obnavljanje…</string>

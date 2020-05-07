@@ -42,7 +42,7 @@
     <string name="account_error_user_birthday">Rojstni dan, ki ste ga vnesli ni veljaven</string>
     <string name="account_error_user_name">Vzdevek je neveljaven. Poskusite drugega.</string>
     <string name="account_invalid_user_avatar">Ta fotografija je neveljavna. Poskusite drugo.</string>
-    <string name="account_limit_update_birthday">Ni mogoče posodobiti datuma rojstnega dne</string>
+    <string name="account_limit_update_birthday">Ne morem posodobiti datuma rojstnega dne</string>
     <string name="account_no_set">Nič</string>
   <string name="account_none">Nič</string>
   <string name="account_none_binded_info">Nič</string>
@@ -74,7 +74,7 @@
     <string name="ai_animation_music_text">AI zvočni zapis</string>
     <string name="ai_music_save_cancel">Prekliči</string>
     <string name="ai_music_save_dialog_title">Shrani</string>
-    <string name="ai_music_save_fail">Ni mogoče shraniti</string>
+    <string name="ai_music_save_fail">Ne morem shraniti</string>
     <string name="ai_music_save_info">AI zvočni zapis je bil uspešno dodan. Želite shraniti videoposnetek?</string>
     <string name="ai_music_save_ok">Shrani</string>
     <string name="ai_music_save_success">Uspešno shranjeno</string>
@@ -83,7 +83,7 @@
     <string name="alert_dialog_download_btn_hide">Skrij</string>
     <string name="alert_dialog_download_confirm">Kmalu se bo začel prenos aplikacije</string>
     <string name="alert_dialog_download_default_title">Prenesite aplikacijo</string>
-    <string name="alert_dialog_download_fail">Ni mogoče prenesti aplikacije</string>
+    <string name="alert_dialog_download_fail">Ne morem prenesti aplikacije</string>
     <string name="alert_dialog_download_plugin">"Kmalu se bo začel prenos in nameščanje HD vtičnika: "</string>
     <string name="alert_dialog_download_prepare">Pripravljanje za prenos…</string>
     <string name="alert_dialog_download_progress">"Prenašanje aplikacije: "</string>
@@ -200,11 +200,11 @@
     <string name="confirm_new_pwd">Potrdite novo geslo</string>
   <string name="confirm_unbundled_phone_dialog_message">Tel. št. %1$s je povezana z Mi Računom %2$s. Ta ne bo več povezana z Mi Računom %3$s če nadaljujete. Želite nadaljevati?</string>
     <string name="content">Vsebina</string>
-    <string name="content_can_not_null">Ni mogoče oddati povratne informacije brez opisa.</string>
+    <string name="content_can_not_null">Ne morem oddati povratne informacije brez opisa.</string>
     <string name="data_empty">Ni predmetov</string>
   <string name="day">dan</string>
     <string name="description">Opis</string>
-    <string name="diagnosis_log_send_failed">Ni mogoče poslati poročila. Poskusite ponovno.</string>
+    <string name="diagnosis_log_send_failed">Ne morem poslati poročila. Poskusite ponovno.</string>
     <string name="diagnosis_log_sent_format">"Poročila so bila uspešno poslana.
 ID:%s
 Pošljite to kodo nadzorniku."</string>
@@ -268,14 +268,14 @@ Pošljite to kodo nadzorniku."</string>
     <string name="exo_track_surround_7_point_1">Prostorski zvok 7.1</string>
     <string name="exo_track_unknown">Neznano</string>
     <string name="explore_on_mi_video">Poišči več na Mi Video</string>
-    <string name="failed_to_fetch_data">Ni mogoče naložiti informacij.</string>
+    <string name="failed_to_fetch_data">Ne morem naložiti informacij.</string>
     <string name="failed_dup_secure_phone_number">Ta številka telefona je že povezana z drugim Mi Računom</string>
     <string name="favor_online_video">Videoposnetki</string>
     <string name="favor_playlist">Seznam predvajanja</string>
     <string name="favorite">Priljubljeno</string>
     <string name="favorite_cancel_fail">Ni bilo mogoče odstraniti iz favoritov</string>
     <string name="favorite_cancel_success">Uspešno odstranjeno iz favoritov</string>
-    <string name="favorite_fail">Ni mogoče dodati med priljubljene. Poskusite ponovno.</string>
+    <string name="favorite_fail">Ne morem dodati med priljubljene. Poskusite ponovno.</string>
     <string name="favorite_success">Uspešno dodano med priljubljene</string>
     <string name="feedback">Povratne informacije</string>
     <string name="feedback_activity_title">Povratne informacije</string>
@@ -286,7 +286,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="feedback_hint_contact">Telefon/QQ/E-naslov</string>
     <string name="feedback_hint_text">Opišite težavo na katero ste naleteli.</string>
     <string name="feedback_input_tip">Tukaj lahko opišete probleme ali nam kaj predložite.</string>
-    <string name="feedback_net_error">Ni mogoče poslati. Preverite omrežne nastavitve in poskusite ponovno.</string>
+    <string name="feedback_net_error">Ne morem poslati. Preverite omrežne nastavitve in poskusite ponovno.</string>
     <string name="feedback_sent">Pošlji</string>
     <string name="feedback_success">Uspešno poslano</string>
     <string name="feedback_success_toast">Uspešno posredovano. Hvala za vašo povratno informacijo!</string>
@@ -327,7 +327,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="gallery_video_item5_default_text">Spomini</string>
     <string name="gallery_video_item6_default_text">Veselje</string>
     <string name="gallery_video_local_music_text">Izberi datoteko</string>
-    <string name="gallery_video_music_format_error">Ni mogoče dodati zvoka na izbrani videoposnetek</string>
+    <string name="gallery_video_music_format_error">Ne morem dodati zvoka na izbrani videoposnetek</string>
     <string name="gallery_video_music_text">Glasbena podlaga</string>
     <string name="gallery_video_no_music_text">Brez</string>
     <string name="gallery_video_operate_text">Prilagajanje počasnega gibanja</string>
@@ -386,15 +386,15 @@ za videoposnetke"</string>
   <string name="lp_speed_toast">Predvajanje pri hitrosti %sX…</string>
     <string name="lp_videoView_error_button">Razumem</string>
     <string name="lp_videoView_error_text_unknown">Videoposnetka ni mogoče predvajati.</string>
-    <string name="lp_videoView_error_title">Ni mogoče predvajati</string>
+    <string name="lp_videoView_error_title">Ne morem predvajati</string>
     <string name="lv_advance_sound">Izboljšanje zvoka</string>
     <string name="lv_airkan_control_device_des">Za nadzor predvajanja tapnite vrstico spodaj.</string>
     <string name="lv_airkan_device_xiaomi_phone">Moj Mi telefon</string>
     <string name="lv_airkan_playing">Oddajanje na %s</string>
     <string name="lv_airkan_tips">Tapnite za oddajanje</string>
-    <string name="lv_app_check_failed">Ni mogoče preveriti namestitvenega paketa</string>
+    <string name="lv_app_check_failed">Ne morem preveriti namestitvenega paketa</string>
     <string name="lv_app_click_to_install">Tapnite za posodobitev</string>
-    <string name="lv_app_download_failed">Ni mogoče prenesti namestitvenega paketa, poskusite ponovno.</string>
+    <string name="lv_app_download_failed">Ne morem prenesti namestitvenega paketa, poskusite ponovno.</string>
     <string name="lv_app_downloaded">Uspešno prenešen Mi Video</string>
     <string name="lv_app_downloading">Prenašanje Mi Videa…</string>
     <string name="lv_audio_changed">Nov avdio posnetek</string>
@@ -435,12 +435,12 @@ za videoposnetke"</string>
     <string name="lv_menu_selectAll">Izberite vse</string>
     <string name="lv_menu_send">Pošlji</string>
     <string name="lv_menu_unhide">Odkrij</string>
-    <string name="lv_mplayer_error_io">Ni mogoče prebrati medijske datoteke</string>
+    <string name="lv_mplayer_error_io">Ne morem prebrati medijske datoteke</string>
     <string name="lv_mplayer_error_malformed">Napačna medijska datoteka</string>
     <string name="lv_mplayer_error_server_died">Napaka na medijskem strežniku</string>
     <string name="lv_mplayer_error_timed_out">Zahteva je potekla</string>
     <string name="lv_ready_to_install">Mi Video je pripravljen na namestitev</string>
-    <string name="lv_screen_shot_failure">Ni mogoče zajeti slike zaslona, poskusite ponovno.</string>
+    <string name="lv_screen_shot_failure">Ne morem zajeti slike zaslona, poskusite ponovno.</string>
     <string name="lv_screen_shot_failure_tips">Posodobite Mi Video za zajem slik zaslona</string>
     <string name="lv_screen_shot_success">Slika zaslona uspešno zajeta</string>
     <string name="lv_screenrecord_failure">Snemanje ni uspelo, poskusite ponovno.</string>
@@ -456,7 +456,7 @@ za videoposnetke"</string>
     <string name="lv_storage_external_sdcard">Zunanji pomnilnik</string>
     <string name="lv_storage_internal_sdcard">Notranji pomnilnik</string>
     <string name="lv_storage_root_dir">Se že nahajte v korenski mapi</string>
-    <string name="lv_subtitle_add_subtitle_failed">Ni mogoče dodati podnapisov. Prepričajte se, da datoteka ni poškodovana.</string>
+    <string name="lv_subtitle_add_subtitle_failed">Ne morem dodati podnapisov. Prepričajte se, da datoteka ni poškodovana.</string>
     <string name="lv_subtitle_changed">Novi podnapisi</string>
     <string name="lv_subtitle_current_dir">Trenutna mapa</string>
     <string name="lv_subtitle_folder_up">Prejšnja mapa</string>
@@ -475,14 +475,14 @@ za videoposnetke"</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Nalaganje podnapisov…</string>
     <string name="lv_subtitle_onlinesub_right_declare">Izjava o omejitvi odgovornosti</string>
     <string name="lv_subtitle_onlinesub_right_declare_content">Pridobite podnapise &lt;br/>&lt;br/>iz &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>. &lt;br/>&lt;br/>Vse podnapise na spletu zagotavlja &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
-    <string name="lv_subtitle_onlinesub_save_failed">Ni mogoče dati podnapisov</string>
+    <string name="lv_subtitle_onlinesub_save_failed">Ne morem dati podnapisov</string>
     <string name="lv_subtitle_onlinesub_save_success">Podnapisi so bili uspešno dodani</string>
     <string name="lv_subtitle_onlinesub_search_keyword">Vpišite iskalni niz za iskanje</string>
-    <string name="lv_subtitle_onlinesub_search_notfound">Ni mogoče najti podnapisov</string>
+    <string name="lv_subtitle_onlinesub_search_notfound">Ne morem najti podnapisov</string>
     <string name="lv_subtitle_onlinesub_size_string_b">Velikost: %s B</string>
     <string name="lv_subtitle_onlinesub_title">Podnapisi na spletu</string>
     <string name="lv_subtitle_open_subtitle_file_title">Najdi datoteko s podnapisi</string>
-    <string name="lv_subtitle_preoffset_max">Ni mogoče premakniti dlje kot 5 s</string>
+    <string name="lv_subtitle_preoffset_max">Ne morem premakniti dlje kot 5 s</string>
     <string name="lv_subtitle_subonline_non_network">Povezava z omrežjem ni uspela. Poskusite ponovno kasneje.</string>
     <string name="lv_subtitle_synchronization_title">Sinhronizacija</string>
     <string name="lv_subtitle_title">Podnapisi</string>
@@ -490,7 +490,7 @@ za videoposnetke"</string>
     <string name="lv_unhide_prompt">Uspešno nastavljeno. Zdaj lahko kadarkoli vidite odkrite datoteke.</string>
     <string name="lv_updating">Posadabljanje…</string>
     <string name="lv_use_notch">Pokaži zarezo</string>
-    <string name="lv_videoView_error_text_invalid_progressive_playback">Ni mogoče predvajati tega videoposnetka na tej napravi.</string>
+    <string name="lv_videoView_error_text_invalid_progressive_playback">Ne morem predvajati tega videoposnetka na tej napravi.</string>
     <string name="lv_videoView_error_text_unknown">Videoposnetka ni mogoče predvajati.</string>
     <string name="lv_videoView_error_title">Tega videa ni mogoče predvajati</string>
     <string name="lv_video_null">Ni videoposnetkov</string>
@@ -579,13 +579,13 @@ za videoposnetke"</string>
     <string name="ovp_detail_v_episode">Epizoda</string>
     <string name="ovp_detail_v_episode_all">Episode: %2$d/%1$d</string>
     <string name="ovp_detail_v_episode_count">Posodobljeno na epizodo %d</string>
-    <string name="ovp_detail_v_episode_download_null">Ni mogoče prenesti te epizode</string>
+    <string name="ovp_detail_v_episode_download_null">Ne morem prenesti te epizode</string>
     <string name="ovp_detail_v_variety_episode_count">Posodobljeno na sezono %s</string>
     <string name="ovp_episode_suffix">"Ep. %d "</string>
     <string name="ovp_favor">Priljubljeno</string>
     <string name="ovp_favor_null">Ni predmetov.</string>
     <string name="ovp_feedback_title">Mi Video povratne informacije</string>
-    <string name="ovp_home_folder_is_null_jump_upfolder_tip">Ni mogoče najti medijske datoteke. Odhod v mapo višje.</string>
+    <string name="ovp_home_folder_is_null_jump_upfolder_tip">Ne morem najti medijske datoteke. Odhod v mapo višje.</string>
     <string name="ovp_home_item_camera">Galerija</string>
     <string name="ovp_home_item_download">Prenosi</string>
     <string name="ovp_home_item_folder">Datoteke</string>
@@ -611,12 +611,12 @@ za videoposnetke"</string>
     <string name="ovp_player_plugin_dlg_no_content">Ni nameščen noben vtičnik predvajalnika videoposnetkov.</string>
     <string name="ovp_player_plugin_dlg_title">Vtičnik predvajalnika videoposnetkov</string>
     <string name="ovp_player_update_dialog_info">Posodobite vtičnik Mi Video na najnovejšo različico, da bi lahko predvajali videoposnetek. Želite posodobiti zdaj?</string>
-    <string name="ovp_player_update_info">"Ni mogoče predvajati videoposnetka.
+    <string name="ovp_player_update_info">"Ne morem predvajati videoposnetka.
 Najprej posodobite Mi Video na najnovejšo različico."</string>
     <string name="ovp_playlist">Seznam predvajanja</string>
     <string name="ovp_plugin_install_failure">Vtičnika ni bilo mogoče namestiti</string>
     <string name="ovp_resolution_auto">Samodejno</string>
-    <string name="ovp_resolution_not_support">Ni mogoče zamenjati rezolucijo za ta videoposnetek</string>
+    <string name="ovp_resolution_not_support">Ne morem zamenjati rezolucijo za ta videoposnetek</string>
     <string name="ovp_resolution_title">Resolucija</string>
     <string name="ovp_search_key_not_null">Vpišite iskalni niz za iskanje</string>
     <string name="ovp_select_ci">Izberite epizodo</string>
@@ -631,10 +631,10 @@ Najprej posodobite Mi Video na najnovejšo različico."</string>
     <string name="ovp_start_error_msg">Tega videa ni mogoče predvajati</string>
     <string name="ovp_video_bad_network_condition">Povezava z omrežjem ni uspela.</string>
     <string name="ovp_video_create_video_error_info">Vtičnika ni mogoče zagnati. Počakate minuto in poskusite ponovno.</string>
-    <string name="ovp_video_invalid_cp_info">Ni mogoče naložiti informacij. Ponovno zaženite aplikacijo.</string>
+    <string name="ovp_video_invalid_cp_info">Ne morem naložiti informacij. Ponovno zaženite aplikacijo.</string>
     <string name="ovp_video_loading">Kmalu se bo predvajalo %1$s…</string>
     <string name="ovp_video_plugin_installation">Nameščanje %1$s…</string>
-    <string name="ovp_video_plugin_installation_failure">Ni mogoče namestiti %1$s</string>
+    <string name="ovp_video_plugin_installation_failure">Ne morem namestiti %1$s</string>
     <string name="ovp_video_plugin_installation_two">Samo trenutek…</string>
     <string name="page_title_language">Jezikovne nastavitve</string>
     <string name="passport_access_denied">Dostop zavrnjen</string>
@@ -653,7 +653,7 @@ Najprej posodobite Mi Video na najnovejšo različico."</string>
     <string name="passport_empty_password">Polje za geslo ne sme biti prazno</string>
     <string name="passport_empty_user_name">Uporabniško ime ne sme biti prazno</string>
     <string name="passport_error_auth_fail">Seja je potekla. Vpišite se ponovno.</string>
-    <string name="passport_error_device_id">Ni mogoče dobiti ID naprave</string>
+    <string name="passport_error_device_id">Ne morem dobiti ID naprave</string>
   <string name="passport_error_dup_email">Naslov e-pošte je že povezan z drugim računom.</string>
   <string name="passport_error_dup_phone">Ta tel. št. je že povezana z drugim računom</string>
     <string name="passport_error_email">E-poštni naslov, ki ste ga vnesli ni veljaven</string>
@@ -664,7 +664,7 @@ Najprej posodobite Mi Video na najnovejšo različico."</string>
     <string name="passport_error_empty_vcode">Vnesite kodo za preverjanje</string>
     <string name="passport_error_empty_voice_code">Vnesite Captcho</string>
     <string name="passport_error_illegal_pwd">Neveljavno geslo</string>
-    <string name="passport_error_network">Ni se mogoče povezati na omrežje</string>
+    <string name="passport_error_network">Ne morem se povezati na omrežje</string>
     <string name="passport_error_no_password_user">Niste še nastavili gesla. Prijavite se z SMSom.</string>
     <string name="passport_error_phone_error">Neveljavna telefonska številka</string>
     <string name="passport_error_server">Napaka na strežniku</string>
@@ -722,7 +722,7 @@ Najprej posodobite Mi Video na najnovejšo različico."</string>
     <string name="passport_vcode_notification_title">Vaše preverjanje za vpis je nepopolno</string>
     <string name="passport_vcode_prompt_long">Vnesite kodo za preverjanje</string>
     <string name="passport_vcode_sms_send_prompt">Koda poslana na %s</string>
-    <string name="passport_verification_failed">Ni mogoče preveriti</string>
+    <string name="passport_verification_failed">Ne morem preveriti</string>
     <string name="passport_verify">Preveri</string>
     <string name="passport_wechat_not_install">Najprej namestite WeChat</string>
     <string name="passport_wrong_captcha">Koda, ki ste jo vnesli je nepravilna</string>
@@ -774,7 +774,7 @@ Izboljša varnost vašega računa."</string>
     <string name="plus_loading_text">Nalaganje predmetov…</string>
     <string name="plus_mine_gallery">Moji albumi</string>
     <string name="plus_mine_videos">Moji videoposnetki</string>
-    <string name="plus_player_8k_video_not_support">Ni mogoče predvajati 8K videoposnetkov na tej napravi</string>
+    <string name="plus_player_8k_video_not_support">Ne morem predvajati 8K videoposnetkov na tej napravi</string>
     <string name="plus_player_audio_track">Avdio posnetek</string>
     <string name="plus_player_detail_file_location">"Lokacija: "</string>
     <string name="plus_player_detail_file_name">"Ime datoteke: "</string>
@@ -806,13 +806,13 @@ Izboljša varnost vašega računa."</string>
     <string name="plus_player_subtitle">Podnapisi</string>
     <string name="plus_player_subtitle_dir_back">Pojdite navzgor</string>
     <string name="plus_player_subtitle_local">Lokalni podnapisi</string>
-    <string name="plus_player_subtitle_local_add_fail">Ni mogoče dodati podnapisov. Prepričajte se, da datoteka ni poškodovana.</string>
+    <string name="plus_player_subtitle_local_add_fail">Ne morem dodati podnapisov. Prepričajte se, da datoteka ni poškodovana.</string>
     <string name="plus_player_subtitle_local_add_success">Podnapisi so bili uspešno dodani</string>
     <string name="plus_player_subtitle_no_file">Tukaj ni podnapisov.</string>
     <string name="plus_player_subtitle_online">Podnapisi na spletu</string>
     <string name="plus_player_subtitle_online_declare_content">Iskali boste &lt;br/>podnapise v &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a> podatkovni bazi. &lt;br/>Vse podnapise na spletu zagotavlja &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
     <string name="plus_player_subtitle_online_declare_title">Odrekanje odgovornosti</string>
-    <string name="plus_player_subtitle_online_download_fail">Ni mogoče prenesti podnapisov</string>
+    <string name="plus_player_subtitle_online_download_fail">Ne morem prenesti podnapisov</string>
     <string name="plus_player_subtitle_online_download_start">Prenos podnapisov…</string>
     <string name="plus_player_subtitle_online_download_success">Podnapisi so bili uspešno preneseni</string>
     <string name="plus_player_subtitle_online_language">Jezik: %s</string>
@@ -824,7 +824,7 @@ Izboljša varnost vašega računa."</string>
     <string name="plus_poster_reset_default">Ponastavi na privzeti ovitek</string>
     <string name="plus_search_barhint">Išči lokalne videoposnetke</string>
     <string name="plus_search_guide">Išči videoposnetke</string>
-    <string name="plus_search_result_empty">Ni mogoče najti rezultate</string>
+    <string name="plus_search_result_empty">Ne morem najti rezultate</string>
     <string name="plus_share_channel_qq">QQ</string>
     <string name="plus_share_channel_qzone">Qzone</string>
     <string name="plus_share_channel_wechat">WeChat</string>
@@ -861,7 +861,7 @@ Izboljša varnost vašega računa."</string>
     <string name="reload_sub_title">Tapnite za ponovni poskus.</string>
     <string name="reload_title">Povezava z omrežjem ni uspela.</string>
     <string name="report">Prijavi</string>
-    <string name="report_fail">Ni mogoče prijaviti. Poskusite ponovno.</string>
+    <string name="report_fail">Ne morem prijaviti. Poskusite ponovno.</string>
     <string name="report_success">Uspešno sporočeno</string>
     <string name="resend_active_email">Ponovno pošlji</string>
     <string name="resend_email_reach_limit_message">Zahtevali ste preveč preverjanj po e-pošti. Poglejte ali e-pošta za preverjanje ni mogoče v mapi Vsiljena pošta.</string>
@@ -900,7 +900,7 @@ Izboljša varnost vašega računa."</string>
     <string name="service_error">Napaka na strežniku</string>
     <string name="set_success">Uspešno zamenjano</string>
     <string name="share">Podeli</string>
-    <string name="share_fail">Ni mogoče deliti. Preverite vaše omrežne nastavitve in poskusite ponovno.</string>
+    <string name="share_fail">Ne morem deliti. Preverite vaše omrežne nastavitve in poskusite ponovno.</string>
     <string name="share_success">Uspešno deljeno</string>
   <string name="share_ugc_content">Poglejte v %1$s! #%2$s (%3$s)</string>
   <string name="share_ugc_join">Pridruži se</string>
@@ -908,7 +908,7 @@ Izboljša varnost vašega računa."</string>
     <string name="sign_in">Prijava</string>
   <string name="sign_in_progress">Prijava…</string>
     <string name="sign_in_title">Prijavite se z vašim Mi Računom</string>
-    <string name="slid_fail_message">Ni mogoče shraniti videoposnetek</string>
+    <string name="slid_fail_message">Ne morem shraniti videoposnetek</string>
     <string name="slide_save_message">Ustvarjanje videoposnetka…</string>
     <string name="sms_send_success">Uspešno poslano</string>
     <string name="sns_access_token_expired_warning">Potekel je čas seje. Prijavite se ponovno za ponovno povezovanje s tem računom.</string>
@@ -941,7 +941,7 @@ Izboljša varnost vašega računa."</string>
     <string name="subscribe">NAROČI SE</string>
     <string name="subscribed">NAROČENO</string>
     <string name="subscriptions">Naročnine</string>
-    <string name="subtitle_add_subtitle_failed">Ni mogoče dodati podnapisov. Prepričajte se, da datoteka ni poškodovana.</string>
+    <string name="subtitle_add_subtitle_failed">Ne morem dodati podnapisov. Prepričajte se, da datoteka ni poškodovana.</string>
     <string name="subtitle_manual_add_sub">Podnapisi so bili uspešno dodani</string>
     <string name="subtitle_offset_normal">Ne premikaj podnapisov</string>
     <string name="subtitle_padding_default_hint">Prilagajanje podnapisov…</string>

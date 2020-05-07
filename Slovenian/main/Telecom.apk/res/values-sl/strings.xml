@@ -115,11 +115,11 @@
     <string name="bluetooth_disconnected">Prekinjena povezava</string>
     <string name="bluetooth_disconnecting">Prekinjanje povezave…</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na DUN strežnik</string>
-  <string name="bluetooth_dun_profile_summary_use_for">Uporabi se za dial-up dostop do omrežja</string>
+  <string name="bluetooth_dun_profile_summary_use_for">Uporabi za dial-up dostop do omrežja</string>
+  <string name="bluetooth_headset_profile_summary_use_for">Uporabi za zvok telefona</string>
   <string name="bluetooth_enable_inband_ringing">Omogoči zvonenje znotraj pasovne širine</string>
   <string name="bluetooth_enable_inband_ringing_summary">Omogoči predvajanje zvonenja telefona preko Bluetooth slušalk</string>
-    <string name="bluetooth_headset_profile_summary_connected">Povezava s profilom za zvok telefona vzpostavljena</string>
-    <string name="bluetooth_headset_profile_summary_use_for">Uporabi za zvok telefona</string>
+  <string name="bluetooth_headset_profile_summary_connected">Povezano z telefonskim zvokom</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Povezava s slušnimi pripomočki je vzpostavljena</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Uporabi za slušne pripomočke</string>
     <string name="bluetooth_hearingaid_left_battery_level">Levi – akumulator na %1$s</string>
@@ -133,7 +133,7 @@
     <string name="bluetooth_opp_profile_summary_connected">Povezava s strežnikom za prenos datotek je vzpostavljena</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Povezava s strežnikom za prenos datotek ni vzpostavljena</string>
     <string name="bluetooth_opp_profile_summary_use_for">Uporabi za prenos datotek</string>
-    <string name="bluetooth_pairing">Seznanjanje ...</string>
+    <string name="bluetooth_pairing">Seznanjanje…</string>
     <string name="bluetooth_pairing_accept">Seznani</string>
     <string name="bluetooth_pairing_accept_all_caps">SEZNANI</string>
     <string name="bluetooth_pairing_decline">Prekliči</string>
@@ -296,7 +296,7 @@ Avdio"</string>
     <string name="expand_button_title">Dodatno</string>
     <string name="external_source_trusted">Dovoljene</string>
     <string name="external_source_untrusted">Ni dovoljeno</string>
-    <string name="failed_to_open_app_settings_toast">Ni mogoče odpreti nastavitev za %1$s</string>
+    <string name="failed_to_open_app_settings_toast">Ne morem odpreti nastavitev za %1$s</string>
     <string name="force_allow_on_external">Vsili omogočanje aplikacij v zunanji shrambi</string>
     <string name="force_allow_on_external_summary">Poskrbi, da je ne glede na vrednosti v manifestu mogoče vsako aplikacijo zapisati v zunanjo shrambo</string>
     <string name="force_hw_ui">Vsili upodabljanje z GPE</string>
@@ -639,7 +639,7 @@ Avdio"</string>
     <string name="wifi_disconnected">Ni povezave</string>
     <string name="wifi_display_certification">Potrdilo brezžičnega zaslona</string>
     <string name="wifi_display_certification_summary">Pokaži možnosti za potrdilo brezžičnega zaslona</string>
-    <string name="wifi_fail_to_scan">Ni mogoče iskati omrežij</string>
+    <string name="wifi_fail_to_scan">Ne morem iskati omrežij</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>
     <string name="wifi_limited_connection">Omejena povezava</string>
     <string name="wifi_metered_label">Omejen prenos podatkov</string>

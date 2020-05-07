@@ -1193,7 +1193,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="inactive_app_active_summary">Aktivno. Pritisnite za spremembo.</string>
   <string name="inactive_app_inactive_summary">Ni aktivno. Pritisnite za spremembo.</string>
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
-  <string name="incall_error_call_failed">"Ni mogoče izvesti klica"</string>
+  <string name="incall_error_call_failed">"Ne morem izvesti klica"</string>
   <string name="incall_error_cannot_add_call">"Klic trenutno ni mogoč."</string>
   <string name="incall_error_ecm_emergency_only">Izključite način nujnih klicev da lahko kličete normalno.</string>
   <string name="incall_error_emergency_only">Ni registrirano v omrežju.</string>
@@ -1580,7 +1580,7 @@ Zmeraj uporabi to številko"</string>
   <string name="msim_pref_title_voice">Klicanje</string>
   <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">Napaka ICC kartice</string>
-  <string name="msim_set_sub_not_supported_phone_in_call">Ni mogoče nastaviti med klicem</string>
+  <string name="msim_set_sub_not_supported_phone_in_call">Ne morem nastaviti med klicem</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Napaka SIM kartice</string>
   <string name="msim_setting_categery_title">Nastavitve SIM kartice</string>
   <string name="msim_setting_default_data">Podatkovna kartica</string>
