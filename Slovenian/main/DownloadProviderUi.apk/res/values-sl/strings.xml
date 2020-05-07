@@ -337,7 +337,7 @@
   <string name="search_favorite_empty">Dodajte nekatere vire v priljubljene</string>
   <string name="search_favorite_title">Priljubljeni</string>
   <string name="search_history">Preišči zgodovino</string>
-  <string name="search_history_empty">Ni predmetov</string>
+  <string name="search_history_empty">Ni stvari</string>
   <string name="search_history_month">dd.MM</string>
   <string name="search_history_title">Zgodovina</string>
   <string name="search_history_today">Danes</string>
@@ -358,7 +358,7 @@
   <string name="search_menu_title">Išči</string>
   <string name="search_nonetwork_prompt">Preverite povezavo in poskusite ponovno</string>
   <string name="search_nonetwork_refresh">Osveži</string>
-  <string name="search_recommend_empty">Ni predmetov</string>
+  <string name="search_recommend_empty">Ni stvari</string>
   <string name="search_vif_empty">Ni priporočenih stvari</string>
   <string name="search_vif_score_text">Ocena: %1$s</string>
   <string name="search_website">Viri spletnih strani</string>

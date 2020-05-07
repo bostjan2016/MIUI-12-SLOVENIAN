@@ -12,7 +12,7 @@
   <string name="account_updating_device">Posodabljanje...</string>
   <string name="account_updating_device_failed">Ne morem se prijaviti</string>
   <string name="account_verify_password">Uporabljate to storitev na drugi napravi. Za varnost boste morali potrditi vaš Mi račun na tej napravi.</string>
-  <string name="account_yellowpage_favorite">Priljubljene</string>
+  <string name="account_yellowpage_favorite">Priljubljeno</string>
   <string name="account_yellowpage_followed">Preverjeni računi</string>
   <string name="account_yellowpage_recent">Pokaži zgodovino</string>
   <string name="add_to_desktop">Dodaj na zač. zaslon</string>
@@ -199,7 +199,7 @@
   <string name="express_send">Pošlji</string>
   <string name="express_send_mms">Pošlji</string>
   <string name="express_send_mms_format">Paket dostavil %1$s | Številka za sledenje %2$s.</string>
-  <string name="express_send_notice">O prepovedanih predmetih</string>
+  <string name="express_send_notice">O prepovedanih stvarih</string>
   <string name="express_sender_info">Podatki o pošiljatelju</string>
   <string name="express_sender_name">Ime pošiljatelja</string>
   <string name="express_sender_region">"Regija pošiljatelja"</string>
@@ -225,7 +225,7 @@
   <string name="general_cancel_followed_ok">Ne spremlja se</string>
   <string name="general_delete_recent_ok">Nedavno izbrisano</string>
   <string name="general_favorite_ok">Dodano v priljubljene</string>
-  <string name="general_favorite_title">Priljubljene</string>
+  <string name="general_favorite_title">Priljubljeno</string>
   <string name="general_follow_hint">Sledi %1$s za prejemanje ustreznih posodobitev</string>
   <string name="general_follow_hint_title">Nasvet</string>
   <string name="general_menu_delete_recent">Nedavno izbrisano</string>

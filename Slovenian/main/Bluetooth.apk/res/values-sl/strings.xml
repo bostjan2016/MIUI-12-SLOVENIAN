@@ -188,7 +188,7 @@
   <string name="switch_audio_device_phone">Ta naprava</string>
   <string name="switch_audio_notification_content">Trenutna avdio izhodna naprava:</string>
   <string name="switch_audio_notification_title">Povezovanje naprave</string>
-  <string name="transfer_clear_dlg_msg">Iz seznama bodo izbrisani vsi predmeti.</string>
+  <string name="transfer_clear_dlg_msg">Iz seznama bodo izbrisani vsi stvari.</string>
   <string name="transfer_clear_dlg_title">Izbriši</string>
   <string name="transfer_menu_clear">Izbriši s seznama</string>
   <string name="transfer_menu_clear_all">Izbriši seznam</string>

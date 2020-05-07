@@ -171,7 +171,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="de_component_tags">Oznake</string>
   <string name="de_font_exchange_success">Uspešno kupljeno</string>
   <string name="de_icon_text_comment">Komentiraj</string>
-  <string name="de_icon_text_favorite">Dodaj u priljubljeno</string>
+  <string name="de_icon_text_favorite">Dodaj v priljubljeno</string>
   <string name="de_icon_text_like">Všeč mi je</string>
   <string name="de_icon_text_share">Deli</string>
   <string name="de_mix">Izdelaj</string>
@@ -265,7 +265,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="extreme_mode_dialog_ok">Razumem</string>
   <string name="extreme_mode_dialog_title">Opozorilo</string>
   <string name="fail_to_add_account">"Ne morem dodati računa"</string>
-  <string name="favorite_list">Priljubljene</string>
+  <string name="favorite_list">Priljubljeno</string>
   <string name="favorite_list_format">Priljubljeno %1$s</string>
   <string name="find_more_font">Najdi več</string>
   <string name="find_more_theme">Najdi več</string>
@@ -342,7 +342,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="home_apply_failured">"Ne morem nastaviti ozadje zač. zaslona"</string>
   <string name="home_apply_success">Ozadje zač. zaslona nastavljeno</string>
   <string name="icon_content_description">Ikona dialoga</string>
-  <string name="in_the_end">Ni več predmetov za prikaz</string>
+  <string name="in_the_end">Ni več stvari za prikaz</string>
   <string name="incall_show_apply">Profilni videoposetek za odhodne klice</string>
   <string name="incall_show_apply_fail">"Ne morem nastaviti"</string>
   <string name="incall_show_apply_success">"Uspešno nastavljeno. Da boste to storitev izključili,
@@ -654,8 +654,8 @@ Tapnite, da se boste prijavili."</string>
   <string name="resource_default">Privzeta melodija zvonjenja</string>
   <string name="resource_default_name">Viri</string>
   <string name="resource_delete">Izbriši</string>
-  <string name="resource_delete_all">Izbrišem %1$d izbranih predmetov?</string>
-  <string name="resource_delete_confirm">Izbrišem te predmete?</string>
+  <string name="resource_delete_all">Izbrišem %1$d izbranih stvari?</string>
+  <string name="resource_delete_confirm">Izbrišem te stvare?</string>
   <string name="resource_delta_update_failed">Posodobitev ni uspela: spet prenašam temo...</string>
   <string name="resource_delta_update_successful">Posodobitev je uspela</string>
   <string name="resource_delta_update_total">%1$d delta posodobitev shranjena %2$s</string>

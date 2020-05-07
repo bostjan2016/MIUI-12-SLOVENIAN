@@ -86,9 +86,9 @@
         <item quantity="few">pred %1$d minutami</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">"Izbran %1$d predmetov"</item>
-        <item quantity="one">Izbran %1$d predmet</item>
-        <item quantity="few">"Izbrani %1$d predmeti"</item>
+        <item quantity="other">"Izbran %1$d stvari"</item>
+        <item quantity="one">Izbran %1$d stvar</item>
+        <item quantity="few">"Izbrani %1$d stvari"</item>
     </plurals>
     <plurals name="whatsapp_delete_files">
         <item quantity="other">Izbrišem %1$d datotek?</item>

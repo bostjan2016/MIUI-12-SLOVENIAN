@@ -90,7 +90,7 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="hint_input_message">Sporočilo</string>
   <string name="hint_input_phone">Vnesite številko telefona</string>
   <string name="hint_input_sms">Vnesite sporočilo</string>
-  <string name="hint_input_subject">Predmet</string>
+  <string name="hint_input_subject">Stvar</string>
   <string name="hint_input_web_label">Ime spletne strani</string>
   <string name="hint_input_web_url">URL</string>
   <string name="hint_wifi_password">Vnesite geslo WiFi-ja</string>

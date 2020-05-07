@@ -81,7 +81,7 @@
   <string name="error_no_connection">"Ne morem se povezati na omrežje"</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s težava \"%2$s\"</string>
   <string name="feedback_choose_app_tag">Izberi problem</string>
-  <string name="feedback_choose_module">Izberi predmet</string>
+  <string name="feedback_choose_module">Izberi stvar</string>
   <string name="feedback_choose_module_hint">Potrebno</string>
   <string name="feedback_choose_reproductivity">Reproduktivnost</string>
   <string name="feedback_choose_third_app_name">Izberite ime aplikacije</string>

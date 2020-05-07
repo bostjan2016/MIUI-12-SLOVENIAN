@@ -199,8 +199,8 @@ in za trenutek zapustite pregled"</string>
   <string name="clear_effects">Počisti efekte</string>
   <string name="clone_do_not_move_phone">"Ne premikajte naprave"</string>
   <string name="clone_guide_tip1">Kloniranje deluje samo z osebami.</string>
-  <string name="clone_guide_tip3">Izogibajte se premikanjočim predmetom predmetov in monotonim ozadjem.</string>
-  <string name="clone_guide_tip4">Naprava naj bo pri miru in poskrbite da je predmet dovolj osvetljen.</string>
+  <string name="clone_guide_tip3">Izogibajte se premikanjočim stvarom stvari in monotonim ozadjem.</string>
+  <string name="clone_guide_tip4">Naprava naj bo pri miru in poskrbite da je stvar dovolj osvetljen.</string>
   <string name="clone_guide_tip5">Eksperimentirajte z pozami.</string>
   <string name="clone_guide_tip6">Naj se kloni borijo.</string>
   <string name="clone_guide_tip7">Posnemite interakcijo.</string>
@@ -212,7 +212,7 @@ in za trenutek zapustite pregled"</string>
   <string name="clone_guide_video_title2">Kloniranje v videoposnetkih</string>
   <string name="clone_landscape_hint">Kloniranje deluje samo v ležečem načinu dela</string>
   <string name="clone_mode_start_hint">Tapnite sprožilec za začetek</string>
-  <string name="clone_no_person_found">"Ne najdem vašega predmeta"</string>
+  <string name="clone_no_person_found">"Ne najdem vašega stvara"</string>
   <string name="clone_offset_is_too_large">Preveč premikov. Poskusite znova.</string>
   <string name="clone_photo_mode">Fotografija</string>
   <string name="clone_put_phone_back_in_place">Vrnite napravo v izvirni položaj</string>
@@ -307,7 +307,7 @@ in za trenutek zapustite pregled"</string>
   <string name="deleted">Izbrisano</string>
   <string name="description">Opis</string>
   <string name="details">Obrezana slika shranjena v</string>
-  <string name="details_title">%1$d od %2$d predmetov:</string>
+  <string name="details_title">%1$d od %2$d stvari:</string>
   <string name="device_48m_watermark_default_text">48MP DVOJNA KAMERA</string>
   <string name="device_watermark_default_text">AI DVOJNA KAMERA</string>
   <string name="dialog_google_lens_option_0">Google Leće (priporočeno)</string>
@@ -543,8 +543,8 @@ Natisnite kopijo brezžično na papir A4."</string>
   <string name="lpl_dialog_title">Izberite opravilo za sprožilec</string>
   <string name="lying_direct_hint">Trenutna orientacija</string>
   <string name="macro_mode">Macro</string>
-  <string name="macro_mode_tip">"Oddaljenost med objektivom in predmetom ne sme presegati 10 cm"</string>
-  <string name="macro_mode_use_hint_text_body">"Uporabite Macro način da bodo majhni predmeti
+  <string name="macro_mode_tip">"Oddaljenost med objektivom in stvarom ne sme presegati 10 cm"</string>
+  <string name="macro_mode_use_hint_text_body">"Uporabite Macro način da bodo majhni stvari
 zgledali večji na fotografijah"</string>
   <string name="macro_mode_use_hint_text_title">Macro</string>
   <string name="maker">Avtor</string>
@@ -679,7 +679,7 @@ zgledali večji na fotografijah"</string>
   <string name="no_thumbnail">Ni miniatur</string>
   <string name="not_enough_space">Notranji pomnilnik je poln</string>
   <string name="not_selectable_in_scene_mode">Ne morem izbrati v načinu Scene</string>
-  <string name="object_track_enable_toast">Tapnite na obeh koncih predmeta z dvema prstoma če ga hočete izbrati.</string>
+  <string name="object_track_enable_toast">Tapnite na obeh koncih stvara z dvema prstoma če ga hočete izbrati.</string>
   <string name="ok">V redu</string>
   <string name="only_mimoji_multi_window_mode_not_supported">"Ta storitev se ne more uporabiti v načinu dela z več okni"</string>
   <string name="orientation">Orientacija</string>
@@ -727,7 +727,7 @@ pritisnite sprožilec"</string>
   <string name="parameter_lens_w">WIDE (široki kot)</string>
   <string name="parameter_log_format_description">Ta format beleži videoposnetek z logaritemsko funkcijo uporabljeno na krivulji ekspozicije da se zabeleži več podrobnosti v svetlobi in sencah.</string>
   <string name="parameter_log_format_title">LOG format</string>
-  <string name="parameter_metering_description">Povprečno merjenje se ozira na vsa področja vaše slike, s ciljem enakomerno osvetljenih prizorov. Merjenje v sredinskem območju se osredotoča večinoma na sredinski del okvira in upošteva svetlost okolice, ki je primerna za zajem predmetov v središču okvirja. Točkovno merjenje pokriva območje samo na enem mestu, kar vam omogoča natančen nadzor izpostavljenosti.</string>
+  <string name="parameter_metering_description">Povprečno merjenje se ozira na vsa področja vaše slike, s ciljem enakomerno osvetljenih prizorov. Merjenje v sredinskem območju se osredotoča večinoma na sredinski del okvira in upošteva svetlost okolice, ki je primerna za zajem stvari v središču okvirja. Točkovno merjenje pokriva območje samo na enem mestu, kar vam omogoča natančen nadzor izpostavljenosti.</string>
   <string name="parameter_metering_title">Načini Merjenja</string>
   <string name="parameter_peak_focus_description">"Ko ročno izostrite, uporabite žarišče, če želite rdeče poudariti območje ostrenja."</string>
   <string name="parameter_peak_focus_title">Vrh fokusa</string>
@@ -765,7 +765,7 @@ pritisnite sprožilec"</string>
   <string name="portrait_bokeh_first_tips">"Uporabite Portretni način da zameglite ozadje slike
 na svojih fotografijah"</string>
   <string name="portrait_bokeh_text">Portretni način</string>
-  <string name="portrait_bokeh_tips">Postavite predmet znotraj 1.5 m</string>
+  <string name="portrait_bokeh_tips">Postavite stvar znotraj 1.5 m</string>
   <string name="portrait_india_effect_entry_memory">Spomin</string>
   <string name="portrait_india_effect_entry_mono">Mono</string>
   <string name="portrait_india_effect_entry_pink">Pink</string>
@@ -780,7 +780,7 @@ na svojih fotografijah"</string>
   <string name="portrait_mode_depth_effect_success_hint">Efekt globine</string>
   <string name="portrait_mode_lowlight_hint">"Zdaj je preveč mračno"</string>
   <string name="portrait_mode_too_close_hint">Oddaljite se več od objekta</string>
-  <string name="portrait_mode_too_far_hint">Postavite predmet znotraj 2 m</string>
+  <string name="portrait_mode_too_far_hint">Postavite stvar znotraj 2 m</string>
   <string name="portrait_mode_use_hint">"Portretni način vam pomaga zamegliti ozadje</string>
   <string name="portrait_mode_use_hint_for_bokeh">"Poskusite portretni način.
 Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
@@ -808,7 +808,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_asd_night_title">Samod. izboljšanje pri nočnem slikanju</string>
   <string name="pref_camera_asd_popup_title">Opozori če je potrebna bliskavica</string>
   <string name="pref_camera_audio_capture_title">Avdio</string>
-  <string name="pref_camera_auto_capture_when_stable_summary">Za izbiro objekta se dotaknite dveh diagonalnih točk okoli njegovih meja. Ko bo predmet miroval se bo posnetek posnel samodejno.</string>
+  <string name="pref_camera_auto_capture_when_stable_summary">Za izbiro objekta se dotaknite dveh diagonalnih točk okoli njegovih meja. Ko bo stvar miroval se bo posnetek posnel samodejno.</string>
   <string name="pref_camera_auto_capture_when_stable_title">Samodejno zajemanje ko je stabilno</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma bliskavica</string>
   <string name="pref_camera_auto_focus_title_entry_off">Izklj.</string>
@@ -1266,7 +1266,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="see_qrcode_detals">Pokaži podrobnosti QR kode</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_image">Izberi fotografijo</string>
-  <string name="select_item">Izberi predmet</string>
+  <string name="select_item">Izberi stvar</string>
   <string name="select_video">Izberi videoposnetek</string>
   <string name="send">Pošlji</string>
   <string name="send_multiple_files_hint_format">Pošlji več datotek (%s)</string>
@@ -1352,7 +1352,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="toast_saving">Shranjevanje fotografij…</string>
   <string name="toast_start_audio_capture">Ko se sproži zaklep predvajaj zvok </string>
   <string name="ubi_focus_capture_fail">"Slike ni bilo mogoče zajeti"</string>
-  <string name="ubifocus_capture_warning_message">Za najboljše rezultate bi morala vaša slika vsebovati predmete tako v bližini (manj kot 1 meter od leč) kot tudi daleč</string>
+  <string name="ubifocus_capture_warning_message">Za najboljše rezultate bi morala vaša slika vsebovati stvare tako v bližini (manj kot 1 meter od leč) kot tudi daleč</string>
   <string name="ultra_pixel_108mp">108MP</string>
   <string name="ultra_pixel_32mp">32MP</string>
   <string name="ultra_pixel_48mp">48MP</string>

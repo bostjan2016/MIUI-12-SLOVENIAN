@@ -1066,7 +1066,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_usb">USB shramba</string>
   <string name="storytelling">Zgodbe</string>
-  <string name="subscribe_empty_hint">Tu se prikažejo predmeti, ki jih dodate med priljubljene.</string>
+  <string name="subscribe_empty_hint">Tu se prikažejo stvari, ki jih dodate med priljubljene.</string>
   <string name="subscribe_success_location">"Stvar, ki ste jo pravkar dodali, si lahko ogledate v \"Priljubljeno\"."</string>
   <string name="swipe_to_load_head_complete_fail">"Osveževanje ni bilo mogoče. Poskusi ponovno."</string>
   <string name="tab_album">Albumi</string>

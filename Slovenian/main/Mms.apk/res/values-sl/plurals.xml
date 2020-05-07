@@ -74,7 +74,7 @@
     </plurals>
 	 <plurals name="custom_select_title_items_selected">
          <item quantity="other">Izbrano %d</item>
-         <item quantity="zero">Izberi predmete</item>
+         <item quantity="zero">Izberi stvare</item>
 	 <item quantity="one">Izbrano %d</item>
      </plurals>
 	      <plurals name="notification_multiple">

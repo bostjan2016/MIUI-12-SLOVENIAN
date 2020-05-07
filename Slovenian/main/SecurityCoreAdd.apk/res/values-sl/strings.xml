@@ -354,7 +354,7 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="scanner_second_space_fingerprint">Skeniraj prstni odtis za Drugi prostor</string>
   <string name="sdcardfs_dialog_message">MIUI 9 ima nov datotečni sistem. Stari podatki mogoče ne bodo kompatibilni z njim. Za rešitev te težave sledite korakom za namestitev posodobitve. Vaša naprava se bo dvakrat ponovno zagnala v toku te posodobitve.</string>
   <string name="sdcardfs_dialog_title">Pomembna posodobitev</string>
-  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 ima nov datotečni sistem. Stari podatki mogoče ne bodo kompatibilni z njim. Za posodobitev prestavite predmete iz Drugega prostora, ponovno zaženite napravo in ponovno ustvarite Drugi prostor.\nČe ne posodobite, dvojne aplikacije mogoče ne bodo delovala pravilno."</string>
+  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 ima nov datotečni sistem. Stari podatki mogoče ne bodo kompatibilni z njim. Za posodobitev prestavite stvare iz Drugega prostora, ponovno zaženite napravo in ponovno ustvarite Drugi prostor.\nČe ne posodobite, dvojne aplikacije mogoče ne bodo delovala pravilno."</string>
   <string name="sdcradfs_dialog_in_owner_title">Drugi prostor</string>
   <string name="sdcradfs_dialog_in_sec_message">"Za posodobitev morate izbrisati Drugi prostor in ga ponovno ustvariti. Premestite podatke iz Drugega prostora v Prvi prostor in ponovo zaženite napravo da dokončate posodobitev.\nČe ne posodobite, dvojne aplikacije mogoče ne bodo delovala pravilno."</string>
   <string name="sdcradfs_dialog_in_sec_title">Pomembna posodobitev</string>

@@ -5,8 +5,8 @@
         <item quantity="one">Hitro zaporedno snemanje končano, posneta %1$s fotografija</item>
     </plurals>
      <plurals name="delete_selection">
-        <item quantity="other">Izbrišem izbrane predmete?</item>
-        <item quantity="one">Izbrišem izbrani predmet?</item>
+        <item quantity="other">Izbrišem izbrane stvare?</item>
+        <item quantity="one">Izbrišem izbrani stvar?</item>
     </plurals>
 	<plurals name="accessibility_focus_face_detect">
         <item quantity="other">Fokusirano. Najdeno %d obrazov</item>

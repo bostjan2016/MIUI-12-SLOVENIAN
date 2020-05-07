@@ -5,12 +5,12 @@
          <item quantity="one">%d je izključena</item>
     </plurals>
     <plurals name="items_unsynced">
-         <item quantity="other">Predmeti ki čakajo na sinhr.: %d</item>
-         <item quantity="one">Predmet ki čaka na sinhr.: %d</item>
+         <item quantity="other">Stvari ki čakajo na sinhr.: %d</item>
+         <item quantity="one">Stvar ki čaka na sinhr.: %d</item>
     </plurals>
     <plurals name="items_waiting_to_sync">
-         <item quantity="other">%d predmeti čakaju na sinhr.</item>
-         <item quantity="one">%d predmet čaka na sinhr.</item>
+         <item quantity="other">%d stvari čakaju na sinhr.</item>
+         <item quantity="one">%d stvar čaka na sinhr.</item>
      </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">Stiki: %d</item>

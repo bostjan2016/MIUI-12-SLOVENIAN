@@ -12,7 +12,7 @@
   <string name="attach_image">Slike</string>
   <string name="attach_slideshow">Diaprojekcija</string>
   <string name="attach_sound">Zvok</string>
-  <string name="attach_subject">Predmet</string>
+  <string name="attach_subject">Stvar</string>
   <string name="attach_take_photo">Posnemi fotografijo</string>
   <string name="attach_video">Video</string>
   <string name="back_to_message_list">Nazaj na spisek sporočil</string>
@@ -133,7 +133,7 @@
   <string name="no">Prekliči</string>
   <string name="no_block_button_msg">"Ne blokiraj sporočil s te številke"</string>
   <string name="no_conversations">Ni razgovorov</string>
-  <string name="no_subject_view">(Ni predmetov)</string>
+  <string name="no_subject_view">(Ni stvari)</string>
   <string name="non_english_subject_limit">Največ 13 znakov</string>
   <string name="nosend_message">"Ne pošlji"</string>
   <string name="number_add_hint">Vnesite številko za dodajanje</string>
@@ -217,7 +217,7 @@
   <string name="stick">Označi</string>
   <string name="stick_conversation">Označi trenutni razgovor</string>
   <string name="sticked_conversation">Razgovor je že označen</string>
-  <string name="subject_hint">Predmet</string>
+  <string name="subject_hint">Stvar</string>
   <string name="timed_message_expired_title_2">Pošljem zdaj?</string>
   <string name="title_collapse_sp_messages">Skupinska obvestila</string>
   <string name="title_date_type">Oznaka časa sporočila</string>
