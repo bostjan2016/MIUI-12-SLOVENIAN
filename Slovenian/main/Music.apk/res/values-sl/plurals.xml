@@ -17,7 +17,7 @@
         <item quantity="one">pred %d dan</item>
     </plurals>
 	<plurals name="dialog_confirm_delete_downloads_message">
-         <item quantity="other">Izbrišem stvare: %d?</item>
+         <item quantity="other">Izbrišem stvari: %d?</item>
          <item quantity="one">Izbrišem %d stvar?</item>
      </plurals>
      <plurals name="download_info_count_deleted_tasks">

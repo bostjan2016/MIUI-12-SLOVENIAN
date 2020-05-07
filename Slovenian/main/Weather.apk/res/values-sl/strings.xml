@@ -281,7 +281,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="permission_privacy">Pravila o zasebnosti (obvezno)</string>
   <string name="permission_select_all">Izberi vse</string>
   <string name="permission_storage">Shramba</string>
-  <string name="permission_storage_introduce">Za dostop stvarem v napravi in shranjevanju datotek</string>
+  <string name="permission_storage_introduce">Za dostop do stvari v napravi in shranjevanju datotek</string>
   <string name="permission_user_protocol">Pogoji uporabe (obvezno)</string>
   <string name="policy_settings">Pogoji in pravila</string>
   <string name="precipitation_degree_five">nevihta</string>

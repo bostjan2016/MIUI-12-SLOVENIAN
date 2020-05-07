@@ -698,7 +698,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="audio_record_proc_title">Zmanjšanje zunanjih zvokov</string>
   <string name="auto_backup">Načrtuj varnostno kopiranje</string>
   <string name="auto_backup_all_user_apps">Vse aplikacije</string>
-  <string name="auto_backup_choose">Varnostno kopiraj stvare</string>
+  <string name="auto_backup_choose">Varnostno kopiraj stvari</string>
   <string name="auto_backup_choose_empty">Ni varnostnih kopij.</string>
   <string name="auto_backup_choose_title">Izberite datoteke ki jih želite varnostno kopirati.</string>
   <string name="auto_backup_date">Dni</string>
@@ -1768,7 +1768,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="clear_adb_keys">Preklic dovoljenj za odpr. težav prek USB</string>
   <string name="clear_all_data">Izbriši vse podatke</string>
   <string name="clear_cache_btn_text">Počisti predpomnilnik</string>
-  <string name="clear_data_alert_info">Vse var. kopije, shranjene v tej napravi, bodo trajno izbrisane. Pred nadaljevanjem kopirajte pomembne stvare v računalnik in Mi Cloud.</string>
+  <string name="clear_data_alert_info">Vse var. kopije, shranjene v tej napravi, bodo trajno izbrisane. Pred nadaljevanjem kopirajte pomembne stvari v računalnik in Mi Cloud.</string>
   <string name="clear_data_dlg_text">Vsi podatki te aplikacije bodo trajno izbrisani. To med drugim vključuje vse datoteke, nastavitve, račune in podatkovne zbirke.</string>
   <string name="clear_data_dlg_title">Želite izbrisati podatke aplikacije?</string>
   <string name="clear_data_failed">Podatkov aplikacije ni bilo mogoče izbrisati.</string>
@@ -2139,7 +2139,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="dangerous_option">Razvojne opcije visokega tveganja</string>
   <string name="dangerous_option_hint">\"%1$s\" so omogočene. Tapnite za spremembo nastavitev.</string>
   <string name="dangerous_option_hint_title">Razvojne opcije visokega tveganja omogočene</string>
-  <string name="dangerous_option_switch_title">Obvesti o visokokritičnih stvareh</string>
+  <string name="dangerous_option_switch_title">Obvesti o visokokritičnih stvarih</string>
   <string name="dark_color_mode">Temni način</string>
   <string name="dark_color_summary">Uporabite temno paleto barv za ozadja sistema in kompatibilne aplikacije</string>
   <string name="dark_color_summary_lcd">"Uporabite temno paleto barv za ozadja sistema in kompatibilne aplikacije. Temni način zmanjšuje obremenitev oči pri uporabi naprave v mraku."</string>
@@ -3081,8 +3081,8 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="face_data_manage_unlock_title">Odkleni z obrazom</string>
   <string name="face_data_siggesstion_next">Naprej</string>
   <string name="face_data_siggesstion_next_time">Naprej (%ds)</string>
-  <string name="face_data_suggesstion_first">Varnostni problemi: Odklepanje obraza je manj varno kot PIN, geslo ali vzorec. Vaša naprava bo morda odklenjena s vašo fotografijo, pa tudi z osebami ali stvari podobnega videza.</string>
-  <string name="face_data_suggesstion_second">"Prepričajte se, da vsi deli obraza niso pokriti s stvari in so dobro vidni. In vaš obraz naj bo dobro osvetljen.."</string>
+  <string name="face_data_suggesstion_first">Varnostni problemi: Odklepanje obraza je manj varno kot PIN, geslo ali vzorec. Vaša naprava bo morda odklenjena s vašo fotografijo, pa tudi z osebami ali predmeti podobnega videza.</string>
+  <string name="face_data_suggesstion_second">"Prepričajte se, da vsi deli obraza niso pokriti z predmeti in so dobro vidni. In vaš obraz naj bo dobro osvetljen.."</string>
     <string name="face_intro_error_max">Dodali ste največje dovoljeno število obrazov</string>
     <string name="face_intro_error_unknown">Obrazov ni več mogoče dodati</string>
     <string name="face_lock_screen_setup_skip_dialog_text">Telefon zaščitite z možnostjo zaklepanja zaslona, tako da ga ne bo mogel uporabljati nihče drug, če ga izgubite ali vam ga ukradejo. Zaklepanje zaslona potrebujete tudi za nastavitev preverjanja pristnosti z obrazom. Dotaknite se »Prekliči«, nato pa nastavite kodo PIN, vzorec ali geslo.</string>
@@ -3742,7 +3742,7 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="input_method_manage">Urejaj tipkovnico</string>
   <string name="input_method_quick_access">Hitri dostop</string>
   <string name="input_method_quick_cloud_mode_title">Obvesti o novi vsebini medpomnilnika</string>
-  <string name="input_method_quick_cloud_summary">Kopirajte stvare na kompatibilnih računalnikih in jih prilepite v svojo napravo</string>
+  <string name="input_method_quick_cloud_summary">Kopirajte stvari na kompatibilnih računalnikih in jih prilepite v svojo napravo</string>
   <string name="input_method_quick_cloud_title">Medpomnilnik Clouda</string>
   <string name="input_method_quick_paste_summary">Preglejte kopirane stvari z dotikom ikone medpomnilnika</string>
   <string name="input_method_quick_paste_title">Hitro prilepi</string>
@@ -8055,7 +8055,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="structure_face_data_ir_input_face">Počasi premaknite glavo</string>
   <string name="structure_face_data_manage_delete_msg">Izbriši 3D obraz</string>
   <string name="structure_face_data_suggestion_text">"Prepričajte se, da so vsi deli obraza jasno vidni. Med fotografiranjem 3D-obrazov ne nosite klobukov, sončnih očal ali drugih dodatkov, ki bi lahko pokrivali vaš obraz. Poskrbite, da bo obraz enakomerno osvetljen.."</string>
-  <string name="structure_face_data_suggestion_warning_text">Opomba: Uporaba 3D obrazov je nekoliko varnejša kot uporaba gesla. Ljudje ali stvari, ki so zelo podobni vam, bi lahko odklenili vašo napravo.</string>
+  <string name="structure_face_data_suggestion_warning_text">Opomba: Uporaba 3D obrazov je nekoliko varnejša kot uporaba gesla. Ljudje ali predmeti, ki so zelo podobni vam, bi lahko odklenili vašo napravo.</string>
   <string name="structure_face_delete_data_dialog_msg">"Ne morem zagnati kamero in pregledati. Poskusite ponovno."</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Poskusite ponovno</string>
   <string name="structure_face_delete_data_dialog_title">"Ne morem zagnati kamero"</string>
@@ -8076,8 +8076,8 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="structure_face_unlock_model_other">Ostalo</string>
   <string name="structure_face_unlock_model_other_msg_2d">2D prepoznavanje</string>
   <string name="structure_face_unlock_model_other_msg_3d">3D prepoznavanje</string>
-  <string name="structure_face_unlock_model_other_suggestion_2d">2D prepoznavanje obrazov je manj varno kot vzorec, PIN ali geslo. Ko je ta funkcija vklopljena, lahko vašo napravo odklene vaša fotografija, pa tudi ljudje ali stvari, ki so podobni vam.</string>
-  <string name="structure_face_unlock_model_other_suggestion_3d">"3D prepoznavanje obrazov je razmeroma varno. Zelo malo verjetno je, da bo vaša naprava ob vklopu te funkcije odklenjena z vašo fotografijo. Vendar bi lahko ljudje ali stvari, ki so zelo podobni vam, odklenili napravo."</string>
+  <string name="structure_face_unlock_model_other_suggestion_2d">2D prepoznavanje obrazov je manj varno kot vzorec, PIN ali geslo. Ko je ta funkcija vklopljena, lahko vašo napravo odklene vaša fotografija, pa tudi ljudje ali predmeti, ki so podobni vam.</string>
+  <string name="structure_face_unlock_model_other_suggestion_3d">"3D prepoznavanje obrazov je razmeroma varno. Zelo malo verjetno je, da bo vaša naprava ob vklopu te funkcije odklenjena z vašo fotografijo. Vendar bi lahko ljudje ali predmeti, ki so zelo podobni vam, odklenili napravo."</string>
   <string name="structure_face_unlock_model_other_title">Prepoznavanje obraza</string>
   <string name="structure_face_unlock_not_same_person">"Vse korake morate končati sami. Ne menjajte mesta z nikomer."</string>
   <string name="structure_face_unlock_tof_covered">"Ne morem dodati obraz. Odmaknite se dlje od zaslona."</string>
@@ -9012,7 +9012,7 @@ Prenos smo važnih stvari bo hitrejši."</string>
   <string name="usb_title">USB</string>
   <string name="usb_trans_native_no_space">"Samo %s je na voljo.
 Osvobodite prostor ali napravite več manjših prenosov."</string>
-  <string name="usb_trans_old_phone_low_space_msg">"Za shranjevanje var. kopij je potreben dodatan prostor. Za nadaljevanje ni dovolj prostora. Oslobodite prostor in izbrišite nepotrebne datoteke v aplikaciji Varnost ali prenesite samo važne stvari."</string>
+  <string name="usb_trans_old_phone_low_space_msg">"Za shranjevanje var. kopij je potreben dodaten prostor. Za nadaljevanje ni dovolj prostora. Osvobodite prostor in izbrišite nepotrebne datoteke v aplikaciji Varnost ali prenesite samo važne stvari."</string>
   <string name="usb_trans_old_phone_low_space_title">Nema dovolj prostora</string>
   <string name="usb_trans_select_data_no_space">"Samo %s je na voljo v vaši USB napravi.
 Osvobodite prostor ali prenesite samo važne stvari."</string>

@@ -262,7 +262,7 @@ Tapnite + da napravite mapo"</string>
   <string name="new_audio_create_cancel_talkback_des">Odpovedano</string>
   <string name="new_audio_create_done_talkback_des">Napravljeno</string>
   <string name="new_audio_create_guide_tip">Pritisnite in držite za ustvarjanje zvočne beležke</string>
-  <string name="new_audio_create_talkback_des">Pritisnite za ustvaranje tekstne beležke. Pritisnite in držite za ustvarjanje zvočne beležke. Spustite tipko da ustavite snemanje in napravite beležko ali podrajte gor da prekličete.</string>
+  <string name="new_audio_create_talkback_des">Pritisnite za ustvarinje tekstne beležke. Pritisnite in držite za ustvarjanje zvočne beležke. Spustite tipko da ustavite snemanje in napravite beležko ali podrajte gor da prekličete.</string>
   <string name="night">PM</string>
   <string name="noon">PM</string>
   <string name="not_now">Ne zdaj</string>

@@ -122,7 +122,7 @@ Mi Health podpira naprave, ki ste jih predhodno dodali v aplikacijo Mi Home. Če
   <string name="delete_all_data_sources">Izbriši podatke virov</string>
   <string name="delete_all_data_sources_description">Izbrišem podatke virov?</string>
   <string name="delete_menstruation_record_confirm">Izbrišem ta zapis?</string>
-  <string name="delete_origin_data_description">Izbrišite vse podatke, ki jih ustvari %1$s?</string>
+  <string name="delete_origin_data_description">Izbrišem vse podatke, ki jih ustvari %1$s?</string>
   <string name="detail_format">%1$.1f</string>
   <string name="device_data_manage">Urejaj naprave</string>
   <string name="device_data_sync">Sinhroniziraj podatke</string>

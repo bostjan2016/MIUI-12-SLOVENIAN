@@ -655,7 +655,7 @@ Tapnite, da se boste prijavili."</string>
   <string name="resource_default_name">Viri</string>
   <string name="resource_delete">Izbriši</string>
   <string name="resource_delete_all">Izbrišem %1$d izbranih stvari?</string>
-  <string name="resource_delete_confirm">Izbrišem te stvare?</string>
+  <string name="resource_delete_confirm">Izbrišem te stvari?</string>
   <string name="resource_delta_update_failed">Posodobitev ni uspela: spet prenašam temo...</string>
   <string name="resource_delta_update_successful">Posodobitev je uspela</string>
   <string name="resource_delta_update_total">%1$d delta posodobitev shranjena %2$s</string>

@@ -565,8 +565,8 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="no_delivery_report">Ni potrdila o dostavi</string>
   <string name="no_longer_recommend">"Ne kaži več "</string>
   <string name="no_network_description">"Povezovanje na omrežje ni uspelo. Preverite nastavitve omrežja in poskusite ponovno."</string>
-  <string name="no_subject">(Ni stvara)</string>
-  <string name="no_subject_view">(Ni stvara)</string>
+  <string name="no_subject">(Ni stvari)</string>
+  <string name="no_subject_view">(Ni stvari)</string>
   <string name="non_english_subject_limit">13 znakov</string>
   <string name="nosend_message">Ne pošlji</string>
   <string name="not_prepare_for_send">Ni sporočil za pošiljanje</string>

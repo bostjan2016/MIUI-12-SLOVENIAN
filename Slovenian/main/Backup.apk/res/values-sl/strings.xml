@@ -47,7 +47,7 @@
   <string name="apps_and_data_item_desc">Aplikacije in podatki</string>
   <string name="auto_backup">Načrtuj varnostno kopiranje</string>
   <string name="auto_backup_all_user_apps">Vse aplikacije</string>
-  <string name="auto_backup_choose">Varnostno kopiraj stvare</string>
+  <string name="auto_backup_choose">Varnostno kopiraj stvari</string>
   <string name="auto_backup_choose_empty">Ni varnostnih kopij.</string>
   <string name="auto_backup_choose_title">Izberite datoteke ki jih želite varnostno kopirati.</string>
   <string name="auto_backup_date">Dni</string>
@@ -742,10 +742,10 @@ Vam je všeč Mi Mover?"</string>
   <string name="usb_backup_select_data_too_large">"Izbrane datoteke so velike. Preverite ali ima USB naprava dovolj prostora.
 Prenesite samo važne stvari."</string>
   <string name="usb_restore_select_data_too_large">"Datoteke var. kopije so velike. Trajalo bo nekaj časa.
-Prenos smo važnih stvari bo hitrejši."</string>
+Prenos samo važnih stvari bo hitrejši."</string>
   <string name="usb_trans_native_no_space">"Samo %s je na voljo.
 Osvobodite prostor ali napravite več manjših prenosov."</string>
-  <string name="usb_trans_old_phone_low_space_msg">"Za shranjevanje var. kopij je potreben dodatan prostor. Za nadaljevanje ni dovolj prostora. Oslobodite prostor in izbrišite nepotrebne datoteke v aplikaciji Varnost ali prenesite samo važne stvari."</string>
+  <string name="usb_trans_old_phone_low_space_msg">"Za shranjevanje var. kopij je potreben dodatan prostor. Za nadaljevanje ni dovolj prostora. Osvobodite prostor in izbrišite nepotrebne datoteke v aplikaciji Varnost ali prenesite samo važne stvari."</string>
   <string name="usb_trans_old_phone_low_space_title">Nema dovolj prostora</string>
   <string name="usb_trans_select_data_no_space">"Samo %s je na voljo v vaši USB napravi.
 Osvobodite prostor ali prenesite samo važne stvari."</string>

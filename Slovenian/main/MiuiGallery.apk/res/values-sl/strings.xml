@@ -77,7 +77,7 @@
   <string name="ai_album_setting_key_word">Išči fotografije</string>
   <string name="ai_album_setting_sub_title">Dovoli AI algoritmu da prepozna osebe, mesta in objekte na vaših fotografijah da jih hitreje najdete.</string>
   <string name="ai_album_setting_title">Prepoznaj objekte na fotografijah</string>
-  <string name="album_ai_description">Osebe, mesta, stvari</string>
+  <string name="album_ai_description">Osebe, mesta, predmeti</string>
   <string name="album_ai_international_description">Osebe</string>
   <string name="album_ai_international_title">Osebe</string>
   <string name="album_ai_page_title">Pametni albumi</string>
@@ -522,7 +522,7 @@
   <string name="delete_album_msg_format_local">Izbrišem %1$s %2$s?</string>
   <string name="delete_album_success">Album izbrisan</string>
   <string name="delete_from_all_devices_and_cloud">iz vseh naprav in Mi Clouda</string>
-  <string name="delete_from_cloud">Izbriši stvare iz Mi Clouda</string>
+  <string name="delete_from_cloud">Izbriši stvari iz Mi Clouda</string>
   <string name="delete_from_devices">Iz vseh naprav ki so samodejno sinhronizirane</string>
   <string name="delete_from_devices_album">Iz vseh naprav ki so sinhr. ta  album</string>
   <string name="delete_from_homepage_album">Iz albumov ki so prikazani na začetni strani</string>

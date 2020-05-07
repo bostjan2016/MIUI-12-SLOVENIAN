@@ -319,7 +319,7 @@
   <string name="confirm_save_message_title">Shranim kot osnutek?</string>
   <string name="confirm_save_message_yes">Shrani</string>
   <string name="confirm_send_message_with_no_body">Ni besedila v telesu sporočila.</string>
-  <string name="confirm_send_message_with_no_subject">To sporočilo nima stvara.</string>
+  <string name="confirm_send_message_with_no_subject">To sporočilo nima stvari.</string>
   <string name="confirm_send_title">Pošljem sporočilo?</string>
   <string name="contact_add_options">Dodaj v stike</string>
   <string name="contact_add_options_details1">Vsi</string>
@@ -782,7 +782,7 @@
 Poskusite z ostalo pošto."</string>
   <string name="no_remind">Ne opominjaj</string>
   <string name="no_search_results">"Ne morem najti rezultatov"</string>
-  <string name="not_subject">(Brez stvara)</string>
+  <string name="not_subject">(Brez stvari)</string>
   <string name="not_synced_title">Račun ni sinhroniziran</string>
   <string name="note_text">Možno skozi omrežje China Mobile ali kontrola preko SMS, lahko povzroči dodatne stroške.</string>
   <string name="note_title">139 samod. nastavitev</string>

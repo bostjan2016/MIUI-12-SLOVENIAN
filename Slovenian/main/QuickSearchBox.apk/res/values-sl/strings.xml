@@ -176,7 +176,7 @@
   <string name="search_path_quicksearchbox">Nastavitve/Nameščene aplikacije/Išči</string>
   <string name="search_result_button">Pokaži več zadetkov</string>
   <string name="search_settings">Iskanje nastavitev</string>
-  <string name="search_sources">Iskani stvari</string>
+  <string name="search_sources">Iskane stvari</string>
   <string name="search_sources_summary">Izberi kaj iskati v telefonu</string>
   <string name="search_suggestion">Nasveti</string>
   <string name="search_videos">Išči videoposnetke</string>
@@ -187,7 +187,7 @@
   <string name="setting_entrance">Odpiranje globalnega iskanja</string>
   <string name="setting_other">Ostalo</string>
   <string name="setting_right_protection">Posebna izjava</string>
-  <string name="setting_search_items">Preiskani stvari</string>
+  <string name="setting_search_items">Preiskane stvari</string>
   <string name="setting_version">Verzija aplikacije</string>
   <string name="setting_version_title">Verzija aplikacije</string>
   <string name="settings_description">Imena nameščenih aplikacij</string>
