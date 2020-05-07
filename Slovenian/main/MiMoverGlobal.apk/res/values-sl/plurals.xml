@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="data_item_count">
+        <item quantity="other">%d predmetov</item>
+        <item quantity="one">%d predmet</item>
+        <item quantity="two">%d predmeta</item>
+        <item quantity="few">%d predmetov</item>
+    </plurals>
+    <plurals name="data_item_count_fail">
+        <item quantity="other">Ni mogoče prenesti %d predmetov</item>
+        <item quantity="one">Ni mogoče prenesti %d predmet</item>
+        <item quantity="two">Ni mogoče prenesti %d predmeta</item>
+        <item quantity="few">Ni mogoče prenesti %d predmetov</item>
+    </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d predmetov</item>
+        <item quantity="one">%1$d/%2$d predmet</item>
+        <item quantity="two">%1$d/%2$d predmeta</item>
+        <item quantity="few">%1$d/%2$d predmetov</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">&lt;g id="hour">%1$d&lt;/g> ur</item>
+        <item quantity="one">&lt;g id="hour">%1$d&lt;/g> ura</item>
+        <item quantity="two">&lt;g id="hour">%1$d&lt;/g> uri</item>
+        <item quantity="few">&lt;g id="hour">%1$d&lt;/g> ur</item>
+    </plurals>
+    <plurals name="icloud_importing_title_count_desc">
+        <item quantity="other">Uvoženo %d stvari</item>
+        <item quantity="one">Uvožena %d stvar</item>
+        <item quantity="two">Uvoženi %d stvari</item>
+        <item quantity="few">Uvoženo %d stvari</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">&lt;g id="minute">%1$d&lt;/g> minut</item>
+        <item quantity="one">&lt;g id="minute">%1$d&lt;/g> minuta</item>
+        <item quantity="two">&lt;g id="minute">%1$d&lt;/g> minuti</item>
+        <item quantity="few">&lt;g id="minute">%1$d&lt;/g> minut</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"%d predmetov je uvoženih. "</item>
+        <item quantity="one">"%d predmet je uvožen. "</item>
+        <item quantity="two">"%d predmeta sta uvožena. "</item>
+        <item quantity="few">"%d predmetov je uvoženih. "</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">Še enkrat uvezite %d predmetov.</item>
+        <item quantity="one">Še enkrat uvezite %d predmet.</item>
+        <item quantity="two">Še enkrat uvezite %d predmeta.</item>
+        <item quantity="few">Še enkrat uvezite %d predmetov.</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">%d predmetov je uveženih in obnovljenih</item>
+        <item quantity="one">%d predmet je uvežen in obnovljen</item>
+        <item quantity="two">%d predmeta sta uvežena in obnovljena</item>
+        <item quantity="few">%d predmetov je uveženih in obnovljenih</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">%d predmetov je obnovljenih</item>
+        <item quantity="one">%d predmet je obnovljen</item>
+        <item quantity="two">%d predmeta sta obnovljena</item>
+        <item quantity="few">%d predmetov je obnovljenih</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d predmetov</item>
+        <item quantity="one">%1$s | %2$d predmet</item>
+        <item quantity="two">%1$s | %2$d predmeta</item>
+        <item quantity="few">%1$s | %2$d predmetov</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d ure</item>
+        <item quantity="one">%d ura</item>
+        <item quantity="two">%d uri</item>
+        <item quantity="few">%d ure</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="two">%d minuti</item>
+        <item quantity="few">%d minut</item>
+    </plurals>
+</resources>
