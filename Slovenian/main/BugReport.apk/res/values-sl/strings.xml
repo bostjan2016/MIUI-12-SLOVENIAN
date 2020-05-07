@@ -177,7 +177,7 @@
   <string name="kr_authorization_contact_desc">Za dobivanje informacij o Mi Računu in potrjevanje računa</string>
   <string name="kr_authorization_exit">Izhod</string>
   <string name="kr_authorization_log_protocol">Log Protokol (opcija)</string>
-  <string name="kr_authorization_log_protocol_desc">"Da iboljšamo ponujene storitve bomo prenesli statistične podatke o uporabi in sistemske dnevnike na naše strežnike. Te stvari lahko vsebujejo osebne podatke in informacije o vaši napravi in omrežjih. Uporabili jih bomo za iskanje in analizo problemov v sistemu."</string>
+  <string name="kr_authorization_log_protocol_desc">"Da izboljšamo ponujene storitve bomo prenesli statistične podatke o uporabi in sistemske dnevnike na naše strežnike. Te stvari lahko vsebujejo osebne podatke in informacije o vaši napravi in omrežjih. Uporabili jih bomo za iskanje in analizo problemov v sistemu."</string>
   <string name="kr_authorization_phone">Telefon</string>
   <string name="kr_authorization_phone_desc">Za identifikacijo naprave z uporabo IMEI in številke modela, kot tudi lociranje in analiziranje problemov</string>
   <string name="kr_authorization_privacy_policy">Pravila o zasebnosti (obvezno)</string>

@@ -543,7 +543,7 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   <string name="micloud_upgrade_space">Pridobite več prostora</string>
   <string name="micloud_user_space_title">Prostor za shranjevanje</string>
   <string name="micloud_user_space_usage">Prostor za shranjevanje</string>
-  <string name="micloud_warn_full_sum">"Novi stvari ne bodo sinhronizirani z Mi Cloud."</string>
+  <string name="micloud_warn_full_sum">"Nove stvari ne bodo sinhronizirane z Mi Cloud."</string>
   <string name="micloud_warn_full_title">Zmanjkalo vam je prostora</string>
   <string name="micloud_warn_low_sum">Vaš Mi Cloud je 90% zaseden.</string>
   <string name="micloud_warn_low_title">Zmanjkuje vam prostora</string>
@@ -552,7 +552,7 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   <string name="micloud_web_discription_place_holder">Obiščite %1$s</string>
   <string name="micloud_website">Cloud Podatki</string>
   <string name="micloud_wipe_data_confirm_label">Odstrani podatke iz Mi Clouda</string>
-  <string name="micloud_wipe_data_confirm_title">Odstranim sinhronizirane stvare iz Mi Clouda in iz telefona po odjavi?</string>
+  <string name="micloud_wipe_data_confirm_title">Odstranim sinhronizirane stvari iz Mi Clouda in iz telefona po odjavi?</string>
   <string name="micloud_wipe_data_remove">Odstrani</string>
   <string name="micloud_wipe_data_retain">Obdrži</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
@@ -680,7 +680,7 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="sync_detail_summary_off">Sinhr. je izključena</string>
   <string name="sync_detail_text">Podrobnosti sinhr.</string>
   <string name="sync_dspt">Sinh.</string>
-  <string name="sync_dspt_entrance_provision">"Sinhronizirajte svoje fotografije, stike, zgodovino klicev in obvestila na vseh napravah. Sinhroniziranim stvarem dostopajte v kateremkoli brskalniku na %s."</string>
+  <string name="sync_dspt_entrance_provision">"Sinhronizirajte svoje fotografije, stike, zgodovino klicev in obvestila na vseh napravah. Do sinhroniziranih stvari dostopajte v kateremkoli brskalniku na %s."</string>
   <string name="sync_dspt_entrance_provision_2">Preberite več</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"Ne uporabi"</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI sistemskim aplikacijam je Mi Cloud potreben za izdelavo var. kopije fotografij, stikov, beležk in ostalega. Mi Cloud je brezplačen in pripravljen v trenutku."</string>
@@ -761,8 +761,8 @@ Z uporabo te storitve se strinjate z "</string>
   <string name="warning_bar_title_short_cut">Dodam bližnjico začetnega zaslona za Mi Cloud?</string>
   <string name="warning_bar_title_sync_off">Sinhr. z Mi Cloudom je izključena</string>
   <string name="wipe_data_dialog_button_check_sync">Preveri, če je sinhronizirano</string>
-  <string name="wipe_data_dialog_msg">"Nekateri stvari %s niso sinhronizirani. Shranjeni bodo v napravi in ne bodo izbrisani."</string>
-  <string name="wipe_data_dialog_msg_and_on">, in nekatere druge stvare</string>
+  <string name="wipe_data_dialog_msg">"Nekatere stvari %s niso sinhronizirane. Shranjene bodo v napravi in ne bodo izbrisane."</string>
+  <string name="wipe_data_dialog_msg_and_on">, in nekatere druge stvari</string>
   <string name="wipe_data_dialog_msg_separator">,</string>
   <string name="wipe_data_dialog_title">"Stvari niso sinhronizirane"</string>
   <string name="wipe_data_query_progress_title">Preverjanje…</string>

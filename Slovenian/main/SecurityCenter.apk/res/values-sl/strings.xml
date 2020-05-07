@@ -192,7 +192,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antivirus_main_activity_back">Nazaj</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Izbriši tvegane aplikacije</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Izbriši viruse</string>
-  <string name="antivirus_monitor_clean_tips">Izbrisani stvari: %s</string>
+  <string name="antivirus_monitor_clean_tips">Izbrisane stvari: %s</string>
   <string name="antivirus_monitor_risk_advice">"Ta aplikacija ni varna, izbrišite jo"</string>
   <string name="antivirus_monitor_virus_advice">Ta aplikacija lahko vsebuje virus, izbrišite jo</string>
   <string name="antivirus_monitored_app_empty">"Ne najdem kompatibilne aplikacije za plačevanje"</string>
@@ -1143,7 +1143,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s in %2$s drugih stiki so že na seznamu izjem.</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Konflikt izjem</string>
   <string name="dlg_add_keyword">Dodaj ključne besede</string>
-  <string name="dlg_add_white">"Novi klici in sporočila s številk dodanih v izjeme bodo prikazani v zgodovini klicev in dohodnih sporočil. Toda predhodno blokirani stvari tam ne bodo prikazani. Ali želite dodati izbrane številke v izjeme?"</string>
+  <string name="dlg_add_white">"Novi klici in sporočila s številk dodanih v izjeme bodo prikazani v zgodovini klicev in dohodnih sporočil. Toda predhodno blokirane stvari tam ne bodo prikazani. Ali želite dodati izbrane številke v izjeme?"</string>
   <string name="dlg_antispam_mode_delete_message">"Po izbrisu pravila ne morete več dodati."</string>
   <string name="dlg_antispam_mode_delete_title">Izbrišem pravilo?</string>
   <string name="dlg_antispam_using_mode_delete_message">"Izbrišem pravilo ki ga trenutno uporabljate in vrnem nazaj na nastavljena pravila seznama blokiranih?"</string>
@@ -1166,9 +1166,9 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="dlg_keyword_ok">Shrani</string>
   <string name="dlg_message_not_open_stranger_identify">Za vklop te storitve, pojdite v Nastavitve &gt; Telefon.</string>
   <string name="dlg_move_to_white">Dodaj v izjeme</string>
-  <string name="dlg_no_block">Odblokiram to telefonsko številko?\nBo dodana v izjeme toda predhodno blokirani stvari ne bodo vidni v zgodovini klicev.</string>
+  <string name="dlg_no_block">Odblokiram to telefonsko številko?\nBo dodana v izjeme toda predhodno blokirane stvari ne bodo vidne v zgodovini klicev.</string>
   <string name="dlg_no_block_ok">Odblokiraj</string>
-  <string name="dlg_not_block_call">"Odblokiram izbrane številke?\nBodo dodani v izjeme toda predhodno blokirani stvari ne bodo vidni v zgodovini klicev."</string>
+  <string name="dlg_not_block_call">"Odblokiram izbrane številke?\nBodo dodane v izjeme toda predhodno blokirane stvari ne bodo vidne v zgodovini klicev."</string>
   <string name="dlg_not_block_sms">"Deblokiram izbrane številke?\nBodo dodane v izjeme toda predhodno blokirane stvari ne bodo vidne v dohodnih obvestilih."</string>
   <string name="dlg_remove_address_blacklist">Odstranim to lokacijo s seznama blokiranih?</string>
   <string name="dlg_remove_address_whitelist">Odstranim to lokacijo iz izjem?</string>
@@ -1927,7 +1927,7 @@ Videoposnetki bodo shranjeni v Game Turbo &gt; Ključni trenutki."</string>
   <string name="manual_handle_title">OPRAVILA NA VOLJO</string>
   <string name="manual_input_free_traffic">Nastavi omejitev porabe podatkov</string>
   <string name="manual_input_traffic">Nastavi porabo podatkov</string>
-  <string name="manual_item_white_list_summary">Preprečite optimizacijo izbranim stvarem</string>
+  <string name="manual_item_white_list_summary">Preprečite optimizacijo izbranim stvarim</string>
   <string name="manual_item_white_list_title">Izjeme</string>
   <string name="manual_white_list_header">Izjem: %d</string>
   <string name="mark_agent">Blokiraj prijavljene agencije</string>

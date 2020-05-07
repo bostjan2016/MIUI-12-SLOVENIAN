@@ -9,7 +9,7 @@
          <item quantity="one">Stvar ki čaka na sinhr.: %d</item>
     </plurals>
     <plurals name="items_waiting_to_sync">
-         <item quantity="other">%d stvari čakaju na sinhr.</item>
+         <item quantity="other">%d stvari čakajo na sinhr.</item>
          <item quantity="one">%d stvar čaka na sinhr.</item>
      </plurals>
     <plurals name="dirty_contacts_count">

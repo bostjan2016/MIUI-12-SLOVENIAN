@@ -199,7 +199,7 @@
   <string name="express_send">Pošlji</string>
   <string name="express_send_mms">Pošlji</string>
   <string name="express_send_mms_format">Paket dostavil %1$s | Številka za sledenje %2$s.</string>
-  <string name="express_send_notice">O prepovedanih stvarih</string>
+  <string name="express_send_notice">O prepovedanih stvareh</string>
   <string name="express_sender_info">Podatki o pošiljatelju</string>
   <string name="express_sender_name">Ime pošiljatelja</string>
   <string name="express_sender_region">"Regija pošiljatelja"</string>

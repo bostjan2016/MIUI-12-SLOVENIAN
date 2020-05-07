@@ -199,8 +199,8 @@
   <string name="cd_sort_type">Način razvrščanja</string>
   <string name="clean_content_all">Vse</string>
   <string name="clean_content_one">1 stvar</string>
-  <string name="clean_content_three">3 stvare</string>
-  <string name="clean_content_two">2 stvara</string>
+  <string name="clean_content_three">3 stvari</string>
+  <string name="clean_content_two">2 stvari</string>
   <string name="clean_content_zero">Nič</string>
   <string name="clean_summary">Očiščeno:  %1$s</string>
   <string name="clear_bigfiles">Izbriše velike datoteke, podvojene fotografije in druge zastarele stvari</string>
@@ -776,7 +776,7 @@
   <string name="toast_resolve_apk_error">Rešavanje napak aplik.</string>
   <string name="toast_scaning_similar_image">Preverjanje fotografij…</string>
   <string name="toast_select_image_need_delete">Izberite fotografije za brisanje</string>
-  <string name="toast_select_white_need_remove">Izberite stvare za odstranitev</string>
+  <string name="toast_select_white_need_remove">Izberite stvari za odstranitev</string>
   <string name="toast_selecte_group_restore_succeed">Fotografije vrnjene</string>
   <string name="toast_uninstall_success">Odstranjevanje končano</string>
   <string name="toast_updater_close_4g_text">"Aplikacije ne bodo posodobljene z uporabo mobilnih podatkov (4G)"</string>

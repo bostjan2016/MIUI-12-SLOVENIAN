@@ -2035,7 +2035,7 @@ Preostalo poskusov :"</string>
   <string name="sync_do_nothing">Za zdaj ne naredi ničesar</string>
   <string name="sync_really_delete">Izbris elementov</string>
   <string name="sync_too_many_deletes">Omejitev brisanja je presežena</string>
-  <string name="sync_too_many_deletes_desc">Število izbrisanih stvari: %1$d za vrstou sinhronizacije %2$s in račun %3$s. Kaj želite narediti?</string>
+  <string name="sync_too_many_deletes_desc">Število izbrisanih stvari: %1$d za vrsto sinhronizacije %2$s in račun %3$s. Kaj želite narediti?</string>
   <string name="sync_undo_deletes">Razveljavitev brisanja</string>
     <string name="system_error_manufacturer">Vaša naprava ima notranjo napako. Če želite več informacij, se obrnite na proizvajalca.</string>
     <string name="system_error_wipe_data">Vaša naprava ima notranjo napako in bo morda nestabilna, dokler je ne ponastavite na tovarniške nastavitve.</string>

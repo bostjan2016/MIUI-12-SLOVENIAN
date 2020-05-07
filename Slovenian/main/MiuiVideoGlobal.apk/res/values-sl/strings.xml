@@ -331,7 +331,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="gallery_video_music_text">Glasbena podlaga</string>
     <string name="gallery_video_no_music_text">Brez</string>
     <string name="gallery_video_operate_text">Prilagajanje počasnega gibanja</string>
-    <string name="gallery_video_save_video">Ustvaranje videoposnetka…</string>
+    <string name="gallery_video_save_video">Ustvarjanje videoposnetka…</string>
     <string name="gallery_video_slow_edit">Počasno gibanje</string>
   <string name="gallery_view_tags">Pokaži oznake</string>
   <string name="get_back_pwd">Ponastavitev gesla</string>
@@ -403,10 +403,10 @@ za videoposnetke"</string>
     <string name="lv_auto_update">Posodobi kasneje</string>
     <string name="lv_brightness">Svetlost</string>
     <string name="lv_cast">Predvajaj</string>
-    <string name="lv_check_delete_file">Izberite stvare za izbris</string>
+    <string name="lv_check_delete_file">Izberite stvari za izbris</string>
     <string name="lv_check_send_file">Naenkrat lahko pošljete le 1 datoteko</string>
-    <string name="lv_confirm_delete_history">Želite izbrisati izbrane stvare?</string>
-    <string name="lv_confirm_delete_videos">Želite izbrisati stvare?</string>
+    <string name="lv_confirm_delete_history">Želite izbrisati izbrane stvari?</string>
+    <string name="lv_confirm_delete_videos">Želite izbrisati stvari?</string>
     <string name="lv_confirm_hide_videos">Želite skriti videoposnetke?</string>
     <string name="lv_confirm_unhide_videos">Želite odkriti videoposnetke?</string>
     <string name="lv_deleting">Brisanje…</string>
@@ -419,7 +419,7 @@ za videoposnetke"</string>
     <string name="lv_folder_null">Neznana mapa</string>
     <string name="lv_fullscreen">Celoten zaslon,</string>
     <string name="lv_hide_folder">Skriti videoposnetki</string>
-    <string name="lv_hide_prompt">Uspešno nastavljeno. Poglejte skrite stvare v mapi \"Skriti videoposnetki\".</string>
+    <string name="lv_hide_prompt">Uspešno nastavljeno. Poglejte skrite stvari v mapi \"Skriti videoposnetki\".</string>
     <string name="lv_history">Zgodovina</string>
     <string name="lv_history_null">Ni stvari</string>
     <string name="lv_home_favorites">Priljubljeno</string>
@@ -555,7 +555,7 @@ za videoposnetke"</string>
     <string name="ovp_alert_dialog_download_install_task">Prenašanje HD vtičnika…</string>
     <string name="ovp_buffering_video_netplay_label_v5">Medpomnjenje…</string>
     <string name="ovp_category">Kategorije</string>
-    <string name="ovp_confirm_delete_favor">Želite odstraniti izbrane stvare iz priljubljenih?</string>
+    <string name="ovp_confirm_delete_favor">Želite odstraniti izbrane stvari iz priljubljenih?</string>
     <string name="ovp_default_plugin_name">HD vtičnik</string>
     <string name="ovp_detail_collapse_summary">Skrij</string>
     <string name="ovp_detail_collect">Dodaj med priljubljeno</string>
@@ -763,7 +763,7 @@ Izboljša varnost vašega računa."</string>
     <string name="plus_gallery_mediatype_fangtu">Kvadratne slike</string>
     <string name="plus_gallery_mediatype_fastslowvideo">Časovni potek in počasni posnetek</string>
     <string name="plus_gallery_mediatype_gif">GIF</string>
-    <string name="plus_gallery_mediatype_hidded">Skriti stvari</string>
+    <string name="plus_gallery_mediatype_hidded">Skrite stvari</string>
     <string name="plus_gallery_mediatype_longvideo">Dolgi videoposnetki</string>
     <string name="plus_gallery_mediatype_quanjing">Panorame</string>
     <string name="plus_gallery_nocontents">Še ni stvari.</string>
@@ -788,7 +788,7 @@ Izboljša varnost vašega računa."</string>
     <string name="plus_player_play_mode_list">Ponovi vse</string>
     <string name="plus_player_play_mode_single_circle">Ponovi en</string>
     <string name="plus_player_play_mode_stop">Predvajaj</string>
-    <string name="plus_player_share_empty_toast">Izberite stvare za deljenje</string>
+    <string name="plus_player_share_empty_toast">Izberite stvari za deljenje</string>
     <string name="plus_player_share_screen">Predvajaj</string>
     <string name="plus_player_share_screen_connect_fail">Povezave ni bilo mogoče vzpostaviti. Poskusite ponovno.</string>
     <string name="plus_player_share_screen_connect_success">Uspešno povezano</string>
@@ -953,11 +953,11 @@ Izboljša varnost vašega računa."</string>
     <string name="sync_favorites_limit">V priljubljenih imate več kot 500 videoposnetkov. Nekatere od starejših videoposnetkov moramo izbrisati, da se lahko sinhronizacija nadaljuje.</string>
     <string name="sync_favorites_message">Želite sinhronizirati priljubljene iz te naprave z vašim računom? Stvari, ki niso več na voljo bodo odstranjene.</string>
     <string name="sync_favorites_title">Sinhronizacija priljubljenih</string>
-    <string name="t_check_hide_file">Izberite stvare, ki jih želite skriti</string>
-    <string name="t_check_unhide_file">Izberite stvare, ki jih želite odkriti</string>
+    <string name="t_check_hide_file">Izberite stvari, ki jih želite skriti</string>
+    <string name="t_check_unhide_file">Izberite stvari, ki jih želite odkriti</string>
     <string name="t_downloading">Prenašanje:</string>
     <string name="t_exit_app">Tapnite še enkrat za izhod.</string>
-    <string name="t_lv_check_delete_history">Izberite stvare za izbris</string>
+    <string name="t_lv_check_delete_history">Izberite stvari za izbris</string>
     <string name="t_lv_check_hide_file">Izberite videoposnetke, ki jih želite skriti</string>
     <string name="t_lv_check_unhide_file">Izberite videoposnetke, ki jih želite odkriti</string>
     <string name="t_lv_downloading_new_version">Prenašanje posodobitev…</string>
@@ -968,7 +968,7 @@ Izboljša varnost vašega računa."</string>
     <string name="t_lv_search_null">Vpišite iskalni niz za iskanje</string>
     <string name="t_lv_subtitle_padding_default_hint">Prilagajanje podnapisov…</string>
     <string name="t_network_error">Prišlo je do napake omrežja.</string>
-    <string name="t_ovp_check_delete_favor">Izberite stvare za izbris</string>
+    <string name="t_ovp_check_delete_favor">Izberite stvari za izbris</string>
     <string name="t_password_limit">Geslo mora biti dolgo vsaj 4 znakov</string>
     <string name="t_password_null">Polje za geslo ne sme biti prazno</string>
     <string name="t_password_wrong">Geslo, ki ste ga vnesli, je nepravilno. Poskusite ponovno.</string>
@@ -1009,8 +1009,8 @@ Izboljša varnost vašega računa."</string>
     <string name="v_canceled">Preklicano</string>
     <string name="v_click_to_retry">Poskusite ponovno</string>
     <string name="v_code_title">Vnesite kodo za preverjanje</string>
-    <string name="v_confirm_hide_videos">Želite sedaj skriti izbrane stvare?</string>
-    <string name="v_confirm_unhide_videos">Želite sedaj odkriti izbrane stvare?</string>
+    <string name="v_confirm_hide_videos">Želite sedaj skriti izbrane stvari?</string>
+    <string name="v_confirm_unhide_videos">Želite sedaj odkriti izbrane stvari?</string>
     <string name="v_data_empty">Tukaj ni stvari</string>
     <string name="v_exit">Izhod</string>
     <string name="v_finish">Končano</string>

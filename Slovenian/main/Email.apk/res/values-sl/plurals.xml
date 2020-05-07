@@ -21,12 +21,12 @@
         <item quantity="many">Izbrišem te pogovore: %1$d?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">Ti pogovori imajo skupne stvare, vseeno izbrišem?</item>
-        <item quantity="zero">Ti pogovori imajo skupne stvare, vseeno izbrišem?</item>
-		<item quantity="one">Ta pogovor ima skupne stvare, vseeno izbrišem?</item>
-	    <item quantity="two">Ta pogovora imata skupne stvare, vseeno izbrišem?</item>
-        <item quantity="few">Ti pogovori imajo skupne stvare, vseeno izbrišem?</item>
-        <item quantity="many">Ti pogovori imajo skupne stvare, vseeno izbrišem?</item>
+        <item quantity="other">Ti pogovori imajo skupne predmete, vseeno izbrišem?</item>
+        <item quantity="zero">Ti pogovori imajo skupne predmete, vseeno izbrišem?</item>
+		<item quantity="one">Ta pogovor ima skupne predmete, vseeno izbrišem?</item>
+	    <item quantity="two">Ta pogovora imata skupne predmete, vseeno izbrišem?</item>
+        <item quantity="few">Ti pogovori imajo skupne predmete, vseeno izbrišem?</item>
+        <item quantity="many">Ti pogovori imajo skupne predmete, vseeno izbrišem?</item>
     </plurals>
     <plurals name="confirm_discard_drafts_conversation">
         <item quantity="other">Zavržem skice iz %1$d pogovora?</item>

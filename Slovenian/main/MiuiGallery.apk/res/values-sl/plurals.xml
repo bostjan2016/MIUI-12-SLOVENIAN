@@ -25,7 +25,7 @@
          <item quantity="one">%d mesec</item>
      </plurals>
 	 <plurals name="add_to_album_failed_with_reason_and_count">
-         <item quantity="other">"%2$d stvarini mogoče dodati v album. %1$s."</item>
+         <item quantity="other">"%2$d stvari ni mogoče dodati v album. %1$s."</item>
          <item quantity="one">"%2$d stvar ne more biti dodana v album. %1$s."</item>
      </plurals>
      <plurals name="add_to_secret_failed_with_reason_and_count">

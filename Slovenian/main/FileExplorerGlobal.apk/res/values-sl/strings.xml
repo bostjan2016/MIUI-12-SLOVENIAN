@@ -155,7 +155,7 @@
     <string name="connection_lost">Povezava prekinjena</string>
     <string name="copy_failed">Kopiranje ni uspelo</string>
     <string name="copy_to">Kopiraj v…</string>
-    <string name="copy_to_internal_storage_first">Najprej kopirajte stvare v notranji pomnilnik.</string>
+    <string name="copy_to_internal_storage_first">Najprej kopirajte stvari v notranji pomnilnik.</string>
     <string name="dark_mode">Temni način</string>
     <string name="dark_mode_notice_message">Sedaj je na voljo temna tema!</string>
     <string name="data_support_cm">Omogoča Clean Master</string>
@@ -177,7 +177,7 @@
     <string name="decrypting">Dešifriranje…</string>
     <string name="deepclean_apk_content">Izbriši APK datoteke ali nepotrebne aplikacije</string>
     <string name="deepclean_apk_summary_empty">Vse zgleda vredu, ni APK datotek za počistiti</string>
-    <string name="deepclean_cache_content">Izbriši podatke ustvarene v aplikacijah</string>
+    <string name="deepclean_cache_content">Izbriši podatke ustvarine v aplikacijah</string>
     <string name="deepclean_cache_summary_empty">Vse zgleda vredu, ni podatkov za počistiti</string>
     <string name="deepclean_large_content">Izbriši datoteke, večje od 10MB</string>
     <string name="deepclean_large_summary_empty">Vse zgleda vredu, ni datotek za počistiti</string>

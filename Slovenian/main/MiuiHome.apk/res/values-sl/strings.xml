@@ -86,7 +86,7 @@
   <string name="announce_for_delete_item">%1$s je izbrisan</string>
   <string name="announce_for_drag_enter_delete_zone">Povlečene stvari v področje odstranitve</string>
   <string name="announce_for_drag_enter_folder_grid">Lahko izpustite stvari v  mapo</string>
-  <string name="announce_for_drag_enter_workspace_thumbnail">premik stvara za vhod v pregled zaslona %1$d</string>
+  <string name="announce_for_drag_enter_workspace_thumbnail">premik stvari za vhod v pregled zaslona %1$d</string>
   <string name="announce_for_drop">Izpuščen %1$s</string>
   <string name="announce_for_drop_folder_grid_view">Število %1$d v mapi</string>
   <string name="announce_for_drop_folder_icon">V mapi %1$s</string>
@@ -249,7 +249,7 @@
   <string name="free_style_edit_bar_select_app">Izberi aplikacijo</string>
   <string name="free_style_edit_bottom_empty_tip">Tapni pravokotnik za spreminjanje</string>
   <string name="free_style_edit_drawer">Slikar</string>
-  <string name="free_style_edit_move_tip">Tapni &amp; drži za premikanje stvara</string>
+  <string name="free_style_edit_move_tip">Tapni &amp; drži za premikanje stvari</string>
   <string name="free_style_edit_tab_free_component">Stvar</string>
   <string name="free_style_edit_tab_shortcut">Bližnjica</string>
   <string name="free_style_edit_tab_widget">Pripomočki</string>
