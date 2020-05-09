@@ -761,6 +761,7 @@
   <string name="mibill_privacy_policy_description">Dovoli Mi Wallet analiziranje in urejanje z vašimi računi samodejno. To opravilo je privzeto izključeno za delo z povezanimi naslovi e-pošte.</string>
   <string name="mibill_privacy_policy_link">"Z uporabo te storitve se strinjate z našim" &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Pogoji uporabe&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Urejaj račune samodejno</string>
+  <string name="modify_contact_address">Urejanje e-poštnih naslovov stikov</string> 
   <string name="more_context">Več</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Prestavi v mapo</string>
@@ -785,7 +786,7 @@
   <string name="no_contacts">Ni stikov.</string>
   <string name="no_content_in_body">[Ni sporočila]</string>
   <string name="no_conversations">Ni sporočil.</string>
-  <string name="no_filtrable_email_account">Nema računa za filtriranje</string>
+  <string name="no_filtrable_email_account">Ni računa za filtriranje</string>
   <string name="no_mails">Ni E-pošte.</string>
   <string name="no_matched_attachment">Ni zadetkov.</string>
   <string name="no_more_mail">Ni več sporočil</string>
@@ -1142,6 +1143,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="share_choose">Izberite datoteko za deljenje</string>
   <string name="sharing">Deli</string>
   <string name="shortcut_name_title">Bližnjica imena mape</string>
+  <string name="show_contact_address">Pokaži e-poštni naslov stika</string>
   <string name="show_elided">▶ Pokaži citirano besedilo</string>
   <string name="show_images">Prenesi in pokaži slike</string>
   <string name="show_password">Pokaži geslo</string>

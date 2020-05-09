@@ -331,7 +331,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="new_local_click_to_jump">Tapnite za prikaz podrobnih navodil</string>
   <string name="new_local_detail_description">"Opomba:
 %1$d. Kopirajte var. kopije v računalnik da boste preprečili izgubo podatkov. %2$s.
-%3$d. Var. kopije bodo shranjene v MIUI-Backup-AllBackup."</string>
+%3$d. Var. kopije bodo shranjene v MIUI-Backup-All Backup."</string>
   <string name="new_local_tab_backup">Var. kopiranje na mobilno napravo</string>
   <string name="new_local_tab_restore">Vrnite iz mobilne naprave</string>
   <string name="new_low_storage_title">Ni dovolj prostora za shranjevanje</string>
@@ -746,7 +746,7 @@ Prenos samo važnih stvari bo hitrejši."</string>
   <string name="usb_trans_native_no_space">"Samo %s je na voljo.
 Osvobodite prostor ali napravite več manjših prenosov."</string>
   <string name="usb_trans_old_phone_low_space_msg">"Za shranjevanje var. kopij je potreben dodatan prostor. Za nadaljevanje ni dovolj prostora. Osvobodite prostor in izbrišite nepotrebne datoteke v aplikaciji Varnost ali prenesite samo važne stvari."</string>
-  <string name="usb_trans_old_phone_low_space_title">Nema dovolj prostora</string>
+  <string name="usb_trans_old_phone_low_space_title">Ni dovolj prostora</string>
   <string name="usb_trans_select_data_no_space">"Samo %s je na voljo v vaši USB napravi.
 Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="user_feedback">Povratne inf.</string>
