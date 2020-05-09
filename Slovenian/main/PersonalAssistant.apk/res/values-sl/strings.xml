@@ -70,6 +70,8 @@
   <string name="battery_history">Baterija</string>
   <string name="beijing">Peking</string>
   <string name="bicycle">Kolo</string>
+  <string name="bluetooth_card_title">Poraba baterije</string>
+  <string name="bluetooth_setting_brief">Pokaži porabo baterije povezanih naprav</string> 
   <string name="calc_currency">Valuta</string>
   <string name="calc_name">Znanstveni</string>
   <string name="calc_num">Finančni znaki</string>

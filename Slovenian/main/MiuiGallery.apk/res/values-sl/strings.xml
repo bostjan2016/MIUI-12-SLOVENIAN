@@ -142,6 +142,8 @@
   <string name="album_sort_type_custom">Lastno</string>
   <string name="album_sort_type_name_asc">Od A - Z</string>
   <string name="album_sort_type_name_desc">Od Z - A</string>
+  <string name="album_tab_page_switch_view_style_to_grid">Prikaz mreže</string>
+  <string name="album_tab_page_switch_view_style_to_linear">Prikaz seznama</string>
   <string name="album_type_baby">Otroški album</string>
   <string name="album_type_share">Deljeni album</string>
   <string name="album_type_system">Sistemski album</string>
@@ -349,7 +351,7 @@
   <string name="chooser_fragment_mishare_title">Deli na</string>
   <string name="cleaner_empty_value_description">Vse zgleda dobro</string>
   <string name="cleaner_photo_pick_delete_selected">Izbriši izbrane fotografije</string>
-  <string name="cleaner_raw_action">Izbriši</string>
+  <string name="cleaner_raw_action">Pokaži</string>
   <string name="cleaner_raw_description">Osvobodite prostor za shranjevanje z brisanjem velikih RAW slik</string>
   <string name="cleaner_raw_title">Izbriši RAW datoteke</string>
   <string name="cleaner_scan_description">Optimiziranje stvari osvobaja prostor za shranjevanje v vaši napravi</string>
@@ -476,6 +478,7 @@
   <string name="context_menu_add_contact">Dodaj v stike</string>
   <string name="context_menu_copy">Kopiraj</string>
   <string name="context_menu_copy_notice">Kopirano v odložišče</string>
+  <string name="continue_feedback">Dodatne povratne informacije</string>
   <string name="contrast">Kontrast</string>
   <string name="contrast_abbr">K</string>
   <string name="cool">Cool</string>
@@ -1082,8 +1085,13 @@ za fotografije"</string>
   <string name="macarons_download_dialog_title">Prenos dodatka</string>
   <string name="macarons_download_dialog_without_wifi_confirm">Prenesu</string>
   <string name="macarons_download_dialog_without_wifi_message">"Ne morem se povezati na WiFi. Lahko uporabite mobilne podatke za prenos čarobne vinjete."</string>
-  <string name="macarons_download_fail">"Ne morem prenesti dodatka. Preverite omrežne nastavitve in poskusite ponovno."</string>
+  <string name="macarons_download_later">Počakajte minuto ali dve in poskusite ponovno</string>
+  <string name="macarons_download_network_fail">"Ne morem prenesti dodatka. Preverite omrežne nastavitve in poskusite ponovno."</string>
+  <string name="macarons_download_other_fail">"Ne morem prenesti zaradi napake"</string>
+  <string name="macarons_download_sdscard_fail">"Ne morem prenesti. SD kartica ni na voljo."</string>
+  <string name="macarons_download_storage_fail">"Ne morem prenesti. Ni dovolj prostora."</string>
   <string name="macarons_download_success">Dodatek prenešen</string>
+  <string name="macarons_downloading">Prenos dodatka…</string>
   <string name="macarons_select_image_range">"Ne morem uporabiti več slik za izdelavo čarobne vinjete"</string>
   <string name="macarons_select_video">"Ne morem uporabiti več videoposnetkov za izdelavo čarobne vinjete"</string>
   <string name="main_discard_confirm_message">Imate neshranjene spremembe</string>
@@ -1527,6 +1535,7 @@ za fotografije"</string>
   <string name="privacy_permission_request_title">Potrebno je dovoljenje</string>
   <string name="private_entry_lock_state_activated_text">Spusti za odpiranje zasebne mape</string>
   <string name="private_entry_lock_state_enterd_text">Povleci dol za odpiranje zasebne mape</string>
+  <string name="problem_feedback">Povratne inf.</string>
   <string name="projection_cancel">Prekliči</string>
   <string name="projection_checkbox_text">Shrani ta zaslon</string>
   <string name="projection_device_connection_failed">Ne morem se povezati z projektorjem</string>
@@ -2219,6 +2228,7 @@ za fotografije"</string>
   <string name="vlog_clip_is_reversed">Preobrnjeno</string>
   <string name="vlog_clip_select_trans">Izberite prehod</string>
   <string name="vlog_clip_sort">Zamenjaj vrstni red videoposnetkov</string>
+  <string name="vlog_clip_zoom">Povečajte ali zmanjšajte štivilo okvirov v pregledu z dvema prstoma</string>
   <string name="vlog_cloud_file_download">Stvari iz Mi Clouda</string>
   <string name="vlog_download">Prenesi</string>
   <string name="vlog_download_btn">Prenesi</string>
@@ -2234,6 +2244,8 @@ za fotografije"</string>
   <string name="vlog_end_of_film">Zapiranje</string>
   <string name="vlog_exit_ddit_message">Spremembe bodo izgubljene če zdaj prekinete. Prekinem?</string>
   <string name="vlog_exit_edit_title">Zapiranje</string>
+  <string name="vlog_exit_message">Neshranjene spremembe bodo izgubljene. Je vseeno?</string>
+  <string name="vlog_exit_title">Zavrzi spremembe</string>
   <string name="vlog_film_title">Odpiranja</string>
   <string name="vlog_filter_changfeng">Veter</string>
   <string name="vlog_filter_chujing">Spokoj</string>
@@ -2249,7 +2261,9 @@ za fotografije"</string>
   <string name="vlog_filter_xiayang">Janezovo</string>
   <string name="vlog_filter_zhaomu">Svitanje</string>
   <string name="vlog_float_view_change_audio">Zamenjaj zvočni posnetek</string>
+  <string name="vlog_float_view_original_ratio">Original</string>
   <string name="vlog_float_view_ratio">Razmerje</string>
+  <string name="vlog_improt_encode_video_error">Napaka kodiranja. Poskusite ponovno.</string>
   <string name="vlog_load_data_fail">"Ne morem naložiti podatke"</string>
   <string name="vlog_mi_clip">Urejevalec videoposnetkov</string>
   <string name="vlog_mi_clip_cn">Urejevalec videoposnetkov</string>
@@ -2260,6 +2274,7 @@ za fotografije"</string>
   <string name="vlog_nav_title_ratio">Razmerje</string>
   <string name="vlog_nav_title_template">Predloge</string>
   <string name="vlog_none">Nič</string>
+  <string name="vlog_photo_edit_not_support">"Ne morem urejati slike"</string>
   <string name="vlog_photo_not_support">"Ne morem urejati slike"</string>
   <string name="vlog_ratio_choose">Izberite razmerje</string>
   <string name="vlog_ratio_fullsize">Cel zaslon</string>
@@ -2305,6 +2320,7 @@ za fotografije"</string>
   <string name="vlog_video_importing">Uvoz videoposnetkov…</string>
   <string name="vlog_video_saved_in_my_create">Videoposnetek uspešno shranjen</string>
   <string name="vlog_video_selected_not_support">"Ne morem urediti izbrani videoposnetek"</string>
+  <string name="vlog_video_trans_code_cons">Obdelava datoteke visoke resolucije…</string>
   <string name="voice_assistant">Glasovni vnos</string>
   <string name="wednesday">Sreda</string>
   <string name="wednesday_short">Sre</string>

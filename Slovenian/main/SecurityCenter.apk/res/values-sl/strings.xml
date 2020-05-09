@@ -1217,7 +1217,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="empty_title_installed_apps">Prazno</string>
   <string name="empty_title_manual_item_white_list">Brez izjem</string>
   <string name="empty_title_perm_apps">Aplikacije nimajo dovoljenja</string>
-  <string name="empty_title_permission_apps_list">Nema aplikacija.</string>
+  <string name="empty_title_permission_apps_list">Ni aplikacija.</string>
   <string name="empty_title_risk_list">Ni nevarnih aplikacij</string>
   <string name="empty_title_root_apps">Aplikacije nimajo ROOT dostopa</string>
   <string name="empty_title_system_cache_list">Sistemski predpomnilnik je prazen</string>
@@ -2178,7 +2178,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="not_set">Ni nastavljeno</string>
   <string name="note">Opomba</string>
   <string name="note_call_none">Ni klicev</string>
-  <string name="note_keyword_none">Nema ključnih besed</string>
+  <string name="note_keyword_none">Ni ključnih besed</string>
   <string name="note_list_none">Seznam je prazen</string>
   <string name="note_sms_none">Ni sporočil</string>
   <string name="noti_back_diving_mode_title">Interaktivni način je vključen. Tapni za izklop.</string>

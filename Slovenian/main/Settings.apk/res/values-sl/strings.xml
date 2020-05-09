@@ -2017,6 +2017,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="continue_all_caps">Nadaljuj</string>
   <string name="continue_reset_factory">Vrnitev na tovarniške nastavitve</string>
   <string name="contributors_title">Sodelavci</string>
+  <string name="control_panel_switch_side">Zamenjaj stran Kontrolnega centra</string>
     <string name="controls_label">Kontrolniki</string>
   <string name="controls_subtitle">Prilagodi porabo energije</string>
   <string name="convenience_key_category_title">Bližnjice</string>
@@ -9013,7 +9014,7 @@ Prenos smo važnih stvari bo hitrejši."</string>
   <string name="usb_trans_native_no_space">"Samo %s je na voljo.
 Osvobodite prostor ali napravite več manjših prenosov."</string>
   <string name="usb_trans_old_phone_low_space_msg">"Za shranjevanje var. kopij je potreben dodaten prostor. Za nadaljevanje ni dovolj prostora. Osvobodite prostor in izbrišite nepotrebne datoteke v aplikaciji Varnost ali prenesite samo važne stvari."</string>
-  <string name="usb_trans_old_phone_low_space_title">Nema dovolj prostora</string>
+  <string name="usb_trans_old_phone_low_space_title">Ni dovolj prostora</string>
   <string name="usb_trans_select_data_no_space">"Samo %s je na voljo v vaši USB napravi.
 Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="usb_unmount_inform_text">USB pomnilnik bo izključen.</string>
