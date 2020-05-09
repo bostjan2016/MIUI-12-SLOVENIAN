@@ -408,7 +408,7 @@
   <string name="guide_secure_dialog_message">Rezultat optimizacije vaše naprave je manjši od 80 točk. Optimiziram zdaj?</string>
   <string name="guide_secure_dialog_negative">Prekliči</string>
   <string name="guide_secure_dialog_positive">Optimiziraj</string>
-  <string name="guide_secure_dialog_title">Optimiziraj performanse</string>
+  <string name="guide_secure_dialog_title">Optimiziraj zmogljivost</string>
   <string name="guide_virus_dialog_message">Skeniranje aplikacij in namestitvenih paketov ščiti vašo napravo pred virusi in zlonamernimi programi. Želite zdaj skenirati napravo?</string>
   <string name="guide_virus_dialog_negative">Prekliči</string>
   <string name="guide_virus_dialog_positive">Skeniraj</string>

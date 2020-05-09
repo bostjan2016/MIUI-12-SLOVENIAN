@@ -477,6 +477,7 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
   <string name="todo_item_status_delete">Izbriši</string>
   <string name="todo_item_status_finished">Končano</string>
   <string name="todo_item_status_unfinished">Ni dokončano</string>
+  <string name="todo_list_edit_text_hint">Tapni \"Naprej\" za ustvarjanje podnaslova</string>
   <string name="todo_menu_add_audio_description">Dodaj glasovno nalogo</string>
   <string name="todo_menu_add_description">Dodaj nalogo</string>
   <string name="todo_menu_cancel">Prekliči</string>
@@ -506,6 +507,7 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
   <string name="todo_user_guide_tip3">Da boste uredili tekstno nalogo jo tapnite.</string>
   <string name="todo_user_guide_tip4">"Ne pozabite napraviti bližnjice na začetnem zaslonu za naloge."</string>
   <string name="todo_user_guide_tip5">Ostanite v vrhu svoje igre in nikoli ne zamudite kaj važnega!</string>
+  <string name="todo_user_guide_tip6">Tapni \"Naprej\" za ustvarjanje kontrolnega seznama podnaslovov</string>
   <string name="todoalert_done">V redu</string>
   <string name="tomorrow">Jutri</string>
   <string name="toolbar_check_description">Dodaj potrdni okvir</string>

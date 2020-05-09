@@ -5670,8 +5670,8 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="path_application_lock">Nastavitve/Zakl.  aplikacije</string>
   <string name="path_applications_settings">Nastavitve/Nameščene aplikacije</string>
   <string name="path_back_key">Nastavitve/Dodatne nastavitve/Tipke/Nazaj</string>
-  <string name="path_battery_indicator_settings">Nastavitve/Baterija &amp; performanse/Prikaz baterije</string>
-  <string name="path_battery_settings">Nastavitve/Baterija &amp; performanse</string>
+  <string name="path_battery_indicator_settings">Nastavitve/Baterija &amp; zmogljivost/Prikaz baterije</string>
+  <string name="path_battery_settings">Nastavitve/Baterija &amp; zmogljivost</string>
   <string name="path_bluetooth_device_name">Nastavitve/Bluetooth/Ime naprave</string>
   <string name="path_bluetooth_device_searchable">Nastavitve/Bluetooth/Viden drugim napravam</string>
   <string name="path_bluetooth_enable">Nastavitve/Bluetooth/Bluetooth vključen</string>
@@ -5704,7 +5704,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="path_edge_handgrip">Nastavitve/Kontrole roba</string>
   <string name="path_enable_adb">Nastavitve/Dodatne nastavitve/Možnosti za razvijalce/USB odpravljanje napak</string>
   <string name="path_equalizer">Nastavitve/Zvok/Nastavitve zvoka/Equalizer</string>
-  <string name="path_fluency_mode">Nastavitve/Baterija &amp; performanse/Animacije sistema</string>
+  <string name="path_fluency_mode">Nastavitve/Baterija &amp; zmogljivost/Animacije sistema</string>
   <string name="path_font_settings">Nastavitve/Font sistema</string>
   <string name="path_force_touch">Nastavitve/Dodatne nastavitve/3D dotik</string>
   <string name="path_gesture_wakeup_title">Nastavitve/Zaslon/Dvakrat tapnite zaslon za bujenje</string>
@@ -5746,7 +5746,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="path_pointer_speed">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos/Hitrost kazalca</string>
   <string name="path_power_checker">Nastavitve/Dodatne nastavitve/Beta opravila/Kontrola energije</string>
   <string name="path_power_hide_mode_title">Nastavitve/Baterija/Urejanje porabe baterije aplikacij</string>
-  <string name="path_power_mode_settings">Nastavitve/Dodatne nastavitve/Baterija &amp; performanse/Nastavitve energije</string>
+  <string name="path_power_mode_settings">Nastavitve/Dodatne nastavitve/Baterija &amp; zmogljivost/Nastavitve energije</string>
   <string name="path_power_optimize">Nastavitve/Dodatne nastavitve/Beta opravila/Varčevanje baterije</string>
   <string name="path_pref_volume_wake_title">Nastavitve/Zakl. zaslon &amp; Geslo/Zbudi s tipkami za glasnost</string>
   <string name="path_preferred_network_type_settings">Nastavitve/Nastavitve mobilnega omrežja/Željeni tip omrežja</string>

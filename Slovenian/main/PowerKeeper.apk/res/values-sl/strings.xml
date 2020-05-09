@@ -255,7 +255,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="power_mode_cpu_state_high">Zmogljivost</string>
   <string name="power_mode_cpu_state_high_desc">Preformanse ima prioriteto nad baterijo</string>
   <string name="power_mode_cpu_state_low">Varčevanje z baterijo</string>
-  <string name="power_mode_cpu_state_low_desc">Baterija ima prioriteto nad performansem</string>
+  <string name="power_mode_cpu_state_low_desc">Baterija ima prioriteto nad zmogljivostjo</string>
   <string name="power_mode_cpu_state_middle">Uravnoteženo</string>
   <string name="power_mode_cpu_state_middle_desc">Povečaj preformanse samo če je potrebno</string>
   <string name="power_mode_view_app_list_title">Aplikacije</string>
