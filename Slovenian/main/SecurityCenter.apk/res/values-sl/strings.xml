@@ -1614,7 +1614,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="google_base_app_title">Nameščanje Googleovih storitev</string>
   <string name="google_base_app_toast">Google Services Framework se namešča v ozadju. Počakajte minuto ali dve in poskusite ponovno.</string>
   <string name="goto_set">Nastavi</string>
-  <string name="gs_advanced_setting_summary">Nastavive za posamezne igre</string>
+  <string name="gs_advanced_setting_summary">Nastavitve za posamezne igre</string>
   <string name="gs_advanced_setting_title">Dodatne nastavitve</string>
   <string name="gs_anto_clean_memory_whitelist">Izjeme spomina</string>
   <string name="gs_app_back_self_start">Varčevanje baterije</string>
@@ -1650,7 +1650,7 @@ Videoposnetki bodo shranjeni v Game Turbo &gt; Ključni trenutki."</string>
   <string name="gs_open_game_booster">Pohitritev</string>
   <string name="gs_open_game_booster_summary">Povečajte hitrost omrežja za igre</string>
   <string name="gs_performance_mode">Način za zmogljivost</string>
-  <string name="gs_performance_mode_detail">Optimizirajte performanse sistema za igranje</string>
+  <string name="gs_performance_mode_detail">Optimizirajte zmogljivost sistema za igranje</string>
   <string name="gs_show_way">Orientacija začetne strani</string>
   <string name="gs_show_way_horizontal">Vodoravno</string>
   <string name="gs_show_way_vertical">Navpično</string>
@@ -2170,7 +2170,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="news_change">Spremeni</string>
   <string name="next_step_button">Naprej</string>
   <string name="nickname">Vzdevek</string>
-  <string name="no_game">"Ne morem najti iger”</string>
+  <string name="no_game">"Ne morem najti iger"</string>
   <string name="no_network">"Ne morem se povezati na omrežje, poskusite ponovno kasneje"</string>
   <string name="no_network_btn">Poskusi ponovno</string>
   <string name="none_mi_service_app_detail">Prazno</string>
@@ -2265,7 +2265,7 @@ vašo napravo"</string>
   <string name="om_ill_proc_type_wifiscan_detail">Popravite probleme z WiFi pregledom</string>
   <string name="om_ill_proc_type_wifiscan_title">Aplikacija pogosto išče WiFi in porablja baterijo</string>
   <string name="om_lock_app_locked_app">Zaklenjeno</string>
-  <string name="om_lock_app_locked_app_occupy_memory">"Zaklep preveč aplikacij zmanjšuje performanse dela telefona"</string>
+  <string name="om_lock_app_locked_app_occupy_memory">"Zaklep preveč aplikacij zmanjšuje zmogljivost dela telefona"</string>
   <string name="om_lock_app_tip_msg">Tapni za zaklep</string>
   <string name="om_lock_app_unlocked_app">Odklenjeno</string>
   <string name="om_locked_apps_summary">Zaklenjene aplikacije bodo prezrte zaradi povečanja hitrosti.</string>
@@ -2397,7 +2397,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="path_networkassistant_4">Aplikacije sistema/Varnost/Uporaba podatkov/Test omrežja</string>
   <string name="path_payment_security">Aplikacije sistema/Varnost/Varnost plačil</string>
   <string name="path_powercenter">Aplikacije sistema/Varnost/Uporaba baterije</string>
-  <string name="path_powercenter_powerrank">Baterija &amp; performanse/Uporaba baterije</string>
+  <string name="path_powercenter_powerrank">Baterija &amp; zmogljivost/Uporaba baterije</string>
   <string name="path_securitycenter">Aplikacije sistema/Varnost</string>
   <string name="path_securitycenter_settings">Aplikacije sistema/Varnost</string>
   <string name="path_usb_install">Aplikacije sistema/Varnost/Dovoljenja/Namesti preko USB</string>
@@ -2442,8 +2442,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="percent_symbol">%</string>
   <string name="percent_text_formatted">%s%%</string>
   <string name="percentage">%d%%</string>
-  <string name="perfermance_optimization_summary">Izogibajte se pregrevanja in probleme povezane s strojno opremo</string>
-  <string name="perfermance_optimization_title">Optimizacija performansa</string>
+  <string name="perfermance_optimization_summary">Izogibajte se pregrevanju in problemov povezanih s strojno opremo</string>
+  <string name="perfermance_optimization_title">Optimizacija zmogljivosti</string>
   <string name="perm_intercept_content">Dam tej aplikaciji naslednje dovoljenje: %1s?</string>
   <string name="perm_intercept_notification_title">Če omogočite %1s uporabo obvestil, bo tej aplikaciji omogočeno, da izvede naslednja dejanja:</string>
   <string name="perm_intercept_privacy_content">Ta dejanja lahko razkrijejo vaše osebne podatke. Vseeno podelim dovoljenje (%1s)?</string>
@@ -2747,7 +2747,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_save_ps_close_setting_pickupwakeup">\"Dvignite napravo da jo vključite\"</string>
   <string name="power_save_ps_close_setting_sync">sinhronizacija</string>
   <string name="power_save_ps_description_title">Varčevanje z baterijo aktivira naslednje omejitve:</string>
-  <string name="power_save_ps_freeze">Zamrzni aplikacije v ozadju</string>
+  <string name="power_save_ps_freeze">Zamrzne aplikacije v ozadju</string>
   <string name="power_save_ps_limit">Omeji aktivnost aplikacij sistema</string>
   <string name="power_save_settings">Nastavitve baterije</string>
   <string name="power_save_started_summary_text">"Varčevanje baterije je vklopljeno. Zmanjšuje aktivnost aplikacij v ozadju, ustavlja sinhronizacijo in minimizira animacije sistema."</string>
