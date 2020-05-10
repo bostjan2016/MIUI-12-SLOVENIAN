@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="already_in_small_freeform">Nekatere aplikacije se odpirajo v plavajočih oknih</string>
+  <string name="no_avaliable_application">Aplikacij ni na voljo</string>
+  <string name="quick_settings_hang_label">Plavajoča okna</string>
+  <string name="quick_settings_hang_on">Zdaj lahko uporabite plavajoča okna</string>
+</resources>
