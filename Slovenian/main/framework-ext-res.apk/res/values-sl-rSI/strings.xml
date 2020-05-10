@@ -148,7 +148,7 @@
   <string name="miui_warning_tip_info">Napaka %1$s. Zaprem aplikacijo?</string>
   <string name="onehour">30 minut</string>
   <string name="open_close_tip_action">Razumem</string>
-  <string name="open_close_tip_content">Da zaprate plavajoče okno, pritisnite in držite akcijski trak, potem pa povlecite gor</string>
+  <string name="open_close_tip_content">Da zaprete plavajoče okno pritisnite in držite delovni trak, potem pa povlecite gor</string>
   <string name="package_delete_confirm_step_1">Odstranim %s?</string>
   <string name="package_delete_confirm_step_2">Odstranitev te aplikacije lahko povzroči nestabilnost sistema vaše naprave.</string>
   <string name="package_delete_confirm_step_3">"Ne boste mogli odpreti aplikacije ko jo odstranite."</string>

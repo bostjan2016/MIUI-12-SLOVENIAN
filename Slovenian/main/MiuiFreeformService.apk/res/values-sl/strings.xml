@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Plavajoča okna</string>
+  <string name="contentDescription">Pomikanje oken</string>
+  <string name="freeform_demo_back">Nazaj</string>
+  <string name="freeform_demo_final_over">Končano</string>
+  <string name="freeform_demo_final_restart">Začni znova</string>
+  <string name="freeform_demo_final_title">"Pripravljeni ste!"</string>
+  <string name="freeform_demo_go_on">Naprej</string>
+  <string name="freeform_demo_title_finish">Lepo!</string>
+  <string name="freeform_demo_title_skip">Preskoči</string>
+  <string name="how_to_close_or_fullscreen_freeform">Zapiranje plavajočih oken ali preklop na celozaslonski način</string>
+  <string name="how_to_drop_down_to_fullscreen">Preklopi na celozaslonski način dela</string>
+  <string name="how_to_drop_down_to_fullscreen_summary">Dotaknite se in pridržite, nato povlecite navzdol delovni trak plavajočega okna</string>
+  <string name="how_to_hang_freeform">Zmanjšanje plavajočih oken</string>
+  <string name="how_to_hang_to_small_freeform">Zmanjšanje plavajočega okna</string>
+  <string name="how_to_hang_to_small_freeform_summary">Povlecite plavajoče okno v kot zaslona</string>
+  <string name="how_to_move_freeform">Premikanje plavajočih oken</string>
+  <string name="how_to_move_freeform_window">Premikanje plavajočih oken</string>
+  <string name="how_to_move_freeform_window_summary">Dotaknite se in pridržite delovno vrstico plavajočega okna, da jo povlečete</string>
+  <string name="how_to_notification_drop_down">Odpiranje plavajočih oken</string>
+  <string name="how_to_notification_drop_down_summary">Dotaknite se in pridržite, nato povlecite delovni trak obvestila</string>
+  <string name="how_to_open_freeform">Odpiranje obvestil v plavajočem oknu</string>
+  <string name="how_to_slide_up_to_close">Zapiranje plavajočih oken</string>
+  <string name="how_to_slide_up_to_close_summary">Povlecite navzgor iz opravilne vrstice plavajočega okna</string>
+  <string name="how_to_use_freeform">Kako uporabiti plavajoča okna</string>
+</resources>
