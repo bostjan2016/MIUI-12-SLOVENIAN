@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="auto_reject_toggle_summary">Samodejno zavrni dohodne klice na neaktivni kartici SIM, kadar obstaja podatkovni klic velike važnosti na DDS sub</string>
+  <string name="auto_reject_toggle_title">Samodejno zavrni dohodne klice.</string>
+  <string name="ims_settings">IMS nastavitve</string>
+  <string name="ims_to_cs_retry_summary">Samodejno poskusi z redno govorno komunikacijo (priporočljivo)</string>
+  <string name="ims_to_cs_retry_title">CS poskus</string>
+  <string name="ims_vt_call_quality_high">Visoko</string>
+  <string name="ims_vt_call_quality_low">Nizko</string>
+  <string name="ims_vt_call_quality_medium">Srednje</string>
+  <string name="ims_vt_call_quality_set_failed">Kakovost videa ni bila nastavljena</string>
+  <string name="ims_vt_call_quality_title">VT Kakovost klica</string>
+  <string name="ims_vt_call_quality_unknown">Neznano</string>
+  <string name="ims_vt_call_static_image_error">Nepodprt format slike. Izberite drugo sliko</string>
+  <string name="ims_vt_call_static_image_ignore">Statične slike med klicem ni mogoče spremeniti</string>
+  <string name="ims_vt_call_static_image_okay">Statična slika je izbrana</string>
+  <string name="ims_vt_call_static_image_text">Izberite statično sliko</string>
+  <string name="qti_ims_call_deflect_title">Call Deflect številka</string>
+  <string name="qti_ims_number_not_set">Ni nastavljeno</string>
+  <string name="rtt_toggle_summary">RTT Način</string>
+  <string name="rtt_toggle_title">RTT</string>
+  <string name="rtt_visibility_toggle_summary">RTT Nastavitve vidnosti</string>
+  <string name="rtt_visibility_toggle_title">RTT vidnost</string>
+</resources>

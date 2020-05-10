@@ -3380,10 +3380,10 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="freeform_guide_notification_drop_down_summary">Pritisnite in držite, nato povlecite navzdol delovno vrstico obvestil</string>
   <string name="freeform_guide_notification_drop_down_title">Odpiranje plavajočih oken</string>
   <string name="freeform_guide_settings">Plavajoče okno</string>
-  <string name="freeform_guide_slide_up_to_close_summary">Povlecite navzgor z akcijske vrstice s plavajočega okna</string>
+  <string name="freeform_guide_slide_up_to_close_summary">Povlecite navzgor iz delovne vrstice plavajočega okna</string>
   <string name="freeform_guide_slide_up_to_close_title">Zapiranje plavajočih oken</string>
   <string name="freeform_vedio_description">"·Pritisnite in zadržite, nato povlecite dol da odprete obvestilo v plavajočem oknu.
-·Tapnite \"Plavajoče okno\" v Nedavno za izbiro aplikacij."</string>
+·Tapnite \"Plavajoča okna\" v Nedavno za izbiro aplikacij."</string>
   <string name="frequently_fragment_delete">Odstrani</string>
   <string name="frequently_fragment_tempty">Pogosto uporabljene stvari bodo tukaj prikazane</string>
   <string name="fsg_mistake_touch_summary">V nekaterih prizorih, kot igre in videoposnetki na celem zaslonu, morajo gibi biti dvakrat napravljeni da imajo efekt</string>
