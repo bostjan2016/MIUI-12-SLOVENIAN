@@ -483,7 +483,6 @@ Da aktivirate svoj račun sledite
     <string name="passport_wrong_phone_number_format">Oblika telefonske številke ki ste jo vnesli ni veljavna</string>
     <string name="passport_wrong_vcode">Koda ki ste jo vnesli je napačna</string>
     <string name="pic_not_exist">Ta slika ne obstaja</string>
-    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">Vaše pov. inf. skupaj z priponkami bodo poslane Mi strežnikom.</string>
     <string name="plus_one_submit_dialog_not_show_again">Zapomni si izbiro</string>
     <string name="post_miui_bbs_failed">Ne morem objaviti post na MIUI Forum</string>
