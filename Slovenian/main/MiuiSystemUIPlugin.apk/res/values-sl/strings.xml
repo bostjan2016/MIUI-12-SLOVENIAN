@@ -4,4 +4,5 @@
   <string name="no_avaliable_application">Aplikacij ni na voljo</string>
   <string name="quick_settings_hang_label">Plavajoča okna</string>
   <string name="quick_settings_hang_on">Zdaj lahko uporabite plavajoča okna</string>
+  <string name="quick_settings_scanner_label">Skener</string>
 </resources>

@@ -1,108 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="boot_msg_text">
-        <item>Priprava (0%)</item>
-        <item>Priprava (1%)</item>
-        <item>Priprava (2%)</item>
-        <item>Priprava (3%)</item>
-        <item>Priprava (4%)</item>
-        <item>Priprava (5%)</item>
-        <item>Priprava (6%)</item>
-        <item>Priprava (7%)</item>
-        <item>Priprava (8%)</item>
-        <item>Priprava (9%)</item>
-        <item>Priprava (10%)</item>
-        <item>Priprava (11%)</item>
-        <item>Priprava (12%)</item>
-        <item>Priprava (13%)</item>
-        <item>Priprava (14%)</item>
-        <item>Priprava (15%)</item>
-        <item>Priprava (16%)</item>
-        <item>Priprava (17%)</item>
-        <item>Priprava (18%)</item>
-        <item>Priprava (19%)</item>
-        <item>Priprava (20%)</item>
-        <item>Posodabljanje (21%)</item>
-        <item>Posodabljanje (22%)</item>
-        <item>Posodabljanje (23%)</item>
-        <item>Posodabljanje (24%)</item>
-        <item>Posodabljanje (25%)</item>
-        <item>Posodabljanje (26%)</item>
-        <item>Posodabljanje (27%)</item>
-        <item>Posodabljanje (28%)</item>
-        <item>Posodabljanje (29%)</item>
-        <item>Posodabljanje (30%)</item>
-        <item>Posodabljanje (31%)</item>
-        <item>Posodabljanje (32%)</item>
-        <item>Posodabljanje (33%)</item>
-        <item>Posodabljanje (34%)</item>
-        <item>Posodabljanje (35%)</item>
-        <item>Posodabljanje (36%)</item>
-        <item>Posodabljanje (37%)</item>
-        <item>Posodabljanje (38%)</item>
-        <item>Posodabljanje (39%)</item>
-        <item>Posodabljanje (40%)</item>
-        <item>Optimiziranje (41%)</item>
-        <item>Optimiziranje (42%)</item>
-        <item>Optimiziranje (43%)</item>
-        <item>Optimiziranje (44%)</item>
-        <item>Optimiziranje (45%)</item>
-        <item>Optimiziranje (46%)</item>
-        <item>Optimiziranje (47%)</item>
-        <item>Optimiziranje (48%)</item>
-        <item>Optimiziranje (49%)</item>
-        <item>Optimiziranje (50%)</item>
-        <item>Optimiziranje (51%)</item>
-        <item>Optimiziranje (52%)</item>
-        <item>Optimiziranje (53%)</item>
-        <item>Optimiziranje (54%)</item>
-        <item>Optimiziranje (55%)</item>
-        <item>Optimiziranje (56%)</item>
-        <item>Optimiziranje (57%)</item>
-        <item>Optimiziranje (58%)</item>
-        <item>Optimiziranje (59%)</item>
-        <item>Optimiziranje (60%)</item>
-        <item>Optimiziranje (61%)</item>
-        <item>Optimiziranje (62%)</item>
-        <item>Optimiziranje (63%)</item>
-        <item>Optimiziranje (64%)</item>
-        <item>Optimiziranje (65%)</item>
-        <item>Optimiziranje (66%)</item>
-        <item>Optimiziranje (67%)</item>
-        <item>Optimiziranje (68%)</item>
-        <item>Optimiziranje (69%)</item>
-        <item>Optimiziranje (70%)</item>
-        <item>Optimiziranje (71%)</item>
-        <item>Optimiziranje (72%)</item>
-        <item>Optimiziranje (73%)</item>
-        <item>Optimiziranje (74%)</item>
-        <item>Optimiziranje (75%)</item>
-        <item>Optimiziranje (76%)</item>
-        <item>Optimiziranje (77%)</item>
-        <item>Optimiziranje (78%)</item>
-        <item>Optimiziranje (79%)</item>
-        <item>Optimiziranje (80%)</item>
-        <item>Optimiziranje (81%)</item>
-        <item>Optimiziranje (82%)</item>
-        <item>Optimiziranje (83%)</item>
-        <item>Optimiziranje (84%)</item>
-        <item>Optimiziranje (85%)</item>
-        <item>Optimiziranje (86%)</item>
-        <item>Optimiziranje (87%)</item>
-        <item>Optimiziranje (88%)</item>
-        <item>Optimiziranje (89%)</item>
-        <item>Zaključevanje posodobitve (90%)</item>
-        <item>Zaključevanje posodobitve (91%)</item>
-        <item>Zaključevanje posodobitve (92%)</item>
-        <item>Zaključevanje posodobitve (93%)</item>
-        <item>Zaključevanje posodobitve (94%)</item>
-        <item>Zaključevanje posodobitve (95%)</item>
-        <item>Zaključevanje posodobitve (96%)</item>
-        <item>Zaključevanje posodobitve (97%)</item>
-        <item>Zaključevanje posodobitve (98%)</item>
-        <item>Zaključevanje posodobitve (99%)</item>
-        <item>Zaključevanje posodobitve (100%)</item>
-     </string-array>
+<string-array name="fingerprint_acquired_vendor">
+        <item>Poskusite ponovno</item>
+        <item></item>
+        <item></item>
+        <item>Pokrijte skener popolnoma in ga pritisnite malo močneje</item>
+        <item></item>
+        <item>Pokrijte skener popolnoma in ga pritisnite malo močneje</item>
+        <item>Pokrijte skener popolnoma in ga pritisnite malo močneje</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Pokrijte skener popolnoma in ga pritisnite malo močneje</item>
+        <item>Pokrijte skener popolnoma in ga pritisnite malo močneje</item>
+        <item>"Prehitro! Ne morem prepoznati prstnega odtisa"</item>
+        <item>Premaknite malo prst in poskusite ponovno</item>
+        <item>Dvignite prst in ga ponovno postavite nazaj na skener</item>
+        <item>Držite prst malo dlje na skenerju</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+		<item>Premaknite prst lahno</item>
+        <item>Prstni odtis je dodan, uporabite drug prst</item>
+    </string-array>	
 	 <string-array name="organized_languages_international">
         <item>en_GB</item>
         <item>en_US</item>

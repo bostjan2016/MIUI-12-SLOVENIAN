@@ -186,6 +186,7 @@
   <string name="connection_lost">Ni povezano</string>
   <string name="contain_sensitive_words">Odstranite neprimerne besede in poskusite ponovno</string>
   <string name="copied">Kopirano</string>
+  <string name="copy">Kopiraj</string>
   <string name="copy_failed">"Ne morem kopirati, ni prostora"</string>
   <string name="copy_failed_retry">"Ne morem kopirati, poskusite ponovno čez %1$s"</string>
   <string name="copy_file_to_kuaipan">Kopiraj datoteko na Kuaipan</string>
@@ -233,6 +234,8 @@
   <string name="delete_files">Izbrišem datoteke: %1$d?</string>
   <string name="delete_folder">Izbrišem to datoteko?</string>
   <string name="delete_folders">Izbrišem mape: %1$d?</string>
+  <string name="des_hide_pwd">Skrij geslo</string>
+  <string name="des_show_pwd">Pokaži geslo</string>
   <string name="delete_selected_tasks">Izbrišem izbrano?</string>
   <string name="delete_success">Datoteka izbrisana</string>
   <string name="delete_video">Izbriši</string>

@@ -81,11 +81,12 @@
   <string name="intelligent_recognition_item_summary">Uporabite označeno melodijo zvonenja za klice iz dostavnih in taxi storitev. Delovalo bo samo če bo %s privzeta melodija zvonjenja.</string>
   <string name="intelligent_recognition_item_title">Identificiraj storitve</string>
   <string name="lock_summary">Zaščitite svoje osebne podatke</string>
+  <string name="low_fps_description">Nižja stopnja osveževanja zaslona. Nižja poraba energije.</string>
   <string name="low_light_preview">Pregled v slabi osvetlitvi</string>
   <string name="midnight">AM</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
-  <string name="miuix_appcompat_cloud_state_finished">Sinhr. s Cloudom</string>
-  <string name="miuix_appcompat_cloud_state_syncing">Sinhr. s Cloudom</string>
+  <string name="miuix_appcompat_cloud_state_finished">Sinhr. z Cloudom je končana</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
@@ -198,6 +199,7 @@
   <string name="search_menu_title">Išči</string>
   <string name="several_days_use_time">Čas zaslona: %2$s</string>
   <string name="shortcut_created">Ta bližnjica že obstaja</string>
+  <string name="silent_ringtone_hint">Zvok je izključen. Povečajte glasnost in poskusite ponovno.</string>
   <string name="sim_slot_1">" (SIM 1)"</string>
   <string name="sim_slot_2">" (SIM 2)"</string>
   <string name="sms_delivered_sound_title">Dostavljena sporočila</string>
@@ -302,8 +304,12 @@ Aplikacija potrebuje povezavo s spletom in dovoljenje za dostop do osebnih podat
   <string name="usage_home_premission_second_summary_double_link_prefix">"Zaščitili bomo vaše osebne podatke skladno z zakoni, predpisi in pravili o zasebnosti. Če ne daste dovoljenj ne boste mogli uporabljati te aplikacije. Lahko prekličete avtorizacijo v Čas zaslona &gt; Nastavitve &gt; Izklopi čas zaslona."</string>
   <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"Pred uporabo aplikacije preberite in se strinjajte z &amp;lt;a href='%1s'&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href='%2s'&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;."</string>
   <string name="usage_home_premission_second_summary_new">"Zaščitili bomo vaše osebne podatke v skladu z relevantnimi zakoni, predpisi in pravili o zasebnosti. Če ne daste dovoljenj za vaše osebne podatke ne boste mogli uporabljati aplikacije. Lahko prekličete avtorizacijo v Čas zaslona &gt; Nastavitve &gt; Izključi čas zaslona. Več informacij na privacy@xiaomi.com."</string>
+  <string name="usage_new_home_app_limit_summary">Nastavite dnevno omejitev zaslona za to aplikacijo</string>
+  <string name="usage_new_home_app_limit_title">Omeji čas zaslona</string>
   <string name="usage_new_home_average">"Povpr. "</string>
+  <string name="usage_new_home_avg_usage_day">Povpr. %s dnevno</string>
   <string name="usage_new_home_category">Kategorija</string>
+  <string name="usage_new_home_classify_manage">Urejanje kategorij aplikacij</string>
   <string name="usage_new_home_compare_text1">%.2f več kot dan prej</string>
   <string name="usage_new_home_compare_text2">%.2f manj kot dan prej</string>
   <string name="usage_new_home_compare_text3">Enako kot dan prej</string>
@@ -317,9 +323,11 @@ Aplikacija potrebuje povezavo s spletom in dovoljenje za dostop do osebnih podat
   <string name="usage_new_home_name">Ime</string>
   <string name="usage_new_home_show_more_data_summary">Lahko omejite čas zaslona za posamezne aplikacije</string>
   <string name="usage_new_home_show_more_data_title">Poglejte več statistik</string>
+  <string name="usage_new_home_sys_no_limit_summary">"Ne morem omejiti čas zaslona za sistemske aplikacije"</string>
   <string name="usage_new_home_unlock_equals_text">Isto kot dan prej</string>
   <string name="usage_new_home_unused">"Nisem uporabil"</string>
   <string name="usage_new_home_update">Zamenjaj</string>
+  <string name="usage_new_home_usage_detail">Podrobnosti o uporabi</string>
   <string name="usage_new_home_week_category_title">Kategorije aplikacij</string>
   <string name="usage_new_home_week_compare_text1">%.2f več kot teden prej</string>
   <string name="usage_new_home_week_compare_text2">%.2f manj kot teden prej</string>

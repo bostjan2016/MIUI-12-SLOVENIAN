@@ -105,6 +105,7 @@
     <string name="bluetooth_opp_profile_summary_connected">Povezava s strežnikom za prenos datotek je vzpostavljena</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Povezava s strežnikom za prenos datotek ni vzpostavljena</string>
     <string name="bluetooth_opp_profile_summary_use_for">Uporabi za prenos datotek</string>
+  <string name="bluetooth_paired">Seznanjeno</string>
     <string name="bluetooth_pairing">Seznanjanje…</string>
     <string name="bluetooth_pairing_accept">Seznani</string>
     <string name="bluetooth_pairing_accept_all_caps">SEZNANI</string>

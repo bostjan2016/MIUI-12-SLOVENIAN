@@ -788,7 +788,7 @@ Avdio"</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalija (modro – rumeno)</string>
   <string name="daltonizer_type_overridden">Premoščeno z nastavitvijo %1$s</string>
   <string name="data_disable_warning_no_mms">"Ne boste mogli pošiljati in prejemati MMS če izključite mobilne podatke (WCDMA/LTE). Lahko pa za to uporabite WiFi."</string>
-  <string name="data_disable_warning_with_mms">"Lahko boste pošiljali in prejemali MMS če izključite mobilne podatke (WCDMA/LTE). Za uporabo spleta se povežite na WiFi.."</string>
+  <string name="data_disable_warning_with_mms">"Lahko boste pošiljali in prejemali MMS če izključite mobilne podatke (WCDMA/LTE). Za uporabo spleta se povežite na WiFi."</string>
   <string name="data_disable_warning_with_mms_lgu">"Lahko boste pošiljali in prejemali MMS če izključite mobilne podatke (WCDMA/LTE). Za uporabo spleta se povežite na WiFi.
 
 Izključim mobilne podatke?"</string>

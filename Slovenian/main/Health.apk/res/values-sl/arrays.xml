@@ -6,9 +6,9 @@
         <item>Predolgo</item>
     </string-array>
     <string-array name="arr_sedentary_reminder">
-        <item>Čas je za miganje!</item>
+        <item>Čas je za gibanje!</item>
         <item>Izvedite več</item>
-        <item>Popijte malo vode in se sprehodite.</item>
+        <item>Spijte malo vode in pojdite na sprehod.</item>
         <item>Izvedite več</item>
         <item>Pojdite po stopnicah</item>
         <item>Izvedite več</item>
@@ -29,14 +29,14 @@
         <item>" km"</item>
     </string-array>
     <string-array name="pager_titles">
-        <item>Dnevno</item>
+        <item>Dan</item>
         <item>Tedensko</item>
         <item>Mesečno</item>
     </string-array>
     <string-array name="run_in_background_state">
         <item>Zmeraj</item>
-        <item>Omeji aktivnost v ozadju</item>
-        <item>Ustavi čez 10 minut</item>
+        <item>Omeji aktivnosti v ozadju</item>
+        <item>Ustavi po 10 minutah</item>
         <item>Nikoli</item>
     </string-array>
     <string-array name="speed_unit">
@@ -51,6 +51,15 @@
         <item>Cilj spanja: %1$d hr</item>
         <item>Za zdaj ni podatkov o spanju</item>
         <item>Odpiranje Mi Zdravje</item>
+    </string-array>
+	<string-array name="stand_guide_page_content1">
+        <item>Sedenje ne koristi vašemu zdravju. Tudi če ne morete zmanjšati časa sedenja, je občasno vstajanje dobra ideja.</item>
+        <item>Ta funkcija vas bo spomnila, da vsako uro porabite vsaj 1 minuto za vstajanje. 12 ur z odmori za vstajanje vsak dan vam bo pomagalo preprečiti nevarnost sedečega načina življenja.</item>
+        <item>Če želite izvedeti več, se dotaknite \ "Nadaljuj \" in vklopite to funkcijo.</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>Xiaomi Zdravje ugotovi, ali ste vstajali na podlagi načina uporabe vaše naprave. Če eno uro ne opazi premikanja vas bo opozoril, da vstanete ali ročno dodate zapis.</item>
+        <item>Ta funkcija bo spremljala vaše gibanje in pošiljala opomnike.</item>
     </string-array>
     <string-array name="temperature_unit">
         <item>℃</item>

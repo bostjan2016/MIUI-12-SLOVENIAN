@@ -406,7 +406,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="allow_lights_title">Dovoli uporabo LED svetlobe</string>
   <string name="allow_mock_location">Dovoli lažne lokacije</string>
   <string name="allow_mock_location_summary">Dovoli lažne lokacije</string>
-  <string name="allow_oaid_used">Dovoli uporabo ID naprave</string>
+  <string name="allow_oaid_used">Uporabi virtualni ID</string>
   <string name="allow_oaid_used_desc">"Programi ne bodo mogli dostopati do nobenega ID-ja, razen če to izrecno dovolite. Nekatere funkcije za osebna priporočila morda ne bodo delovale pravilno, če je ta funkcija vklopljena."</string>
   <string name="allow_overlay_description">To dovoljenje omogoča aplikaciji prikaz čez druge aplikacije ki jih uporabljate in lahko vpliva na uporabo vmesnika v drugih aplikacijah ali vas zavede pri prikazu drugih aplikacij.</string>
   <string name="allow_sound">Dovoli zvok</string>
@@ -1302,6 +1302,7 @@ Možne napake:
   <string name="bluetooth_opp_profile_summary_connected">Povezava s strežnikom za prenos datotek je vzpostavljena</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Povezava s strežnikom za prenos datotek ni vzpostavljena</string>
   <string name="bluetooth_opp_profile_summary_use_for">Uporabi za prenos datotek</string>
+  <string name="bluetooth_paired">Seznanjeno</string>
     <string name="bluetooth_paired_device_title">Vaše naprave</string>
   <string name="bluetooth_pairing">Seznanjanje…</string>
   <string name="bluetooth_pairing_accept">Seznani</string>
@@ -3485,7 +3486,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="google_wallet">Google denarnica</string>
   <string name="got_it">V redu</string>
   <string name="gps_description">Podprtih je več satelitskih navigacijskih sistemov (GPS, BeiDou, GLONASS, Galileo)</string>
-  <string name="gps_description_global">Podprtih je več satelitskih navigacijskih sistemov (%s)</string>
+  <string name="gps_description_global">Naprave Xiaomi so združljive z več navigacijskimi sistemi, vključno z GPS, NavIC, BeiDou, GLONASS in Galileo.</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WiFi</string>
   <string name="guarded_mode_dialog_backup_message">Izdelava var.kopije ni dovoljena v načinu dela Gost.</string>
   <string name="guarded_mode_dialog_title">Ste v načinu Gosta</string>
@@ -6465,6 +6466,7 @@ Vmesnik UT: %5$s"</string>
 
  Podatkov iz aplikacij ne boste izgubili."</string>
   <string name="reset_app_preferences_title">Želite ponastaviti nastavitve aplikacij?</string>
+  <string name="reset_confirm_directory">"Opomba: Preden vrnete stvari se prepričajte ali v vaši mobilni napravi obstaja mapa \ "MIUI-Backup-AllBackup \". Če ne, jo napravite."</string>
     <string name="reset_dashboard_summary">Ponastavite lahko omrežje, aplikacije ali napravo</string>
     <string name="reset_dashboard_title">Možnosti ponastavitve</string>
   <string name="reset_default_apn_failed">Ponastavitev privzete APN ni uspela</string>
@@ -6491,6 +6493,7 @@ Znova zaženite napravo in poskusite znova."</string>
     <string name="reset_network_final_desc_esim">Želite ponastaviti vse omrežne nastavitve in izbrisati prenesene kartice SIM? Tega dejanja ni mogoče razveljaviti.</string>
     <string name="reset_network_title">Ponastavi WiFi, prenos podatkov v mobilnem omrežju in Bluetooth</string>
   <string name="reset_network_wifi">WiFi</string>
+  <string name="reset_remove_data_hint">Vsi zgoraj navedene stvari bodo trajno izbrisane. Pred nadaljevanjem kopirajte vse pomembne stvari v računalnik ali Mi Cloud.</string>
   <string name="reset_second_space_passwd">Ponastavi geslo Drugega prostora</string>
   <string name="reset_second_space_passwd_cancel">Prekini</string>
   <string name="reset_second_space_passwd_confirm">Nadaljuj</string>
@@ -6521,8 +6524,9 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="restore_is_running">Vračanje naprave</string>
   <string name="restore_launcher_layout_hit">Vračanje nastavitev zaganjalnika</string>
   <string name="restore_oaid_content">Ponastavitev trenutne ID naprave bo napravila novo. Ponastavim?</string>
+  <string name="restore_oaid_dialog_content">Več aplikacij uporablja vašo virtualno ID. Če zdaj ponastavite, se lahko nekateri podatki v aplikaciji izgubijo ali postanejo neuporabni. Ponastavim virtualno ID?</string>
   <string name="restore_oaid_positive">Ponastavi</string>
-  <string name="restore_oaid_positive_step">Ponastavi(%1$d)</string>
+  <string name="restore_oaid_positive_step">Ponastavi (%1$d)</string>
   <string name="restore_oaid_title">Ponastavitev ID naprave</string>
   <string name="restore_progress">Obnavljam...</string>
   <string name="restore_report">Podrobnosti obnove</string>

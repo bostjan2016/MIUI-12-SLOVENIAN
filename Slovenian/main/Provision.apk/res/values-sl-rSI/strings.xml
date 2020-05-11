@@ -19,6 +19,7 @@
   <string name="application_package_introduction">Ta aplikacija vam omogoča namestitev aplikacij drugih virov, pregled pred namestitvijo in dajanje priporočil po namestitvi.</string>
   <string name="application_permissions">Dovoljenja aplikacije</string>
   <string name="back">Nazaj</string>
+  <string name="backup_introduction">S to aplikacijo lahko varnostno kopirate in obnovite stvari v napravi.</string>
   <string name="calculator_introduction">Aplikacijo lahko uporabite za računanje, pretvaranje enot in valut in oceno odplačila kredita.</string>
   <string name="camera_introduction">Kamero uporabite za snemanje fotografij in videoposnetkov.</string>
   <string name="carrier_introduction">"Za izboljšanje storitev lahko vaša naprava občasno pošilja informacije o verziji naprave, identifikacijske podatke naprave (vključno IMEI/IMSI/MSISDN/MAC naslov, MEID/ICCID) in približne informacije o lokaciji (vključno ID bazne postaje) mobilnemu operaterju preko WiFi-ja, mobilnih omrežij ali brezplačnega SMS-a. Operater obljublja da bo analiziral podatke samo zaradi izboljšanja kvalitete storitev ali nudenja prilagojenih storitev ali tehnologij in jih ne bo dal na vpogled tretjim osebam. Specifična izjava operaterja mora držati. Posvetujte se z operaterjem glede stroškov te storitve."</string>
@@ -120,6 +121,8 @@ Vseeno izključim?"</string>
   <string name="permission_account">Dostop do računov v napravi:</string>
   <string name="permission_account_introduction">Za prijavo z uporabo Mi Računa</string>
   <string name="permission_application_package_introduction">Za dostop do shrambe zaradi analize in pregleda namestitvenih paketov</string>
+  <string name="permission_backup">Dostop do shrambe</string>
+  <string name="permission_backup_introduction">Za dostop in shranjevanje varnostnih kopij v vaši napravi</string>
   <string name="permission_call_records">Dostop do zgodovine klicev:</string>
   <string name="permission_call_records_introduction">Za dostop do zgodovine klicev zaradi prikazovanja blokiranih stvari</string>
   <string name="permission_call_state_introduction">Za dostop do statusa telefona, snemanja klicev in ustavljanje snemanja med dohodnimi klici</string>
@@ -177,6 +180,7 @@ Pokaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="service_agreement">"Prebral sem in se strinjam."</string>
   <string name="service_name_album">Galerija</string>
   <string name="service_name_application_package">Orodje za namestitev paketa</string>
+  <string name="service_name_backup">Var. kopije</string>
   <string name="service_name_calculator">Kalkulator</string>
   <string name="service_name_camera">Kamera</string>
   <string name="service_name_carrier">Izjava o storitvah operaterja</string>

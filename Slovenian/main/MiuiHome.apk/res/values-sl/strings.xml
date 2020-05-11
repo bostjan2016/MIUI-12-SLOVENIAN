@@ -182,6 +182,9 @@
   <string name="content_description_for_shortcut_icon_checked">%1$s, preverjeno</string>
   <string name="content_description_shortcut_icon_unchecked">%1$s, ni preverjeno</string>
   <string name="content_description_workspace_thumbnail_item">Pregled zaslona, stran %1$s</string>
+  <string name="content_description_button_add">Tapnite za dodajanje trenutnim aplikacijam</string>
+  <string name="content_description_button_disable">"Ne morem dodati več trenutnih aplikacij"</string>
+  <string name="content_description_button_remove">Dotaknite se za odstranitev iz trenutnih aplikacij</string>
   <string name="copy">Kopiraj</string>
   <string name="current_preview">Pregled</string>
   <string name="current_wallpaper">Trenutno</string>

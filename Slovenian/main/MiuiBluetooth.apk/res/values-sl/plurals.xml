@@ -12,4 +12,8 @@
         <item quantity="other">Povezano je %1$d naprav</item>
         <item quantity="one">Povezana je %1$d naprava</item>
     </plurals>
+	<plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Pritisnite in držite gumb %1$s sek. med izklopom</item>
+        <item quantity="one">Pritisnite in držite gumb %1$s sek. med izklopom</item>
+    </plurals>
 </resources>

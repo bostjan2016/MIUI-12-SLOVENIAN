@@ -477,7 +477,10 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
   <string name="todo_item_status_delete">Izbriši</string>
   <string name="todo_item_status_finished">Končano</string>
   <string name="todo_item_status_unfinished">Ni dokončano</string>
-  <string name="todo_list_edit_text_hint">Tapni \"Naprej\" za ustvarjanje podnaslova</string>
+  <string name="todo_list">Seznam podnalog</string>
+  <string name="todo_list_edit_text_hint">Tapni \"Naprej\" za ustvarjanje podnalog</string>
+  <string name="todo_list_new_finish_all_tip">Nove stvari morajo vsebovati vsaj eno nedokončano nalogo</string>
+  <string name="todo_list_overflow_tip">"Ne morem napraviti več podnalog"</string>
   <string name="todo_menu_add_audio_description">Dodaj glasovno nalogo</string>
   <string name="todo_menu_add_description">Dodaj nalogo</string>
   <string name="todo_menu_cancel">Prekliči</string>
@@ -527,6 +530,8 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
   <string name="unclassfied_folder_name">Nekategorizirano</string>
   <string name="undo">Razveljavi</string>
   <string name="unknown_source">Neznan vir</string>
+  <string name="v7_preference_off">IZKLJUČENO</string>
+  <string name="v7_preference_on">VKLJUČENO</string>
   <string name="wednesday">Sreda</string>
   <string name="wednesday_short">Sre</string>
   <string name="wednesday_shortest">S</string>
