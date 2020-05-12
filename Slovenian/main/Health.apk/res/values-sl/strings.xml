@@ -60,7 +60,7 @@ Xiaomi zdravje podpira naprave, ki ste jih predhodno dodali v aplikacijo Mi Home
   <string name="am">AM</string>
   <string name="audio_permission_dialog_desc">Dovoljenje za snemanje zvoka ni dano. Dajte dovoljenje</string>
   <string name="audio_permission_dialog_title">Dajte dovoljenje za snemanje zvoka</string>
-  <string name="audio_record_perm_description">Zabeležite smrčanje in sanje med spanjem</string>
+  <string name="audio_record_perm_description">Zabeležite smrčanje in govor med spanjem</string>
   <string name="audio_record_permission_description">Za snemanje pogovorov in smrčanja med analizo cikla spanja</string>
   <string name="auth_description">Omogočite %1$s sinhronizirati podatke iz naslednjih naprav</string>
     <string name="auto_start_fail">"Ne morem dodeliti dovoljenj"</string>
