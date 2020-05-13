@@ -262,6 +262,7 @@ Avdio"</string>
   <string name="fast_connect_device_title_find_headset">Najdi %1$s</string>
   <string name="fast_connect_device_title_find_headset_others">"Kaže da to ni vaša naprava: %1$s"</string>
   <string name="fast_connect_nzbt_reset">Držite pritisnjeno zgornjo tipko %1$s sek. med izklopom</string>
+  <string name="fast_connect_reset_common">Ponastavite to napravo za seznanitev</string>
   <string name="fast_connect_wbs_name">Mi Wireless polnilec za zvočnik</string>
   <string name="fast_connect_wbs_reset">Držite pritisnjeno zgornjo tipko %1$s sek. med izklopom</string>
   <string name="feiyu_vlog_name">Feiyu VLOG pocket</string>

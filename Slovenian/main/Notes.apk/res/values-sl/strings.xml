@@ -205,8 +205,8 @@ Tapnite + da napravite mapo"</string>
   <string name="merge_to_folder">Izradi mapu</string>
   <string name="midnight">AM</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
-  <string name="miuix_appcompat_cloud_state_finished">Sinhr. s Cloudom</string>
-  <string name="miuix_appcompat_cloud_state_syncing">Sinhr. s Cloudom</string>
+  <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>

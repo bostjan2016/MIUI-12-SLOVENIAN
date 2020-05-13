@@ -1676,6 +1676,11 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="quick_settings_cellular_detail_data_usage">Poraba podatkov</string>
     <string name="quick_settings_cellular_detail_data_used">Porabljeno: %s</string>
     <string name="quick_settings_cellular_detail_data_warning">Opozorilo – %s</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobilni podatki (WCDMA/LTE) bodo izključeni. Če ne uporabljate omrežja WiFi, ne boste mogli več uporabljati aplikacij, ki zahtevajo podatkovno povezavo. Pošiljanje ali prejemanje večpredstavnostnih sporočil bo omejeno.</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobilni podatki bodo izključeni. Povezava z mobilnimi omrežji lahko povzroči dodatne stroške, odvisno od stanja podatkov.</string>
+  <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Prekliči</string>
+  <string name="quick_settings_cellular_detail_dialog_positive_button_ok">V redu</string>
+  <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Izključi</string>
     <string name="quick_settings_cellular_detail_over_limit">Omejitev prekoračena</string>
     <string name="quick_settings_cellular_detail_remaining_data">Preostala količina podatkov</string>
     <string name="quick_settings_cellular_detail_title">Prenos podatkov v mobilnem omrežju</string>

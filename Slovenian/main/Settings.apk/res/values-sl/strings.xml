@@ -4749,6 +4749,8 @@ Nadaljujte k dodatnim nastavitvam."</string>
   <string name="miui_sos_msg_call_log_prefix">"Moja zgodovina klicev za zadnjo uro:"</string>
   <string name="miui_sos_play_voice">Predvajaj SOS sporočilo</string>
   <string name="miui_sos_remind_add">Dodaj</string>
+  <string name="miui_sos_remind_close">Nujni SOS je vključen. Ali ga izklopim skupaj z vsemi povezanimi funkcijami?</string>
+  <string name="miui_sos_remind_close_confirm">Izklopi</string>
   <string name="miui_sos_remind_infocontent">"Dodal sam vas kot moj stik v sili. Če bom v nevarnosti boste prejeli sporočilo z mojimi informacijami o lokaciji. [Mi Klic v sili]"</string>
   <string name="miui_sos_remind_open">Klic v sili potrebuje vsaj en stik v sili da dela normalno.</string>
   <string name="miui_sos_remind_sendinfo">"Povejte ljudem da so zdaj stiki v sili in vam v primeru težav lahko hitro pomagajo."</string>
