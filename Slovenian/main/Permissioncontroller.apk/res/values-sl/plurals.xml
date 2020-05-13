@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Še %1$d</item>
+        <item quantity="one">Še %1$d</item>
+        <item quantity="two">Še %1$d</item>
+        <item quantity="few">Še %1$d</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dnevi</item>
+        <item quantity="one">%s dnevom</item>
+        <item quantity="two">%s dnevoma</item>
+        <item quantity="few">%s dnevi</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s urami</item>
+        <item quantity="one">%s uro</item>
+        <item quantity="two">%s urama</item>
+        <item quantity="few">%s urami</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minutami</item>
+        <item quantity="one">%s minuto</item>
+        <item quantity="two">%s minutama</item>
+        <item quantity="few">%s minutami</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekundami</item>
+        <item quantity="one">%s sekundo</item>
+        <item quantity="two">%s sekundama</item>
+        <item quantity="few">%s sekundami</item>
+    </plurals>
+</resources>
