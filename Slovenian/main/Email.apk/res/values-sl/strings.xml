@@ -647,14 +647,6 @@
   <string name="mailbox_name_display_starred">Označeno</string>
   <string name="mailbox_name_display_trash">Koš</string>
   <string name="mailbox_name_display_unread">Neprebrano</string>
-  <string name="mailbox_name_server_all_unread">Neprebrano</string>
-  <string name="mailbox_name_server_drafts">Osnutki</string>
-  <string name="mailbox_name_server_inbox">Dohodna pošta</string>
-  <string name="mailbox_name_server_junk">Spam</string>
-  <string name="mailbox_name_server_outbox">Odhodna pošta</string>
-  <string name="mailbox_name_server_sent">Poslano</string>
-  <string name="mailbox_name_server_starred">Označeno</string>
-  <string name="mailbox_name_server_trash">Smeti</string>
   <string name="mailbox_settings_activity_title">Možnosti sinhronizacije</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Možnosti sinhronizacije (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Sinhr. e-pošto iz</string>
