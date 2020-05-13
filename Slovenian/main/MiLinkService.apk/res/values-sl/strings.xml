@@ -44,6 +44,7 @@ Za najboljši učinek povežite telefon in zunanji monitor z istim omrežjem WiF
 Opomba: Starejši Mi televizorji morda ne podpirajo predvajanja v različnih omrežjih.
 2. Če uporabljate televizorje, Tv boxe ali projektorje drugih znamk povežite telefon in zunanji monitor z istim omrežjem WiFi.
 Če obeh naprav ni mogoče povezati v isto omrežje, vklopite Miracast na zunanjem monitorju. Poimenovanje funkcije Miracast se lahko razlikuje."</string>
+  <string name="help_page_text_07">3. Nekateri Xiaomi televizorji ali televizorji drugih znamk ne podpirajo pametnega oddajanja. Če brezžičnega omrežja ni ali če se televizor in mobilni telefon ne moreta povezati v isto omrežje, morate vklopiti televizor (ali napravo z velikim zaslonom) in [Miracast] Mirror projection screen]. To ime se lahko razlikuje za različne znamke televizorjev. Naslednjo stran lahko premaknete na dno te strani in izveste več.</string>
   <string name="help_page_text_08">Korak 2</string>
   <string name="help_page_text_09">"Tapnite bližnjico \"Predvajaj\" na vaši mobilni napravi v plošči obvestil. Vključite WiFi in Bluetooth za stabilnejšo povezavo."</string>
   <string name="help_page_text_10">Če želite predvajati stvari iz Galerije ali Mi Video, lahko uporabite v teh aplikacijah vgrajene storitve za predvajanje.</string>
@@ -105,10 +106,11 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
 4. V primeru drugih težav uporabite aplikacijo Povratne informacije."</string>
   <string name="help_page_text_55_global">"Če se ne morete povezati na omrežje preverite ali vaš zunanji monitor podpira Miracast storitev in ali je vključena. Pri različnih modelih se to lahko imenuje brezžični zaslon, predvajanje zaslona ali večkratni zaslon.</string> 
   <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
+  <string name="nfc_connect_failed_toast">"Ne morem predvajati. Poskusite ponovno."</string>
   <string name="notification_rc_desc">Najboljši TV pomočnik za prenos vaših videov, fotografij in aplikacij v XiaoMi Box (ali TV) za vaš mobilni telefon, poskusite zdaj!</string>
   <string name="notification_rc_title">XiaoMi TV pomočnik</string>
   <string name="notification_show_more">Poglejte dodatne storitve</string>
-  <string name="privacy_agree">同意</string>
+  <string name="privacy_agree">Strinjam se</string>
   <string name="privacy_text_1">　　Vabljeni k uporabi storitve screencast. Storitev predvajanja zaslonov ponuja Milian, nekatere storitve predvajanja zaslona pa podpirajo televizijski ekrani drugih proizvajalcev. Če želite zagotoviti svojo zasebnost, ne pozabite prebrati&lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
   <string name="privacy_text_2">　　S klikom Strinjam se strinjate z navedeno&lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;vsebino in dodeljenim privilegijem.</string>
   <string name="privacy_text_pemission">"　　• Omrežna dovoljenja WIFI se uporabljajo za odkrivanje in povezovanje naprav.
@@ -124,6 +126,7 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
   <string name="san_wait_msg_4">"Poglejte \"Pomoč\" če ne najdete naprav"</string>
   <string name="service_name">UniPlay storitev</string>
   <string name="small_window">Minimiziraj okno</string>
+  <string name="small_window_not_supported">"Ne morete zmanjšati te aplikacije dokler se predvaja"</string>
   <string name="status_bar_in_casting">Predvajanje</string>
   <string name="status_bar_in_casting_long">Kliknite za razširitev dodatnih storitev</string>
   <string name="status_bar_notification_info_overflow">999+</string>

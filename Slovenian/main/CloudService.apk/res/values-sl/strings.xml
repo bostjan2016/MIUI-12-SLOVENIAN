@@ -551,8 +551,8 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   <string name="micloud_web_discription_02">za shranjevanje in dostop do vaših podatkov od kjerkoli</string>
   <string name="micloud_web_discription_place_holder">Obiščite %1$s</string>
   <string name="micloud_website">Cloud Podatki</string>
-  <string name="micloud_wipe_data_confirm_label">Odstrani podatke iz Mi Clouda</string>
-  <string name="micloud_wipe_data_confirm_title">Odstranim sinhronizirane stvari iz Mi Clouda in iz telefona po odjavi?</string>
+  <string name="micloud_wipe_data_confirm_label">Želite izbrisati sinhronizirane stvari iz te naprave?</string>
+  <string name="micloud_wipe_data_confirm_title">Nekatere stvari iz naslednjih aplikacij so sinhronizirane s Mi Cloudom. Lahko jih izbrišete iz naprave in obdržite v Mi Cloudu.</string>
   <string name="micloud_wipe_data_remove">Odstrani</string>
   <string name="micloud_wipe_data_retain">Obdrži</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>

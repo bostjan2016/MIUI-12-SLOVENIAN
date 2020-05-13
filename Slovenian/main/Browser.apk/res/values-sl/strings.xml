@@ -42,6 +42,7 @@
   <string name="action_menu_request_desktop_site_off">Dostop do spletnih strani je izklj.</string>
   <string name="action_menu_request_desktop_site_on">Dostop do spletnih strani ja vklj.</string>
   <string name="action_menu_text_add_bookmark">Dodaj zaznamek</string>
+  <string name="action_menu_text_add_shortcut">Dodaj bližnjico</string>
   <string name="action_menu_text_bandwidth">Varčevanje s podatki</string>
   <string name="action_menu_text_bandwidth_off">Varčevanje izklj.</string>
   <string name="action_menu_text_bandwidth_on">Varčevanje vklj.</string>

@@ -223,6 +223,7 @@
   <string name="select">Izberi</string>
   <string name="select_all">Izberi vse</string>
   <string name="send_files_to">Pošlji stvari na</string>
+  <string name="serviceEnabled">Storitev je omogočena.</string>
   <string name="set_password_action">Nastavite geslo</string>
   <string name="set_password_message">Nastavite geslo</string>
   <string name="set_password_title">Nastavite geslo</string>

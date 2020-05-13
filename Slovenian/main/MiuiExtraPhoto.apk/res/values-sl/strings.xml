@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="doc_photo_adjust_section_title">Povleci za prilagoditev</string>
+  <string name="doc_photo_cancel">Prekliči</string>
+  <string name="doc_photo_confirm">Izhod</string>
   <string name="doc_photo_doc_photo_title">Uredi dokument</string>
   <string name="doc_photo_enhance_bin">B&amp;W</string>
   <string name="doc_photo_enhance_color">Izboljšano</string>
   <string name="doc_photo_enhance_none">Original</string>
+  <string name="doc_photo_idcard_alert_msg">Zavržem spremembe in zaprem urejevalca?</string>
   <string name="doc_photo_idcard_emblem">Nazaj</string>
   <string name="doc_photo_idcard_mode_title">ID kartica</string>
   <string name="doc_photo_idcard_portrait">Portret</string>

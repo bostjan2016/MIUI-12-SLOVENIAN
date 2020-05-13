@@ -1505,6 +1505,10 @@
         <item>Obvestila se bodo pojavila v plošči obvestil</item>
         <item>Obvestila se bodo pojavila v zasebni mapi</item>
     </string-array>
+	 <string-array name="vpn_proxy_settings">
+        <item>Nič</item>
+        <item>Ročno</item>
+     </string-array>
 	<string-array name="wifi_privacy_entries">
         <item>Uporabi naključni MAC</item>
         <item>Uporabi MAC naprave</item>

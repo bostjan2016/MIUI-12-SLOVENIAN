@@ -766,6 +766,7 @@ pritisnite sprožilec"</string>
   <string name="pic_flaw_blink_one">Kaže da je oseba v kadru zaprla oči</string>
   <string name="pic_flaw_cover">Kaže da je leča delno prekrita</string>
   <string name="popup_tip_3d_beauty_intro_text">3D olepšanje</string>
+  <string name="popup_tips_near_range_mode">Način zapiranja</string>
   <string name="portait_effect_entry_blackwhite">B&amp;W</string>
   <string name="portait_effect_entry_cool">Mint</string>
   <string name="portait_effect_entry_dusk">Zora</string>
@@ -1107,6 +1108,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_sr_enable_title">Vključi SR</string>
   <string name="pref_camera_stereo_mode_title">Nastavitev fokusa</string>
   <string name="pref_camera_super_resolution_title">Vključi SR</string>
+  <string name="pref_camera_touch_focus_delay_title">Podaljšana časovna omejitev ostrenja na dotik</string>
   <string name="pref_camera_tilt_shift_entry_circle">Krog</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Paralela</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
@@ -1125,6 +1127,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_video_duration_entry_mms">30 sek.(MMS)</string>
   <string name="pref_camera_video_duration_title">Trajanje videoposnetka</string>
   <string name="pref_camera_video_show_faceview_title">Pokaži okvir obraza v video načinu</string>
+  <string name="pref_camera_video_sat_enable_title">Vključi storitev smooth zoomiranja</string>
   <string name="pref_camera_video_tag">Dovoli označevanje videoposnetkov</string>
   <string name="pref_camera_video_tag_description">Tapnite \"Označi\" med snemanjem videoposnetkov da se boste lahko vrnili v označene trenutke med predvajanjem</string>
   <string name="pref_camera_volumekey_function_entry_exposure">Ekspozicija</string>
@@ -1260,6 +1263,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="preparing_sd">Pripravljam notranji pomnilnik…</string>
   <string name="preview_back_pressed_hint">Tapnite ponovno za vrnitev na pregled</string>
+  <string name="pref_camera_debug_info_as_watermark_title">Vključi odpravljanje napak oznak</string>
+  <string name="pro_color_mode">Pro barva</string>
   <string name="qq_details">QQ podrobnosti:</string>
   <string name="qr_code_details">Podrobnosti QQ kode:</string>
   <string name="raw_data_exit_button_text">Izhod iz RAW načina</string>
@@ -1347,6 +1352,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="super_eis_pro">Steady video Pro</string>
   <string name="super_eis_pro_disabled_hint">Steady video Pro je izključena</string>
   <string name="super_night_hint">Optimiziranje slike… Držite napravo mirno.</string>
+  <string name="super_night_se_tip">Nočni način</string>
   <string name="super_night_toast">Držite telefon mirno</string>
   <string name="tags">Oznake</string>
   <string name="tap_to_exposure">Dotaknite se da ročno nastavite osvetlitev </string>

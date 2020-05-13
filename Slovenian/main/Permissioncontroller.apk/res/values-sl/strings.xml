@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
-    <string name="abc_action_bar_up_description">Pomik navzgor</string>
+    <string name="abc_action_bar_up_description">Nazaj</string>
     <string name="abc_action_menu_overflow_description">Več možnosti</string>
     <string name="abc_action_mode_done">Končano</string>
     <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
     <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
-    <string name="abc_capital_off">IZKLOP</string>
-    <string name="abc_capital_on">VKLOP</string>
+    <string name="abc_capital_off">IZKLJUČENO</string>
+    <string name="abc_capital_on">VKLJUČENO</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
     <string name="abc_menu_delete_shortcut_label">delete</string>
@@ -16,17 +16,17 @@
     <string name="abc_menu_meta_shortcut_label">Meta +</string>
     <string name="abc_menu_shift_shortcut_label">Shift +</string>
     <string name="abc_menu_space_shortcut_label">preslednica</string>
-    <string name="abc_menu_sym_shortcut_label">Sym +</string>
-    <string name="abc_prepend_shortcut_label">Meni +</string>
-    <string name="abc_search_hint">Iskanje …</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meni+</string>
+    <string name="abc_search_hint">Iskanje…</string>
     <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
     <string name="abc_searchview_description_query">Iskalna poizvedba</string>
     <string name="abc_searchview_description_search">Iskanje</string>
     <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
     <string name="abc_searchview_description_voice">Glasovno iskanje</string>
-    <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
+    <string name="abc_shareactionprovider_share_with">Skupna raba z</string>
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
-    <string name="abc_toolbar_collapse_description">Strnitev</string>
+    <string name="abc_toolbar_collapse_description">Strni</string>
     <string name="additional_permissions">Dodatna dovoljenja</string>
     <string name="all_permissions">Vsa dovoljenja</string>
     <string name="allow_permission_always">Vedno</string>
@@ -39,14 +39,14 @@
     <string name="app_permission_button_allow_always">Vedno dovoli</string>
     <string name="app_permission_button_allow_foreground">Dovoli samo, ko je aplikacija v uporabi</string>
     <string name="app_permission_button_deny">Zavrni</string>
-    <string name="app_permission_footer_no_usages">Aplikacija %1$s ni dostopila do: %2$s.</string>
+    <string name="app_permission_footer_no_usages">Aplikacija %1$s ni dostopila do %2$s.</string>
     <string name="app_permission_footer_usage_link">Podroben prikaz uporabe dovoljenj</string>
     <string name="app_permission_footer_usage_summary">Aplikacija %1$s je do dovoljenja %2$s dostopala pred %3$s.</string>
     <string name="app_permission_header">Dostop do dovoljenja %1$s za aplikacijo %2$s</string>
     <string name="app_permission_title">Dovoljenje %1$s</string>
     <string name="app_permission_usage_bar_label">Aplikacije</string>
-    <string name="app_permission_usage_summary">Dostop: %1$s-krat. Skupno trajanje: %2$s. Nazadnje uporabljeno pred %3$s.</string>
-    <string name="app_permission_usage_summary_no_duration">Dostop: %1$s-krat. Nazadnje uporabljeno pred %2$s.</string>
+    <string name="app_permission_usage_summary">Dostop: %1$s krat. Skupno trajanje: %2$s. Nazadnje uporabljeno pred %3$s.</string>
+    <string name="app_permission_usage_summary_no_duration">Dostop: %1$s krat. Nazadnje uporabljeno pred %2$s.</string>
     <string name="app_permission_usage_title">Uporaba dovoljenj aplikacije</string>
     <string name="app_permissions">Dovoljenja za aplikacije</string>
     <string name="app_permissions_breadcrumb">Aplikacije</string>
@@ -82,8 +82,8 @@
     <string name="grant_dialog_button_more_info">Več informacij</string>
     <string name="help_feedback_label">Pomoč in povratne informacije</string>
     <string name="launch_app">Odpri</string>
-    <string name="lb_control_display_fast_forward_multiplier">%1$d-kratno</string>
-    <string name="lb_control_display_rewind_multiplier">%1$d-kratno</string>
+    <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
+    <string name="lb_control_display_rewind_multiplier">%1$dX</string>
     <string name="lb_guidedaction_continue_title">Nadaljuj</string>
     <string name="lb_guidedaction_finish_title">Dokončaj</string>
     <string name="lb_media_player_error">Koda napake MediaPlayerja: %1$d, dodatno %2$d</string>
@@ -93,7 +93,7 @@
     <string name="lb_playback_controls_closed_captioning_disable">Onemogoči podnapise</string>
     <string name="lb_playback_controls_closed_captioning_enable">Omogoči podnapise</string>
     <string name="lb_playback_controls_fast_forward">Previj naprej</string>
-    <string name="lb_playback_controls_fast_forward_multiplier">Hitro previjanje naprej – %1$d-kratno</string>
+    <string name="lb_playback_controls_fast_forward_multiplier">Hitro previjanje naprej %1$dX</string>
     <string name="lb_playback_controls_hidden">Kontrolniki predstavnosti so skriti, za prikaz pritisnite smerni gumb</string>
     <string name="lb_playback_controls_high_quality_disable">Onemogoči visoko kakovost</string>
     <string name="lb_playback_controls_high_quality_enable">Omogoči visoko kakovost</string>
@@ -105,7 +105,7 @@
     <string name="lb_playback_controls_repeat_none">Brez ponavljanja</string>
     <string name="lb_playback_controls_repeat_one">Ponovi eno</string>
     <string name="lb_playback_controls_rewind">Previj nazaj</string>
-    <string name="lb_playback_controls_rewind_multiplier">Previjanje nazaj – %1$d-kratno</string>
+    <string name="lb_playback_controls_rewind_multiplier">Previjanje nazaj %1$dX</string>
     <string name="lb_playback_controls_shown">Kontrolniki predstavnosti so prikazani</string>
     <string name="lb_playback_controls_shuffle_disable">Onemogoči naključno predvajanje</string>
     <string name="lb_playback_controls_shuffle_enable">Omogoči naključno predvajanje</string>
@@ -148,7 +148,7 @@
     <string name="permission_add_background_warning_template">Želite aplikaciji &lt;b>%1$s&lt;/b> vedno dovoliti to dejanje: %2$s?</string>
     <string name="permission_reminders">Opomniki za dovoljenja</string>
     <string name="permission_request_title">Zahteva za dovoljenje</string>
-    <string name="permission_review_title_template_install">Izberite, do česa aplikaciji &lt;b>%1$s&lt;/b> dovolite dostop</string>
+    <string name="permission_review_title_template_install">Izberite do česa aplikaciji &lt;b>%1$s&lt;/b> dovolite dostop</string>
     <string name="permission_review_title_template_update">Aplikacija &lt;b>%1$s&lt;/b> je posodobljena. Izberite, do česa tej aplikaciji dovolite dostop.</string>
     <string name="permission_revoked_all">vse onemogočeno</string>
     <string name="permission_revoked_count">št. onemogočenih: %1$d</string>
@@ -185,9 +185,9 @@
     <string name="permission_usage_list_title_last_hour">Dostop v zadnji uri</string>
     <string name="permission_usage_list_title_last_minute">Dostop v zadnji minuti</string>
     <string name="permission_usage_summary">"Zadnji dostop: %1$s
-Št. dostopov: %2$s"</string>
+%2$s dostop(ov)"</string>
     <string name="permission_usage_summary_background">"Zadnji dostop: %1$s
-Št. dostopov: %2$s (%3$s v ozadju)"</string>
+%2$s dostop(ov) (%3$s v ozadju)"</string>
     <string name="permission_usage_title">Uporaba dovoljenj</string>
     <string name="permission_usage_view_details">Ogled podrobnosti</string>
     <string name="permission_warning_template">Ali dovolite aplikaciji &lt;b>%1$s&lt;/b> izvesti to dejanje: %2$s?</string>
@@ -205,8 +205,8 @@
     <string name="role_label_music">Aplikacija Glasba</string>
     <string name="role_label_proxy_calling">Apl. za klice prek posrednika</string>
     <string name="role_label_sms">Aplikacija za SMS-je</string>
-    <string name="role_request_message_add">Želite za vlogo %2$s uporabljati aplikacijo &lt;b>%1$s&lt;/b>?</string>
-    <string name="role_request_message_replace">Želite za vlogo %2$s uporabljati aplikacijo &lt;b>%1$s&lt;/b> namesto aplikacije &lt;b>%1$s&lt;/b>?</string>
+    <string name="role_request_message_add">Uporabim ime aplikacije &lt;b>%1$s&lt;/b> kot %2$s?</string>
+    <string name="role_request_message_replace">Uporabim novo ime aplikacije &lt;b>%1$s&lt;/b> namesto trenutnega &lt;b>%1$s&lt;/b> kao %2$s?</string>
     <string name="screen_overlay_button">Odpri nastavitve</string>
     <string name="screen_overlay_message">Če želite spremeniti nastavitev tega dovoljenja, morate najprej izklopiti prekrivanje zaslona v »Nastavitve > Aplikacije«</string>
     <string name="screen_overlay_title">Zaznano prekrivanje zaslona</string>
