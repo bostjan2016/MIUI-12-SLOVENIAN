@@ -170,7 +170,7 @@ Xiaomi zdravje podpira naprave, ki ste jih predhodno dodali v aplikacijo Mi Home
   <string name="data_details">Podrobnosti o podatkih</string>
   <string name="data_empty">Ni podatkov</string>
   <string name="data_safety_tip_details">Vaši zdravstveni podatki bodo shranjeni v tej napravi, ko se odjavite. Zdravstvene podatke lahko izbrišete v Zdravje &gt; Vir podatkov.</string>
-  <string name="data_safety_tip_details2">"Nekaj vaših zdravstvenih podatkov je bilo prenesenih v oblak. V tej napravi lahko shranite svoje zdravstvene podatke ali jih izbrišete. Če izberete \ "Izbriši \", bodo izbrisani samo podatki iz te naprave, sinhronizirani elementi bodo še vedno shranjeni v oblaku.
+  <string name="data_safety_tip_details2">"Nekaj vaših zdravstvenih podatkov je bilo prenesenih v oblak. V tej napravi lahko shranite svoje zdravstvene podatke ali jih izbrišete. Če izberete \ "Izbriši \", bodo izbrisani samo podatki iz te naprave, sinhronizirane stvari bodo še vedno shranjene v oblaku.
 Če se odločite, da boste zdravstvene podatke izbrisali, lahko to storite v Zdravje &gt; Vir podatkov."</string>
   <string name="data_safety_tip_title">Brisanje zdravstvenih podatkov</string>
   <string name="data_source">Vir podatkov</string>
@@ -703,7 +703,7 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="send_diagnosis_log">Pošlji poročilo</string>
   <string name="sending">Pošiljanje…</string>
   <string name="setting">Nastavitve</string>
-  <string name="setting_data_cloud_sync_tip">To funkcijo uporabite za varnostno kopiranje elementov iz te naprave in sinhronizacijo zdravstvenih podatkov iz drugih naprav</string>
+  <string name="setting_data_cloud_sync_tip">To funkcijo uporabite za varnostno kopiranje stvari iz te naprave in sinhronizacijo zdravstvenih podatkov iz drugih naprav</string>
   <string name="setting_sedentary_off">IZKLJUČENO</string>
   <string name="setting_sedentary_on">VKLJUČENO</string>
   <string name="setting_sedentary_title">Opomni me za sprehod</string>

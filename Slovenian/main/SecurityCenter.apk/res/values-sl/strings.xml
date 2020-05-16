@@ -1230,7 +1230,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="examination_score_100_with_recommend">Toliko stvari(%d) se lahko optimizira</string>
   <string name="examination_score_60_0">Preveri zdaj</string>
   <string name="examination_score_80_100">Nekaj stvari je lahko optimiziranih</string>
-  <string name="examination_score_80_100_with_recommend">Elementov (%d) se lahko optimizira</string>
+  <string name="examination_score_80_100_with_recommend">Stvari (%d) se lahko optimizira</string>
   <string name="examination_score_80_60">Nekaj stvari je lahko optimiziranih</string>
   <string name="examination_score_has_virus">Zaznanih je bilo nekaj sumljivih aplikacij.</string>
   <string name="exception_dialog_message">"Zaradi napake ne morem izračunati statistike porabe. Brez točne statistike aplikacija Varnost ne more spremljati porabo podatkov. Ponovno zaženem da povrnete to opravilo?"</string>
@@ -3324,7 +3324,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sp_background_risk_type_sign">Neuradna aplikacija je zagnana</string>
   <string name="sp_background_risk_type_virus">Virus zagnan v ozadju</string>
   <string name="sp_background_risk_type_wifi">To WiFi omrežje je nevarno</string>
-  <string name="sp_button_text_ignore_alert_title">Ignoriram označen stvar?</string>
+  <string name="sp_button_text_ignore_alert_title">Ignoriram označeno stvar?</string>
   <string name="sp_empty_title_sign_exception">Pritisnite in držite aplikacijo na strani z rezultati za dodajanje na seznam izjem</string>
   <string name="sp_monitored_apps_count_zero">Ni zaščitenih aplikacij za plačevanje</string>
   <string name="sp_monitored_apps_list_title">Nastavitve nadziranja</string>
@@ -3443,7 +3443,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="st_summary_keywords_blacklist">Dodajte ključne besede da blokirate sporočila</string>
   <string name="st_summary_special_numbers">Blokiraj označene številke telefona</string>
   <string name="st_summary_whitelist_numbers">Dovoli klice in sporočila iz določenih številk in področij</string>
-  <string name="st_summary_whitelist_numbers_international">Dovoli klice in sporočila iz doličenih številk</string>
+  <string name="st_summary_whitelist_numbers_international">Dovoli klice in sporočila iz določenih številk</string>
   <string name="st_tab_title">%1$s (SIM %2$d)</string>
   <string name="st_title_addblacklist">Dodaj na seznam blokiranih</string>
   <string name="st_title_addwhitelist">Dodaj v izjeme</string>
@@ -4191,7 +4191,7 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="vtb_func_desc">O storitvi</string>
   <string name="vtb_func_display_style_desc1">"Izbrani efekti ne bodo uporabljeni v HDR videoposnetkih."</string>
   <string name="vtb_func_display_style_desc2">"Ti efekti se ne morejo uporabiti pri posnetkih zaslona."</string>
-  <string name="vtb_func_frc_desc0">Glajenje gibov zmanjšuje zamegljevanje in dodaja podrobnosti premikajočim se stvarom. Uporaba povečuje porabo energije.</string>
+  <string name="vtb_func_frc_desc0">Glajenje gibov zmanjšuje zamegljevanje in dodaja podrobnosti premikajočim se predmetom. Uporaba povečuje porabo energije.</string>
   <string name="vtb_func_frc_desc1">"Glajenje gibov ne dela v naslednjih pogojih:"</string>
   <string name="vtb_func_frc_desc2">Ko je resolucija videoposnetka večja od 1080P</string>
   <string name="vtb_func_frc_desc3">Ko je hitrost kadra večja od 30 FPS</string>

@@ -321,8 +321,7 @@
   <string name="groupon_setting_brief">Pokaži informacije o kupljenih vstopnicah in kuponih.</string>
   <string name="guide_button_btn_close">Zapri</string>
   <string name="guide_button_btn_keep">Obdrži</string>
-  <string name="hold_down_adjustment_order">Držite ikono na desni, da povlečete elemente</string>
-  <string name="home">Dom</string>
+  <string name="hold_down_adjustment_order">Držite ikono na desni, da povlečete stvari
   <string name="home_and_company">Dom &amp; Služba</string>
   <string name="hour12_format_en">hh:mm</string>
   <string name="hour24_format_en">HH:mm</string>
@@ -444,7 +443,7 @@
   <string name="navigation_network_location_not_enabled_title">Vključite storitve lokacije</string>
   <string name="navigation_search_automatically_positioned_city">Trenutna lokacija</string>
   <string name="navigation_search_current_city">Trenutno mesto: </string>
-  <string name="navigation_search_default_hint">Poiščite elemente tukaj</string>
+  <string name="navigation_search_default_hint">Poiščite stvari tukaj</string>
   <string name="navigation_search_no_city_list">Tukaj ni mest</string>
   <string name="navigation_search_positioning">Pridobivanje informacij o lokaciji…</string>
   <string name="navigation_search_positioning_failed">Ni bilo mogoče pridobiti lokacije, ročno izberite mesto</string>
@@ -454,7 +453,7 @@
   <string name="network_tip">Ne morem se povezati na omrežje.</string>
   <string name="network_unavaliable">Ne morem pridobiti informacij. Preverite omrežno povezavo.</string>
   <string name="no_install">Ni nameščeno</string>
-  <string name="no_more_result">Ni več elementov</string>
+  <string name="no_more_result">Ni več rezultatov</string>
   <string name="no_settings">Ni nastavljeno</string>
   <string name="not_install_c1">Ta aplikacija ni nameščena na vašem telefonu. Jo želite prenesti in namestiti?</string>
   <string name="not_install_c3">Prenos</string>

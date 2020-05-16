@@ -1797,7 +1797,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="recents_caption_resize">Izberite novo nastavitev opravil</string>
   <string name="recents_dimiss_task">Izbriši</string>
   <string name="recents_drag_hint_message">Pritisnite in podržite aplikacijo, potem pa jo povlecite sem</string>
-    <string name="recents_empty_message">Ni nedavnih elementov</string>
+    <string name="recents_empty_message">Ni nedavnih stvari</string>
     <string name="recents_empty_message_dismissed_all">Vse ste počistili</string>
   <string name="recents_empty_message_multi_window">Odprite aplikacije na začetnem zaslonu</string>
   <string name="recents_exit_multi_window_mode">Izhod</string>

@@ -17,12 +17,12 @@
          <item quantity="many">" in mape: %1$d"</item>
     </plurals>
     <plurals name="directory_item_count">
-         <item quantity="other">Elementov: %d</item>
-         <item quantity="zero">Elementov: %d</item>
-         <item quantity="one">Element: %d</item>
-         <item quantity="two">Elementa: %d</item>
-         <item quantity="few">Elementov: %d</item>
-         <item quantity="many">Elementov: %d</item>
+         <item quantity="other">Stvari: %d</item>
+         <item quantity="zero">Stvari: %d</item>
+         <item quantity="one">Stvar: %d</item>
+         <item quantity="two">Stvari: %d</item>
+         <item quantity="few">Stvari: %d</item>
+         <item quantity="many">Stvari: %d</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
          <item quantity="other">Preostalo (%1$d) datotek za prenos</item>
@@ -73,12 +73,12 @@
         <item quantity="many">" (%1$d)"</item>
     </plurals>
     <plurals name="file_count">
-        <item quantity="other">Elementov: %d</item>
-        <item quantity="zero">Elementov: %d</item>
-        <item quantity="one">Element: %d</item>
-        <item quantity="two">Elementa: %d</item>
-        <item quantity="few">Elementov: %d</item>
-        <item quantity="many">Elementov: %d</item>
+        <item quantity="other">Stvari: %d</item>
+        <item quantity="zero">Stvari: %d</item>
+        <item quantity="one">Stvar: %d</item>
+        <item quantity="two">Stvari: %d</item>
+        <item quantity="few">Stvari: %d</item>
+        <item quantity="many">Stvari: %d</item>
     </plurals>
 	<plurals name="search_head_hint_app">
         <item quantity="other">Datotek (%2$d) apl. %1$s</item>

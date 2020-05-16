@@ -17,7 +17,7 @@
         <item>Videz besedila, računi in vsebina morda ne bodo pravilno prikazani.</item>
      </string-array>
      <string-array name="perm_intercept_notification">
-        <item>Preberite vsa svoja obvestila, vključno z vsebino vaših besedilnih sporočil in drugih elementov, ki lahko vsebujejo osebne podatke</item>
+        <item>Preberite vsa svoja obvestila, vključno z vsebino vaših besedilnih sporočil in drugih stvari, ki lahko vsebujejo osebne podatke</item>
         <item>Omeji dovoljenja obvestil nekaterih programov</item>
         <item>Simulirajte dotikanje obvestil in odpiranje aplikacij</item>
         <item>Vključite in izključite DND način</item>

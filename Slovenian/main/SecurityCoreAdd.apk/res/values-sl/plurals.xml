@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fileCount">
-        <item quantity="other">Elementov: %d</item>
-        <item quantity="one">%d element</item>
+        <item quantity="other">Stvari: %d</item>
+        <item quantity="one">%d stvar</item>
     </plurals>
     <plurals name="first_space_notification_format">
         <item quantity="other">%d obvestil v prvem prostoru</item>

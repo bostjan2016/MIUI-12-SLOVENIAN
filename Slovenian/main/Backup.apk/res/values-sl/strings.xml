@@ -472,7 +472,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="search_menu_title">Išči</string>
   <string name="see_backup_files_on_router">Pregled var. kopij na Mi Routerju %s</string>
   <string name="select_all">Izberi vse</string>
-  <string name="select_backup_item">Izberi elemente</string>
+  <string name="select_backup_item">Izberi stvari</string>
   <string name="select_empty">Izberite stvari za uvoz</string>
   <string name="select_item_calendar">Koledar</string>
   <string name="select_item_contacts">Stiki</string>
@@ -745,7 +745,7 @@ Prenesite samo važne stvari."</string>
 Prenos samo važnih stvari bo hitrejši."</string>
   <string name="usb_trans_native_no_space">"Samo %s je na voljo.
 Osvobodite prostor ali napravite več manjših prenosov."</string>
-  <string name="usb_trans_old_phone_low_space_msg">"Za shranjevanje var. kopij je potreben dodatan prostor. Za nadaljevanje ni dovolj prostora. Osvobodite prostor in izbrišite nepotrebne datoteke v aplikaciji Varnost ali prenesite samo važne stvari."</string>
+  <string name="usb_trans_old_phone_low_space_msg">"Za shranjevanje var. kopij je potreben dodaten prostor. Za nadaljevanje ni dovolj prostora. Osvobodite prostor in izbrišite nepotrebne datoteke v aplikaciji Varnost ali prenesite samo važne stvari."</string>
   <string name="usb_trans_old_phone_low_space_title">Ni dovolj prostora</string>
   <string name="usb_trans_select_data_no_space">"Samo %s je na voljo v vaši USB napravi.
 Osvobodite prostor ali prenesite samo važne stvari."</string>

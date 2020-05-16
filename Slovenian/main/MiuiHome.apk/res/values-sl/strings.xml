@@ -229,7 +229,7 @@
   <string name="editing_add_widget_tips">Spremeni pripomočke</string>
   <string name="editing_mode_enter_tip_text">Vščipni za urejanje začetnega zaslona</string>
   <string name="editing_mode_title">Izbrano %1$d</string>
-  <string name="editing_mode_title_empty">Izberi elemente</string>
+  <string name="editing_mode_title_empty">Izberi stvari</string>
   <string name="editing_set_screen_layout_cells">Izberite učinek razporeda zaslona</string>
   <string name="editing_set_transition_effect_tips">Izberite učinek prehoda zaslona</string>
   <string name="editing_set_wallpaper_tips">Izberi ozadje</string>
@@ -496,7 +496,7 @@
   <string name="shake_to_align_icons_title">Pretresite da napolnite prazne celice</string>
   <string name="share">Deli</string>
   <string name="sharedUserId"/>
-  <string name="shortcut_share_dialog_content">"Datoteke, ki jih pošljete iz telefona, pa tudi njihove prejemnike izberete in določite vi. Bodite pozorni, ko izbirate datoteke za skupno rabo in izbiro prejemnikov. Svojega telefona ne smete uporabljati za pošiljanje virusov, zlonamerne programske opreme, trojancev, časovnih bomb in drugih škodljivih stvari drugim ljudem. Ne uporabljajte telefona za prenos programske opreme, ki lahko vpliva na redno uporabo prejemnikove naprave ali drugih elementov, ki lahko poškodujejo, motijo, prestrežejo ali odstranijo kakršne koli sistemske podatke ali osebne podatke na mobilnih terminalskih napravah. Odgovorni boste za kakršno koli škodo, povzročeno drugim uporabnikom ali mobilnim terminalom. Xiaomi se bo po svojih najboljših močeh trudil, da bodo funkcionalnost deljenja ter vključena tehnologija in informacije varni, učinkoviti, natančni in zanesljivi. Vendar pa zaradi trenutnih tehnoloških omejitev Xiaomi ne zagotavlja, da je funkcija skupne rabe brezhibna in bo zadovoljila vse vaše potrebe."</string>
+  <string name="shortcut_share_dialog_content">"Datoteke, ki jih pošljete iz telefona, pa tudi njihove prejemnike izberete in določite vi. Bodite pozorni, ko izbirate datoteke za skupno rabo in izbiro prejemnikov. Svojega telefona ne smete uporabljati za pošiljanje virusov, zlonamerne programske opreme, trojancev, časovnih bomb in drugih škodljivih stvari drugim ljudem. Ne uporabljajte telefona za prenos programske opreme, ki lahko vpliva na redno uporabo prejemnikove naprave ali drugih stvari, ki lahko poškodujejo, motijo, prestrežejo ali odstranijo kakršne koli sistemske podatke ali osebne podatke na mobilnih terminalskih napravah. Odgovorni boste za kakršno koli škodo, povzročeno drugim uporabnikom ali mobilnim terminalom. Xiaomi se bo po svojih najboljših močeh trudil, da bodo funkcionalnost deljenja ter vključena tehnologija in informacije varni, učinkoviti, natančni in zanesljivi. Vendar pa zaradi trenutnih tehnoloških omejitev Xiaomi ne zagotavlja, da je funkcija skupne rabe brezhibna in bo zadovoljila vse vaše potrebe."</string>
   <string name="shortcut_share_dialog_positive_button">Razumem</string>
   <string name="shortcut_share_dialog_title">Izjava o omejitvi odgovornosti</string>
   <string name="show_all">Pokaži vse</string>

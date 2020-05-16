@@ -38,7 +38,7 @@
   <string name="addBlackList">Dodaj v seznam blokiranih</string>
   <string name="add_attachment">Dodaj priponko</string>
   <string name="add_contact">Stik</string>
-  <string name="add_festival">Hitri odogovori</string>
+  <string name="add_festival">Hitri odgovori</string>
   <string name="add_miui_contact">Stik</string>
   <string name="add_music">Dodaj glasbo</string>
   <string name="add_nickname">Vzdevek</string>
@@ -120,7 +120,7 @@
   <string name="can_not_view_group_chat_stranger">"Ne morem videti podrobnosti tujcev."</string>
   <string name="cannot_add_picture_and_video">Ne morem dodati videa in fotografije v en diapozitiv.</string>
   <string name="cannot_add_slide_anymore">Ne morem dodati diapozitivov.</string>
-  <string name="cannot_forward_drm_obj">DRM stvar vsebovan v sporočilu ne mora biti posredovan naprej.</string>
+  <string name="cannot_forward_drm_obj">DRM element vsebovan v sporočilu ne mora biti posredovan naprej.</string>
   <string name="cannot_get_details">Ne morem pridobiti podrobnosti.</string>
   <string name="cannot_resend_audio">"Ne morem poslati posnetka"</string>
   <string name="cannot_send_message">Ne morem poslati sporočil</string>

@@ -50,7 +50,7 @@
   <string name="downloads_label">Prenosi</string>
   <string name="drawer_close">Skrij korene</string>
   <string name="drawer_open">Pokaži korene</string>
-  <string name="empty">Ni stvari</string>
+  <string name="empty">Prazno</string>
   <string name="file_operation_error">Opravilo ni uspelo.</string>
   <string name="file_operation_rejected">Opravilo ni podprto.</string>
   <string name="files_label">Datoteke</string>

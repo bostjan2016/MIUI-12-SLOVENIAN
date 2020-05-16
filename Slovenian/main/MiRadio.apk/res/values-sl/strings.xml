@@ -719,7 +719,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="online_music_enabled_summary">Poslušajte in naložite svoje najljubše pesmi. Oglejte si najboljše pesmi in kurirane sezname predvajanja, kamor koli greste!</string>
   <string name="online_music_enabled_title">Prosto pretakanje je tu</string>
   <string name="online_recommend">Avdio knjige</string>
-  <string name="online_service_dialog_message">"Če izklopite spletne storitve, ne boste mogli prejemati priporočil za vsebino in sinhronizirati elementov. Vseeno izklopim?"</string>
+  <string name="online_service_dialog_message">"Če izklopite spletne storitve, ne boste mogli prejemati priporočil za vsebino in sinhronizirati stvari. Vseeno izklopim?"</string>
   <string name="online_service_dialog_title">Online storitve</string>
   <string name="online_service_open_tip">Online glasbene storitve vključene</string>
   <string name="online_service_switch">Online storitve</string>

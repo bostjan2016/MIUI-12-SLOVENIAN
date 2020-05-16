@@ -6,9 +6,9 @@
     </plurals>
      <plurals name="delete_selection">
         <item quantity="other">Izbrišem izbrane stvari?</item>
-        <item quantity="one">Izbrišem izbrani stvar?</item>
+        <item quantity="one">Izbrišem izbrano stvar?</item>
     </plurals>
-	<plurals name="accessibility_focus_face_detect">
+	<plurals name="accessibility_focus_face_dtect">
         <item quantity="other">Fokusirano. Najdeno %d obrazov</item>
         <item quantity="one">Fokusirano. Najden %d obraz</item>
      </plurals>

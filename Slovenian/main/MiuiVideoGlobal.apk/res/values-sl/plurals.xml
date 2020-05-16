@@ -36,9 +36,9 @@
         <item quantity="few">%d videoposnetki</item>
     </plurals>
 	<plurals name="plus_edit_delete_comfire_text">
-        <item quantity="other">Želite izbirsati %s stvari?</item>
-        <item quantity="one">Želite izbirsati %s stvar?</item>
-        <item quantity="few">Želite izbirsati %s stvari?</item>
+        <item quantity="other">Želite izbrisati %s stvari?</item>
+        <item quantity="one">Želite izbrisati %s stvar?</item>
+        <item quantity="few">Želite izbrisati %s stvari?</item>
     </plurals>
     <plurals name="plus_edit_top_titletext">
         <item quantity="other">Izbrano: %s</item>

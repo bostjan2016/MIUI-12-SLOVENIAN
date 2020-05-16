@@ -319,7 +319,7 @@
   <string name="confirm_save_message_title">Shranim kot osnutek?</string>
   <string name="confirm_save_message_yes">Shrani</string>
   <string name="confirm_send_message_with_no_body">Ni besedila v telesu sporočila.</string>
-  <string name="confirm_send_message_with_no_subject">To sporočilo nima stvari.</string>
+  <string name="confirm_send_message_with_no_subject">To sporočilo nima zadeve.</string>
   <string name="confirm_send_title">Pošljem sporočilo?</string>
   <string name="contact_add_options">Dodaj v stike</string>
   <string name="contact_add_options_details1">Vsi</string>
@@ -1177,7 +1177,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="system_account_create_failed">Računa ni bilo mogoče ustvariti. Poskusite ponovno.</string>
   <string name="system_folders_sent_dlg">Izberite poslane podatke vašega strežnika</string>
   <string name="system_folders_sent_summary">Izberite poslane podatke vašega strežnika</string>
-  <string name="system_folders_sent_title">Mapa poslanih elementov</string>
+  <string name="system_folders_sent_title">Mapa poslanih stvari</string>
   <string name="system_folders_title">Sistemske mape</string>
   <string name="system_folders_trash_dlg">Izberite koš vašega strežnika</string>
   <string name="system_folders_trash_summary">Izberite koš vašega strežnika</string>
@@ -1212,7 +1212,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="too_large_to_attach_multiple">Ena ali več datotek niso bile pripete. Velikost ne sme preseči %1$s.</string>
   <string name="too_large_to_attach_single">"Ne morem priložiti datoteke večje od %1$s."</string>
   <string name="topic_merge">Nastavitve prikaza</string>
-  <string name="topic_merge_summary">Razporedi po stvaru</string>
+  <string name="topic_merge_summary">Razporedi po stvari</string>
   <string name="translation_loading">Samo trenutek…</string>
   <string name="translation_no_result">Ni rezultatov</string>
   <string name="translation_pronunciation_am">AmE</string>

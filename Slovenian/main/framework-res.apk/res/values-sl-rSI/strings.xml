@@ -161,9 +161,9 @@
   <string name="autofill_save_accessibility_title">Shranjevanje za samodejno izpolnjevanje</string>
   <string name="autofill_save_no">Ne, hvala</string>
     <string name="autofill_save_title">Želite shraniti v aplikacijo <b>%1$s</b>?</string>
-    <string name="autofill_save_title_with_2types">Želite shraniti elementa %1$s in %2$s v aplikacijo <b>%3$s</b>?</string>
-    <string name="autofill_save_title_with_3types">Želite shraniti elemente %1$s, %2$s in %3$s v aplikacijo <b>%4$s</b>?</string>
-    <string name="autofill_save_title_with_type">Želite shraniti element %1$s v aplikacijo <b>%2$s</b>?</string>
+    <string name="autofill_save_title_with_2types">Želite shraniti stvari %1$s in %2$s v aplikacijo <b>%3$s</b>?</string>
+    <string name="autofill_save_title_with_3types">Želite shraniti stvari %1$s, %2$s in %3$s v aplikacijo <b>%4$s</b>?</string>
+    <string name="autofill_save_title_with_type">Želite shraniti stvari %1$s v aplikacijo <b>%2$s</b>?</string>
     <string name="autofill_save_type_address">naslov</string>
     <string name="autofill_save_type_credit_card">kreditno kartico</string>
     <string name="autofill_save_type_email_address">e-poštni naslov</string>
@@ -173,9 +173,9 @@
   <string name="autofill_state">Država</string>
   <string name="autofill_this_form">Samoizpolnitev</string>
     <string name="autofill_update_title">Želite posodobiti v aplikaciji <b>%1$s</b>?</string>
-    <string name="autofill_update_title_with_2types">Želite posodobiti elementa %1$s in %2$s v aplikaciji <b>%3$s</b>?</string>
-    <string name="autofill_update_title_with_3types">Želite posodobiti te elemente v aplikaciji <b>%4$s</b>: %1$s, %2$s in %3$s?</string>
-    <string name="autofill_update_title_with_type">Želite posodobiti element %1$s v aplikaciji <b>%2$s</b>?</string>
+    <string name="autofill_update_title_with_2types">Želite posodobiti stvari %1$s in %2$s v aplikaciji <b>%3$s</b>?</string>
+    <string name="autofill_update_title_with_3types">Želite posodobiti te stvari v aplikaciji <b>%4$s</b>: %1$s, %2$s in %3$s?</string>
+    <string name="autofill_update_title_with_type">Želite posodobiti stvar %1$s v aplikaciji <b>%2$s</b>?</string>
     <string name="autofill_update_yes">Posodobi</string>
     <string name="autofill_window_title">Samodejno izpolnjevanje s storitvijo %1$s</string>
   <string name="autofill_zip_code">Poštna številka</string>
@@ -214,7 +214,7 @@
   <string name="capability_desc_canPerformGestures">Mogoče je izvajanje dotikov, vlečenja, primikanja in razmikanja prstov ter drugih potez.</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Za boljšo dostopnost vsebine aplikacije je mogoče namestiti skripte.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Vključuje osebne podatke kot so številke kreditnih kartic in gesla.</string>
-  <string name="capability_desc_canRequestTouchExploration">Elementi ki se jih dotaknete bodo izrečeni naglas, zaslon pa lahko raziskujete s potezami.</string>
+  <string name="capability_desc_canRequestTouchExploration">Stvari ki se jih dotaknete bodo izrečene naglas, zaslon pa lahko raziskujete s potezami.</string>
   <string name="capability_desc_canRetrieveWindowContent">Preverjanje vsebine okna, ki ga uporabljate.</string>
   <string name="capability_title_canCaptureFingerprintGestures">Gibi na senzorju prstnih odtisov</string>
   <string name="capability_title_canControlMagnification">Nadziranje povečave prikaza</string>
@@ -2033,7 +2033,7 @@ Preostalo poskusov :"</string>
   <string name="suspended_widget_accessibility">%1$s – onemogočeno</string>
   <string name="sync_binding_label">Sinhronizacija</string>
   <string name="sync_do_nothing">Za zdaj ne naredi ničesar</string>
-  <string name="sync_really_delete">Izbris elementov</string>
+  <string name="sync_really_delete">Izbris stvari</string>
   <string name="sync_too_many_deletes">Omejitev brisanja je presežena</string>
   <string name="sync_too_many_deletes_desc">Število izbrisanih stvari: %1$d za vrsto sinhronizacije %2$s in račun %3$s. Kaj želite narediti?</string>
   <string name="sync_undo_deletes">Razveljavitev brisanja</string>

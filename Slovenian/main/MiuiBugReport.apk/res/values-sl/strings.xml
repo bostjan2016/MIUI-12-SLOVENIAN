@@ -9,7 +9,7 @@
     <string name="app_search">Iskanje aplikacij</string>
     <string name="btn_send">Pošlji</string>
     <string name="bugreport_dialog_not_show_again">Ne kaži več</string>
-    <string name="bugreport_dialog_submit_content">&lt;Data>Od tega trenutka naprej na vašo napravo shranjujete zapise programske opreme. Zapisi lahko vsebujejo osebne informacije in vaše podatke o lokaciji. Če ne želite, da bodo vaše informacije razkrite, ne delite vaših zapisov z nikomer drugim. Z izbiro \"Strinjam se\", potrjujete, da ste prebrali in se strinjate z našim &lt;a href=\"%1$s\">Pravilnikom o zasebnosti&lt;/a> in &lt;a href=\"%2$s\">Uporabniškim dogovorom&lt;/a>.&lt;/Data></string>
+    <string name="bugreport_dialog_submit_content">&lt;Data>Od tega trenutka naprej na vašo napravo shranjujete zapise programske opreme. Zapisi lahko vsebujejo osebne informacije in vaše podatke o lokaciji. Če ne želite, da bodo vaše informacije razkrite, ne delite vaših zapisov z nikomer drugim. Z izbiro \"Strinjam se\", potrjujete, da ste prebrali in se strinjate z našim &lt;a href=\"%1$s\">Pravilnikom o zasebnosti&lt;/a> in &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a>.&lt;/Data></string>
     <string name="bugreport_dump_complete_notification_summary">Dotaknite se za pregled.</string>
     <string name="bugreport_dump_complete_notification_title">Poročilo napravljeno</string>
     <string name="bugreport_dump_start_notification_summary">To lahko traja nekaj minut.</string>
@@ -37,7 +37,7 @@
     <string name="catch_full_log_item_title_gps">Lokacijske storitve</string>
     <string name="catch_full_log_item_title_sensor">Senzorji</string>
     <string name="catch_full_log_item_title_signal">Telefon, signal in mobilna omrežja</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi in Mi Drop</string>
+    <string name="catch_full_log_item_title_wifi">WiFi in Mi Drop</string>
     <string name="catch_full_log_notification_content">Tapnite, če se želite vrniti med zapise</string>
     <string name="catch_full_log_notification_title">Generiranje zapisov…</string>
     <string name="catch_full_log_privacy_content_audio">Ustvarjate poročila, ki so shranjena na vaši napravi. Poročila lahko vsebujejo podatke o zvoku na vaši napravi, vključno z zgodovino predvajanja in zgodovino snemanja. Bodite previdni in ne pokažite poročila drugimi ljudmi. Z dotikom na \"Strinjam se\" spodaj, se strinjate, da lahko zbiramo zgoraj navedene podatke med ustvarjanjem dnevnikov, ki bodo naloženi na naše strežnike v namen lociranja in reševanja vprašanji, ki ste jih prijavili.</string>
@@ -207,7 +207,7 @@
     <string name="kr_authorization_storage">Pomnilnik</string>
     <string name="kr_authorization_storage_desc">Za dostopanje do pomnilnika in shranjevanje predmetov, vključno z dnevniki, fotografijami in videoposnetki</string>
     <string name="kr_authorization_summary">Pravni dokumenti</string>
-    <string name="kr_authorization_user_protocol">Uporabniški dogovor (obvezno)</string>
+    <string name="kr_authorization_user_protocol">Pogoji uporabe (obvezno)</string>
     <string name="loading_apps">Branje seznama…</string>
     <string name="login_system_failed">Prijava ni uspela, poskusite ponovno</string>
     <string name="logo_title">Povratne informacije</string>
@@ -511,8 +511,8 @@ Da aktivirate svoj račun sledite
     <string name="select_system_app_tag">Izberite težavo</string>
     <string name="submit_dialog_cancel">Se ne strinjam</string>
     <string name="submit_dialog_confirm">Strinjam se</string>
-    <string name="submit_dialog_content">&lt;Data>Strinjati se je potrebno z našim &lt;a href=\"%1$s\">Pravilnikom o zasebnosti&lt;/a> in &lt;a href=\"%2$s\">Uporabniškim dogovorom&lt;/a> za uporabo povratnih informacij. Vse težave, ki jih boste prijavili in predmete, ki jih boste pripeli (lahko vsebujejo osebne podatke, informacije o vaši napravi in omrežju) bodo naloženi na MIUI strežnike. To nam bo pomagalo pri odkrivanju in odpravljanju težav.&lt;/Data></string>
-    <string name="submit_dialog_content_global">&lt;Data>Vaše povratne informacije skupaj s priponkami (če obstajajo) in zapisi (lahko odznačite ustrezna polja za elemente, ki jih ne želite prenesti) bodo poslane na strežnike MIUI. Zapisi lahko vsebujejo osebne informacije in vaše lokacijske podatke. Z izbiro \"Strinjam sepotrjujete, da ste prebrali in se strinjate z našim &lt;a href=\"%1$s\">Pravilnikom o zasebnosti&lt;/a> in &lt;a href=\"%2$s\">Uporabniškim dogovorom&lt;/a>.&lt;/Data></string>
+    <string name="submit_dialog_content">&lt;Data>Strinjati se je potrebno z našim &lt;a href=\"%1$s\">Pravilnikom o zasebnosti&lt;/a> in &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> za uporabo povratnih informacij. Vse težave, ki jih boste prijavili in predmete, ki jih boste pripeli (lahko vsebujejo osebne podatke, informacije o vaši napravi in omrežju) bodo naloženi na MIUI strežnike. To nam bo pomagalo pri odkrivanju in odpravljanju težav.&lt;/Data></string>
+    <string name="submit_dialog_content_global">&lt;Data>Vaše povratne informacije skupaj s priponkami (če obstajajo) in zapisi (lahko odznačite ustrezna polja za stvari, ki jih ne želite prenesti) bodo poslane na strežnike MIUI. Zapisi lahko vsebujejo osebne informacije in vaše lokacijske podatke. Z izbiro \Strinjam se\ potrjujete, da ste prebrali in se strinjate z našim &lt;a href=\"%1$s\">Pravilnikom o zasebnosti&lt;/a> in &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a>.&lt;/Data></string>
     <string name="submit_dialog_title">Pošlji poročilo</string>
     <string name="submit_feedback_info_failed">Ne morem poslati poročila</string>
     <string name="suggestion_description">Tukaj dodajte opis</string>

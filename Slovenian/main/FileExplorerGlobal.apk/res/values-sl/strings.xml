@@ -177,10 +177,10 @@
     <string name="decrypting">Dešifriranje…</string>
     <string name="deepclean_apk_content">Izbriši APK datoteke ali nepotrebne aplikacije</string>
     <string name="deepclean_apk_summary_empty">Vse zgleda vredu, ni APK datotek za počistiti</string>
-    <string name="deepclean_cache_content">Izbriši podatke ustvarine v aplikacijah</string>
-    <string name="deepclean_cache_summary_empty">Vse zgleda vredu, ni podatkov za počistiti</string>
+    <string name="deepclean_cache_content">Izbriši podatke ustvarjene v aplikacijah</string>
+    <string name="deepclean_cache_summary_empty">Vse zgleda v redu, ni podatkov za počistiti</string>
     <string name="deepclean_large_content">Izbriši datoteke, večje od 10MB</string>
-    <string name="deepclean_large_summary_empty">Vse zgleda vredu, ni datotek za počistiti</string>
+    <string name="deepclean_large_summary_empty">Vse zgleda v redu, ni datotek za počistiti</string>
     <string name="deepclean_list_item_from_app">App Store</string>
     <string name="deepclean_list_item_from_download">Prenosi</string>
     <string name="deepclean_list_item_from_gallery">Galerija</string>

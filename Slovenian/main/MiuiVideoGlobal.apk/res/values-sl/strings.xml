@@ -125,8 +125,8 @@
     <string name="cast_rewind_10">Previj za 10 sekund nazaj</string>
     <string name="cast_rewind_30">Previj za 30 sekund nazaj</string>
     <string name="cast_seek_bar">Drsnik za predvajanje</string>
-    <string name="cast_skip_next">Skoči na naslednji element</string>
-    <string name="cast_skip_prev">Skoči na prejšnji element</string>
+    <string name="cast_skip_next">Skoči na naslednjo stvar</string>
+    <string name="cast_skip_prev">Skoči na prejšnjo stvar</string>
     <string name="cast_stop">Ustavi</string>
     <string name="cast_stop_live_stream">Ustavi pretočno predvajanje v živo</string>
     <string name="cast_tracks_chooser_dialog_audio">Zvok</string>
@@ -545,7 +545,7 @@ za videoposnetke"</string>
     <string name="no_network_tips">Trenutno ni mogoče uporabiti to funkcijo. Dostop do omrežja je omejen.</string>
   <string name="no_phone">Ni številke telefona</string>
     <string name="no_recommend_data">Trenutno ni priporočenih videoposnetkov</string>
-    <string name="no_subscriptions">Tukaj ni stvari</string>
+    <string name="no_subscriptions">Tukaj ni nič</string>
   <string name="not_show">Ne kaži več</string>
     <string name="notify_apk_installed">Uspešno preneseno</string>
   <string name="off">[izk]</string>

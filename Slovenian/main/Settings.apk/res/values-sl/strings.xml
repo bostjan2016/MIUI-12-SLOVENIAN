@@ -770,7 +770,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="auto_upload_debug_log_summary">Diagnostični podatki lahko vsebujejo informacije o uporabi hardvera, operacijskem sistemu in aplikacijah. Podatki bodo uporabljeni za iskanje in analiziranje problema v sistemu in nikoli ne bodo uporabljeni za vašo identifikacijo.</string>
   <string name="auto_upload_debug_log_title">Samodejno pošlji diagnostične podatke</string>
     <string name="autofill_app">Storitev samodejnega izpolnjevanja</string>
-    <string name="autofill_confirmation_message">&lt;b>Prepričajte se, ali zaupate tej aplikaciji&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Samodejno izpolnjevanje>%1$s&lt;/xliff:g> iz elementov na zaslonu ugotovi, kaj je mogoče samodejno izpolniti.</string>
+    <string name="autofill_confirmation_message">&lt;b>Prepričajte se, ali zaupate tej aplikaciji&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Samodejno izpolnjevanje>%1$s&lt;/xliff:g> iz stvari na zaslonu ugotovi, kaj je mogoče samodejno izpolniti.</string>
     <string name="autofill_keywords">samodejno, izpolnjevanje, samoizpolnjevanje</string>
     <string name="autofill_logging_level_title">Raven pisanja dnevnika</string>
     <string name="autofill_max_partitions">Največje dovoljeno število zahtev na sejo</string>
@@ -1657,7 +1657,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="cancel_moving_dialog_title">Ustavi uvoz</string>
   <string name="cancel_restore">Ustavi</string>
     <string name="cannot_change_apn_toast">Tega APN-ja ni mogoče spremeniti.</string>
-  <string name="cant_sync_dialog_message">Sinhronizacija za ta element je trenutno onemogočena. Če želite spremeniti nastavitev vklopite podatke v ozadju in samodejno sinhronizacijo.</string>
+  <string name="cant_sync_dialog_message">Sinhronizacija za to stvar je trenutno onemogočena. Če želite spremeniti nastavitev vklopite podatke v ozadju in samodejno sinhronizacijo.</string>
   <string name="cant_sync_dialog_title">Ročna sinhronizacija ni mogoča</string>
   <string name="capabilities_list_title">%1$s mora:</string>
   <string name="capability_desc_receiveAccessibilityEvents">Prejmite obvestila ko uporabljate aplikacijo.</string>
@@ -2859,7 +2859,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="enable_service_password_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi geslo.</string>
   <string name="enable_service_pattern_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi vzorec.</string>
   <string name="enable_service_pin_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi kodo PIN.</string>
-  <string name="enable_service_title">Sroritev bo izvršila ta opravila:</string>
+  <string name="enable_service_title">Storitev bo izvršila ta opravila:</string>
   <string name="enable_snapshot_screenlock">Daljši pritisk na tipko nazaj za zajem fotografije</string>
   <string name="enable_tcp_rtt_support">TCP RTT prikaz</string>
   <string name="enable_tcp_rtt_support_summary">Ocenite izvedbo kvalitete omrežne komunikacije</string>
@@ -3469,7 +3469,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_actions_panel_short_title">Kartice in prepustnice</string>
-  <string name="global_actions_panel_summary">Za dostop do elementov, kot so plačilna sredstva in vstopni kuponi, pritisnite in pridržite gumb za vklop.</string>
+  <string name="global_actions_panel_summary">Za dostop do stvari, kot so plačilna sredstva in vstopni kuponi, pritisnite in pridržite gumb za vklop.</string>
   <string name="global_actions_panel_title">Pokaži kartice in prepustnice</string>
   <string name="global_change_warning">Nastavitev velja za vse uporabnike tega telefona.</string>
   <string name="global_font_change_title">Spremenjena velikost pisave</string>
@@ -6468,7 +6468,7 @@ Vmesnik UT: %5$s"</string>
 
  Podatkov iz aplikacij ne boste izgubili."</string>
   <string name="reset_app_preferences_title">Želite ponastaviti nastavitve aplikacij?</string>
-  <string name="reset_confirm_directory">"Opomba: Preden vrnete stvari se prepričajte ali v vaši mobilni napravi obstaja mapa \ "MIUI-Backup-AllBackup \". Če ne, jo napravite."</string>
+  <string name="reset_confirm_directory">"Opomba: Preden vrnete stvari se prepričajte ali v vaši mobilni napravi obstaja mapa \ MIUI-Backup-AllBackup \. Če ne, jo napravite."</string>
     <string name="reset_dashboard_summary">Ponastavite lahko omrežje, aplikacije ali napravo</string>
     <string name="reset_dashboard_title">Možnosti ponastavitve</string>
   <string name="reset_default_apn_failed">Ponastavitev privzete APN ni uspela</string>
@@ -6495,7 +6495,7 @@ Znova zaženite napravo in poskusite znova."</string>
     <string name="reset_network_final_desc_esim">Želite ponastaviti vse omrežne nastavitve in izbrisati prenesene kartice SIM? Tega dejanja ni mogoče razveljaviti.</string>
     <string name="reset_network_title">Ponastavi WiFi, prenos podatkov v mobilnem omrežju in Bluetooth</string>
   <string name="reset_network_wifi">WiFi</string>
-  <string name="reset_remove_data_hint">Vsi zgoraj navedene stvari bodo trajno izbrisane. Pred nadaljevanjem kopirajte vse pomembne stvari v računalnik ali Mi Cloud.</string>
+  <string name="reset_remove_data_hint">Vse zgoraj navedene stvari bodo trajno izbrisane. Pred nadaljevanjem kopirajte vse pomembne stvari v računalnik ali Mi Cloud.</string>
   <string name="reset_second_space_passwd">Ponastavi geslo Drugega prostora</string>
   <string name="reset_second_space_passwd_cancel">Prekini</string>
   <string name="reset_second_space_passwd_confirm">Nadaljuj</string>
@@ -6792,9 +6792,9 @@ To velja za vse uporabnike telefona."</string>
     <string name="screen_zoom_make_smaller_desc">Pomanjšanje</string>
   <string name="screen_zoom_normal">S</string>
     <string name="screen_zoom_preview_title">Predogled</string>
-    <string name="screen_zoom_short_summary">Pomanjšava ali povečava elementov na zaslonu</string>
+    <string name="screen_zoom_short_summary">Pomanjšava ali povečava stvari na zaslonu</string>
   <string name="screen_zoom_small">XS</string>
-    <string name="screen_zoom_summary">Pomanjšava ali povečava elementov na zaslonu – s tem se bo morda spremenil položaj nekaterih aplikacij na zaslonu.</string>
+    <string name="screen_zoom_summary">Pomanjšava ali povečava stvari na zaslonu – s tem se bo morda spremenil položaj nekaterih aplikacij na zaslonu.</string>
     <string name="screen_zoom_summary_custom">Po meri (%d)</string>
   <string name="screen_zoom_summary_default">Privzeto</string>
   <string name="screen_zoom_summary_extremely_large">Največje</string>
@@ -7092,7 +7092,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_wifi_install_credentials">Namestitev certifikata;Certifikati</string>
   <string name="search_wifi_menu_p2p">Direktni WiFi;Direktni WiFi</string>
   <string name="search_wifi_menu_wps_pin">Vnos WPS PIN-a;WPS;WPS PIN</string>
-  <string name="search_wifi_more_settings">Več;Letalo;VPN;Deljenje povezave &amp; prenosni hotspot;Brežični zaslon;Mednarodni mobilni podatki;NFC;Android Beam;Obdrži položaj elementov</string>
+  <string name="search_wifi_more_settings">Več;Letalo;VPN;Deljenje povezave &amp; prenosni hotspot;Brežični zaslon;Mednarodni mobilni podatki;NFC;Android Beam;Obdrži položaj stvari</string>
   <string name="search_wifi_scan_always_available">Iskanje je vedno omogočeno;Išči omrežja;Išči WiFi;Išči WiFi</string>
   <string name="search_wifi_setting_frequency_band_title">Frekvenčno območje WiFi omrežja;WiFi frekvenca;WiFi frekvenca;Frekvenčno območje</string>
   <string name="search_wifi_setting_sleep_policy_title">Zadrži WiFi med mirovanjem;Zadrži WiFi med mirovanjem;Zadrži WiFi vključen med mirovanjem</string>
@@ -7145,7 +7145,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="security_relative">Varnost</string>
   <string name="security_settings_billing_desc">Ta aplikacija vam lahko povzroči stroške:</string>
   <string name="security_settings_desc">Ta aplikacija ima v telefonu dostop do tega:</string>
-  <string name="security_settings_desc_multi">Aplikacija lahko dostopa do naslednjih elementov v telefonu. Da bi izboljšali učinkovitost in zmanjšali porabo pomnilnika za %1$s velja nekaj od teh dovoljenj, saj se izvaja v istem procesu kot %2$s:</string>
+  <string name="security_settings_desc_multi">Aplikacija lahko dostopa do naslednjih stvari v telefonu. Da bi izboljšali učinkovitost in zmanjšali porabo pomnilnika za %1$s velja nekaj od teh dovoljenj, saj se izvaja v istem procesu kot %2$s:</string>
     <string name="security_settings_face_enroll_dialog_ok">V redu</string>
     <string name="security_settings_face_enroll_done">Končano</string>
     <string name="security_settings_face_enroll_education_message" />
@@ -7262,7 +7262,7 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
   <string name="select_all">Izberi vse</string>
   <string name="select_application">Izberite aplikacijo</string>
     <string name="select_automatically">Samodejno izberi omrežje</string>
-  <string name="select_backup_item">Izberi elemente</string>
+  <string name="select_backup_item">Izberi stvari</string>
     <string name="select_device_admin_msg">Skrbniške aplikacije naprave</string>
   <string name="select_empty">Izberite stvari za uvoz</string>
   <string name="select_item_calendar">Koledar</string>
@@ -7290,7 +7290,7 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
   <string name="select_storage_location">Izberite lokacijo var. kopije</string>
   <string name="select_time_format_category_title">Format časa</string>
   <string name="select_time_format_title">Format časa</string>
-    <string name="select_to_speak_summary">Če želite slišati vsebino elementov na zaslonu, se jih dotaknite</string>
+    <string name="select_to_speak_summary">Če želite slišati vsebino stvari na zaslonu, se jih dotaknite</string>
   <string name="select_usb_configuration_dialog_title">Izbira konfiguracije USB</string>
   <string name="select_usb_configuration_title">Izbira konfiguracije USB</string>
     <string name="select_webview_provider_dialog_title">Nastavitev izvedbe spletnega pogleda</string>
@@ -7895,7 +7895,7 @@ Vse aplikacije, shranjene v tej shrambi (^1), bodo odstranjene in podatki aplika
 
 Shramba ^1 je formatirana tako, da deluje samo v tej napravi. V drugih ne bo delovala."</string>
   <string name="storage_label">Prostor za shranjevanje</string>
-  <string name="storage_low_summary">Nekatera sistemska opravila, na primer sinhronizacija morda ne bodo delovala pravilno. Poskusite sprostiti nekaj prostora tako da zbrišete ali odpnete elemente kot so aplikacije ali medijska vsebina.</string>
+  <string name="storage_low_summary">Nekatera sistemska opravila, na primer sinhronizacija morda ne bodo delovala pravilno. Poskusite sprostiti nekaj prostora tako da zbrišete ali odpnete stvari kot so aplikacije ali medijska vsebina.</string>
   <string name="storage_low_title">Prostor za shranjevanje bo pošel</string>
     <string name="storage_manager_indicator">Pametna shramba: ^1</string>
     <string name="storage_manager_indicator_off">Izklopljeno</string>
@@ -10389,7 +10389,7 @@ Ko izklopite način »Ne moti«, lahko zamujena obvestila poiščete tako, da po
   <string name="zen_mode_when_every_night">Vsako noč</string>
   <string name="zen_mode_when_never">Nikoli</string>
   <string name="zen_mode_when_weeknights">Noči med tednom</string>
-    <string name="zen_msg_event_reminder_footer">Pri vklopljenem načinu »ne moti« bodo prezrta vsa sporočila, opomniki in dogodki razen za zgoraj omogočene elemente. Nastavitve sporočil lahko prilagodite tako, da boste dosegljivi za prijatelje, družinske člane ali druge stike.</string>
+    <string name="zen_msg_event_reminder_footer">Pri vklopljenem načinu »ne moti« bodo prezrta vsa sporočila, opomniki in dogodki razen za zgoraj omogočene stvari. Nastavitve sporočil lahko prilagodite tako, da boste dosegljivi za prijatelje, družinske člane ali druge stike.</string>
     <string name="zen_msg_event_reminder_title">Sporočila, dogodki in opomniki</string>
     <string name="zen_onboarding_current_setting_summary">(trenutna nastavitev)</string>
     <string name="zen_onboarding_current_setting_title">Brez zvočnega opozarjanja na obvestila</string>
@@ -10414,7 +10414,7 @@ Posodobite nastavitve da:
     <string name="zen_schedule_rule_type_name">Čas</string>
     <string name="zen_sound_all_muted">Prezrto</string>
     <string name="zen_sound_category_title">Prezri vse razen</string>
-    <string name="zen_sound_footer">Pri vklopljenem načinu »ne moti« bosta zvok in vibriranje izklopljena v vseh primerih razen za zgoraj omogočene elemente.</string>
+    <string name="zen_sound_footer">Pri vklopljenem načinu »ne moti« bosta zvok in vibriranje izklopljena v vseh primerih razen za zgoraj omogočene stvari.</string>
     <string name="zen_sound_none_muted">Ni prezrto</string>
     <string name="zen_sound_one_allowed">Zvok je izklopljen; dovoljeni zvok: %1$s</string>
     <string name="zen_sound_three_allowed">Zvok je izklopljen; dovoljeni zvoki: %1$s, %2$s in %3$s</string>

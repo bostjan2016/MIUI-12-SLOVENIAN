@@ -23,7 +23,7 @@
     <plurals name="copy_begin">
         <item quantity="other">Kopira se %1$d stvari.</item>
         <item quantity="one">Kopira se %1$d stvar.</item>
-        <item quantity="few">Kopiraju se %1$d stvari.</item>
+        <item quantity="few">Kopirajo se %1$d stvari.</item>
     </plurals>
     <plurals name="copy_converted_warning_content">
         <item quantity="other">Te datoteke so spremenjene v nek drug format: %1$s</item>
@@ -68,7 +68,7 @@
     <plurals name="deleting">
         <item quantity="other">Briše se %1$d stvari.</item>
         <item quantity="one">Briše se %1$d stvar.</item>
-        <item quantity="few">Brišu se %1$d stvari.</item>
+        <item quantity="few">Briše se %1$d stvari.</item>
     </plurals>
     <plurals name="elements_dragged">
         <item quantity="other">%1$d stvari</item>

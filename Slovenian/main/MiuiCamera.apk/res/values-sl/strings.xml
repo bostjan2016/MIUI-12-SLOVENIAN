@@ -559,7 +559,7 @@ Natisnite kopijo brezžično na papir A4."</string>
   <string name="lpl_dialog_title">Izberite opravilo za sprožilec</string>
   <string name="lying_direct_hint">Trenutna orientacija</string>
   <string name="macro_mode">Macro</string>
-  <string name="macro_mode_tip">"Oddaljenost med objektivom in stvarom ne sme presegati 10 cm"</string>
+  <string name="macro_mode_tip">"Oddaljenost med objektivom in predmetom ne sme presegati 10 cm"</string>
   <string name="macro_mode_use_hint_text_body">"Uporabite Macro način da bodo majhni predmeti
 zgledali večji na fotografijah"</string>
   <string name="macro_mode_use_hint_text_title">Macro</string>
@@ -693,7 +693,7 @@ zgledali večji na fotografijah"</string>
   <string name="network_access_user_notice_message_sticker">"Kamera se mora povezati na splet za ponujanje nalepk za to storitev.Z dotikom na \"Strinjam se\", se strinjate z Pogoji uporabe in Pravila o zasebnosti in dovolite kameri povezovanje na splet."</string>
   <string name="network_access_user_notice_message_voice_caption">"Kamera se mora povezati na splet za storitev govor v tekst.Z dotikom na \"Strinjam se\", se strinjate z Pogoji uporabe in Pravila o zasebnosti in dovolite kameri povezovanje na splet."</string>
   <string name="network_access_user_notice_title">Povezovanje na splet</string>
-  <string name="no_save">"Ne shrani"</string>
+  <string name="no_save">"Ne shrani"</string>s
   <string name="no_storage">Pred uporabo kamere vstavite SD kartico.</string>
   <string name="no_thumbnail">Ni miniatur</string>
   <string name="not_enough_space">Notranji pomnilnik je poln</string>
@@ -786,7 +786,7 @@ pritisnite sprožilec"</string>
   <string name="portrait_bokeh_first_tips">"Uporabite Portretni način da zameglite ozadje slike
 na svojih fotografijah"</string>
   <string name="portrait_bokeh_text">Portretni način</string>
-  <string name="portrait_bokeh_tips">Postavite stvar znotraj 1.5 m</string>
+  <string name="portrait_bokeh_tips">Postavite predmet znotraj 1.5 m</string>
   <string name="portrait_india_effect_entry_memory">Spomin</string>
   <string name="portrait_india_effect_entry_mono">Mono</string>
   <string name="portrait_india_effect_entry_pink">Pink</string>
@@ -801,7 +801,7 @@ na svojih fotografijah"</string>
   <string name="portrait_mode_depth_effect_success_hint">Efekt globine</string>
   <string name="portrait_mode_lowlight_hint">"Zdaj je preveč mračno"</string>
   <string name="portrait_mode_too_close_hint">Oddaljite se več od objekta</string>
-  <string name="portrait_mode_too_far_hint">Postavite stvar znotraj 2 m</string>
+  <string name="portrait_mode_too_far_hint">Postavite predmet znotraj 2 m</string>
   <string name="portrait_mode_use_hint">"Portretni način vam pomaga zamegliti ozadje</string>
   <string name="portrait_mode_use_hint_for_bokeh">"Poskusite portretni način.
 Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
@@ -829,7 +829,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_asd_night_title">Samod. izboljšanje pri nočnem slikanju</string>
   <string name="pref_camera_asd_popup_title">Opozori če je potrebna bliskavica</string>
   <string name="pref_camera_audio_capture_title">Avdio</string>
-  <string name="pref_camera_auto_capture_when_stable_summary">Za izbiro objekta se dotaknite dveh diagonalnih točk okoli njegovih meja. Ko bo stvar miroval se bo posnetek posnel samodejno.</string>
+  <string name="pref_camera_auto_capture_when_stable_summary">Za izbiro objekta se dotaknite dveh diagonalnih točk okoli njegovih meja. Ko bo predmet miroval se bo posnetek posnel samodejno.</string>
   <string name="pref_camera_auto_capture_when_stable_title">Samodejno zajemanje ko je stabilno</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma bliskavica</string>
   <string name="pref_camera_auto_focus_title_entry_off">Izklj.</string>
@@ -1292,7 +1292,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="see_qrcode_detals">Pokaži podrobnosti QR kode</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_image">Izberi fotografijo</string>
-  <string name="select_item">Izberi stvar</string>
+  <string name="select_item">Izberi predmet</string>
   <string name="select_video">Izberi videoposnetek</string>
   <string name="send">Pošlji</string>
   <string name="send_multiple_files_hint_format">Pošlji več datotek (%s)</string>

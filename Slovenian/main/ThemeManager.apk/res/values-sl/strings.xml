@@ -677,7 +677,7 @@ Tapnite, da se boste prijavili."</string>
   <string name="resource_download_notification_title_many">Prenešenih tem: %1$s</string>
   <string name="resource_download_notification_title_one">Tema prenešena</string>
   <string name="resource_download_trial">Poskusi brezplačno</string>
-  <string name="resource_downloaded_title">Prenešeni elementi</string>
+  <string name="resource_downloaded_title">Prenešene stvari</string>
   <string name="resource_downloading">Prenašam…</string>
   <string name="resource_exchange">Kupi temo</string>
   <string name="resource_exchange_confirm">V redu</string>
@@ -884,7 +884,7 @@ Tapnite, da se boste prijavili."</string>
   <string name="system_cta_main_purpose">Upravljajte in uporabljajte spletne in offline teme, ozadja, melodije zvonjenja, pisave in video ozadja</string>
   <string name="system_cta_runtime_perm_desc_get_accounts">Za dostop do IMEI in zagotavljanje storitev prenosa</string>
   <string name="system_cta_runtime_perm_desc_read_phone_state">Dostop do ID-ja naprave za prepoznavanje naprave</string>
-  <string name="system_cta_runtime_perm_desc_storage">Za shranjevanje shranjenih tem in drugih elementov</string>
+  <string name="system_cta_runtime_perm_desc_storage">Za shranjevanje tem in drugih stvari</string>
   <string name="system_precust">Vnaprej nameščene</string>
   <string name="tag_ad">Oglas</string>
   <string name="the_picture_is_not_support">Slika ni podprta</string>

@@ -75,7 +75,7 @@
     <string name="hide">Skrij</string>
     <string name="location_enabled">Vključena je storitev lociranja za iskanje naprav v bližini</string>
     <string name="mi_drop">Mi Share</string>
-    <string name="mishare_settings_summary_international">"Mi Share se uporablja za pošilanje stvari napravam v bližini.
+    <string name="mishare_settings_summary_international">"Mi Share se uporablja za pošiljanje stvari napravam v bližini.
 Mi Share je uporaben na Mi in Redmi telefonih.
 OPPO, vivo, realme in druge znamke pa bodo kmalu podprte z Mi Share. Spisek naprav najdete na naši spletni strani."</string>
     <string name="mishare_state_protection">Samodejno vključite Mi Share</string>

@@ -56,17 +56,13 @@
   <string name="mars_position_content_0">"Na tem območju so pečine, otoki in široke ravne doline, za katere domnevajo, da jih povzročajo ledeniki, prekriti z naplavinami. Tu so odkriti tudi glineni minerali, ki so zelo zanimivi za iskanje dokazov o življenju na starodavnem Marsu.
 
 NASA/JPL/University of Arizona"</string>
-  <string name="mars_position_content_1">"Ponavljajoča se nižinska pobočja (RSL) so aktivni pretoki na toplih marsovskih pobočjih, ki so lahko posledica puščanja vode. RSL v kraterju Hale ima nenavadno "rdečkasto" barvo v primerjavi z večino RSL, morda zaradi oksidiranih železovih spojin, kot je rja.
-
-NASA/JPL/University of Arizona"</string>
-  <string name="mars_position_content_2">"Mawrth Vallis je starodavni odtočni kanal s svetlo modrimi kamninami, bogatimi z glino. Glineni minerali zlahka ohranijo mikroskopsko življenje na Zemlji, zato so na Mawrthu našli sledi starodavnega življenja.
+  <string name="mars_position_content_1">"Posneto ko Mars rover Curiosity raziskuje Pahrump Hills v Gale Craterju. Območje vsebuje sedimentne kamnine, za katere znanstveniki verjamejo, da so nastale ob prisotnosti vode, temna območja pa so pesek."</string>
+  <string name="mars_position_content_2">"Mawrth Vallis je starodavni drenažni kanal s svetlo modrimi kamninami, bogatimi z glino. Glineni minerali zlahka ohranjajo mikroskopsko življenje na Zemlji, zato so na Mawrthu našli najdbe antičnega življenja.
 
 NASA/JPL/University of Arizona"</string>
   <string name="mars_position_title_0">"Regija
 Nilosyrtis Mensae"</string>
-  <string name="mars_position_title_1">"Osrednje
-Planine
-Kraterja Hale"</string>
+  <string name="mars_position_title_1">"Krater Gale"</string>
   <string name="mars_position_title_2">"Krater v
 Mawrth Vallis"</string>
   <string name="mars_summary">Številne puščave na Marsu so človeštvo vedno držale v strahu</string>
