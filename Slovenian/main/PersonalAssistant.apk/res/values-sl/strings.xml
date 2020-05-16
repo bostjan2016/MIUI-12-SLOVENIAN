@@ -321,7 +321,8 @@
   <string name="groupon_setting_brief">Pokaži informacije o kupljenih vstopnicah in kuponih.</string>
   <string name="guide_button_btn_close">Zapri</string>
   <string name="guide_button_btn_keep">Obdrži</string>
-  <string name="hold_down_adjustment_order">Držite ikono na desni, da povlečete stvari
+  <string name="hold_down_adjustment_order">Držite ikono na desni, da povlečete stvari</string>
+  <string name="home">Dom</string>
   <string name="home_and_company">Dom &amp; Služba</string>
   <string name="hour12_format_en">hh:mm</string>
   <string name="hour24_format_en">HH:mm</string>
