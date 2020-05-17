@@ -332,7 +332,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="uninstall_activity_text">Aktivnost %1$s je del te aplikacije:</string>
   <string name="uninstall_all_blocked_profile_owner">Ta aplikacija je potrebna za neke uporabnike in profile in jo ni možno odstraniti</string>
   <string name="uninstall_application_text">Ta aplikacija bo odstranjena.</string>
-  <string name="uninstall_application_text_all_users">Ali želite odstraniti aplikacijo za <b>sve</b> uporabnike? Aplikacija in njeni podatki bodo odstranjeni od <b>vseh</b> uporabnikov v napravi.</string>
+  <string name="uninstall_application_text_all_users">Ali želite odstraniti aplikacijo za <b>vse</b> uporabnike? Aplikacija in njeni podatki bodo odstranjeni od <b>vseh</b> uporabnikov v napravi.</string>
   <string name="uninstall_application_text_user">Ali želite to aplikacijo odstraniti za uporabnika %1$s?</string>
   <string name="uninstall_application_title">Odstranim to aplikacijo?</string>
   <string name="uninstall_blocked_device_owner">To aplikacijo zahteva skrbnik naprave in je ni mogoče odstraniti.</string>

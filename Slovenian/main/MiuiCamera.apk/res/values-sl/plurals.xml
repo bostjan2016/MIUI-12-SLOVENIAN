@@ -8,7 +8,7 @@
         <item quantity="other">Izbrišem izbrane stvari?</item>
         <item quantity="one">Izbrišem izbrano stvar?</item>
     </plurals>
-	<plurals name="accessibility_focus_face_dtect">
+	<plurals name="accessibility_focus_face_detect">
         <item quantity="other">Fokusirano. Najdeno %d obrazov</item>
         <item quantity="one">Fokusirano. Najden %d obraz</item>
      </plurals>
