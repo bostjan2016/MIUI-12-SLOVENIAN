@@ -29,6 +29,7 @@
   <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="add_alarm">Dodaj alarm</string>
   <string name="add_clock">Dodaj uro</string>
+  <string name="add_common_timer">Dodaj kronometer</string>
   <string name="add_timer">Dodaj kronometer</string>
   <string name="add_timezone_title">Dodaj časovni pas</string>
   <string name="aggree_desc">Dovolite aplikaciji povezavo s spletom in odobrite zgoraj navedena obvezna dovoljenja.</string>
@@ -112,6 +113,7 @@
   <string name="close">Zapri</string>
   <string name="close_alarm">Izključi</string>
   <string name="common_settings">Nastavitve</string>
+  <string name="common_timer_selector">Izberi časovnik</string>
   <string name="confirm">Potrdi</string>
   <string name="confirm_abort">Zavrzi</string>
   <string name="content_desc_keep_screen">Tipka \"Obdrži zaslon vkl.\"</string>
@@ -166,7 +168,7 @@
   <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
   <string name="go_back">Nazaj</string>
   <string name="guide_newfunc_content">Zdaj lahko filtrirati formate datotek, preuredite razpored stvari in prehajati iz različnih prikazov na dotik bližnjice.</string>
-  <string name="guide_newfunc_title">Nova značajka</string>
+  <string name="guide_newfunc_title">Nova storitev</string>
   <string name="holiday_update">Na voljo je posodobitev državnih praznikov</string>
   <string name="holiday_update_fail">"Ne morem posodobiti"</string>
   <string name="holiday_update_loading">Posodabljanje…</string>
@@ -227,6 +229,7 @@
   <string name="menu_item_dock_settings">Nastavitve postaje</string>
   <string name="menu_item_sort_by_gmt_offset">Razporedi po času</string>
   <string name="menu_item_sort_by_name">Razporedi po imenu</string>
+  <string name="mibi_license">Mi Kredit Pogoji uporabe</string>
    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
@@ -383,13 +386,15 @@ ko bo Mi Zdravje analiziral dovolj podatkov</string>
   <string name="start">Začni</string>
   <string name="start_up">Začni</string>
   <string name="stat_repeat_everyday">Vsak dan</string>
-  <string name="stat_repeat_legal_off_day">法定节假日</string>
-  <string name="stat_repeat_legal_workday">法定工作日</string>
+  <string name="stat_repeat_legal_off_day">Vikend</string>
+  <string name="stat_repeat_legal_workday">Delavnik</string>
   <string name="stat_repeat_none">Enkrat</string>
   <string name="stat_repeat_self_define">Po meri</string>
   <string name="stat_repeat_weekdays">Pon-Pet</string>
   <string name="stat_repeat_weekends">Vikend</string>
   <string name="stopwatch_lap_empty_text">Ni krogov</string>
+  <string name="stopwatch_reset_notification">Štoparica je ponastavljena</string>
+  <string name="stopwatch_running_notification">Štoparica</string>
   <string name="stopwatch_title">Štoparica</string>
   <string name="system_permission_agree_desc">Dovolite aplikaciji povezavo s spletom da boste lahko uporabili vse storitve.</string>
   <string name="system_permission_main_purpose">Čas pregledovanja, nastavljanje alarma in časovnika, štoparica</string>
@@ -471,6 +476,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov</string>
   <string name="wake_up_alert_desc">Predvajaj alarm ob času zbujanja</string>
   <string name="wake_up_ringtone">Melodija alarma</string>
   <string name="wake_up_time">Čas zbujanja</string>
+  <string name="white_noise_selector">Izberi zvok</string>
   <string name="workday_alarm_clock">Alarm ob delavnikih</string>
   <string name="worldclock_empty_text">Ni svetovnih ur</string>
   <string name="worldclock_input_hint_text">Vnesite mesto</string>

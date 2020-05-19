@@ -107,7 +107,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="desktop_waiting">Čakam</string>
   <string name="device_corrupt">Mi Telefon (podatki so poškodovani)</string>
   <string name="device_delete_prompt">Izbrišem varnostno kopijo za %s?</string>
-  <string name="dialog_btn_cancel_backup">Preklič</string>
+  <string name="dialog_btn_cancel_backup">Prekliči</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="dialog_btn_next">Naprej</string>
   <string name="dialog_btn_overwrite_backup">Prepiši</string>
@@ -132,6 +132,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="error_unknown">Prišlo je do napake</string>
   <string name="expand_button_title">Napredno</string>
   <string name="get_device_id_error">"Ne morem dobiti ID naprave"</string>
+  <string name="help_and_feedback">Pomoč in povratne inf.</string>
   <string name="hint_restore_cross_space">Videz začetnega zaslona se lahko prikaže napačno če prenesete stvari med prostoroma.</string>
   <string name="home_hint_global_launcher">Poco zaganjalnik</string>
   <string name="home_hint_other_launcher">Ostali zaganjalniki</string>

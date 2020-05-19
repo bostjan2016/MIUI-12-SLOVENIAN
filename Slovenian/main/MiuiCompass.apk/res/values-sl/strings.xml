@@ -54,6 +54,7 @@
   <string name="cta_agree_desc">Dovoli, da se ta aplikacija poveže s spletom in ji daj neobvezna dovoljenja, tako da lahko uporabite vse njene funkcije.</string>
   <string name="cta_v2_app_purpose">prikazovanje smeri, koordinat, zračnega pritiska in trenutne višine</string>
   <string name="dialog_body_no_network">"Povežite se na WiFi ali vključite mobilne podatke."</string>
+  <string name="dialog_body_no_network_global">Povežite se na WiFi ali vključite mobilne podatke.</string>
   <string name="dialog_calibrat_altitude">Kalibriranje…</string>
   <string name="dialog_title_no_network">"Ne morem se povezati na omrežje"</string>
   <string name="direction_east">V</string>
@@ -83,6 +84,14 @@
   <string name="location_south">J</string>
   <string name="location_west">Z</string>
   <string name="longitude">Zemljepisna dolžina</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+ <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne morem naložiti"</string>
   <string name="mobiledata_alert_dialog_message">Povežem s spletom za umerjanje nadmorske višine?</string>
   <string name="mobiledata_alert_dialog_title">Opozorilo uporabe podatkov</string>
   <string name="not_set">Ni nastavljeno</string>

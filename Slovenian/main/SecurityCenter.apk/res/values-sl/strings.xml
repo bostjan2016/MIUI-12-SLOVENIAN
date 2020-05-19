@@ -1422,10 +1422,9 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="free_traffic_settings">Nastavitve Izklj. maks. omejitve</string>
   <string name="function_close">Izključi</string>
   <string name="function_gwsd_detail">"O tej storitvi:
-  1. Dohodni klici na vašo podatkovno SIM ne bodo prekinili mobilne podatkovne povezave. Povezava bo prekinjena samo ko odgovorite na klic.
-  2. Če je ova storitev vključena klicatelj ne bo slišal melodije klica čakanja. Dohodni klici bodo končani če ne odgovorite v roku 6 sekund.
-  3. Ta storitev deluje samo za podatkovne SIM kartice. Klici na vašo primarno SIM prekinjajo mobilno podatkovno povezavo.
-  4. To storitev podpirajo samo China Mobile in China Unicom."</string>
+  1. Če uporabljate mobilne podatke na podatkovni SIM ali običajni kartici SIM, ki je povezana z omrežjem VoLTE, dohodni klici ne bodo prekinjeni, dokler ne odgovorite.
+  2. Ko je ta storitev vklopljena, druga oseba ne bo slišala vaših tonov zvonjenja, razen če uporabljate navadno kartico SIM. Dohodni klici bodo samodejno zavrnjeni po 7-10 sekundah neaktivnosti.
+  3. Podprte so podatkovne SIM kartice izdane od China Mobile in China Unicom. Podprte so redne kartice SIM, ki jih izdajo China Mobile, China Unicom in China Telecom."</string>
   <string name="function_gwsd_title">"Ne dovoli dohodnim klicem da prekinejo podatkovno SIM povezavo"</string>
   <string name="function_shield_auto_bright">Izključi samod. svetlost</string>
   <string name="function_shield_eye_shield">Izključi način branja</string>
@@ -2515,6 +2514,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pm_auto_start_by_system">Zaženi aplikacije</string>
   <string name="pm_auto_start_by_system_event">Dovoli aplikaciji samodejni zagon</string>
   <string name="pm_auto_start_proc_is_running">Zagnano</string>
+  <string name="pm_newfeature_sub_text">NOVO</string>
   <string name="pm_remember_choice">Zapomni si</string>
   <string name="pm_root_success_notification_infomation">Prepričajte se da razumete tveganja okoli ROOT dostopa</string>
   <string name="pm_root_success_notification_title">ROOT dostop omogočen</string>

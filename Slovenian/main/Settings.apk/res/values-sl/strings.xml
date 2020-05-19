@@ -2008,6 +2008,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
     <string name="content_capture">Prilagajanje uporabe podatkov aplikacij</string>
     <string name="content_capture_summary">Aplikacijam dovoli pošiljanje vsebine v sistem Android. Za več informacij se dotaknite.</string>
     <string name="content_description_menu_button">Meni</string>
+  <string name="content_miui_music_mute_by_user">Predvajam zvok predstavnosti ko je neslišni način vključen?</string>
     <string name="contextual_card_dismiss_confirm_message">Želite odstraniti ta predlog?</string>
     <string name="contextual_card_dismiss_keep">Obdrži</string>
     <string name="contextual_card_dismiss_remove">Odstrani</string>
@@ -8370,6 +8371,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="title_layout_current">Velikost besedila</string>
   <string name="title_layout_current2">Velikost besedila</string>
   <string name="title_layout_current2_weight">Velikost besedila &amp; font</string>
+  <string name="title_miui_music_mute_by_user">Tiho</string>
   <string name="title_layout_v2">Velikost besedila &amp; skaliranje</string>
   <string name="title_local_resource">Lokalni viri</string>
   <string name="title_of_auto_launch_manage">Samod. zagon</string>

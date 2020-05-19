@@ -56,6 +56,14 @@
         <item quantity="other">Odloži alarm za %d min</item>
         <item quantity="one">Odloži alarm za %d min</item>
     </plurals>
+	<plurals name="stopwatch_running_notification_day">
+        <item quantity="other">Štoparica je zagnana %s dni. Tapnite za prikaz.</item>
+        <item quantity="one">Štoparica je zagnana %s dan. Tapnite za prikaz.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">Štoparica je zagnana %s ur. Tapnite za prikaz.</item>
+        <item quantity="one">Štoparica je zagnana %s uro. Tapnite za prikaz.</item>
+    </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d ur "</item>
         <item quantity="one">"%1$d ura "</item>

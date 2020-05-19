@@ -12,6 +12,14 @@
         <item quantity="other">%d stvari</item>
         <item quantity="one">%d stvar</item>
     </plurals>
+	<plurals name="search_alll_records_hint">
+        <item quantity="other">Išči med %d posnetki</item>
+        <item quantity="one">Išči med %d posnetkom</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">Išči med %d posnetki klicev</item>
+        <item quantity="one">Išči med %d posnetkom klicev</item>
+    </plurals>
 	<plurals name="search_result">
         <item quantity="other">Najdeno posnetkov: %d</item>
         <item quantity="one">Najden %d posnetek</item>

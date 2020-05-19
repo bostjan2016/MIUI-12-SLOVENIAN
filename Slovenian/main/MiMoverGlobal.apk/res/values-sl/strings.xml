@@ -465,7 +465,7 @@ avdio, video, dokumente in aplikacije na novo napravo"</string>
     <string name="transfer_multi_connect_summary">Vaš prenos je bil prekinjen zaradi varnostnih razlogov. Če vseeno želite nadaljevati tapnite \"Poveži ponovno\".</string>
     <string name="transfer_multi_connect_title">Kaže da je več naprav povezanih na to dostopno točko</string>
     <string name="transfer_quit_alert_btn_negative">Izhod</string>
-    <string name="transfer_quit_alert_btn_positive">Ne zapusti</string>
+    <string name="transfer_quit_alert_btn_positive">Ne prekinjaj</string>
     <string name="transfer_quit_alert_message">"Mi Mover trenutno deluje. Želite vseeno zapustiti?
 
 "</string>

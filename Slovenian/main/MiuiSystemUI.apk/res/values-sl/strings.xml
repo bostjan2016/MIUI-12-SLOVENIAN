@@ -1492,6 +1492,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="notification_otg_trackball_out">Trackball izklopljen</string>
   <string name="notification_otg_unknow_in">OTG naprava povezana</string>
   <string name="notification_otg_unknow_out">OTG naprava izklopljena</string>
+  <string name="notification_storage_float">Zunanji pomnilnik</string>
   <string name="notification_tap_again">Tapni ponovno za odpiranje</string>
   <string name="notification_template_text">Novo obvestilo. Dotaknite se za ogled.</string>
   <string name="oem_preferred_feedback_reporter"/>
@@ -2013,6 +2014,7 @@ morda nadzira"</string>
   <string name="status_bar_volte_label">HD</string>
   <string name="status_bar_work">Delovni profil</string>
   <string name="status_unavailable">Ni na voljo</string>
+  <string name="storage_is_connecting">%1$s je povezan</string>
     <string name="stream_accessibility">Opravila za ljudi s posebnimi potrebami</string>
     <string name="stream_alarm">Opozorilo</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>

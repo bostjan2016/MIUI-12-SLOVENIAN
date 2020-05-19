@@ -156,7 +156,7 @@
   <string name="gmail_parent">Gmail</string>
   <string name="greeting_alarm_desc">Alarm se bo oglasil jutri ob %1$s</string>
   <string name="greeting_alarm_desc_with_duration">Alarm se bo izključil jutri ob %1$s, pojdite spat da boste dobili %2$s spanja.</string>
-  <string name="greeting_birth_desc">Danas ima %1$s rojstni dan</string>
+  <string name="greeting_birth_desc">Danes ima %1$s rojstni dan</string>
   <string name="greeting_news_morning">Kaj se je zgodilo med spanjem</string>
   <string name="greeting_news_night">Danes je bil naporn dan poln dogodkov</string>
   <string name="greeting_no_alarm">Ni nastavljenih alarmov, lepo spite!</string>

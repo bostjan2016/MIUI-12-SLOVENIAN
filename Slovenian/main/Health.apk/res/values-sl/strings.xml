@@ -685,6 +685,7 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="saturday">Nedelja</string>
   <string name="saturday_short">Ned</string>
   <string name="saturday_shortest">N</string>
+  <string name="save">Shrani</string>
   <string name="search_menu_title">Preišči</string>
   <string name="sedentary_detail_title">Predolgo sedenje ni zdravo.</string>
   <string name="sedentary_enhance_remind">Vibracija tudi</string>
@@ -699,11 +700,11 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="sedentaty_hazard_description">Sjedenje ne koristi vašem zdravlju. 12 sati s 1-minutnim pauzama ustajanja svakog dana pomoći će vam da izbjegnete rizike sjedilačkog načina života.</string>
   <string name="select_menstruation_end_date">Izberite datum konca te menstruacije</string>
   <string name="select_null">Nič ni izbrano</string>
-  <string name="select_target">Odaberi cilj</string>
+  <string name="select_target">Izberi cilj</string>
   <string name="send_diagnosis_log">Pošlji poročilo</string>
   <string name="sending">Pošiljanje…</string>
   <string name="setting">Nastavitve</string>
-  <string name="setting_data_cloud_sync_tip">To funkcijo uporabite za varnostno kopiranje stvari iz te naprave in sinhronizacijo zdravstvenih podatkov iz drugih naprav</string>
+  <string name="setting_data_cloud_sync_tip">To storitev uporabite za varnostno kopiranje stvari iz te naprave in sinhronizacijo zdravstvenih podatkov iz drugih naprav</string>
   <string name="setting_sedentary_off">IZKLJUČENO</string>
   <string name="setting_sedentary_on">VKLJUČENO</string>
   <string name="setting_sedentary_title">Opomni me za sprehod</string>
@@ -926,7 +927,7 @@ podatkov o spanju"</string>
   <string name="sync_status_in_progress">Sinhronizacija…</string>
   <string name="sync_status_network_failure">"Ne morem sinhronizirati. Povežite se na omrežje in poskusite znova."</string>
   <string name="sync_status_never_done">Ni sinhronizirano</string>
-  <string name="sync_status_oauth_error">Sinhronizacija vira podatkov ni uspela. Ponovno jo odobrite</string>
+  <string name="sync_status_oauth_error">"Sinhronizacija vira podatkov ni uspela. Najprej odobrite dovoljenja"</string>
   <string name="tb_audio_progress_bar">Trak predvajanja zvoka</string>
   <string name="tb_card_on_using_list">Dodano</string>
   <string name="tb_click_finish_stand">Nedokončano stanje skoraj 1 uro, kliknite da boste dokončali stanje</string>
@@ -1011,6 +1012,7 @@ podatkov o spanju"</string>
   <string name="tb_month_dialog_go_today">Izbrano danes</string>
   <string name="tb_month_dialog_select_date">Izbrano %1$s</string>
   <string name="tb_month_dialog_select_date_with_snore" formatted="false">Izbrano %1$s, %s</string>
+  <string name="tb_multiple_selecte_all">Izberi vse</string>
   <string name="tb_not_add_list">Ni dodano</string>
   <string name="tb_pause_detection">Premor</string>
   <string name="tb_picker_day">Izbrani dan: %1$d. Povlecite navpično, da izberete dan.</string>
@@ -1037,9 +1039,10 @@ podatkov o spanju"</string>
   <string name="tb_stand_card_finish_stand">Danes, %1$s je akumuliral stanje, cilj je končati stanje po 12 urah, trenutni čas je %2$s-%3$s, stanje je končano</string>
   <string name="tb_stand_card_not_finish_stand">Danes, %1$s je končal stanje, cilj je končati stanje po 12 urah, trenutni čas je %2$s-%3$s, in stanje je končano</string>
   <string name="tb_stand_day_column_click">%1$s-%2$s je končal stanje, od %3$s</string>
-  <string name="tb_stand_day_ring">Danas, %1$s je akumuliral da konča stanje, cilj je končati stanje po 12 urah</string>
+  <string name="tb_stand_day_ring">Danes, %1$s je akumuliral da konča stanje, cilj je končati stanje po 12 urah</string>
   <string name="tb_stand_wm_column_chart">%1$s-%2$, Statistični podatki o konca stanja, povlecite levo in desno da spremenite časovno obdobje, kliknite na stolpec za prikaz podrobnosti</string>
   <string name="tb_stand_wm_column_click">%1$s, stanje %2$d, %3$s</string>
+  <string name="tb_unmultiple_selecte_all">Prekliči izbrano</string>
   <string name="tb_user_account_signed">Mi Račun: %1$s.</string>
   <string name="tb_user_account_unsigned">Tapnite za prijavo v Mi Račun</string>
   <string name="tb_user_sleep_card_info">Cilj dnevnega spanja: %1$s.</string>
@@ -1130,7 +1133,7 @@ podatkov o spanju"</string>
   <string name="title_start_use_menstruation_assistant">Zabeležite svoj menstrualni ciklus</string>
   <string name="title_today_exercise_detail">"Današnja aktivnost"</string>
   <string name="today">Danes</string>
-  <string name="today_hh_mm">Danas HH:mm</string>
+  <string name="today_hh_mm">Danes HH:mm</string>
   <string name="today_label">Danes</string>
   <string name="today_no_data">Ni podatkov za danes</string>
   <string name="today_single">Danes</string>

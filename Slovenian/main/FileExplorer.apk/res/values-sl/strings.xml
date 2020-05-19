@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="a_week_share_rank">Tedenska lestvica</string>
+    <string name="a_week_share_rank">Tedenska lestvica</string>
     <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
     <string name="abc_action_bar_up_description">Pomik navzgor</string>
     <string name="abc_action_menu_overflow_description">Več možnosti</string>
@@ -703,6 +703,8 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="operation_unfavorite">Odstrani iz priljubljenih</string>
   <string name="operation_unlike">Ni mi všeč</string>
   <string name="optional_change_wifi">Za daljinsko urejanje datotek preko WiFi-ja</string>
+  <string name="otg_data_transfer_success">Uspešno poslano</string>
+  <string name="otg_data_transferring">"Prenos datotek… Ne izklopite zun. pomnilnika."</string>
   <string name="original_user_desc">Redno prenašajte originalne videoposnetke da dobite status avtorja vsebin</string>
   <string name="original_user_qq_group">Pridružite se QQ skupini Talent team</string>
   <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; se je pridružil skupini</string>
