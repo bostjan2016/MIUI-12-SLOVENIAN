@@ -5263,7 +5263,7 @@ Znova zaženite napravo in poskusite znova."</string>
     <string name="not_battery_optimizing">Ne uporablja optimizacije akumulatorja</string>
     <string name="not_installed">Ni namešč. za tega uporabnika</string>
     <string name="not_set">Ni nastavljeno</string>
-  <string name="notch_and_status_bar_settings">Zob &amp; vrstica obvestil</string>
+  <string name="notch_and_status_bar_settings">Center za kontrolo &amp; vrstica obvestil</string>
   <string name="notch_force_black_desc">Ko je vključeno je področje zoba zaslona črno</string>
   <string name="notch_force_black_title">Skrij zob zaslona</string>
   <string name="notch_settings">Zob</string>

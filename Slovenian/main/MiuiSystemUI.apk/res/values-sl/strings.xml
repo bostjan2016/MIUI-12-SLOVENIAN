@@ -332,6 +332,8 @@
   <string name="audio_effect_custom">Nastavi</string>
   <string name="audio_effect_info">Optimiziraj avdio</string>
   <string name="audio_effect_settings">Določi tip slušalk</string>
+  <string name="auto_brightness_off">Samodejna svetlost je onemogočena</string>
+  <string name="auto_brightness_on">Samodejna svetlost je omogočena</string>
   <string name="auto_disable_screenbuttons_disable_toast_text">Navigacijske tipke onemogočene, dvakrat tapnite katerokoli tipko da jih ponovno vključite.</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">Navigacijske tipke omogočene</string>
   <string name="auto_saver_enabled_text">Varčevanje baterije se vključi samodejno ko nivo baterije pade pod %d%%.</string>

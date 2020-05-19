@@ -111,6 +111,7 @@
   <string name="document_grayscale">Črno-belo</string>
   <string name="document_grayscale_tip_msg">Spreminjanje v črno-belo…</string>
   <string name="document_ocr">OCR</string>
+  <string name="document_ocr_fail">"Ne morem prepoznati besedilo. Zavrtite sliko tako da odgovarja orientaciji vaše naprave in poskusite ponovno."</string>
   <string name="document_ocr_result_copy">Kopiraj besedilo</string>
   <string name="document_ocr_result_save">Shrani v beležko</string>
   <string name="document_ocr_result_title">Fotografija dokumenta</string>
@@ -121,6 +122,7 @@
   <string name="document_rectify">Prilagodi</string>
   <string name="document_rectify_tip_msg">Nastavljanje…</string>
   <string name="document_save_succeed_tip">Dokument shranjen v %1$s</string>
+  <string name="document_spin">Zavrti</string>
   <string name="document_title">Posnemite fotografijo dokumenta</string>
   <string name="document_top_panel_title">Fotografija dokumenta</string>
   <string name="done">Končano</string>
@@ -143,6 +145,7 @@
   <string name="error_minute_limit">Preveč poskusov v 1 minuti</string>
   <string name="error_permissions">"Skener nima potrebnih dovoljenj za normalno delo. Pojdite v Nastavitve in preverite dovoljenja za nadaljevanje."</string>
   <string name="error_server_error">Napaka strežnika</string>
+  <string name="expand_button_title">Napredno</string>
   <string name="experience_new_feature_tips">"Prijavite se v svoj Mi Račun da se boste prijavili za dovoljenje za uporabo Beta verzije. Beta verzijo boste lahko uporabili ko pregledamo vašo prijavo. Beta verzija lahko vsebuje napake."</string>
   <string name="experience_new_features">Beta verzija</string>
   <string name="experiential_version_of_the_prompt_content">Prijavite se v svoj Mi Račun za dostop do Beta Skenerja. Prijava zdaj?</string>
@@ -151,6 +154,7 @@
   <string name="feedback">Povratne inf.</string>
   <string name="feedback_description_camera_access">"Skener se ne more povezati s kamero"</string>
   <string name="feedback_description_save_photo">"Ne morem shraniti fotografije ali videa"</string>
+  <string name="feedback_phone">Podatki za kontakt (izbirno)</string>
   <string name="feedback_title">Povratne inf.</string>
   <string name="flight_mode_connecting_to_wifi">Ročno vključite WiFi ko je način Letalo vključen</string>
   <string name="food_identification_fail_tips">Skenirajte sadje, zelenjavo in drugo hrano. Storitev deluje tudi s slikami.</string>
@@ -169,6 +173,8 @@
   <string name="gps">Navigacija</string>
   <string name="grant_permission">Odobrite dovoljenje</string>
   <string name="history">Zgodovina</string>
+  <string name="history_empty">Prazno</string>
+  <string name="if_to_open_milogo_scanning">Prepoznaj Xiaomi logo</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="importFailed">"Ne morem uvoziti"</string>
   <string name="image_view">Pokaži sliko</string>
@@ -204,7 +210,16 @@
   <string name="miracast_details">Skenirajte QR kodo za predvajanje</string>
   <string name="miracast_message">Predvajam na %s?</string>
   <string name="miracast_switch_off">Brezžični zaslon je izključen</string>
+  <string name="mishop">Mi Store</string>
   <string name="miracast_switch_tip">Vključite brezžični zaslon za uporabo te storitve</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne morem naložiti"</string>
   <string name="module_title_business_card">Vizitka</string>
   <string name="module_title_code">QR koda</string>
   <string name="module_title_document">Dokument</string>
@@ -231,6 +246,7 @@
   <string name="no_support_to_translate_type">"Ta jezik ni podprt"</string>
   <string name="not_insert_contact">"Ne morem dodati stika"</string>
   <string name="not_recommend_access_web_url">Stran od tukaj! Ni varno</string>
+  <string name="not_set">Ni nastavljeno</string>
   <string name="not_tips">"Ne kaži več"</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="note">Opomba:</string>
@@ -255,6 +271,7 @@
   <string name="plant_title">Skenirajte rastlino ki jo želite identificirati</string>
   <string name="preparing_sd">Pripravljanje SD kartice…</string>
   <string name="previous">Nazaj</string>
+  <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="prompt">Pozor</string>
   <string name="qr_code_details">Podrobnosti QR kode:</string>
   <string name="queryGoodsFailed">"Ne najdem informacije o izdelku"</string>
@@ -369,6 +386,8 @@
   <string name="url_is_safety">Ta spletna stran je varna</string>
   <string name="url_is_unknown">"Ne morem preveriti ali je spletna stran varna"</string>
   <string name="url_is_unsafety">"Ta spletna stran ni varna"</string>
+  <string name="v7_preference_off">IZKLJUČENO</string>
+  <string name="v7_preference_on">VKLJUČENO</string>
   <string name="vender_info_translation_kingsoft">Podprto od Kingsoft</string>
   <string name="view_study_report">Pokaži poročilo</string>
   <string name="web">Spletna stran:</string>
