@@ -430,6 +430,14 @@
   <string name="miuishare_title_share">Deli</string>
   <string name="miuishare_wechat_timeline_title">Wechat časovnica</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne morem naložiti"</string>
   <string name="month_day_format">dd.MM</string>
   <string name="month_day_hour_minute_format_en">dd.MM HH:mm</string>
   <string name="month_format_en">dd.MM</string>
@@ -437,6 +445,9 @@
   <string name="music_card_error_str">Prišlo je do napake, odprite aplikacijo Glasba za predvajanje</string>
   <string name="music_open">Pokaži kartico Glasba &amp; Radio</string>
   <string name="music_setting_brief">Priključite slušalke da boste nadaljevali s poslušanjem glasbe ali radia, kjer ste prenehali.</string>
+  <string name="mru_setting_brief">Hitre aplikacije in bližnjice ki se pokažejo, ko povlečete navzdol v zakl. aplikacij</string>
+  <string name="mru_setting_brief_detail">"Nedavno uporabljene hitre aplikacije in bližnjice."</string>
+  <string name="mru_title">Nedavne stvari</string>
   <string name="navigation_network_location_enable">Strinjam se</string>
   <string name="navigation_network_location_enable_later">Prekliči</string>
   <string name="navigation_network_location_enabled">Storitve lokacije so vključene. To lahko spremenite v nastavitvah.</string>
@@ -486,8 +497,6 @@
   <string name="preload_empty">Tu ni ničesar. Povlecite dol za osvežitev.</string>
   <string name="qq_new">Nov status</string>
   <string name="qq_qzone">Qzone</string>
-  <string name="quick_app_setting_brief">Podrsaj dol v Asistentu na dotik za prikaz nedavno uporabljenih hitrih aplikacij</string>
-  <string name="quick_app_setting_brief_detail">"Preglejte vse nedavno uporabljene hitre aplikacije"</string>
   <string name="quick_app_title">Nedavne hitre aplikacije</string>
   <string name="quickstart_accessibility_description">"Osebni asistent omogoča bližnjice za izbrane aplikacije tretjih strani. Te bližnjice ne bodo delovala če izključite to opravilo."</string>
   <string name="quickstart_accessibility_service">Osebni asistent</string>

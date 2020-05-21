@@ -515,6 +515,7 @@ za videoposnetke"</string>
     <string name="mr_cast_button_connected">Gumb za predvajanje. Povezava je vzpostavljena.</string>
     <string name="mr_cast_button_connecting">Gumb za predvajanje. Vzpostavljanje povezave.</string>
     <string name="mr_cast_button_disconnected">Gumb za predvajanje. Povezava je prekinjena.</string>
+  <string name="mr_cast_dialog_title_view_placeholder">Ni podatkov na voljo</string>
     <string name="mr_chooser_searching">Iskanje naprav</string>
     <string name="mr_chooser_title">Predvajanje prek:</string>
     <string name="mr_controller_album_art">Naslovnica albuma</string>
@@ -530,9 +531,11 @@ za videoposnetke"</string>
     <string name="mr_controller_stop">Ustavi</string>
     <string name="mr_controller_stop_casting">Ustavi predvajanje</string>
     <string name="mr_controller_volume_slider">Drsnik za glasnost</string>
+    <string name="mr_dialog_device_header">Predvajanje na napravi</string>
+    <string name="mr_dialog_route_header">Predvajaj v skupini</string>
     <string name="mr_system_route_name">Sistem</string>
     <string name="mr_user_route_category_name">Naprave</string>
-  <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
+    <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
     <string name="my_favorite_channels">Priljubljeni kanal</string>
     <string name="my_feedback_title">Moje povratne informacije</string>
     <string name="need_update_app">Posodobite Mi Video za uporabo vseh njegovih funkcij</string>
