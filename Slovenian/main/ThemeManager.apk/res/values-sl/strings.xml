@@ -1057,7 +1057,7 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
   <string name="update_title">Posodobitev na voljo</string>
   <string name="using_theme_has_update_tips">Na voljo je posodobitev te teme.</string>
   <string name="using_theme_next_automatic_update">Samodejna posodobitev</string>
-  <string name="using_theme_next_automatic_update_summary">Samodejno posodobi prenešene teme preko WiFi ko je zaslon izključen</string>
+  <string name="using_theme_next_automatic_update_summary">Samodejno posodobi prenešene teme preko WiFi ko je naprava zaklenjena</string>
   <string name="using_theme_show_ad">Priporočila</string>
   <string name="using_wallpaper_personal">Izbor prilagojenih ozadij</string>
   <string name="v7_preference_off">IZKLJUČENO</string>

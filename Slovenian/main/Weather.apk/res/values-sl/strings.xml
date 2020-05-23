@@ -18,7 +18,7 @@
   <string name="act_weather_find_city_click_retry">Poskusite znova</string>
   <string name="act_weather_find_city_net_no_good">"Ne morem se povezati na omrežje."</string>
   <string name="act_weather_find_city_no_result">Ni rezultatov</string>
-  <string name="act_weather_find_city_searching">Iskanje...</string>
+  <string name="act_weather_find_city_searching">Iskanje…</string>
   <string name="activity_find_city_dialog_cancel">Prekliči</string>
   <string name="activity_find_city_dialog_message">Dovolite aplikaciji vreme dostop do vaše lokacije da boste dobili točne informacije o lokaciji.</string>
   <string name="activity_find_city_dialog_message_global">Vključite storitve lokacije in dovolite napravi da dobi lokacijo preko brežičnih omrežij.</string>
@@ -41,8 +41,12 @@
   <string name="alert_weather_enable_settings_title">Opozorila vremena</string>
   <string name="already_voted">Glasovano</string>
   <string name="app_name">Vreme</string>
+  <string name="aqi_15_days_desc">15-dnevna AQI napoved</string>
+  <string name="aqi_24_hours_desc">24-urna AQI napoved</string>
+  <string name="aqi_48_hours_desc">48-urna AQI napoved</string>
+  <string name="aqi_5_days_desc">5-dnevna AQI napoved</string>
   <string name="aqi_alert_channel_name">AQI opozorila</string>
-  <string name="aqi_data_source">Poganja Colorful Clouds</string>
+  <string name="aqi_data_source">Ponuja Colorful Clouds</string>
   <string name="aqi_detail_24_hours">24-urna napoved</string>
   <string name="aqi_detail_5_days">5-dnevna napoved</string>
   <string name="aqi_detail_co_unit">Enota: mg/m³</string>
@@ -177,7 +181,8 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="first_start_network_msg">Ta aplikacija potrebuje spletno povezavo in dostop do lokacije za normalno delovanje.</string>
   <string name="first_start_network_title">Povezava s spletom in dostop do lokacije</string>
   <string name="forecast_vedio_visible_setting_string">Videoposnetek vremena</string>
-  <string name="global_aqi"/>
+  <string name="global_aqi">AQI: %1$s %2$s</string>
+  <string name="global_not_enable_warning">"Ne morete uporabiti te aplikacije. Ni nameščena iz uradnega vira."</string>
   <string name="gps_hint">Trenutna lokacija</string>
   <string name="hide_topic">Skrij</string>
   <string name="hourly_forcast_now">Zdaj</string>
@@ -188,6 +193,7 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="index_item_downloading">Prenos</string>
   <string name="index_item_experience_now">Namesti zdaj</string>
   <string name="index_item_install_now">Namesti zdaj</string>
+  <string name="index_item_install_dialog">%1$s je prenešen in nameščen, ga želite takoj zagnati? </string>
   <string name="index_item_installing">Nameščanje</string>
   <string name="index_item_installing2">Nameščanje</string>
   <string name="indices_desc_feel">Občutek %1$s°C</string>
@@ -400,11 +406,13 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="warning_weather_day_and_night_settings_title">Dnevni povzetki</string>
   <string name="weather_alert_channel_name">Opozorila</string>
   <string name="weather_introduce">Zmeraj z vami.</string>
+  <string name="weather_main_aqi_desc">AQI</string>
+  <string name="weather_main_minute_hour">2-ure padavine</string>
   <string name="weather_permission_agree">Sprejmem</string>
   <string name="weather_service_channel_name">Storitve v ozadju</string>
   <string name="widget_cta_not_agree">Tapnite da boste dobili informacije o vremenu</string>
   <string name="wind_direction_no_data">Veter</string>
-  <string name="xiaomi_weather_description_content">Xiaomi Vreme aplikacija ponuja točne informacije o vremenski napovedi. Odstranitev vpliva na vrstico obvestil, uro vremenske napovedi delovne površine itd. Želite odstraniti komponente sistema?</string>
+  <string name="xiaomi_weather_description_content">Aplikacija Vreme ponuja točne informacije o vremenski napovedi. Odstranitev vpliva na vrstico obvestil, uro vremenske napovedi delovne površine itd. Želite odstraniti komponente sistema?</string>
   <string name="xiaomi_weather_description_title">O aplikaciji</string>
   <string name="your_location">Vaša lokacija</string>
 </resources>

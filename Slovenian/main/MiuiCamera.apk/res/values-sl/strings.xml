@@ -499,7 +499,7 @@ Natisnite kopijo brezžično na papir A4."</string>
   <string name="lens_dirty_detected_content">""Kaže da je leča vaše kamere umazana. Očistite jo."</string>
   <string name="lens_dirty_detected_title_back">Leča zadnje kamere je umazana</string>
   <string name="lens_dirty_detected_title_front">Leča sprednje kamere je umazana</string>
-  <string name="lighting_hint_needed">Postavite svoj objekt v sredino osvetlitve</string>
+  <string name="lighting_hint_needed">Postavite svoj objekt v kader</string>
   <string name="lighting_hint_title">Studio osvetlitev</string>
   <string name="lighting_hint_too_close">Oddaljite kamero</string>
   <string name="lighting_hint_too_far">Približajte kamero</string>
@@ -584,10 +584,10 @@ zgledali večji na fotografijah"</string>
   <string name="mimoji_create_emoticon">Izdelajte paket nalepk</string>
   <string name="mimoji_create_emoticon_error">"Ne morem izdelati paket nalepk"</string>
   <string name="mimoji_create_emoticon_progress">Izdelava paketa nalepk…</string>
-  <string name="mimoji_create_tips">Glejte naravnost v kamero da napravite svoj Mimoji</string>
+  <string name="mimoji_create_tips">Glejte naravnost v kamero</string>
   <string name="mimoji_delete">&lt;font fgcolor="#ffff0000"&gt;Izbriši&lt;/font&gt;</string>
-  <string name="mimoji_delete_dialog_title">Izbrišem Mimoji?</string>
-  <string name="mimoji_delete_mimoji">Izbriši Mimoji</string>
+  <string name="mimoji_delete_dialog_title">Izbrišem avatar?</string>
+  <string name="mimoji_delete_mimoji">Izbriši</string>
   <string name="mimoji_delete_success">Izbrisano</string>
   <string name="mimoji_detect_faceshape_failed">"Ne morem najti obliko obraza"</string>
   <string name="mimoji_detect_facial_failed">"Ne morem videti obraza"</string>
@@ -605,7 +605,7 @@ zgledali večji na fotografijah"</string>
   <string name="mimoji_edit_abandon_capture_alert">Zavržem spremembe?</string>
   <string name="mimoji_edit_back_alert">Spremembe bodo zavržene ko se vrnite. Se vseeno vrnem?</string>
   <string name="mimoji_edit_cancel_alert">Spremembe bodo zavržene. Vseeno odpovem?</string>
-  <string name="mimoji_edit_mimoji">Uredi Mimoji</string>
+  <string name="mimoji_edit_mimoji">Uredi avatar</string>
   <string name="mimoji_editor">Uredi</string>
   <string name="mimoji_emoticon_save">Shrani paket nalepk</string>
   <string name="mimoji_emoticon_with_jpeg_save">Shrani tudi slike</string>
@@ -616,7 +616,7 @@ zgledali večji na fotografijah"</string>
   <string name="mimoji_eyeglass">Očala</string>
   <string name="mimoji_eyelash">Trepalnice</string>
   <string name="mimoji_featured_face">Obraz</string>
-  <string name="mimoji_fragment_tab_name">Mimoji</string>
+  <string name="mimoji_fragment_tab_name">Avatarji nalepk</string>
   <string name="mimoji_freckle">Pege</string>
   <string name="mimoji_gif_accelerate">Hitrost</string>
   <string name="mimoji_gif_clear_bg">Odstrani ozadje</string>
@@ -631,7 +631,7 @@ zgledali večji na fotografijah"</string>
   <string name="mimoji_mustache">Brki</string>
   <string name="mimoji_nose">Nos</string>
   <string name="mimoji_nose_lisps">Nos in ustnice</string>
-  <string name="mimoji_on_create">Napravi Mimoji</string>
+  <string name="mimoji_on_create">Napravi avatar</string>
   <string name="mimoji_ornament">Pribor</string>
   <string name="mimoji_recapture">Začni znova</string>
   <string name="mimoji_recapture_alert">Vse spremembe bodo zavržene če začnete znova. Vseeno začnem?</string>
@@ -642,7 +642,7 @@ zgledali večji na fotografijah"</string>
   <string name="mimoji_save_success">Shranjeno</string>
   <string name="mimoji_select_number_error">Izberite najmanj %d stvar</string>
   <string name="mimoji_selected">Izberi</string>
-  <string name="mimoji_start_create">Izdelava Mimoji…</string>
+  <string name="mimoji_start_create">Izdelava avatarja…</string>
   <string name="mimoji_tab_cartoon">Risanka</string>
   <string name="mimoji_tab_human">Oseba</string>
   <string name="mimoji_tips">Tapnite za snemanje fotografije. Pritisnite in držite za snemanje videoposnetka.</string>
@@ -670,7 +670,7 @@ zgledali večji na fotografijah"</string>
   <string name="module_name_edit_title">Storitve</string>
   <string name="module_name_edit_unfavorite_title">Več storitev</string>
   <string name="module_name_fun">Kratek video</string>
-  <string name="module_name_fun_ar">Mimoji</string>
+  <string name="module_name_fun_ar">Avatar</string>
   <string name="module_name_manual">Ročno</string>
   <string name="module_name_more">Več</string>
   <string name="module_name_multi_camera">Sprednja &amp; zadnja</string>
@@ -1103,7 +1103,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_snap_label_take_movie">Video</string>
   <string name="pref_camera_snap_label_take_picture">Fotografija</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Ne morete uporabljati Quick snap način dokler je \"Zbudi s tipkami za glasnost\" vključen."</string>
-  <string name="pref_camera_sound_title">Zvoki kamere</string>
+  <string name="pref_camera_sound_title">Zvok sprožilca</string>
   <string name="pref_camera_square_mode_title">Kvadrat</string>
   <string name="pref_camera_sr_enable_title">Vključi SR</string>
   <string name="pref_camera_stereo_mode_title">Nastavitev fokusa</string>
@@ -1156,7 +1156,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_zsl_entry_off">Izklop</string>
   <string name="pref_camera_zsl_entry_on">Vklop</string>
   <string name="pref_capture_settings">Kamera</string>
-  <string name="pref_custom_feature_layout_title">Razpored storitve</string>
+  <string name="pref_custom_feature_layout_title">Razpored storitev</string>
   <string name="pref_custom_shutter_sound_title">Zvok</string>
   <string name="pref_custom_tint_title">Barve</string>
   <string name="pref_customization_title">Prilagodi</string>
@@ -1166,7 +1166,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_exposure_title">Ekspozicija</string>
   <string name="pref_face_beauty_title">Olepševanje</string>
   <string name="pref_fingerprint_capture_title">Proženje z prstnim odtisom</string>
-  <string name="pref_front_mirror_entry_auto">Samodejno</string>
+  <string name="pref_front_mirror_entry_auto">Ko je odkrit obraz</string>
   <string name="pref_front_mirror_entry_off">Izklop</string>
   <string name="pref_front_mirror_entry_on">Vklop</string>
   <string name="pref_front_mirror_label_auto">Samodejno</string>
@@ -1174,18 +1174,19 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_google_lens">Google leče</string>
   <string name="pref_google_lens_summary">Usmerite kamero na kontaktne informacije, URL-je in QR kode da boste videli možne opcije</string>
   <string name="pref_google_lens_title">Pametni predlogi</string>
-  <string name="pref_groupshot_with_primitive_title">Shrani tudi osnovno sliko</string>
-  <string name="pref_lens_dirty_detect_summary">Prejmite obvestilo ko je leča umazana</string>
-  <string name="pref_lens_dirty_detect_title">Obvestila o umazani leči</string>
-  <string name="pref_grp_advanced_settings">Dodatne nastavitve</string>
+  <string name="pref_groupshot_with_primitive_title">Shrani tudi originalno sliko</string>
+  <string name="pref_grp_advanced_settings">Napredne nastavitve</string>
   <string name="pref_grp_capture_settings">Nastavitve snemanja</string>
   <string name="pref_grp_picture_settings">Nastavitve slike</string>
   <string name="pref_grp_restore_settings">Obnovi nastavitve</string>
   <string name="pref_hdr_indicator_entry_auto">Samod.</string>
   <string name="pref_hdr_indicator_entry_off">Izklj.</string>
   <string name="pref_hdr_indicator_entry_on">Vklj.</string>
-  <string name="pref_manual_exposure_title">čas ekspozicije</string>
+  <string name="pref_lens_dirty_detect_summary">Prejmite obvestilo ko je leča umazana</string>
+  <string name="pref_lens_dirty_detect_title">Obvesti o umazani leči</string>
+  <string name="pref_manual_exposure_title">Čas eksp.</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
+  <string name="pref_module_settings">Načini</string>
   <string name="pref_more_mode_style_title">Načini kamere</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Lahko snemate samo 720P videoposnetke z 240FPS</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">Lahko snemate samo 720P videoposnetke z 960FPS</string>
