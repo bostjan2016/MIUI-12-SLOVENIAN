@@ -37,14 +37,15 @@
   <string name="first_settings_share_enable_subtitle">Stvari ki jih delite na WeChatu, bodo prikazan z značko MIUI</string>
   <string name="first_settings_subtitle">Tu so na voljo varne možnosti skupne rabe:</string>
   <string name="first_settings_title">Zavarujte vašo zasebnost</string>
+  <string name="loading_text_format" formatted="false">Odstranjanje zasebnih podatkov iz fotografij (%d/%d)…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ni podatkov</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Osveževanje</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ni uspelo</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne morem naložiti"</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="once_settings_camera_ttile">Skupna raba brez metapodatkov</string>
   <string name="once_settings_location_title">Skupna raba brez podatkov o lokaciji</string>

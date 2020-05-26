@@ -82,7 +82,7 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s težava \"%2$s\"</string>
   <string name="feedback_choose_app_tag">Izberi problem</string>
   <string name="feedback_choose_module">Izberi stvar</string>
-  <string name="feedback_choose_module_hint">Potrebno</string>
+  <string name="feedback_choose_module_hint">Zahteva</string>
   <string name="feedback_choose_reproductivity">Reproduktivnost</string>
   <string name="feedback_choose_third_app_name">Izberite ime aplikacije</string>
   <string name="feedback_collect_log_failed">"Ne morem dobiti zapise"</string>
@@ -95,7 +95,7 @@
   <string name="feedback_description_hint_suggestion">"Recite nam kako želite izboljšati MIUI."</string>
   <string name="feedback_description_label">Opis</string>
   <string name="feedback_description_suggest_hint">"Želim da dodate novo opravilo (…) ker potrebujem (…)."</string>
-  <string name="feedback_detail_tile">Napredek</string>
+  <string name="feedback_detail_title">Podrobnosti</string>
   <string name="feedback_empty_report_list">Ni še prijav</string>
   <string name="feedback_guess">Naše predvidevanje</string>
   <string name="feedback_history_remind_login_desc">"Prijavite se s svojim Mi Računom da vidite podrobnosti in napredek vašega poročila"</string>
@@ -323,7 +323,7 @@
   <string name="reply_option_log_hint">Opcija</string>
   <string name="reply_select_log_hint">Izberi poročilo</string>
   <string name="reply_successful">Uspešno odgovorjeno</string>
-  <string name="report_miui">Poročilo o napaki</string>
+  <string name="report_miui">Prijavi napako</string>
   <string name="request_empty_data">Ni podatkov</string>
   <string name="save_pic">Shrani</string>
   <string name="save_pic_fail">"Ne morem shraniti sliko, preverite SD kartico"</string>
@@ -358,7 +358,7 @@
   <string name="title_nonsystem_app">Ostale aplik.</string>
   <string name="title_same_question_feedback_main">Podobne težave na MIUI forumu</string>
   <string name="title_system_app">MIUI Aplik.</string>
-  <string name="title_user_guide">Oporabnikov vodič</string>
+  <string name="title_user_guide">Navodila</string>
   <string name="toast_app_tag_required">Izberi problem</string>
   <string name="toast_catch_full_log_catching">Istočasno lahko generirate samo en zapis.</string>
   <string name="toast_catch_full_log_open_failed">"Ne morem začeti snemanje zapisa."</string>  

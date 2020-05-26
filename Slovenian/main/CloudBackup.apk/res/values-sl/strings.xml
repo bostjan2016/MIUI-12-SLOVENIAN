@@ -31,7 +31,8 @@
   <string name="btn_restore_continue">Vseeno vrni</string>
   <string name="btn_restore_resume">Nadaljuj</string>
   <string name="btn_restore_retry">Poskusi ponovno</string>
-  <string name="btn_restore_wait">Počakaj na Wifi</string>
+  <string name="btn_restore_wait">Počakaj na WiFi</string>
+  <string name="btn_restore_wait_china">Počakaj na WiFi</string>
   <string name="btn_retry">Ponovno preveri</string>
   <string name="btn_skip">Preskoči ta korak</string>
   <string name="button_cancel">Prekini</string>
@@ -62,6 +63,12 @@
 *\u0009\u0009\u0009Nastavitve obvestil
 *\u0009\u0009\u0009MIUI in nastavitve sistema 
 Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</string>
+  <string name="cloud_back_up_detail_discription_china">Te stvari bodo kopirane na vaš Mi Cloud kadar boste povezani na WiFi: 
+*  Aplikacije, izgled zač. zaslona in slike za ozadje
+*  Nastavitve alarma, ure in časa 
+*  Nastavitve obvestil
+*  MIUI in nastavitve sistema 
+Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Razpored var. kopije</string>
   <string name="cloud_back_up_frequence_long">Vsakih 7 dni</string>
   <string name="cloud_back_up_frequence_short">Vsak dan</string>
@@ -77,6 +84,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="cloud_backup_detail_manage">Urejanje var. kopij</string>
   <string name="cloud_backup_detail_state">Mi Cloud var. kopija</string>
   <string name="cloud_backup_detail_state_summary">Aplikacije, začetni zaslon in nastavitve sistema</string>
+  <string name="cloud_backup_detail_state_summary_china">Samodejno napravi var. kopijo v  Mi Cloud ko je povezano na WiFi omrežje.</string>
   <string name="cloud_backup_detail_time">, Čas izdelave:%1$s</string>
   <string name="cloud_backup_detail_title">Zač. zaslon, aplikacije in  nastavitve.</string>
   <string name="cloud_backup_derail_size_summary">Velikost: %s</string>
@@ -118,7 +126,9 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="dialog_cancel_backup_title">Odpovem izdelavo v teku?</string>
   <string name="dialog_msg_overwrite_backup">Razlika med lokalno in Cloud var. kopijo je velika, nadaljevanje izdelave var. kopije bo pobrisalo obstoječo.</string>
   <string name="dialog_msg_restore_require_wlan">Namestitev var. kopije zahteva WiFi povezavo z omrežjem.</string>
+  <string name="dialog_msg_restore_require_wlan_china">Vračanje var. kopij zahteva povezavo z WiFi omrežjem.</string>
   <string name="dialog_title_require_wlan">Povežite se preko WiFi</string>
+  <string name="dialog_title_require_wlan_china">Poveži se preko WiFi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="doing_calc_backup_data_size">Izračunavanje velikosti…</string>
   <string name="doing_restore_home">Obnavljanje zač. zaslona in nastavitev sistema…</string>

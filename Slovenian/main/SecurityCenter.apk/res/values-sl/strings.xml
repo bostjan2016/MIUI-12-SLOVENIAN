@@ -177,7 +177,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antispam_mms_text_setting">Nastavite sporočila za privzeto aplikacijo za pošiljanje SMS-ov da boste lahko uporabili seznam za blokiranje</string>
   <string name="antispam_mode_details">Podrobnosti seznama blokiranih</string>
   <string name="antispam_notificaiton_type_show_all">Vse številke</string>
-  <string name="antispam_notificaiton_type_show_except_blacklist">Seznam neblokiranih številk</string>
+  <string name="antispam_notificaiton_type_show_except_blacklist">Seznam dovoljenih številk</string>
   <string name="antispam_notificaiton_type_show_none">Nikoli</string>
   <string name="antispam_notification_setting_title">Obvestila</string>
   <string name="antispam_xpace_text">Nastavi na Prvi prostor za namestitev seznama blokiranj</string>
@@ -331,6 +331,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_behavior_start_from_notification_single">Ta aplikacija je zagnana na temelju obvestil</string>
   <string name="app_behavior_start_from_recent">%1s je zagnan(a) iz Nedavno</string>
   <string name="app_behavior_start_from_recent_single">Ta aplikacija je zagnana iz Nedavno</string>
+  <string name="app_behavior_start_from_widget">%1s je zagnan-a s strani pripomočka</string>
+  <string name="app_behavior_start_from_widget_single">To aplikacijo je zagnal pripomoček</string>
   <string name="app_behavior_storage">%1s je dostopal(a) do datotek ali jih shranjuje</string>
   <string name="app_behavior_storage_bg">%1s je dostopal(a) do datotek ali jih shranjuje v ozadju</string>
   <string name="app_behavior_storage_bg_single">Aplikacija dostopa do datotek ali jih shranjuje v ozadju</string>

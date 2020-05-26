@@ -35,6 +35,11 @@
   <string name="close_panel">Zapri Meni bližnjic</string>
   <string name="copy">Kopiraj</string>
   <string name="customize_entries">Izberi bližnjice</string>
+  <string name="edge_distance_pref_summary">Tapnite območja bujenja ob robovih zaslona, ​​da se meni za bližnjice hitreje prikaže</string>
+  <string name="edge_distance_pref_title">Območja bujenja</string>
+  <string name="edge_mode_custom_summary">Prilagodite velikost območja bujenja blizu robov zaslona</string>
+  <string name="edge_mode_custom_title">Po meri</string>
+  <string name="edge_mode_default_title">Privzeto</string>
   <string name="enable_touch_assistant">Omogoči Meni bližnjic</string>
   <string name="enabled_for_pad_hint">Dela kadar je \"Blokiraj navigacijske tipke v vodoravnem položaju\" vključeno</string>
   <string name="expand_button_title">Napredno</string>

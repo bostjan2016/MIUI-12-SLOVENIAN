@@ -129,6 +129,7 @@ in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="ai_scene_top_moon_off">Način dela slaba osvetlitev</string>
   <string name="ai_scene_top_tip">Mesec</string>
   <string name="ai_watermark_title">AI oznaka</string>
+  <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
   <string name="ambilight_description_title">O daljši ekspoziciji</string>
   <string name="ambilight_intro_crowd_moving_part1">Ko snemate v prometni ulici prosite vaš objekt naj miruje. Drugi ljudje se bodo pojavili kot zamegljene sledi.</string>
   <string name="ambilight_intro_crowd_moving_part2">Lahko fotografirate tudi prometne zastoje in množico ljudi. Daljša izpostavljenost bo stavbe ohranjala sveže, vsi premikajoči se predmeti pa bodo zameglili.</string>
@@ -144,6 +145,8 @@ in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="ambilight_scene_silky_water">Svilena voda</string>
   <string name="ambilight_scene_star_track">Zvezdne steze</string>
   <string name="ambilight_scene_traffic_light">Neonske steze</string>
+  <string name="ambilight_tips_for_longtime_using_tripod">Za daljše snemanje uporabite stativ</string>
+  <string name="ambilight_tips_for_suggest_using_tripod">Za snemanje se priporoča stativ</string>
   <string name="ambilight_tips_for_using_tripod">Uporabite stativ</string>
   <string name="ai_watermark_toast_off">AI je izklj.</string>
   <string name="ai_watermark_toast_on">AI je vklj.</string>
@@ -955,6 +958,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_hdr_type_entry_normal">Normalno</string>
   <string name="pref_camera_hdr_type_title">HDR vrsta</string>
   <string name="pref_camera_heic_image_format_description">"Fotografije v formatu slikovnih datotek visoke učinkovitosti zavzemajo manj prostora za shranjevanje, a nekatere aplikacije jih ne podpirajo"</string>
+  <string name="pref_camera_heic_image_format_description2">"Format slikovnih datotek visoke učinkovitosti (HEIF) zavzemajo manj prostora za shranjevanje, a nekatere aplikacije jih ne podpirajo. Ne morete fotografirati v živo in odstranjevati vodne žige v HEIF-u"</string>
   <string name="pref_camera_heic_image_format_title">HEIF Format</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>

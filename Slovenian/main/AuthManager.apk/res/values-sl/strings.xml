@@ -87,7 +87,7 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_Body_Sensors">Senzorji telesa</string>
   <string name="HIPS_Perm_Body_Sensors_Desc">Senzorji telesa (npr. senzor števila srčnih utripov)</string>
   <string name="HIPS_Perm_Calendar">Preberi dogodke koledarja</string>
-  <string name="HIPS_Perm_Calendar_Desc">Preberi dogodke vašega koledarja</string>
+  <string name="HIPS_Perm_Calendar_Desc">prebrati dogodke vašega koledarja</string>
   <string name="HIPS_Perm_Calendar_Hint">(%1$s) aplikacij lahko prebere dogodke vašega koledarja</string>
   <string name="HIPS_Perm_Call">Klici</string>
   <string name="HIPS_Perm_CallLog">Pisanje in brisanje zgodovine klicev</string>
@@ -95,7 +95,7 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_CallLog_Desc">Zapiši zgodovino klicev</string>
   <string name="HIPS_Perm_CallLog_Hint">(%1$s) aplikacij lahko zapiše zgodovino klicev</string>
   <string name="HIPS_Perm_CallMonitor">Preverjaj telefonske klice</string>
-  <string name="HIPS_Perm_CallMonitor_Desc">Spremljaj telefonske klice in spremeni glasnost pogovora med klicem</string>
+  <string name="HIPS_Perm_CallMonitor_Desc">spremljanje telefonske klicev in spreminjanje glasnosti pogovora med klicem</string>
   <string name="HIPS_Perm_CallMonitor_Hint">(%1$s) aplikacij lahko spremlja klice in spreminja glasnost pogovora med klicem</string>
   <string name="HIPS_Perm_CallState">Preberi status telefona</string>
   <string name="HIPS_Perm_CallState_Desc">Preberi status telefona</string>
@@ -161,7 +161,7 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Neznan naslov</string>
   <string name="HIPS_Perm_Network_WIFIEvent">WiFi</string>
   <string name="HIPS_Perm_Notification">Pokaži obvestila</string>
-  <string name="HIPS_Perm_Notification_Desc">prikazati obvestila v obvestilni vrstici</string>
+  <string name="HIPS_Perm_Notification_Desc">prikazati obvestila v plošči obvesil</string>
   <string name="HIPS_Perm_Notification_Hint">(%1$s) aplikacij lahko prikaže obvestila</string>
   <string name="HIPS_Perm_PhoneID">Branje identitete naprave</string>
   <string name="HIPS_Perm_PhoneID_Desc">"dostop do številke telefona, IMEI in IMSI vaše naprave</string>
