@@ -5263,7 +5263,7 @@ Znova zaženite napravo in poskusite znova."</string>
     <string name="not_battery_optimizing">Ne uporablja optimizacije akumulatorja</string>
     <string name="not_installed">Ni namešč. za tega uporabnika</string>
     <string name="not_set">Ni nastavljeno</string>
-  <string name="notch_and_status_bar_settings">Center za kontrolo &amp; vrstica obvestil</string>
+  <string name="notch_and_status_bar_settings">Center za kontrolo &amp; Plošča obvestil</string>
   <string name="notch_force_black_desc">Ko je vključeno je področje zoba zaslona črno</string>
   <string name="notch_force_black_title">Skrij zob zaslona</string>
   <string name="notch_settings">Zob</string>
@@ -9038,7 +9038,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
     <string name="usb_use_power_only">Polnjenje priključene naprave</string>
     <string name="usb_use_power_only_desc">Napolni povezano napravo. Deluje samo z napravami, ki podpirajo polnjenje prek USB-ja.</string>
   <string name="usb_use_tethering">USB deljenje</string>
-  <string name="use_control_panel">Uporabite Center za kontrolo</string>
+  <string name="use_control_panel">Uporabite novi Center za kontrolo</string>
   <string name="use_default_tts_settings_summary">Spodnje privzete nastavitve preglasijo nastavitve aplikacije</string>
   <string name="use_default_tts_settings_title">Vedno uporabi moje nastavitve</string>
   <string name="use_location_summary">Naj Google uporablja vašo lokacijo za izboljšanje rezultatov iskanja in drugih storitev</string>
