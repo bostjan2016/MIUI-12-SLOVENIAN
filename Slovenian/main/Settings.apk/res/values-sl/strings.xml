@@ -2546,6 +2546,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="disable_data_string">Onemogoči podatkovno povezavo</string>
   <string name="disable_encrypt_description">Ni šifrirano</string>
   <string name="disable_encrypt_title">Izklopi šifriranje</string>
+  <string name="disableNetwork">onemogočiOmrežje</string>
     <string name="disable_overlays">Onem. strojni medp.</string>
     <string name="disable_overlays_summary">Za sestavljanje slike vedno uporabi graf. procesor</string>
   <string name="disable_power_key_long_press_under_keyguard">Izključi meni tipke za vklop</string>
@@ -2849,6 +2850,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="enable_mobile_data_when_opening_hotspot">Vklopim tudi podatkovno povezavo?</string>
   <string name="enable_multi_window">Način z več okni</string>
   <string name="enable_multi_window_summary">Več hkratnih dejavnosti na zaslonu</string>
+   <string name="enableNetwork">dovoliOmrežje</string>
   <string name="enable_opengl_traces_title">Omogoči sledi OpenGL</string>
   <string name="enable_quick_setting">Pokaži v »Hitrih nastavitvah«</string>
   <string name="enable_quickboot_summary">Zaženite napravo v QuickBoot način namesto normalnega izklopa</string>
@@ -3467,6 +3469,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="gesture_wakeup_summary">Dvakrat tapni za izklop zaslona če je uporabljena privzeta ali klasična tema</string>
   <string name="gesture_wakeup_title">Dvakrat tapnite za bujenje ali izklop zaslona</string>
   <string name="gesture_z">Vzorec Z</string>
+  <string name="getConfiguredNetworks">dobiNastavljenaOmrežja</string>
+  <string name="getConnectionInfo">dobiInformacijeoPovezavi</string>
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_actions_panel_short_title">Kartice in prepustnice</string>
@@ -3843,7 +3847,7 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="keyboard_layout_dialog_switch_hint">Preklopite s Ctrl in preslednico</string>
     <string name="keyboard_layout_dialog_title">Izbira razporeditve tipkovnice</string>
     <string name="keyboard_layout_picker_title">Razporeditve tipkovnice</string>
-  <string name="keyboard_mouse_touch">Tipkovnica, miška, in sledilna ploščica</string>
+  <string name="keyboard_mouse_touch">Tipkovnica, miška in sledilna ploščica</string>
   <string name="keyboard_settings_category">Tipkovnica in načini vnosa</string>
   <string name="keyboard_settings_title">Tipkovnica Android</string>
     <string name="keyboard_shortcuts_helper">Pomočnik za bližnjične tipke</string>
@@ -6212,7 +6216,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="privacy_password_use_finger_success">Vključeno</string>
   <string name="privacy_password_visible_pattern">Pokaži vzorec</string>
   <string name="privacy_protect_title">Zaščita zasebnosti</string>
-  <string name="privacy_protection">Zaštita zasebnosti</string>
+  <string name="privacy_protection">Zaščita zasebnosti</string>
   <string name="privacy_protection_title">Zasebnost</string>
   <string name="privacy_relative">Zasebnost</string>
   <string name="privacy_settings">Varnostno kopiraj &amp; ponastavi</string>
@@ -8343,8 +8347,8 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
     <string name="theme_customization_icon_shape_title">Oblika ikone</string>
   <string name="theme_settings_title">Teme</string>
   <string name="thememanager_not_found">"Ne morem odpreti Teme. Preverite ali je aplikacija nameščena."</string>
-  <string name="three_gesture_down">Poteg dol z 3 prsti</string>
-  <string name="three_gesture_long_press">Pritisnite i držite z %d prsti</string>
+  <string name="three_gesture_down">Poteg dol s 3 prsti</string>
+  <string name="three_gesture_long_press">Pritisnite in držite s %d prsti</string>
     <string name="time_format_category_title">Oblika zapisa ure</string>
     <string name="time_picker_title">Ura</string>
     <string name="time_remaining_warning_subtext">Glede na preteklo uporabo preostane še približno %1$s</string>

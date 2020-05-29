@@ -2709,8 +2709,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_save_low_battery_seekbar_title">Preklopi profil baterije ko je napolnjenost manj kot %1$d%%</string>
   <string name="power_save_low_battery_title">Varčevanje z baterijo</string>
   <string name="power_save_mode">Varčevanje baterije</string>
-  <string name="power_save_mode_auto_exit_summary">Izključite ko je baterija 60% ali popolnoma napolnjena​</string>
-  <string name="power_save_mode_auto_exit_title">Izključite ko je napolnjena​</string>
+  <string name="power_save_mode_auto_exit_summary">Izključi ko je baterija napolnjena 60% ali popolnoma napolnjena​</string>
+  <string name="power_save_mode_auto_exit_title">Izključi ko je baterija napolnjena​</string>
   <string name="power_save_mode_close_aod_display_summary">Izključite Vedno na zaslonu ko je vključeno varčevanje baterije</string>
   <string name="power_save_mode_close_aod_display_title">Izključite Vedno na zaslonu</string>
   <string name="power_save_mode_close_notification_screenon_summary">Deluje ko je Varčevanje baterije vključeno</string>

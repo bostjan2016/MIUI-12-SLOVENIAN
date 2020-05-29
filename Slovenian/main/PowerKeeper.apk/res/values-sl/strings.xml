@@ -197,7 +197,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="power_config_app_background_title">Ozadje</string>
   <string name="power_config_app_full_screen_title">Celostransko</string>
   <string name="power_config_app_launch_title">Prvi plan</string>
-  <string name="power_config_apps">Varčevanje baterije aplikacije</string>
+  <string name="power_config_apps">Varčevanje baterije za aplikacije</string>
   <string name="power_config_bg_data_delay_time_dialog_title">Izberite čas za omejitev podatkov v ozadju</string>
   <string name="power_config_bg_data_delay_time_title">Omeji podatke v ozadju</string>
   <string name="power_config_choose_apps">Izberi aplikacije</string>
