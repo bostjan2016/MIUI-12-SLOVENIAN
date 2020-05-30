@@ -2821,7 +2821,6 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="empty_title_auto_start_list">Ni aplik. z samod. zagonom</string>
   <string name="empty_title_perm_apps">Ni aplik. s tem dovoljenjem</string>
   <string name="empty_title_permission_apps_list">Ni aplikacij.</string>
-  <string name="enableNetwork">enableNetwork</string>
     <string name="enable_adb">Odpravljanje težav prek USB-ja</string>
   <string name="enable_adb_summary">Način za odpravljanje težav, ko je vzpostavljena povezava USB</string>
   <string name="enable_adb_summary_charging">Naprava je v načinu polnjenja, USB popravljanje napak je onemogočeno</string>
@@ -2850,7 +2849,6 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="enable_mobile_data_when_opening_hotspot">Vklopim tudi podatkovno povezavo?</string>
   <string name="enable_multi_window">Način z več okni</string>
   <string name="enable_multi_window_summary">Več hkratnih dejavnosti na zaslonu</string>
-   <string name="enableNetwork">dovoliOmrežje</string>
   <string name="enable_opengl_traces_title">Omogoči sledi OpenGL</string>
   <string name="enable_quick_setting">Pokaži v »Hitrih nastavitvah«</string>
   <string name="enable_quickboot_summary">Zaženite napravo v QuickBoot način namesto normalnega izklopa</string>
