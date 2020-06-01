@@ -256,6 +256,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="forward_to_bind">Dodaj</string>
   <string name="get_back_pwd">Ponastavitev vašega gesla</string>
   <string name="get_device_list_failed">Ne morem pridobiti naprave</string>
+  <string name="get_identity_auth_url_failed">"Ne morem preveriti ID"</string>
   <string name="get_phone_bind_exceed_limit">Povežete lahko do 3 Mi račune z eno številko telefona. Ni možno dodati nove račune.</string>
   <string name="get_phone_verifycode_exceed_limit">Preveč poslanih kod za potrjevanje na ta naslov e-pošte. Počakajte 24 ur in poskusite ponovno.</string>
   <string name="google">Google</string>
