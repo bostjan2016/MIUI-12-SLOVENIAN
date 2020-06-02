@@ -1657,8 +1657,15 @@ Videoposnetki bodo shranjeni v Game Turbo &gt; Ključni trenutki."</string>
   <string name="gs_show_way_vertical">Navpično</string>
   <string name="gs_sign_notification">Opomni me se da prijavim vsak dan ob 20 uri</string>
   <string name="gs_slip_gamebox_detail">Uporabite drsnik ali podrsajte s prstom od zgornjega roba da se pokaže plošča bližnjic.</string>
+  <string name="gtb_dialog_btn_close">Izključi</string>
+  <string name="gtb_dialog_btn_open">Vključi</string>
+  <string name="gtb_dialog_hint_smart_5g">Lahko vključite in izključite to storitev v Game Turbo &gt; Nastavitve.</string>
+  <string name="gtb_dialog_summary_smart_5g">Kadar koli Game Turbo zazna omrežje 5G, se lahko naprava poveže z najboljšim omrežjem, ki je na voljo, da zmanjša zaostajanje omrežja. Ali želite zdaj to storitev vklopiti?</string>
+  <string name="gtb_dialog_title_smart_5g">5G omrežna optimizacija</string>
   <string name="gtb_exit_game_to_gtb">Odpri gamebox</string>
   <string name="gtb_exit_game_to_home">Nazaj na zač. zaslon</string>
+  <string name="gtb_setting_item_summary_smart_5g">Kadar koli Game Turbo zazna omrežje 5G, se lahko naprava poveže z najboljšim omrežjem, ki je na voljo, da zmanjša zaostajanje omrežja.</string>
+  <string name="gtb_setting_item_title_smart_5g">5G omrežna optimizacija</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Napačen operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
   <string name="guide_primary_text">"Uporabljajte aplikacijo Varnost za urejanje z mobilnimi podatki"</string>

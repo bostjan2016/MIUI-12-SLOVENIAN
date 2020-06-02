@@ -33,6 +33,8 @@
   <string name="alert_message_delete_record">Brisanje posnetka z vaše naprave bo izbrisal ta posnetek v Mi Cloudu. Izbrišem zdaj?</string>
   <string name="alert_message_delete_record_title">Izbriši posnetek</string>
   <string name="app_name">Snemanje</string>
+  <string name="app_record">Posnetki aplikacij</string>
+  <string name="app_record_preference_title">Posnetki aplikacij</string>
   <string name="back">Nazaj</string>
   <string name="button_queue_for_wifi">Počakaj</string>
   <string name="button_start_now">Nalagam</string>
@@ -170,6 +172,7 @@
   <string name="record_downloading_notification_count">%d prenešeno</string>
   <string name="record_format_preference_title">Format snemanja</string>
   <string name="record_list">Posnetki</string>
+  <string name="record_list_app">Posnetki aplikacij</string>
   <string name="record_list_call">Posneti klici</string>
   <string name="record_list_category_title_format">MMMM yyyy</string>
   <string name="record_list_cloud">Sinhnorizirani posnetki</string>

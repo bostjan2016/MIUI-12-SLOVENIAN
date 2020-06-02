@@ -159,7 +159,7 @@
   <string name="edit_systemtime">Uredi sistemski čas</string>
   <string name="edit_systemtime_setting_summary">Datum, čas in dvojna ura</string>
   <string name="elapsed_time_format">+</string>
-  <string name="every_day">Vsak dan</string>
+  <string name="every_day">Dnevno</string>
   <string name="expand_button_title">Napredno</string>
   <string name="expired_timers_dismissed">Kronometer je preklican</string>
   <string name="fab_menu_sort">Razvrsti</string>

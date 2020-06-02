@@ -36,6 +36,7 @@
   <string name="activity_parse_video_title">Prilepi povezavo</string>
   <string name="activity_rule">Pravila</string>
   <string name="ad_download">Prenesi</string>
+  <string name="add_one">(1)</string>
   <string name="ad_downloading">Nalaganje…</string>
   <string name="add_follow">Spremljaj</string>
   <string name="add_private">Skrij datoteke</string>
@@ -99,6 +100,7 @@
   <string name="can_not_send_with_too_many">"Ne morem poslati toliko stvari naenkrat"</string>
   <string name="cancel">Prekliči</string>
   <string name="cancel_error">"Ne morem odstraniti, poskusite ponovno"</string>
+  <string name="cancel_msg">Prekličem izbrano?</string>
   <string name="cancel_operation">Odpovej</string>
   <string name="cancel_success">Uspešno odstranjeno, vse datoteke premeščene v %s</string>
   <string name="cancel_text">Prekliči</string>
@@ -328,7 +330,8 @@
   <string name="file_info_location">Lokacija:</string>
   <string name="file_info_modified">Zadnjič spremenjeno:</string>
   <string name="file_info_size">Velikost:</string>
-  <string name="file_loading">Nalagam:</string>
+  <string name="file_loading">Samo trenutek…</string>
+  <string name="file_name_existed">Ime datoteke je zasedeno</string>
   <string name="file_name_invalid">"Imena datotek ne morejo vsebovati znakov: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">Datoteka ne obstaja</string>
   <string name="file_too_large">Datoteka je prevelika za nalaganje</string>
@@ -653,9 +656,9 @@ in ne spreglejte novih cool nalepk!"</string>
 1. Ponovno prenesete datoteko da jo posodobite.     
 2. Prenesite jo na vaš KuaiPan račun."</string>
   <string name="open_changed_file_title">Sprememba shranjena.</string>
-  <string name="open_file_failed">Odpiranje spodletelo</string>
   <string name="open_chest">Odprite da boste dobili darilo</string>
   <string name="open_chest_failed">"Ne morem odpreti, preverite omrežne nastavitve in poskusite ponovno"</string>
+  <string name="open_file_failed">"Ne morem odpreti"</string>
   <string name="open_private_folder">Spustite za prikaz skritih map…</string>
   <string name="operate_confirm_in_3g">Uporabim podatkovno povezavo za prenos te datoteke? To bo povzročilo stroške.</string>
   <string name="operating">Obdelujem...</string>
@@ -814,11 +817,13 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="rename_description">Preimenujem…</string>
   <string name="rename_failed">"Ne morem preimenovati %1$s"</string>
   <string name="rename_input_null">Vnesite novo ime datoteke</string>
+  <string name="rename_msg">Datoteka z imenom \"%s\" že obstaja.</string>
   <string name="repair_done">Obnovljeno</string>
   <string name="repair_error">"Ne morem obnoviti"</string>
   <string name="repair_error_no_media">"Ne morem obnoviti, izberite vsaj eno medijsko datoteko."</string>
   <string name="repair_error_no_order">"Ne morem obnoviti, izbrišite ali dešifrirajte %s in poskusite ponovno"</string>
   <string name="repair_file">Obnovi šifrirane datoteke</string>
+  <string name="replace">Zamenjaj</string>
   <string name="repeat_upload_video">Video je že podeljen, izberite drugega.</string>
   <string name="reply_success">Komentar dodan</string>
   <string name="report_abuse">Zloraba</string>
@@ -965,8 +970,9 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="show_message">Preden odprete to datoteko jo morate prenesti.</string>
   <string name="sign_description">Vpisujem...</string>
   <string name="signin_error">Ne morem se povezati s strežnikom. Preverite vašo povezavo.</string>
-  <string name="signin_success">Prijavili ste se! 
+  <string name="signin_success">"Prijavljeni ste!
   Dodano %1$s brezplačnega prostora"</string>
+  <string name="skip">Preskoči</string>
   <string name="skip_file">Preskoči</string>
   <string name="slashes">/</string>
   <string name="smb_loading">Samo trenutek…</string>
@@ -1118,6 +1124,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="uploading">Nalagam</string>
   <string name="uploading_video">Nalagam…</string>
   <string name="usb_label">USB</string>
+  <string name="use_to_all">Uporabi za vse</string>
   <string name="used">Uporabljeno</string>
   <string name="user">Uporabniki</string>
   <string name="user_agreement">Pogoji uporabe</string>

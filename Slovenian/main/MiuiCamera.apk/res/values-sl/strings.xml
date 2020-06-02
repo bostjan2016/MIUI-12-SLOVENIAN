@@ -1356,6 +1356,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="super_eis_disabled_hint">Super stabilizacija je izključena</string>
   <string name="super_eis_pro">Steady video Pro</string>
   <string name="super_eis_pro_disabled_hint">Steady video Pro je izključena</string>
+  <string name="super_macro_mode">Super makro</string>
   <string name="super_night_hint">Optimiziranje slike… Držite napravo mirno.</string>
   <string name="super_night_se_tip">Nočni način</string>
   <string name="super_night_toast">Držite telefon mirno</string>

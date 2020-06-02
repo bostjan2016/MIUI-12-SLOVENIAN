@@ -23,8 +23,8 @@
         <item>Vključite in izključite DND način</item>
      </string-array>
      <string-array name="perm_intercept_statitics">
-        <item>Zberite podatke o svojih interesih in obnašanju, tako da se naučite, katere aplikacije uporabljate in kako pogosto jih uporabljate</item>
-        <item>Dostopajte do jezika in jezikovnih nastavitev ter drugih podrobnosti</item>
+        <item>Zbrati podatke o vaših interesih in obnašanju, tako da se nauči katere aplikacije uporabljate in kako pogosto jih uporabljate</item>
+        <item>Dostop do jezika in jezikovnih nastavitev ter drugih podrobnosti</item>
      </string-array>
      <string-array name="perm_intercept_unknown_source">
         <item>"Aplikacije drugih proizvajalcev, ki jih GetApps ne potrdi, lahko povzročijo več težav in zmanjšajo stabilnost sistema."</item>

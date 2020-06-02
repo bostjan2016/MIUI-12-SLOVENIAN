@@ -29,6 +29,9 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
     </plurals>
+	<plurals name="birthday_format">
+        <item quantity="other">(%1$d let star/a)</item>
+    </plurals>
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d krat</item>
         <item quantity="one">%1$d-%2$d krat</item>

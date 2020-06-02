@@ -28,6 +28,46 @@
         <item>" m"</item>
         <item>" km"</item>
     </string-array>
+	<string-array name="contact_relation_array">
+        <item>Ni nastavljeno</item>
+        <item>Starši</item>
+        <item>Sestre</item>
+        <item>Bratje</item>
+        <item>Par</item>
+        <item>Ljubimca</item>
+        <item>Prijatelji</item>
+        <item>Sodelavci</item>
+        <item>Sodelavci</item>
+    </string-array>
+	<string-array name="gender_array">
+        <item>Ni nastavljeno</item>
+        <item>Moški</item>
+        <item>Ženska</item>
+    </string-array>
+	<string-array name="normal_blood_array">
+        <item>Ni nastavljeno</item>
+        <item>Tip A</item>
+        <item>Tip B</item>
+        <item>Tip AB</item>
+        <item>Tip O</item>
+    </string-array>
+    <string-array name="normal_blood_types">
+        <item>Ni nastavljeno</item>
+        <item>Tip A</item>
+        <item>Tip B</item>
+        <item>Tip AB</item>
+        <item>Tip O</item>
+    </string-array>
+	<string-array name="rh_blood_array">
+        <item>Ni nastavljeno</item>
+        <item>Negativno</item>
+        <item>Pozitivno</item>
+    </string-array>
+	<string-array name="yes_no_array">
+        <item>Ni nastavljeno</item>
+        <item>Da</item>
+        <item>Ne</item>
+    </string-array>
     <string-array name="pager_titles">
         <item>Dan</item>
         <item>Tedensko</item>

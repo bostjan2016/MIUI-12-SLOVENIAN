@@ -47,7 +47,7 @@
     <string name="miui_feedback_answer_detail_feedback_unresolved">Ne</string>
     <string name="miui_feedback_answer_detail_menu_online_service">Pridobite spletno pomoč</string>
     <string name="miui_feedback_answer_detail_menu_phone_service">Pokličite našo službo za uporabnike</string>
-    <string name="miui_feedback_answer_detail_relative_tip">To vam mogoče pomaga:</string>
+  <string name="miui_feedback_answer_detail_relative_tip">Povezane informacije</string>
     <string name="miui_feedback_answer_detail_title">Podrobnosti</string>
     <string name="miui_feedback_edit_action_submit">Pošlji</string>
     <string name="miui_feedback_edit_add_original_images">Dodaj fotografijo</string>
@@ -115,6 +115,7 @@
     <string name="miui_feedback_main_menu_catch_full_log">Ustvari zapise</string>
     <string name="miui_feedback_main_menu_feedback_list">Oglejte si zgodovino povratnih informacij</string>
     <string name="miui_feedback_main_search_footer">Ali to niso vprašanja, ki jih želite vprašati?</string>
+  <string name="miui_feedback_main_search_footer_submit">Pošljite povratne informacije</string>
     <string name="miui_feedback_main_search_issue">Vpišite iskalni niz za iskanje</string>
     <string name="miui_feedback_main_start_submit">Pošljite povratne informacije</string>
     <string name="miui_feedback_main_submit_dialog_confirm">Pošlji</string>
@@ -206,7 +207,11 @@
     <string name="permission_device_info">Dostop do podatkov o napravi</string>
     <string name="permission_device_introduce">Za določitev omejene garancijske dobe</string>
     <string name="permission_exit">Izhod</string>
+  <string name="permission_external_storage_introduce">Za shranjevanje in nalaganje povratnih informacij</string>
     <string name="permission_first_start_network_title">Pogoji in pravila</string>
+  <string name="permission_imei_disable_desc">Dovolite da se ta aplikacija poveže na splet.</string>
+  <string name="permission_imei_enable_desc">Dovolite da se ta aplikacija poveže na splet in odobrite zgoraj navedena obvezna dovoljenja.</string>
+  <string name="permission_location_introduce">Za prikaz bližnjih servisnih točk</string>
     <string name="permission_main_purpose">Prikaz predstavitvenih storitev MIUI, pošiljanje povratnih informacij in prijava na poprodajne storitve.</string>
     <string name="permission_privacy">Pravilnik o zasebnosti (obvezno)</string>
     <string name="permission_region_version_msg">&lt;Data>Pred uporabo \"Storitve in povratne informacije\", morate prebrati in se strinjati z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravilnik o zasebnosti&lt;/a>.&lt;/Data></string>

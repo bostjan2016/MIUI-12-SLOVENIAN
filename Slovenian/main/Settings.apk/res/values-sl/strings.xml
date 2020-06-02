@@ -3031,6 +3031,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="err_version_unsupported">"Verzija var. kopije ni podprta."</string>
     <string name="error_adding_apn_type">Operater ne podpira dodajanja APN-jev vrste %s.</string>
   <string name="error_apn_empty">APN ne sme biti prazen.</string>
+  <string name="error_apn_restrict_string">Polje APN ne sme vsebovati %1$s</string>
     <string name="error_capturing_system_heap_dump_message">Sistemskega izvoza kopice ni bilo mogoče zajeti</string>
     <string name="error_mcc_not3">Polje z mobilno kodo države mora vsebovati 3 števke.</string>
     <string name="error_mnc_not23">Polje s kodo mobilnega omrežja mora vsebovati 2 ali 3 števke.</string>

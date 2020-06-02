@@ -60,6 +60,10 @@
         <item quantity="other">Odklenjeno: %d X</item>
         <item quantity="one">Odklenjeno: %d X</item>
      </plurals>
+	 <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">Odklenjeno %1$d X %2$s</item>
+        <item quantity="one">Odklenjeno %1$d X %2$s</item>
+    </plurals>
      <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">Odklenjeno: %d X</item>
         <item quantity="one">Odklenjeno: %d X</item>

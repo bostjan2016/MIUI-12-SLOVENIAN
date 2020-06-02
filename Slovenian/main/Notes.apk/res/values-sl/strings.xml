@@ -148,9 +148,12 @@ Tapnite + da napravite mapo"</string>
   <string name="expand_button_title">Napredno</string>
   <string name="first_enter_custom_folder_hint">Tu lahko preimenujete ali brišete mape</string>
   <string name="float_todo_guide_cancel">Prekliči</string>
-  <string name="float_todo_guide_message">Bližnjica zač. zaslona omogoča da povlečete z roba zaslona da si ogledate in ustvarite naloge. Ustvarim bližnjico zdaj?</string>
+  <string name="float_todo_guide_message">Bližnjica zač. zaslona omogoča da povlečete z roba zaslona, ​​da si ogledate in ustvarite naloge. Ustvarim bližnjico zdaj?</string>
+  <string name="float_todo_guide_message_v2">Bližnjica s potezami vam omogoča predogled in ustvarjanje nalog s povlekom z roba zaslona. To funkcijo lahko vklopite in izklopite v nastavitvah.</string>
   <string name="float_todo_guide_ok">Napravi</string>
+  <string name="float_todo_guide_ok_v2">Vključi</string>
   <string name="float_todo_guide_title">Bližnjica zač. zaslona</string>
+  <string name="float_todo_guide_title_v2">Bližnjica s potezami</string>
   <string name="folder_exist">Mapa z enakim imenom že obstaja</string>
   <string name="folder_operation_delete">Izbriši</string>
   <string name="folder_operation_rename">Preimenuj</string>
@@ -303,7 +306,9 @@ Tapnite + da napravite mapo"</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne sprašuj za potrditev ob brisanju beležke z uporabo giba"</string>
   <string name="pref_desc_todo_float_mode">Podrsajte s prstom od roba zaslona da odprete okvir orodja z nalogami</string>
   <string name="pref_remind_type_summary">Predvajaj zvok opomnika v tihem načinu dela</string>
+  <string name="pref_remind_type_summary_new">Ignoriraj Tihi način in nadaljuj s predvajanjem zvoka, dokler se alarm ne izklopi</string>
   <string name="pref_remind_type_title">Zanemari tihi način</string>
+  <string name="pref_remind_type_title_new">Opomniki visoke prioritete</string>
   <string name="pref_title_alarm_when_silent">"Ne utišaj opomnikov"</string>
   <string name="pref_title_cloud_trash_bin">Izbriši beležke v Mi Cloudu</string>
   <string name="pref_title_common">Dodatne nastavitve</string>
@@ -438,6 +443,7 @@ Tapnite + da napravite mapo"</string>
   <string name="toast_reach_text_limit_truncate">Beležka je predolga. Del teksta je odrezan na koncu.</string>
   <string name="toast_refuse_to_record_when_in_call">"To ni mogoče med klicanjem"</string>
   <string name="toast_refuse_to_record_when_in_multi_window">"Ne morem uporabiti v deljenem zaslonu"</string>
+  <string name="toast_refuse_to_record_when_in_multi_window_new">"Te storitve ni mogoče uporabiti na razdeljenih zaslonih ali plavajočih oknih"</string>
   <string name="toast_refuse_to_use_contact">"Dovoljenja za stike so omejena.
 Dovolite aplikaciji Beležke branje vaših stikov in računov v tej napravi."</string>
   <string name="toast_refuse_to_use_external_storage">"Dovoljenja za shrambo so omejena.
