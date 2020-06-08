@@ -878,6 +878,11 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="dialog_hang_up">Konec klica</string>
   <string name="dialog_network_priority_title">Prioriteta</string>
   <string name="dialog_no">Ne</string>
+  <string name="dialog_ota_change_number_fail">"Telefonske številke ni bilo mogoče spremeniti. Če pride do napake po ponovnem poskusu, se obrnite na prodajalca."</string>
+  <string name="dialog_ota_change_number_lgu">Prenesem USIM zdaj?</string>
+  <string name="dialog_ota_change_number_lgu_roaming">"Telefonskih številk v tujini ni mogoče spremeniti."</string>
+  <string name="dialog_ota_change_number_processing">Prenašam USIM…</string>
+  <string name="dialog_ota_change_number_success">Uspešno spremenjeno</string>
   <string name="dialog_purchase">Nakup</string>
   <string name="dialog_report">Prijavi</string>
   <string name="dialog_yes">Da</string>

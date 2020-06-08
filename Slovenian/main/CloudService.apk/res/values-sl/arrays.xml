@@ -76,6 +76,11 @@
         <item>Vključi sinhr.</item>
         <item>WiFi;wifi;WLAN;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
     </string-array>
+	 <string-array name="settings_search_wlan_china">
+        <item>Sinhr. WiFi nastavitve z Mi Cloudom</item>
+        <item>Vključi sinhr.</item>
+        <item>WiFi;wifi;WLAN;Cloud;Sinhr.;Cloud storitve;Xiaomi Cloud</item>
+	</string-array>
     <string-array name="settings_search_calendar">
         <item>Sinhr. koledar z Mi Cloudom</item>
         <item>Vključi sinhr.</item>
@@ -142,4 +147,10 @@
          <item>Izdelajte var. kopije pomembnih nastavitev vključno z WiFi in zaslonom</item>
          <item>"Če je naprava izgubljena jo zaklenite na daljavo"</item>
      </string-array>
+	 <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sinhronizirajte svoje stike, sporočila, beležke, koledar in še veliko drugega</item>
+        <item>Izdelajte var. kopije aplikacij, nastavitve začetnega zaslona in ozadja</item>
+        <item>Izdelajte var. kopije pomembnih nastavitev vključno z WiFi in zaslonom</item>
+        <item>"Če je naprava izgubljena jo zaklenite na daljavo"</item>
+    </string-array>
 </resources>

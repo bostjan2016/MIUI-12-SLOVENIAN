@@ -1537,6 +1537,11 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gb_description_image_button_answer">Odgovori</string>
   <string name="gb_description_image_button_reject">Zavrni</string>
   <string name="gb_description_image_button_video_answer">Videoklic</string>
+  <string name="gb_dialog_game_uninstall_deleting">Odstranjevanje…</string>
+  <string name="gb_dialog_game_uninstall_loading">Nalaganje…</string>
+  <string name="gb_dialog_game_uninstall_tips_message">Izbrisani bodo tudi podatki iger.</string>
+  <string name="gb_dialog_game_uninstall_tips_message_xspace">Skupaj z podatki bo odstranjena tudi klonirana aplikacija.</string>
+  <string name="gb_dialog_game_uninstall_tips_title">Odstrani "%s"</string>
   <string name="gb_dialog_record_way_ai">AI posnetki se shranjujejo v gamebox in se tam hranijo 7 dni.</string>
   <string name="gb_dialog_record_way_finish">Končano</string>
   <string name="gb_dialog_record_way_manual">Ročno posnemite videoposnetke dolge do 30 sekund</string>
@@ -1579,6 +1584,9 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gb_new_feature">Novo opravilo</string>
   <string name="gb_shortcut_pref_title">Bližnjica zač. zaslona</string>
   <string name="gb_sound_audition">Poslušaj</string>
+  <string name="gb_storage_game_uninstall">Odstrani igre</string>
+  <string name="gb_storage_summary">Shrani ikone iger v gamebox. Ikone ne bodo več vidne na zač. zaslonu.</string>
+  <string name="gb_storage_title">Shranjevanje ikon za igre na domačem zaslonu</string>
   <string name="gb_voice_change_settinged">Menjava glasu je vključena</string>
   <string name="gb_voice_changer_cartoon">Risanka</string>
   <string name="gb_voice_changer_dlg_button_agree">Dovoli</string>

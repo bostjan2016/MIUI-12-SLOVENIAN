@@ -203,6 +203,8 @@
     <string name="content_can_not_null">Ne morem oddati povratne informacije brez opisa.</string>
     <string name="data_empty">Ni stvari</string>
   <string name="day">dan</string>
+  <string name="default_filedownloader_notification_content">Prenosi je vklopljeno.</string>
+  <string name="default_filedownloader_notification_title">Prenosi</string>
     <string name="description">Opis</string>
     <string name="diagnosis_log_send_failed">Ne morem poslati poročila. Poskusite ponovno.</string>
     <string name="diagnosis_log_sent_format">"Poročila so bila uspešno poslana.
@@ -214,6 +216,19 @@ Pošljite to kodo nadzorniku."</string>
     <string name="dialog_revoke_privacy_title">Preklic dovoljenja</string>
     <string name="diy_channels_tips">Zdaj si lahko prilagodite seznam kanalov.</string>
     <string name="do_not_show_again">Ne kaži več</string>
+  <string name="download">Prenos</string>
+    <string name="download_complete">Prenešeno</string>
+  <string name="download_delete_tip">Izbrišem izbrano?</string>
+  <string name="download_delete_title">Izbriši</string>
+  <string name="download_paused">Premor</string>
+  <string name="download_pending">Čakanje…</string>
+  <string name="download_power_off_tips">"Ta storitev trenutno ni na voljo"</string>
+  <string name="download_progress">%d%%</string>
+  <string name="download_retry">Poskusi ponovno</string>
+  <string name="download_space_info" formatted="false">%s, %s</string>
+  <string name="download_video">Prenašam video</string>
+  <string name="downloading">Prenašam…</string>
+
     <string name="empty_channels">Urejanje kanalov</string>
   <string name="empty_subscribe">"Še niste naročeni na nič."</string>
   <string name="enable_background_audio">Predvajaj v ozadju</string>
@@ -270,6 +285,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="explore_on_mi_video">Poišči več na Mi Video</string>
     <string name="failed_to_fetch_data">Ne morem naložiti informacij.</string>
     <string name="failed_dup_secure_phone_number">Ta številka telefona je že povezana z drugim Mi Računom</string>
+    <string name="failure">"Ne morem prenesti"</string>
     <string name="favor_online_video">Videoposnetki</string>
     <string name="favor_playlist">Seznam predvajanja</string>
     <string name="favorite">Priljubljeno</string>

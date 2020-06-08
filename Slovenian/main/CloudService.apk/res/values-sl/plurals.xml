@@ -28,6 +28,10 @@
         <item quantity="other">Fotografij: %d</item>
         <item quantity="one">Fotografija: %d</item>
     </plurals>
+	<plurals name="dirty_wlan_count_china">
+        <item quantity="other">Fotografij: %d</item>
+        <item quantity="one">Fotografija: %d</item>
+    </plurals>
 	<plurals name="dirty_callog_count">
          <item quantity="other">%d zapisi zgodovine klicev</item>
          <item quantity="one">%d zapis zgodovine klicev</item>
