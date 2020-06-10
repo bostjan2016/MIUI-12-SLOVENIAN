@@ -27,6 +27,11 @@
     <string name="abc_shareactionprovider_share_with">Skupna raba z</string>
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
+  <string name="accessibility_all_app_custom_category_finish">Končano</string>
+  <string name="accessibility_all_app_custom_category_item_remove">Odstrani \"%1$s\" iz kategorij</string>
+  <string name="accessibility_clear_search_bar_text">Očisti okence za iskanje</string>
+  <string name="accessibility_enter_all_app_mode">Odpri predal aplikacij</string>
+  <string name="accessibility_enter_all_app_settings">Odpri nastavitve predala za aplikacije</string>
   <string name="accessibility_menu_item_split_disable">"Aplikacija ne podpira deljeni zaslon."</string>
   <string name="accessibility_menu_item_split_enable">Aplikacija podpira deljeni zaslon</string>
   <string name="accessibility_recent_task_enter">Nedavno odprto</string>
@@ -62,6 +67,7 @@
   <string name="all_apps_no_search_results">"Nič ne najdem"</string>
   <string name="all_apps_search_app">Išči aplikacije</string>
   <string name="all_apps_search_market_message">Išči online</string>
+  <string name="all_apps_setting_classic_title">Klasično</string>
   <string name="all_apps_setting_desktop_desc">"Pokaži vse nameščene aplikacije na zač. zaslonu. Pritisnite in podržite ikono aplikacije za prikaz bližnjic, urejanje ali odstranitev aplikacije."</string>
   <string name="all_apps_setting_desktop_title">Navadno</string>
   <string name="all_apps_setting_drawer_desc">"Pokaži vse nameščene aplikacije v predalu aplikacij, ki ga lahko odprete s potegom gor na zač. zaslonu. Iskanje aplikacij je možno za tiste aplikacije, ki ste jih premaknili na zač. zaslon v predalu aplikacij."</string>
@@ -146,6 +152,7 @@
   <string name="auto_add_app_shortcut">Dodaj nove aplikacije na zač. zaslon</string>
   <string name="auto_delete_category_dialog_content">Trenutne aplikacije bodo odstranjene iz te kategorije, kategorija pa bo izbrisana. Izbrišem kategorijo?</string>
   <string name="auto_delete_category_dialog_title">Brisanje kategorije</string>
+  <string name="back">Nazaj</string>
   <string name="backup_fail">Ne norem napraviti var. kopijo zaganjalnika.</string>
   <string name="bad_wallpaper_source_prompt">"Ozadja ni bilo možno naložiti"</string>
   <string name="buffering">Nalagam…</string>
@@ -174,6 +181,10 @@
   <string name="choose_wallpaper">Izberi sliko za ozadje</string>
   <string name="chooser_wallpaper">Izberi ozadje iz</string>
   <string name="cloud_app_restore_title">Na čakanju</string>
+  <string name="common_home_search_delete">Brisanje iskalne vrstice na zač. zaslonu</string>
+  <string name="common_home_search_delete_cancle">Prekliči</string>
+  <string name="common_home_search_delete_confirm">Izbriši</string>
+  <string name="common_home_search_delete_content">"Po brisanju predmetov ne boste mogli iskati z iskalno vrstico na začetnem zaslonu. Vseeno izbrišem?"</string>
   <string name="configure_wallpaper">Nastavitve</string>
   <string name="confirm_btn_label">V redu</string>
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Dvojne aplikacije bodo odstranjene skupaj s temi.</string>
@@ -322,9 +333,11 @@
   <string name="launcher_auto_fill_empty_title">Samod. izpolni prazna mesta</string>
   <string name="launcher_not_exist">Prišlo je do napake, vrnite se na začetni zaslon in poskusite ponovno.</string>
   <string name="launcher_pull_down_title">Podrsajte dol na zač. zaslonu</string>
+  <string name="launcher_search_bar_provider_title">Ponudnik vrstice iskanja</string>
   <string name="launcher_search_bar_title">Trak za iskanje na zač. zaslonu</string>
   <string name="launcher_search_bar_value_disable">Izključeno</string>
   <string name="launcher_search_bar_value_enable">Vključeno</string>
+  <string name="launcher_search_gesture_provider_title">Podrsaj gor za ponudnika iskanja</string>
   <string name="launcher_slide_up_title">Podrsajte gor na zač. zaslonu</string>
   <string name="launcher_sliding_up_gesture">Podrsajte gor na zač. zaslonu da odprete iskanje</string>
   <string name="launcher_title">Zač. zaslon &amp; Nedavno</string>
@@ -518,7 +531,10 @@
   <string name="sort_by_not_defined">Samodejno sortiranje</string>
   <string name="start_activity_failed">"Ne morem zagnati vmesnika"</string>
   <string name="starting_preset_app">Začenjam…</string>
+  <string name="status_bar_recent_memory_giga">%1$s GB</string>
   <string name="status_bar_recent_memory_info1">Na voljo %1$sB od %2$sB</string>
+  <string name="status_bar_recent_memory_info2"/>	 
+  <string name="status_bar_recent_memory_mega">%1$s MB</string>
   <string name="status_downloaded">Prenešeno</string>
   <string name="status_downloading">Prenašanje</string>
   <string name="status_installing">Nalaganje</string>

@@ -1372,7 +1372,12 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="timbre_robot">Robot</string>
   <string name="time">Čas</string>
   <string name="time_lapse_error">"Tega videoposnetka se ne da uporabiti za snemanje v intervalih"</string>
-  <string name="times">Krat</string>
+  <string name="timer_burst">Timer burst</string>
+  <string name="timer_burst_manu_param_interval">Časovni interval (ne vsebuje časa ekspozicije)</string>
+  <string name="timer_burst_param_interval">Časovni interval</string>
+  <string name="timer_burst_param_total_count">Skupno število snemanj</string>
+  <string name="timer_burst_setting_total_count">Število: %1$s</string>
+  <string name="times">X</string>
   <string name="title">Naslov</string>
   <string name="title_snap_double_confirm">Potrdi ponovno</string>
   <string name="toast_burst_snap_finished_end">fotografija</string>

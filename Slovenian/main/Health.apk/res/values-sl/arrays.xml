@@ -30,13 +30,13 @@
     </string-array>
 	<string-array name="contact_relation_array">
         <item>Ni nastavljeno</item>
-        <item>Starši</item>
-        <item>Sestre</item>
-        <item>Bratje</item>
-        <item>Par</item>
-        <item>Ljubimca</item>
+        <item>Starš</item>
+        <item>Sestra</item>
+        <item>Brat</item>
+        <item>Soprog</item>
+        <item>Partner</item>
         <item>Prijatelji</item>
-        <item>Sodelavci</item>
+        <item>Sodelavec</item>
         <item>Sodelavci</item>
     </string-array>
 	<string-array name="gender_array">
@@ -44,19 +44,26 @@
         <item>Moški</item>
         <item>Ženska</item>
     </string-array>
+    <string-array name="blood_types">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+        <item>A(-)</item>
+        <item>A(+)</item>
+        <item>B(-)</item>
+        <item>B(+)</item>
+        <item>AB(-)</item>
+        <item>AB(+)</item>
+        <item>O(-)</item>
+        <item>O(+)</item>
+    </string-array>
 	<string-array name="normal_blood_array">
         <item>Ni nastavljeno</item>
-        <item>Tip A</item>
-        <item>Tip B</item>
-        <item>Tip AB</item>
-        <item>Tip O</item>
-    </string-array>
-    <string-array name="normal_blood_types">
-        <item>Ni nastavljeno</item>
-        <item>Tip A</item>
-        <item>Tip B</item>
-        <item>Tip AB</item>
-        <item>Tip O</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
     </string-array>
 	<string-array name="rh_blood_array">
         <item>Ni nastavljeno</item>
@@ -94,7 +101,7 @@
     </string-array>
 	<string-array name="stand_guide_page_content1">
         <item>Sedenje ne koristi vašemu zdravju. Tudi če ne morete zmanjšati časa sedenja, je občasno vstajanje dobra ideja.</item>
-        <item>Ta funkcija vas bo spomnila, da vsako uro porabite vsaj 1 minuto za vstajanje. 12 ur z odmori za vstajanje vsak dan vam bo pomagalo preprečiti nevarnost sedečega načina življenja.</item>
+        <item>Ta storitev vas bo spomnila, da vsako uro porabite vsaj 1 minuto za vstajanje. 12 ur z odmori za vstajanje vsak dan vam bo pomagalo preprečiti nevarnost sedečega načina življenja.</item>
         <item>Če želite izvedeti več, se dotaknite \ "Nadaljuj \" in vklopite to funkcijo.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
@@ -107,7 +114,7 @@
     </string-array>
 	<string-array name="week">
         <item>Nedelja</item>
-        <item>Ponedjeljek</item>
+        <item>Ponedeljek</item>
         <item>Torek</item>
         <item>Sreda</item>
         <item>Četrtek</item>

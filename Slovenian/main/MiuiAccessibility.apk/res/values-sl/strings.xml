@@ -88,6 +88,7 @@ Upoštevajte, da se mora ta aplikacija povezati s spletom in za zbiranje vaših 
   <string name="not_remind">"Ne kaži več"</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="notification_content_asr_recoginzing">Prepis…</string>
+  <string name="pause_recognize_content_description">Ustavljeno prepisovanje zvoka. Dvakrat tapnite za začetek.</string>
   <string name="permission_allow_content_policy1">Pravila o zasebnosti</string>
   <string name="preference_authorization_title">Pravila o zasebnosti</string>
   <string name="preference_category_authorization__title">Pravila o zasebnosti</string>
@@ -117,6 +118,7 @@ Upoštevajte, da se mora ta aplikacija povezati s spletom in za zbiranje vaših 
   <string name="settings_title">Dodatne nastavitve</string>
   <string name="sound_recording_permission">Snemanje klicev in zvokov</string>
   <string name="sound_recording_permission_describe">Za prepisovanje zvoka</string>
+  <string name="start_recognize_content_description">Prepisovanje zvoka. Dvakrat tapnite za ustavitev.</string>
   <string name="status_bar_recording_pause">Prepisovanje premor</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="title_how_to_open">Kako vključiti Mi Ditto?</string>

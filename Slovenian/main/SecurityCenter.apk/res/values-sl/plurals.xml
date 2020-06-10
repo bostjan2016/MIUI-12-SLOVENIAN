@@ -427,6 +427,10 @@
         <item quantity="other">Geslo mora vsebovati najmanj %d znakov poleg črk.</item>
         <item quantity="one">Geslo mora vsebovati najmanj 1 znak poleg črk.</item>
     </plurals>
+	<plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">Lahko zaščitite %d stvari</item>
+        <item quantity="one">Lahko zaščitite %d stvar</item>
+    </plurals>
 	<plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%s ur</item>
         <item quantity="one">%s ura</item>
@@ -612,6 +616,14 @@
         <item quantity="other">%d mAh</item>
         <item quantity="one">%d mAh</item>
      </plurals>
+	 <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">Odstrani igre: %2$d (vključno %1$s)</item>
+        <item quantity="one">Odstrani %2$d igro (vključno %1$s)</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">Shranjeno %d AI posnetkov v Game Turbo</item>
+        <item quantity="one">Shranjen %d AI posnetek v Game Turbo</item>
+    </plurals>
 	 <plurals name="gb_record_time_title">
         <item quantity="other">%d sek.</item>
         <item quantity="one">%d sek.</item>

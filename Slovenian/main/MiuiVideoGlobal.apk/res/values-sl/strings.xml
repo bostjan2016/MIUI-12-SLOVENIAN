@@ -228,7 +228,6 @@ Pošljite to kodo nadzorniku."</string>
   <string name="download_space_info" formatted="false">%s, %s</string>
   <string name="download_video">Prenašam video</string>
   <string name="downloading">Prenašam…</string>
-
     <string name="empty_channels">Urejanje kanalov</string>
   <string name="empty_subscribe">"Še niste naročeni na nič."</string>
   <string name="enable_background_audio">Predvajaj v ozadju</string>
@@ -284,8 +283,8 @@ Pošljite to kodo nadzorniku."</string>
     <string name="exo_track_unknown">Neznano</string>
     <string name="explore_on_mi_video">Poišči več na Mi Video</string>
     <string name="failed_to_fetch_data">Ne morem naložiti informacij.</string>
-    <string name="failed_dup_secure_phone_number">Ta številka telefona je že povezana z drugim Mi Računom</string>
     <string name="failure">"Ne morem prenesti"</string>
+  <string name="failed_dup_secure_phone_number">Ta številka telefona je že povezana z drugim Mi Računom</string>
     <string name="favor_online_video">Videoposnetki</string>
     <string name="favor_playlist">Seznam predvajanja</string>
     <string name="favorite">Priljubljeno</string>
@@ -335,7 +334,14 @@ Pošljite to kodo nadzorniku."</string>
     <string name="gallery_folder_alias_youku_video">Youku</string>
     <string name="gallery_tab_all">Vse</string>
     <string name="gallery_tab_videos">Videoposnetki</string>
-    <string name="gallery_video_adjust_hint">Samo 960fps videoposnetki so podpreti</string>
+  <string name="galleryplus_chose_play_speed">Predvajanje hitrosti %1$.1fX</string>
+  <string name="galleryplus_chose_play_speed_failure">"Ne morem nastaviti hitrost predvajanja"</string>
+  <string name="galleryplus_play_speed">%1$.1fX</string>
+  <string name="galleryplus_restore_play_speed">Predvajanje normalne hitrosti</string>
+  <string name="galleryplus_permission_refuse">Ne, hvala</string>
+  <string name="galleryplus_permission_retry">Dovoljenja</string>
+  <string name="galleryplus_permission_title">Pozor</string>
+    <string name="gallery_video_adjust_hint">Samo 960fps videoposnetki so podprti</string>
     <string name="gallery_video_adjust_text">Prilagodi</string>
     <string name="gallery_video_default_music_text">Samodejno</string>
     <string name="gallery_video_item3_default_text">Čustva</string>
@@ -385,11 +391,17 @@ za videoposnetke"</string>
   <string name="lbl_url_alert">Info</string>
   <string name="library_roundedimageview_libraryDescription">Hitri ImageView ki podpira zaobljene kote (in ovale ali kroge) na osnovi originalnega primera Romaina Guya.</string>
     <string name="loading">Samo trenutek…</string>
+  <string name="local_play_tip">Predvajanje lokalnega videoposnetka</string>
   <string name="local_push_title">Popularno danes</string>
+  <string name="local_video_notification_btn">Poglejte z Mi Video</string>
+  <string name="local_video_notification_title">Najden je nov lokalni videoposnetek</string>
+  <string name="local_video_space">Zasedeno: %s</string>
+  <string name="lock_screen">Zakl. zaslon</string>
   <string name="logging_normal">Normalno</string>
   <string name="logging_verbose">Verbose</string>
     <string name="login">Prijava</string>
     <string name="login_tip">Prijavite se, da prejemete naš odgovor za vašo povratno informacijo.</string>
+  <string name="logo_neverthink">Neverthink.tv</string>
   <string name="login_type">Mi Video SDK</string>
     <string name="logout">Odjava</string>
   <string name="logout_account">Odjavi se</string>
@@ -513,7 +525,8 @@ za videoposnetke"</string>
     <string name="lv_volume">Glasnost</string>
     <string name="manage">Urejanje</string>
   <string name="mi_video">Mi Video</string>
-    <string name="moment_guide_desc">Uporabite geste za povečanje in pomanjšanje</string>
+  <string name="mnc_live_tv">Live TV</string>
+    <string name="moment_guide_desc">Uporabite kretnje za povečanje in pomanjšanje</string>
     <string name="moment_tab_all">Vse</string>
     <string name="moment_tab_facebook">Facebook</string>
     <string name="moment_tab_image">Slike</string>
@@ -557,14 +570,17 @@ za videoposnetke"</string>
     <string name="need_update_app">Posodobite Mi Video za uporabo vseh njegovih funkcij</string>
     <string name="network_connect_info">Povezava z omrežjem ni uspela. Preverite omrežne nastavitve in poskusite ponovno.</string>
     <string name="network_failed">Povezava z omrežjem ni uspela</string>
+  <string name="neverthink_player_loading">Nalaganje Neverthink videoposnetkov…</string>
     <string name="next">Naprej</string>
     <string name="nick_name">Ime</string>
   <string name="no_account">Niste prijavljeni</string>
+  <string name="no_longer_prompt">"Ne kaži več"</string>
   <string name="no_more_content">"To je za zdaj vse"</string>
-    <string name="no_network_tips">Trenutno ni mogoče uporabiti to funkcijo. Dostop do omrežja je omejen.</string>
+    <string name="no_network_tips">Trenutno ni mogoče uporabiti te storitve. Dostop do omrežja je omejen.</string>
   <string name="no_phone">Ni številke telefona</string>
     <string name="no_recommend_data">Trenutno ni priporočenih videoposnetkov</string>
     <string name="no_subscriptions">Tukaj ni nič</string>
+   <string name="not_connect_wifi_tip">Prenos stvari preko mobilnih podatkov lahko povzroči dodatne stroške operaterja. Vseeno prenesem?</string>
   <string name="not_show">Ne kaži več</string>
     <string name="notify_apk_installed">Uspešno preneseno</string>
   <string name="off">[izk]</string>
@@ -626,6 +642,8 @@ za videoposnetke"</string>
     <string name="ovp_navigation_localvideo">Lokalno</string>
     <string name="ovp_navigation_setting">Nastavitve</string>
     <string name="ovp_navigation_subscribe">Naročnina</string>
+  <string name="ovp_player_cached_error_btn">Online videoposnetki</string>
+  <string name="ovp_player_cached_error_hint_info">"Ne morem predvajati lokalne videoposnetke"</string>
     <string name="ovp_player_plugin_dlg_neg_btn">Zapri</string>
     <string name="ovp_player_plugin_dlg_no_content">Ni nameščen noben vtičnik predvajalnika videoposnetkov.</string>
     <string name="ovp_player_plugin_dlg_title">Vtičnik predvajalnika videoposnetkov</string>
@@ -646,6 +664,7 @@ Najprej posodobite Mi Video na najnovejšo različico."</string>
     <string name="ovp_setting_privacy_policy_title">Pravilnik o zasebnosti</string>
     <string name="ovp_setting_privacy_switch_tips">Če prekličete dovoljenje, nekatere funkcije ne bodo na voljo</string>
     <string name="ovp_setting_privacy_switch_title">Avtorizacija in preklicevanje</string>
+  <string name="ovp_setting_user_agreement_title">Pogoji uporabe</string>
     <string name="ovp_setting_version_info_title">Različica</string>
     <string name="ovp_start_error_msg">Tega videa ni mogoče predvajati</string>
     <string name="ovp_video_bad_network_condition">Povezava z omrežjem ni uspela.</string>
@@ -879,7 +898,17 @@ Izboljša varnost vašega računa."</string>
     <string name="recommend_switch_alert">Da bi odstranili ta del pojdite na nastavitve v Mi Video</string>
     <string name="reload_sub_title">Tapnite za ponovni poskus.</string>
     <string name="reload_title">Povezava z omrežjem ni uspela.</string>
+  <string name="remaining_space">Na voljo: %s</string>
+  <string name="remaining_space_not_enough">"Prenos ni mogoč zaradi nezadostnega prostora za shranjevanje"</string>
+  <string name="reminder">Pozor</string>
     <string name="report">Prijavi</string>
+  <string name="report_content_dislike">Nasilje ali neprimereno obnašanje</string>
+  <string name="report_content_fakement">Spam ali prevara</string>
+  <string name="report_content_harmful">Škodljiva ali navarna opravila</string>
+  <string name="report_content_hatred">Sovraštvo ali žalitve</string>
+  <string name="report_content_sexy">Seksualna vsebina</string>
+  <string name="report_content_violence">Govor sovraštva</string>	 
+  <string name="report_content_rubbish">Spam ali napačne informacije</string>
     <string name="report_fail">Ne morem prijaviti. Poskusite ponovno.</string>
     <string name="report_success">Uspešno sporočeno</string>
     <string name="resend_active_email">Ponovno pošlji</string>
@@ -953,6 +982,7 @@ Izboljša varnost vašega računa."</string>
   <string name="srl_header_release">Spustite za osvežitev</string>
   <string name="srl_header_secondary">Sprostite za drugo nadstropje</string>
   <string name="srl_header_update">"'Zadnja posodobitev' dd.MM HH:mm"</string>
+  <string name="start_download_tip">Dodano v vrsto. Preverite napredek v Profil &gt; Prenosi.</string>
     <string name="storage_external_sdcard">SD kartica</string>
     <string name="storage_internal_sdcard">Notranji pomnilnik</string>
   <string name="storage_permission_denied">Dovoljenje za dostop do shrambe je zavrnjeno</string>
@@ -1007,6 +1037,9 @@ Izboljša varnost vašega računa."</string>
     <string name="toast_share_failed">Deljenje ni bilo mogoče. Počakajte minuto ali dve in poskusite ponovno.</string>
     <string name="today">Danes</string>
     <string name="tuesday">Torek</string>
+  <string name="type_content">Vsebina</string>
+  <string name="type_issue">Problem</string>
+  <string name="type_suggestion">Predlog</string>
   <string name="txt_cancel_download">ODPOVEJ PRENOS</string>
   <string name="txt_download_complete">Prenos končan</string>
   <string name="txt_watch_now">GLEJ ZDAJ</string>
