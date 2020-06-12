@@ -137,7 +137,7 @@ pojdite na %s"</string>
   <string name="statusbar_notification_dialing">Klicanje</string>
   <string name="statusbar_notification_incoming_call">Dohodni klic</string>
   <string name="statusbar_notification_ongoning_call">Odhodni klic</string>
-  <string name="tab_block_log_unKnowNumber">Zasebna številka</string>
+  <string name="tab_block_log_unKnowNumber">Skrita številka</string>
   <string name="two_address_choose_hint">%1$s in %2$s</string>
   <string name="unknown">Prišlo je do neznane napake.</string>
   <string name="unkown">Neznano</string>

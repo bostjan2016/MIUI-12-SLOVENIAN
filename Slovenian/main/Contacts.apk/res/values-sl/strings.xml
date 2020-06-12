@@ -1181,7 +1181,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="preview_contact_card_title">"Uvažam stike…"</string>
   <string name="preview_incall_show_entry">Pregled videoposnetka</string>
   <string name="previous">Prejšnja</string>
-  <string name="private_num">Zasebna številka</string>
+  <string name="private_num">Skrita številka</string>
   <string name="profileSavedErrorToast">"Ne morem shraniti sprememb profila"</string>
   <string name="profileSavedToast">Spremembe profila shranjene</string>
   <string name="profile_binded_numbers">%s</string>

@@ -1464,7 +1464,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
     <string name="private_dns_mode_provider">Ime gostitelja pri ponudniku zasebnega strežnika DNS</string>
     <string name="private_dns_mode_provider_failure">Povezave ni bilo mogoče vzpostaviti</string>
     <string name="private_dns_mode_provider_hostname_hint">Vnesite ime gostitelja pri ponudniku strežnika DNS</string>
-  <string name="private_num">Zasebna številka</string>
+  <string name="private_num">Skrita številka</string>
   <string name="progress_dialog_exiting_ecm">Izhod iz načina povratnega klica v sili</string>
   <string name="prompt_to_turnoff_volte_when_failed">"VoLTE storitve niso dosegljive. Izključite VoLTE za klicanje."</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">"Storitev ni dosegljiva. Izključite VoLTE v nastavitvah."</string>

@@ -253,7 +253,7 @@
   <string name="pause_prompt_yes">Da</string>
   <string name="payphone">Govorilnica</string>
   <string name="picking_participant">Pridobivanje informacij o stiku…</string>
-  <string name="private_num">Zasebna številka</string>
+  <string name="private_num">Skrita številka</string>
   <string name="prompt_no_volte_when_failed">"VoLTE storitve niso na voljo."</string>
   <string name="remind_unlock_message">Vaša naprava je zaklenjena. \"%s\ bo na voljo ko odklenete napravo. Odklenem?"</string>
   <string name="respond_via_sms_custom_message">Lastni SMS…</string>

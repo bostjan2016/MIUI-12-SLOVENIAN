@@ -341,7 +341,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_behavior_time_today">Danes</string>
   <string name="app_behavior_time_yesterday">Včeraj</string>
   <string name="app_behavior_wakepath" formatted="false">%1s je zagnal(a) %2s</string>
-  <string name="app_behavior_wakepath_single">Aplikacija je zagnala %2s</string>
+  <string name="app_behavior_wakepath_single">Ta aplikacija je zagnala %2s</string>
   <string name="app_behavior_warning_audio_title">%1s snema zvok v ozadju</string>
   <string name="app_behavior_warning_content">"Končajte ta proces če ga niste dovolili"</string>
   <string name="app_behavior_warning_location_title">%1s dostopa do lokacije</string>
@@ -429,7 +429,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_go_to_manger_app">Urejaj</string>
   <string name="app_manager_has_not_data">Ni podatkov</string>
   <string name="app_manager_have_not_consume">Nič</string>
-  <string name="app_manager_hide_system_server">Skrij sistemske storitve</string>
+  <string name="app_manager_hide_system_server">Skrij sistemske aplikacije</string>
   <string name="app_manager_install_other_app">Namesti aplikacije iz neznanih virov</string>
   <string name="app_manager_instruction">Inštrukcije</string>
   <string name="app_manager_loading_data">Prenašam podatke…</string>
@@ -3740,7 +3740,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="system_tool_green_guard">Zaščitnik družine</string>
   <string name="system_tool_sos">SOS klic v sili</string>
   <string name="tab_blacklist">Seznam blokiranih</string>
-  <string name="tab_block_log_unKnowNumber">Zasebna številka</string>
+  <string name="tab_block_log_unKnowNumber">Skrita številka</string>
   <string name="tab_call">Klici</string>
   <string name="tab_gift">Darilo</string>
   <string name="tab_guide">Vodič</string>
