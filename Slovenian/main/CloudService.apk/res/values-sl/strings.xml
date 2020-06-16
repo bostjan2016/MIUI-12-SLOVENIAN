@@ -175,6 +175,9 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="find_device_service_summary">"Locirajte vašo napravo in jo zaklenite na daljavo če jo slučajno izgubite."</string>
   <string name="find_device_service_summary_international">"Locirajte vašo napravo in jo zaklenite na daljavo če jo slučajno izgubite."</string>
   <string name="find_device_service_title">Najdi napravo</string>
+  <string name="find_device_status_summary">Locirajte in zaklenite napravo, kot tudi daljinsko izbrišite podatke</string>
+  <string name="find_device_status_title_pad">Najdi napravo</string>
+  <string name="find_device_status_title_phone">Najdi napravo</string>
   <string name="find_device_status_ok">Najdite svojo napravo na i.mi.com</string>
   <string name="find_device_status_ok_international">Najdite svojo napravo na www.mi.com/micloud</string>
   <string name="find_device_success_title">Najdi napravo</string>
@@ -348,6 +351,7 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat priporoča da vključite Najdi napravo</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay priporoča da vključite Najdi napravo</string>
   <string name="micloud_find_device_guide_progress">Izklop Najdi napravo…</string>
+  <string name="micloud_find_device_guide_title">Prijavite se v &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; z vašim Mi Računom da locirate in zaklenete napravo, jo značite kot izgubljeno ali izbrišete podatke na daljavo. Poglejte podrobnosti na &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;here&lt;/a&gt;.</string>
   <string name="micloud_find_device_open_fail">"Ne morem vključiti Najdi napravo"</string>
   <string name="micloud_find_device_opened">Najdi napravo vključeno</string>
   <string name="micloud_find_device_opened_content">Poiščite svojo napravo na %s</string>
@@ -649,6 +653,8 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="search_finddevice_pref_key_words">najdinapravo, najdi napravo</string>
   <string name="search_finddevice_pref_path">Mi Račun/Mi Cloud/Najdi napravo</string>
   <string name="search_menu_title">Išči</string>
+  <string name="send_last_location_summary">Sinhronizirajte podatke o lokaciji ko se naprava izklapja</string>
+  <string name="send_last_location_title">Lociraj pred izklopom</string>
   <string name="secret_photo">Skrite fotografije</string>
   <string name="setting">Nastavitve</string>
   <string name="settings_backup_title">Nastavitve var. kopije sistema</string>

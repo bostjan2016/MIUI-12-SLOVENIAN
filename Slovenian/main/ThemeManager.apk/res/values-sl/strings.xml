@@ -42,14 +42,17 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="ad_begin_to_download_tip">Začetek prenosa…</string>
   <string name="ad_begin_to_install_tip">Nameščanje…</string>
   <string name="ad_closed_tip">"Videli boste manj oglasov te vrste"</string>
+  <string name="ad_details">Podrobnosti</string>
   <string name="ad_download_download">Prenesi</string>
   <string name="ad_download_download_now">Prenesi</string>
   <string name="ad_download_install">Namesti</string>
+  <string name="ad_download_now">Prenesi</string>
   <string name="ad_download_open">Odpri</string>
   <string name="ad_download_pause">Premor</string>
   <string name="ad_download_pending">Poteka</string>
   <string name="ad_download_resume">Nadaljuj</string>
   <string name="ad_downloading_tip">Prevzem poteka. Napredek lahko vidite v plošči obvestil.</string>
+  <string name="ad_experience_now">Odpri</string>
   <string name="ad_tag_text_1">Popularno</string>
   <string name="ad_tag_text_2">Moda</string>
   <string name="add_resource_detail_fail">"Ne morem dodati vira"</string>
@@ -138,15 +141,22 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="common_signin_button_text">Prijava</string>
   <string name="common_signin_button_text_long">Prijava s storitvijo Google</string>
   <string name="common_skip">Preskoči</string>
-  <string name="community_cta_dialog_cancel">Prekliči</string>
-  <string name="community_cta_dialog_des">Ta tema vsebuje bližnjico ure, ki prikazuje vaš ID Mi Računa in Mi Community status. To funkcijo lahko izklopite tako, da preklopite na drugo temo ali odstranite pripomoček ure.</string>
-  <string name="community_cta_dialog_ok">Razumem</string> 
-  <string name="community_cta_dialog_title">Bližnjica ure</string>
-  <string name="component_backup_preference_title">Napravi var.kopijo teme</string>
+  <string name="community_community_message_trigger_summary">Prejemajte obvestila o odzivih, všečkih in posodobitvah statusa Mi Community prek svojega Mi računa</string>
+  <string name="community_community_message_trigger_title">Obvestila o dejavnosti</string>
+  <string name="community_cta_dialog_cancel">Ne, hvala</string>
+  <string name="community_cta_dialog_des">"Teme tretjih oseb zdaj podpirajo pripomoček Mi Community. Deluje kot bližnjica, ki vas pripelje do podforuma Mi Community. To storitev lahko izklopite v nastavitvah.
+ Dovolite temam dostop do vašega ID-ja Mi računa in stanja Mi Community povezanih z vašim računom, da jih lahko vidite tukaj. Obvestila o dejavnosti Mi Community lahko tudi vklopite in izklopite v nastavitvah."</string>
+  <string name="community_cta_dialog_ok">Dovoli</string>
+  <string name="community_cta_dialog_title">Potrebno je dovoljenje</string>
+  <string name="community_entrance_summary">Najdite vsebino ki se nanaša na teme v Mi Community. To funkcija je podprta z izbranimi temami.</string>
+  <string name="community_entrance_title">Mi Community pripomoček ure</string>
+  <string name="community_message_trigger_disabled">Izključeno</string>
+  <string name="community_message_trigger_triggered">Vključeno</string>
+  <string name="component_backup_preference_title">Napravi var.kopijo tem</string>
   <string name="component_category_finest_title">SPLOŠNO</string>
   <string name="component_category_more_title">NAPREDNO</string>
   <string name="component_title_ringtone">Melodija zvonenja</string>
-  <string name="component_title_settings_video_wallpaper">Slike zadja s posebnimi efekti</string>
+  <string name="component_title_settings_video_wallpaper">Slike ozadja s posebnimi efekti</string>
   <string name="component_title_video_wallpaper">Filmi</string>
   <string name="component_title_wallpaper">Slika za ozadje</string>
   <string name="concentration_old_period">Več</string>
@@ -281,10 +291,12 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
+  <string name="forbid_transparent_wallpaper_by_second_space">Najprej uporabite prozorna ozadja v prvem prostoru.</string>
+  <string name="forbid_video_wallpaper_by_second_space">Najprej uporabite dinamična ozadja v prvem prostoru.</string>
   <string name="gallery_wallpaper">Wallpaper Carousel</string>
   <string name="gallery_wallpaper_count">100k+</string>
   <string name="gallery_wallpaper_count_tw">10w+</string>
-  <string name="gallery_wallpaper_theme">Must-have ozadja</string>
+  <string name="gallery_wallpaper_theme">Nepogrešljiva ozadja</string>
   <string name="gift_anonymous">Anonimno</string>
   <string name="gift_operation_fail_dlg_abandon">Prekliči</string>
   <string name="gift_operation_fail_dlg_retry">Poskusite ponovno</string>
@@ -344,6 +356,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="hide_pull_down_positive">Skrij</string>
   <string name="home_apply_failured">"Ne morem nastaviti ozadje zač. zaslona"</string>
   <string name="home_apply_success">Ozadje zač. zaslona nastavljeno</string>
+  <string name="i_know">Razumem</string>
   <string name="icon_content_description">Ikona dialoga</string>
   <string name="in_the_end">Ni več stvari za prikaz</string>
   <string name="incall_show_apply">Profilni videoposetek za odhodne klice</string>
@@ -400,6 +413,20 @@ Tapnite, da se boste prijavili."</string>
   <string name="mine_tab_title_like">Všeč mi je</string>
   <string name="mine_tab_title_local">Lokalno</string>
   <string name="mine_tab_title_purchase">Naročila</string>
+  <string name="miui_clock_city_name_local">Lokalno</string>
+  <string name="miui_clock_city_name_second">Druga ura</string>
+  <string name="miui_clock_fancy_colon"></string>
+  <string name="miui_digital_clock_dot">:</string>
+  <string name="miui_lock_screen_date">dd.MM EEEE</string>
+  <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
+<string name="miui_lock_screen_date_two_lines">"EEEE
+dd.MMMM"</string>
+     <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd.MMMM"</string>
+     <string name="miui_lock_screen_large_date">"EEE
+dd.MM"</string>
+     <string name="miui_lock_screen_large_date_12">"EEE
+dd.MM"</string>  
   <string name="miuishare_account_activate_confirmation">Aktiviraj Mi Račun</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
   <string name="miuishare_account_login_cancel">Prekliči</string>
@@ -942,6 +969,7 @@ Tapnite, da se boste prijavili."</string>
   <string name="theme_current_using_has_update">Posodobitev za teme na voljo</string>
   <string name="theme_description_title_customized">Po meri</string>
   <string name="theme_description_title_default">Privzeto</string>
+  <string name="theme_designer_products">Dizajnerske teme</string>
   <string name="theme_detail_tab_comment">Komentarji</string>
   <string name="theme_detail_tab_recommend">Priporočila</string>
   <string name="theme_detail_tab_theme">Teme</string>
@@ -1054,7 +1082,8 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
   <string name="update_immediately">Posodobi zdaj</string>
   <string name="update_latest">Aplikacija je posodobljena</string>
   <string name="update_no_net">Napaka omrežja. Poskusite ponovno..</string>
-  <string name="update_title">Posodobitev na voljo</string>
+  <string name="update_title">Posodobitev je na voljo</string>
+  <string name="use_hint">Pozor</string>
   <string name="using_theme_has_update_tips">Na voljo je posodobitev te teme.</string>
   <string name="using_theme_next_automatic_update">Samodejna posodobitev</string>
   <string name="using_theme_next_automatic_update_summary">Samodejno posodobi prenešene teme preko WiFi ko je naprava zaklenjena</string>

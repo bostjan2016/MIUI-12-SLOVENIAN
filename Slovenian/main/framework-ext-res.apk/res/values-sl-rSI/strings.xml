@@ -26,6 +26,10 @@
   <string name="autofill_save_sub_message">"Shranjena gesla lahko urejate v Nastavitve &gt; Gesla &amp; Varnost &gt; %s"</string>
   <string name="autofill_save_title">Samodejno shrani gesla</string>
   <string name="autofill_service_name">Urejanje gesel</string>
+  <string name="bluetooth_disable_notification_content">%s je izključil-a Bluetooth</string>
+  <string name="bluetooth_disable_notification_title">Bluetooth je izključen</string>
+  <string name="bluetooth_enable_notification_content">%s je vključil-a Bluetooth</string>
+  <string name="bluetooth_enable_notification_title">Bluetooth je vključen</string>
   <string name="btn_cancel">Prekliči</string>
   <string name="btn_sure">V redu</string>
   <string name="button_text_cancel">Prekliči</string>
@@ -271,7 +275,7 @@
   <string name="status_bar_toggle_rotate">Vrtenje</string>
   <string name="status_bar_toggle_screen_button">Gumbi</string>
   <string name="status_bar_toggle_screenshot">Posnetek zaslona</string>
-  <string name="status_bar_toggle_shutdown">Izklop</string>
+  <string name="status_bar_toggle_shutdown">Izključi</string>
   <string name="status_bar_toggle_sync">Sinhr.</string>
   <string name="status_bar_toggle_sync_auto">Sinhr.</string>
   <string name="status_bar_toggle_sync_manual">Sinhr.</string>
@@ -282,7 +286,7 @@
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="stop_operate_camera_frequently">"Kaže da prevečkrat menjate kamere."</string>
   <string name="sunlight_notification_content">Samodejno prilagodi svetlost močne ambientalne svetlobe</string>
-  <string name="sunlight_notification_title">Vključi način dela Sončne svetlobe</string>
+  <string name="sunlight_notification_title">Vključi način dela sončne svetlobe</string>
   <string name="super_resolution_maintain_tips">"Super ločljivost še ni na voljo."</string>
   <string name="switch_brand_desc_tv">Varnostne storitve ponuja Graphite</string>
   <string name="switch_desc_tv">Dva prostora. Ena naprava.</string>

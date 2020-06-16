@@ -2001,6 +2001,7 @@ vašega igranja"</string>
   <string name="memory_clean_click_tip">Povečaj hitrost</string>
   <string name="memory_clean_memory_size_tip">Predpomnilnik</string>
   <string name="memory_clean_no_need_clean">Vse zgleda dobro</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">Osvobojeno %s. Vaša naprava je zdaj %d%% hitrejša.</string>
   <string name="memory_clean_no_running_process">Ni nalog za brisanje</string>
   <string name="memory_clean_running_process_title">Spremljanje aplikacij (%d)</string>
   <string name="memory_cleaned_memory_info">Na voljo spomina</string>
@@ -2060,7 +2061,9 @@ vašega igranja"</string>
   <string name="menu_summary_networkassistants_2">Omejitev prekoračena</string>
   <string name="menu_summary_networkassistants_3">Ostalo je dovolj podatkov</string>
   <string name="menu_summary_networkassistants_4">Zmanjkuje podatkov</string>
-  <string name="menu_summary_power_manager">Varčevanje baterije vam dajeveč časa med polnjenji</string>
+  <string name="menu_summary_optimize_manage">Očisti spomin</string>
+  <string name="menu_summary_optimize_manage_1">Naredite vašo napravo %d%% hitrejšo</string>
+  <string name="menu_summary_power_manager">Varčevanje baterije vam daje več časa med polnjenji</string>
   <string name="menu_summary_power_manager_1">Baterija je polna</string>
   <string name="menu_summary_power_manager_2">Ostalo %s</string>
   <string name="menu_summary_power_manager_3">Priključite polnilec</string>
@@ -2077,6 +2080,7 @@ vašega igranja"</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Povečaj hitrost</string>
+  <string name="menu_text_optimize_manage_1">Povečaj hitrost</string>
   <string name="menu_text_power_manager">Baterija</string>
   <string name="menu_wh_remove">Odstrani iz izjem</string>
   <string name="menu_white">Dodaj v izjeme</string>
@@ -2308,6 +2312,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="om_media_scan_timeout_proc_name">Medijski server</string>
   <string name="om_memory_clean_cleaning_text">Povečanje hitrosti…</string>
   <string name="om_not_finish_speedboost">Potrebno je povečanje hitrosti</string>
+  <string name="om_optimzing_big_button_text">Povečaj hitrost</string>
+  <string name="om_running_app_info_summary">Osvobodi %s</string>
   <string name="om_notify_cpu_load_too_high_summary">Omeji aktivnosti v ozadju za povečanje hitrosti</string>
   <string name="om_notify_cpu_load_too_high_title">Upotreba CPU od %s je previsoka</string>
   <string name="om_notify_need_clean_memory_summary">Izbriši predpomnilnik za povečanje hitrosti</string>
@@ -2329,8 +2335,11 @@ To skrajšuje trajanje baterije."</string>
   <string name="om_settings_notify_manage">Obvestila</string>
   <string name="om_settings_speed_up_auto">Samod. povečaj hitrost</string>
   <string name="om_settings_title">Nastavitve optimizacije</string>
+  <string name="om_shortcut_added_toast_text">Uspešno dodano</string>
+  <string name="om_shortcut_dialog_summary">"RAM Jet vam omogoča da z enim dotikom očistite pomnilnik in povečate hitrost svoje naprave. Dodam RAM Jet na zač. zaslon?"</string>
+  <string name="om_shortcut_dialog_title">RAM Jet</string>
   <string name="one_address_choose_hint">%s1</string>
-  <string name="online_chat">Chat</string>
+  <string name="online_chat">Klepet</string>
   <string name="online_read">Novice</string>
   <string name="online_songs">Glasba</string>
   <string name="open">Odpri</string>
@@ -3252,8 +3261,12 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="section_title_clear_acc">Očisti predpomnilnik</string>
   <string name="section_title_security_defend">Varnost</string>
   <string name="section_title_system">Varnost sistema</string>
-  <string name="security_center_slogan">Varnost. Zmeraj na preži.</string>
+  <string name="security_bottom_guide_to_pm_text">Odpiranje Utility Kit…</string>
   <string name="security_app_lock">Zakl. aplikacije</string>
+  <string name="security_center_slogan">Varnost. Zmeraj na preži.</string>
+  <string name="security_guide_bubble_text">Odpri</string>
+  <string name="security_guide_summary">Enotno mesto za orodja in storitve</string>
+  <string name="security_guide_title">MIUI Utility Kit</string>
   <string name="security_scan_card_clean_now">Preišči</string>
   <string name="security_scan_optimizing">Optimiziranje…</string>
   <string name="securityadd_install_fail">"Ne morem posodobiti dodatek. Poskusite ponovno."</string>

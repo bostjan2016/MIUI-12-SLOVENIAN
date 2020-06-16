@@ -524,6 +524,10 @@
          <item quantity="other">Izbrisano virusov: %d</item>
          <item quantity="one">Izbrisan je %d virus</item>
      </plurals>
+	 <plurals name="om_running_apps_num">
+        <item quantity="other">%d aplikacij</item>
+        <item quantity="one">%d aplikacija</item>
+    </plurals>
      <plurals name="optimize_result_button_add_score">
          <item quantity="other">+%d</item>
          <item quantity="one">+%d</item>

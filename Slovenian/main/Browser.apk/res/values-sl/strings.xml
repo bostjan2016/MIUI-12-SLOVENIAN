@@ -156,6 +156,7 @@
   <string name="autologin_bar_login_text">Vpis</string>
   <string name="autologin_bar_text">Vpiši se kot</string>
   <string name="back_description">Nazaj</string>
+  <string name="back_button_label">Nazaj</string>
   <string name="block">Blokiraj</string>
   <string name="block_ads_choice_block">Blokiraj</string>
   <string name="block_ads_choice_continue">Nadaljuj</string>

@@ -76,13 +76,13 @@ Mawrth Vallis"</string>
   <string name="miui_lock_screen_date">dd.MM EEEE</string>
   <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
 <string name="miui_lock_screen_date_two_lines">"EEEE
-dd. MMMM"</string>
+dd.MMMM"</string>
      <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd. MMMM"</string>
+dd.MMMM"</string>
      <string name="miui_lock_screen_large_date">"EEE
-dd.M"</string>
+dd.MM"</string>
      <string name="miui_lock_screen_large_date_12">"EEE
-dd.M"</string>
+dd.MM"</string>  
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>

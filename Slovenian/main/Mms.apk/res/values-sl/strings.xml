@@ -210,6 +210,7 @@
   <string name="copy_to_sdcard">Shrani priponko</string>
   <string name="copy_to_sdcard_fail">Priponke ni mogoče shraniti</string>
   <string name="copy_to_sdcard_success">Priponka shranjena</string>
+  <string name="copy_verification_code_tip">Uspešno kopirano</string>
   <string name="current_data_version">Verzija Mi sporočil</string>
   <string name="database_corruption">Popravljam…</string>
   <string name="del_private_contact">Odstrani vse zasebne stike</string>
@@ -414,6 +415,7 @@
   <string name="menu_make_call">Klic</string>
   <string name="menu_mark">Označi</string>
   <string name="menu_more">Več</string>
+  <string name="menu_multi_select">Izberi</string>
   <string name="menu_new_contact">Nov stik</string>
   <string name="menu_new_manual">Vnesi telefonsko številko</string>
   <string name="menu_pick_from_contact">Izberi iz stikov</string>
@@ -622,6 +624,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="nosend_message">Ne pošlji</string>
   <string name="not_prepare_for_send">Ni sporočil za pošiljanje</string>
   <string name="not_set">Ni nastavljeno</string>
+  <string name="not_support_audio_forward">"Ne morem posredovati glasovnih sporočil"</string>
   <string name="notification_ad_content">Dobili ste promocijsko sporočilo od %s</string>
   <string name="notification_channel_msg_description">Obvestilo o sporočilu</string>
   <string name="notification_channel_msg_name">Sporočilo</string>
@@ -703,8 +706,9 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="pref_summary_on_system_mms_priority">Nastavi MIUI aplikacijo za sporočila kot privzeto aplikacijo za pošiljanje in prejemanje MMS</string>
   <string name="pref_summary_privacy_authority">Vključite bližnjico da boste odobrili ali preklicali avtorizacijo</string>
   <string name="pref_summary_send_delivery_reports">Pošlji pošiljatelju potrdilo o dostavi za prejet MMS</string>
+  <string name="pref_summary_voice_report">Vključite za branje sporočil na glas ko jih dobite. Pritisnite tipko za glasnost ali tipko za vklop/izklop za ustavitev predvajanja.</string>
   <string name="pref_summary_show_recent_contacts">Pokaži nedavne stike ko pišete novo besedilno sporočilo</string>
-  <string name="pref_summary_wake_up_screen">Zbudi zaslon vsakič ko je prejeto novo sporočilo</string>
+  <string name="pref_summary_wake_up_screen">Vključi zaslon vsakič ko je prejeto novo sporočilo</string>
   <string name="pref_switch_sdk_setting">Zamenjaj smart SMS storitev operaterja</string>
   <string name="pref_system_title">Sistem</string>
   <string name="pref_time_auto_group_disabled_summary">"Ni podprto v trenutni velikosti fontov"</string>
@@ -743,6 +747,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="pref_title_storage_status">Status shrambe sporočil</string>
   <string name="pref_title_system_mms_priority">Nastavi za privzeto</string>
   <string name="pref_title_vcard">Pošlji preko vKartice</string>
+  <string name="pref_title_voice_report">Preberi sporočila na glas</string>
   <string name="pref_title_wake_up_screen">Zbudi zaslon</string>
   <string name="preference_copied">\"%1$s\" kopiran v odložišče.</string>
   <string name="preferences_title">Nastavitve</string>
@@ -1126,6 +1131,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="too_many_attachments">"Omejitev je %1$s prilog. Samo prvih %2$s bo dodano."</string>
   <string name="too_many_recipients">Sporočilo ima preveč prejemnikov (%1$s). Ne morete imeti več kot %2$s prejemnikov.</string>
   <string name="too_many_unsent_mms">"Trenutno ne morem poslati sporočila. Preveč neposlanih večpredstavnostnih sporočil."</string>
+  <string name="top_conversation">Top razgovor</string>
   <string name="train_edit_destination">Dodaj</string>
   <string name="try_to_send">Poskusi poslati</string>
   <string name="tuesday">Torek</string>
@@ -1172,11 +1178,15 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="v7_preference_on">VKLJUČENO</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Kode za preverjanje</string>
+  <string name="verification_code_safety_warning">"Ne razkrivajte teh kod drugim ljudem"</string>
   <string name="view">Pokaži</string>
   <string name="view_bookmark">Poglej originalno sporočilo</string>
-  <string name="view_hms_attachment_fail">Ne morem prenesti sporočila</string>
+  <string name="view_hms_attachment_fail">"Ne morem prenesti slike"</string>
   <string name="view_hms_details">Podrobnosti</string>
   <string name="view_message_details">Poglej podrobnosti</string>
+  <string name="voice_report_anytime">Zmeraj</string>
+  <string name="voice_report_off">Izključeno</string>
+  <string name="voice_report_wiredon">S slušalkami</string>
   <string name="voip_enable">Mi sporočila in Voice</string>
   <string name="voip_enable_popup_msg">"Kličite druge MIUI uporabnike brez stroškov. VoIP je podprt s strani Weihui. Pokaži Weihui Pravila o zasebnosti."</string>
   <string name="voip_enable_popup_msg2">Pravila o zasebnosti</string>

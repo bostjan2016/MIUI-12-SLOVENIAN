@@ -100,6 +100,10 @@
         <item quantity="other">Posodobitev na voljo za tem: %1$d</item>
         <item quantity="one">Posodobitev na voljo za %1$d temo</item>
     </plurals>
+	<plurals name="resource_download_notification_title_many">
+        <item quantity="other">Prenešeno %1$d stvari</item>
+        <item quantity="one">Prenešena %1$d stvar</item>
+    </plurals>
 	<plurals name="resource_rating">
         <item quantity="other">%1$.1f točk</item>
         <item quantity="one">%1$.1f točka</item>

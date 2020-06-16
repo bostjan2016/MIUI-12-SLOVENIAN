@@ -85,14 +85,14 @@
   <string name="warning_tip_content">"Niste več povezani z WiFi. Uporaba mobilnih podatkov za dokončanje prenosa bo povečala uporabo podatkov. Vaš operater vam to lahko zaračuna."</string>
   <string name="warning_tip_ok">Premor</string>
   <string name="warning_tip_title">Opozorilo uporabe podatkov</string>
-  <string name="wifi_recommended_body" formatted="false">Zagon %s prenosa lahko povzroči čezmerno uporabo vaše mobilne podatkovne povezave, kar lahko pripelje do višjih stroškov pri operaterju.
+  <string name="wifi_recommended_body">"Zagon %s prenosa lahko povzroči čezmerno uporabo baterije in/ali vaše mobilne podatkovne povezave, kar lahko pripelje do višjih stroškov pri operaterju.
 
 
-      Pritisni %s za prenos naslednjič ko boste povezani na WiFi omrežje.</string>
+  Pritisni %2$s za prenos naslednjič ko boste povezani na WiFi omrežje.</string>
   <string name="wifi_recommended_title">Prenesem kasneje?</string>
-  <string name="wifi_required_body" formatted="false">Za ta prenos velikosti %s potrebujete WiFi povezavo.
+  <string name="wifi_required_body">"Povežite se na WiFi za dokončanje %1$s prenosa. 
 
-      Pritisni %s za prenos naslednjič ko boste povezani na WiFi.</string>
+  Pritisni %2$s za prenos naslednjič ko boste povezani na WiFi.</string>
   <string name="wifi_required_title">Datoteka je prevelika za prenos preko podatkovnega omrežja</string>
   <string name="xl_speedup_experience_notify_context">"Hitrost  je povečana za vsak prenos če ste Xunlei član"</string>
   <string name="xl_speedup_experience_notify_title">Xunlei članstvo</string>

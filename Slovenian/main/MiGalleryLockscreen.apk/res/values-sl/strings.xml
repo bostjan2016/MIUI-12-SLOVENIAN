@@ -279,6 +279,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="lks_left_top_notice">Tapnite tu za vrnitev na vrh</string>
   <string name="lks_left_top_notice_refresh">Tapnite za prikaz novih stvari</string>
   <string name="lks_logo_desc2">Vsak dan nove slike ozadja</string>
+  <string name="lks_logo_desc_search">Vsak dan nove slike ozadja</string>
   <string name="lks_subscription_toast">Slika ozadja zamenjana</string>
   <string name="llks_add_cate">Naročite se na %s</string>
   <string name="llks_auto_switch_wp">Naročite se na kategorije ki so vam včeč</string>
@@ -337,14 +338,14 @@ Pošljite to kodo nadzorniku."</string>
   <string name="miui_digital_clock_dot">:</string>
   <string name="miui_lock_screen_date">dd.MM EEEE</string>
   <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
-  <string name="miui_lock_screen_date_two_lines">"EEEE
-dd. MMMM"</string>
+<string name="miui_lock_screen_date_two_lines">"EEEE
+dd.MMMM"</string>
      <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd. MMMM"</string>
+dd.MMMM"</string>
      <string name="miui_lock_screen_large_date">"EEE
-dd.M"</string>
+dd.MM"</string>
      <string name="miui_lock_screen_large_date_12">"EEE
-dd.M"</string>
+dd.MM"</string>  
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
