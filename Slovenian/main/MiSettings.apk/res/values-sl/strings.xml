@@ -322,7 +322,7 @@ Aplikacija potrebuje povezavo s spletom in dovoljenje za dostop do osebnih podat
   <string name="usage_new_home_day_category_title_new">Čas zaslona za kategorije aplikacij na %s</string>
   <string name="usage_new_home_day_title">Dan</string>
   <string name="usage_new_home_day_usage_title">Posamezne aplikacije</string>
-  <string name="usage_new_home_day_usage_title_new">Čas zaslona na %s</string>
+  <string name="usage_new_home_day_usage_title_new">Čas zaslona %s</string>
   <string name="usage_new_home_first_unlock">Prvo odklepanje: %s</string>
   <string name="usage_new_home_name">Ime</string>
   <string name="usage_new_home_show_more_data_summary">Lahko omejite čas zaslona za posamezne aplikacije</string>
