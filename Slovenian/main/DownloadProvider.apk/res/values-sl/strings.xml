@@ -85,7 +85,7 @@
   <string name="warning_tip_content">"Niste več povezani z WiFi. Uporaba mobilnih podatkov za dokončanje prenosa bo povečala uporabo podatkov. Vaš operater vam to lahko zaračuna."</string>
   <string name="warning_tip_ok">Premor</string>
   <string name="warning_tip_title">Opozorilo uporabe podatkov</string>
-  <string name="wifi_recommended_body">"Zagon %s prenosa lahko povzroči čezmerno uporabo baterije in/ali vaše mobilne podatkovne povezave, kar lahko pripelje do višjih stroškov pri operaterju.
+  <string name="wifi_recommended_body">"Zagon %1$s prenosa lahko povzroči čezmerno uporabo baterije in/ali vaše mobilne podatkovne povezave, kar lahko pripelje do višjih stroškov pri operaterju.
 
 
   Pritisni %2$s za prenos naslednjič ko boste povezani na WiFi omrežje.</string>
