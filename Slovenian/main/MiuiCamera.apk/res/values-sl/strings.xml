@@ -26,7 +26,7 @@
     <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
     <string name="abc_searchview_description_voice">Glasovno iskanje</string>
     <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
-    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
+    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="access_sd_fail">"Dostop do zunanjega pomnilnika ni mogoč."</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Sprememba kamere in videa (trenutno se uporablja %s)</string>

@@ -29,7 +29,7 @@
     <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
     <string name="abc_searchview_description_voice">Glasovno iskanje</string>
     <string name="abc_shareactionprovider_share_with">Deljenje z</string>
-    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
+    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
     <string name="account_bind_secure_email_title">Dodajte obnovitveni elektronski naslov</string>
     <string name="account_bind_secure_phone_title">Dodaj obnovitveno telefonsko številko</string>
@@ -546,7 +546,7 @@ za videoposnetke"</string>
     <string name="mr_cast_button_disconnected">Gumb za predvajanje. Povezava je prekinjena.</string>
   <string name="mr_cast_dialog_title_view_placeholder">Ni podatkov na voljo</string>
     <string name="mr_chooser_searching">Iskanje naprav</string>
-    <string name="mr_chooser_title">Predvajanje prek:</string>
+    <string name="mr_chooser_title">Predvajanje preko:</string>
     <string name="mr_controller_album_art">Naslovnica albuma</string>
     <string name="mr_controller_casting_screen">Predvajanje zaslona</string>
     <string name="mr_controller_close_description">Zapri</string>

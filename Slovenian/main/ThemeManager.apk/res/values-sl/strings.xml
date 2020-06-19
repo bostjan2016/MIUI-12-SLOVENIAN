@@ -141,7 +141,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="common_signin_button_text">Prijava</string>
   <string name="common_signin_button_text_long">Prijava s storitvijo Google</string>
   <string name="common_skip">Preskoči</string>
-  <string name="community_community_message_trigger_summary">Prejemajte obvestila o odzivih, všečkih in posodobitvah statusa Mi Community prek svojega Mi računa</string>
+  <string name="community_community_message_trigger_summary">Prejemajte obvestila o odzivih, všečkih in posodobitvah statusa Mi Community preko svojega Mi računa</string>
   <string name="community_community_message_trigger_title">Obvestila o dejavnosti</string>
   <string name="community_cta_dialog_cancel">Ne, hvala</string>
   <string name="community_cta_dialog_des">"Teme tretjih oseb zdaj podpirajo pripomoček Mi Community. Deluje kot bližnjica, ki vas pripelje do podforuma Mi Community. To storitev lahko izklopite v nastavitvah.

@@ -34,7 +34,7 @@
   <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
   <string name="abc_searchview_description_voice">Glasovno iskanje</string>
     <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
-    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
+    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_slice_error">Povezava ni mogoča</string>
     <string name="abc_slice_more">Več</string>
   <string name="abc_slice_more_content">še %1$d</string>
@@ -174,7 +174,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
     <string name="accessibility_service_master_switch_title">Uporaba storitve</string>
   <string name="accessibility_service_no_apps_message">TalkBack daje govorne povratne informacije kot pomoč slepim im slabovidnim uporabnikom. Ga želite brezplačno namestiti iz Trg. Play?</string>
   <string name="accessibility_service_no_apps_title">Potrebujete bralnik zaslona?</string>
-    <string name="accessibility_service_screen_control_description">Bere lahko vso vsebino na zaslonu ter prikaže vsebino prek drugih aplikacij.</string>
+    <string name="accessibility_service_screen_control_description">Bere lahko vso vsebino na zaslonu ter prikaže vsebino preko drugih aplikacij.</string>
     <string name="accessibility_service_screen_control_title">Ogledovanje in upravljanje zaslona</string>
     <string name="accessibility_service_warning">%1$s zahteva popoln nadzor nad to napravo. Storitev lahko prebere zaslon in deluje v imenu uporabnikov s posebnimi potrebami. Ta raven nadzora za večino aplikacij ni primerna.</string>
     <string name="accessibility_service_warning_description">Popoln nadzor je ustrezen za aplikacije, ki vam pomagajo pri funkcijah za ljudi s posebnimi potrebami, vendar ne za večino aplikacij.</string>
@@ -295,7 +295,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
     <string name="adaptive_sleep_summary_off">Izklopljeno</string>
     <string name="adaptive_sleep_summary_on">Vklopljeno / zaslon se ne bo izklopil, če ga gledate</string>
     <string name="adaptive_sleep_title">Zaznavanje pogleda na zaslon</string>
-    <string name="adb_keys_warning_message">Ali želite preklicati dostop do odpravljanja težav prek povezave USB iz vseh računalnikov, ki ste jih pooblastili?</string>
+    <string name="adb_keys_warning_message">Ali želite preklicati dostop do odpravljanja težav preko povezave USB iz vseh računalnikov, ki ste jih pooblastili?</string>
   <string name="adb_warning_message">Odpravljanje težav s povezavo USB je namenjeno samo za razvoj. Lahko ga uporabljate za kopiranje podatkov med računalnikom in napravo, nameščanje aplikacij v napravo brez obveščanja in branje podatkov v dnevniku.</string>
   <string name="adb_warning_title">Ali dovolite odpravljanje težav s povezavo USB?</string>
   <string name="add">Dodaj</string>
@@ -442,7 +442,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
 Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj se prenese je odvisno od aplikacije."</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Izklopljeno</string>
-  <string name="android_beam_on_summary">Pripravljen za prenos vsebine aplikacije prek NFC</string>
+  <string name="android_beam_on_summary">Pripravljen za prenos vsebine aplikacije preko NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
   <string name="android_beam_tips">Prepričajte se da se napravi dotikata in se nato dotaknite vsebine ki jo želite prenesti.</string>
   <string name="android_beam_witch_label">Android Beam</string>
@@ -794,8 +794,8 @@ Nazadnje zagnano: %2$s"</string>
     <string name="automatic_system_heap_dump_summary">Samodejni zajem heap izvoza kopice za sistem Android, ko porabi preveč pomnilnika</string>
     <string name="automatic_system_heap_dump_title">Samodejni zajem sistemskih izvozov kopic</string>
   <string name="available_size">%s na voljo</string>
-    <string name="available_via_carrier">Na voljo prek: %1$s</string>
-    <string name="available_via_passpoint">Na voljo prek: %1$s</string>
+    <string name="available_via_carrier">Na voljo preko: %1$s</string>
+    <string name="available_via_passpoint">Na voljo preko: %1$s</string>
     <string name="available_virtual_keyboard_category">Razpoložljiva navidezna tipkovnica</string>
     <string name="average_memory_use">Povprečna uporaba pomnilnika</string>
     <string name="average_used">Povprečno uporabljeno (%)</string>
@@ -997,7 +997,7 @@ nastavitev in aplikacij"</string>
   <string name="battery_info_status_charging_ac">Polnjenje s polnilcem</string>
   <string name="battery_info_status_charging_ac_short">Polnjenje</string>
   <string name="battery_info_status_charging_lower">Polnjenje</string>
-  <string name="battery_info_status_charging_usb">Polnj. prek USB-ja</string>
+  <string name="battery_info_status_charging_usb">Polnj. preko USB-ja</string>
   <string name="battery_info_status_charging_usb_short">Polnjenje</string>
   <string name="battery_info_status_charging_wireless">Brezžično polnjenje</string>
   <string name="battery_info_status_charging_wireless_short">Polnjenje</string>
@@ -1226,7 +1226,7 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
   <string name="bluetooth_disconnect_headset_profile">Povezava med napravo %1$s in prostoročnim zvokom bo prekinjena.</string>
   <string name="bluetooth_disconnect_hid_profile">Povezava med napravo %1$s in vnosno napravo bo prekinjena.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">Naprava %1$s bo izključena iz skupne rabe spletne povezave tega telefona.</string>
-  <string name="bluetooth_disconnect_pan_user_profile">Spletni dostop prek naprave %1$s bo prekinjen.</string>
+  <string name="bluetooth_disconnect_pan_user_profile">Spletni dostop preko naprave %1$s bo prekinjen.</string>
   <string name="bluetooth_disconnect_title">Želite prekiniti povezavo?</string>
   <string name="bluetooth_disconnected">Prekinjena povezava</string>
     <string name="bluetooth_disconnecting">Prekinjanje povezave…</string>
@@ -1310,7 +1310,7 @@ Možne napake:
   <string name="bluetooth_pairing_decline">Prekliči</string>
     <string name="bluetooth_pairing_device_down_error_message">Z napravo %1$s ni mogoče vzpostaviti povezave.</string>
   <string name="bluetooth_pairing_dialog_contants_request">Naprava %1$s želi dostopati do vaših stikov in zgodovine klicev.</string>
-    <string name="bluetooth_pairing_dialog_paring_request">Naprava %1$s se želi seznaniti prek Bluetootha. Ko bo povezana, bo imela dostop do vaših stikov in zgodovine klicev.</string>
+    <string name="bluetooth_pairing_dialog_paring_request">Naprava %1$s se želi seznaniti preko Bluetootha. Ko bo povezana, bo imela dostop do vaših stikov in zgodovine klicev.</string>
   <string name="bluetooth_pairing_dialog_sharing_phonebook_title">Želite dati telef. imenik v skupno rabo?</string>
   <string name="bluetooth_pairing_dialog_title">Želite opraviti seznanitev s to napravo?</string>
     <string name="bluetooth_pairing_error_message">Ni bilo mogoče vzpostaviti povezave z napravo %1$s.</string>
@@ -1378,14 +1378,14 @@ Za izboljšano izkušnjo pri uporabi naprave lahko aplikacije in storitve še ve
   <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Bluetooth audio aptX adaptivni način dela</string>
   <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Zaženi izbiro kodeka za Bluetooth
 aptX adaptivni način: način kodeka"</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bitov na vzorec za zvok prek Bluetootha</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bitov na vzorec za zvok preko Bluetootha</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Sproži zvočni kodek za Bluetooth
 Avdio: število bitov na vzorec"</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode">Način zvočnega kanala prek Bluetootha</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode">Način zvočnega kanala preko Bluetootha</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Sproži zvočni kodek za Bluetooth
 Avdio: način kanala"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Zvočni kodek LDAC za Bluetooth: kakovost predvajanja</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sproži kodek LDAC za zvok prek Bluetootha
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sproži kodek LDAC za zvok preko Bluetootha
 LDAC: kakovost predvajanja"</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_latency">Kodek za Bluetooth Audio LHDC: Latenca</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Zaženi izbiro kodeka za Bluetooth Audio LHDC:
@@ -1393,7 +1393,7 @@ Latenca"</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Kodek za Bluetooth Audio LHDC: Kvaliteta predvajanja</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Zaženi izbiro kodeka za Bluetooth Audio LHDC:
 Kvaliteta predvajanja"</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate">Hitrost vzorčenja zvoka prek Bluetootha</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate">Hitrost vzorčenja zvoka preko Bluetootha</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Sproži zvočni kodek za Bluetooth
 Avdio: hitrost vzorčenja"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Pretočno predvajanje: %1$s</string>
@@ -1416,7 +1416,7 @@ Avdio"</string>
     <string name="bluetooth_talkback_imaging">Naprava za zajem slik</string>
     <string name="bluetooth_talkback_input_peripheral">Zunanja dodatna oprema</string>
   <string name="bluetooth_talkback_phone">Telefon</string>
-  <string name="bluetooth_tether_checkbox_text">Splet prek Bluetootha</string>
+  <string name="bluetooth_tether_checkbox_text">Splet preko Bluetootha</string>
   <string name="bluetooth_tethering_available_subtext">Skupna raba spletne povezave tega telefona</string>
   <string name="bluetooth_tethering_device_connected_subtext">"Spletno povezavo tega telefona souporablja ena naprava"</string>
   <string name="bluetooth_tethering_devices_connected_subtext">"Št. naprav ki si deli spletno povezavo tega telefona: %1$d"</string>
@@ -1424,7 +1424,7 @@ Avdio"</string>
   <string name="bluetooth_tethering_off_subtext">"Brez skupne rabe spletne povezave tega telefona"</string>
   <string name="bluetooth_tethering_off_subtext_config">Skupna raba spletne povezave naprave %1$d</string>
     <string name="bluetooth_tethering_overflow_error">Povezava ni mogoča z več kot %1$d naprav.</string>
-    <string name="bluetooth_tethering_subtext">Skupna raba spletne povezave telefona prek Bluetootha</string>
+    <string name="bluetooth_tethering_subtext">Skupna raba spletne povezave telefona preko Bluetootha</string>
   <string name="bluetooth_turning_off">Izklop Bluetootha…</string>
   <string name="bluetooth_turning_on">Vklop Bluetootha…</string>
   <string name="bluetooth_unknown"/>
@@ -1768,7 +1768,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="cleaner">Čistilec</string>
   <string name="clear_activities">Počisti privzete nastavitve</string>
   <string name="clear_activities_summary">Uporabite to aplikacijo za nekatere privzete operacije</string>
-  <string name="clear_adb_keys">Preklic dovoljenj za odpr. težav prek USB</string>
+  <string name="clear_adb_keys">Preklic dovoljenj za odpr. težav preko USB</string>
   <string name="clear_all_data">Izbriši vse podatke</string>
   <string name="clear_cache_btn_text">Počisti predpomnilnik</string>
   <string name="clear_data_alert_info">Vse var. kopije, shranjene v tej napravi, bodo trajno izbrisane. Pred nadaljevanjem kopirajte pomembne stvari v računalnik in Mi Cloud.</string>
@@ -1906,7 +1906,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
     <string name="condition_battery_title">Varč. z energijo akum. je vkl.</string>
     <string name="condition_bg_data_summary">Funkcije so omejene</string>
     <string name="condition_bg_data_title">Varčevanje s podatki</string>
-  <string name="condition_cellular_summary">Splet je na voljo samo prek omrežja WiFi</string>
+  <string name="condition_cellular_summary">Splet je na voljo samo preko omrežja WiFi</string>
     <string name="condition_cellular_title">Mobilni podatki so izklopljeni</string>
     <string name="condition_device_muted_action_turn_on_sound">Vklop zvoka</string>
     <string name="condition_device_muted_summary">Za klice in obvestila</string>
@@ -1945,7 +1945,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
     <string name="confirm_device_credential_pattern">Uporaba vzorca</string>
     <string name="confirm_device_credential_pin">Uporaba kode PIN</string>
   <string name="confirm_download_cancelation_dialog_message">Prekličem nalaganje?</string>
-  <string name="confirm_enable_multi_window_text">OPOZORILO: To je poskusno opravilo ki prek uporabniškega vmesnika nedavnih aplikacij omogoča hkratno izvajanje več dejavnosti na zaslonu. Nekatere aplikacije se lahko pri uporabi te storitve zrušijo ali pa ne bodo delovala pravilno.</string>
+  <string name="confirm_enable_multi_window_text">OPOZORILO: To je poskusno opravilo ki preko uporabniškega vmesnika nedavnih aplikacij omogoča hkratno izvajanje več dejavnosti na zaslonu. Nekatere aplikacije se lahko pri uporabi te storitve zrušijo ali pa ne bodo delovala pravilno.</string>
   <string name="confirm_enable_multi_window_title">Ali želite omogočiti način z več okni?</string>
   <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev opravila za zaščito naprave v tej napravi ne bodo delovala.</string>
   <string name="confirm_enable_oem_unlock_title">Želite omogočiti odklepanje OEM?</string>
@@ -1996,11 +1996,11 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
     <string name="connected_devices_dashboard_summary">Bluetooth, način vožnje, NFC</string>
     <string name="connected_devices_dashboard_title">Povezane naprave</string>
   <string name="connected_tws_device_saved_title">Shranjeni slušni aparati</string>
-    <string name="connected_via_app">Povezava vzpostavljena prek omrežja %1$s</string>
-    <string name="connected_via_carrier">Vzpostavljena povezava prek: %1$s</string>
-    <string name="connected_via_network_scorer">Samodejno vzpostavljena povezava prek: %1$s</string>
-    <string name="connected_via_network_scorer_default">Samodejno vzpostavljena povezava prek ponudnika ocenjevanja omrežij</string>
-    <string name="connected_via_passpoint">Vzpostavljena povezava prek: %1$s</string>
+    <string name="connected_via_app">Povezava vzpostavljena preko omrežja %1$s</string>
+    <string name="connected_via_carrier">Vzpostavljena povezava preko: %1$s</string>
+    <string name="connected_via_network_scorer">Samodejno vzpostavljena povezava preko: %1$s</string>
+    <string name="connected_via_network_scorer_default">Samodejno vzpostavljena povezava preko ponudnika ocenjevanja omrežij</string>
+    <string name="connected_via_passpoint">Vzpostavljena povezava preko: %1$s</string>
   <string name="connected_via_wfa">Povezava vzpostavljena preko pomočnika za WiFi</string>
   <string name="connected_wifi">Povezan</string>
   <string name="connecting_to_vpn">Povezovanje na VPN</string>
@@ -2277,7 +2277,7 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
   <string name="data_usage_uninstalled_apps_users">Odstranjene aplikacije in uporabniki</string>
   <string name="data_usage_warning_editor_title">Nastavi opozorilo o uporabi podatkov</string>
     <string name="data_usage_wifi_format">^1 uporabljeno v omrežju WiFi</string>
-    <string name="data_usage_wifi_title">Podatki prek omrežij WiFi</string>
+    <string name="data_usage_wifi_title">Podatki preko omrežij WiFi</string>
     <string name="data_used">Porabljeno: ^1</string>
     <string name="data_used_formatted">Porabljeno: ^1 ^2</string>
     <string name="data_used_template">Porabljeno: %1$s</string>
@@ -2809,7 +2809,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="edit_rule">Uredi pravila</string>
   <string name="edit_rules">Uredi</string>
   <string name="eighthours">8 ur</string>
-    <string name="emergency_address_summary">Uporabljen je kot vaš naslov, ko opravite klic v sili prek WiFi-ja</string>
+    <string name="emergency_address_summary">Uporabljen je kot vaš naslov, ko opravite klic v sili preko WiFi-ja</string>
     <string name="emergency_address_title">Naslov za nujne primere</string>
     <string name="emergency_info_contextual_card_summary">Zdravstvene informacije, stiki za nujne primere</string>
     <string name="emergency_info_summary">Podatki in stiki za uporabnika %1$s</string>
@@ -2825,7 +2825,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="empty_title_auto_start_list">Ni aplik. z samod. zagonom</string>
   <string name="empty_title_perm_apps">Ni aplik. s tem dovoljenjem</string>
   <string name="empty_title_permission_apps_list">Ni aplikacij.</string>
-    <string name="enable_adb">Odpravljanje težav prek USB-ja</string>
+    <string name="enable_adb">Odpravljanje težav preko USB-ja</string>
   <string name="enable_adb_summary">Način za odpravljanje težav, ko je vzpostavljena povezava USB</string>
   <string name="enable_adb_summary_charging">Naprava je v načinu polnjenja, USB popravljanje napak je onemogočeno</string>
   <string name="enable_atrace">Vključi ATrace</string>
@@ -2935,7 +2935,7 @@ To je v pomoč pri zaščiti podatkov v izgubljenih ali ukradenih napravah. Ali 
     <string name="enhanced_4g_lte_mode_summary">Uporaba storitev LTE za izboljšanje glasovne in druge komunikacije (priporočeno)</string>
     <string name="enhanced_4g_lte_mode_summary_4g_calling">Uporaba storitev 4G za izboljšanje glasovne in druge komunikacije (priporočeno)</string>
     <string name="enhanced_4g_lte_mode_title">VoLTE</string>
-    <string name="enhanced_4g_lte_mode_title_4g_calling">Klicanje prek omrežja 4G</string>
+    <string name="enhanced_4g_lte_mode_title_4g_calling">Klicanje preko omrežja 4G</string>
     <string name="enhanced_4g_lte_mode_title_advanced_calling">Napredno klicanje</string>
   <string name="enrol_fingerprint_data">Dodajte prstni odtis</string>
     <string name="enter_password">Če želite zagnati Android, vnesite geslo</string>
@@ -3047,7 +3047,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
     <string name="estimated_time_description">Ocena je odvisna od uporabe in se lahko spremeni.</string>
     <string name="estimated_time_left">Približni preostali čas</string>
   <string name="ethernet">Ethernet</string>
-    <string name="ethernet_data_template">^1 podatkov prek etherneta</string>
+    <string name="ethernet_data_template">^1 podatkov preko etherneta</string>
     <string name="ethernet_data_usage">Preneseni podatki (ethernet)</string>
   <string name="every_day">Vsak dan</string>
   <string name="exchange_account">Zamenjaj račun</string>
@@ -3929,7 +3929,7 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="keywords_gps">GPS;Lokacija;Storitev lokacije;Satelit</string>
   <string name="keywords_home">zaganjalnik</string>
   <string name="keywords_hotspot">Dostopna točka;Hotspot;Deljenje;Osebni hotspot;Premični hotspot</string>
-    <string name="keywords_hotspot_tethering">povezava s spletom preko mobilnega telefona preko kabla USB, povezava s spletom preko mobilnega telefona prek povezave Bluetooth, dostopna točka wifi</string>
+    <string name="keywords_hotspot_tethering">povezava s spletom preko mobilnega telefona preko kabla USB, povezava s spletom preko mobilnega telefona preko povezave Bluetooth, dostopna točka wifi</string>
     <string name="keywords_ignore_optimizations">prezrtje, optimizacije, dremanje, aplikacija v pripravljenosti</string>
     <string name="keywords_imei_info">imei, meid, min, različica seznama prednostnih omrežij za gostovanje, različica programske opreme za imei</string>
     <string name="keywords_install_other_apps">nameščanje aplikacij neznani viri</string>
@@ -4797,7 +4797,7 @@ Nadaljujte k dodatnim nastavitvam."</string>
   <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava WiFi (za hiter preklop med omrežji).</string>
     <string name="mobile_data_ap_mode_disabled">Ni na voljo v načinu za letalo</string>
     <string name="mobile_data_off">Prenos pod. v mob. omrežju je izklopljen</string>
-    <string name="mobile_data_settings_summary">Dostop do podatkov prek mobilnega omrežja</string>
+    <string name="mobile_data_settings_summary">Dostop do podatkov preko mobilnega omrežja</string>
     <string name="mobile_data_settings_summary_auto_switch">Ko bo ta operater v dosegu, bo telefon samodejno preklopil nanj</string>
     <string name="mobile_data_settings_title">Prenos podatkov v mobilnem omrežju</string>
     <string name="mobile_data_usage_title">Prenos podatkov aplikacij</string>
@@ -5187,7 +5187,7 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="nfc_se_route_title">Izberite način plačila</string>
   <string name="nfc_se_wallet_title">Privzeta denarnica</string>
     <string name="nfc_secure_settings_title">Varni NFC</string>
-    <string name="nfc_secure_toggle_summary">Uporabo plačevanja na prodajnih mestih in v javnem prevozu prek povezave NFC dovoli samo pri odklenjenem zaslonu</string>
+    <string name="nfc_secure_toggle_summary">Uporabo plačevanja na prodajnih mestih in v javnem prevozu preko povezave NFC dovoli samo pri odklenjenem zaslonu</string>
     <string name="night_display_activation_off_custom">Izklopi do %1$s</string>
     <string name="night_display_activation_off_manual">Izklopi zdaj</string>
     <string name="night_display_activation_off_twilight">Izklopi do sončnega zahoda</string>
@@ -5651,7 +5651,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="paper_mode_start_time_title">Vključi</string>
     <string name="partial_connectivity_text">Nekatere aplik./storitve morda ne bodo delovale zaradi omej. povezljivosti. Želite vseeno uporabiti?</string>
     <string name="passpoint_content">Poverilnice za %1$s</string>
-    <string name="passpoint_label">Shranjeno prek:</string>
+    <string name="passpoint_label">Shranjeno preko:</string>
   <string name="password">Geslo</string>
   <string name="passwordIncorrect">Geslo ki ste ga vnesli je napačno</string>
   <string name="password_and_security">Gesla &amp; varnost</string>
@@ -5954,9 +5954,9 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="power_center">Optimizacija baterije</string>
   <string name="power_charge_remaining">%1$s do napolnjenosti</string>
   <string name="power_charging_duration">%1$s - %2$s do napolnjenosti</string>
-  <string name="power_charging_duration_ac">%1$s – %2$s do napolnjenosti prek napajalnika</string>
-  <string name="power_charging_duration_usb">%1$s – %2$s do napolnjenosti prek USB-ja</string>
-  <string name="power_charging_duration_wireless">%1$s – %2$s do napolnjenosti prek brezž. pol.</string>
+  <string name="power_charging_duration_ac">%1$s – %2$s do napolnjenosti preko napajalnika</string>
+  <string name="power_charging_duration_usb">%1$s – %2$s do napolnjenosti preko USB-ja</string>
+  <string name="power_charging_duration_wireless">%1$s – %2$s do napolnjenosti preko brezž. pol.</string>
   <string name="power_checker">Kontrola energije</string>
     <string name="power_discharge_by">Naprava bi morala delovati do približno %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Naprava bi morala glede na način uporabe (%2$s) delovati do približno %1$s</string>
@@ -6379,8 +6379,8 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
     <string name="radio_info_ims_feature_status_available">Na voljo</string>
     <string name="radio_info_ims_feature_status_unavailable">Ni na voljo</string>
     <string name="radio_info_ims_reg_status">"Registracija storitve IMS: %1$s
-Govor prek povezave LTE: %2$s
-Govor prek povezave WiFi: %3$s
+Govor preko povezave LTE: %2$s
+Govor preko povezave WiFi: %3$s
 Videoklici: %4$s
 Vmesnik UT: %5$s"</string>
     <string name="radio_info_ims_reg_status_not_registered">Ni registrirana</string>
@@ -7618,8 +7618,8 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="sms_delivered_sound_dialog_title">Izberi zvok za dostavljeno besedilo</string>
   <string name="sms_delivered_sound_title">Sporočilo dostavljeno</string>
   <string name="sms_messages_title">Sporočila SMS</string>
-  <string name="sms_over_ims_off">Izklop SMS prek IMS</string>
-  <string name="sms_over_ims_on">Vklop SMS prek IMS</string>
+  <string name="sms_over_ims_off">Izklop SMS preko IMS</string>
+  <string name="sms_over_ims_on">Vklop SMS preko IMS</string>
     <string name="sms_preference">Nastavitev za sporočila SMS</string>
   <string name="sms_received_sound_dialog_title">Izberi zvok za prejeto besedilo</string>
   <string name="sms_received_sound_title">Sporočilo prejeto</string>
@@ -7856,7 +7856,7 @@ Pred uporabo naših storitev preberite in sprejmite naše %s."</string>
   <string name="storage_detail_apps">Aplikacije</string>
   <string name="storage_detail_audio">Zvok</string>
   <string name="storage_detail_cached">Predpomnjeni podatki</string>
-    <string name="storage_detail_dialog_other">"Med druge datoteke spadajo datoteke v skupni rabi, ki jih shranijo aplikacije, datoteke, ki jih prenesete iz spleta ali prek Bluetootha, datoteke sistema Android in druge. 
+    <string name="storage_detail_dialog_other">"Med druge datoteke spadajo datoteke v skupni rabi, ki jih shranijo aplikacije, datoteke, ki jih prenesete iz spleta ali preko Bluetootha, datoteke sistema Android in druge. 
 
 Če si želite ogledati vidno vsebino te naprave za shranjevanje ^1, se dotaknite »Razišči«."</string>
     <string name="storage_detail_dialog_system">Sistem vključuje datoteke, ki se uporabljajo za izvajanje Androida različice %s.</string>
@@ -8310,22 +8310,22 @@ Googlov pristop k sinhroniziranju podatkov, s katerim lahko dostopate do stikov,
   <string name="tether_over_limit_warning_notify_message">Izključi mobilno dostopno točko.</string>
   <string name="tether_over_limit_warning_notify_title">Dosežena omejitev podatkov za dostopno točko</string>
   <string name="tether_settings_disabled">Prenosna dostopna točka je izključena</string>
-    <string name="tether_settings_disabled_on_data_saver">Dokler je vklopljeno varčevanje s podatki, ni mogoče vzpostaviti povezave s spletom prek mobilnega telefona ali uporabljati prenosnih dostopnih točk.</string>
+    <string name="tether_settings_disabled_on_data_saver">Dokler je vklopljeno varčevanje s podatki, ni mogoče vzpostaviti povezave s spletom preko mobilnega telefona ali uporabljati prenosnih dostopnih točk.</string>
   <string name="tether_settings_launch_title">Prenosna dostopna točka</string>
-    <string name="tether_settings_summary_hotspot_off_tether_on">Spletna povezava prek telefona</string>
+    <string name="tether_settings_summary_hotspot_off_tether_on">Spletna povezava preko telefona</string>
     <string name="tether_settings_summary_hotspot_on_tether_off">Dostopna točka je vklopljena</string>
-    <string name="tether_settings_summary_hotspot_on_tether_on">Dostopna točka je vklopljena, spletna povezava prek telefona</string>
+    <string name="tether_settings_summary_hotspot_on_tether_on">Dostopna točka je vklopljena, spletna povezava preko telefona</string>
     <string name="tether_settings_title_all">Dostopna točka in skupna raba mobilnega spleta</string>
   <string name="tether_settings_title_bluetooth">Splet preko Bluetootha</string>
-  <string name="tether_settings_title_usb">Splet prek USB-ja</string>
+  <string name="tether_settings_title_usb">Splet preko USB-ja</string>
   <string name="tether_settings_title_usb_bluetooth">Deljenje povezave</string>
   <string name="tether_settings_title_wifi">Prenosna dostopna točka</string>
   <string name="tether_share_qrcode_title">Deli QR kodo</string>
   <string name="tether_use_wifi6_summary">Nekatere naprave morda ne bodo kompatibilne s standardom 802.11ax. Izključite to, če imate težave.</string>
   <string name="tether_use_wifi6_title">Podpira standard šeste generacije</string>
-    <string name="tethering_footer_info">Uporabite dostopno točko in povezavo s spletom prek mobilnega telefona, da zagotovite splet drugim napravam prek svoje mobilne podatkovne povezave.</string>
-    <string name="tethering_hardware_offload">Strojno pospeševanje za spletno povezavo prek mobilnega telefona</string>
-    <string name="tethering_hardware_offload_summary">Uporabi strojno pospeševanje za spletno povezavo prek mobilnega telefona, če je na voljo</string>
+    <string name="tethering_footer_info">Uporabite dostopno točko in povezavo s spletom preko mobilnega telefona, da zagotovite splet drugim napravam preko svoje mobilne podatkovne povezave.</string>
+    <string name="tethering_hardware_offload">Strojno pospeševanje za spletno povezavo preko mobilnega telefona</string>
+    <string name="tethering_hardware_offload_summary">Uporabi strojno pospeševanje za spletno povezavo preko mobilnega telefona, če je na voljo</string>
   <string name="tethering_help_button_text">Pomoč</string>
   <string name="tethering_help_dialog_text">&lt;b&gt;Deljenje povezave USB-om&lt;/b&gt;" 
  Lahko delite povezavo vaše Android naprave z računalnikom preko USB kabla. 
@@ -8343,7 +8343,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="tethering_help_dialog_title">Pomoč</string>
   <string name="tethering_no_sim_alert_title">Ni SIM kartice</string>
   <string name="tethering_no_sim_card_text">Vstavite SIM kartico da lahko delite podatkovno povezavo z drugimi napravami z uporabo mobilne dostopne točke ali USB skupno rabo povezave s spletom.</string>
-    <string name="tethering_settings_not_available">Nastavitve za povezavo s spletom prek mobilne naprave niso na voljo za tega uporabnika</string>
+    <string name="tethering_settings_not_available">Nastavitve za povezavo s spletom preko mobilne naprave niso na voljo za tega uporabnika</string>
   <string name="tethering_settings_summary">"Delite mobilno podatkovno omrežje vaše naprave preko USB-a ali mobilnoe dostopne točke"</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Zbudite glasovnega pomočnika v načinu dela cel zaslon (brez virtualnih tipk)</string>
     <string name="theme_customization_accent_color_title">Barva poudarka</string>
@@ -8956,7 +8956,7 @@ Iz profila bodo prav tako odstranjeni shranjeni prstni odtisi, tako da z njimi n
   <string name="usagestats_device_timeout_title">Opozorila časa zaslona</string>
   <string name="usb_adb_input">USB odpravljanje težav (Varnostne nastavitve)</string>
   <string name="usb_adb_input_desc">Dovoli odobritev dovoljenja in simulacije vstopa preko USB odpravljanja težav</string>
-    <string name="usb_audio_disable_routing">Onem. usmerjanje zvoka prek USB</string>
+    <string name="usb_audio_disable_routing">Onem. usmerjanje zvoka preko USB</string>
     <string name="usb_audio_disable_routing_summary">Onem. samod. usmerjanja na zun. zvoč. naprave USB</string>
   <string name="usb_backup_select_data_too_large">"Izbrane datoteke so velike. Preverite ali ima USB naprava dovolj prostora.
 Prenesite samo važne stvari."</string>
@@ -8988,7 +8988,7 @@ Prenesite samo važne stvari."</string>
   <string name="usb_media_format_gesture_explanation">Narišite vzorec za odklepanje za potrditev brisanja USB pomnilnika.</string>
   <string name="usb_media_format_summary">Izbriše vse podatke iz USB pomnilnika</string>
   <string name="usb_media_format_title">Izbriši USB pomnilnik</string>
-  <string name="usb_midi_summary">Omogoča da aplikacije ki podpirajo MIDI delujejo prek povezave USB s programsko opremo za MIDI v računalniku.</string>
+  <string name="usb_midi_summary">Omogoča da aplikacije ki podpirajo MIDI delujejo preko povezave USB s programsko opremo za MIDI v računalniku.</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">Naloži USB pomnilnik</string>
   <string name="usb_mount_summary"/>
@@ -9014,17 +9014,17 @@ Prenos smo važnih stvari bo hitrejši."</string>
   <string name="usb_summary_photo_transfers">PTP</string>
     <string name="usb_summary_photo_transfers_power">PTP in napajanje</string>
     <string name="usb_summary_power_only">Polnjenje akumulatorja v povezani napravi</string>
-    <string name="usb_summary_tether">Splet prek USB-ja</string>
-    <string name="usb_summary_tether_power">Splet in napajanje prek USB-ja</string>
+    <string name="usb_summary_tether">Splet preko USB-ja</string>
+    <string name="usb_summary_tether_power">Splet in napajanje preko USB-ja</string>
     <string name="usb_switching">Preklapljanje …</string>
     <string name="usb_switching_failed">Preklop ni uspel</string>
-  <string name="usb_tethering_active_subtext">Uporablja se spletna povezava prek telefona</string>
+  <string name="usb_tethering_active_subtext">Uporablja se spletna povezava preko telefona</string>
   <string name="usb_tethering_available_subtext">Povezava USB je vzpostavljena, izberite za spletno povezavo preko telefona</string>
   <string name="usb_tethering_button_text">Spletna povezava preko USB</string>
   <string name="usb_tethering_desc">Uporabi napravo za skupno rabo povezave preko USB-ja</string>
   <string name="usb_tethering_errored_subtext">Napaka deljenja povezave preko USB</string>
-  <string name="usb_tethering_storage_active_subtext">Spletna povezava prek telefona ni mogoča kadar se uporablja pomnilnik USB</string>
-    <string name="usb_tethering_subtext">Skupna raba spletne povezave telefona prek USB-ja</string>
+  <string name="usb_tethering_storage_active_subtext">Spletna povezava preko telefona ni mogoča kadar se uporablja pomnilnik USB</string>
+    <string name="usb_tethering_subtext">Skupna raba spletne povezave telefona preko USB-ja</string>
   <string name="usb_tethering_title">USB deljenje povezave</string>
   <string name="usb_tethering_turnon_subtext">Za vklop se povežite</string>
   <string name="usb_tethering_unavailable_subtext">Povezava USB ni vzpostavljena</string>
@@ -9046,7 +9046,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
     <string name="usb_use_photo_transfers">PTP</string>
     <string name="usb_use_photo_transfers_desc">Prenos fotografij ali datotek, če MTP ni podprt (PTP)</string>
     <string name="usb_use_power_only">Polnjenje priključene naprave</string>
-    <string name="usb_use_power_only_desc">Napolni povezano napravo. Deluje samo z napravami, ki podpirajo polnjenje prek USB-ja.</string>
+    <string name="usb_use_power_only_desc">Napolni povezano napravo. Deluje samo z napravami, ki podpirajo polnjenje preko USB-ja.</string>
   <string name="usb_use_tethering">USB deljenje</string>
   <string name="use_control_panel">Uporabite novi Center za kontrolo</string>
   <string name="use_default_tts_settings_summary">Spodnje privzete nastavitve preglasijo nastavitve aplikacije</string>
@@ -9189,8 +9189,8 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="v7_preference_on">VKLJUČENO</string>
   <string name="verify_applications">Potrdi aplikacije</string>
   <string name="verify_applications_summary">Onemogoči namestitev zlonamernih aplikacij ali opozori na njih</string>
-    <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije nameščene prek ADB/ADT škodljive.</string>
-    <string name="verify_apps_over_usb_title">Preveri aplikacije prek USB</string>
+    <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije nameščene preko ADB/ADT škodljive.</string>
+    <string name="verify_apps_over_usb_title">Preveri aplikacije preko USB</string>
     <string name="version_text">različica %1$s</string>
   <string name="vibrate_category_title">Vibriranje</string>
   <string name="vibrate_in_normal_title">Vibriranje pri klicih</string>
@@ -9201,7 +9201,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="vibrate_on_touch_title">Vibriranje na dotik</string>
   <string name="vibrate_title">Vibracija</string>
   <string name="vibrate_when_ringing_title">Vibracija tudi za klice</string>
-    <string name="video_calling_settings_title">Videoklicanje prek operaterja</string>
+    <string name="video_calling_settings_title">Videoklicanje preko operaterja</string>
   <string name="video_tool_box_title">Orodje za videoposnetke</string>
   <string name="view_install_log">Pokaži poročilo</string>
   <string name="view_password_description">Pokaži geslo</string>
@@ -9262,7 +9262,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="voice_input_settings_title">Glasovni vnos</string>
     <string name="voice_interaction_security_warning">Storitev glasovnega vnosa bo lahko izvajala stalno vklopljeno nadziranje glasu in v vašem imenu upravljala aplikacije, ki omogočajo glasovno upravljanje. Storitev izvira iz aplikacije %s. Želite omogočiti njeno uporabo?</string>
     <string name="voice_interactor_preference_summary">Polna uporaba sprožilnih besed in govora</string>
-  <string name="voice_over_lte">Glas prek LTE</string>
+  <string name="voice_over_lte">Glas preko LTE</string>
     <string name="voice_recognizer_preference_summary">Pretvorba preprostega govora v besedilo</string>
   <string name="voice_search_settings_title">Glasovno iskanje</string>
   <string name="voice_service_preference_section_title">Storitve glasovnega vnosa</string>
@@ -9323,7 +9323,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="vpn_l2tp_secret">Skrivnost L2TP</string>
   <string name="vpn_lockdown_config_error">Za stalno vklopljeno navidezno zasebno omrežje je potreben naslov IP tako za strežnik kot za DNS.</string>
   <string name="vpn_lockdown_none">Brez</string>
-  <string name="vpn_lockdown_summary">Izberite profil za navidezno zasebno omrežje (VPN) s katerim boste vedno povezani. Omrežni promet bo dovoljen samo prek tega omrežja VPN.</string>
+  <string name="vpn_lockdown_summary">Izberite profil za navidezno zasebno omrežje (VPN) s katerim boste vedno povezani. Omrežni promet bo dovoljen samo preko tega omrežja VPN.</string>
   <string name="vpn_menu_delete">Brisanja profila</string>
   <string name="vpn_menu_edit">Urejanje profila</string>
   <string name="vpn_menu_lockdown">Stalno vklopljen VPN</string>
@@ -9436,7 +9436,7 @@ Ne zapirajte stran pred vzpostavljanjem povezave."</string>
   <string name="wellbing_title">Digitalna dobrobit in starševski nadzor</string>
     <string name="wfc_disclaimer_agree_button_text">NADALJUJ</string>
     <string name="wfc_disclaimer_disagree_text">NE, HVALA</string>
-    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Vaš operater ne podpira klicev v sili, opravljenih s funkcijo Klicanje prek WiFi-ja.
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Vaš operater ne podpira klicev v sili, opravljenih s funkcijo Klicanje preko WiFi-ja.
 Naprava samodejno preklopi na mobilno omrežje, da opravi klic v sili.
 Klici v sili so mogoči samo na območjih, ki so pokrita z mobilnim signalom."</string>
     <string name="wfc_disclaimer_emergency_limitation_title_text">Klici v sili</string>
@@ -9445,7 +9445,7 @@ Klici v sili so mogoči samo na območjih, ki so pokrita z mobilnim signalom."</
 Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
     <string name="wfc_disclaimer_location_title_text">Lokacija</string>
     <string name="wfc_disclaimer_title_text">Pomembne informacije</string>
-    <string name="wfc_provisioned_switch_string">Klicanje prek WiFi-ja je pripravljeno</string>
+    <string name="wfc_provisioned_switch_string">Klicanje preko WiFi-ja je pripravljeno</string>
   <string name="wfd_available_devices">Naprave ki so na voljo</string>
   <string name="wfd_disconnect_diag_msg">Prekinem povezovanje z %1$s?</string>
   <string name="wfd_disconnect_diag_title">Prekinem povezovanje?</string>
@@ -9549,25 +9549,25 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
     <string name="wifi_calling_mode_cellular_preferred_summary">Uporaba omrežja WiFi, če mobilno omrežje ni dosegljivo</string>
     <string name="wifi_calling_mode_dialog_title">Nastavitev klicanja</string>
   <string name="wifi_calling_mode_title">Nastavitev klicanja</string>
-    <string name="wifi_calling_mode_wifi_only_summary">Klic prek omrežja WiFi. Če izgubite povezavo WiFi, bo klic končan.</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Klic preko omrežja WiFi. Če izgubite povezavo WiFi, bo klic končan.</string>
     <string name="wifi_calling_mode_wifi_preferred_summary">Uporaba mobilnega omrežja, če omrežje WiFi ni dosegljivo</string>
-    <string name="wifi_calling_not_supported">Operater %1$s ne podpira klicanja prek WiFi-ja</string>
-  <string name="wifi_calling_off_explanation">Ko je vklopljeno klicanje prek omrežja WiFi lahko telefon preusmeri klice prek omrežij WiFi ali omrežja operaterja na podlagi vaše nastavitve in moči signala. Pred vklopom te storitve pri operaterju preverite cene in druge podrobnosti.</string>
+    <string name="wifi_calling_not_supported">Operater %1$s ne podpira klicanja preko WiFi-ja</string>
+  <string name="wifi_calling_off_explanation">Ko je vklopljeno klicanje preko omrežja WiFi lahko telefon preusmeri klice preko omrežij WiFi ali omrežja operaterja na podlagi vaše nastavitve in moči signala. Pred vklopom te storitve pri operaterju preverite cene in druge podrobnosti.</string>
   <string name="wifi_calling_off_explanation_2"/>
     <string name="wifi_calling_pref_managed_by_carrier">Nastavitev upravlja operater</string>
     <string name="wifi_calling_roaming_mode_dialog_title">Prednostna izbira za gostovanje</string>
     <string name="wifi_calling_roaming_mode_title">Prednostna izbira za gostovanje</string>
-    <string name="wifi_calling_settings_activation_instructions">Aktivirajte klicanje prek WiFi-ja</string>
-  <string name="wifi_calling_settings_title">Klicanje prek WiFi-ja</string>
-    <string name="wifi_calling_suggestion_summary">Vklopite klicanje prek WiFi-ja, da povečate pokritost</string>
+    <string name="wifi_calling_settings_activation_instructions">Aktivirajte klicanje preko WiFi-ja</string>
+  <string name="wifi_calling_settings_title">Klicanje preko WiFi-ja</string>
+    <string name="wifi_calling_suggestion_summary">Vklopite klicanje preko WiFi-ja, da povečate pokritost</string>
     <string name="wifi_calling_suggestion_title">Razširite območje klicanja s povezavo WiFi</string>
     <string name="wifi_calling_summary">Uporabljajte omrežje WiFi za izboljšanje kakovosti klicev</string>
-    <string name="wifi_calling_turn_on">Vklopite klicanje prek WiFi-ja</string>
+    <string name="wifi_calling_turn_on">Vklopite klicanje preko WiFi-ja</string>
   <string name="wifi_cancel">Prekliči</string>
     <string name="wifi_cant_connect">Povezava ni mogoča</string>
     <string name="wifi_cant_connect_to_ap">Povezava z aplikacijo »%1$s« ni mogoča</string>
     <string name="wifi_carrier_connect">Omrežje WiFi operaterja</string>
-    <string name="wifi_carrier_content">Povezava prek omrežja %1$s</string>
+    <string name="wifi_carrier_content">Povezava preko omrežja %1$s</string>
     <string name="wifi_cellular_data_fallback_summary">Uporaba prenosa podatkov v mobilnih omrežjih, če WiFi nima dostopa do spleta. Pri tem bodo morda nastali stroški prenosa podatkov v mobilnih omrežjih.</string>
     <string name="wifi_cellular_data_fallback_title">Samodejno preklopi na prenos podatkov v mobilnih omrežjih</string>
   <string name="wifi_certificate">Certifikat</string>
@@ -9598,7 +9598,7 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
   <string name="wifi_context_menu_forget">Pozabi</string>
   <string name="wifi_coverage_extend">Omogoči storitev širjenja pokritosti WiFi-ja</string>
   <string name="wifi_coverage_extend_summary">Omogoči širjenje WiFi pokritosti preko dostopne točke</string>
-    <string name="wifi_data_template">^1 podatkov prek omrežij WiFi</string>
+    <string name="wifi_data_template">^1 podatkov preko omrežij WiFi</string>
     <string name="wifi_data_usage">Preneseni podatki (WiFi)</string>
   <string name="wifi_datanetwork_switch_not_remind">"Ne kaži več"</string>
   <string name="wifi_details_dns">DNS</string>
@@ -9613,7 +9613,7 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
   <string name="wifi_disabled_help">WiFi povezava je bila prekinjena zaradi slabe povezave</string>
     <string name="wifi_disabled_network_failure">Konfiguracija IP-ja ni uspela</string>
   <string name="wifi_disabled_password_failure">Težava s preverjanjem pristnosti</string>
-    <string name="wifi_disabled_wifi_failure">Povezava prek WiFi-ja ni uspela</string>
+    <string name="wifi_disabled_wifi_failure">Povezava preko WiFi-ja ni uspela</string>
     <string name="wifi_disconnect_button_text">Prekini povezavo</string>
     <string name="wifi_disconnected">Ni povezave</string>
   <string name="wifi_disconnected_notification_summary">"Niste več povezani na WiFi."</string>
@@ -9732,7 +9732,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
     <string name="wifi_hotspot_configure_ap_text_summary">Dostopna točka AndroidAP WPA2 PSK</string>
   <string name="wifi_hotspot_connect">POVEŽI</string>
     <string name="wifi_hotspot_footer_info_local_only">Aplikacije lahko ustvarijo dostopno točko za skupno rabo vsebin z napravami v bližini.</string>
-    <string name="wifi_hotspot_footer_info_regular">Uporabite dostopno točko, da ustvarite omrežje WiFi za svoje druge naprave. Dostopna točka omogoča uporabo spleta prek mobilne podatkovne povezave, zato lahko nastanejo dodatni stroški prenosa podatkov v mobilnih omrežjih.</string>
+    <string name="wifi_hotspot_footer_info_regular">Uporabite dostopno točko, da ustvarite omrežje WiFi za svoje druge naprave. Dostopna točka omogoča uporabo spleta preko mobilne podatkovne povezave, zato lahko nastanejo dodatni stroški prenosa podatkov v mobilnih omrežjih.</string>
     <string name="wifi_hotspot_message">%1$s zahteva spletno prijavo pred povezavo v omrežje.</string>
     <string name="wifi_hotspot_name_summary_connected">Druge naprave se lahko povežejo z dostopno točko %1$s</string>
     <string name="wifi_hotspot_name_summary_connecting">Vklapljanje dostopne točke %1$s...</string>
@@ -9741,7 +9741,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
     <string name="wifi_hotspot_off_subtext">Spletna povezava ali vsebina ni v skupni rabi z drugimi napravami</string>
     <string name="wifi_hotspot_on_local_only_subtext">Aplikacija daje vsebino v skupno rabo. Če želite omogočiti skupno rabo spletne povezave, dostopno točko izklopite in znova vklopite.</string>
     <string name="wifi_hotspot_password_title">Geslo za dostopno točko</string>
-    <string name="wifi_hotspot_tethering_on_subtext">Skupna raba spletne povezave tega telefona prek dostopne točke</string>
+    <string name="wifi_hotspot_tethering_on_subtext">Skupna raba spletne povezave tega telefona preko dostopne točke</string>
   <string name="wifi_hotspot_title">Ali se želite prijaviti da se lahko povežete?</string>
   <string name="wifi_in_airplane_mode">V načinu Letalo</string>
   <string name="wifi_info_reconnect">Povezava ni uspela, poskusite ponovno!</string>

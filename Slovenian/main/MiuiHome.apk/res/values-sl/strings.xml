@@ -25,7 +25,7 @@
     <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
     <string name="abc_searchview_description_voice">Glasovno iskanje</string>
     <string name="abc_shareactionprovider_share_with">Skupna raba z</string>
-    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
+    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="accessibility_all_app_custom_category_finish">Končano</string>
   <string name="accessibility_all_app_custom_category_item_remove">Odstrani \"%1$s\" iz kategorij</string>
@@ -532,7 +532,7 @@
   <string name="start_activity_failed">"Ne morem zagnati vmesnika"</string>
   <string name="starting_preset_app">Začenjam…</string>
   <string name="status_bar_recent_memory_giga">%1$s GB</string>
-  <string name="status_bar_recent_memory_info1">Na voljo %1$sB od %2$sB</string>
+  <string name="status_bar_recent_memory_info1">Na voljo %1$s od %2$s</string>
   <string name="status_bar_recent_memory_info2"/>	 
   <string name="status_bar_recent_memory_mega">%1$s MB</string>
   <string name="status_downloaded">Prenešeno</string>

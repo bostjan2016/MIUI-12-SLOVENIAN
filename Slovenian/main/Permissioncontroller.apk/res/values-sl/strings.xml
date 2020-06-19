@@ -25,7 +25,7 @@
     <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
     <string name="abc_searchview_description_voice">Glasovno iskanje</string>
     <string name="abc_shareactionprovider_share_with">Skupna raba z</string>
-    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
+    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
     <string name="additional_permissions">Dodatna dovoljenja</string>
     <string name="all_permissions">Vsa dovoljenja</string>
@@ -203,7 +203,7 @@
     <string name="role_label_gallery">Aplikacija Galerija</string>
     <string name="role_label_home">Aplikacija na začetnem zaslonu</string>
     <string name="role_label_music">Aplikacija Glasba</string>
-    <string name="role_label_proxy_calling">Apl. za klice prek posrednika</string>
+    <string name="role_label_proxy_calling">Apl. za klice preko posrednika</string>
     <string name="role_label_sms">Aplikacija za SMS-je</string>
     <string name="role_request_message_add">Uporabim ime aplikacije &lt;b>%1$s&lt;/b> kot %2$s?</string>
     <string name="role_request_message_replace">Uporabim novo ime aplikacije &lt;b>%1$s&lt;/b> namesto trenutnega &lt;b>%1$s&lt;/b> kao %2$s?</string>

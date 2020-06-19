@@ -25,7 +25,7 @@
     <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
     <string name="abc_searchview_description_voice">Glasovno iskanje</string>
     <string name="abc_shareactionprovider_share_with">Deljenje z</string>
-    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
+    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">To je preskusna storitev in lahko vpliva na učinkovitost delovanja.</string>
     <string name="accessibility_display_daltonizer_preference_title">Popravljanje barv</string>
@@ -40,7 +40,7 @@
     <string name="accessibility_wifi_three_bars">Tri črtice signala WiFi.</string>
     <string name="accessibility_wifi_two_bars">Dve črtici signala WiFi.</string>
     <string name="active_input_method_subtypes">Aktivni načini vnosa</string>
-    <string name="adb_keys_warning_message">Ali želite preklicati dostop do odpravljanja težav prek povezave USB iz vseh računalnikov, ki ste jih pooblastili?</string>
+    <string name="adb_keys_warning_message">Ali želite preklicati dostop do odpravljanja težav preko povezave USB iz vseh računalnikov, ki ste jih pooblastili?</string>
     <string name="adb_warning_message">Odpravljanje težav s povezavo USB je namenjeno samo za razvoj. Lahko ga uporabljate za kopiranje podatkov med računalnikom in napravo, nameščanje aplikacij v napravo brez obveščanja in branje podatkov v dnevniku.</string>
     <string name="adb_warning_title">Ali dovolite odpravljanje težav s povezavo USB?</string>
     <string name="add_channel">Dodaj kanal</string>
@@ -54,8 +54,8 @@
     <string name="apn_settings_not_available">Nastavitve imena dostopne točke niso na voljo za tega uporabnika</string>
     <string name="app_label">Nujna opozorila</string>
     <string name="app_process_limit_title">Omejitev postopkov v ozadju</string>
-    <string name="available_via_carrier">Na voljo prek: %1$s</string>
-    <string name="available_via_passpoint">Na voljo prek: %1$s</string>
+    <string name="available_via_carrier">Na voljo preko: %1$s</string>
+    <string name="available_via_passpoint">Na voljo preko: %1$s</string>
     <string name="battery_info_status_charging">Polnjenje</string>
     <string name="battery_info_status_charging_lower">polnjenje</string>
     <string name="battery_info_status_discharging">Se ne polni</string>
@@ -125,16 +125,16 @@
     <string name="bluetooth_profile_sap">Dostop do kartice SIM</string>
     <string name="bluetooth_sap_profile_summary_connected">Vzpostavljena povezava s profilom SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do kartice SIM</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Število bitov na vzorec za zvok prek Bluetootha</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Število bitov na vzorec za zvok preko Bluetootha</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Sproži zvočni kodek za Bluetooth
 Izbor: število bitov na vzorec"</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode">Način zvočnega kanala prek Bluetootha</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode">Način zvočnega kanala preko Bluetootha</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Sproži zvočni kodek za Bluetooth
 Izbor: način kanala"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Zvočni kodek LDAC za Bluetooth: kakovost predvajanja</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sproži kodek LDAC za zvok prek Bluetootha
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sproži kodek LDAC za zvok preko Bluetootha
 Izbira kodeka: kakovost predvajanja"</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate">Hitrost vzorčenja zvoka prek Bluetootha</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate">Hitrost vzorčenja zvoka preko Bluetootha</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Sproži zvočni kodek za Bluetooth
 Izbor: hitrost vzorčenja"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Pretočno predvajanje: %1$s</string>
@@ -188,7 +188,7 @@ Izbor"</string>
     <string name="cell_broadcast_settings_not_available">Nastavitve sporočil o trenutni lokaciji niso na voljo za tega uporabnika</string>
     <string name="charge_length_format">Pred %1$s</string>
     <string name="choose_profile">Izbira profila</string>
-    <string name="clear_adb_keys">Preklic dovoljenj za odpr. težav prek USB</string>
+    <string name="clear_adb_keys">Preklic dovoljenj za odpr. težav preko USB</string>
     <string name="cmas_amber_alert">Ugrabitev otroka (oranžno opozorilo)</string>
     <string name="cmas_category_cbrne">Kemična/biološka/jedrska/eksploziv</string>
     <string name="cmas_category_env">Okoljska</string>
@@ -239,8 +239,8 @@ Izbor"</string>
     <string name="connected_via_app">Povezano preko omrežja %1$s</string>
     <string name="connected_via_carrier">Vzpostavljena povezava preko %1$s</string>
     <string name="connected_via_network_scorer">Samodejno vzpostavljena povezava preko %1$s</string>
-    <string name="connected_via_network_scorer_default">Samodejno vzpostavljena povezava prek ponudnika ocenjevanja omrežij</string>
-    <string name="connected_via_passpoint">Vzpostavljena povezava prek: %1$s</string>
+    <string name="connected_via_network_scorer_default">Samodejno vzpostavljena povezava preko ponudnika ocenjevanja omrežij</string>
+    <string name="connected_via_passpoint">Vzpostavljena povezava preko: %1$s</string>
     <string name="content_description_menu_button">Meni</string>
     <string name="convert_to_fbe_warning">"Preklop particije s podatki na šifriranje na ravni datotek.
  !!Opozorilo!! S tem bodo izbrisani vsi podatki.
@@ -296,7 +296,7 @@ Izbor"</string>
     <string name="emergency_alert_settings_title_watches">Brezžična nujna opozorila</string>
     <string name="emergency_alerts_title">Opozorila</string>
     <string name="enable">Omogoči</string>
-    <string name="enable_adb">Odpravljanje težav prek USB</string>
+    <string name="enable_adb">Odpravljanje težav preko USB</string>
     <string name="enable_adb_summary">Način za odpravljanje težav, ko je vzpostavljena povezava USB</string>
     <string name="enable_alert_message_summary">Opozarjanje na neposredne varnostne grožnje</string>
     <string name="enable_alert_message_title">Sporočila opozoril</string>
@@ -529,13 +529,13 @@ Izbor"</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="tap_to_sign_up">Dotaknite se, če se želite registrirati</string>
     <string name="tether_settings_title_all">Modem/prenosna dost. točka</string>
-    <string name="tether_settings_title_bluetooth">Splet prek Bluetootha</string>
-    <string name="tether_settings_title_usb">Splet prek USB-ja</string>
-    <string name="tether_settings_title_usb_bluetooth">Splet prek mob. napr.</string>
+    <string name="tether_settings_title_bluetooth">Splet preko Bluetootha</string>
+    <string name="tether_settings_title_usb">Splet preko USB-ja</string>
+    <string name="tether_settings_title_usb_bluetooth">Splet preko mob. napr.</string>
     <string name="tether_settings_title_wifi">Prenosna dostopna točka</string>
-    <string name="tethering_hardware_offload">Strojno pospeševanje za spletno povezavo prek mobilnega telefona</string>
-    <string name="tethering_hardware_offload_summary">Uporabi strojno pospeševanje za spletno povezavo prek mobilnega telefona, če je na voljo</string>
-    <string name="tethering_settings_not_available">Nastavitve za povezavo s spletom prek mobilne naprave niso na voljo za tega uporabnika</string>
+    <string name="tethering_hardware_offload">Strojno pospeševanje za spletno povezavo preko mobilnega telefona</string>
+    <string name="tethering_hardware_offload_summary">Uporabi strojno pospeševanje za spletno povezavo preko mobilnega telefona, če je na voljo</string>
+    <string name="tethering_settings_not_available">Nastavitve za povezavo s spletom preko mobilne naprave niso na voljo za tega uporabnika</string>
     <string name="time_unit_just_now">Pravkar</string>
     <string name="title_convert_fbe">Preklop na šifriranje na ravni datotek</string>
     <string name="track_frame_time">Upod. profilov z GPE</string>
@@ -571,7 +571,7 @@ Izbor"</string>
     <string name="unknown">Neznano</string>
     <string name="updating_settings">Nastavitve posodabljanja</string>
     <string name="updating_title">Nastavitve klicev</string>
-    <string name="usb_audio_disable_routing">Onem. usmerjanje zvoka prek USB</string>
+    <string name="usb_audio_disable_routing">Onem. usmerjanje zvoka preko USB</string>
     <string name="usb_audio_disable_routing_summary">Onem. samod. usmerjanja na zun. zvoč. naprave USB</string>
     <string name="use_full_volume_summary">Prezri druge nastavitve glasnosti in načina »ne moti«</string>
     <string name="use_full_volume_title">Uporabi največjo glasnost</string>
@@ -579,8 +579,8 @@ Izbor"</string>
     <string name="user_guest">Gost</string>
     <string name="v7_preference_off">IZKLOPLJENO</string>
     <string name="v7_preference_on">VKLOPLJENO</string>
-    <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije, nameščene prek ADB/ADT, škodljive.</string>
-    <string name="verify_apps_over_usb_title">Preveri aplikacije prek USB</string>
+    <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije, nameščene preko ADB/ADT, škodljive.</string>
+    <string name="verify_apps_over_usb_title">Preveri aplikacije preko USB</string>
     <string name="view_details_title">Podrobnosti opozorila</string>
     <string name="vpn_settings_not_available">Nastavitve VPN niso na voljo za tega uporabnika</string>
     <string name="wait_for_debugger">Počakajte na iskalnik napak</string>
@@ -596,7 +596,7 @@ Izbor"</string>
     <string name="wifi_disabled_generic">Onemogočeno</string>
     <string name="wifi_disabled_network_failure">Konfiguracija IP-ja ni uspela</string>
     <string name="wifi_disabled_password_failure">Težava s preverjanjem pristnosti</string>
-    <string name="wifi_disabled_wifi_failure">Povezava prek WiFi-ja ni uspela</string>
+    <string name="wifi_disabled_wifi_failure">Povezava preko WiFi-ja ni uspela</string>
     <string name="wifi_disconnected">Ni povezano</string>
     <string name="wifi_display_certification">Potrdilo brezžičnega zaslona</string>
     <string name="wifi_display_certification_summary">Pokaži možnosti za potrdilo brezžičnega zaslona</string>

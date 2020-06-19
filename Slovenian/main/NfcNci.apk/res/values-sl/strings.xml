@@ -8,7 +8,7 @@
   <string name="beam_canceled">Prenos je preklican</string>
   <string name="beam_complete">Prenos končan</string>
   <string name="beam_failed">"Ne morem predvajati"</string>
-  <string name="beam_handover_not_supported">Prejemnikova naprava ne podpira prenosa velikih datotek prek opravila Android Beam.</string>
+  <string name="beam_handover_not_supported">Prejemnikova naprava ne podpira prenosa velikih datotek preko opravila Android Beam.</string>
   <string name="beam_outgoing">Prenašanje ...</string>
   <string name="beam_progress">Dohodni prenos ...</string>
   <string name="beam_requires_nfc_enabled">Za Android Beam mora biti omogočen NFC. Ali ga želite omogočiti?</string>
@@ -27,14 +27,14 @@
   <string name="disconnecting_peripheral">Prekinjanje povezave z napravo %1$s</string>
   <string name="failed_to_enable_bt">Bluetootha ni mogoče omogočiti</string>
   <string name="inbound_me_profile_text">Tapnite če želite dodati to osebo kot stik.</string>
-  <string name="inbound_me_profile_title">Stik prejet prek NFC-ja</string>
+  <string name="inbound_me_profile_title">Stik prejet preko NFC-ja</string>
   <string name="nfcUserLabel">NFC</string>
   <string name="nfc_enabled_dialog">"Nfc je trenutno onemogočen. 
 Ga želite omogočiti za NFC storitev"</string>
   <string name="no">Ne</string>
   <string name="ok">V redu</string>
   <string name="outbound_me_profile_text">Tapnite če želite tej osebi poslati svoje podatke za stik.</string>
-  <string name="outbound_me_profile_title">Pošiljanje prek NFC-ja končano</string>
+  <string name="outbound_me_profile_title">Pošiljanje preko NFC-ja končano</string>
   <string name="pair_no">Ne</string>
   <string name="pair_yes">Da</string>
   <string name="pairing_peripheral">Seznanjanje naprave %1$s</string>

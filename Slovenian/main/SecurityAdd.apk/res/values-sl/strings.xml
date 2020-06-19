@@ -25,7 +25,7 @@
   <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
   <string name="abc_searchview_description_voice">Glasovno iskanje</string>
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
-    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
+    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi preko aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="ad_downloading">Prenos…</string>
   <string name="add_done">Uspešno dodano</string>

@@ -51,7 +51,7 @@ Način preverjanja pristnosti: EAP-%5$s
   <string name="wifi_detail_title">Podrobnosti za %s</string>
   <string name="wifi_dismiss_label">Opusti</string>
   <string name="wifi_install_label">Namesti</string>
-  <string name="wifi_installer_detail">Namestite poverilnice za WiFi, če se želite povezati v razpoložljiva omrežja prek %1$s.</string>
+  <string name="wifi_installer_detail">Namestite poverilnice za WiFi, če se želite povezati v razpoložljiva omrežja preko %1$s.</string>
   <string name="wifi_installer_download_error">Prenesena datoteka ima težave in je ni mogoče namestiti. Preverite ali ste datoteko prenesli iz pravega vira.</string>
   <string name="wifi_installer_fail">Poverilnic za WiFi ni mogoče namestiti. Poskusite prenesti datoteko znova.</string>
   <string name="wifi_installer_fail_no_wifi">Vklopite WiFi in poskusite znova.</string>

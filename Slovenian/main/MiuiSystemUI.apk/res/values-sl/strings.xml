@@ -18,7 +18,7 @@
     <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
     <string name="abc_searchview_description_voice">Glasovno iskanje</string>
     <string name="abc_shareactionprovider_share_with">Deljenje z</string>
-    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
+    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi preko aplikacije %s</string>
   <string name="abc_slice_error">Povezovanje ni možno</string>
   <string name="abc_slice_more">Več</string>
   <string name="abc_slice_more_content">še %1$d</string>
@@ -983,7 +983,7 @@ prednostno"</string>
     <string name="invalid_charger">"Polnjenje preko povezave USB ni podprto.
 Uporabite priloženi polnilnik."</string>
     <string name="invalid_charger_text">Uporabljajte samo priloženi polnilnik.</string>
-    <string name="invalid_charger_title">Polnjenje prek USB-ja ni podprto.</string>
+    <string name="invalid_charger_title">Polnjenje preko USB-ja ni podprto.</string>
   <string name="invalid_confirm_pin_hint">"PIN-i se ne ujemajo"</string>
   <string name="invalid_sim_pin_hint">PIN mora imeti od 4 do 8 številk</string>
   <string name="invalid_sim_puk_hint">PUK mora imeti 8 ali več številk</string>
@@ -2103,12 +2103,12 @@ morda nadzira"</string>
     <string name="telephony_monitor_switch_summary">Opravilo Nadziranje telefonije pridobi dnevnike, ko zazna težavo z opravili telefonije/modema, in uporabnika z obvestilom pozove, naj prijavi napako.</string>
     <string name="tether_settings_title_all">Modem/prenosna dost. točka</string>
     <string name="tether_settings_title_bluetooth">Şplet preko Bluetootha</string>
-    <string name="tether_settings_title_usb">Şplet prek USB-ja</string>
-    <string name="tether_settings_title_usb_bluetooth">Şplet prek mob. napr.</string>
+    <string name="tether_settings_title_usb">Şplet preko USB-ja</string>
+    <string name="tether_settings_title_usb_bluetooth">Şplet preko mob. napr.</string>
     <string name="tether_settings_title_wifi">Prenosna dostopna točka</string>
   <string name="tethering_hardware_offload">Skupna raba strojnega pospeševanja</string>
-  <string name="tethering_hardware_offload_summary">Uporabi skupno rabo strojnega pospeševanja če je Na voljo</string>
-    <string name="tethering_settings_not_available">Nastavitve za povezavo s spletom prek mobilne naprave niso na voljo za tega uporabnika</string>
+  <string name="tethering_hardware_offload_summary">Uporabi skupno rabo strojnega pospeševanja če je na voljo</string>
+    <string name="tethering_settings_not_available">Nastavitve za povezavo s spletom preko mobilne naprave niso na voljo za tega uporabnika</string>
   <string name="theme">Tema</string>
     <string name="thermal_shutdown_dialog_message">"Telefon je bil prevroč, zato se je izklopil, da se ohladi. Zdaj normalno deluje.
 
@@ -2194,14 +2194,14 @@ Telefon lahko postane prevroč ob:
     <string name="usb_accessory_confirm_prompt">Želite, da se odpre %1$s, ko priključite ta dodatek USB?</string>
     <string name="usb_accessory_permission_prompt">Želite dovoliti aplikaciji %1$s dostop do dodatka USB?</string>
     <string name="usb_accessory_uri_prompt">Namešč. prog. ne delujejo s tem dodatkom USB. Več o tem dodatku preberite na %1$s</string>
-    <string name="usb_audio_disable_routing">On. us. zvoka prek USB-ja</string>
+    <string name="usb_audio_disable_routing">On. us. zvoka preko USB-ja</string>
     <string name="usb_audio_disable_routing_summary">Onem. samod. usmerjanja na zun. zvoč. naprave USB</string>
     <string name="usb_debugging_always">Vedno dovoli iz tega računalnika</string>
     <string name="usb_debugging_message">"Računalnikov prstni odtis ključa RSA je:
 %1$s"</string>
     <string name="usb_debugging_secondary_user_message">Uporabnik, trenutno prijavljen v napravo, ne more vklopiti odpravljanja napak s povezavo USB. Če želite uporabljati to opravilo, preklopite na primarnega uporabnika.</string>
     <string name="usb_debugging_secondary_user_title">Odpravljanje napak s povezavo USB ni dovoljeno</string>
-    <string name="usb_debugging_title">Ali dovolite odpravljanje težav prek USB?</string>
+    <string name="usb_debugging_title">Ali dovolite odpravljanje težav preko USB?</string>
     <string name="usb_device_confirm_prompt">Želite, da se odpre %1$s, ko priključite to napravo USB?</string>
     <string name="usb_device_permission_prompt">Želite aplikaciji %1$s dovoliti dostop do naprave USB?</string>
   <string name="usb_function_charging_text">Povezano v načinu polnjenja</string>
@@ -2223,7 +2223,7 @@ Telefon lahko postane prevroč ob:
   <string name="usb_port_short_circuit_recovered_content">Lahko ga uporabite za polnjenje ali povezavo z drugimi napravami.</string>
   <string name="usb_port_short_circuit_recovered_title">Priključek za polnjenje zdaj dela normalno</string>
   <string name="usb_port_short_circuit_title">"V priključku za polnjenje je vodna para"</string>
-    <string name="usb_preference_title">Možnosti prenosa datotek prek USB-ja</string>
+    <string name="usb_preference_title">Možnosti prenosa datotek preko USB-ja</string>
   <string name="usb_ptp_text">Fotografije</string>
   <string name="usb_share_net_info">Uporabi spletno povezavo računalnika</string>
   <string name="usb_storage_error_message">Pojavila se je napaka med pregledovanjem vašega USB pomnilnika.</string>
@@ -2258,8 +2258,8 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="user_remove_user_title">Želite odstraniti uporabnika?</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
-    <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije, nameščene prek ADB/ADT, škodljive.</string>
-    <string name="verify_apps_over_usb_title">Preveri aplikacije prek USB</string>
+    <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije, nameščene preko ADB/ADT, škodljive.</string>
+    <string name="verify_apps_over_usb_title">Preveri aplikacije preko USB</string>
     <string name="voice_assist_label">odpri glasovnega pomočnika</string>
     <string name="voice_hint">Povlecite z ikone za glasovnega pomočnika</string>
     <string name="volume_and_do_not_disturb">Ne moti</string>
@@ -2341,7 +2341,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="wifi_disabled_generic">Onemogočeno</string>
     <string name="wifi_disabled_network_failure">Konfiguracija IP-ja ni uspela</string>
     <string name="wifi_disabled_password_failure">Težava s preverjanjem pristnosti</string>
-    <string name="wifi_disabled_wifi_failure">Povezava prek -ja ni uspela</string>
+    <string name="wifi_disabled_wifi_failure">Povezava preko -ja ni uspela</string>
   <string name="wifi_disconnected">Ni povezano</string>
     <string name="wifi_display_certification">Potrdilo brezžičnega zaslona</string>
     <string name="wifi_display_certification_summary">Pokaži možnosti za potrdilo brezžičnega zaslona</string>

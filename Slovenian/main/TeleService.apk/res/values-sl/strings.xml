@@ -355,16 +355,16 @@
   <string name="bluetooth_profile_sap">Dostop do SIM</string>
   <string name="bluetooth_sap_profile_summary_connected">Povezano s SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Uporabi za dostop do SIM</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bitov na vzorec za zvok prek Bluetootha</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bitov na vzorec za zvok preko Bluetootha</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Sproži zvočni kodek za Bluetooth
 Avdio: število bitov na vzorec"</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode">Način zvočnega kanala prek Bluetootha</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode">Način zvočnega kanala preko Bluetootha</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Sproži zvočni kodek za Bluetooth
 Avdio: način kanala"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Zvočni kodek LDAC za Bluetooth: kakovost predvajanja</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sproži kodek LDAC za zvok prek Bluetootha
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sproži kodek LDAC za zvok preko Bluetootha
 LDAC: kakovost predvajanja"</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate">Hitrost vzorčenja zvoka prek Bluetootha</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate">Hitrost vzorčenja zvoka preko Bluetootha</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Sproži zvočni kodek za Bluetooth
 Avdio: hitrost vzorčenja"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Pretočno predvajanje: %1$s</string>
@@ -488,18 +488,18 @@ Avdio"</string>
     <string name="call_barring_baic">Vsi dohodni</string>
     <string name="call_barring_baic_disabled">Želite blokirati vse dohodne klice?</string>
     <string name="call_barring_baic_enabled">Želite onemogočiti blokiranje vseh dohodnih klicev?</string>
-    <string name="call_barring_baicr">Dohodni mednarodni klici prek gostovanja</string>
-    <string name="call_barring_baicr_disabled">Želite blokirati dohodne mednarodne klice prek gostovanja?</string>
-    <string name="call_barring_baicr_enabled">Želite onemogočiti blokiranje dohodnih mednarodnih klicev prek gostovanja?</string>
+    <string name="call_barring_baicr">Dohodni mednarodni klici preko gostovanja</string>
+    <string name="call_barring_baicr_disabled">Želite blokirati dohodne mednarodne klice preko gostovanja?</string>
+    <string name="call_barring_baicr_enabled">Želite onemogočiti blokiranje dohodnih mednarodnih klicev preko gostovanja?</string>
     <string name="call_barring_baoc">Vsi odhodni</string>
     <string name="call_barring_baoc_disabled">Želite blokirati vse odhodne klice?</string>
     <string name="call_barring_baoc_enabled">Želite onemogočiti blokiranje vseh odhodnih klicev?</string>
     <string name="call_barring_baoic">Odhodni mednarodni</string>
     <string name="call_barring_baoic_disabled">Želite blokirati odhodne mednarodne klice?</string>
     <string name="call_barring_baoic_enabled">Želite onemogočiti blokiranje odhodnih mednarodnih klicev?</string>
-    <string name="call_barring_baoicr">Odhodni mednarodni prek gostovanja</string>
-    <string name="call_barring_baoicr_disabled">Želite blokirati odhodne mednarodne klice prek gostovanja?</string>
-    <string name="call_barring_baoicr_enabled">Želite onemogočiti blokiranje odhodnih mednarodnih klicev prek gostovanja?</string>
+    <string name="call_barring_baoicr">Odhodni mednarodni preko gostovanja</string>
+    <string name="call_barring_baoicr_disabled">Želite blokirati odhodne mednarodne klice preko gostovanja?</string>
+    <string name="call_barring_baoicr_enabled">Želite onemogočiti blokiranje odhodnih mednarodnih klicev preko gostovanja?</string>
     <string name="call_barring_change_pwd">Sprememba gesla</string>
     <string name="call_barring_change_pwd_description">Spremenite geslo za zaporo klicev</string>
     <string name="call_barring_change_pwd_description_disabled">Gesla za zaporo klicev ni mogoče spremeniti.</string>
@@ -664,7 +664,7 @@ Avdio"</string>
   <string name="choose_profile">Izberite profil</string>
   <string name="chose_product_summary">Kličite ceneje</string>
   <string name="chose_product_title">Paket doplačila</string>
-    <string name="clear_adb_keys">Preklic dovoljenj za odpr. težav prek USB</string>
+    <string name="clear_adb_keys">Preklic dovoljenj za odpr. težav preko USB</string>
   <string name="clear_all_set_button">Očisti nastavitve</string>
   <string name="clear_all_set_title">Ta tipka je za čiščenje vseh nastavitev</string>
     <string name="clh_callFailed_ACM_equal_to_or_greater_than_ACMmax_txt">ACM je enako ali več kot ACMmax</string>
@@ -2482,7 +2482,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="tether_settings_title_usb">USB skupna raba povezave</string>
   <string name="tether_settings_title_usb_bluetooth">Skupna raba povezave</string>
   <string name="tether_settings_title_wifi">Prenosna dostopna točka</string>
-  <string name="tethering_hardware_offload">Strojno pospeševanje za spletno povezavo prek mobilnega telefona</string>
+  <string name="tethering_hardware_offload">Strojno pospeševanje za spletno povezavo preko mobilnega telefona</string>
   <string name="tethering_hardware_offload_summary">Uporabi hardversko pospeševanje za modemsko povezovanje če je na voljo</string>
   <string name="tethering_settings_not_available">Nastavitve skupne rabe povezave niso na voljo uporabniku</string>
   <string name="third_party_account_summary">Ta račun uporablja %s.</string>
@@ -2743,7 +2743,7 @@ Klici se zaračunajo glede na vaše nastavitve.
   <string name="wifi_calling_preference_title">Nastavitev WiFi klica</string>
   <string name="wifi_calling_select_call_assistant">Izberite Asistenta klicev</string>
   <string name="wifi_calling_select_call_assistant_summary">Izberite aplikacijo ali storitev za urejanje z omrežji uporabljenimi za klice</string>
-    <string name="wifi_calling_settings_title">Klicanje prek WiFi-ja</string>
+    <string name="wifi_calling_settings_title">Klicanje preko WiFi-ja</string>
   <string name="wifi_calling_summary">Omogoči WiFi Klicanje in izberite nastavitve za WiFi klic</string>
   <string name="wifi_calling_title">Wifi klicanje</string>
   <string name="wifi_calling_use_call_assistant">Uporabi Asistenta klicev</string>

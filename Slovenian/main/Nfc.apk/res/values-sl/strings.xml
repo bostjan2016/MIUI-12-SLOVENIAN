@@ -22,10 +22,10 @@
   <string name="disconnecting_headset">Prekinjanje povezave</string>
   <string name="failed_to_enable_bt">Bluetootha ni mogoče omogočiti</string>
   <string name="inbound_me_profile_text">Tapnite če želite dodati to osebo kot stik.</string>
-  <string name="inbound_me_profile_title">Stik prejet prek NFC-ja</string>
+  <string name="inbound_me_profile_title">Stik prejet preko NFC-ja</string>
   <string name="nfcUserLabel">NFC</string>
   <string name="outbound_me_profile_text">Tapnite če želite tej osebi poslati svoje podatke za stik.</string>
-  <string name="outbound_me_profile_title">Pošiljanje prek NFC-ja končano</string>
+  <string name="outbound_me_profile_title">Pošiljanje preko NFC-ja končano</string>
   <string name="pair_no">Ne</string>
   <string name="pair_yes">Da</string>
   <string name="pairing_headset">Seznanjanje</string>

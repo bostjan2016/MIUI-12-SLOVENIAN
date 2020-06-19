@@ -25,7 +25,7 @@
     <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
     <string name="abc_searchview_description_voice">Glasovno iskanje</string>
     <string name="abc_shareactionprovider_share_with">Deljenje z</string>
-    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
+    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
     <string name="accept">Sprejemam</string>
     <string name="account_type">Zaščiteno z geslom</string>
@@ -550,7 +550,7 @@ Za dodajanje pritisnite in držite mapo ali tapnite \"Več\"."</string>
     <string name="settings_score">Ocenite Upravitelj datotek</string>
     <string name="share_facebook">Facebook</string>
     <string name="share_file_manger">Deli Upravitelj datotek</string>
-    <string name="share_via_qr_code">Deli prek QR kode</string>
+    <string name="share_via_qr_code">Deli preko QR kode</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
