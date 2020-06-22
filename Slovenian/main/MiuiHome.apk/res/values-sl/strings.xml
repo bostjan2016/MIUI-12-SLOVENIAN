@@ -32,6 +32,8 @@
   <string name="accessibility_clear_search_bar_text">Očisti okence za iskanje</string>
   <string name="accessibility_enter_all_app_mode">Odpri predal aplikacij</string>
   <string name="accessibility_enter_all_app_settings">Odpri nastavitve predala za aplikacije</string>
+  <string name="accessibility_menu_item_smallwindow_disable">"Ta aplikacija ne podpira plavajočih oken"</string>
+  <string name="accessibility_menu_item_smallwindow_enable">Ta aplikacija podpira plavajoča okna</string>
   <string name="accessibility_menu_item_split_disable">"Aplikacija ne podpira deljeni zaslon."</string>
   <string name="accessibility_menu_item_split_enable">Aplikacija podpira deljeni zaslon</string>
   <string name="accessibility_recent_task_enter">Nedavno odprto</string>
@@ -59,10 +61,12 @@
   <string name="all_app_category_knowledge_education">Znanje &amp; Izobraževanje</string>
   <string name="all_app_category_lifestyle">Lifestyle</string>
   <string name="all_app_category_news_reading">Novice &amp; Branje</string>
+  <string name="all_app_category_personal">Zasebno</string>
   <string name="all_app_category_personalization">Personalizacija</string>
   <string name="all_app_category_photography">Fotografija</string>
   <string name="all_app_category_shopping">Kupovanje</string>
   <string name="all_app_category_tools">Orodja</string>
+  <string name="all_app_category_work">Delo</string>
   <string name="all_apps">Vse aplikacije</string>
   <string name="all_apps_no_search_results">"Nič ne najdem"</string>
   <string name="all_apps_search_app">Išči aplikacije</string>
@@ -338,6 +342,7 @@
   <string name="launcher_search_bar_value_disable">Izključeno</string>
   <string name="launcher_search_bar_value_enable">Vključeno</string>
   <string name="launcher_search_gesture_provider_title">Podrsaj gor za ponudnika iskanja</string>
+  <string name="launcher_slide_up_search_provider_title">Podrsaj gor za ponudnika iskanja</string>
   <string name="launcher_slide_up_title">Podrsajte gor na zač. zaslonu</string>
   <string name="launcher_sliding_up_gesture">Podrsajte gor na zač. zaslonu da odprete iskanje</string>
   <string name="launcher_title">Zač. zaslon &amp; Nedavno</string>
@@ -576,6 +581,8 @@
   <string name="unknown_artist_name">Neznan izvajalec</string>
   <string name="unnamed_folder_name">Mapa</string>
   <string name="unstable_dialog_content">"To je testna verzija sistema Android in je podvržena spremembam. Uporaba te verzije je urejena z licenčnim dogovorom za pregled SDK za Android. Testna verzija Androida ni stabilna izdaja in lahko vsebuje napake in pomanjkljivosti ki lahko poškodujejo sistem, napravo ali podatke. Ne testira se kot tovarniški OS in lahko povzroči prenehanje delovanja naprave, nameščenih storitev ali aplikacij."</string>
+  <string name="unstable_dialog_message">Ta naprava je registrirana v programu za predogled razvijalcev Android 11. Program omogoča razvijalcem in navdušencem za Android preizkusiti predhodne različice Androida 11. Ta predhodna različica lahko vsebuje napake in pomanjkljivosti, ki lahko vplivajo na normalno delovanje vaše naprave.</string>
+  <string name="unstable_dialog_title">Android Developer Preview Program</string>
   <string name="use_theme_screen_cells_title">Dovoli temi da spremeni videz zaslona</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
@@ -593,4 +600,7 @@
   <string name="widget_global_search">Išči</string>
   <string name="widget_quick_function">Hitro opravilo</string>
   <string name="widgets_preview_title">Dodaj pripomoček</string>
+  <string name="work_mode_off_label">"Obvestila so izklopljena in aplikacije niso več na voljo"</string>
+  <string name="work_mode_on_label">Ureja vaša organizacija</string>
+  <string name="work_profile_toggle_label">Delovni profil</string>
 </resources>

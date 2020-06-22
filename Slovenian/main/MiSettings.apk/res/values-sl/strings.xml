@@ -61,6 +61,19 @@
   <string name="exit_easymode">Izključi Lite način</string>
   <string name="expand_button_title">Napredno</string>
   <string name="first_unlock_time">"Prvo odklepanje: "</string>
+  <string name="fmt_chinese_date"/>
+  <string name="fmt_date_long_month">MMMM</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month">MMMM, yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+  <string name="fmt_date_numeric_month_day">dd.MM</string>
+  <string name="fmt_date_numeric_year">yyyy</string>
+  <string name="fmt_date_numeric_year_month">MM.yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
+  <string name="fmt_date_short_month">MMM</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month">MMM, yyyy</string>
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="focus_mode_timer_add_limit">Lahko dodate do %d lastnih časovnikov</string>
   <string name="focus_mode_custom_time">Prilagojeno trajanje</string>
   <string name="focus_mode_timer_delete">Izbriši</string>
@@ -74,6 +87,7 @@
   <string name="friday_shortest">P</string>
   <string name="gamma">Gamma</string>
   <string name="healthy_use_phone">Urejanje časa zaslona</string>
+  <string name="high_fps_description">Visoka hitrost osveževanja zaslona. Večja poraba energije.</string>
   <string name="hsv_space_color">HSV prostor barv</string>
   <string name="hsv_space_color_hue">Niansa</string>
   <string name="hsv_space_color_saturation">Saturacija</string>

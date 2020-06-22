@@ -279,6 +279,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="feedback_third_packagename_hint">Katere aplikacije drugih virov povzročajo težave?</string>
     <string name="feedback_title">Naslov</string>
     <string name="feedback_title_hint">Na kratko opišite težavo</string>
+  <string name="feedback_title_occurrence_time">Izberite čas</string>
     <string name="feedback_title_reproductivity">Izberite reproduktivnost</string>
     <string name="feedback_tracking">Sledenje težavi</string>
     <string name="feedback_version_label">Različica</string>

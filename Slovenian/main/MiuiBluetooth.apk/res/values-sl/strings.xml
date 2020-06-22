@@ -537,6 +537,7 @@ Avdio"</string>
     <string name="wait_for_debugger">Počakaj na iskalnik napak</string>
     <string name="wait_for_debugger_summary">Aplikacija, v kateri iščete napako, pred izvajanjem čaka na povezavo z iskalnikom napak</string>
   <string name="wapi_all_sel_mode">Izberi način</string>
+  <string name="wapi_auto_sel_cert">Izberi samodejno</string>
   <string name="wapi_auto_sel_cert_fail">Ne morem samodejno izbrati certifikat. Izberite certifikat iz seznama in se poskusite povezati.</string>
   <string name="wapi_cert_is_not_exist">Ni certifikata na voljo, najprej ga namestite</string>
   <string name="wapi_cert_is_not_selected">Najprej izberite certifikat</string>

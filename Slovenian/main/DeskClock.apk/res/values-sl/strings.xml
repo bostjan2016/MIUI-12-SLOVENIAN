@@ -352,6 +352,7 @@
   <string name="silent_alarm_summary">Tiho</string>
   <string name="skip_alarm_once_hint">Izključi enkrat na %s</string>
   <string name="sleep_analysis">Statistika</string>
+  <string name="sleep_analysis_chart_date_format">dd/MM</string>
   <string name="sleep_date_provider_text">Podatke o spanju ponuja Mi Zdravje</string>
   <string name="sleep_duration">"Trajanje spanja: "</string>
   <string name="sleep_duration_avg_text_diff">Povprečno trajanje spanja (%1$s-%2$s)</string>

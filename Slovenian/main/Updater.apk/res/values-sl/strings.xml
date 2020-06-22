@@ -14,6 +14,7 @@
   <string name="btn_stop">Ustavi</string>
      <string name="btn_yes">Da</string>
   <string name="channel_downloading">Napredek prenosov</string>
+  <string name="channel_service">Storitev v ozadju</string>
   <string name="channel_update">Na voljo je nova verzija</string>
      <string name="check_new_version">Preveri</string>
   <string name="default_filedownloader_notification_content">Prevzem datotek je zagnan.</string>
@@ -64,6 +65,8 @@ Posodobitve niso na voljo za vas!"</string>
      <string name="notif_install">Namesti</string>
      <string name="notif_new_summary">Tapni za pridobivanje podrobnosti</string>
      <string name="notif_new_title">Na voljo je nova MIUI verzija!</string>
+  <string name="notif_service_summary">Držite da onemogočite obvestilo \"Storitev v ozadju\"!</string>
+  <string name="notif_service_title">Aplikacija se izvaja v ozadju…</string>
   <string name="notifications_switch">Opozori na novo MIUI različico</string>
      <string name="permdesc_cache_filesystem">Aplikaciji omogoča pisanje datotek v / predpomnilnik.</string>
      <string name="permdesc_reboot">Aplikaciji omogoča ponovni zagon naprave.</string>

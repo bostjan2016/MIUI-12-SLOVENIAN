@@ -28,10 +28,6 @@
         <item quantity="other">Fotografij: %d</item>
         <item quantity="one">Fotografija: %d</item>
     </plurals>
-	<plurals name="dirty_wlan_count_china">
-        <item quantity="other">Fotografij: %d</item>
-        <item quantity="one">Fotografija: %d</item>
-    </plurals>
 	<plurals name="dirty_callog_count">
          <item quantity="other">%d zapisi zgodovine klicev</item>
          <item quantity="one">%d zapis zgodovine klicev</item>
@@ -85,11 +81,15 @@
         <item quantity="one">pred %s uro</item>
      </plurals>
 	<plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s storitev bo sinhonizirano z Mi Cloudom</item>
-        <item quantity="one">%s storitev bo sinhonizirana z Mi Cloudom</item>
+        <item quantity="other">%s storitev bo sinhronizirano z Mi Cloudom</item>
+        <item quantity="one">%s storitev bo sinhronizirana z Mi Cloudom</item>
     </plurals>
 	<plurals name="select_no_more_than">
         <item quantity="other">"Ne morete izbrati več kot %d stvari"</item>
         <item quantity="one">"Ne morete izbrati več kot %d stvar"</item>
     </plurals>
+        <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d WiFi omrežij</item>
+        <item quantity="one">%d WiFi omrežje</item>
+     </plurals>
 </resources>

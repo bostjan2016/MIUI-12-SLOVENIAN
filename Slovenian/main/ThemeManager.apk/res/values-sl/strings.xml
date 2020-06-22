@@ -382,6 +382,8 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="item_resource_audio_optional_color_ring">Zvok povratnega signala</string>
   <string name="item_resource_audio_optional_notification_ring">Obvestila</string>
   <string name="item_resource_audio_optional_phone_ring">Melodija zvonenja</string>
+  <string name="kuyin_user_agreement_content">Naročnine za melodije zvonjenja po meri zagotavlja iFlytek. Preden začnete uporabljati naročnine na melodije zvonjenja, se morate strinjati z %s. Se strinjate ?</string>
+  <string name="kuyin_user_agreement_content_href">iFlytek Pravila o zasebnosti</string>
   <string name="lab">Beta storitve</string>
   <string name="like_list">Stvari ki so mi všeč</string>
   <string name="live_wallpaper">Živo ozadje</string>
@@ -420,9 +422,9 @@ Tapnite, da se boste prijavili."</string>
   <string name="miui_lock_screen_date">dd.MM EEEE</string>
   <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
 <string name="miui_lock_screen_date_two_lines">"EEEE
-dd.MMMM"</string>
+dd.MM"</string>
      <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd.MMMM"</string>
+dd.MM"</string>
      <string name="miui_lock_screen_large_date">"EEE
 dd.MM"</string>
      <string name="miui_lock_screen_large_date_12">"EEE

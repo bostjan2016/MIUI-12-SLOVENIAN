@@ -225,7 +225,9 @@ dd.MM"</string>
   <string name="sunday">Nedelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
-  <string name="super_wallpaper_date">"EEa
+  <string name="super_wallpaper_date">"EEEE
+dd/MM"</string>
+  <string name="super_wallpaper_date_inter">"EEEE
 dd/MM"</string>
   <string name="temporary_style">Čez 10 sekund po dotiku</string>
   <string name="text_color">Barva teksta</string>

@@ -143,6 +143,7 @@
   <string name="request_permission_title">Potrebna so dovoljenja</string>
   <string name="sd_full">Vaša SD kartica je polna.</string>
   <string name="sd_invalid">Vaša SD kartica je poškodovana.</string>
+  <string name="search_menu_title">Išči</string>
   <string name="send_to_midrive_failed">"Ta vrsta datotek ni podprta."</string>
   <string name="slashes">/</string>
   <string name="source_file_missing">Manjka datoteka.</string>

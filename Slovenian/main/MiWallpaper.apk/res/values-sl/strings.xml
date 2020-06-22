@@ -30,8 +30,10 @@
     <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="actionbar_button_up_description">Nazaj</string>
   <string name="afternoon">PM</string>
+  <string name="already_newest_version">Trenutna verzija je posodobljena</string>
   <string name="am">AM</string>
   <string name="app_name">Slika za ozadje</string>
+  <string name="cancel_download">Prenos je preklican</string>
   <string name="character_counter_content_description">Vnešeno znakov %1$d od %2$d</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="copy">Kopiraj</string>
@@ -53,6 +55,7 @@
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="game_view_content_description">Prikaz v igrah</string>
+  <string name="install_failed">"Ne morem namestiti"</string>
   <string name="mars_position_content_0">"Na tem območju so pečine, otoki in široke ravne doline, za katere domnevajo, da jih povzročajo ledeniki, prekriti z naplavinami. Tu so odkriti tudi glineni minerali, ki so zelo zanimivi za iskanje dokazov o življenju na starodavnem Marsu.
 
 NASA/JPL/University of Arizona"</string>
@@ -83,6 +86,9 @@ dd.MMMM"</string>
 dd.MM"</string>
      <string name="miui_lock_screen_large_date_12">"EEE
 dd.MM"</string>  
+  <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
+  <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Sinhronizacija z Cloudom…</string> 
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
@@ -139,6 +145,8 @@ dd.MM"</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="night">PM</string>
   <string name="noon">PM</string>
+  <string name="no_cta_agreed">"GetApps nima CTA dovoljenj"</string>
+  <string name="no_install_permission">"Nimate dovoljenja za nmestitev te stvari"</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
   <string name="pm">PM</string>
@@ -171,6 +179,7 @@ dd.MM"</string>
   <string name="tuesday">Torek</string>
   <string name="tuesday_short">Tor</string>
   <string name="tuesday_shortest">T</string>
+  <string name="update">Posodobi</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
   <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
@@ -187,6 +196,6 @@ dd.MM"</string>
   <string name="wednesday_short">Sre</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včeraj</string>
-  <string name="mi_wallpaper_loading">Nalaganje Mi ozadja…</string>
+  <string name="mi_wallpaper_loading">Nalaganje…</string>
   <string name="mi_wallpaper_title"> Mi ozadje</string>
 </resources>

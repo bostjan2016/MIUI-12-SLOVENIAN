@@ -1107,6 +1107,9 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_snap_label_take_movie">Video</string>
   <string name="pref_camera_snap_label_take_picture">Fotografija</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Ne morete uporabljati Quick snap način dokler je \"Zbudi s tipkami za glasnost\" vključen."</string>
+  <string name="pref_camera_snap_value_off">Izključeno</string>
+  <string name="pref_camera_snap_value_take_movie">Film</string>
+  <string name="pref_camera_snap_value_take_picture">Slika</string>
   <string name="pref_camera_sound_title">Zvok sprožilca</string>
   <string name="pref_camera_square_mode_title">Kvadrat</string>
   <string name="pref_camera_sr_enable_title">Vključi SR</string>

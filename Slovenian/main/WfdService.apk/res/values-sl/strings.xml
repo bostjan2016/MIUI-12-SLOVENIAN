@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Wfd Storitev</string>
+  <string name="app_name">WFD Storitev</string>
+  <string name="channel_name">WFD Storitev</string>
+  <string name="notif_text">Predvajanje zaslona je vključeno</string>
+  <string name="notif_title">Brezžični zaslon</string>
   <string name="notification_text">Predvajanje zaslona je vključeno</string>
   <string name="notification_title">Brezžični zaslon</string>
   <string name="perm_desc">Dostop do Qualcomm Display Stack WiFi API-jev</string>

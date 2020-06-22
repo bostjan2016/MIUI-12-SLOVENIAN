@@ -251,4 +251,16 @@
         <item quantity="other">Vsakih %1$s na %2$s</item>
         <item quantity="one">Vsakih %1$s na %2$s</item>
     </plurals>
+        <plurals name="n_attendees">
+        <item quantity="other">%d vabil</item>
+        <item quantity="one">%d vabilo</item>
+     </plurals>
+     <plurals name="travel_time_range_hours">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">%d ura</item>
+     </plurals>
+     <plurals name="travel_time_range_mins">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+     </plurals>
 </resources>
