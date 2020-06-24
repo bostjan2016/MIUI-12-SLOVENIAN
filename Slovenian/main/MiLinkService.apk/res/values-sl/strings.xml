@@ -15,6 +15,8 @@
   <string name="dialog_connected">Povezano</string>
   <string name="dialog_connecting">Povezovanje…</string>
   <string name="dialog_nfc_cast_wifi_off">Vključite WiFi da boste lahko predvajali preko NFC. Vključim?</string>
+  <string name="dialog_no_device_message">1. Povežite telefon in TV na isto WiFi omrežje.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Pri nekaterih modelih televizorjev je ta storitev na voljo samo ko je vklopljeno oddajanje zaslona. Poglejte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomoč\"&amp;lt;/a&amp;gt; da izveste več.</string>
+  <string name="dialog_no_device_message_china">1. Povežite telefon in TV na isto WiFi omrežje.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Pri nekaterih modelih televizorjev je ta storitev na voljo samo ko je vklopljeno oddajanje zaslona. Poglejte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomoč\"&amp;lt;/a&amp;gt; da izveste več.</string>
   <string name="dialog_ok">V redu</string>
   <string name="dialog_only_suport_content">Streamajte fotografije, videoposnetke ali glasbo</string>
   <string name="dialog_open_wifi_bt">Vključi</string>
@@ -22,6 +24,12 @@
 Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="dialog_recent_connected">Nedavno</string>
   <string name="dialog_retry">Poskusi ponovno</string>
+  <string name="dialog_scan_message">"1. Povežite telefon in TV na isto WiFi omrežje.
+
+2. Pri nekaterih modelih televizorjev je ta storitev na voljo samo ko je vklopljeno oddajanje zaslona. Poglejte \"Pomoč\" za več informacij."</string>
+  <string name="dialog_scan_message_china">"1. Povežite telefon in TV na isto WiFi omrežje.
+
+2. Pri nekaterih modelih televizorjev je ta storitev na voljo samo ko je vklopljeno oddajanje zaslona. Poglejte \"Pomoč\" za več informacij."</string>
   <string name="dialog_scanning_device">Iskanje naprav v bližini…</string>
   <string name="dialog_scanning_precondition">Vključite WiFi in Bluetooth na svojemm telefonu za uporabo brezžičnega zaslona.</string>
   <string name="dialog_select_tv">Izberite napravo (%d)</string>

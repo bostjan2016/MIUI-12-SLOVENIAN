@@ -385,6 +385,7 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="expand_all">Pokaži vse</string>
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Pokaži padajoči meni</string>
+  <string name="fast">Hitro</string>
   <string name="fall_sleep_hard">Problemi pri spanju</string>
   <string name="falling_duration">Padanje v spanje</string>
   <string name="falling_duration_hard_description">"Padanje v spanje je obdobje med začetkom in popolno potopitvijo v spanec. Če potrebujete več kot 30 minut da zaspite, je to lahko znak nespečnosti.
@@ -508,8 +509,10 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="light_sleep_time_decrease_description">Vaše rahlo spanje je prekratko</string>
   <string name="light_sleep_time_increase_description">Vaše rahlo spanje je predolgo</string>
   <string name="light_sleep_time_normal_description">Imate dovolj rahlega spanja</string>
+  <string name="load_failed">"Ne morem naložiti. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="login_and_open_sync">Prijavite se in vključite sinhronizacijo</string>
   <string name="login_and_open_sync2">Prijavite se in vključite sinhronizacijo</string>
+  <string name="low">Nizko</string>
   <string name="low_intensity">Nizko</string>
   <string name="low_intensity_description">Redna hitrost dihanja, ki vam omogoča pogovor</string>
   <string name="manage_home">Urejanje začetne strani</string>
@@ -643,6 +646,7 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="need_auto_start_permission">Da dobite točnejšo statistiko, dovolite Me Zdravje samodejni zagon.</string>
   <string name="need_unrestricted_permission">Da dobite točnejšo statistiko, dovolite Xiaomi zdravje izvajanje v ozadju.</string>
   <string name="network_connect_failure">"Omrežna povezava ni uspela. Preverite omrežne nastavitve in poskusite znova."</string>
+  <string name="network_not_available">"Omrežna povezava ni uspela. Preverite omrežne nastavitve in poskusite znova."</string>
   <string name="next_step">Naprej</string>
   <string name="night">PM</string>
   <string name="no_available_device">Ni naprav</string>
@@ -732,6 +736,7 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="recommend_sleep_goal">21:00-11:00</string>
   <string name="record_body_weight_button">Zabeleži težo</string>
   <string name="record_detail_page_title">Podrobnosti</string>
+  <string name="record_more">Posnemi več</string>
   <string name="recorded_menstruation">Zabeležena menstruacija</string>
   <string name="reference">Referenčni materiali</string>
   <string name="relationship_with_contact">Sorodstvo</string>
@@ -755,6 +760,7 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
     <string name="remind_title_menstruation_start">Opomni, kdaj se bo menstruacija začela</string>
     <string name="remind_title_record">Opomni, da se zabeleži</string>
   <string name="remove">Odstrani</string>
+  <string name="retry">Poskusi ponovno</string>
   <string name="revert_to_default">Vrni na privzete nastavitve</string>
   <string name="run">Tek</string>
   <string name="saturday">Nedelja</string>
@@ -780,11 +786,13 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="select_target">Izberi cilj</string>
   <string name="send_diagnosis_log">Pošlji poročilo</string>
   <string name="sending">Pošiljanje…</string>
+  <string name="set_emergency_contact">Stik v sili</string>
   <string name="setting">Nastavitve</string>
   <string name="setting_avatar">Fotografija profila</string>
   <string name="setting_birthday">Datum rojstva</string>
   <string name="setting_blood_type">Krvna skupina</string>
   <string name="setting_data_cloud_sync_tip">To storitev uporabite za varnostno kopiranje stvari iz te naprave in sinhronizacijo zdravstvenih podatkov iz drugih naprav</string>
+  <string name="setting_gender">Nastavite spol</string>
   <string name="setting_sedentary_off">IZKLJUČENO</string>
   <string name="setting_sedentary_on">VKLJUČENO</string>
   <string name="setting_sedentary_title">Opomni me za sprehod</string>
@@ -880,6 +888,10 @@ podatkov o spanju"</string>
   <string name="sleep_snore_audio_close_desc">To lahko kadar koli izklopite v nastavitvah.</string>
   <string name="sleep_snore_audio_enable">Samodejno odkrivanje je vključeno</string>
   <string name="sleep_snore_audio_enable_desc">Vaš smrčanje in govorjenje se samodejno posnameta, ko greste spat.</string>
+  <string name="sleep_snore_audio_file_mamagement_desc">Vklopite, da shranite 100 MB najnovejših posnetkov v tej napravi in ​​samodejno izbrišete starejše, da prihranite prostor za shranjevanje.</string>
+  <string name="sleep_snore_audio_file_mamagement_title">Samodejno izbriši posnetke</string>
+  <string name="sleep_snore_audio_file_saved">Posnetki se shranjujejo samodejno</string>
+  <string name="sleep_snore_audio_file_saved_desc">Za odkrivanje smrčanja in govora se uporablja algoritem brez povezave. Vsi posnetki bodo shranjeni lokalno v tej napravi, ne da bi razkrili vaše zasebne podatke.</string>
   <string name="sleep_snore_audio_hight_power_desc">"Upoštevajte, da uporaba te funkcije porabi veliko energije. Dobro je, da polnilnik med spanjem vključite v vtičnico, da se izognete nepričakovanim prekinitvam."</string>
   <string name="sleep_snore_detection">Odkrijte smrčanje in govorjenje če želite izvedeti več o spanju</string>
   <string name="sleep_snore_detection_desc">Spremljajte svoje spanje</string>
@@ -896,6 +908,7 @@ podatkov o spanju"</string>
   <string name="sleep_track">Spremljaj spanje</string>
   <string name="sleep_turn_over_times_title">Vključeno</string>
   <string name="sleep_week">Teden</string>
+  <string name="slow">Počasi</string>
   <string name="snore">Smrčanje</string>
   <string name="snore_detection_abnormal_notification_button">Nadaljuj</string>
   <string name="snore_detection_abnormal_notification_content">"Ne morem uporabiti mikrofon"</string>

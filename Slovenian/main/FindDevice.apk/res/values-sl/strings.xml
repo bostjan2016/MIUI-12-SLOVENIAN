@@ -45,8 +45,8 @@
   <string name="passport_trust_device">Zaupaj tej napravi</string>
   <string name="passport_vcode_prompt_long">Vnesite kontrolno kodo</string>
   <string name="passport_verify">Preveri</string>
-  <string name="password">Geslo</string>
-  <string name="phone_locked">Ta naprava je morda povezana z obstoječim Mi Računom (%s). Prijavite se da aktivirate to napravo.</string>
+  <string name="password">Vnesite geslo</string>
+  <string name="phone_locked">Ta naprava je povezana z obstoječim Mi Računom (%s). Vnesite geslo Mi računa da aktivirate to napravo.</string>
   <string name="phone_locked_account_email">, povezana e-pošta: %s</string>
   <string name="phone_locked_account_phone">, povezana številka telefona: %s</string>
   <string name="return_to_call">Nazaj na klic</string>
@@ -73,14 +73,14 @@
   <string name="unlock_error_unknown">"Ne morem se prijaviti"</string>
   <string name="unlock_error_user_name">Napačno up. ime</string>
   <string name="unlock_error_wrong_vcode">Vnešena koda ni pravilna</string>
-  <string name="unlock_help">"Ostanite povezani na omrežje
-Preverite pravilnost vstavljene SIM kartice (če vaša naprava to podpira) in da vaša naprava ni povezana z neučinkovitim WiFi omrežjem
+  <string name="unlock_help">"Povežite se na omrežje
+Vstavite pravilno SIM kartico in se ne povezujte z neveljavnim WiFi omrežjem
  
  Ste pozabili geslo?
- Pojdite na id.mi.com da boste izničili geslo
+ Pojdite na id.mi.com, izberite \"Pozabljeno geslo?\" in sledite navodilom.
  
-Ostali razlogi
- Prijavite se na i.mi.com in poskusite od tam odkleniti napravo"</string>
+Ne morete aktivirati naprave?
+ Pojdite na i.mi.com/ss in pošljite svojo aplikaciju za odklep naprave."</string>
   <string name="unlock_help_title">Pomoč pri odklepanju:</string>
   <string name="unlock_number">Koda za odklep: %s</string>
   <string name="unlock_wrong_captcha">Vnešena koda ni pravilna</string>
