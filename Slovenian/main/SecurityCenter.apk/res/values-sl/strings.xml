@@ -206,6 +206,9 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antivirus_privacy_dialog_ok">V redu</string>
   <string name="antivirus_privacy_dialog_summary">"To opravilo šifrira in pošilja ID vaše naprave na Avast, AVL in Tencent strežnike (%s)."</string>
   <string name="antivirus_privacy_dialog_summary_link">Prikaz Pravila o zasebnosti</string>
+  <string name="antivirus_privacy_dialog_summary_new">&lt;Data&gt;Ta storitev uporablja protivirusne definicije, ki jih nudijo Avast, AVL in Tencent. Preberite povezane &amp;lt;a href=\"%1$s\"&amp;gt;pogoje uporabe&amp;lt;/a&amp;gt; da izveste več.&lt;/Data&gt;</string>
+  <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data&gt;Ta storitev uporablja protivirusne definicije, ki jih nudijo Avast, AVL in Tencent. Preberite povezane &amp;lt;a href=\"%1$s\"&amp;gt;pogoje uporabe&amp;lt;/a&amp;gt; da izveste več.&lt;/Data&gt;</string>
+  <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data&gt;Ta storitev uporablja protivirusne definicije, ki jih nudijo Avast, AVL in Tencent. Preberite povezane &amp;lt;a href=\"%1$s\"&amp;gt;pogoje uporabe&amp;lt;/a&amp;gt; da izveste več.&lt;/Data&gt;</string>
   <string name="antivirus_privacy_dialog_title">Pravila o zasebnosti</string>
   <string name="antivirus_sec_network_unavailable">"Aplikacija Varnost ne more posodobiti ker ste omejili spletno povezavo. Dovolim aplikaciji povezavo na splet?"</string>
   <string name="antivirus_sec_support">Ponujeno od %s</string>

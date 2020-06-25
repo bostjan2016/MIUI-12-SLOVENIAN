@@ -88,7 +88,7 @@
     <string name="blocked_numbers_block_emergency_number_message">Številke za klic v sili ni mogoče blokirati.</string>
     <string name="blocked_numbers_butter_bar_body">Ko izberete številko za klic v sili ali nanjo pošljete sporočilo SMS, se blokiranje izklopi, s čimer se zagotovi, da vas lahko pokličejo iz služb za pomoč v sili.</string>
     <string name="blocked_numbers_butter_bar_button">Znova omogoči</string>
-    <string name="blocked_numbers_butter_bar_title">Blokiranje je začasno izklopljeno</string>
+  <string name="blocked_numbers_butter_bar_title">Seznam blokiranih je izključen</string>
     <string name="blocked_numbers_msg">Z blokiranih številk ne boste prejemali klicev ali sporočil SMS.</string>
     <string name="blocked_numbers_number_already_blocked_message">Številka %1$s je že blokirana.</string>
     <string name="blocked_numbers_number_blocked_message">Številka %1$s je blokirana</string>
@@ -279,7 +279,7 @@ Avdio"</string>
     <string name="disabled">Onemogočeno</string>
     <string name="disabled_by_admin">Onemogočil skrbnik</string>
     <string name="disabled_by_admin_summary_text">Nadzira skrbnik</string>
-    <string name="duplicate_video_call_not_allowed">Klica trenutno ni mogoče dodati.</string>
+    <string name="duplicate_video_call_not_allowed">Več klicev ni mogoče dodati.</string>
     <string name="enable_account_preference_title">Računi za klicanje</string>
     <string name="enable_adb">Odpravljanje težav preko USB-ja</string>
     <string name="enable_adb_summary">Način za odpravljanje težav, ko je vzpostavljena povezava USB</string>
@@ -405,7 +405,7 @@ Avdio"</string>
     <string name="osu_sign_up_failed">Registracije ni bilo mogoče dokončati. Če želite poskusiti znova, se dotaknite.</string>
     <string name="outgoing_call_error_no_phone_number_supplied">Če želite opraviti klic, vnesite veljavno številko.</string>
   <string name="outgoing_call_not_allowed">Ta uporabnik lahko kliče samo v sili</string>
-    <string name="outgoing_call_not_allowed_no_permission">Ta aplikacija lahko opravlja odhodne klice brez dovoljenja za telefon.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Ta aplikacija ne more opravljati odhodnih klicev brez potrebnih dovoljenj.</string>
     <string name="outgoing_call_not_allowed_user_restriction">Dovoljeno je samo opravljanje klicev v sili.</string>
     <string name="overlay_display_devices_title">Simul. sekund. prikazov.</string>
     <string name="phone_settings_call_blocking_txt">Blokiranje klicev</string>

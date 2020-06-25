@@ -88,6 +88,7 @@
   <string name="album_camera_name">Kamera</string>
   <string name="album_cloud_list_page_title">Urejanje sinhroniziranih albumov</string>
   <string name="album_creative">Moje urejene fotografije</string>
+  <string name="album_detail_default_sort_tip">Zamenjano na kronološki vrstni red</string>
   <string name="album_detail_clear_local_page_empty">Ni shranjenih fotografij ali videoposnetkov za brisanje</string>
   <string name="album_detail_page_empty">Ni stvari</string>
   <string name="album_download">Prenosi</string>
@@ -280,6 +281,8 @@
   <string name="brannan">Brannan</string>
   <string name="browse_category_title">Preišči</string>
   <string name="btn_cancel">Prekliči</string>
+  <string name="btn_cancel_send">Odpovej ta prenos</string>
+  <string name="btn_exit_send">Izhod</string>
   <string name="btn_sure">V redu</string>
   <string name="burst_image_download_item_title" formatted="false">Prenesi original (%s|%s)</string>
   <string name="burst_preview_title">Zaporedno slikanje</string>
@@ -1116,6 +1119,10 @@ za fotografije"</string>
   <string name="member_menu_vipname_premium">Premium</string>
   <string name="member_menu_vipname_ultra">Ultra</string>
   <string name="menu_album_new_album">Nov album</string>
+  <string name="menu_detail_sort_create_date">Izdelano</string>
+  <string name="menu_detail_sort_name">Ime datoteke</string>
+  <string name="menu_detail_sort_size">Velikost datoteke</string>
+  <string name="menu_detail_sort_update_date">Zadnjič posodobljeno</string>
   <string name="menu_item_sort_date">Datum</string>
   <string name="menu_item_sort_name">Ime</string>
   <string name="menu_item_sort_size">Velikost</string>
@@ -1321,8 +1328,9 @@ za fotografije"</string>
   <string name="operation_favorites">Priljubljeno</string>
   <string name="operation_force_top">Na vrh</string>
   <string name="operation_hide">Skrij</string>
-  <string name="operation_move">Premesti</string>
+  <string name="operation_hide_time">Skrij datume</string>
   <string name="operation_in_process">Obdelujem…</string>
+  <string name="operation_move">Premesti</string>
   <string name="operation_move_to_other_albums">Premesti v druge albume</string>
   <string name="operation_move_to_rubbish_albums">Premesti v smeti</string>
   <string name="operation_not_show_in_photos_tab">"Ne kaži v zavihku Fotografije"</string>
@@ -1345,7 +1353,9 @@ za fotografije"</string>
   <string name="operation_share_manage">Urejanje deljenih stvari</string>
   <string name="operation_show_in_photos_tab">Pokaži na začetni strani</string>
   <string name="operation_show_on_map">Pokaži na mapi</string>
+  <string name="operation_show_time">Pokaži datume</string>
   <string name="operation_slide_show">Zaženi diaprojekcijo</string>
+  <string name="operation_sort">Razvrsti</string>
   <string name="operation_successful">Deljeno</string>
   <string name="operation_too_often">Preveč zahtev iz vašega IP naslova. Počakaj minuto ali dve in poskusite znova.</string>
   <string name="operation_unforce_top">Odstrani z vrha</string>
@@ -1354,8 +1364,8 @@ za fotografije"</string>
   <string name="operate_with_metered_network_msg">Vaša naprava je povezana s plačljivim omrežjem. Nadaljujem?</string>
   <string name="orientation_lock_tip">Samod. vrtenje izključeno</string>
   <string name="orientation_unlock_tip">Samod. vrtenje vključeno</string>
-  <string name="origin_gif_name">izvorna datoteka</string>
-  <string name="origin_image_name">izvorna datoteka</string>
+  <string name="origin_gif_name">izvirna datoteka</string>
+  <string name="origin_image_name">izvirna datoteka</string>
   <string name="origin_video_name">video</string>
   <string name="original">Original</string>
   <string name="original_scale">Original</string>
@@ -1799,6 +1809,7 @@ za fotografije"</string>
   <string name="share_album">Deli album</string>
   <string name="share_album_needs_auto_upload_tip">"Ne morem izključiti sinhronizacijo z Mi Cloudom za deljene albume"</string>
   <string name="share_album_qr_code">"QR koda albuma"</string>
+  <string name="share_and_delete_screenshot">Izbriši po deljenju</string>
   <string name="share_app_is_launching">{0,choice,0#Zagon aplikacije\u2026|1#%s se zaganja\u2026}</string>
   <string name="share_by_email_start">Deli %1$s v ozadju</string>
   <string name="share_by_email_successfully">Deljeno %1$s</string>
@@ -1871,6 +1882,7 @@ za fotografije"</string>
   <string name="solar_term_winter_solstice">Zimski solsticij</string>
   <string name="sort">Razvrsti</string>
   <string name="special_type_8k">AI 8K</string>
+  <string name="special_type_ai_audio">AI Audio</string>
   <string name="special_type_eye_repair">Popravljene zaprte oči s pomočjo AI</string>
   <string name="special_type_hdr">HDR</string>
   <string name="special_type_log">LOG</string>

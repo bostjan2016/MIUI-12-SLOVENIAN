@@ -39,6 +39,7 @@
   <string name="ads_install_button_isInstalling">Nameščanje</string>
   <string name="ads_install_button_waiting">Na čakanju</string>
   <string name="ads_summary">Ljudem ki so namestili %1$s je všeč tudi</string>
+  <string name="ads_summary_default_value">Ljudem ki so namestili to aplikacijo je všeč tudi</string>
   <string name="allPerms">Vse</string>
   <string name="all_permissions">Vsa dovoljenja</string>
   <string name="anonymous_source_continue">Nadaljuj</string>

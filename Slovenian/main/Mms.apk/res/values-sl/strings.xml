@@ -213,6 +213,13 @@
   <string name="copy_verification_code_tip">Uspešno kopirano</string>
   <string name="current_data_version">Verzija Mi sporočil</string>
   <string name="database_corruption">Popravljam…</string>
+  <string name="debug_about_mms">O MMS-u</string>
+  <string name="debug_category_db">Baza podatkov</string>
+  <string name="debug_category_others">Ostalo</string>
+  <string name="debug_close_success">Odpravlj. napak ni na voljo</string>
+  <string name="debug_enable_success">Odpravlj. napak je na voljo</string>
+  <string name="debug_export_db">Izvoz baze podatkov</string>
+  <string name="debug_title">Odpravlj. napak</string>
   <string name="del_private_contact">Odstrani vse zasebne stike</string>
   <string name="delete">Izbriši</string>
   <string name="delete_block_conversation">Izbriši ta razgovor</string>

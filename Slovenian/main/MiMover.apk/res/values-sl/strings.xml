@@ -67,6 +67,8 @@
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_to_restore">Obnovite sistemske elemente, tako da lahko po ponastavitvi na tovarniške nastavitve normalno uporabite MIUI. Tapnite za začetek.</string>
   <string name="close">Zapri</string>
+  <string name="close_cellular_summary">Vaša naprava zdaj uporablja mobilne podatke zaradi sistemskih omejitev. Izklopite mobilne podatke in se ponovno povežite z novo napravo.</string>
+  <string name="close_cellular_title">"Ne morem se povezati"</string>
     <string name="close_twice_auth_btn">Izklopite dvonivojsko avtentikacijo</string>
     <string name="close_twice_auth_note">"Pozor:
 Ko ustvarite novo varnostno vprašanje in potrdite datum rojstva bo Apple ID dvonivojska avtentikacija izklopljena. Če ne vidite opcije izklopitve dvonivojske avtentikacije na strani računa Apple ID, je ne morete izklopiti."</string>
@@ -463,6 +465,8 @@ Vaše zasebne podatke bomo varovali glede na ustrezne zakone, predpise in pravil
   <string name="prompt_before_transmission_message3_title">"Uporabite Drugi prostor"</string>
   <string name="prompt_before_transmission_message4_summary">"Ne izklopite omrežja WLAN ali preklopite iz enega v drugo omrežje, dokler prenos ni končan."</string>
   <string name="prompt_before_transmission_message4_title">Ostanite povezani ves čas prenosa</string>
+  <string name="prompt_before_transmission_message5_summary">"Brezžični prenos velikih količin podatkov lahko povzroči rahlo pregrevanje, kar ni redkost. Vaša naprava se bo kmalu po prenosu ohladila."</string>
+  <string name="prompt_before_transmission_message5_title">Vaša naprava se med prenosom lahko segreje.</string>
     <string name="qq_app">QQ</string>
   <string name="qq_app_receive_fail">"Ne morem sprejeti QQ"</string>
   <string name="qq_app_send_fail">"Ne morem poslati QQ"</string>
@@ -488,6 +492,7 @@ Podatki, ki niso uvoženi bodo morali biti ponovno uvoženi."</string>
 Sprostite najmanj %s."</string>
     <string name="scan_soft_ap_label">Povežite se na novo napravo</string>
     <string name="scanner_bottom_tip">Izberite samo pomembne stvari, da bi prenos potekel hitrejše.</string>
+  <string name="scanner_not_support_data_transfer_tip">Aplikacije za prenos podatkov iz telefonov, ki niso Xiaomi, niso podprte (vključno z zgodovino klepeta WeChat in QQ)</string>
     <string name="scanner_permission_alert_cancel">Razumem</string>
     <string name="scanner_permission_alert_ok">Nastavitve</string>
     <string name="scanner_quit_alert_btn_negative">Izhod</string>
