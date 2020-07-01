@@ -337,6 +337,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="additional_permissions_more">Še %1$d</string>
   <string name="additional_system_update_settings_list_item_title">Dodatne posodobitve sistema</string>
   <string name="adjust_3d_depth_title">"Prilagodite 3D globino iger"</string>
+  <string name="adjust_temperature_title">Temperatura barve</string>
   <string name="admin_device_owner_message">Skrbnik lahko nadzira in upravlja aplikacije ter podatke, povezane s to napravo, vključno z nastavitvami, dovoljenji, dostopom za podjetje, omrežno dejavnostjo in podatki o lokaciji naprave.</string>
     <string name="admin_disabled_other_options">Druge možnosti je onemogočil skrbnik</string>
   <string name="admin_more_details">Več podrobnosti</string>
@@ -346,6 +347,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="advanced_apps">Dodatne nastavitve</string>
     <string name="advanced_battery_graph_subtext">Ocena preostalega časa delovanja akumulatorja temelji na načinu uporabe naprave</string>
     <string name="advanced_battery_title">Poraba akumulatorja</string>
+  <string name="advanced_screen_paper_mode_title">Način branja</string>
     <string name="advanced_section_header">Dodatno</string>
     <string name="advanced_security_title">Dodatno</string>
     <string name="advanced_settings">Dodatne nastavitve</string>
@@ -696,6 +698,8 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="audio_list_loading">Nalaganje…</string>
   <string name="audio_profile_settings_title">Avdio profili</string>
   <string name="audio_record_proc_title">Zmanjšanje zunanjih zvokov</string>
+  <string name="auto_adjst_effect_summary">Prilagodi temperaturo barve okoljski svetlobi samodejno da boste održali optimalni nivo udobnosti</string>
+  <string name="auto_adjust_effect_title">Prilagodi temperaturo barve samodejno</string>
   <string name="auto_backup">Načrtuj varnostno kopiranje</string>
   <string name="auto_backup_all_user_apps">Vse aplikacije</string>
   <string name="auto_backup_choose">Varnostno kopiraj stvari</string>
@@ -1108,6 +1112,9 @@ Aplikacije:
     <string name="battery_used_by">%1$s porabil: %2$s</string>
     <string name="battery_used_for">Trajanje uporabe: ^1</string>
   <string name="bearer">Nosilec</string>
+  <string name="beauty_camera">Olepšanje za video klice</string>
+  <string name="beauty_camera_summary">Uporabi olepšanje za WeChat video klice</string>
+  <string name="beauty_camera_switch">Olepšanje</string>
     <string name="billing_cycle">Opozorilo in omejitev za prenos podatk.</string>
     <string name="billing_cycle_fragment_summary">Mesečno na dan %1$s</string>
     <string name="billing_cycle_less_than_one_day_left">Še manj kot 1 dan</string>
@@ -1441,7 +1448,7 @@ Avdio"</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Izbrišem to napravo?</string>
   <string name="bluetooth_unlock_device_matched_text">Uporabljaj to napravo za odklep.</string>
   <string name="bluetooth_unlock_no_matched_device_yet">Ni zaznanih naprav</string>
-  <string name="bluetooth_unlock_reject">Daljinec zavrača zahtevo za odklepanje</string>
+  <string name="bluetooth_unlock_reject">Zahteva za odklepanje te naprave je bila zavrnjena</string>
   <string name="bluetooth_unlock_settings_devices_title">Naprava</string>
   <string name="bluetooth_unlock_settings_toggle_title">Uporabi za</string>
   <string name="bluetooth_unlock_settings_unlock_device">Odkleni napravo</string>
@@ -1768,6 +1775,8 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="choose_unlock_face_msg">Nastavite zakl. zaslona pred snemanjem obraza.</string>
   <string name="choose_unlock_fingerprint_msg">Nastavite zaklj. zaslona pred dodajanjem prstnega odtisa.</string>
   <string name="choose_voice_input_title">Izbira glasovnega vnosa</string>
+  <string name="classic_mode_summary">Preklopite na toplejše barve, da zmanjšate količino modre svetlobe</string>
+  <string name="classic_mode_title">Klasično</string>
   <string name="cleaner">Čistilec</string>
   <string name="clear_activities">Počisti privzete nastavitve</string>
   <string name="clear_activities_summary">Uporabite to aplikacijo za nekatere privzete operacije</string>
@@ -2811,6 +2820,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="edge_touch_volume">Prilagodi glasnost na robovih</string>
   <string name="edit_rule">Uredi pravila</string>
   <string name="edit_rules">Uredi</string>
+  <string name="effect_preview">Predogled</string>
   <string name="eighthours">8 ur</string>
     <string name="emergency_address_summary">Uporabljen je kot vaš naslov, ko opravite klic v sili preko WiFi-ja</string>
     <string name="emergency_address_title">Naslov za nujne primere</string>
@@ -3608,6 +3618,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
 Nastavitev lahko pozneje spremenite v »Nastavitve > Aplikacije in obvestila«."</string>
     <string name="high_power_prompt_title">Želite omogočiti stalno izvajanje aplikacije v ozadju?</string>
   <string name="high_power_system">Optimizacija akumulatorja ni na voljo</string>
+  <string name="hint_unadjustable_text">"Ne morem ročno prilagoditi. Temperatura barve se zdaj samodejno prilagaja."</string>
   <string name="history_details_title">Podrobnosti zgodovine</string>
     <string name="home">Začetna stran nastavitev</string>
     <string name="home_app">Aplikacija na začetnem zaslonu</string>
@@ -5640,6 +5651,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="page_loading">Samo trenutek…</string>
     <string name="page_tab_title_summary">Vse</string>
     <string name="page_tab_title_support">Podpora in nasveti</string>
+  <string name="paper_color_title">Barve</string>
   <string name="palm_enabled">Pokrijte zaslon da ga boste izključili</string>
   <string name="paper_mode_auto_twilight_summary">Samodejno zamenjaj način branja na način branja po sončnem zahodu</string>
   <string name="paper_mode_auto_twilight_title">"Način branja po sončnem zahodu"</string>
@@ -5650,8 +5662,12 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="paper_mode_get_location_dlg_negative_btn_text">Prekliči</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Pojdi v nastavitve</string>
   <string name="paper_mode_get_location_dlg_title">Nastavi lokacijo</string>
+  <string name="paper_mode_reset">Vrni na privzeto</string>
   <string name="paper_mode_side_effect_hint">Večja intenzivnost lahko vpliva na način prikazovanja vsebine.</string>
   <string name="paper_mode_start_time_title">Vključi</string>
+  <string name="paper_mode_summary">Spremenite na toplejše barve in dodajte teksturo papirja ozadju, da zmanjšate obremenitev oči</string>
+  <string name="paper_mode_title">Papir</string>
+  <string name="papger_effect_category">Način</string>
     <string name="partial_connectivity_text">Nekatere aplik./storitve morda ne bodo delovale zaradi omej. povezljivosti. Želite vseeno uporabiti?</string>
     <string name="passpoint_content">Poverilnice za %1$s</string>
     <string name="passpoint_label">Shranjeno preko:</string>
@@ -6671,7 +6687,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_cancel">Prekliči</string>
   <string name="screen_cells_config_title">Razpored začet. zaslona</string>
   <string name="screen_color_and_optimize">Barve &amp; kontrast</string>
-  <string name="screen_color_and_optimize_disabled">"Ne morem nastaviti temperaturo barve v načinu za branje"</string>
+  <string name="screen_color_and_optimize_disabled">"Ne morem nastaviti barvno shemo in temperaturo barve v načinu za branje"</string>
   <string name="screen_color_temperature">Temperatura barve</string>
   <string name="screen_color_temperature_and_saturation">Barve &amp; osvetlitev</string>
   <string name="screen_compatibility_label">Združljivost zaslona</string>
@@ -6716,10 +6732,11 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_on_proximity_sensor_summary">Zakleni gibe dotika ko je v žepu</string>
   <string name="screen_on_proximity_sensor_title">Žepni način</string>
   <string name="screen_optimize">Kontrast</string>
-  <string name="screen_optimize_disabled">"Ne morem nastaviti kontrast če je vključen Način branja"</string>
+  <string name="screen_optimize_disabled">"Ne morem nastaviti barvno shemo če je vključen Način branja"</string>
   <string name="screen_paper_mode_adjust_level">Prilagodi</string>
   <string name="screen_paper_mode_apps_loading">Samo trenutek…</string>
   <string name="screen_paper_mode_apps_title">Uporabi Način branja</string>
+  <string name="screen_paper_mode_description">Način branja prilagodi barve in teksture elementov na zaslonu, kar omogoča, da se vaše oči sprostijo</string>
   <string name="screen_paper_mode_global_summary">Uporabi Način branja za vse aplikacije</string>
   <string name="screen_paper_mode_global_title">Vse aplikacije</string>
   <string name="screen_paper_mode_hdr_toast">"Način branja bo izključen dokler predvajate HDR videoposnetke. Po koncu predvajanja se bo samodejno vključil."</string>
@@ -6741,6 +6758,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Povezovanje s spletom</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Posodobi popis aplikacij ki samodejno uporabljajo način branja</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Posodobi samodejno</string>
+  <string name="screen_paper_texture">Tekstura</string>
   <string name="screen_pinning_description">"Ko je ta storitev vključena lahko s pripenjanjem zadržite trenutni zaslon v prvem planu dokler ga ne odpnete.
 
   Za pripenjanje zaslona:
@@ -7330,6 +7348,7 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
     <string name="set_data_warning">Nastavi opozorilo za prenos podatkov</string>
   <string name="set_jeejen_prompt_message">Jeejen bo nastavljen za privzeti zaganjalnik. To lahko spremenite v Nastavitve &gt; Sistemske nastavitve &gt; Zač. zaslon &amp; Nedavno &gt; Privzeti zaganjalnik.</string>
   <string name="set_jeejen_prompt_title">Potrdi spremembe</string>
+  <string name="set_screen_paper_mode">Način branja</string>
   <string name="set_password_action">Nastavi geslo</string>
   <string name="set_password_message">Nastavi geslo za izključitev Otroškega načina kot tudi za odklepanje te naprave.</string>
   <string name="set_password_title">Nastavi geslo</string>
@@ -8347,6 +8366,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="tethering_no_sim_alert_title">Ni SIM kartice</string>
   <string name="tethering_no_sim_card_text">Vstavite SIM kartico da lahko delite podatkovno povezavo z drugimi napravami z uporabo mobilne dostopne točke ali USB skupno rabo povezave s spletom.</string>
     <string name="tethering_settings_not_available">Nastavitve za povezavo s spletom preko mobilne naprave niso na voljo za tega uporabnika</string>
+  <string name="texture_adjust_temperature_title">Temperatura barve</string>
   <string name="tethering_settings_summary">"Delite mobilno podatkovno omrežje vaše naprave preko USB-a ali mobilnoe dostopne točke"</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Zbudite glasovnega pomočnika v načinu dela cel zaslon (brez virtualnih tipk)</string>
     <string name="theme_customization_accent_color_title">Barva poudarka</string>
@@ -10029,6 +10049,8 @@ Dovolite to vsem aplikacijam, ki želijo iskati?"</string>
   <string name="wifi_type_approval_title">Vrsta odobritve</string>
   <string name="wifi_unchanged">(nespremenjeno)</string>
     <string name="wifi_unmetered_label">Z neomejenim prenosom podatkov</string>
+  <string name="wifi_unsaved_network_linking">SSID Bridging ‑ Samodejna povezava</string>
+  <string name="wifi_unsaved_network_linking_summary">Omogoči poskuse samodejne povezave z novim WPA/WPA2‑PSK 5GHz SSID z trenutno povezanimi WPA/WPA2‑PSK 2GHz SSID poverilnicami za delno ujemanje SSID-a in BSSID-a</string>
     <string name="wifi_unspecified">Izberite</string>
   <string name="wifi_update">Osveži statistike</string>
     <string name="wifi_use_system_certs">Uporabi sistemska potrdila</string>
@@ -10067,6 +10089,8 @@ Shramba poverilnic morda ne bo omogočena"</string>
   <string name="wifi_wapi_psk_type">Vrsta gesla</string>
   <string name="wifi_wapi_user_cert">Uporabniški certifikat</string>
   <string name="wifi_wapi_user_certificate">Uporabniški certifikat</string>
+  <string name="wifi_whitelist_roaming">SSID Bridging ‑ Hitra predaja</string>
+  <string name="wifi_whitelist_roaming_summary">Omogoči gostovanje med različnimi SSID WPA/WPA2‑PSK AP-i z istim MAC naslovom</string>
   <string name="wifi_wps_available_first_item">WPS je na voljo</string>
   <string name="wifi_wps_available_second_item">" (WPS je na voljo)"</string>
   <string name="wifi_wps_complete">Nastavitev WPS je uspela. Povezovanje z omrežjem…</string>

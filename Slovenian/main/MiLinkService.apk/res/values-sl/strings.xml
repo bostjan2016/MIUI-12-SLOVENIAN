@@ -119,7 +119,26 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
   <string name="notification_rc_title">XiaoMi TV pomočnik</string>
   <string name="notification_show_more">Poglejte dodatne storitve</string>
   <string name="privacy_agree">Strinjam se</string>
-  <string name="privacy_text_1">　　Vabljeni k uporabi storitve screencast. Storitev predvajanja zaslonov ponuja Milian, nekatere storitve predvajanja zaslona pa podpirajo televizijski ekrani drugih proizvajalcev. Če želite zagotoviti svojo zasebnost, ne pozabite prebrati&lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
+  <string name="privacy_detail">&lt;Data&gt;Ta aplikacija se mora povezati s spletom in zbrati potrebne osebne podatke, da lahko normalno deluje. Če želite v celoti razumeti svoje pravice kot uporabnika in načine uporabe vaših podatkov, preberite in se strinjate z &amp;lt;a href=%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="privacy_detail_extra">&lt;Data&gt;Nekatere storitve ponuja ponudnik storitev HappyCast. Pred uporabo te storitve preberite in se strinjajte z &amp;lt;a href=%1$s&amp;gt;HappyCast Pravila o zasebnosti&amp;lt;/a&amp;gt; in &amp;lt;a href=%2$s&amp;gt;HappyCast Pogoji uporabe&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="privacy_explain">"Dobrodošli v predvajanje! Predvajanje vam omogoča, da stvari iz svojega zaslona telefona predvajate na večji zunanji zaslon. Ta aplikacija mora biti povezana s spletom in za normalno delovanje potrebuje naslednja dovoljenja:"</string>
+  <string name="privacy_negative">Izhod</string>
+  <string name="privacy_permission_ble">Vklop in izklop Bluetootha</string>
+  <string name="privacy_permission_ble_desc">Iskanje naprav v bližini</string>
+  <string name="privacy_permission_location">Dostop do lokacije</string>
+  <string name="privacy_permission_location_desc">Iskanje naprav v bližini</string>
+  <string name="privacy_permission_necessary">Obvezna dovoljenja</string>
+  <string name="privacy_permission_necessary_desc">Ta dovoljenja so potrebna za omogočanje osnovnih funkcij in storitev te aplikacije.</string>
+  <string name="privacy_permission_nfc">NFC</string>
+  <string name="privacy_permission_nfc_desc">Za seznanjanje naprav ki uporabljajo NFC</string>
+  <string name="privacy_permission_optional">Dodatna dovoljenja</string>
+  <string name="privacy_permission_optional_desc">"Uporablja se za dodatne storitve med uporabo"</string>
+  <string name="privacy_permission_wlan">Vklop in izklop WiFi-ja</string>
+  <string name="privacy_permission_wlan_china">Vklop in izklop WiFi-ja</string>
+  <string name="privacy_permission_wlan_desc">Iskanje naprav v bližini</string>
+  <string name="privacy_permission_wlan_desc_china">Iskanje naprav v bližini</string>
+  <string name="privacy_positive">SlStrinjamažem se</string>
+  <string name="privacy_text_1">　　Dobrodošli k uporabi storitve predvajanja zaslona. Storitev predvajanja zaslonov ponuja Milian, nekatere storitve predvajanja zaslona pa podpirajo televizijski ekrani drugih proizvajalcev. Če želite zagotoviti svojo zasebnost, ne pozabite prebrati&lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
   <string name="privacy_text_2">　　S klikom Strinjam se strinjate z navedeno&lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;vsebino in dodeljenim privilegijem.</string>
   <string name="privacy_text_pemission">"　　• Omrežna dovoljenja WIFI se uporabljajo za odkrivanje in povezovanje naprav.
 　　•Bluetooth se uporablja za odkrivanje in povezovanje naprav.
@@ -127,6 +146,7 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
 　　•Pridobite podatke o telefonu. Preberite IMEI, Android_id, verzijo in posnetke poročil v telefonu.
 　　•Po branju zvoka oddajte zvok napravi z velikim zaslonom.
 　　•Dovoljenja ciljanja. Poiščite in odkrivajte okoliške naprave."</string>
+  <string name="privacy_title">Pozor</string>
   <string name="private_protect">Varujte zasebnost</string>
   <string name="san_wait_msg_1">Ciljna naprava mora vključiti brezžično predvajanje</string>
   <string name="san_wait_msg_2">Iskanje naprav lahko traja nekaj časa…</string>

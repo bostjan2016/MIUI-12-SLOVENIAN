@@ -66,12 +66,14 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="app_name">Teme</string>
   <string name="apply_choosen_type_resource">Nastavi izbrane stvari</string>
   <string name="apply_default_font_tip">"Uporabljam trenutno sistemsko pisavo?"</string>
+  <string name="apply_failed">"Ne morem nastaviti"</string>
   <string name="apply_font_btn_exclude">Ne zdaj</string>
   <string name="apply_font_btn_reboot">Ponovni zagon</string>
   <string name="apply_font_tip">"Ponovni zagon za uporabo te teme pisave."</string>
   <string name="apply_not_support_aod">"Vedno na zaslonu ni podprto v tej napravi"</string>
   <string name="apply_not_support_in_second_space">"Ne morem uporabiti v Drugem prostoru"</string>
   <string name="apply_not_support_maml_aod">"Ne morem kombinirati Vedno na zaslonu s temami v tej napravi"</string>
+  <string name="apply_succeed">Nastavljeno</string>
   <string name="apply_success_not_enable_aod">Najprej vključite Vedno na zaslonu v nastavitvah</string>
   <string name="apply_success_not_support_aod">"Ne morem kombinirati Vedno na zaslonu s temami v tej napravi. Ostali deli te teme so uspešno nastavljeni."</string>
   <string name="apply_theme_with_ringtones">Uporabite melodijo zvonenja teme</string>
@@ -224,6 +226,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="dev_options">DEV OPCIJE</string>
   <string name="dev_options_summary">spletni vir</string>
   <string name="dialog_show_never">"Ne kaži več."</string>
+  <string name="display">Zaslon</string>
   <string name="download_failed">"Ne morem prenesti"</string>
   <string name="download_preview_failed">"Ne morem naložiti predogleda"</string>
   <string name="download_success">Prenos končan</string>
@@ -878,6 +881,14 @@ dd.MM"</string>
   <string name="set_home_wallpaper_failed">"%s. Ne morem nastaviti slike ozadja zač. zaslona."</string>
   <string name="setting_font_online">Online fonti</string>
   <string name="settings">Nastavitve</string>
+  <string name="settings_search_keyword_font_free">Brezplačni fonti</string>
+  <string name="settings_search_keyword_font_home">Fonti zač. zaslona</string>
+  <string name="settings_search_keyword_font_input">Fonti načina vnosa</string>
+  <string name="settings_search_keyword_font_keyboard">Fonti tipkovnice</string>
+  <string name="settings_search_keyword_font_manager">Urejanje fonte</string>
+  <string name="settings_search_keyword_font_online">Online fonti</string>
+  <string name="settings_search_keyword_font_style">Format fonta</string>
+  <string name="settings_search_keyword_font_wechat">WeChat fonti</string>
   <string name="shortcut_add">Dodaj</string>
   <string name="shortcut_cancel">Ne, hvala</string>
   <string name="shortcut_message">Dodajte bližnjico začetnega zaslona!</string>

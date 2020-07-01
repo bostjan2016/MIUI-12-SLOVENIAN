@@ -160,12 +160,12 @@
   <string name="callrecordview_menu_batch_delete">Izbriši serijo</string>
   <string name="callrecordview_menu_blocklist">Seznam blokiranih</string>
   <string name="callrecordview_menu_conference">Konferenčni klic</string>
-  <string name="callrecordview_menu_delete">"Počisti zgodovino klicev"</string>
-  <string name="callrecordview_menu_delete_accepted">Počisti odgovorjene klice</string>
-  <string name="callrecordview_menu_delete_all">Počisti zgodovino klicev</string>
-  <string name="callrecordview_menu_delete_called">Počisti odhodne klice</string>
+  <string name="callrecordview_menu_delete">Izbriši</string>
+  <string name="callrecordview_menu_delete_accepted">Izbriši odgovorjene klice</string>
+  <string name="callrecordview_menu_delete_all">Izbriši zgodovino klicev</string>
+  <string name="callrecordview_menu_delete_called">Izbriši odhodne klice</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
-  <string name="callrecordview_menu_delete_missed">Počisti neodgovorjene klice</string>
+  <string name="callrecordview_menu_delete_missed">Izbriši neodgovorjene klice</string>
   <string name="callrecordview_menu_delete_new">Izbriši zgodovino klicev za nove stike</string>
   <string name="callrecordview_menu_delete_one">"Odstrani iz zgodovine klicev"</string>
   <string name="callrecordview_menu_delete_sim">Izbriši zgodovino klicev (%s)</string>

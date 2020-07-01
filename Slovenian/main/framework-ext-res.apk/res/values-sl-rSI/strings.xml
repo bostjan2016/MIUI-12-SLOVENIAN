@@ -47,6 +47,8 @@
   <string name="confirm_cancel_task_files">Odložim pošiljanje datotek na %1$s?</string>
   <string name="confirm_cancel_task_images">Odložim pošiljanje slik na %1$s?</string>
   <string name="content_description_dial">Klic</string>
+  <string name="content_description_next">Naprej</string>
+  <string name="content_description_previous">Nazaj</string>
   <string name="content_description_search">Išči</string>
   <string name="content_description_share">Deli</string>
   <string name="content_description_translate">Prevedi</string>

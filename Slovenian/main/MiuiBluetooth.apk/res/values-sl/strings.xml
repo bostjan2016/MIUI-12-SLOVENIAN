@@ -599,6 +599,8 @@ Avdio"</string>
     <string name="wifi_status_no_internet">Brez spletne povezave</string>
     <string name="wifi_status_sign_in_required">Zahtevana je prijava</string>
     <string name="wifi_unmetered_label">Z neomejenim prenosom podatkov</string>
+  <string name="wifi_unsaved_network_linking">SSID Bridging ‑ Samodejna povezava</string>
+  <string name="wifi_unsaved_network_linking_summary">Omogoči poskuse samodejne povezave z novim WPA/WPA2‑PSK 5GHz SSID z trenutno povezano WPA/WPA2‑PSK 2GHz SSID poverilnico za delno ujemanje SSID-a in BSSID-a</string>
     <string name="wifi_verbose_logging">Omogoči podrobno zapisovanje dnevnika za WiFi</string>
     <string name="wifi_verbose_logging_summary">Povečaj raven zapisovanja dnevnika za WiFi; v izbirniku WiFi-ja pokaži glede na SSID RSSI</string>
   <string name="wifi_wapi_as_certificate">AS certifikat</string>
@@ -610,6 +612,8 @@ Preverite veljavnost certifikata"</string>
 Shramba poverilnic mogoče ni omogočena"</string>
   <string name="wifi_wapi_psk_type">Vrsta gesla</string>
   <string name="wifi_wapi_user_certificate">Uporabniški certifikat</string>
+  <string name="wifi_whitelist_roaming">SSID Bridging ‑ Fast Handover</string>
+  <string name="wifi_whitelist_roaming_summary">Omogoči gostovanje med različnimi SSID WPA/WPA2‑PSK AP-i z istim MAC naslovom</string>
     <string name="window_animation_scale_title">Merilo animacije okna</string>
     <string name="zen_alarm_warning">Naslednjega alarma ob %1$s ne boste slišali</string>
     <string name="zen_alarm_warning_indef">Naslednjega alarma ob %1$s ne boste slišali, razen če prej izklopite to nastavitev</string>

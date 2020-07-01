@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s fotografij</item>
+        <item quantity="one">%1$s fotografija</item>
+    </plurals>
     <plurals name="toast_burst_snap_finished_summary">
         <item quantity="other">Hitro zaporedno snemanje končano, posneto fotografij: %1$s</item>
         <item quantity="one">Hitro zaporedno snemanje končano, posneta %1$s fotografija</item>

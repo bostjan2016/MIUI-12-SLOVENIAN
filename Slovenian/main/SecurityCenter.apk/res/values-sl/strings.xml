@@ -944,6 +944,10 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="choose">Izberi</string>
   <string name="choose_gs_show_way">Izberite orientacijo začetne strani</string>
   <string name="clean_immediately">Očisti</string>
+  <string name="clean_master_icon_recall_button_text">Dodaj</string>
+  <string name="clean_master_icon_recall_summary">Dodajte bližnjico na zač. zaslon da boste kadarkoli očistili smeti.</string>
+  <string name="clean_master_icon_recall_title">Hitreje očistite smeti</string>
+  <string name="clean_master_icon_recall_toast_text">Bližnjica dodana</string>
   <string name="cleaned">Očiščeno</string>
   <string name="clear_bigfiles">Izbriši velike datoteke, dvojnike fotografij in druge nepotrebne stvari</string>
   <string name="clear_garbage">Izbrišite Smeti in sprostite prostor</string>
@@ -3264,7 +3268,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="section_title_clear_acc">Očisti predpomnilnik</string>
   <string name="section_title_security_defend">Varnost</string>
   <string name="section_title_system">Varnost sistema</string>
-  <string name="security_bottom_guide_to_pm_text">Odpiranje Utility Kit…</string>
+  <string name="security_bottom_guide_to_pm_text">Spusti za odpiranje orodja</string>
   <string name="security_app_lock">Zakl. aplikacije</string>
   <string name="security_center_slogan">Varnost. Zmeraj na preži.</string>
   <string name="security_guide_bubble_text">Odpri</string>

@@ -681,9 +681,12 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="starred_contact">Priljubljeno</string>
   <string name="start_micloud">Začni</string>
   <string name="storage">Prostor za shranjevanje</string>
+  <string name="storage_manage_cloud_data_title">Poglejte stvari v Cloudu</string>
   <string name="storage_manage_expansion">Nabavite več</string>
+  <string name="storage_manage_full_summary">Cloud shramba je polna. Nadgradite svoj plan.</string>
   <string name="storage_manage_list_title">Cloud podatki</string>
   <string name="storage_manage_list_title_action">Pokaži več</string>
+  <string name="storage_manage_normal_summary">Zamenjajte plan shranjevanja v Cloudu</string>
   <string name="storage_manage_renewal">Obnovi</string>
   <string name="storage_manage_title">Zamenjaj plan Mi Cloud shrambe</string>
   <string name="storage_manage_upgrade">Nadgradi</string>
