@@ -676,10 +676,10 @@ dd.MM"</string>
   <string name="resource_comment_score_count">%1$s uporabnikov</string>
   <string name="resource_comment_sending">Pošiljanje komentarja...</string>
   <string name="resource_comment_title">Komentarji: %1$s</string>
+  <string name="resource_comment_error_not_bought">Morate uporabiti temo preden lahko pišete komentarje o njej</string>
   <string name="resource_comment_upload_data_invalid">Komentar ki ste ga vnesli je neveljaven</string>
   <string name="resource_comment_upload_failed">"Ne morem poslati komentarja"</string>
   <string name="resource_comment_upload_hint">Vaš komentar bo prikazan po kratkem pregledu.</string>
-  <string name="resource_comment_upload_not_bought">Morate uporabiti temo preden lahko pišete komentarje o njej</string>
   <string name="resource_comment_upload_not_logined">Niste prijavljeni!</string>
   <string name="resource_comment_upload_success">Vaš komentar bo prikazan po kratkem pregledu.</string>
   <string name="resource_comment_wonderful_comments">Popularni komentarji</string>
@@ -724,7 +724,7 @@ dd.MM"</string>
   <string name="resource_exchange_share_code_dlg_content">Darilna koda za %1$s je %2$s. Ko jo pošljete drugemu MIUI uporabniku jo lahko uporabi za prenos te teme.</string>
   <string name="resource_exchange_share_code_dlg_title">Pošiljam</string>
   <string name="resource_exchange_success">Uživajte !</string>
-  <string name="resource_exchange_unavailable">Tema povezana s kodo ki ste jo vnesli ni na voljo.</string>
+  <string name="resource_exchange_unavailable">"Ta storitev trenutno ni na voljo"</string>
   <string name="resource_exchange_universal_finish">Uporabite to kodo za prenos tem iz Trgovine tem.</string>
   <string name="resource_exchange_universal_goon">Ta koda se lahko uporablja za prenos katerekoli teme iz Tem.</string>
   <string name="resource_exchange_window_title">Pridobi</string>
@@ -941,8 +941,6 @@ dd.MM"</string>
   <string name="theme_batch_update_dlg_title">Posodobitev teme…</string>
   <string name="theme_batch_updating_text">Posodobitev (%1$d)</string>
   <string name="theme_bug_report">Pov. informacije</string>
-  <string name="theme_changed_failed_message">"Ne morem nastaviti teme"</string>
-  <string name="theme_changed_message">Tema nastavljena</string>
   <string name="theme_changing_dialog_title">Nastavljanje teme…</string>
   <string name="theme_comment_detail_no_more">"To je za zdaj vse"</string>
   <string name="theme_comment_detail_sub_comment_title">Vsi odgovori</string>
