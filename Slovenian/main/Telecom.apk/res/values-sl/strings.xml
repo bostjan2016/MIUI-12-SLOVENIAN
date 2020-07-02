@@ -198,7 +198,7 @@ Avdio"</string>
   <string name="can_not_dial_while_vt_prompt">"Ne morem klicati dokler poteka videoklic"</string>
     <string name="cancel">Prekliči</string>
     <string name="cant_call_due_to_no_supported_service">Klica ni mogoče vzpostaviti, ker ni računov za klicanje, ki podpirajo tovrstne klice.</string>
-  <string name="cant_call_due_to_ongoing_call">"Ne morem klicati zaradi %1$s poziva."</string>
+  <string name="cant_call_due_to_ongoing_call">"Ne morem klicati zaradi %1$s klica."</string>
   <string name="cant_call_due_to_ongoing_calls">"Ne morem klicati. Najprej končajte %1$s klic."</string>
   <string name="cant_call_due_to_ongoing_unknown_call">Ne morem klicati zaradi klica v drugi aplikaciji.</string>
     <string name="category_personal">Osebno</string>
