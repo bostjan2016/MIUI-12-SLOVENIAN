@@ -45,7 +45,7 @@
         <item quantity="one">%s krat</item>
      </plurals>
     <plurals name="fw_blocked_count_call">
-         <item quantity="other">%1$d klicov od %2$s in drugih</item>
+         <item quantity="other">%1$d klicev od %2$s in drugih</item>
          <item quantity="one">%1$d klic od %2$s</item>
      </plurals>
 	 <plurals name="fw_blocked_count_call_one">
@@ -58,7 +58,7 @@
      </plurals>
      <plurals name="marked_by_others">
          <item quantity="other">%d drugih uporabnikov je označilo kot</item>
-         <item quantity="one">%d drugi uporabnik je označil kot</item>
+         <item quantity="one">%d drug uporabnik je označil kot</item>
       </plurals>
 	  <plurals name="st_show_num_keyword">
          <item quantity="other">%d ključnih besed</item>
@@ -144,7 +144,7 @@
         <item quantity="one">%s dan ostane</item>
     </plurals>
     <plurals name="pc_main_sub_battery_text_hour">
-        <item quantity="other">%s sati ostane</item>
+        <item quantity="other">%s ur ostane</item>
         <item quantity="one">%s ura ostane</item>
     </plurals>
     <plurals name="pc_main_sub_battery_text_minute">
@@ -152,16 +152,16 @@
         <item quantity="one">%s min. ostane</item>
     </plurals>
     <plurals name="pc_main_power_manager_day">
-        <item quantity="other">%s dni do popolnega polnjenja</item>
-        <item quantity="one">%s dan do popolnega polnjenja</item>
+        <item quantity="other">%s dni do popolnega napolnjenja</item>
+        <item quantity="one">%s dan do popolnega napolnjenja</item>
     </plurals>
     <plurals name="pc_main_power_manager_hour">
-        <item quantity="other">%s ur do popolnega polnjenja</item>
-        <item quantity="one">%s ura do popolnega polnjenja</item>
+        <item quantity="other">%s ur do popolnega napolnjenja</item>
+        <item quantity="one">%s ura do popolnega napolnjenja</item>
     </plurals>
     <plurals name="pc_main_power_manager_minute">
-        <item quantity="other">%s min. do popolnega polnjenja</item>
-        <item quantity="one">%s min. do popolnega polnjenja</item>
+        <item quantity="other">%s min. do popolnega napolnjenja</item>
+        <item quantity="one">%s min. do popolnega napolnjenja</item>
     </plurals>
 	 <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">Porabljeno %2$d%% baterije zadnjih %1$d min.</item>
