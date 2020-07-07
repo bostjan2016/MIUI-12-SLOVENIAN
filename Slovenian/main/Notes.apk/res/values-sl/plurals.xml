@@ -137,7 +137,7 @@
         <item quantity="one">%1$s beležka</item>
     </plurals>
 	<plurals name="todo_terms">
-        <item quantity="other">%1$s beležk</item>
-        <item quantity="one">%1$s beležka</item>
+        <item quantity="other">%1$s nalog</item>
+        <item quantity="one">%1$s naloga</item>
     </plurals>
 </resources>

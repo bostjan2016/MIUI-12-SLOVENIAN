@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_other">Ostalo</string>
   <string name="actionbar_button_up_description">Nazaj</string>  
   <string name="casting_tips">Predvajanje…</string>
+  <string name="clearable_edittext_clear_description">Očisti</string>
+  <string name="close_hotspot_hint">Izključite prenosni hotspot pred predvajanjem</string>
+  <string name="close_slave_wifi_hint">Odklopite se z pomožnega WiFi omrežja pred predvajanjem</string>
+  <string name="close_slave_wifi_hint_china">Odklopite se z pomožnega WiFi omrežja pred predvajanjem</string>
   <string name="console_guide_btn_got_it">Razumem</string>
   <string name="console_guide_subtitle_hang_up">"Ne prekinjajte predvajanja ko se zaslon telefona izključi. Lahko povzroči večjo porabo energije."</string>
   <string name="console_guide_subtitle_private">"Ne predvajaj lebdečih obvestil, obvestil o dohodnih klicih in druge stvari ki lahko vsebujejo osebne podatke"</string>
@@ -35,6 +40,7 @@ Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="dialog_select_tv">Izberite napravo (%d)</string>
   <string name="dialog_show_help">Pomoč</string>
   <string name="disconnect">Ustavi predvajanje</string>
+  <string name="enable_screen_projection_summary">Predvajaj vsebino zaslona na zunanji monitor</string>
   <string name="hang_up">Predvajaj ko je ekran izključen</string>
   <string name="hang_up_alert_dialog_content">"Predvajanje se ne bo prekinilo ko se zaslon vašega telefona izključi. Pritisnite tipko za vklop na telefonu da boste ponovno vključili zaslon."</string>
   <string name="hang_up_alert_dialog_neg">Prekliči</string>
@@ -114,10 +120,12 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
 4. V primeru drugih težav uporabite aplikacijo Povratne informacije."</string>
   <string name="help_page_text_55_global">"Če se ne morete povezati na omrežje preverite ali vaš zunanji monitor podpira Miracast storitev in ali je vključena. Pri različnih modelih se to lahko imenuje brezžični zaslon, predvajanje zaslona ali večkratni zaslon.</string> 
   <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
+  <string name="keyguard_security_setting_privacy_policy">Pravila o zasebnosti</string>
   <string name="nfc_connect_failed_toast">"Ne morem predvajati. Poskusite ponovno."</string>
   <string name="notification_rc_desc">Najboljši TV pomočnik za prenos vaših videov, fotografij in aplikacij v XiaoMi Box (ali TV) za vaš mobilni telefon, poskusite zdaj!</string>
   <string name="notification_rc_title">XiaoMi TV pomočnik</string>
   <string name="notification_show_more">Poglejte dodatne storitve</string>
+  <string name="open_game_accelerate">Vključi Game Turbo</string>
   <string name="privacy_agree">Strinjam se</string>
   <string name="privacy_detail">&lt;Data&gt;Ta aplikacija se mora povezati s spletom in zbrati potrebne osebne podatke, da lahko normalno deluje. Če želite v celoti razumeti svoje pravice kot uporabnika in načine uporabe vaših podatkov, preberite in se strinjate z &amp;lt;a href=%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="privacy_detail_extra">&lt;Data&gt;Nekatere storitve ponuja ponudnik storitev HappyCast. Pred uporabo te storitve preberite in se strinjajte z &amp;lt;a href=%1$s&amp;gt;HappyCast Pravila o zasebnosti&amp;lt;/a&amp;gt; in &amp;lt;a href=%2$s&amp;gt;HappyCast Pogoji uporabe&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
@@ -153,7 +161,26 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
   <string name="san_wait_msg_3">"Zunanje naprave lažje najdete če so povezane na isto omrežje kot vaš telefon"</string>
   <string name="san_wait_msg_4">"Poglejte \"Pomoč\" če ne najdete naprav"</string>
   <string name="service_name">UniPlay storitev</string>
-  <string name="small_window">Minimiziraj okno</string>
+  <string name="screen_projection">Predvajaj</string>
+  <string name="screen_projection_characteristics">Posebne storitve</string>
+  <string name="screen_projection_characteristics_off_screen_summary">Predvajanje lahko nadaljujete, ko je zaslon naprave izklopljen. Ta storitev zmanjšuje porabo energije.</string>
+  <string name="screen_projection_characteristics_off_screen_title">Predvajaj z izključenim zaslonom</string>
+  <string name="screen_projection_characteristics_privacy_protect_summary">"Na zunanjih monitorjih ne kaži plavajočih obvestil, dohodnih klicev in drugih zasebnih stvari."</string>
+  <string name="screen_projection_characteristics_privacy_protect_title">Skrij zasebne stvari</string>
+  <string name="screen_projection_characteristics_small_window_summary">"Zmanjšajte okno oddajanja, da boste lahko uporabljali druge storitve telefona."</string>
+  <string name="screen_projection_characteristics_small_window_title">Zmanjšaj okno</string>
+  <string name="screen_projection_example_document_summary">Oglejte si predstavitve na zunanjem zaslonu, ko se pomikate po diapozitivih in si ogledujete zapiske v telefonu. Pojdite v Raziskovalec &gt; Dokumenti da poskusite to storitev.</string>
+  <string name="screen_projection_example_document_title">Dokumenti</string>
+  <string name="screen_projection_example_gallery_summary">Dotaknite se gumba Skupna raba pod stvarjo v aplikaciji Galerija, da jo prikažete na zunanjem monitorju.</string>
+  <string name="screen_projection_example_gallery_title">Fotografije &amp; videoposnetki</string>
+  <string name="screen_projection_example_game_summary">Game Turbo omogoča pretakanje iger na zunanji zaslon. Uporabite bližnjice v orodni vrstici Game Turbo, da vklopite to storitev.</string>
+  <string name="screen_projection_example_game_title">Igre</string>
+  <string name="screen_projection_help">Pomoč</string>
+  <string name="screen_projection_sample_summary">Predvajanje dokumentov, iger, fotografij in videoposnetkov</string>
+  <string name="screen_projection_sample_title">Demo</string>
+  <string name="screen_projection_title">Predvajaj</string>
+  <string name="search_menu_title">Išči</string>
+  <string name="small_window">Zmanjšaj okno</string>
   <string name="small_window_not_supported">"Ne morete zmanjšati te aplikacije dokler se predvaja"</string>
   <string name="status_bar_in_casting">Predvajanje</string>
   <string name="status_bar_in_casting_long">Kliknite za razširitev dodatnih storitev</string>

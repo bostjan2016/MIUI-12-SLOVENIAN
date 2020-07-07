@@ -98,7 +98,7 @@
   <string name="handy_mode_enter_dlg_title">Delo z eno roko</string>
   <string name="handy_mode_summary">Da zaprete se dotaknite temnega področja zaslona</string>
   <string name="handy_mode_title">Delo z eno roko</string>
-  <string name="help">Poglej pomoč</string>
+  <string name="help">"Ne morete najti naprav?"</string>
   <string name="help_content">"Če ne najdete potrebne naprave, prosite drugo osebo da vključi Mi Share."</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Postavite vaš prst na gumb Domov</string>
   <string name="input_method_clipboard_check_more_add_to_phrase">Dodajte pogoste izraze</string>

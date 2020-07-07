@@ -162,6 +162,10 @@
   <string name="block_ads_choice_continue">Nadaljuj</string>
   <string name="block_ads_message">Želite blokirati sporočila s te spletne strani?</string>
   <string name="block_ads_title">Vsebina lahko vsebuje oglase</string>
+  <string name="book_mark_input_title_hint">Vnesite ime</string>
+  <string name="book_mark_input_url_hint">Vnesite povezavo</string>
+  <string name="book_mark_search_hint">Išči %1$s vsebino</string>
+  <string name="book_mark_spinner_name">Razvrščanje</string>
   <string name="bookmark">Zaznamek</string>
   <string name="bookmark_add_to">Dodaj</string>
   <string name="bookmark_btn_select_all">Izberi vse</string>
@@ -786,6 +790,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="more_option">Več možnosti</string>
   <string name="morning">Jutro</string>
   <string name="movie_player_3g_tip_retry">Nadaljuj</string>
+  <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="movie_player_loading">Kmalu prihaja: %s</string>
   <string name="mw_abc_action_bar_home_description">Na začetno</string>
   <string name="mw_abc_action_bar_up_description">Gor</string>
@@ -881,6 +886,33 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="mw_common_signin_button_text">Prijava</string>
   <string name="mw_common_signin_button_text_long">Prijava preko Googlea</string>
   <string name="mw_copy_to_clipboard_failure_message">Ni kopirano v odložišče</string>
+  <string name="mw_crash_label">Zrušenje (%1$s) - [%2$s]</string>
+  <string name="mw_crash_report_button_text">Navedite več informacij</string>
+  <string name="mw_crash_report_template">"VAŽNO: Vaše rušenje je bilo že samodejno prijavljeno v naš sistem. To morate izpolniti le, če lahko delite več informacij, na primer korake predvajanja pri rušenju.
+
+Ime naprave:
+Android OS verzija:
+WebView verzija (Na Androidu L-M je to verzija \"Android System WebView\" aplikacija. Na Androidu N-P je najverjetneje Chromova verzija. Različico katere koli aplikacije najdete v Nastavitve &gt; Aplikacije &gt; 3 pike v zgornjem desnem kotu &gt; Pokaži sistem.):
+Opomba: (Če je mogoče, nastavite povezavo do strani Trgovine Play. Povezavo dobite v aplikaciji Trgovina Play, tako da v zgornjem desnem kotu tapnete 3 pike 
+&gt; Deli &gt; Kopiraj v odložišče.
+Ali poiščite aplikacijo na spletnem mestu Trg. Play: https://play.google.com/store/apps .)
+Verzija aplikacije:
+
+
+Koraki za reprodukcijo:
+(1)
+(2)
+(3)
+
+
+Pričakovani rezultat:
+(Kaj naj bi se zgodilo?)
+
+
+****NE MENJAJTE TEGA SPODAJ****
+Crash ID: http://crash/%1$s"</string>
+  <string name="mw_crashes_list_activity_title">WebView rušenje</string>
+  <string name="mw_crashes_num">Rušenje (%1$d)</string>
   <string name="mw_data_traffic_prompt_change">"Uporaba vaše mobilne podatkovne povezave za gledanje videoposnetkov bo povečala porabo podatkov. Operater vam to lahko zaračuna."</string>
   <string name="mw_data_traffic_prompt_message">"Uporaba vaše mobilne podatkovne povezave za gledanje na spletu bo povečala porabo podatkov. Operater vam to lahko zaračuna."</string>
   <string name="mw_data_traffic_prompt_message_short">Uporaba mobilnih podatkov za stream videoposnetkov lahko pozroči prekoračitev porabe podatkov</string>
@@ -911,6 +943,7 @@ Zapustim to stran?"</string>
   <string name="mw_login_dialog_title">Potrebna avtentikacija</string>
   <string name="mw_login_dialog_username_field">Ime uporabnika:</string>
   <string name="mw_low_memory_error">Ne morem dokončati zaradi premalo prostora</string>
+  <string name="mw_menu_refresh">Osveži</string>
   <string name="mw_media_player_error_button">V redu</string>
   <string name="mw_media_player_error_text_invalid_progressive_playback">Videoposnetek ni v redu.</string>
   <string name="mw_media_player_error_text_unknown">Ne morem predvajati videoposnetka.</string>
@@ -1171,9 +1204,10 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="mw_time_picker_dialog_pm">PM</string>
   <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="mw_time_picker_dialog_title">Nastavite čas</string>
+  <string name="mw_url_copied">Povezava je kopirana.</string>
   <string name="mw_title_bar_loading">Nalaganje…</string>
   <string name="mw_updating_chrome">Posodabljanje Chrome…</string>
-  <string name="mw_video_buffering_percent">"Buffering "</string>
+  <string name="mw_video_buffering_percent">"Nalaganje "</string>
   <string name="mw_video_float_window">Pop-up</string>
   <string name="mw_video_float_window_playing">Predvajanje videoposnetka</string>
   <string name="mw_video_play_error">"Ne morem predvajati videoposnetka"</string>

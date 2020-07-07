@@ -73,6 +73,7 @@
   <string name="check_in_todo_app">Pokaži naloge</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="cloud_service_state_open_reminder">Vključite sinhr. z Mi Cloudom da sinhronizirate beležke.</string>
+  <string name="cloud_service_state_open_reminder_note_and_todo">Vključite sinhr. z Mi Cloudom</string>
   <string name="cloud_trash_bin_title">Izbriši beležke v Mi Cloudu</string>
   <string name="confirm_cancel">"Ne strinjam se"</string>
   <string name="confirm_ok">Strinjam se</string>
@@ -83,6 +84,7 @@
   <string name="cta_dialog_message">Aplikacija beležke potrebuje povezavo s spletom, snemanje zvoka in dostop do vaših stikov za normalno delovanje. Dovolim?</string>
   <string name="cta_dialog_title">Potrebno je dovoljenje</string>
   <string name="cta_reminder">Aplikacija beležke potrebuje povezavo s spletom, snemanje zvoka in dostop do vaših stikov za normalno delovanje. Dovolim?</string>
+  <string name="cta_v2_agree_desc">Dovoli tej aplikaciji, da se poveže s spletom in ji dodeli potrebna dovoljenja, navedena zgoraj.</string>
   <string name="cta_v2_app_purpose">Izdelava, pregled in urejanje beležk</string>
   <string name="cta_v2_app_purpose_v12">Dobrodošli v Beležki! S to aplikacijo lahko ustvarite naloge in opombe, ki vsebujejo besedilo, slike in zvok.</string>
   <string name="data_empty_note">Ni beležk</string>

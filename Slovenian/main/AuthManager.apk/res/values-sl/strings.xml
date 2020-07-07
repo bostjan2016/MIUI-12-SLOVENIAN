@@ -324,6 +324,10 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="location_warning">%1$s je ponudnik storitve lociranja za to napravo. Dostop do lokacije lahko spremenite v nastavitvah lokacije.</string>
   <string name="never_ask_again">"Ne sprašuj več po omejitvi"</string>
   <string name="ok">V redu</string>
+  <string name="perm_action_allow">Dovoli</string>
+  <string name="perm_action_deny">Nikoli ne dovoli</string>
+  <string name="perm_modem_location">Dostop do vaše lokacije</string>
+  <string name="perm_modem_location_desc">Vaš ponudnik storitev poskuša dostopati do podatkov o vaši lokaciji. Boste delili podatke o lokaciji s ponudnikom storitev?</string>
   <string name="permdesc_camera">Snemati fotografije in videoposnetke</string>
   <string name="permdesc_in_calls">Nadzirati dohodne klice</string>
   <string name="permdesc_location">Dostop do podatkov o lokaciji</string>

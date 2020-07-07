@@ -397,6 +397,9 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ne morem naložiti</string>
   <string name="mtzgadget_missing_text">"Pripomoček ni dostopen"</string>
   <string name="multi_selecting_tips">Če hočete premakniti aplikacijo, odvlecite njeno ikono in jo izpustite tu</string>
+  <string name="navigation_type_full_screen">Gibi</string>
+  <string name="navigation_type_title">Navigacija sistema</string>
+  <string name="navigation_type_virtual_key">Tipke</string>
   <string name="no_detail_page">Ni podrobnosti strani</string>
   <string name="no_space_toast">Ni dovolj prostora</string>
   <string name="no_space_toast_when_click_widget">Na tej strani je premalo prostora. Poskusite to stvar potegniti na drugo stran.</string>
