@@ -5868,7 +5868,6 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="peek_notification_icon_title">Pokaži ikone za dohodna obvestila</string>
   <string name="percentage">%d%%</string>
   <string name="performance_category">Zmogljivost</string>
-  <string name="permission_action_prompt">Vprašaj</string>
   <string name="perm_camera">Kamera</string>
   <string name="perm_location">Lokacija</string>
   <string name="perm_read_call_log">Branje zgodovine klicev</string>
