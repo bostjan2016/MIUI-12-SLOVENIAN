@@ -272,6 +272,10 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_behavior_location_bg">%1s je dostopal(a) do lokacije v ozadju</string>
   <string name="app_behavior_location_bg_single">Aplikacija je dostopala do lokacije v ozadju</string>
   <string name="app_behavior_location_single">Aplikacija je dostopala do lokacije</string>
+  <string name="app_behavior_media_volume">%1s je prilagodil-a glasnost predstavnosti</string>
+  <string name="app_behavior_media_volume_bg">%1s je prilagodil-a glasnost predstavnosti v ozadju</string>
+  <string name="app_behavior_media_volume_bg_single">Ta aplikacija je prilagodila glasnost predstavnosti v ozadju</string>
+  <string name="app_behavior_media_volume_single">Ta aplikacija je prilagodila glasnost predstavnosti</string>
   <string name="app_behavior_menu_about">O zapisih obnašanja aplikacij</string>
   <string name="app_behavior_monitor_off">Izklop obvestil</string>
   <string name="app_behavior_monitor_off_content">"Ne boste dobivali obvestil o občutljivih opravilih ki jih vrši aplikacija. Vseeno izključim?"</string>

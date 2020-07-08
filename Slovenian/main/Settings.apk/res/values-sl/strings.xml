@@ -4171,6 +4171,8 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="location_mode_screen_title">Način lokacije</string>
   <string name="location_mode_sensors_only_description">Uporaba GPS-a za določanje lokacije</string>
   <string name="location_mode_sensors_only_title">Samo v napravi</string>
+  <string name="location_modem_summary">Ponudniki storitev bodo dobili vašo lokacije preko baznih postaj</string>
+  <string name="location_modem_title">Delite informacije o lokaciji z ponudniki storitev</string>
   <string name="location_mode_title">Način</string>
   <string name="location_neighborhood_level">Aplikacijam omogočite hitrejše določanje lokacije z Googlovo storitvijo za določanje lokacije. Anonimni podatki o lokaciji bodo zbrani in poslani Googlu.</string>
   <string name="location_neighborhood_level_wifi">Določanje lokacije z WiFi-jem</string>
@@ -5287,7 +5289,7 @@ Znova zaženite napravo in poskusite znova."</string>
     <string name="not_battery_optimizing">Ne uporablja optimizacije akumulatorja</string>
     <string name="not_installed">Ni namešč. za tega uporabnika</string>
     <string name="not_set">Ni nastavljeno</string>
-  <string name="notch_and_status_bar_settings">Center za kontrolo &amp; Plošča obvestil</string>
+  <string name="notch_and_status_bar_settings">Center za kontrolo &amp; vrstica obvestil</string>
   <string name="notch_force_black_desc">Ko je vključeno je področje zoba zaslona črno</string>
   <string name="notch_force_black_title">Skrij zob zaslona</string>
   <string name="notch_settings">Zob</string>
@@ -5866,6 +5868,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="peek_notification_icon_title">Pokaži ikone za dohodna obvestila</string>
   <string name="percentage">%d%%</string>
   <string name="performance_category">Zmogljivost</string>
+  <string name="permission_action_prompt">Vprašaj</string>
   <string name="perm_camera">Kamera</string>
   <string name="perm_location">Lokacija</string>
   <string name="perm_read_call_log">Branje zgodovine klicev</string>
@@ -7833,7 +7836,7 @@ Pred uporabo naših storitev preberite in sprejmite naše %s."</string>
   <string name="status_bar_style_list">Kombinirano</string>
   <string name="status_bar_style_page">Ločeno</string>
   <string name="status_bar_style_settings">Obvestila</string>
-  <string name="status_bar_title">Vrstica obvestil</string>
+  <string name="status_bar_title">Center za kontrolo &amp; vrstica obvestil</string>
   <string name="status_bar_toggle_arrangement">Razpored bližnjic</string>
   <string name="status_bt_address">Naslov Bluetootha</string>
   <string name="status_data_network_type">Vrsta mobilnega podatkovnega omrežja</string>
