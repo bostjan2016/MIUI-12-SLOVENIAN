@@ -258,7 +258,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_behavior_denied">Zavrni</string>
   <string name="app_behavior_desc_allow_once">Dovoljeno %1$s</string>
   <string name="app_behavior_desc_deny_once">Zavrnjeno %1$s</string>
-  <string name="app_behavior_desc_virtual_once">Sporočilo v %1$s vrnjeno prazno</string>
+  <string name="app_behavior_desc_virtual_once">Sporočilo ob %1$s vrnjeno prazno</string>
   <string name="app_behavior_door">Obnašanje aplikacij</string>
   <string name="app_behavior_get_install">%1s je dostopal/a do seznama vaših aplikacij</string>
   <string name="app_behavior_get_install_single">Ta aplikacija je dostopala do seznama vaših aplikacij</string>
