@@ -4308,7 +4308,7 @@ kot PIN za Prvi prostor"</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Nastavite PIN 
  za Drugi prostor"</string>
     <string name="lockpassword_choose_your_pin_message">Zaradi varnosti nastavite kodo PIN</string>
-  <string name="lockpassword_choose_your_pin_title">Vnesite 4-16 znakov</string>
+  <string name="lockpassword_choose_your_pin_title">Vnesite %1$d-%2$d znakov</string>
     <string name="lockpassword_choose_your_screen_lock_header">Nastavitev zaklepanja zaslona</string>
   <string name="lockpassword_clear_label">Izbriši</string>
   <string name="lockpassword_confirm_for_second_user">Potrdite geslo za Drugi prostor</string>
@@ -8853,7 +8853,7 @@ Iz profila bodo prav tako odstranjeni shranjeni prstni odtisi, tako da z njimi n
   <string name="unlock_set_unlock_password_title">Geslo</string>
   <string name="unlock_set_unlock_pattern_summary">Narišite enostaven vzorec z prstom za odklep naprave</string>
   <string name="unlock_set_unlock_pattern_title">Vzorec</string>
-    <string name="unlock_set_unlock_pin_summary">Srednja do visoka varnost</string>
+  <string name="unlock_set_unlock_pin_summary">Vnesite %1$d-%2$d številk za odklepanje naprave</string>
     <string name="unlock_set_unlock_pin_title">Koda PIN</string>
   <string name="unlock_set_unlock_summary">Nastavi zaklepanje zaslona</string>
   <string name="unlock_setup_wizard_fingerprint_details">Ko nastavite zaklepanje zaslona lahko tudi nastavite prstni odtis v »Nastavitve &gt; Varnost«.</string>

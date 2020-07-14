@@ -12,6 +12,10 @@
         <item quantity="other">%d stvari</item>
         <item quantity="one">%d stvar</item>
     </plurals>
+	<plurals name="recovery_failed_dialog_message">
+        <item quantity="other">"Ne morem vrniti %d stvari zaradi neznane napake."</item>
+        <item quantity="one">"Ne morem vrniti %d stvar zaradi neznane napake."</item>
+    </plurals>
 	<plurals name="search_alll_records_hint">
         <item quantity="other">Išči med %d posnetki</item>
         <item quantity="one">Išči med %d posnetkom</item>
@@ -27,6 +31,18 @@
 	<plurals name="search_result">
         <item quantity="other">Najdeno posnetkov: %d</item>
         <item quantity="one">Najden %d posnetek</item>
+    </plurals>
+	<plurals name="time_left_for_clear_file">
+        <item quantity="other">%d dni ostalo</item>
+        <item quantity="one">%d dan ostal</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">Izbrišem trajno %d izbranih posnetkov?</item>
+        <item quantity="one">Izbrišem trajno %d izbran posnetek?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">Izbrisane stvari so lahko v smeteh do %d dni</item>
+        <item quantity="one">Izbrisana stvar je lahko v smeteh do %d dni</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d ni sinhr.</item>

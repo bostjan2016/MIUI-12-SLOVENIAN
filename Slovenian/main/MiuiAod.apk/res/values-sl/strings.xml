@@ -30,6 +30,7 @@
   <string name="am">AM</string>
   <string name="animation_clock_panel">Valovno izbiranje</string>
   <string name="aod_close_color_inversion">"To se ne more kombinirati z inverzijo barv. Najprej izključite inverzijo barv."</string>
+  <string name="aod_component">Prikazane stvari</string>
   <string name="aod_lock_screen_date">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12_signature">dd.MM</string>
@@ -70,6 +71,12 @@ dd.MM"</string>
   <string name="clock_panel_icon">Videz ure</string>
   <string name="color_change_with_time_description">Časovno samodejno zamenjaj barvo teksta</string>
   <string name="color_change_with_time_title">Samodejno zamenjaj barvo</string>
+  <string name="component_battery">Baterija</string>
+  <string name="component_date_time">Datum in čas</string>
+  <string name="component_lunar">Tradicionalni kitajski koledar</string>
+  <string name="component_notification">Obvestila</string>
+  <string name="component_step">Koraki</string>
+  <string name="continue_to_use">Nadaljuj</string>
   <string name="copy">Kopiraj</string>
   <string name="custom_image">Slika po meri</string>
   <string name="deep_space_planet">Doba dneva</string>
@@ -219,6 +226,9 @@ dd.MM"</string>
   od BOŠTJAN-a"</string>
   <string name="standard_clock_panel">Standard</string>
   <string name="standard_style">Standardno</string>
+  <string name="step_component_info_active_tip">Število korakov zagotavlja Xiaomi zdravje. Strinjate se z Xiaomi zdravje Pogoji in določila za nadaljevanje.</string>
+  <string name="step_component_info_desc">Ko bo vaš cilj dosežen, se bo število korakov spremenilo v pokal. Število korakov zagotavlja Xiaomi zdravje.</string>
+  <string name="step_component_info_tip">Število korakov zagotavlja Xiaomi zdravje. Namestite ali posodobite Xiaomi zdravje in se strinjajte z njegovimi določili in pogoji za nadaljevanje.</string>
   <string name="summary">"Da boste zmanjšali porabo energije, stvari ne bodo prikazane v naslednjih situacijah:
 1. Ko naprava dolgo stoji v mraku.
 2. Če je vključen DND način."</string>

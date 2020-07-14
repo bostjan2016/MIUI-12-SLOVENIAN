@@ -2,7 +2,7 @@
 <resources>
   <string name="Call_ADRESS">Lokalni seznam blokiranih</string>
   <string name="Call_BLACKLIST">Seznam blokiranih klicev</string>
-  <string name="Call_PRIVATE_CALL">Zasebni klici</string>
+  <string name="Call_PRIVATE_CALL">Skriti klici</string>
   <string name="Calnetwork_blocked_switch_wifiEFIX">Seznam blokiranih predštevilk</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Vklop in izklop Bluetootha</string>
   <string name="HIPS_Perm_CallLog_Desc">zabeležiti in brisati zgodovino klicev</string>
@@ -1406,6 +1406,13 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="first_aid_scanning_item4">Preverjanje problemov z baterijo…</string>
   <string name="first_aid_scanning_item5">Preverjanje drugih problemov…</string>
   <string name="first_aid_stop_scan">Ustavi skeniranje</string>
+  <string name="first_settings_default_camera_title">Deli brez metapodatkov po privzetih nastavitvah</string>
+  <string name="first_settings_default_location_subtitle">Odstrani podatke o lokaciji iz deljenih fotografij</string>
+  <string name="first_settings_default_location_title">Deli brez podatkov o lokaciji po privzetih nastavitvah</string>
+  <string name="first_settings_share_enable">Dodaj značku \"Varno deljenje\"</string>
+  <string name="first_settings_share_enable_subtitle">Stvari ki jih delite na WeChatu, bodo prikazani z značko MIUI</string>
+  <string name="first_settings_subtitle">Možnosti varne skupne rabe so na voljo tukaj:</string>
+  <string name="first_settings_title">Zaščitite svojo zasebnost</string>
   <string name="five_percent_total_pkg">%s (5%% od mes. podatkov)</string>
   <string name="flow_rank_title">Uporaba podatkov</string>
   <string name="fod_authentication_shift_button">Prekliči</string>
@@ -1855,6 +1862,7 @@ vašega igranja"</string>
   <string name="load_fail">"Ne morem naložiti"</string>
   <string name="load_only_under_wlan">Prenesi samo pri WiFi povezavi</string>
   <string name="loading">Samo trenutek…</string>
+  <string name="loading_text_format" formatted="false">Odstranjevanje zasebnih podatkov iz fotografij (%d/%d)…</string>
   <string name="local_ip_exception_summary">"Ne morem dobiti lokalni IP naslov. Da prijavite MIUI-ju to težavo pojdite v aplikacijo Pov. informacije in pošljite poročilo s svoje naprave."</string>
   <string name="lock_all_title">Zakleni vse aplikacije</string>
   <string name="lock_mode_title">Nastavitve zaklepanja</string>
@@ -2239,6 +2247,9 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_exit_extreme_mode_title">Ekstremno varčevanje baterije je izključeno</string>
   <string name="notification_exit_power_save_mode">Varčevanje baterije izključeno</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterija %s napolnjena.</string>
+  <string name="notification_garbage_clean_botton_text">Očisti</string>
+  <string name="notification_garbage_clean_hint">Očisti prostor za shranjevanje</string>
+  <string name="notification_garbage_clean_size">Osvobodi %s</string>
   <string name="notification_garbage_cleanup_summary">Očistite smeti (%s) da pokitrite napravo</string>
   <string name="notification_garbage_cleanup_title">Očistite datoteke smeti</string>
   <string name="notification_item">Zaštitite izbrane aplikacije z zakl. aplikacij</string>
@@ -2254,6 +2265,8 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_quick_charging_title">Hitro polnjenje</string>
   <string name="notification_subtitle">Tapnite za vklop</string>
   <string name="notification_summary_cmcc_app_check">Dotakni se za prikaz podrobnosti.</string>
+  <string name="notification_whatsapp_clean_button_text">Očisti</string>
+  <string name="notification_whatsapp_clean_size">WhatsApp predpredpomnilnik je dosegel %s</string>
   <string name="notification_sysapp_cracked_text">Trenutna MIUI verzija je spremenjena</string>
   <string name="notification_sysapp_cracked_title">Odkrtito varnostno tveganje</string>
   <string name="notification_title_cmcc_app_check">Dni (%d) od zadnjega pregleda</string>
@@ -2349,6 +2362,10 @@ To skrajšuje trajanje baterije."</string>
   <string name="om_shortcut_added_toast_text">Uspešno dodano</string>
   <string name="om_shortcut_dialog_summary">"RAM Jet vam omogoča da z enim dotikom očistite pomnilnik in povečate hitrost svoje naprave. Dodam RAM Jet na zač. zaslon?"</string>
   <string name="om_shortcut_dialog_title">RAM Jet</string>
+  <string name="once_settings_camera_ttile">Deli brez metapodatkov</string>
+  <string name="once_settings_location_title">Deli brez podatkov o lokaciji</string>
+  <string name="once_settings_subtitle">Kako želite deliti izbrane stvari?</string>
+  <string name="once_settings_title">Zaščita zasebnosti</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="online_chat">Klepet</string>
   <string name="online_read">Novice</string>
@@ -3302,12 +3319,20 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="settings">Nastavitve porabe podatkov</string>
   <string name="settings_battery_consume_abnormal_summary">Obvesti me kadar se baterija prazni prehitro</string>
   <string name="settings_battery_consume_abnormal_title">Obvestilo prehitrega praznjenja</string>
+  <string name="settings_camera_subtitle_no">Nič metapodatkov</string>
   <string name="settings_battery_over_heat_summary">Obvesti me kadar naprava postaja toplejša kot normalno</string>
   <string name="settings_battery_over_heat_title">Obvestilo pregrevanja</string>
   <string name="settings_category_other">Ostale nastavitve</string>
   <string name="settings_category_overheat">Pregrevanje</string>
   <string name="settings_choice_no_notification">Izključeno</string>
+  <string name="settings_image_camera_summary">Model naprave, metapodatki itd.</string>
+  <string name="settings_location_subtitle_no">Ni informacij o lokaciji</string>
   <string name="settings_power_save_ontime_title">Razpored</string>
+  <string name="settings_share_enable_summary">Stvari, ki jih delite na WeChatu, bodo prikazane z značko MIUI</string>
+  <string name="settings_share_info">Tu so na voljo varne možnosti skupne rabe elementov, ki jih daste v skupno rabo iz Galerije in Raziskovalca:</string>
+  <string name="settings_show_detail">Pokaži podrobnosti</string>
+  <string name="settings_tip">Pojdite v Galerija &gt; Nastavitve za prikaz več opcij</string>
+  <string name="settings_title">Varno deljenje</string>
   <string name="settings_title_payment_security">Nastavitve varnosti plačanja</string>
   <string name="settings_title_permission">Nastavitve dovoljenj</string>
   <string name="share">Deli</string>
@@ -3868,8 +3893,10 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="text_button">V redu</string>
   <string name="text_cycle_day">%s</string>
   <string name="text_day"/>
+  <string name="text_done">V redu</string>
   <string name="text_lock_info">Narišite vzorec za odklepanje</string>
   <string name="there_is_no">Vse zgleda v redu, vrnite se kasneje</string>
+  <string name="text_security">Varnost</string>
   <string name="thermal_tips_message">Igranje iger v zmogljivem načinu lahko povzroči težave s pregrevanjem.</string>
   <string name="thermal_tips_title">Pozor</string>
   <string name="third_application">Nameščene aplikacije</string>
@@ -4201,6 +4228,7 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="vb_advanced_settings_after_open">Prej</string>
   <string name="vb_advanced_settings_before_open">Potem</string>
   <string name="vb_advanced_settings_pic_stronger_desc">Napravite jasnejši premik objektov z izboljšanjem animacij. To porablja energijo.</string>
+  <string name="vb_quick_func_auto_bgm">Prepoznaj glasbo v ozadju</string>
   <string name="vb_quick_func_hangup_listening">Predvajaj video zvok z izključenim zaslonom</string>
   <string name="vb_quick_func_screen_capture">Posnetek zaslona</string>
   <string name="vb_quick_func_screen_record">Posnemi</string>

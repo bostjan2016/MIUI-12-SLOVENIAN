@@ -1241,10 +1241,10 @@ dd.MM."</string>
   <string name="lockscreen_access_pattern_start">Vzorec začet</string>
   <string name="lockscreen_carrier_default">Ni storitve</string>
   <string name="lockscreen_charging_msg">Polnjenje</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Napačno ste poskusili odkleniti telefon %d krat. Po še %d neuspelih poskusih bo telefon povrnjen na tovarniške nastavitve.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Napačno ste vnesli geslo %d krat. Po še %d neuspelih poskusih se boste morali prijaviti v vaš Mi Račun za odklep telefona.
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Napačno ste poskusili odkleniti telefon %1$d krat. Po še %2$d neuspelih poskusih bo telefon povrnjen na tovarniške nastavitve.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Napačno ste vnesli geslo %1$d krat. Po še %2$d neuspelih poskusih se boste morali prijaviti v vaš Mi Račun za odklep telefona.
 	
-Poskusite ponovno čez %d sek."</string>
+Poskusite ponovno čez %3$d sek."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Napačno ste poskusili odkleniti telefon %d krat. Telefon bo povrnjen na tovarniške nastavitve.</string>
     <string name="lockscreen_none">Ni izbrana</string>
     <string name="lockscreen_shortcut_left">Leva bližnjica</string>
