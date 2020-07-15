@@ -182,6 +182,10 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
     <string name="accessibility_setting_item_control_timeout_title">Čas za dejanje (časovna omejitev funkcije)</string>
     <string name="accessibility_settings">Za osebe s posebnimi potrebami</string>
     <string name="accessibility_settings_summary">Bralniki zaslona, prikaz, interakcija</string>
+  <string name="accessibility_settings_tabs_general">Splošno</string>
+  <string name="accessibility_settings_tabs_hearing">Sluh</string>
+  <string name="accessibility_settings_tabs_physical">Dotik</string>
+  <string name="accessibility_settings_tabs_visual">Vid</string>
     <string name="accessibility_settings_title">Nastavitve pripomočkov za ljudi s posebnimi potrebami</string>
     <string name="accessibility_shortcut_description">Ko je bližnjica vklopljena, lahko opravilo za ljudi s posebnimi potrebami zaženete tako, da pritisnete obe tipki za glasnost in ju pridržite tri sekunde.</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Dovoli na zaklenjenem zaslonu</string>
@@ -360,6 +364,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="agps_roaming_summary">Uporabi mobilne podatke za pomoč GPS-u v gostovanju</string>
   <string name="ai_button_title">Mi AI tipka</string>
   <string name="ai_button_title_global">AI tipka</string>
+  <string name="ai_call_assistant">AI klici</string>
   <string name="ai_key">AI tipka</string>
   <string name="ai_key_double_click">Dvakrat pritisnite</string>
   <string name="ai_key_long_press">Pritisnite in držite</string>
@@ -3592,6 +3597,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="heads_up_enabled_title">Pojavno za visoko prioriteto</string>
   <string name="headset_calibrate">Nastavljanje tipk</string>
   <string name="headset_settings_title">Zvočni efekti</string>
+  <string name="hearing_aids_category">Slušna pomožna orodja</string>
   <string name="heavy_weight_stop_description">Aplikacije ni mogoče varno ustaviti. Če jo ustavite boste morda izgubili nekaj svojega trenutnega dela.</string>
   <string name="help_and_feedback_title">Pomoč in povratne inf.</string>
     <string name="help_feedback_label">Pomoč in povratne informacije</string>
@@ -3742,6 +3748,7 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="information_dialog_button_text">Razumem</string>
   <string name="information_label">Informacije</string>
     <string name="input_assistance">Orodja</string>
+  <string name="input_device_category">Vstopna naprava</string>
   <string name="input_hint_prefix">Vnesi %1$s</string>
     <string name="input_method">Vnosna metoda</string>
   <string name="input_method_bottom_close">Izključeno</string>
@@ -7170,9 +7177,13 @@ To velja za vse uporabnike telefona."</string>
   <string name="security_encryption_rejected_via_home_manager">"Ta storitev ne deluje v demo verziji."</string>
   <string name="security_encryption_title">Šifriraj napravo s pomočjo gesla zakl. zaslona</string>
   <string name="security_input">Varna tipkovnica</string>
+  <string name="security_input_enable">Varna tipkovnica</string>
   <string name="security_input_hint">S pomočjo varne tipkovnice vnesite geslo</string>
+  <string name="security_input_num_order">Urejeno</string>
+  <string name="security_input_num_random_order">Naključno</string>
+  <string name="security_input_num_setting_title">Številčna tipkovnica</string>
   <string name="security_keyguard_category_name">Zakl. zaslon</string>
-  <string name="security_password_category_name">Zakl. zaslona</string>
+  <string name="security_password_category_name">Zakl. zaslon</string>
     <string name="security_passwords_title">Zasebnost</string>
   <string name="security_patch">Raven popravkov za varnost v Androidu</string>
   <string name="security_privacy_settings_title">Zasebnost</string>
@@ -9278,6 +9289,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="vision_settings_description">To napravo lahko prilagodite svojim potrebam. Te funkcije za ljudi s posebnimi potrebami lahko pozneje spremenite v nastavitvah.</string>
     <string name="vision_settings_suggestion_title">Spremenite velikost pisave</string>
     <string name="vision_settings_title">Nastavitve vidnosti</string>
+  <string name="voice_access">Zvočne kontrole</string>
   <string name="voice_assist">Mi AI</string>
   <string name="voice_category">Govor</string>
   <string name="voice_helper_title">Govorni asistent</string>

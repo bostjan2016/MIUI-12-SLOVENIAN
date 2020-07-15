@@ -181,6 +181,7 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa .</string>
   <string name="confirm_unbundled_phone_dialog_message">Številka telefona %1$s je povezana z Mi Račun %2$s. Ta ne bo več povezan z Mi Računom %3$s če boste nadaljevali. Nadaljujem?</string>
   <string name="continue_action">Nadaljuj</string>
   <string name="copy">Kopiraj</string>
+  <string name="copy_to_clipboard_successful">Uspešno kopirano</string>
   <string name="cta_declaration_agree_and_continue">Strinjam se</string>
   <string name="cta_declaration_exit">Izhod</string>
   <string name="cta_declaration_ignore">Ignoriraj</string>

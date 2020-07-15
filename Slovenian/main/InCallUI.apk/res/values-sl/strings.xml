@@ -146,7 +146,7 @@
   <string name="do_not_support_video_calls_by_remote">"Video klici niso podprti na drugi napravi"</string>
   <string name="emergency_call_dialog_number_for_display">Številka za klic v sili</string>
   <string name="enter_ai_assistant">Uporabi</string>
-  <string name="enter_ai_assistant_tip">"AI pomočnik klicev lahko prevzame klic in prepiše govor druge osebe namesto vas. Dovolim AI da odgovori?"</string>
+  <string name="enter_ai_assistant_tip">"AI lahko pretvori besedilo v govor, če vam zdaj ni prijetno govoriti. Uporabim AI za ta klic?"</string>
   <string name="fraud_call_answer">Odgovori</string>
   <string name="fraud_call_decline">Zavrni</string>
   <string name="fraud_call_waring">Bodite previdni: Vedno morate preveriti identiteto osebe s katero se pogovarjate po telefonu ali videoklicu, preden se odzovete na vsa sporočila, ki vključujejo vaše osebne podatke.</string>
