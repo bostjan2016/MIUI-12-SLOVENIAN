@@ -949,6 +949,11 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="choose_gs_show_way">Izberite orientacijo začetne strani</string>
   <string name="clean_immediately">Očisti</string>
   <string name="clean_master_icon_recall_button_text">Dodaj</string>
+  <string name="clean_master_icon_recall_dialog_button_negative">Ne, hvala</string>
+  <string name="clean_master_icon_recall_dialog_button_positive">Dodaj</string>
+  <string name="clean_master_icon_recall_dialog_summary">Dodajte bližnjico na zač. zaslon da boste kadarkoli očistili smeti.</string>
+  <string name="clean_master_icon_recall_dialog_title">Hitreje očistite smeti</string>
+  <string name="clean_master_icon_recall_hint">Dodaj bližnjico na zač. zaslon</string>
   <string name="clean_master_icon_recall_summary">Dodajte bližnjico na zač. zaslon da boste kadarkoli očistili smeti.</string>
   <string name="clean_master_icon_recall_title">Hitreje očistite smeti</string>
   <string name="clean_master_icon_recall_toast_text">Bližnjica dodana</string>
@@ -1592,6 +1597,10 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gb_game_video_type_manual">Ročno</string>
   <string name="gb_game_video_type_manual_record">Posnemi ročno</string>
   <string name="gb_global_settings">Splošne nastavitve</string>
+  <string name="gb_gpu_driver_btn_update">Preveri za posodobitve</string>
+  <string name="gb_gpu_driver_update">Posodabljanje GPU gonilnika</string>
+  <string name="gb_gpu_driver_update_app">Posodobi</string>
+  <string name="gb_gpu_driver_update_app_tips">Trenutna verzija je posodobljena</string>
   <string name="gb_manual_record_dialog_del_video_message">Želite trajno izbrisati izbrane videoposnetke?</string>
   <string name="gb_msg_completely_shielded">Skrij sporočila</string>
   <string name="gb_msg_completely_shielded_summary">Skrij</string>
@@ -1628,7 +1637,7 @@ vašega igranja"</string>
   <string name="gb_wonderful_video_goto_box">Odpri Game Turbo</string>
   <string name="gb_wonderful_video_header_title">Danes</string>
   <string name="gb_wonderful_video_save_suc">Uspešno shranjeno</string>
-  <string name="gdpr_msg">"Da boste uporabili osnovne funkcije aplikacije Varnost, se morate strinjati da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke, vključno podatke o načih uporabe zaščite (npr. Statistiko uporabe mobilnih podatkov, informacije o zlonamerni opremi) kot tudi osnovne informacije o vaši napravi) in ostale vrste podatkov navedenih v Pravila o zasebnosti.</string>
+  <string name="gdpr_msg">"&lt;Data&gt;"Da bi zaznali varnostna tveganja in zaščitili vaše podatke, moramo zbrati potrebno količino informacij o vaši napravi. Preberite in se strinjajte z &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo naših storitev. V primeru, da nam ne dovolite zbiranja takšnih podatkov, boste to aplikacijo še vedno lahko uporabljali, vendar vam nekatere storitve ne bodo na voljo. "&lt;/Data&gt;</string>
   <string name="get_sys_info">Dobivanje informacij…</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_wa_setting_alert_dialog_content">Lahko osvobodite %s</string>
@@ -4283,6 +4292,7 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="vtb_func_frc_title">Glajenje gibov</string>
   <string name="vtb_func_vpp_desc4">"Storitev ne dela če je resolucija videoposnetka večja od 4K."</string>
   <string name="vtb_func_vpp_title">Izboljšane konture</string>
+  <string name="vtb_function_video_translation">Prevod v realnem času</string>
   <string name="vtb_other_milink_connect">"Ne morem predvajati videoposnetke. O predvajanju ostalih stvari…"</string>
   <string name="vtb_stop_milink_connect">Ustavljanje predvajanja videa</string>
   <string name="wakepath_confirm_start_activity">Dovolim %1$s odpiranje %2$s?</string>

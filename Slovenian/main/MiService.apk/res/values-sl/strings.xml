@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="actionbar_button_up_description">Nazaj</string>
+  <string name="clearable_edittext_clear_description">Očisti</string>
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>

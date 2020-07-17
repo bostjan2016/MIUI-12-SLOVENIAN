@@ -121,6 +121,17 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
   <string name="help_page_text_55_global">"Če se ne morete povezati na omrežje preverite ali vaš zunanji monitor podpira Miracast storitev in ali je vključena. Pri različnih modelih se to lahko imenuje brezžični zaslon, predvajanje zaslona ali večkratni zaslon.</string> 
   <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
   <string name="keyguard_security_setting_privacy_policy">Pravila o zasebnosti</string>
+  <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
+  <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne morem naložiti"</string>
   <string name="nfc_connect_failed_toast">"Ne morem predvajati. Poskusite ponovno."</string>
   <string name="notification_rc_desc">Najboljši TV pomočnik za prenos vaših videov, fotografij in aplikacij v XiaoMi Box (ali TV) za vaš mobilni telefon, poskusite zdaj!</string>
   <string name="notification_rc_title">XiaoMi TV pomočnik</string>

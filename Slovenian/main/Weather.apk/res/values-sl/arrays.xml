@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <string-array name="dislike_alert_dialog_selectitems">
+        <item>Ne zanima me</item>
+        <item>Slaba kvaliteta vsebine</item>
+    </string-array>
     <string-array name="hot_city">
-     <item>Ljubljana</item>
+        <item>Ljubljana</item>
         <item>Maribor</item>
         <item>Celje</item>
         <item>Kranj</item>

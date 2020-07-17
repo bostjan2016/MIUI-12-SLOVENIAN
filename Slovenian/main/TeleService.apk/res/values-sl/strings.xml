@@ -1125,6 +1125,8 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="fiveg_sa_switch_open_dialog_title">Pozor</string>
   <string name="fiveg_sa_switch_summary">Dovoli povezovanje z 5G omrežji v samostojnem načinu dela</string>
   <string name="fiveg_sa_switch_title">SA način</string>
+  <string name="fiveg_sa_switch_title_slot0">SIM 1 SA način</string>
+  <string name="fiveg_sa_switch_title_slot1">SIM 2 SA način</string>
   <string name="fiveg_sa_switch_warning_toast">Ponovno zaženite telefon zaradi efekta.</string>
   <string name="fiveg_signal_strength1">5G Moč signala:</string>
   <string name="fiveg_switch_status1">5G stanje stikala:</string>
@@ -1269,6 +1271,17 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="ivr_type_settings">Nastavitve plana podatkov</string>
   <string name="ivr_type_settings_hint">Vnesite kodo plana podatkov</string>
   <string name="jump_to_mobile_network_setting">Nastavitve mobilnega omrežja</string>
+  <string name="kddi_sim_lock_status_allowed">Dovoljeno</string>
+  <string name="kddi_sim_lock_status_code">Koda</string>
+  <string name="kddi_sim_lock_status_default_code">-</string>
+  <string name="kddi_sim_lock_status_no_sim">Ni SIM kartice</string>
+  <string name="kddi_sim_lock_status_not_allowed">Ni dovoljeno</string>
+  <string name="kddi_sim_lock_status_open_wifi_warning">Potrebna je Wi-Fi povezava</string>
+  <string name="kddi_sim_lock_status_status">Status</string>
+  <string name="kddi_sim_lock_status_title">Status SIM kartice</string>
+  <string name="kddi_sim_lock_status_update">Posodabljanje statusa SIM kartice</string>
+  <string name="kddi_sim_lock_status_update_fail">Ne morem posodobiti</string>
+  <string name="kddi_sim_lock_status_update_success">Uspešno posodobljeno</string>
   <string name="keep_screen_on">Ne začni mirovanja</string>
   <string name="keep_screen_on_summary">Zaslon ne bo prešel v mirovanje med polnjenjem</string>
   <string name="keep_wait_call_back">Nadaljuj s čakanjem</string>

@@ -117,4 +117,8 @@
         <item quantity="one">%d minuta</item>
         <item quantity="few">%d minut</item>
     </plurals>
+	<plurals name="items_selected">
+        <item quantity="other">Izbrano: %d</item>
+        <item quantity="one">Izbrano: %d</item>
+     </plurals>
 </resources>

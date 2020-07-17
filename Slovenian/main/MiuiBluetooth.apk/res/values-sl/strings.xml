@@ -93,10 +93,11 @@
   <string name="bluetooth_dun_profile_summary_use_for">Uporabi se za dial-up dostop do omrežja</string>
     <string name="bluetooth_headset_profile_summary_use_for">Uporabi za zvok telefona</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Povezava s slušnimi pripomočki je vzpostavljena</string>
+  <string name="bluetooth_headset_profile_summary_connected">Povezano z zvokom telefona</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Uporabi za slušne pripomočke</string>
-    <string name="bluetooth_hearingaid_left_battery_level">Levi – akumulator na %1$s</string>
+  <string name="bluetooth_hearingaid_left_battery_level">Leva stran – %1$s baterije</string>
     <string name="bluetooth_hearingaid_left_pairing_message">Seznanjanje z levim slušnim pripomočkom …</string>
-    <string name="bluetooth_hearingaid_right_battery_level">Desni – akumulator na %1$s</string>
+  <string name="bluetooth_hearingaid_right_battery_level">Desna stran – %1$s baterije</string>
     <string name="bluetooth_hearingaid_right_pairing_message">Seznanjanje z desnim slušnim pripomočkom …</string>
     <string name="bluetooth_hid_profile_summary_connected">Povezava z vnosno napravo je vzpostavljena</string>
     <string name="bluetooth_hid_profile_summary_use_for">Uporabi za vnos</string>
