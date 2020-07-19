@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="account_user_gender_name">
-        <item>Muški</item>
+        <item>Moški</item>
         <item>Ženska</item>
     </string-array>
     <string-array name="privacy_dialog_runtime_permission_desc">
