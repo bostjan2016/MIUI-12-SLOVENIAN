@@ -995,6 +995,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="storage_info">%1$s na voljo</string>
   <string name="storage_info_detail">Na voljo:%1$s Skupaj:%2$s</string>
   <string name="storage_internal">Notranji pomnilnik</string>
+  <string name="storage_maintenance_mode">Način vzdrževanja pomnilnika</string>
   <string name="storage_internal_description">Notranji pomnilnik</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_sd_card_description">SD kartica</string>

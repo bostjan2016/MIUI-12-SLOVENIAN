@@ -543,6 +543,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="app_floating_window_dlg_disable">"Onemogočanje nastavitev plavajočega okna aplikacije %1$s bo ustavilo aplikacijo."</string>
   <string name="app_floating_window_dlg_enable">"Onemogočanje nastavitev plavajočega okna aplikacije %1$s bo zahtevalo ponovni zagon."</string>
   <string name="app_forward_locked">Aplikacija je zaščitena pred kopiranjem.</string>
+  <string name="app_function">Funkcija aplikacije</string>
     <string name="app_info_storage_title">Uporabljen prostor</string>
   <string name="app_install_details_group_title">Trgovina</string>
     <string name="app_install_details_summary">Aplikacija nameščena iz %1$s</string>
@@ -2332,7 +2333,7 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
   <string name="day_of_week">Dan v tednu</string>
   <string name="dc_light_dialog_summary">Ko je vklopljen način dela proti utripanju to lahko vpliva na kvaliteto slike. Vseeno vključim?</string>
   <string name="dc_light_summary">Uporabite DC zmanjševanje da boste zmanjšali naprezanje oči</string>
-  <string name="dc_light_summary_new">DC zmanjševanje zmanjšuje naprezanje oči v pogojih slabe osvetlitve. A če je vključen način dela proti utripanju to lahko vpliva na kvaliteto slike.</string>
+  <string name="dc_light_summary_new">Preprečite obsežno utripanje in zmanjšajte obremenitev oči pri slabi svetlobi</string>
   <string name="dc_light_title">Način dela proti utripanju</string>
   <string name="debug_app">Izberite aplikacijo za iskanje napak</string>
   <string name="debug_app_not_set">Aplikacija za iskanje napak ni nastavljena</string>
@@ -2843,6 +2844,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="empty_title_auto_start_list">Ni aplik. z samod. zagonom</string>
   <string name="empty_title_perm_apps">Ni aplik. s tem dovoljenjem</string>
   <string name="empty_title_permission_apps_list">Ni aplikacij.</string>
+  <string name="enableNetwork">enableNetwork</string>
     <string name="enable_adb">Odpravljanje težav preko USB-ja</string>
   <string name="enable_adb_summary">Način za odpravljanje težav, ko je vzpostavljena povezava USB</string>
   <string name="enable_adb_summary_charging">Naprava je v načinu polnjenja, USB popravljanje napak je onemogočeno</string>
@@ -3360,6 +3362,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="foreground_traffic">V ospredju %s</string>
     <string name="forget">Pozabi</string>
     <string name="forget_passpoint_dialog_message">Morda boste izgubili dostop do preostalega časa ali podatkov. Pred odstranjevanjem preverite pri operaterju.</string>
+  <string name="forget_passpoint_wifi_message">Vaš telefon se bo prenehal samodejno povezovati na to omrežje.</string>
   <string name="forget_password_button_text">Pozabljeno geslo</string>
   <string name="forget_password_dialog_button_text">Nazaj</string>
   <string name="forget_password_dialog_content_four">&lt;Data&gt;2. Izberite &amp;lt;font color=#e6e6e6&amp;gt;[Izbriši podatke]&amp;lt;/font&amp;gt;, in počakajte ponovni zagon naprave.&lt;/Data&gt;</string>
@@ -3767,6 +3770,10 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="input_method_function_no_function_des">"Ne kaži bližnjic"</string>
   <string name="input_method_function_switch">Zamenjaj tipkovnice</string>
   <string name="input_method_function_switch_des">Tapnite za prehod na drugo tipkovnico</string>
+  <string name="input_method_function_switch_keyboard_language">Zamenjaj jezik</string>
+  <string name="input_method_function_switch_keyboard_language_des">Tapni za menjavo jezika vnosa</string>
+  <string name="input_method_function_switch_keyboard_type">Zamenjaj tipkovnice</string>
+  <string name="input_method_function_switch_keyboard_type_des">Tapni za menjavo tipkovnic</string>
   <string name="input_method_function_voice">Glasovni vnos</string>
   <string name="input_method_function_voice_des">Tapnite za uporabo glasovnega vnosa</string>
   <string name="input_method_function_xiaoai">Mi AI Glasovni vnos</string>
@@ -5680,6 +5687,13 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
     <string name="partial_connectivity_text">Nekatere aplik./storitve morda ne bodo delovale zaradi omej. povezljivosti. Želite vseeno uporabiti?</string>
     <string name="passpoint_content">Poverilnice za %1$s</string>
     <string name="passpoint_label">Shranjeno preko:</string>
+  <string name="passpoint_r1_privacy_dialog_message">"Passpoint je zanesljiva, varna in samodejna tehnologija povezave WiFi, ki jo je zagnala organizacija WiFi Alliance. Samodejno konfigurirajte račune, da dosežete brezhibno povezavo med omrežjem, ki je konfigurirano z omrežjem WiFi in mobilnimi napravami
+
+Ta storitev najprej dobi vaš WiFi MAC naslov za registracijo računa. Vaše podatke bomo obdelovali v skladu z našim %s. Prosimo, natančno preberite to pravilo in se strinjajte z nadaljevanjem"</string>
+  <string name="passpoint_r1_privacy_dialog_no">Prekliči</string>
+  <string name="passpoint_r1_privacy_dialog_title">Pozor</string>
+  <string name="passpoint_r1_privacy_dialog_url_text">Pravila o zasebnosti</string>
+  <string name="passpoint_r1_privacy_dialog_yes">Sprejmem in nadaljuj</string>
   <string name="password">Geslo</string>
   <string name="passwordIncorrect">Geslo ki ste ga vnesli je napačno</string>
   <string name="password_and_security">Gesla &amp; varnost</string>

@@ -51,6 +51,7 @@
     <string name="apn_settings_not_available">Nastavitve imena dostopne točke niso na voljo za tega uporabnika</string>
   <string name="app_name">Miui Bluetooth</string>
   <string name="app_process_limit_title">Omejitev postopkov v ozadju</string>
+  <string name="audio_relay_default_device_name">XiaoAi zvočniki</string>
   <string name="available_via_carrier">Na voljo preko omrežja %1$s</string>
   <string name="available_via_passpoint">Na voljo preko %1$s</string>
   <string name="band_24G">" (2.4 GHz band)"</string>
@@ -307,6 +308,11 @@ Avdio"</string>
   <string name="managed_user_title">Vse delovne aplikacije</string>
   <string name="media_category">Predstavnosti</string>
   <string name="media_transfer_this_device_name">Ta naprava</string>
+  <string name="mi_audio_relay_cancel">V redu</string>
+  <string name="mi_audio_relay_connect_failed">Ni uspelo</string>
+  <string name="mi_audio_relay_localphone">Telefon</string>
+  <string name="mi_audio_relay_phone_name">Xiaomi Telefon</string>
+  <string name="mi_audio_relay_title">Izberite naprave</string>
   <string name="mi_band_vibrate_alarm">Vibriranje pri alarmu</string>
   <string name="mi_band_vibrate_incall">Vibriranje pri klicih</string>
   <string name="mi_band_vibrate_incall_in_contacts">Klici stikov</string>

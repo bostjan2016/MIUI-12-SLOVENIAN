@@ -294,6 +294,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
+  <string name="font_trial_end_purchase">Kupi font</string>
   <string name="forbid_transparent_wallpaper_by_second_space">Najprej uporabite prozorna ozadja v prvem prostoru.</string>
   <string name="forbid_video_wallpaper_by_second_space">Najprej uporabite dinamična ozadja v prvem prostoru.</string>
   <string name="gallery_wallpaper">Wallpaper Carousel</string>

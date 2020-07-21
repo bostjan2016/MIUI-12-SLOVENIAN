@@ -1434,6 +1434,9 @@ Napravite varnostno kopijo stikov."</string>
   <string name="take_photo">Posnemi sliko</string>
   <string name="telecom_fraud_insurance">Telekom prevara zavarovanja</string>
   <string name="telecom_fraud_insurance_description">10,000 CNY zavarovanje| Ekskluzivna Xiaomi ponudba | 9.9 CNY letno</string>
+  <string name="theme_dialog_confirm_button">Razumem</string>
+  <string name="theme_dialog_confirm_content">"Ta verzija aplikacije stiki ne podpira trenutno nastavljene teme."</string>
+  <string name="theme_dialog_confirm_title">"Ne morem nastaviti teme"</string>
   <string name="thursday">Četrtek</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>

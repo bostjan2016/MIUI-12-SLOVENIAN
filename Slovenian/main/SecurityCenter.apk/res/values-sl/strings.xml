@@ -2029,7 +2029,9 @@ vašega igranja"</string>
   <string name="memory_clean_click_tip">Povečaj hitrost</string>
   <string name="memory_clean_memory_size_tip">Predpomnilnik</string>
   <string name="memory_clean_no_need_clean">Vse zgleda dobro</string>
-  <string name="memory_clean_no_need_clean_1" formatted="false">Osvobojeno %s. Vaša naprava je zdaj %d%% hitrejša.</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">Osvobojeno %s.
+  
+Vaša naprava je zdaj %d%% hitrejša.</string>
   <string name="memory_clean_no_running_process">Ni nalog za brisanje</string>
   <string name="memory_clean_running_process_title">Spremljanje aplikacij (%d)</string>
   <string name="memory_cleaned_memory_info">Na voljo spomina</string>
@@ -3491,9 +3493,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="st_call_other_group">Ostalo</string>
   <string name="st_call_settings">Seznam blokiranih klicev</string>
   <string name="st_call_stranger_group">Blokiranje klicev od tujcev</string>
-  <string name="st_confirm_dialog_btn_open">Odpri</string>
-  <string name="st_confirm_dialog_summary_contact_call">Vsi klici od stikov bodo prestreženi.</string>
-  <string name="st_confirm_dialog_summary_oversea_call">Vključite da boste blokirali vse dohodne klice iz tujih številk telefona.</string>
+  <string name="st_confirm_dialog_btn_open">Blokiraj</string>
+  <string name="st_confirm_dialog_summary_contact_call">Vsi klici od stikov bodo blokirani.</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Vsi klici iz tujih telefonskih številk bodo blokirani.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Vsi klici od tujcev bodo prestreženi.</string>
   <string name="st_filter_keywords_setting_summary1">SMS iz neznane številke ki vsebuje ključno besedo bo blokirana.</string>
   <string name="st_filter_keywords_setting_summary2">"(Uporabite vejice za odvajanje več ključnih besed)"</string>
