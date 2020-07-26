@@ -2047,7 +2047,7 @@ Preostalo poskusov :"</string>
   <string name="tethered_notification_multi_device_message">Povezanih naprav: %1$s</string>
   <string name="tethered_notification_no_device_message">Ni povezanih naprav</string>
   <string name="tethered_notification_one_device_message">%1$s povezanih naprav</string>
-  <string name="tethered_notification_title">Aktivna povezava s spletom ali dostopna točka sta aktivni</string>
+  <string name="tethered_notification_title">Aktivno deljenje povezave ali hotspot</string>
   <string name="textSelectionCABTitle">Izbrano besedilo</string>
   <string name="text_copied">Besedilo kopirano v odložišče.</string>
   <string name="throttle_warning_notification_message">Dotaknite se če želite izvedeti več o uporabi podatkov v mobilni napravi.</string>

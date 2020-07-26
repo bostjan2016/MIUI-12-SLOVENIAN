@@ -56,14 +56,14 @@
         <item>Stereo</item>
     </string-array>
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimizirano za kakovost avdio predvajanja</item>
-        <item>Uravnotežena kakovost avdio predvajanja in povezave</item>
+        <item>Optimizirano za kakovost zvoka</item>
+        <item>Uravnotežena kakovost zvoka in povezave</item>
         <item>Optimizirano za kakovost povezave</item>
         <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimizirano za kakovost avdio predvajanja (990 kbps/909 kbps)</item>
-        <item>Uravnotežena kakovost avdio predvajanja in povezave (660 kbps/606 kbps)</item>
+        <item>Optimizirano za kakovost zvoka (990 kbps/909 kbps)</item>
+        <item>Uravnotežena kakovost zvoka in povezave (660 kbps/606 kbps)</item>
         <item>Optimizirano za kakovost povezave (330 kbps/303 kbps)</item>
         <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
      </string-array>
@@ -127,8 +127,8 @@
         <item>Onemogočeno</item>
         <item>Omogočeno filtrirano</item>
         <item>Omogočeno</item>
-        <item>Omogočeno \"Zaglavja filtrirana\"</item>
-        <item>Omogočeno \"Paketi predstavnosti filtrirani\"</item>
+        <item>Glave filtrirane</item>
+        <item>Paketi predstavnosti filtrirani</item>
      </string-array>
      <string-array name="color_mode_descriptions">
         <item>Izboljšane barve</item>

@@ -96,7 +96,7 @@
      </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Preverjanje</item>
+        <item>Preverjanje…</item>
         <item>Povezovanje na omrežje %1$s…</item>
         <item>Avtentifikacija z omrežjem %1$s…</item>
         <item>Pridobivanje IP naslova iz omrežja %1$s…</item>
@@ -121,7 +121,7 @@
         <item>Izven dosega</item>
      </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
-        <item>Uporabljajte privzeto nastavitev sistema: %1$d</item>
+        <item>Uporabljate privzeto nastavitev sistema: %1$d</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -136,9 +136,9 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Onemogočeno</item>
-        <item>Omogočeno filtrirano</item>
-        <item>Omogočeno filtrirana poglavja</item>
-        <item>Omogočeno filtrirani paketi predstavnosti</item>
+        <item>Filtrirano</item>
+        <item>Glave filtrirane</item>
+        <item>Paketi predstavnosti filtrirani</item>
         <item>Omogočeno</item>
     </string-array>
     <string-array name="wifi_signal">

@@ -137,7 +137,8 @@ in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="ambilight_intro_crowd_moving_part2">Lahko fotografirate tudi prometne zastoje in množico ljudi. Daljša izpostavljenost bo stavbe ohranjala sveže, vsi premikajoči se predmeti pa bodo zameglili.</string>
   <string name="ambilight_intro_light_track">Uporabite vir svetlobe za "barvanje" temnega prizora, da združite vse osvetljene koščke v eno sliko.</string>
   <string name="ambilight_intro_magic_star">To metodo uporabite na mestih z nizkim onesnaženjem. Izpostavljenost bo nastavljena na %d sekund, zato je uporaba stativa odlična ideja.</string>
-  <string name="ambilight_intro_silky_water_part1">Ta način uporabite za zajem premikajočih se oblakov. Nebu bo dal učinek "olja na platnu".</string>
+  <string name="ambilight_intro_magic_star_ae">To metodo uporabite na mestih z nizkim onesnaženjem. Izpostavljenost bo nastavljena na %d sekund, zato je uporaba stativa odlična ideja.</string>
+  <string name="ambilight_intro_silky_water_part1">Ta način uporabite za zajem premikajočih se oblakov. Nebu bo dal učinek \"olja na platnu\".</string>
   <string name="ambilight_intro_silky_water_part2">Tako so gibljive vode (reke, slapovi in jezera) videti kot svila.</string>
   <string name="ambilight_intro_star_track">"Snemanje zvezdnega neba dlje časa lahko zajame poti zvezd. Ne pozabite uporabljati stativa in snemati neprekinjeno vsaj %d minut."</string>
   <string name="ambilight_intro_star_track_2">"Snemanje zvezdnega neba dlje časa lahko zajame poti zvezd. Ne pozabite uporabljati stativa in snemati neprekinjeno vsaj %d min. da boste dobili fotografije in videoposnetke."</string>
@@ -512,11 +513,19 @@ Natisnite kopijo brezžično na papir A4."</string>
   <string name="lens_dirty_detected_content">""Kaže da je leča vaše kamere umazana. Očistite jo."</string>
   <string name="lens_dirty_detected_title_back">Leča zadnje kamere je umazana</string>
   <string name="lens_dirty_detected_title_front">Leča sprednje kamere je umazana</string>
+  <string name="lighting_bright_red">Scarlet</string>
+  <string name="lighting_dazzling">Beams</string>
+  <string name="lighting_dreamland">Dreamland</string>
+  <string name="lighting_gorgeous">Motley</string>
   <string name="lighting_hint_needed">Postavite svoj objekt v kader</string>
   <string name="lighting_hint_title">Studio osvetlitev</string>
   <string name="lighting_hint_too_close">Oddaljite kamero</string>
   <string name="lighting_hint_too_far">Približajte kamero</string>
   <string name="lighting_hint_usage">"Efekte studio svetlitve lahko uporabite v\n Portretnem načinu dela"</string>
+  <string name="lighting_lanshan">Decadence</string>
+  <string name="lighting_movie_light_effect_title">Filmski efekti</string>
+  <string name="lighting_neon">Neon</string>
+  <string name="lighting_nostalgia">Nostalgija</string>
   <string name="lighting_pattern_dot">Točke</string>
   <string name="lighting_pattern_holi">Holi</string>
   <string name="lighting_pattern_leaf">Listje</string>
@@ -526,6 +535,8 @@ Natisnite kopijo brezžično na papir A4."</string>
   <string name="lighting_pattern_rainbow">Mavrica</string>
   <string name="lighting_pattern_shutter">Zavese</string>
   <string name="lighting_pattern_stage">Oder</string>
+  <string name="lighting_phantom">Phantom</string>
+  <string name="lighting_rainbow">Mavrica</string>
   <string name="live_edit_exit_confirm">Izhod</string>
   <string name="live_edit_exit_message">Zavržem posnetek?</string>
   <string name="live_edit_share_title">Deli</string>
@@ -826,6 +837,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_advanced_functions">Napredne nastavitve</string>
   <string name="pref_advanced_settings">Napredno</string>
   <string name="pref_ai_detect">AI detekcija</string>
+  <string name="pref_audio_denoise_title">Zmanjšanje motenj v zvoku</string>
   <string name="pref_audio_focus_entry_front">Spredaj</string>
   <string name="pref_audio_focus_entry_general">Normalno</string>
   <string name="pref_audio_focus_entry_rear">Zadaj</string>
@@ -1435,6 +1447,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="toast_start_audio_capture">Ko se sproži zaklep predvajaj zvok </string>
   <string name="ubi_focus_capture_fail">"Slike ni bilo mogoče zajeti"</string>
   <string name="ubifocus_capture_warning_message">Za najboljše rezultate bi morala vaša slika vsebovati stvari tako v bližini (manj kot 1 meter od leč) kot tudi daleč</string>
+  <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra HD je izkl.</string>
+  <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra HD</string>
   <string name="ultra_pixel_108mp">108MP</string>
   <string name="ultra_pixel_32mp">32MP</string>
   <string name="ultra_pixel_48mp">48MP</string>

@@ -51,10 +51,10 @@
         <item>Najboljše možno (prilagodljiva hitrost prenosa)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimizirano za kakovost zvoka (990/909 kb/s)</item>
-        <item>Uravnotežena kakovost zvoka in povezave (660/606 kb/s)</item>
-        <item>Optimizirano za kakovost povezave (330/303 kb/s)</item>
-        <item>Najboljše možno (prilagodljiva bitna hitrost)</item>
+        <item>Optimizirano za kakovost zvoka (990 kbps/909 kbps)</item>
+        <item>Uravnotežena kakovost zvoka in povezave (660 kbps/606 kbps)</item>
+        <item>Optimizirano za kakovost povezave (330 kbps/303 kbps)</item>
+        <item>Najboljše možno (prilagodljiva hitrost prenosa)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Uporabi sistemsko izbiro (privzeto)</item>
@@ -114,10 +114,10 @@
     </string-array>
 	<string-array name="bt_hci_snoop_log_entries">
         <item>Onemogočeno</item>
-        <item>Omogočeno filtrirano</item>
+        <item>Filtrirano</item>
         <item>Omogočeno</item>
-        <item>Omogočeno \"Glave filtrirane\"</item>
-        <item>Omogočeno \"Paketi predstavnosti filtrirani\"</item>
+        <item>Glave filtrirane</item>
+        <item>Paketi predstavnosti filtrirani</item>
      </string-array>
     <string-array name="clock_options">
         <item>Pokaži ure, minute in sekunde</item>

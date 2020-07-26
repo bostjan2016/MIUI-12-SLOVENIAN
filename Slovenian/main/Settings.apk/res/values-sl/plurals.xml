@@ -145,16 +145,16 @@
          <item quantity="one">%d naprava</item>
      </plurals>
 	<plurals name="show_pho_countdown">
-        <item quantity="other">"Še %1$d korakov do dostopa do informacij o telefonu."</item>
-        <item quantity="one">"Še %1$d korak do dostopa do informacij o telefonu."</item>
+        <item quantity="other">"Še %1$d korakov do odpiranja informacij o telefonu."</item>
+        <item quantity="one">"Še %1$d korak do odpiranja informacij o telefonu."</item>
      </plurals>
 	 <plurals name="show_cit_countdown">
         <item quantity="other">Še %1$d korakov do vstopa v cit.</item>
         <item quantity="one">Še %1$d korak do vstopa v cit.</item>
      </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">Še %1$d korakov do dostopa do prijavljanja napak.</item>
-        <item quantity="one">Še %1$d korak do dostopa do prijavljanja napak.</item>
+        <item quantity="other">Še %1$d korakov do dostopa za prijavljanje napak.</item>
+        <item quantity="one">Še %1$d korak do dostopa za prijavljanje napak.</item>
      </plurals>
 	    <plurals name="zen_mode_duration_minutes">
         <item quantity="other">%d min</item>
@@ -206,11 +206,11 @@
      </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Vedno onemogoči za %d aplikacij</item>
-        <item quantity="one">Vedno onemogoči za 1 aplikacijo</item>
+        <item quantity="one">Vedno onemogoči za %d aplikacijo</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Nikoli ne omogočaj za %d aplikacij</item>
-        <item quantity="one">Nikoli ne omogočaj za 1 aplikacijo</item>
+        <item quantity="one">Nikoli ne omogočaj za %d aplikacijo</item>
     </plurals>
 	<plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Zelo kratki odlogi (%1$d ms)</item>
@@ -270,6 +270,10 @@
         <item quantity="other">%d nalog tiska</item>
         <item quantity="one">%d naloga tiska</item>
      </plurals>
+	 <plurals name="priority_conversation_count">
+        <item quantity="other">%d prioritetnih razgovorov</item>
+        <item quantity="one">%d prioritetni razgovor</item>
+    </plurals>
 	  <plurals name="restricted_app_summary">
         <item quantity="other">Omejevanje uporabe baterije za aplikacije: %1$d</item>
         <item quantity="one">Omejitev uporabe baterije za %1$d aplikacijo</item>
@@ -532,14 +536,18 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
         <item quantity="one">%s sekunda</item>
         <item quantity="few">%s sekund</item>
      </plurals>
+	 <plurals name="see_all_apps_title">
+        <item quantity="other">Pokaži vse %1$d aplikacije</item>
+        <item quantity="one">Pokaži vse aplikacije</item>
+    </plurals>
      <plurals name="settings_suggestion_header_summary_hidden_items">
         <item quantity="other">Pokaži %d skritih stvari</item>
         <item quantity="one">Pokaži %d skrito stvar</item>
-        <item quantity="few">Pokaži %d skrith stvari</item>
+        <item quantity="few">Pokaži %d skritih stvari</item>
      </plurals>
 	 <plurals name="show_reset_countdown">
         <item quantity="other">Še %1$d korakov do povrnitve na tovarniške nastavitve</item>
-        <item quantity="one">Još %1$d korak do povrnitve na tovarniške nastavitve</item>
+        <item quantity="one">Še %1$d korak do povrnitve na tovarniške nastavitve</item>
     </plurals>
      <plurals name="special_access_summary">
         <item quantity="other">%d aplikacij lahko uporablja neomejene podatke</item>
