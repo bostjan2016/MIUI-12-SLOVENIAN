@@ -224,7 +224,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="ks_update_fail_code">"Ne morem prenesti digitalnega potrdila. Koda napake: %d"</string>
   <string name="ks_update_fail_no_network">"Ne morem se povezati na splet. Povežite se in poskusite ponovno."</string>
   <string name="ks_update_fail_request_timeout">Zahteva za povezavo je potekla. Počakajte trenutek ali dva in poskusite ponovno.</string>
-  <string name="ks_update_success">Uspešno poaodobljeno</string>
+  <string name="ks_update_success">Uspešno posodobljeno</string>
   <string name="ks_update_wait">Samo trenutek…</string>
   <string name="last_sync_time_just_now">Prav zdaj</string>
   <string name="last_sync_time_yesterday">Včeraj</string>
