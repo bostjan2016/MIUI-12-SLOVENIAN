@@ -121,6 +121,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="activity_title_permission_manager">Dovoljenja</string>
   <string name="activity_title_permissions_manager">Dovoljenja</string>
   <string name="activity_title_power_manager">Optimizacija baterije</string>
+  <string name="activity_title_risk_app_install_manager">Potrebno je dovoljenje tvegane aplikacije</string>
   <string name="activity_title_risk">Tveganja</string>
   <string name="activity_title_risk_detail">Podrobnosti tveganja</string>
   <string name="activity_title_root_acquired">Dovoli ROOT pristop</string>
@@ -202,13 +203,10 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antivirus_none_engine_dialog_title">Izberi opredelitve</string>
   <string name="antivirus_not_wlan">Niste povezani na WiFi. Uporaba mobilnih podatkov lahko povzroči dodatne stroške. Vseeno nadaljujem?</string>
   <string name="antivirus_privacy_dialog_cloudscan">Pošlji imena in podrobnosti aplikacij</string>
-  <string name="antivirus_privacy_dialog_cloudscan_description">Pošlji imena in podrobnosti aplikacij in jih preveri s pomočjo online opredelitev virusov.</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">"Za učinkovitejše odkrivanje in nevtralizacijo virusov bomo prenesli imena in lastnosti aplikacijskih paketov, da jih skeniramo z uporabo mehanizma v oblaku."</string>
   <string name="antivirus_privacy_dialog_ok">V redu</string>
-  <string name="antivirus_privacy_dialog_summary">"To opravilo šifrira in pošilja ID vaše naprave na Avast, AVL in Tencent strežnike (%s)."</string>
+  <string name="antivirus_privacy_dialog_summary">&lt;Data&gt;To storitev ponuja protivirusni sistem drugega proizvajalca. Če želite izvedeti več, preberite &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; drugega proizvajalca.&lt;/Data&gt;</string>
   <string name="antivirus_privacy_dialog_summary_link">Prikaz Pravila o zasebnosti</string>
-  <string name="antivirus_privacy_dialog_summary_new">&lt;Data&gt;Ta storitev uporablja protivirusne definicije, ki jih nudijo Avast, AVL in Tencent. Preberite povezane &amp;lt;a href=\"%1$s\"&amp;gt;pogoje uporabe&amp;lt;/a&amp;gt; da izveste več.&lt;/Data&gt;</string>
-  <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data&gt;Ta storitev uporablja protivirusne definicije, ki jih nudijo Avast, AVL in Tencent. Preberite povezane &amp;lt;a href=\"%1$s\"&amp;gt;pogoje uporabe&amp;lt;/a&amp;gt; da izveste več.&lt;/Data&gt;</string>
-  <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data&gt;Ta storitev uporablja protivirusne definicije, ki jih nudijo Avast, AVL in Tencent. Preberite povezane &amp;lt;a href=\"%1$s\"&amp;gt;pogoje uporabe&amp;lt;/a&amp;gt; da izveste več.&lt;/Data&gt;</string>
   <string name="antivirus_privacy_dialog_title">Pravila o zasebnosti</string>
   <string name="antivirus_sec_network_unavailable">"Aplikacija Varnost ne more posodobiti ker ste omejili spletno povezavo. Dovolim aplikaciji povezavo na splet?"</string>
   <string name="antivirus_sec_support">Ponujeno od %s</string>
@@ -1968,6 +1966,7 @@ vašega igranja"</string>
   <string name="main_tobe_added_desc">Mobilni podatki od ¥0.03/MB</string>
   <string name="main_today_used">Porabljeno danes</string>
   <string name="main_toolbar_firewall">Omeji uporabo podatkov</string>
+  <string name="main_toolbar_misim">Mi SIM</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobilni podatki</string>
   <string name="main_toolbar_internet_by_pc_brige">Splet preko USB-ja</string>
   <string name="main_toolbar_internet_by_wifi">Splet preko WiFi-ja</string>
@@ -2086,7 +2085,8 @@ Vaša naprava je zdaj %d%% hitrejša.</string>
   <string name="menu_summary_antivirus">Iskanje virusov</string>
   <string name="menu_summary_app_manager">Posodobi in odstrani aplikacije</string>
   <string name="menu_summary_garbage_cleanup">Ni smeti</string>
-  <string name="menu_summary_garbage_cleanup_ex">Očisti smeti: %s</string>
+  <string name="menu_summary_garbage_cleanup_ex">Osvobodite %s</string>
+  <string name="menu_summary_garbage_cleanup_new">%d%% prostora za shranjevanje</string>
   <string name="menu_summary_networkassistants">Urejajte svoj plan podatkov</string>
   <string name="menu_summary_networkassistants_2">Omejitev prekoračena</string>
   <string name="menu_summary_networkassistants_3">Ostalo je dovolj podatkov</string>

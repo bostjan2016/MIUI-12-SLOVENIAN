@@ -127,8 +127,8 @@
   <string name="cannot_send_message_reason">Vaše sporočilo nima veljavnih prejemnikov.</string>
   <string name="card_insert_to_contact">Uvozi stik</string>
   <string name="change_duration_activity">Spremeni trajanje</string>
-  <string name="chatbox_list_title">Moje mini aplikacije</string>
-  <string name="chatbox_main_title">Mini aplikacije</string>
+  <string name="chatbot_list_title">5G sporočila</string>
+  <string name="chatbot_main_title">Mini aplikacije</string>
   <string name="check_all">Izberi vse</string>
   <string name="chenghu_disable_mms">Ne morete uporabljati vzdevka v MMS</string>
   <string name="class_0_message_activity">Sporočilo razreda 0</string>

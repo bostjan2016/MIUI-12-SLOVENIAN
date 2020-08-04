@@ -31,10 +31,12 @@
   <string name="autofill_save_sub_message">"Shranjena gesla lahko urejate v Nastavitve &gt; Gesla &amp; Varnost &gt; %s"</string>
   <string name="autofill_save_title">Samodejno shrani gesla</string>
   <string name="autofill_service_name">Urejanje gesel</string>
+  <string name="bluetooth_close">Ta aplikacija je izključila Bluetooth</string>
   <string name="bluetooth_disable_notification_content">%s je izključil-a Bluetooth</string>
   <string name="bluetooth_disable_notification_title">Bluetooth je izključen</string>
   <string name="bluetooth_enable_notification_content">%s je vključil-a Bluetooth</string>
   <string name="bluetooth_enable_notification_title">Bluetooth je vključen</string>
+  <string name="bluetooth_open">Ta aplikacija je vključila Bluetooth</string>
   <string name="btn_cancel">Prekliči</string>
   <string name="btn_sure">V redu</string>
   <string name="button_text_cancel">Prekliči</string>

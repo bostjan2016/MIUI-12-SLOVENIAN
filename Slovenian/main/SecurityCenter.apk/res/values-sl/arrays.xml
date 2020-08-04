@@ -27,7 +27,7 @@
         <item>Dostop do jezika in jezikovnih nastavitev ter drugih podrobnosti</item>
      </string-array>
      <string-array name="perm_intercept_unknown_source">
-        <item>"Aplikacije drugih proizvajalcev, ki jih GetApps ne potrdi, lahko povzročijo več težav in zmanjšajo stabilnost sistema."</item>
+        <item>"Aplikacije drugih proizvajalcev, ki niso preverjene lahko povzročijo več težav in zmanjšajo stabilnost sistema."</item>
         <item>Nekatere aplikacije drugih proizvajalcev lahko vsebujejo zlonamerno programsko opremo, ki ogroža vaše osebne podatke.</item>
      </string-array>
      <string-array name="priority_storage_entries">

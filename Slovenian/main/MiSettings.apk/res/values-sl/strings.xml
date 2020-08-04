@@ -31,7 +31,7 @@
   <string name="advanced_mode">Napredne nastavitve</string>
   <string name="anti_flicker_mode">Način proti utripanju</string>
   <string name="anti_flicker_mode_categroy">Načini</string>
-  <string name="anti_flicker_mode_summary">Zmanjšajte utripanje v slabih svetlobnih pogojih. Nekatere stvari morda ne bodo prav prikazane.</string>
+  <string name="anti_flicker_mode_summary">Zmanjšajte utripanje v slabih svetlobnih pogojih.</string>
   <string name="anti_flicker_title">Način proti utripanju</string>
   <string name="app_name">Nastavitve</string>
   <string name="application_sound">Obvestila aplikacije</string>
@@ -53,6 +53,10 @@
   <string name="created">Narejeno</string>
   <string name="created_successfully">Uspešno narejeno</string>
   <string name="cu_confirm">Nastavi</string>
+  <string name="dc_light_hint_enable_title">Pozor</string>
+  <string name="dc_light_hint_normal">DC zatemnitev lahko vpliva na način prikaza posameznih stvari.</string>
+  <string name="dc_light_hint_other">DC zatemnitev lahko vpliva na hitrost osveževanja in način prikazovanja posameznih stvari.</string>
+  <string name="dc_lignt_enable_hint">Način proti utripanju nastavi osvežitev zaslona na 60 Hz. Spremenim na način preprečevanja utripanja?</string>
   <string name="display_description">Večje ikone, veliko besedilo, manjši vidni nered</string>
   <string name="display_title">Večje stvari</string>
   <string name="eras_ad">AD</string>

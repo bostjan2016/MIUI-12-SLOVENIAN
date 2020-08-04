@@ -1221,10 +1221,9 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="nav_close_index_tab">Izbriši %d</string>
   <string name="nav_screen_container_tab_incognito">Anonimen zavihek</string>
   <string name="nav_screen_container_tab_normal">"Normalen zavihek"</string>
-  <string name="nav_screen_incognito_message">"Vaša zgodovina brskanja in iskanja ne bo shranjena v anonimnem načinu dela.
- Vedite pa da bodo prenešene datoteke in dodani zaznamki shranjeni."</string>
+  <string name="nav_screen_incognito_message">"Vaša zgodovina brskanja in iskanja ne bo shranjena v anonimnem načinu dela. Tudi podatki spletnih strani ne bodo shranjeni."</string>
   <string name="nav_screen_incognito_time">Čez %s sek. se bo samodejno ustvarila nova stran</string>
-  <string name="nav_screen_incognito_title">Anonimni način</string>
+  <string name="nav_screen_incognito_title">Vstopili ste v anonimni način</string>
   <string name="nav_screen_tab_incognito_enter">Vstopi v anonimno kartico</string>
   <string name="nav_screen_tab_incognito_exit">Zapusti anonimno kartico</string>
   <string name="navigate_feedback_dislike">Ne zanima me</string>
@@ -1698,10 +1697,12 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="time_picker_label_minute">M</string>
   <string name="title_bar_loading">Nalagam…</string>
   <string name="title_notice_push">Obvestilo opomnnika</string>
+  <string name="toast_feedback">"Videli boste manj stvari te vrste."</string>
+  <string name="toast_not_support">"Še ni podprto"</string>
   <string name="today">Danes</string>
   <string name="tomorrow">Jutri</string>
   <string name="too_many_windows_dialog_message">"Brskalnik ne more odpreti novega zavihka dokler ne zaprete odprtih"</string>
-  <string name="too_many_windows_dialog_title">Ne morem odpreti novih zavihkov</string>
+  <string name="too_many_windows_dialog_title">"Ne morem odpreti novih zavihkov"</string>
   <string name="transfer_prompt_0">Predvajaj videoposnetek</string>
   <string name="transfer_restart">Ponovno zaženi</string>
   <string name="translation_copy">Kopiraj</string>

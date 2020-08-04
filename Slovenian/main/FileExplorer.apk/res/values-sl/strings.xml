@@ -273,7 +273,8 @@
   <string name="download_link_completed">Delil sem %1$s z uporabo KuaiPan. Tapni povezavo spodaj za ogled: </string>
   <string name="downloaded_sticker_str">Prenešeno</string>
   <string name="downloading">Prenašam</string>
-  <string name="downloading_in_3g">Prenašam preko 3G povezave...</string>
+  <string name="drag_not_support_with_dir">"Ne morem preurediti ali poslati map"</string>
+  <string name="downloading_in_3g">Prenašam preko 3G…</string>
   <string name="drive_closed">Niste prijavljeni</string>
   <string name="drive_opened">Prijavljeni ste</string>
   <string name="editor_commend">Uredi</string>
@@ -484,8 +485,10 @@
   <string name="menu_item_sort_size">Po velikosti</string>
   <string name="menu_item_sort_type">Po vrsti</string>
   <string name="menu_item_usb">USB</string>
-  <string name="menu_set_wallpaper">Nastavi za sliko ozadja</string>
+  <string name="menu_new_display_open">Odpri v novem oknu</string>
+  <string name="menu_pc_open">Odpri z računalniškim programom</string>
   <string name="menu_list_name">Meni</string>
+  <string name="menu_set_wallpaper">Nastavi za sliko ozadja</string>
   <string name="message_comment_prefix">Komentar:</string>
   <string name="message_my_received_notification">Novo sporočilo</string>
   <string name="message_my_received_praise">Moji lajki</string>
@@ -845,6 +848,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="rlv_refreshing">Osveževanje…</string>
   <string name="rlv_release_to_close">Izpusti za zapiranje</string>
   <string name="rlv_release_to_refresh">Izpusti za osveževanje</string>
+  <string name="save_file_to_mishare">"Shranjeno v mapo Mi Share"</string>
   <string name="save">Shrani</string>
   <string name="save_desc_success">Uspešno spremenjeno​</string>
   <string name="save_failed">"Ne morem shraniti, poskusite ponovno"</string>

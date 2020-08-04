@@ -539,6 +539,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="app_disable_dlg_title">Želite onemogočiti vgrajeno aplikacijo?</string>
   <string name="app_disable_notifications_dlg_text">Če izključite obvestila za to aplikacijo lahko zamudite kaj važnega.</string>
   <string name="app_disable_notifications_dlg_title">Želite izklopiti obvestila?</string>
+  <string name="app_enable_bluetooth_record">Aplikacije vključujejo Bluetooth</string>
   <string name="app_factory_reset">Odstrani posodobitve</string>
   <string name="app_factory_reset_dlg_text">Vse posodobitve aplikacije sistema Android bodo odstranjene.</string>
   <string name="app_factory_reset_dlg_title">Želite odstraniti posodobitve?</string>
@@ -832,10 +833,13 @@ Nazadnje zagnano: %2$s"</string>
     <string name="aware_settings_enabled_info_dialog_title" />
     <string name="aware_settings_summary" />
   <string name="back_button">Nazaj</string>
+  <string name="back_double_tap">Dvojni dotik zadaj</string>
   <string name="back_key">Nazaj</string>
     <string name="back_sensitivity_dialog_message">"
 Višja občutljivost bo morda ovirala izvajanje potez ob robovih zaslona v aplikaciji."</string>
     <string name="back_sensitivity_dialog_title">Občutljivost hrbtnega dela</string>
+  <string name="back_tap">Dotik zadaj</string>
+  <string name="back_triple_tap">Trojni dotik zadaj</string>
     <string name="background_activity_disabled_dialog_text">"Ker za to aplikacijo ni izbrana nastavitev optimiziranja porabe akumulatorja, je ni mogoče omejiti.
 
 Če želite omejiti aplikacijo, najprej vklopite optimizacijo akumulatorja."</string>
@@ -1460,6 +1464,7 @@ Avdio"</string>
   <string name="bluetooth_unlock_device_matched_text">Uporabljaj to napravo za odklep.</string>
   <string name="bluetooth_unlock_no_matched_device_yet">Ni zaznanih naprav</string>
   <string name="bluetooth_unlock_reject">Zahteva za odklepanje te naprave je bila zavrnjena</string>
+  <string name="bluetooth_unlock_settings_devices_prompt">Podprte so samo izbrane prenosne naprave Bluetooth (npr. zapestnice za fitnes in pametne ure)</string>
   <string name="bluetooth_unlock_settings_devices_title">Naprava</string>
   <string name="bluetooth_unlock_settings_toggle_title">Uporabi za</string>
   <string name="bluetooth_unlock_settings_unlock_device">Odkleni napravo</string>
@@ -1547,7 +1552,11 @@ To lahko spremenite v nastavivah."</string>
 To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</string>
   <string name="bt_aac_open_dialog_title">Premik na AAC kodek</string>
   <string name="bt_aac_pre_title">AAC</string>
-  <string name="bt_dialog_remember_choice">"Ne kaži več"</string>
+  <string name="bt_absVolume_open_dialog_summary">Nekatere naprave Bluetooth imajo zaradi težav s združljivostjo nenormalno glasnost, kar je mogoče odpraviti z izklopom te storitve.</string>
+  <string name="bt_absVolume_open_dialog_title">Pozor</string>
+  <string name="bt_absVolume_pre_title">Absolutna glasnost</string>
+  <string name="bt_absVolume_summary">Obdrži strogo dosledno glasnost Bluetooth naprav in telefona</string>
+  <string name="bt_dialog_remember_choice">Zapomni si</string>
   <string name="bt_dialog_settings">Nastavitve</string>
     <string name="bt_hci_snoop_log">Omogoči zajem dnevnika Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Zajemanje paketov Bluetooth. (po spremembi te nastavitve preklopite Bluetooth)</string>
@@ -2165,6 +2174,7 @@ Začnite z napolnjeno baterijo in telefon mora biti priključen ves čas.
   <string name="current_zone">(trenutno)</string>
   <string name="custom_carrier_title">Uredi ime operaterja</string>
   <string name="custom_color">Po meri</string>
+  <string name="custom_gesture_title">Lastni gibi</string>
   <string name="custom_wifi_name_title">Uredi ime WiFi-ja</string>
   <string name="customize_function">Vzorci na voljo</string>
   <string name="cutout_mode_always">Zmeraj pokaži</string>
@@ -2498,6 +2508,7 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
   <string name="device_oaid">ID naprave</string>
   <string name="device_oaid_desc">Namesto vašega dejanskega identifikatorja MIUI aplikacijam tretjih oseb ponuja virtualno ID (PAID). Preprečuje, da bi aplikacije spremljale vaše vedenje in nastavitve ter ščiti vašo zasebnost.</string>
   <string name="device_oaid_title">Virtualna ID</string>
+  <string name="device_opcust_version">Prilagojena verzija</string>
   <string name="device_picker">Izberite napravo Bluetooth</string>
   <string name="device_rear_camera">Zadnja kamera</string>
   <string name="device_reset_title">Ponastavi napravo</string>
@@ -4059,16 +4070,23 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="later">Kasneje</string>
   <string name="lattice_smartcover_title">Rešetkasti sprednji pokrov</string>
   <string name="launch_ai_shortcut">Mi AI bližnjica</string>
+  <string name="launch_alipay_payment_code">Alipay koda plačila</string>
+  <string name="launch_alipay_scanner">Alipay skener</string>
   <string name="launch_by_default">Privzeto odpiranje</string>
+  <string name="launch_calculator">Kalkulator</string>
   <string name="launch_camera">Zaženi kamero</string>
-  <string name="launch_count_label">Štetje</string>
+  <string name="launch_control_center">Center za kontrolo</string>
+  <string name="launch_count_label">Število</string>
   <string name="launch_defaults_none">Ni privzetih nastavitev</string>
   <string name="launch_defaults_some">Nastavljene so nekatere privzete nastavitve</string>
   <string name="launch_google_search">Zaženi Google Iskanje</string>
   <string name="launch_instant_app">Odpri</string>
     <string name="launch_mdp_app_text">Pokaži paket</string>
+  <string name="launch_notification_center">Plošča obvestil</string>
   <string name="launch_recents">Zaženi Nedavno</string>
   <string name="launch_voice_assistant">Zaženi glasovni pomočnik</string>
+  <string name="launch_wechat_payment_code">WeChat koda plačila</string>
+  <string name="launch_wechat_scanner">WeChat skener</string>
     <string name="launch_wifi_text">Ogled podrobnosti</string>
   <string name="launcher_auto_fill_empty_title">Samodejno popolni prazna mesta</string>
   <string name="launcher_icon">Ikone</string>
@@ -5091,6 +5109,7 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="music_title_dolby_control">Dolby digital plus</string>
   <string name="music_unsupport_effect_summary">Nepodprte USB slušalke</string>
   <string name="musicfx_title">Glasbeni učinki</string>
+  <string name="mute">Tiho</string>
   <string name="mute_media_sound_title">Utišaj zvoke predstavnosti</string>
   <string name="mute_music_stream">Utišaj zvoke predstavnosti</string>
   <string name="mute_voiceassist_stream">Utišaj glasovnega pomočnika</string>
@@ -5098,7 +5117,7 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="mvno_type">Vrsta MVNO</string>
   <string name="my_device">Moja naprava</string>
   <string name="my_device_disclaimer">Opomba: informacije o strojni opremi, vključno CPU, kapaciteto baterije, velikost in resolucijo ekrana in kamere ponujajo Xiaomi laboratorij, dizajnerji ter dobavitelji.</string>
-    <string name="my_device_info_account_preference_title">Google Račun</string>
+  <string name="my_device_info_account_preference_title">Račun</string>
     <string name="my_device_info_device_name_preference_title">Ime naprave</string>
   <string name="n_cacrts">%d CA certifikati</string>
   <string name="name_password_not_consistent">Napačno uporabniško ime ali geslo</string>
