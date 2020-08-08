@@ -83,7 +83,7 @@
   <string name="activitychooserview_choose_application">Izberite aplikacijo</string>
   <string name="activitychooserview_choose_application_error">Aplikacije %s ni bilo mogoče zagnati</string>
   <string name="adb_active_notification_message">Dotaknite se če želite onemogočiti iskanje in odpravljanje napak preko vrat USB.</string>
-  <string name="adb_active_notification_title">Iskanje in odpravljanje napak USB je povezano</string>
+  <string name="adb_active_notification_title">Iskanje in odpravljanje napak USB je vključeno</string>
   <string name="adb_debugging_notification_channel_tv">Odpravljanje napak preko USB-a</string>
   <string name="addToDictionary">Dodaj v slovar</string>
   <string name="add_account_button_label">Dodaj račun</string>
@@ -2122,7 +2122,7 @@ Preostalo poskusov :"</string>
   <string name="usb_storage_title">Povezava USB je vzpostavljena</string>
   <string name="usb_supplying_notification_title">Napajanje priključene naprave preko USB-ja</string>
   <string name="usb_tether_notification_title">Vključeno je modemsko povezovanje preko USB-ja</string>
-  <string name="usb_unsupported_audio_accessory_message">Priključena naprava ni kompatibilna s tem telefonom. Tapnite za več info.</string>
+  <string name="usb_unsupported_audio_accessory_message">Povezana naprava ni kompatibilna s tem telefonom. Tapnite za več info.</string>
   <string name="usb_unsupported_audio_accessory_title">Odkrit analogni avdio pribor</string>
   <string name="use_a_different_app">Uporaba druge aplikacije</string>
   <string name="use_physical_keyboard">Fizična tipkovnica</string>

@@ -5747,12 +5747,12 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="partial_connectivity_text">Nekatere aplik./storitve morda ne bodo delovale zaradi omej. povezljivosti. Želite vseeno uporabiti?</string>
   <string name="passpoint_content">%1$s poverilnice</string>
   <string name="passpoint_label">Shranjeno preko</string>
-  <string name="passpoint_r1_privacy_dialog_message">"Passpoint je zanesljiva in varna tehnologija brezžične povezave, ki jo je zagnala organizacija WiFi Alliance. Samodejno konfigurira račune da ustvari brezhibno povezavo med omrežji WiFi in mobilnimi napravami.
-
-Ta storitev najprej dobi vaš WiFi MAC naslov za registracijo računa. Vaše podatke bomo obdelovali v skladu z %s. Prosimo, natančno preberite in se strinjajte z Pravili o zasebnosti pred nadaljevanjem"</string>
+  <string name="passpoint_r1_privacy_dialog_message">"To storitev WiFi ponuja exands. Omogoča vam, da se samodejno povežete s podprtimi dostopnimi točkami.
+  
+Pred uporabo preberite in sprejmite %s."</string>
   <string name="passpoint_r1_privacy_dialog_no">Prekliči</string>
   <string name="passpoint_r1_privacy_dialog_title">Pozor</string>
-  <string name="passpoint_r1_privacy_dialog_url_text">Pravila o zasebnosti</string>
+  <string name="passpoint_r1_privacy_dialog_url_text">\"exands Pravila o zasebnosti\"</string>
   <string name="passpoint_r1_privacy_dialog_yes">Sprejmem</string>
   <string name="password">Geslo</string>
   <string name="passwordIncorrect">Geslo ki ste ga vnesli je napačno</string>

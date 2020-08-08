@@ -199,6 +199,7 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="indices_desc_feel">Občutek %1$s°C</string>
   <string name="indices_desc_humidity">Vlaga %1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
+  <string name="indices_title_chance_of_rain">Verjetnost padavin</string>
   <string name="indices_no_restriction">Nič</string>
   <string name="indices_title">Priporočene aktivnosti</string>
   <string name="indices_title_Precip1hr">Padavine</string>
@@ -206,6 +207,7 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="indices_title_feel">Občutek</string>
   <string name="indices_title_humidity">Vlaga</string>
   <string name="indices_title_pressure">Pritisk</string>
+  <string name="indices_title_wind_speed">Hitrost vetra</string>
   <string name="indices_title_restriction">Omejitev</string>
   <string name="indices_title_sport">Šport</string>
   <string name="indices_title_uv">UV Index</string>
