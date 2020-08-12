@@ -469,6 +469,7 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="health_score">Rezultat</string>
   <string name="health_score_tips">Zdravstveni rezultat se izračunava na osnovi BMI (indeksa telesne mase) ter spanja in aktivnosti. Bližje kot boste ciljem, boljši bo vaš zdravstveni rezultat.</string>
   <string name="health_setting">Nastavitve</string>
+  <string name="heart_rate">Srčni utrip</string>
   <string name="high">Visok</string>
   <string name="high2">Visok</string>
   <string name="high_intensity">Visoko</string>
@@ -483,6 +484,15 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="hour">H</string>
   <string name="hour_in_day_format">%1$d</string>
   <string name="hour_in_day_format_short">%1$d</string>
+  <string name="hr_heart_rate_unit">Srčni utrip (BPM)</string>
+  <string name="hr_input_heart_rate">Zabeleži srčni utrip</string>
+  <string name="hr_state">Status</string>
+  <string name="hr_state_active">Aktivno</string>
+  <string name="hr_state_fast">Hitro</string>
+  <string name="hr_state_normal">Normalno</string>
+  <string name="hr_state_regular">Regularno</string>
+  <string name="hr_state_resting">Počitek</string>
+  <string name="hr_state_slow">Počasi</string>
   <string name="icon_content_description">Ikona dialoga</string>
   <string name="improve_step_target">Prepogosto dosežete svoj cilj. Nastavite višjega.</string>
   <string name="improve_your_health_default_tips">Vadite in dovolj spite da boste ostali zdravi.</string>
@@ -729,6 +739,7 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="pause">Premor</string>
   <string name="per_time_minutes">%d na min.</string>
   <string name="per_time_minutes1">" na min."</string>
+  <string name="per_time_minutes_heart_rate">" BPM"</string>
   <string name="permission_check_result">Uspešno nastavljeno</string>
     <string name="permission_check_result_failed">Ni možno nastaviti</string>
   <string name="permission_manage">Urejanje dovoljenj</string>
@@ -806,6 +817,8 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="remind_weight_title">Tehtanje</string>
   <string name="remove">Odstrani</string>
   <string name="repeat_mode">Ponovi</string>
+  <string name="resting_heart_rate">Srčni utrip v mirovanju</string>
+  <string name="resting_heart_rate_desc">Normalni srčni utrip pri počitku se pri odraslih giblje od 60 do 100 utripov na minuto. Lahko se razlikuje glede na starost, spol in druge dejavnike.</string>
   <string name="retry">Poskusi ponovno</string>
   <string name="revert_to_default">Vrni na privzete nastavitve</string>
   <string name="run">Tek</string>
@@ -1035,7 +1048,9 @@ podatkov o spanju"</string>
   <string name="stand_notice_title4">Vstanite in se malo razgibajte</string>
   <string name="stand_notice_title5">Kaže da zadnjo uro niste vstali</string>
   <string name="stand_notice_title6">Ste vstali zadnjo uro?</string>
+  <string name="stand_remind_setting_desc">Po 1 uri neaktivnosti prejmete opomnik, da vstanete</string>
   <string name="stand_setting">Nastavitve</string>
+  <string name="stand_stop_reminding">"Ne kaži več"</string>
   <string name="standard_format">(standardno: %1s)</string>
   <string name="standing_already">" Vstali ste"</string>
   <string name="state_agree">Strinjam se</string>
@@ -1136,12 +1151,15 @@ podatkov o spanju"</string>
   <string name="tb_go_next_a_day">Prejšnji dan</string>
   <string name="tb_go_on_detection">Nadaljuj</string>
   <string name="tb_has_snore_dream_talk">Odkrito smrčanje in govorjenje</string>
+   <string name="tb_heart_rate_max_min">Srčni utrip. Največ: %1$d. Najmanj: %2$d.</string>
   <string name="tb_home_blood_pressure_card">Krvni pritisk. Sistolični: %1$d. Diastolični: %2$d. Zabeleženo: %3$s. Status: %4$s.</string>
   <string name="tb_home_blood_pressure_card_no_data">Krvni pritisk. Ni podatkov.</string>
   <string name="tb_home_exercise_card_finish">Vaja. %1$s. Končano: %2$s. Cilj: %3$s. Končano: %4$s.</string>
   <string name="tb_home_exercise_card_not_set_goal">Vaja. %1$s. Končano: %2$s. Odpri cilj.</string>
   <string name="tb_home_exercise_card_not_supported_step">"Vaja. Ta naprava ne šteje korake."</string>
   <string name="tb_home_exercise_card_speed_of_progress">Vaja. %1$s. Končano: %2$s. Cilj: %3$s. Napredek: %4$s.</string>
+  <string name="tb_home_heart_rate_card">Srčni utrip. %1$d utripov v minuti. Zabeleženo %2$s.</string>
+  <string name="tb_home_heart_rate_card_no_data">Srčni utrip. Ni podatkov.</string>
   <string name="tb_home_sleep_card">Spanje. %1$s danes. Odšel/a spat ob %2$s. Zbudil/a se ob %3$s. %4$s.</string>
   <string name="tb_home_sleep_card_no_data">Spanje. Danes ni podatkov.</string>
   <string name="tb_home_sleep_card_not_open_trace">Spanje. Analiza ciklusa spanja je izključena.</string>
@@ -1178,6 +1196,9 @@ podatkov o spanju"</string>
   <string name="tb_picker_year">Izbrano leto: %1$d. Povlecite navpično da boste izbrali leto.</string>
   <string name="tb_play_next">Preklopi na naslednji posnetek</string>
   <string name="tb_play_previous">Preklopi na prejšnji posnetek</string>
+  <string name="tb_range">Od %1$s do %2$s</string>
+  <string name="tb_resting_heart_rate_avg">Povprečni srčni utrip v mirovanju: %1$d. Status: %2$s.</string>
+  <string name="tb_resting_heart_rate_avg2">Povprečni srčni utrip v mirovanju. Največ: %1$d. Najmanj: %2$d.</string>
   <string name="tb_select_a_column">Izbrano %1$s</string>
   <string name="tb_show_sleep_info">Prikaz statistike spanja za %1$s</string>
   <string name="tb_sleep_evaluation">Ocenjeni rezultat: %1$s</string>

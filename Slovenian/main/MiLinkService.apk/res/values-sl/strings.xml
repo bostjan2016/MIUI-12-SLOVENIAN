@@ -19,6 +19,9 @@
   <string name="dialog_connect_verify_perssion_fail">"Ne morem avtorizirati predvajanje na vašem televizorju. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="dialog_connected">Povezano</string>
   <string name="dialog_connecting">Povezovanje…</string>
+  <string name="dialog_miplay_permission_message">Dovoli Castingu, da snema zvoke, dostopa do datotek v notranjem pomnilniku in do vaše lokacije, da lahko normalno uporabljate to storitev. Dotaknite se \"Nastavitve\" in za nadaljevanje izberite \"Dovoljenja aplikacij\".</string>
+  <string name="dialog_miplay_permission_positive">Nastavitve</string>
+  <string name="dialog_miplay_permission_title">Potrebno je dovoljenje</string>
   <string name="dialog_nfc_cast_wifi_off">Vključite WiFi da boste lahko predvajali preko NFC. Vključim?</string>
   <string name="dialog_no_device_message">1. Povežite telefon in TV na isto WiFi omrežje.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Pri nekaterih modelih televizorjev je ta storitev na voljo samo ko je vklopljeno oddajanje zaslona. Poglejte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomoč\"&amp;lt;/a&amp;gt; da izveste več.</string>
   <string name="dialog_no_device_message_china">1. Povežite telefon in TV na isto WiFi omrežje.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Pri nekaterih modelih televizorjev je ta storitev na voljo samo ko je vklopljeno oddajanje zaslona. Poglejte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomoč\"&amp;lt;/a&amp;gt; da izveste več.</string>

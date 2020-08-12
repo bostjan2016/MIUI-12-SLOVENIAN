@@ -61,6 +61,7 @@
   <string name="feedback_tip_msg">Da bomo natančneje združili obvestila moramo zbrati ime aplikacije, naslov in opis obvestila ter čas obvestila. Pošljem povratne informacije?</string>
   <string name="feedback_tip_title">Povratne informacije o kategorijah obvestil</string>
   <string name="float_notifications">Plavajoča obvestila</string>
+  <string name="float_notifications_short">Plavajoče</string>
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -75,6 +76,7 @@
   <string name="lock_screen_display_rules">Format</string>
   <string name="lock_screen_tip_toast">Dovolite obvestila zakl. zaslona v \"Format\"</string>
   <string name="lockscreen_notifications">Obvestila zakl. zaslona</string>
+  <string name="lockscreen_notifications_short">Zakl. zaslon</string>
   <string name="menu_setting_recommend_to_minus">Pokaži manj obvestil</string>
   <string name="menu_setting_recommend_to_normal">"Ne zmanjšuj obvestil"</string>
   <string name="menu_setting_show_in_home">"Ne združuj"</string>
@@ -204,6 +206,7 @@ Prijavite ta problem &gt;"</string>
   <string name="search_menu_title">Išči</string>
   <string name="settings_guide_title">Potrebujete druge nastavitve??</string>
   <string name="show_badge_notifications">Značke obvestil</string>
+  <string name="show_badge_notifications_short">Značke</string>
   <string name="status_bar_setting">Vrstica obvestil</string>
   <string name="summary_disable_float_notification">"Plavajoča obvestila niso dovoljena"</string>
   <string name="summary_disable_lockscreen_notification">"Obvestila zakl. zaslona niso dovoljena"</string>

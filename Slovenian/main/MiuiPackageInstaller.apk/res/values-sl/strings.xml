@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
+  <string name="action_bar_report_link_des">Opozorila aplikacije</string>
   <string name="adb_install_no_network">"Povezovanje na omrežje ni uspelo. Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="adb_install_open">Odpiranje…</string>
   <string name="adb_install_open_error">"Ne morem odpreti. Preverite omrežne nastavitve in poskusite ponovno."</string>
@@ -96,6 +97,7 @@ Obstoječi podatki aplikacije bodo shranjeni."</string>
   
 Vsi obstoječi podatki aplikacije bodo shranjeni."</string>
   <string name="done">Končano</string>
+  <string name="exit_install_button">"Ne namesti"</string>
   <string name="expand_button_title">Napredno</string>
     <string name="external_sources_settings">Nastavitve</string>
   <string name="external_sources_settings_negative">Omeji</string>
@@ -121,18 +123,27 @@ Vsi obstoječi podatki aplikacije bodo shranjeni."</string>
   <string name="increment_preparing">Priprava…</string>
   <string name="install">Namesti</string>
   <string name="install_app_progress_clear_apk">Izbriši aplikacijo</string>
-  <string name="install_confirm_question">Ali želite namestiti to aplikacijo?</string>
+  <string name="install_confirm_dialog_message">To aplikacijo je ustvaril Google. Pred normalno uporabo te aplikacije bi morali namestiti storitve Google Play. Če namestite to aplikacijo, se lahko vaša naprava slabo obnaša. Vseeno namestim?</string>
+  <string name="install_confirm_dialog_negative_button">Prekliči</string>
+  <string name="install_confirm_dialog_positive_button">Namesti</string>
+  <string name="install_confirm_dialog_title">Pozor</string>
+  <string name="install_confirm_question">Želite namestiti to aplikacijo? Aplikacija bo lahko:</string>
+  <string name="install_confirm_question_des_10">"Če želite tvegati in želite nadaljevati z namestitvijo, odobrite namestitev v Varnost&gt; Urejanje aplikacij &gt; Dovoljenja &gt; Aplikacije z možnim tveganjem. Če ne najdete \"Aplikacije z možnim tveganjem\", posodobite aplikacijo varnost in poskusite ponovno."</string>
   <string name="install_confirm_question_no_perms">Ali želite namestiti to aplikacijo? Poseben dostop ni potreben.</string>
   <string name="install_confirm_question_update">Ali želite namestiti posodobitev te obstoječe aplikacije? Obstoječi podatki ne bodo izgubljeni. Posodobljena aplikacija bo imela dostop do:</string>
   <string name="install_confirm_question_update_no_perms">Ali želite namestiti posodobitev te obstoječe aplikacije? Obstoječi podatki ne bodo izgubljeni. Za namestitev ne potrebujete posebnega dostopa.</string>
   <string name="install_confirm_question_update_system">Ali želite namestiti posodobitev za to vgrajeno aplikacijo? Obstoječi podatki ne bodo izgubljeni. Posodobljena aplikacija bo imela dostop do:</string>
   <string name="install_confirm_question_update_system_no_perms">Ali želite namestiti posodobitev te vgrajene aplikacije? Obstoječi podatki ne bodo izgubljeni. Za namestitev ne potrebujete posebnega dostopa.</string>
+  <string name="install_confirm_text_gms">To aplikacijo je ustvaril Google. Pred namestitvijo te aplikacije namestite storitve Google Play drugače morda ne bo delovala pravilno.</string>
+  <string name="install_continue">Nadaljuj namestitev</string>
   <string name="install_control_cancel_install">"Ne namesti"</string>
+  <string name="install_control_cancel_vip_account_install">Izhod</string>
   <string name="install_control_continue_install">Vseeno namesti</string>
   <string name="install_control_lite_mode_explain_des">T aplikacija je iz neznanih virov in morda ne bo delovala v Lite načinu.</string>
   <string name="install_control_lite_mode_solution_des">"Lahko vseeno poskusite namestiti aplikacijo.
 Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="install_control_normal_mode_explain_des">"Ne morem namestiti aplikacije zaradi zakonskih omejitev"</string>
+  <string name="install_control_vip_account_install">Prijavi se v Beta</string>
   <string name="install_done">Aplikacija je nameščena</string>
   <string name="install_failed">Aplikacija ni bila nameščena</string>
   <string name="install_failed_blocked">Namestitev je blokirana.</string>
@@ -144,7 +155,12 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="install_finished_notification_summary">Tapnite da osvobodite prostor</string>
   <string name="install_finished_notification_title">%1$s je uspešno nameščena, lahko očistite %2$s prostora</string>
   <string name="install_from_appstore_hint">Priporočamo vam da namestite aplikacijo iz &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
-    <string name="installing">Nameščanje …</string>
+  <string name="install_vip_account_mode_explain_des">To je Beta verzija aplikacije. Pred namestitvijo se prijavite za Beta testiranje.</string>
+  <string name="install_vip_account_mode_solution_des">Prijavi se v Beta</string>
+    <string name="installing">Nameščanje…</string>
+  <string name="intercept_confirm_dialog_message">%1$s poskuša namestiti %2$s. Potrdite svojo identiteto za nadaljevanje.</string>
+  <string name="intercept_confirm_dialog_positive">Potrdi</string>
+  <string name="intercept_confirm_dialog_title">Pozor</string>
   <string name="intercept_install">Namesti</string>
   <string name="launch">Odpri</string>
   <string name="lift_ban">Dovoli</string>
@@ -327,6 +343,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
  "&lt;li&gt;Namestitveni paket izvira iz neznanega vira.&lt;/li&gt;</string>
   <string name="settings_warning_dialog_msg">"Vaš telefon je podvržen varnostnim tveganjem. Če izključite to storitev se od vas ne bo zahtevalo da namestite varne verzije aplikacije. Vseeno izključim? "</string>
   <string name="settings_warning_dialog_title">Pozor</string>
+  <string name="spannable_continue_text">Razumem tveganja. Vseeno namesti.</string>
   <string name="system_warning">Če zavrnete to dovoljenje osnovne storitve naprave morda ne bodo več delovale kot bi morale.</string>
   <string name="toast_network_eror">"Ne morem se povezati na omrežje"</string>
   <string name="trust_switch_dialog_msg">"Ne vprašaj me ko želi ta aplikacija dostopati do imenika, sporočil, gesel ali ostalih delov v sistemu."</string>

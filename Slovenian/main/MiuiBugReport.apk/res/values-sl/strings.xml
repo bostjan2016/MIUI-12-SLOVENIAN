@@ -192,7 +192,10 @@ Pošljite to kodo nadzorniku."</string>
     <string name="feedback_delete_images">Izbrišite slike</string>
     <string name="feedback_description">Opis</string>
     <string name="feedback_description_bugreport_hint">Včasih (…) se moj telefon čudno obnaša (…).</string>
-    <string name="feedback_description_hint">Opišite težavo na katero ste naleteli</string>
+    <string name="feedback_description_hint">Opišite težavo na katero ste naleteli.
+%1$d. V kateri aplikaciji ali na kateri strani ste našli problem?
+%2$d. Po katerih opravilih se je pojavil problem?
+%3$d. Dajte nam dodatne informacije ki nam lahko pomagajo da rešimo problem."</string>
     <string name="feedback_description_hint_suggestion">Povejte nam, kako si želite izboljšati MIUI.</string>
     <string name="feedback_description_label">Opis</string>
     <string name="feedback_description_suggest_hint">Želim da dodate novo funcijo () ker potrebujem ().</string>

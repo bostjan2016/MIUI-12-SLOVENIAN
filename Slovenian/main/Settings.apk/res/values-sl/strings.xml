@@ -354,6 +354,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="advanced_apps">Dodatne nastavitve</string>
     <string name="advanced_battery_graph_subtext">Ocena preostalega časa delovanja akumulatorja temelji na načinu uporabe naprave</string>
     <string name="advanced_battery_title">Poraba akumulatorja</string>
+  <string name="advanced_gesture">Prilagojene kretnje</string>
   <string name="advanced_screen_paper_mode_title">Način branja</string>
     <string name="advanced_section_header">Dodatno</string>
     <string name="advanced_security_title">Dodatno</string>
@@ -379,7 +380,8 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="ai_settings_long_click_title">Pritisnite in podržite</string>
   <string name="ai_settings_single_press_des">Pritisnite in držite tipko AI da se boste pogovorili z Googlovim pomočnikom, potem pa spustite da dobite odgovor.</string>
   <string name="airplane_mode">Način za letalo</string>
-    <string name="alarm_ringtone_title">Privzeti zvok alarma</string>
+  <string name="airplane_mode_summary">"Vklopite, da napravi prekinete povezavo z mobilnimi omrežji. Ko je ta funkcija vklopljena, ne boste mogli klicati, pošiljati ali prejemati besedilnih sporočil ali uporabljati mobilnih podatkov."</string>
+  <string name="alarm_ringtone_title">Privzeti zvok alarma</string>
   <string name="alarm_sound_dialog_title">Izberite zvok alarma</string>
   <string name="alarm_sound_title">Zvok alarma</string>
   <string name="alarm_stop">Izključi Tiho ko se alarm izključi</string>
@@ -1754,8 +1756,10 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="cellular_to_wlan_hint_toast">Omrežja-&gt;WiFi povezovanje je lahko zadeto</string>
   <string name="cellular_to_wlan_title">Omrežja-&gt;WiFi</string>
   <string name="change">Sprememba</string>
-  <string name="change_lock_screen_password_title">Zamenjaj geslo zakl. zaslona</string>
+  
+  <string name="change_lock_screen_password_title">Zamenjaj zakl. zaslona</string>
   <string name="change_password">Zamenjajte zakl. zaslona</string>
+  <string name="change_brightness">Nastavitev svetlosti</string>
   <string name="change_security_lock">Poskusite druge načine za odklepanje</string>
     <string name="change_storage">Sprememba shrambe</string>
     <string name="change_theme_reboot">Menjava teme zahteva ponovni zagon.</string>
@@ -2773,12 +2777,13 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="done">Končano</string>
   <string name="done_button">Končano</string>
   <string name="double_click_power_key">Dvoklik tipke Vklop</string>
+  <string name="double_click_volume_down_when_lock">Dvoklik Glasnost - ko je zaslon zaklenjen</string>
   <string name="double_knock">Dvojno tipkanje</string>
-    <string name="double_tap_power_for_camera_suggestion_title">Hitro odpiranje fotoaparata</string>
+    <string name="double_tap_power_for_camera_suggestion_title">Hitro odpri fotoaparat</string>
     <string name="double_tap_power_for_camera_summary">Če želite hitro odpreti fotoaparat, dvakrat pritisnite gumb za vklop. Deluje na vsakem zaslonu.</string>
-    <string name="double_tap_power_for_camera_title">Preklop na fotoaparat</string>
+    <string name="double_tap_power_for_camera_title">Odpri fotoaparat</string>
     <string name="double_twist_for_camera_mode_summary">Če želite v Google Fotoaparatu preklopiti na način za sebke in iz njega, napravo z odprto aplikacijo dvakrat zasukajte.</string>
-    <string name="double_twist_for_camera_mode_title">Obrat fotoaparata</string>
+  <string name="double_twist_for_camera_mode_title">Obrni kamero</string>
     <string name="double_twist_for_camera_suggestion_title">Hitrejši vklop načina za sebke</string>
   <string name="download_current_rom">Pridobite najnovejšo različico MIUI</string>
   <string name="downloading_description">Prenašanje…</string>
@@ -3243,6 +3248,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="find_my_device">Najdi napravo</string>
   <string name="find_my_device_disable">Izključeno</string>
   <string name="find_my_device_enable">Vključeno</string>
+  <string name="find_my_device_summary">To zahteva prijavo v Mi Račun</string>
   <string name="findlost_contact">Obnovi stike</string>
   <string name="findlost_contact_online">Obnovi stike iz Mi Clouda</string>
   <string name="fingerprint_add_max">Dodate lahko največ toliko prstnih odtisov: %d</string>
@@ -3506,6 +3512,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
     <string name="gentle_notifications_display_summary_shade_status_lock">Prikaz na poteznem zaslonu z obvestili, v vrstici stanja in na zaklenjenem zaslonu</string>
     <string name="gentle_notifications_education">Diskretna obvestila so vedno brez zvočnega opozarjanja in prikazana na poteznem zaslonu z obvestili</string>
     <string name="gentle_notifications_title">Diskretna obvestila</string>
+  <string name="gesture_function_dialog_message">%1$s se uporablja za \"%2$s\". Zamenjam z \"%3$s\"?</string>
   <string name="gesture_c">Vzorec C</string>
   <string name="gesture_double_twist_sensor_name"/>
   <string name="gesture_double_twist_sensor_vendor"/>
@@ -3523,6 +3530,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
     <string name="gesture_prevent_ringing_title">Sočasni pritisk gumbov za vklop in povečanje glasnosti</string>
     <string name="gesture_setting_off">Izklopljeno</string>
     <string name="gesture_setting_on">Vklopljeno</string>
+  <string name="gesture_settings_title">Bližnjice kretenj</string>
   <string name="gesture_w">Vzorec W</string>
   <string name="gesture_wakeup_summary">Dvakrat tapni za izklop zaslona če je uporabljena privzeta ali klasična tema</string>
   <string name="gesture_wakeup_title">Dvakrat tapnite za bujenje ali izklop zaslona</string>
@@ -3886,9 +3894,10 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
     <string name="keep_screen_on">Brez izklopa zaslona</string>
     <string name="keep_screen_on_summary">Med polnjenjem se zaslon ne bo nikoli izklopil</string>
   <string name="kernel_version">Različica jedra</string>
-  <string name="key_combination_power_back">Tipka Power + Nazaj</string>
-  <string name="key_combination_power_home">Tipka Power + Domov</string>
-  <string name="key_combination_power_menu">Tipka Power + Meni</string>
+  <string name="key_combination_power_back">Tipka vklop + Nazaj</string>
+  <string name="key_combination_power_home">Tipka vklop + Domov</string>
+  <string name="key_combination_power_menu">Tipka vklop + Meni</string>
+  <string name="key_combination_power_volume_down">Glasnost - in vklop</string>
   <string name="key_fsg_dialog_message">"Uporabi gibe na celem zaslonu za navigacijo. Lastnosti povezane z tipkami zdaj niso na voljo. Zamenjam na tipke?"</string>
   <string name="key_fsg_dialog_negative">Prekliči</string>
   <string name="key_fsg_dialog_positive">Zamenjaj</string>
@@ -4496,6 +4505,7 @@ kot PIN za Prvi prostor"</string>
   <string name="long_press_menu_key_when_lock">Dolg pritisk tipke Meni na zakl. zaslonu</string>
   <string name="long_press_power_key">Dolg pritisk tipke Power</string>
   <string name="long_press_power_key_half_of_second">Pritisnite in držite tipko vklopa 0,5 sekunde da boste vključili Google pomočnika</string>
+  <string name="long_press_power_key_half_second">Pritisnite in držite tipko vklopa 0,5 sekunde</string>
   <string name="long_press_power_key_tips">&lt;Data&gt;Dolg pritisk tipke vklop &amp;lt;font color=#999999&amp;gt;hitreje in bolj praktično&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="long_press_volume_down">Dolgo pritisnite na zmanjševanje glasnosti</string>
     <string name="lost_internet_access_cancel">Ostani v omrežju WiFi</string>
@@ -7587,6 +7597,7 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
     <string name="sim_call_back_title">Povratni klic s privzete kartice SIM</string>
   <string name="sim_calls_always_use">Vedno uporabi to možnost za klice</string>
   <string name="sim_calls_ask_first_prefs_title">Vedno vprašaj</string>
+  <string name="sim_card_lock">Status SIM kartice</string>
   <string name="sim_card_number_title">SIM %1$d</string>
   <string name="sim_card_select_title">Izberite kartico SIM</string>
     <string name="sim_cards_changed_message">Kartice SIM so spremenjene</string>
@@ -7736,6 +7747,9 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
     <string name="smart_battery_manager_title">Prilagodljivo varčevanje z energijo akumulatorja</string>
     <string name="smart_battery_summary">Omejite porabljanje energije akumulatorja za aplikacije, ki jih ne uporabljate pogosto</string>
     <string name="smart_battery_title">Prilagodljivo varčevanje z energijo akumulatorja</string>
+  <string name="smart_home_title">Smart Home</string>
+  <string name="smart_home_value_none">Nič</string>
+  <string name="smart_home_value_unknown">Neznano</string>
   <string name="smart_notifications_title">Prilagodljiva obvestila</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Smart Cover način</string>
   <string name="smartcover_sensitive_summary">Samodejno zaklenite/odklenite telefon s smart cover-jem</string>
