@@ -27,6 +27,11 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deljenje z: %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
+  <string name="action_for_continue_timer">Nadaljuj</string>
+  <string name="action_for_pause_timer">Premor</string>
+  <string name="action_for_restart">Ponovi</string>
+  <string name="action_for_snooze">Odloži</string>
+  <string name="action_for_stop">Ustavi</string>
   <string name="add_alarm">Dodaj alarm</string>
   <string name="add_clock">Dodaj uro</string>
   <string name="add_common_timer">Dodaj kronometer</string>

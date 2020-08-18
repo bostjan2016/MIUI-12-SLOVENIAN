@@ -1524,4 +1524,8 @@
         <item>Svetle barve</item>
         <item>Črno in belo</item>
     </string-array>
+	<string-array name="screen_reader_mode_input_type_selector_titles">
+        <item>Dotik</item>
+        <item>Dvojni tap</item>
+    </string-array>
 </resources>

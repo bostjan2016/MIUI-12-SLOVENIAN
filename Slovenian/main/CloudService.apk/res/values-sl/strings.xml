@@ -229,8 +229,10 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="last_sync_time_just_now">Prav zdaj</string>
   <string name="last_sync_time_yesterday">Včeraj</string>
   <string name="license_host_unreachable">"Povezave ni mogoče vzpostaviti. Da boste lahko videli podatke pojdite na %s."</string>
-  <string name="loading">Nalagam…</string>
-  <string name="loading_hint">Nalagam</string>
+  <string name="loading">Samo trenutek…</string>
+  <string name="low_battery_locate_summary">Samodejno prijavi podatke o lokaciji ko je baterija slaba</string>
+  <string name="low_battery_locate_title">Prijavi lokacijo ko je baterija slaba</string>
+  <string name="loading_hint">Samo trenutek</string>
   <string name="master_alert_notif_content">"Redno delajte varnostne kopije da ne izgubite ničesar važnega"</string>
   <string name="master_alert_notif_dspt_add">Za sinhr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinhronizirano</string>
@@ -628,6 +630,9 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="picker_list_empty">Tu ni stikov</string>
   <string name="picker_search_empty">"Ne najdem stikov"</string>
   <string name="picker_search_hint">Išči</string>
+  <string name="power_off_locate_summary">"Podatke o lokaciji prijavite z dolgim pritiskom tipke Vklop.
+Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</string>
+  <string name="power_off_locate_title">Prijavi lokacijo pred izklopom</string>
   <string name="pre_privacy_policy">Pravila o zasebnosti</string>
   <string name="pre_user_agreement">Pogoji uporabe</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Sinhroniziraj slike stikov samo takrat ko je vzpostavljena WiFi povezava"</string>
@@ -663,8 +668,6 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="search_finddevice_pref_key_words">najdinapravo, najdi napravo</string>
   <string name="search_finddevice_pref_path">Mi Račun/Mi Cloud/Najdi napravo</string>
   <string name="search_menu_title">Išči</string>
-  <string name="send_last_location_summary">Sinhronizirajte podatke o lokaciji ko se naprava izklapja</string>
-  <string name="send_last_location_title">Lociraj pred izklopom</string>
   <string name="secret_photo">Skrite fotografije</string>
   <string name="setting">Nastavitve</string>
   <string name="settings_backup_title">Nastavitve var. kopije sistema</string>

@@ -139,7 +139,9 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
   <string name="notification_rc_desc">Najboljši TV pomočnik za prenos vaših videov, fotografij in aplikacij v XiaoMi Box (ali TV) za vaš mobilni telefon, poskusite zdaj!</string>
   <string name="notification_rc_title">XiaoMi TV pomočnik</string>
   <string name="notification_show_more">Poglejte dodatne storitve</string>
+  <string name="not_set">Ni nastavljeno</string>
   <string name="open_game_accelerate">Vključi Game Turbo</string>
+  <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="privacy_agree">Strinjam se</string>
   <string name="privacy_detail">&lt;Data&gt;Ta aplikacija se mora povezati s spletom in zbrati potrebne osebne podatke, da lahko normalno deluje. Če želite v celoti razumeti svoje pravice kot uporabnika in načine uporabe vaših podatkov, preberite in se strinjate z &amp;lt;a href=%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="privacy_detail_extra">&lt;Data&gt;Nekatere storitve ponuja ponudnik storitev HappyCast. Pred uporabo te storitve preberite in se strinjajte z &amp;lt;a href=%1$s&amp;gt;HappyCast Pravila o zasebnosti&amp;lt;/a&amp;gt; in &amp;lt;a href=%2$s&amp;gt;HappyCast Pogoji uporabe&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>

@@ -4961,8 +4961,9 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="mqs_privacy_automatically_upload">Samodejno preberi</string>
   <string name="mqs_privacy_dialog_cancel">Prekliči</string>
   <string name="mqs_privacy_dialog_confirm">Preberi</string>
-  <string name="mqs_privacy_dialog_content">Preberem zapise za rešitev problema? Lahko vsebujejo vaše osebne podatke, vključno informacije o vaši lokaciji.</string>
-  <string name="mqs_privacy_dialog_title">Prišlo je do napake</string>
+  <string name="mqs_privacy_dialog_content">Zdi se, da je vaša naprava v zadnjem času naletela na napake. Lahko nam pošljete dnevnike, da nam pomagajo najti in rešiti to težavo. Zapisi lahko vsebujejo vaše osebne podatke, vključno s podatki o vaši lokaciji. 
+  Pošljem zdaj?</string>
+  <string name="mqs_privacy_dialog_title">Pošiljanje zapisnika</string>
     <string name="mr_button_content_description">Gumb za predvajanje</string>
     <string name="mr_cast_button_connected">Gumb za predvajanje. Povezava je vzpostavljena.</string>
     <string name="mr_cast_button_connecting">Gumb za predvajanje. Vzpostavljanje povezave.</string>
@@ -6905,6 +6906,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_projection_sample_title">Predstavitev</string>
   <string name="screen_projection_title">Predvajaj</string>
     <string name="screen_reader_category_title">Bralniki zaslona</string>
+  <string name="screen_reader_mode_input_type_summary">Izberite kretnjo za aktiviranje vnosa besedila ko je TalkBack vključen</string>
+  <string name="screen_reader_mode_input_type_title">Vnos besedila</string>
   <string name="screen_recorder">Posnetek zaslona</string>
   <string name="screen_resolution_confirm">Ponovno zaženi</string>
   <string name="screen_resolution_dialog_title">Spremeni resolucijo</string>

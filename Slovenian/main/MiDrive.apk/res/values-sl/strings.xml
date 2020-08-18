@@ -265,7 +265,11 @@ Pošljite to kodo nadzorniku."</string>
   <string name="just_now">Ravno zdaj</string>
   <string name="kilobyteShort">KB</string>
   <string name="license_host_unreachable">"Vaša naprava ni povezana z oblačnimi storitvami. Če si želite ogledati ta element, obiščite %s v kateri koli povezani napravi."</string>
-  <string name="load_err">"Ne morem prenesti"</string>
+  <string name="load_label_up_no_data">Nič več za prikaz</string>
+  <string name="load_label_up_none">Nič več za prikaz</string>
+  <string name="load_label_up_refresh">Nalaganje stvari…</string>
+  <string name="load_label_up_refresh_fail">"Ne morem naložiti stvari"</string>
+  <string name="load_err">"Ne morem naložiti"</string>
   <string name="load_metered_network_dialog_cancel">Prekliči</string>
   <string name="load_metered_network_dialog_desc">"Vaša naprava ni povezana z omrežjem WiFi. Naložim s pomočjo mob. podatkov?"</string>
   <string name="load_metered_network_dialog_ok">Naloži</string>
@@ -489,6 +493,10 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="pre_user_agreement">Pogoji uporabe</string>
   <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
+  <string name="refresh_label_pull_to_refresh">Povleci dol za osvežitev</string>
+  <string name="refresh_label_refreshed">Uspešno osveženo</string>
+  <string name="refresh_label_refreshing">Osveževanje…</string>
+  <string name="refresh_label_release_to_refresh">Spusti za osvežitev</string>
   <string name="psw_hint">Geslo</string>
   <string name="psw_sign_in">Prijavite se z geslom</string>
   <string name="quota_info">Mi Drive: %1$s na voljo, %2$s skupno</string>
