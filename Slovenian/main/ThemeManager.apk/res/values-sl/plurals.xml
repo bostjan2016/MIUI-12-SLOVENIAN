@@ -28,6 +28,38 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
+     </plurals>
+	 <plurals name="anonymous_resource_count_aod">
+        <item quantity="other">%1$d AOD tem</item>
+        <item quantity="one">%1$d AOD tema</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="other">%1$d fontov</item>
+        <item quantity="one">%1$d font</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="other">%1$d ikon</item>
+        <item quantity="one">%1$d ikona</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="other">%1$d tem</item>
+        <item quantity="one">%1$d tema</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_title">
+        <item quantity="other">Dodaj %1$d stvari</item>
+        <item quantity="one">Dodaj %1$d stvar</item>
+    </plurals>
+    <plurals name="anonymous_resource_link_success_message">
+        <item quantity="other">Dodano %1$d stvari na vaš račun. Poglejte dodane stvari v naročilih.</item>
+        <item quantity="one">Dodana %1$d stvar na vaš račun. Poglejte dodane stvari v naročilih.</item>
+    </plurals>
+    <plurals name="anonymous_resource_login_message">
+        <item quantity="other">"Lahko prenesete samo %1$d brezplačnih stvari če niste prijavljeni (ozadja in melodije zvonjenja so izključene). Prijavite se za prenos stvari brez omejitev."</item>
+        <item quantity="one">"Lahko prenesete samo %1$d brezplačno stvar če niste prijavljeni (ozadja in melodije zvonjenja so izključene). Prijavite se za prenos stvari brez omejitev."</item>
+    </plurals>
+    <plurals name="anonymous_resource_view">
+        <item quantity="other">"%1$d stvari ni dodano na vaš račun"</item>
+        <item quantity="one">"%1$d stvar ni dodana na vaš račun"</item>
     </plurals>
      <plurals name="aod_batch_has_update_text">
         <item quantity="other">Na voljo je posodobitev za za %1$d tem</item>
@@ -97,7 +129,7 @@
         <item quantity="one">%1$s tema</item>
     </plurals>
     <plurals name="theme_update_local_resource_notifaction">
-        <item quantity="other">Posodobitev na voljo za tem: %1$d</item>
+        <item quantity="other">Posodobitev na voljo za %1$d tem</item>
         <item quantity="one">Posodobitev na voljo za %1$d temo</item>
     </plurals>
 	<plurals name="resource_download_notification_title_many">

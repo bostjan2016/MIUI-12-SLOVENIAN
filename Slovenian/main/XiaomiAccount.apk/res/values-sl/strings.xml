@@ -97,7 +97,7 @@
   <string name="activate_email_notice">Aktivirajte vaš uporabniški račun v roku 24 ur</string>
   <string name="activity_not_found_notice">"Ne morem najti aplikacije"</string>
   <string name="add_account">Dodaj račun</string>
-  <string name="agreement_and_privacy">Pogoji uporabe in Pravila o zasebnosti</string>
+  <string name="agreement_and_privacy">Pogoji in Pravila</string>
   <string name="alert_title_remove_account">Odstranim račun?</string>
   <string name="app_name">Mi račun</string>
   <string name="auth_fail_warning">Račun za prijavo je potekel, poskusite kasneje</string>
@@ -269,6 +269,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="health_state_not_activated">Ni aktivirano</string>
   <string name="health_state_not_installed">Ni nameščeno</string>
   <string name="health_state_not_support">Ni podprto v tej verziji</string>
+  <string name="help_center">Pomoč</string>
   <string name="i_agree">V redu</string>
   <string name="i_agree_continue">Nadaljuj</string>
   <string name="identity">Identifikacija</string>
@@ -373,7 +374,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_click_email_to_valid">"
 
   Da aktivirate svoj račun sledite povezavi v sporočilu
-   ki ste ga prejeli v vaš poštni predal
+ki ste ga prejeli v vaš poštni predal
   ."</string>
   <string name="passport_completed">Zaključeno</string>
   <string name="passport_confirm">V redu</string>

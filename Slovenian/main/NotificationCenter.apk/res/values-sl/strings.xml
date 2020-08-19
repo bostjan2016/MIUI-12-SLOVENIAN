@@ -77,15 +77,12 @@
   <string name="lock_screen_tip_toast">Dovolite obvestila zakl. zaslona v \"Format\"</string>
   <string name="lockscreen_notifications">Obvestila zakl. zaslona</string>
   <string name="lockscreen_notifications_short">Zakl. zaslon</string>
-  <string name="menu_setting_recommend_to_minus">Pokaži manj obvestil</string>
-  <string name="menu_setting_recommend_to_normal">"Ne zmanjšuj obvestil"</string>
+  <string name="menu_setting_aggregatation_feedback">Opcije združevanja</string>
+  <string name="menu_setting_feedback_donot_classify">"Ne združuj"</string>
+  <string name="menu_setting_more_settings">Več možnosti</string>
   <string name="menu_setting_show_in_home">"Ne združuj"</string>
-  <string name="menu_setting_tip_recommend_minus">"Videli boste manj obvestil od %s"</string>
-  <string name="menu_setting_tip_recommend_normal">"Obvestila od %s ne bodo zmanjšana"</string>
   <string name="menu_setting_tip_show_in_home">"Obvestila od %s ne bodo združena"</string>
   <string name="menu_setting_tip_unfold">Vsa obvestila iz te aplikacije bodo važna</string>
-  <string name="menu_setting_toast_recommend_minus">"Videli boste manj obvestil od %s"</string>
-  <string name="menu_setting_toast_recommend_normal">"Obvestila od %s ne bodo zmanjšana"</string>
   <string name="menu_setting_toast_show_in_home">"Obvestila od %s ne bodo združena"</string>
   <string name="menu_setting_unfold">Važno</string>
   <string name="midnight">Polnoč</string>
@@ -177,6 +174,7 @@
   <string name="mtrl_picker_toggle_to_day_selection">Tapnite za prehod na izbiro dni</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Prestavite na način vnosa teksta</string>
   <string name="mtrl_picker_toggle_to_year_selection">Tapnite za prehod na izbiro let</string>
+  <string name="mune_setting_prefix_category">"Združi z "</string>
   <string name="night">PM</string>
   <string name="noon">PM</string>
   <string name="not_sent_recently">Nedavno</string>
@@ -192,8 +190,6 @@
   <string name="notification_fold_summary">Vsa nevažna obvestila se bodo pojavila v zasebni mapi</string>
   <string name="notification_fold_title">Mapa obvestil</string>
   <string name="notification_manager">Obvestila aplikacij</string>
-  <string name="notification_setting_menu_feedback_text">"To obvestilo ne bi smelo biti tu?
-Prijavite ta problem &gt;"</string>
   <string name="notification_style_android">Android</string>
   <string name="notification_style_miui">MIUI</string>
   <string name="off">Izključi</string>
@@ -204,6 +200,7 @@ Prijavite ta problem &gt;"</string>
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>
   <string name="search_menu_title">Išči</string>
+  <string name="setting_menu_success">Uspešno nastavljeno</string>
   <string name="settings_guide_title">Potrebujete druge nastavitve??</string>
   <string name="show_badge_notifications">Značke obvestil</string>
   <string name="show_badge_notifications_short">Značke</string>
@@ -227,8 +224,7 @@ Prijavite ta problem &gt;"</string>
   <string name="time_picker_dialog_title">Nastavi čas</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
-  <string name="tip_feedback_success">Uspešno poslano</string>
-  <string name="tip_select_category">Izberite kategorijo obvestil</string>
+  <string name="tip_feedback_thanks">Hvala za povratne informacije!</string>
   <string name="today">Danes</string>
   <string name="tomorrow">Jutri</string>
   <string name="tuesday">Torek</string>
