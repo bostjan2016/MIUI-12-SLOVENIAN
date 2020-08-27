@@ -32,4 +32,8 @@
         <item quantity="other">Interval: %d sekund</item>
         <item quantity="one">Interval: %d sekunda</item>
      </plurals>
+	<plurals name="accessibility_vv_duartion">
+        <item quantity="other">Trajanje: %d sekund</item>
+        <item quantity="one">Trajanje: %d sekunda</item>
+    </plurals>
 </resources>

@@ -205,6 +205,9 @@
   <string name="sys_title_gamebooster_unit_gb">G</string>
   <string name="sys_title_gamebooster_unit_mb">M</string>
   <string name="title_share_link">Delite povezavo</string>
+  <string name="tool_box_active_loading">Samo trenutek…</string>
+  <string name="tool_box_active_no_networ">"Ne morem se povezati na omrežje"</string>
+  <string name="tool_box_active_reload">Osveži</string>
   <string name="top_game">Najboljše igre</string>
   <string name="top_load_fail_detail">Ne morem prenesti, poskusite ponovno</string>
   <string name="top_no_network_detial">Ne morem prenesti, poskusite ponovno</string>

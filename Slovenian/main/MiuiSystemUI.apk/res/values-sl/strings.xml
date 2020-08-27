@@ -1937,6 +1937,8 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="show_silently">Pokaži obvestila brez zvoka</string>
     <string name="show_touches">Prikaz dotikov</string>
     <string name="show_touches_summary">Prikaz vizualnih povratnih informacij za dotike</string>
+  <string name="sim_state_locked_dialog_title">Neveljavna SIM kartica</string>
+  <string name="sim_state_locked_puk_dialog_message">"Napačno kodo PUK ste vnesli vsaj 10-krat. Vaša kartica SIM trenutno ni veljavna. Zamenjajte to kartico SIM z drugo."</string>
     <string name="simulate_color_space">Simul. barvnega prostora</string>
   <string name="slice_permission_allow">Dovoli</string>
   <string name="slice_permission_checkbox">Dovoli aplikaciji %1$s da prikazuje izsečke iz katerekoli aplikacije</string>

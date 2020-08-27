@@ -118,6 +118,8 @@
   <string name="input_method_clipboard_clear_all_phrase_title">Čiščenje odložišča</string>
   <string name="input_method_clipboard_copy_success">Uspešno kopirano</string>
   <string name="input_method_clipboard_delete_success">Uspešno izbrisano</string>
+  <string name="input_method_clipboard_move_cursor_guide1">Pritisnite in držite modro področje za premikanje kurzorja ~</string>
+  <string name="input_method_clipboard_move_cursor_guide2">Premikajte prst vodoravno ~</string>
   <string name="input_method_clipboard_participle">Odvojene besede</string>
   <string name="input_method_clipboard_settings_button">Nastavitve</string>
   <string name="input_method_clipboard_tips">Kopirane stvari bodo izbrisane iz odložišča po 48 urah</string>
