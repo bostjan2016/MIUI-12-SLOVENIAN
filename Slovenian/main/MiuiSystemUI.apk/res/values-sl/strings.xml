@@ -792,7 +792,10 @@ hitrost vzorčenja"</string>
   <string name="face_unlock_offset_top">Dvignite malo telefon</string>
   <string name="face_unlock_open_eye">Malo bolj odprite oči</string>
   <string name="face_unlock_passwork">Uporabi geslo</string>
-  <string name="face_unlock_passwork_and_fingerprint">Uporabi geslo ali prepoznavanje obraza</string>
+  <string name="face_unlock_passwork_and_fingerprint">Uporabi geslo ali prstni odtis</string>
+  <string name="face_unlock_passwork_and_fingerprint_v11">Vnesite geslo ali odklenite s prstnim odtisom</string>
+  <string name="face_unlock_pattern_and_fingerprint_v11">Narišite vzorec ali odklenite s prstnim odtisom</string>
+  <string name="face_unlock_pin_and_fingerprint_v11">Vnesite PIN ali odklenite s prstnim odtisom</string>
   <string name="face_unlock_quality">"Ne morem jasno videti vašega obraza"</string>
   <string name="face_unlock_reenter_content">Algoritem odklepa z obrazom je posodobljen. Tapnite za ponovno snemanje obraza.</string>
   <string name="face_unlock_reenter_title">Posnemite vaš obraz ponovno.</string>
@@ -961,8 +964,11 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Morate iti v Prvi prostor po ponovnem zagonu</string>
   <string name="input_password_handle_sdcard_fs">"Ne morem iti v Drugi prostor iz zakl. zaslona. Vstopi iz Prvega prostora."</string>
   <string name="input_password_hint_text">Vnesite geslo</string>
-  <string name="input_pattern_hint_text">Narišite vzorec za odklep</string>
+  <string name="input_password_hint_text_v11">Vnesite geslo</string>
+  <string name="input_pattern_hint_text">Narišite svoj vzorec za odklep</string>
+  <string name="input_pattern_hint_text_v11">Narišite vzorec</string>
   <string name="input_pin_code">Vnesite PIN</string>
+  <string name="input_pin_hint_text_v11">Vnesite PIN</string>
   <string name="input_puk_code">Vnesite PUK</string>
     <string name="install_other_apps">Nameščanje neznanih aplikacij</string>
     <string name="installer_cd_button_title">Namesti program Android – Prenos datotek za Mac</string>
@@ -1241,11 +1247,6 @@ dd.MM."</string>
   <string name="lockscreen_access_pattern_start">Vzorec začet</string>
   <string name="lockscreen_carrier_default">Ni storitve</string>
   <string name="lockscreen_charging_msg">Polnjenje</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Napačno ste poskusili odkleniti telefon %1$d krat. Po še %2$d neuspelih poskusih bo telefon povrnjen na tovarniške nastavitve.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Napačno ste vnesli geslo %1$d krat. Po še %2$d neuspelih poskusih se boste morali prijaviti v vaš Mi Račun za odklep telefona.
-	
-Poskusite ponovno čez %3$d sek."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Napačno ste poskusili odkleniti telefon %d krat. Telefon bo povrnjen na tovarniške nastavitve.</string>
     <string name="lockscreen_none">Ni izbrana</string>
     <string name="lockscreen_shortcut_left">Leva bližnjica</string>
     <string name="lockscreen_shortcut_right">Desna bližnjica</string>
@@ -1938,7 +1939,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="show_touches">Prikaz dotikov</string>
     <string name="show_touches_summary">Prikaz vizualnih povratnih informacij za dotike</string>
   <string name="sim_state_locked_dialog_title">Neveljavna SIM kartica</string>
-  <string name="sim_state_locked_puk_dialog_message">"Napačno kodo PUK ste vnesli vsaj 10-krat. Vaša kartica SIM trenutno ni veljavna. Zamenjajte to kartico SIM z drugo."</string>
+  <string name="sim_state_locked_puk_dialog_message">"Napačno kodo PUK ste vnesli vsaj %d krat. Vaša kartica SIM ni več ni veljavna. Zamenjajte to kartico SIM z drugo."</string>
     <string name="simulate_color_space">Simul. barvnega prostora</string>
   <string name="slice_permission_allow">Dovoli</string>
   <string name="slice_permission_checkbox">Dovoli aplikaciji %1$s da prikazuje izsečke iz katerekoli aplikacije</string>

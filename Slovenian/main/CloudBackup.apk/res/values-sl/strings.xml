@@ -11,6 +11,10 @@
   <string name="back_up_task_in_process">Izdelava v teku…</string>
   <string name="back_up_task_unfinished">"Ne morem napraviti var. kopijo"</string>
   <string name="backing_up_to_micloud">Varnostno kopiram…</string>
+  <string name="backup_action_buy_cloud_space">Nabavite več prostora za shranjevanje</string>
+  <string name="backup_action_check_network">Preverite omrežne nastavitve</string>
+  <string name="backup_action_clean_disk_space">Osvobodite prostor</string>
+  <string name="backup_action_retry_now">Poskusi ponovno</string>
   <string name="backup_fail">"Ne morem izdelati var. kopije"</string>
   <string name="backup_fail_wifi_needed">"Za izdelavo var. kopije je potreben WiFi."</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Ni dovolj prostora za shranjevanje v Mi Cloudu. Nadgradite svoj plan ali osvobodite prostor za shranjevanje.</string>
@@ -18,12 +22,22 @@
   <string name="backup_failed_reason_network_error">Omrežna napaka. Počakajte minuto ali dve in poskusite znova.</string>
   <string name="backup_finished_notification_content">Shranjene so aplikacije zač.zaslona, sistemske nastavitve itd.</string>
   <string name="backup_now">Napravi var. kopijo zdaj</string>
+  <string name="backup_remind_buy_cloud_space">Nadgradite svoj plan za cloud shrambo</string>
+  <string name="backup_remind_clean_disk_space">Osvobodite prostor za shranjevanje</string>
+  <string name="backup_remind_cloud_space_cost">Velikost var. kopije: %s</string>
   <string name="backup_size">Velikost: %s</string>
   <string name="backup_stopped_msg">Trenutna var. kopija bo presnela prejšnjo. Kliknite za prikaz.</string>
   <string name="backup_stopped_title">Cloud var. kopija je pavzirana</string>
   <string name="backup_success">Varnostna kopija uspešno napravljena</string>
   <string name="backup_successfully">Var. kopija uspešno napravljena</string>
   <string name="backup_to_cloud">Var. kopija aplikacij</string>
+  <string name="backup_warning_reason_cloud_space_not_enough">"Ne morem napraviti var. kopije"</string>
+  <string name="backup_warning_reason_disk_space_not_enough">"Ni dovolj prostora.
+morem napraviti var. kopije"</string>
+  <string name="backup_warning_reason_network_error">"Napaka omrežja.
+morem napraviti var. kopije"</string>
+  <string name="backup_warning_reason_no_server_response">"Povezava je prekinjena.
+Poskusite ponovno"</string>
   <string name="btn_back">Nazaj</string>
   <string name="btn_continue">Nadaljuj</string>
   <string name="btn_restore_abort">Prekliči</string>

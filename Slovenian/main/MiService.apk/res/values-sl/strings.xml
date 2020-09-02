@@ -137,6 +137,7 @@
     <string name="miui_main_next_page">Naprej</string>
     <string name="miui_main_pre_page">Nazaj</string>
     <string name="miui_main_shortcut_label_submit_feedback">Pošljite povratne informacije</string>
+  <string name="miui_main_update_back_to_home">Priprava zač. zaslona…</string>
     <string name="miui_main_update_continue">Naprej</string>
     <string name="miui_main_update_learn_more">Več o tem</string>
     <string name="miui_main_update_start">Posodobi</string>

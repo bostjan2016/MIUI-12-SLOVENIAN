@@ -4806,6 +4806,7 @@ Nadaljujte k dodatnim nastavitvam."</string>
   <string name="miui_lab_install_drive_mode_title">Namesti način dela za avtomobil</string>
   <string name="miui_lab_settings">MIUI laboratorij</string>
   <string name="miui_lab_slogan">Naučite se. Raziščite. Odkrijte.</string>
+  <string name="miui_master_clear_prompt_battery_low">"Ko je baterija manj kot %1$s ni mogoče ponastaviti na tovarniške nastavitve. Pred nadaljevanjem napolnite napravo."</string>
   <string name="miui_lab_super_resolution_desc">Napravi slike ostrejše</string>
   <string name="miui_lab_super_resolution_title">Super ločljivost</string>
     <string name="miui_master_clear_summary">Briše vse podatke na telefonu</string>

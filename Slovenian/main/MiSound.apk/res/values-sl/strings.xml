@@ -193,6 +193,8 @@
   <string name="personal_sound">Predvajaj lastni zvok</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="retry_test">Začni znova</string>
+  <string name="ringtone_output_device_summary">Omogočite zvok za dohodne klice in obvestila, ko je priključena dodatna oprema (žične slušalke ali naprave Bluetooth)</string>
+  <string name="ringtone_output_device_title">Omogoči zvok zvočnika</string>
   <string name="save_and_apply">Shrani in uporabi</string>
   <string name="search_menu_title">Išči</string>
   <string name="second_note">Nadenite slušalke.</string>

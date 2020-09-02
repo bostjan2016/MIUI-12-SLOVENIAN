@@ -96,8 +96,16 @@
   <string name="gamebooster_network_dialog_title">"Nekatere storitve niso na voljo"</string>
   <string name="gamebox_no_network_btn">Ponovno naloži</string>
   <string name="gb_alipays_can_not_complete">"Ne morem izvršiti plačila. Najprej namesti za nadaljevanje."</string>
+  <string name="gb_dialog_game_speed_close">Izklop načina Light speed…</string>
+  <string name="gb_dialog_game_speed_exist">V načinu Light speed lahko uporabljate samo eno igro. Zamenjam \"%s\" zdaj?</string>
+  <string name="gb_game_control">GPU nastavitve</string>
+  <string name="gb_game_settings">Dodatne nastavitve</string>
+  <string name="gb_game_speed_closed">Light speed način je izključen</string>
+  <string name="gb_game_speed_closed_fail">"Ne morem izključiti Light speed način"</string>
+  <string name="gb_game_speed_open">Light speed način je vključen</string>
+  <string name="gb_game_speed_open_fail">"Ne morem vključiti Light speed način"</string>
   <string name="gb_weixinpay_can_not_complete">"Ne morem izvršiti plačila. Najprej namesti za nadaljevanje."</string>
-  <string name="gdpr_msg">&lt;Data&gt;"S ciljem uporabe osnovnih storitev aplikacije varnost se morate strinjati da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke, vključno podatke o načinih uporabe zaščitnih storitev zaštite (npr. Statistiko porabe mobilnih podatkov, informacije o zlonamernih programih) kot tudi osnovne informacije o vaši napravi) in ostale vrste podatkov navedenih v &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="gdpr_msg">"S ciljem uporabe osnovnih storitev aplikacije varnost se morate strinjati da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke, vključno podatke o načinih uporabe zaščitnih storitev zaštite (npr. Statistiko porabe mobilnih podatkov, informacije o zlonamernih programih) kot tudi osnovne informacije o vaši napravi) in ostale vrste podatkov navedenih v &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;."</string>
   <string name="get_sys_info">Pridobivanje informacij…</string>
   <string name="gs_anto_clean_memory_whitelist">Izjeme</string>
   <string name="gs_app_back_self_start">Varčevanje baterije</string>

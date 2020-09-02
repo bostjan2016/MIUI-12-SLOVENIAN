@@ -422,7 +422,7 @@ ki ste ga prejeli v vaš poštni predal
   <string name="passport_extra_gdpr_license">Z izdelavo Mi Računa se strinjate da bo Xiaomi uporabljal vaše osebne podatke. Preberite naša Pravila o zasebnosti da vidite kako obdelujemo in uporabljamo osebne podatke.</string>
   <string name="passport_failed_to_send_activate_email">Ne morem poslati aktivacijski e-mail</string>
   <string name="passport_find_password_on_web_msg">Obišči account.mi.com za ponastavitev gesla.</string>
-  <string name="passport_first_login_prompt">Mi Račun bo samodejno napravjen ko se prvič prijavite.</string>
+  <string name="passport_first_login_prompt">Mi Račun bo samodejno napravljen ko boste prvič uporabili tel. številko.</string>
   <string name="passport_forget_password">Pozabljeno geslo</string>
   <string name="passport_forget_password_no_underline">Pozabljeno geslo</string>
   <string name="passport_get_back_pwd">Pridobi geslo računa</string>

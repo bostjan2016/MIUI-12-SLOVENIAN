@@ -156,6 +156,8 @@
   <string name="auto_add_app_shortcut">Dodaj nove aplikacije na zač. zaslon</string>
   <string name="auto_delete_category_dialog_content">Trenutne aplikacije bodo odstranjene iz te kategorije, kategorija pa bo izbrisana. Izbrišem kategorijo?</string>
   <string name="auto_delete_category_dialog_title">Brisanje kategorije</string>
+  <string name="auto_disable_screenbuttons_summary">Dvakrat tapnite katero koli navigacijsko tipko, da jih znova omogočite</string>
+  <string name="auto_disable_screenbuttons_title">Samodejno onemogoči navigacijske tipke</string>
   <string name="back">Nazaj</string>
   <string name="backup_fail">Ne norem napraviti var. kopijo zaganjalnika.</string>
   <string name="bad_wallpaper_source_prompt">"Ozadja ni bilo možno naložiti"</string>
@@ -334,6 +336,7 @@
   <string name="invalid_contact_shortcut">Napačen stik</string>
   <string name="is_setting_wallpaper_message">Nastavljam sliko za ozadje…</string>
   <string name="is_system_wallpaper_message">"Ne morem izbrisati sistemskih ozadij"</string>
+  <string name="key_shortcut_settings_title">Bližnjice tipk tipki</string>
   <string name="launcher_global_search_mode_title">Globalno iskanje</string>
   <string name="launcher_global_search_provider_title">Globalna usluga iskanja</string>
   <string name="launcher_auto_fill_empty_title">Samod. izpolni prazna mesta</string>

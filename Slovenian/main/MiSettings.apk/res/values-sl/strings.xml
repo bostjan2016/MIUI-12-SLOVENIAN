@@ -290,6 +290,7 @@
   <string name="usage_device_limit_app_prolong_time2">Dodaj 40 minut</string>
   <string name="usage_device_limit_app_prolong_time3">Dodaj 60 minut</string>
   <string name="usage_device_limit_app_prolong_time4">"Danes ne omejuj"</string>
+  <string name="usage_device_limit_app_prolong_time5">Dodaj čas enkrat</string>
   <string name="usage_device_limit_notifation_summary_start">"Dosegli boste svoj limit čez %1$s"</string>
   <string name="usage_device_limit_notifation_title">Preostalo časa danes</string>
   <string name="usage_device_limit_time_over">"Dosegli ste današnjo omejitev (%1$s)"</string>
