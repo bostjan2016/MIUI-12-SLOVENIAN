@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="cache_sort_type">
+        <item>Velikost</item>
+        <item>Ime</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Velikost</item>
+        <item>Ime</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Pogostost uporabe</item>
+        <item>Velikost</item>
+    </string-array>
     <string-array name="auto_clean_time">
         <item>Vsak dan</item>
         <item>Vsake 3 dni</item>
         <item>Vsakih 7 dni</item>
-		<item>Vsakih 15 dni</item>
+	<item>Vsakih 15 dni</item>
     </string-array>
     <string-array name="auto_clean_size">
         <item>100 MB</item>
@@ -21,18 +33,6 @@
         <item>Počisti to datoteko</item>
         <item>"Pokaži lokacijo datoteke"</item>
     </string-array>
-     <string-array name="cache_sort_type">
-        <item>Velikost</item>
-        <item>Ime</item>
-    </string-array>
-    <string-array name="installed_app_sort_type">
-        <item>Pogosto uporabljano</item>
-        <item>Velikost</item>
-    </string-array>
-    <string-array name="large_file_sort_type">
-        <item>Velikost</item>
-        <item>Ime</item>
-    </string-array>
     <string-array name="trash_clean_menu">
         <item>Počisti to datoteko</item>
         <item>"Pokaži lokacijo datoteke"</item>
@@ -46,7 +46,7 @@
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Počisti</item>
-		<item>Namesti to aplik.</item>
+	<item>Namesti to aplik.</item>
         <item>Pokaži v mapi</item>
     </string-array>
     <string-array name="auto_alert_apps_time">
@@ -80,7 +80,12 @@
          <item>Očisti</item>
          <item>Pokaži</item>
     </string-array>
-		  <string-array name="wechat_sort">
+	<string-array name="uninstalled_app_sort_type">
+        <item>Velikost</item>
+        <item>Pogostost uporabe</item>
+        <item>Čas namestitve</item>
+    </string-array>
+    <string-array name="wechat_sort">
         <item>Datum</item>
         <item>Velikost</item>
     </string-array>

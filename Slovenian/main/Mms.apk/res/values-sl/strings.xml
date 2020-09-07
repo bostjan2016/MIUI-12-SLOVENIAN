@@ -91,10 +91,13 @@
   <string name="auto_identify_btn_title">To sporočilo se pošilja iz neznane številke.</string>
   <string name="auto_identify_confirmation">Aktivacija te storitve lahko traja nekoliko minut.</string>
   <string name="back_to_message_list">Nazaj na seznam sporočil</string>
-  <string name="batch_adding_progress_message">Dodajam...</string>
+  <string name="banner_btn_install">Namesti</string>
+  <string name="banner_btn_not_now">Ne zdaj</string>
+  <string name="banner_btn_open">Odpri</string>
+  <string name="batch_adding_progress_message">Dodajam…</string>
   <string name="batch_delete_confirm_dialog_message">Izbrišem %1$s sporočil?</string>
-  <string name="batch_deleting_message_progress_message">Brišem...</string>
-  <string name="batch_deleting_progress_message">Brišem...</string>
+  <string name="batch_deleting_message_progress_message">Brisanje izbranih(ga) sporočil(a)</string>
+  <string name="batch_deleting_progress_message">Brisanje izbranih niti sporočil(a)</string>
   <string name="bcc_label">"Skp: "</string>
   <string name="block_messaging_entry_title">Blokirani SMS-i</string>
   <string name="block_number_message">Ta številka telefona bo dodan na seznam za blokiranje. Vsa sporočila poslana s te številke bodo blokirana.</string>
@@ -220,6 +223,7 @@
   <string name="debug_enable_success">Odpravlj. napak je na voljo</string>
   <string name="debug_export_db">Izvoz baze podatkov</string>
   <string name="debug_title">Odpravlj. napak</string>
+  <string name="default_google_message_promo_content">"Google sporočila ste nastavili kot privzeto aplikacijo za sporočanje. Dotaknite se \"Odpri\" da začnete pošiljati sporočila."</string>
   <string name="del_private_contact">Odstrani vse zasebne stike</string>
   <string name="delete">Izbriši</string>
   <string name="delete_block_conversation">Izbriši ta razgovor</string>
@@ -282,7 +286,8 @@
   <string name="enable_password_protect">Omogoči geslo</string>
   <string name="enable_visible_pattern_title">Naredi vzorec viden</string>
   <string name="enabled">Vključeno</string>
-  <string name="english_subject_limit">max 40 znakov</string>
+  <string name="enable_classify_tip_dialog_content">To bo ponovno zagnalo aplikacijo Sporočila. Vseeno nadaljujem?</string>
+  <string name="english_subject_limit">maks. 40 znakov</string>
   <string name="enter_edit_mode">Spremeni sporočila</string>
   <string name="error_code_label">"Napaka kode: "</string>
   <string name="error_field_required">Potrebno</string>
@@ -351,6 +356,8 @@
   <string name="from_pkg_name">Iz aplik: </string>
   <string name="ft_cfs_dialog_content">"Datoteke se ne morejo dostaviti z uporabo RCS-a. Pošlem povezavo v SMS sporočilu?"</string>
   <string name="ft_cfs_dialog_title">Alternativni prenos datotek</string>
+  <string name="google_message_promo_content">Xiaomi priporoča prehod na Google sporočila. Omogoča vam pošiljanje sporočil SMS v omrežju WiFi, skupno rabo visokokakovostnih predstavnosti in še veliko več. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Prikaz podrobnosti&lt;/a&gt;&lt;/font&gt;.</string>
+  <string name="google_message_promo_title">Nadgradite svojo aplikacijo za menjavo sporočil</string>
   <string name="group_already_kicked_hint">"Ne morem poslati sporočila. Nisi član tega skupinskega razgovora."</string>
   <string name="group_member_is_composing">Tipka…</string>
   <string name="group_message">Skupinska sporočila</string>
@@ -393,6 +400,8 @@
   <string name="imageview_ad">Oglas</string>
   <string name="importing_progress_private_message">Uvažam…</string>
   <string name="in_sms">Sporočilo</string>
+  <string name="installed_google_message_promo_content">Xiaomi priporoča preklop na Google sporočila. Omogoča vam pošiljanje sporočil SMS v omrežju WLAN, skupno rabo visokokakovostnih predstavnosti in še veliko več.</string>
+  <string name="installed_google_message_promo_title">Začnite uporabljati Sporočila</string>
   <string name="insufficient_drm_rights">Zaznane nezadostne DRM pravice.</string>
   <string name="invalid_conversation">Neveljaven pogovor</string>
   <string name="invalid_destination">Neveljaven ciljni naslov.</string>
@@ -663,6 +672,9 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="perm_purpose_rcs_account">"Za prikazovanje začetnih nasvetov novim uporabnikom"</string>
   <string name="perm_purpose_rcs_phone_state">Za dostop do IMEI zaradi identifikacije vaše naprave</string>
   <string name="perm_purpose_rcs_storage">Za shranjevanje slik, videoposnetkov, datotek in ostalih RCS priponk</string>
+  <string name="permission_retry_deny">Prekliči</string>
+  <string name="permission_retry_dialog_msg">Aplikacija Sporočila potrebuje dovoljenje za pravilno delovanje. Če želite dodeliti potrebna dovoljenja, tapnite \"Nastavitve\", izberite \"Dovoljenja za aplikacije\" in aplikaciji omogočite dostop do telefona, sporočil SMS in stikov.</string>
+  <string name="permission_retry_setting">Nastavitve</string>
   <string name="phrase_confirm_delete_message">Ta odgovor bo izbrisan</string>
   <string name="phrase_empty">Ni odgovorov</string>
   <string name="phrase_from">Od %1s</string>
@@ -702,6 +714,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="pref_summary_delete_limit">%1$s sporočil na pogovor</string>
   <string name="pref_summary_delivery_reports">Pokaži stanje dostave za vsako sporočilo ki ga pošljete</string>
   <string name="pref_summary_delivery_ringtone">Prejmi zvočna obvestila za dostavljena sporočila.</string>
+  <string name="pref_summary_enable_classify">Premesti promocijska in finančna sporočila na zasebne kartice</string>
   <string name="pref_summary_hide_festival">Skrij opravila kitajskega jezika, ko je sistem nastavljen na drug jezik.</string>
   <string name="pref_summary_manage_sim_messages">Urejaj sporočila shranjena na SIM kartici</string>
   <string name="pref_summary_mms_auto_retrieval">Samodejno prejmi MMS</string>
@@ -728,6 +741,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="pref_title_card_format">Deli kartični format</string>
   <string name="pref_title_collapse_ad_notification">Skupinska obvestila o promocijskih sporočilih</string>
   <string name="pref_title_delivery_reports">Status dostave</string>
+  <string name="pref_title_enable_classify">Samodejno združi sporočila</string>
   <string name="pref_title_festival_networking">Spletna povezava</string>
   <string name="pref_title_fwd_sender_info">Posreduj informacije pošiljatelja</string>
   <string name="pref_title_hide_festival">Skrij opravila kitajskega jezika</string>
@@ -811,13 +825,13 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="rcs_group_notification_invitation">Vabilo za skupinski klepet</string>
   <string name="rcs_hello_from_pc">Prijavite se na Fetion na računalniku da boste prenesli datoteke.</string>
   <string name="rcs_main_purpose">Ta storitev omogoča pošiljanje in prejemanje RCS sporočil. RCS sporočila ponuja China Mobile.</string>
-  <string name="rcs_message">China Mobile sporočila</string>
+  <string name="rcs_message">5G sporočila</string>
   <string name="rcs_message_disable">"Tega sporočila ni možno pregledati v Drugem prostoru"</string>
   <string name="rcs_message_title">RCS sporočila</string>
-  <string name="rcs_msg">China Mobile sporočila</string>
-  <string name="rcs_not_online">"Ne morem uporabiti China Mobile sporočila. Preverite omrežne nastavitve in poskusite ponovno."</string>
-  <string name="rcs_offline">Niste prijavljeni na UC. Počakajte minuto ali dve in poskusite ponovno.</string>
-  <string name="rcs_offline_hint">"China Mobile sporočila so brez povezave. Ne morem posredovati sporočila."</string>
+  <string name="rcs_msg">5G sporočila</string>
+  <string name="rcs_not_online">"Ne morem uporabiti 5G sporočila. Preverite omrežne nastavitve in poskusite ponovno."</string>
+  <string name="rcs_offline">Niste prijavljeni v UC. Počakajte minuto ali dve in poskusite ponovno.</string>
+  <string name="rcs_offline_hint">"5G sporočila so brez povezave. Ne morem posredovati sporočila."</string>
   <string name="rcs_pref_button_login">Prijava</string>
   <string name="rcs_pref_button_logout">Odjava</string>
   <string name="rcs_pref_category_rcs">RCS sporočila</string>
@@ -840,13 +854,13 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="rcs_recipient_type_group">Posreduj na skupinski klepet</string>
   <string name="rcs_recipient_type_pc">Posreduj na računalnik</string>
   <string name="rcs_remember_my_choice">Zapomni si izbranor</string>
-  <string name="rcs_resend_not_online">"Ne morem uporabiti China Mobile sporočil"</string>
+  <string name="rcs_resend_not_online">"Ne morem uporabiti 5G sporočil"</string>
   <string name="rcs_resend_sim_card_not_insert">"SIM kartica ni vstavljena"</string>
   <string name="rcs_send_rms_remind_change">Nastavitve</string>
-  <string name="rcs_send_rms_remind_desp">China Mobile sporočila je storitev ponujena od China Mobile. Lahko jo izklopite v nastavitvah.</string>
-  <string name="rcs_send_rms_remind_title">Pošiljaj sporočila z China Mobile sporočila</string>
+  <string name="rcs_send_rms_remind_desp">5G sporočila je storitev ponujena od China Mobile. Lahko jo izklopite v nastavitvah.</string>
+  <string name="rcs_send_rms_remind_title">Pošiljaj sporočila z 5G sporočila</string>
   <string name="rcs_service_agreement">Pogoji uporabe</string>
-  <string name="rcs_setting">China Mobile sporočila nastavitve</string>
+  <string name="rcs_setting">Nastavitve 5G sporočila</string>
   <string name="rcs_setting_tips">Lahko zamenjate alternativne načine sporočil v nastavitvah.</string>
   <string name="rcs_silence_message">Obvestila o tihem sporočilu</string>
   <string name="rcs_summary_auto_resend_mms">"Pretvarjanje večpredstavnostnih sporočil China Mobile v SMS, ko prvotnega sporočila ni bilo mogoče poslati. Operater vam to lahko računa."</string>
@@ -1041,8 +1055,9 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="sp_category_bank">Obvestila o bančnih sporočilih</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Obvestila</string>
-  <string name="sp_mark_as_read">Označim vsa sporočila kot prebrana?</string>
+  <string name="sp_mark_as_read">Označim vsa sporočila kot prebrana ?</string>
   <string name="sp_mark_as_read_menu_title">Označi kot prebrano</string>
+  <string name="sp_msg_entry">Storitve</string>
   <string name="sp_mark_as_read_progress">Obdelava…</string>
   <string name="sp_mark_as_read_title">Označim kot prebrano?</string>
   <string name="sqlite_disk_full">Ni dovolj prostora za shranjevanje</string>
@@ -1132,6 +1147,9 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="to_label">"Za "</string>
   <string name="to_send_wrapper">Poslano bo ob %s</string>
   <string name="toast_failed_to_close_priv_auth">"Avtorizacija ne more biti preklicana. Preverite omrežne nastavitve in poskusite ponovno."</string>
+  <string name="toast_not_show_camera_perm_req">Aplikaciji Sporočila omogočite uporabo kamere za uporabo te storitve</string>
+  <string name="toast_not_show_microphone_perm_req">Dovoli aplikaciji Sporočila uporabo mikrofona za uporabo te storitve</string>
+  <string name="toast_not_show_storage_perm_req">Dovolite aplikaciji Sporočila dostop do pomnilnika, da boste lahko uporabljali to storitev</string>
   <string name="toast_pending_hangup_msg">Sporočilo bo poslano po koncu klica</string>
   <string name="today">Danes</string>
   <string name="tomorrow">Jutri</string>

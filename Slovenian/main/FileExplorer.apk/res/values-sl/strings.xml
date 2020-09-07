@@ -287,6 +287,7 @@
   <string name="enable_usb">Povežite USB napravo</string>
   <string name="encrypt_error">"Ne morem skriti datotek, poskusite ponovno"</string>
   <string name="encrypt_prefix">SKRITO</string>
+  <string name="encrypt_setting">Šifriranje</string>
   <string name="encrypt_success">Uspešno skrito</string>
   <string name="encrypt_success_first_five">"Šifrirano in datoteka skrita. Skrite datoteke lahko vidite s potegom dol na začetni strani aplik. Raziskovalec."</string>
   <string name="encrypting">Šifriranje…</string>
@@ -434,7 +435,7 @@
   <string name="kuaipan_photo_locate">Lokacija %1$s</string>
   <string name="kuaipan_prompt">Strežnik ni dostopen</string>
   <string name="kuaipan_prompt_message">"
- Naš strežnik trenutno ni dostopen. Poskusite kasneje…
+ Naš strežnik trenutno ni na voljo. Poskusite kasneje…
 "</string>
   <string name="kuaipan_root_fooder">Začetna</string>
   <string name="kuaipan_tech_support">Vpis na kuaipan.cn</string>
@@ -445,7 +446,7 @@
   <string name="load_err">Ne morem naložiti</string>
   <string name="load_more">Pokaži več</string>
   <string name="load_sticker_fail">"Ne morem naložiti nalepke"</string>
-  <string name="loading">Nalaganje...</string>
+  <string name="loading">Nalaganje…</string>
   <string name="local_image">Slike</string>
   <string name="local_music">Glasba</string>
   <string name="local_sticker_str">Izvenmrežno</string>
@@ -630,7 +631,8 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="not_installed_documentsui">"Nimate nameščene DocumentsUI aplikacije"</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="not_support_documentui">"Aplikacija DocumentUI ni podprta na tej napravi"</string>
-  <string name="notif_server_starting">Zaganjam FTP strežnik...</string>
+  <string name="not_use">Ne zdaj</string>
+  <string name="notif_server_starting">Zaganjam FTP strežnik…</string>
   <string name="notif_title">FTP strežnik zagnan</string>
   <string name="notification_content_hint">Dotakni se za prikaz</string>
   <string name="notification_dialog_confirm">V redu</string>
@@ -680,6 +682,8 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="operation_delete_confirm_message">Izbrišem?</string>
   <string name="operation_delete_confirm_message_folder">Vsa vsebina mape bo izbrisana.</string>
   <string name="operation_deleting">Brišem...</string>
+  <string name="operation_encrypt_summary">Šifriranje datotek v zasebni mapi. Dešifriranje velikih datotek lahko dolgo traja.</string>
+  <string name="operation_encrypt_title">Šifriranje zasebnih datotek</string>
   <string name="operation_deleting_detail">Brisanje (%1$d/%2$d)</string>
   <string name="operation_download_link">Ustvari povezavo za prenos</string>
   <string name="operation_favorite">Dodaj med priljubljene</string>
@@ -789,6 +793,9 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="private_folder">Skrita mapa</string>
   <string name="private_folder_no_file_hints">Ni skritih datotek.</string>
   <string name="private_folder_update">Posodabljanje skritih datotek…</string>
+  <string name="private_folder_update_msg">Aplikacija Raziskovalec uvaja dodaten varnostni ukrep: zdaj lahko šifrirate zasebne datoteke!</string>
+  <string name="private_folder_update_msg_summary">Dešifriranje bo upočasnilo odstranjevanje datotek iz zasebne mape. Šifriranje lahko omogočite ali onemogočite v nastavitvah.</string>
+  <string name="private_folder_update_tips">Nova storitev</string>
   <string name="private_toast_hint1">Dotaknite se za dodajanje datotek v skrite mape</string>
   <string name="private_toast_hint2">Da skrijete datoteko jo pritisnite in zadržite potem pa dodajte v skrito mapo.</string>
   <string name="private_toast_hint3">Povlecite navzdol za odpiranje skritih map</string>
@@ -1128,6 +1135,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="uploading">Nalagam</string>
   <string name="uploading_video">Nalagam…</string>
   <string name="usb_label">USB</string>
+  <string name="use">Uporabi</string>
   <string name="use_to_all">Uporabi za vse</string>
   <string name="used">Uporabljeno</string>
   <string name="user">Uporabniki</string>

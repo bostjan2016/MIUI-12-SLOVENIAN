@@ -712,7 +712,7 @@ ki ste ga prejeli v vaš poštni predal
   <string name="update_phone_notice">Spremeni varnostne nastavitve</string>
   <string name="update_phone_number_notice_message">Pred posodobitvijo številke telefona morate potrditi identiteto.</string>
   <string name="updated_nothing">Posodobljeno</string>
-  <string name="used_cloud_storage_info">Izkoriščen prostor za shranjevanje %s</string>
+  <string name="used_cloud_storage_info">Izkoriščeno %s</string>
   <string name="user_avatar_update_title">Zamenjaj sliko profila</string>
   <string name="user_avatar_uploading">Samo trenutek…</string>
   <string name="v7_preference_off">IZKLJUČENO</string>

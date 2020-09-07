@@ -1542,7 +1542,7 @@ Zmeraj uporabi to številko"</string>
   <string name="mobile_data_status_roaming_turned_on_subtext">Podatkovno gostovanje je vključeno</string>
   <string name="mobile_data_status_roaming_with_plan_subtext">Gostovanje poteka, podatkovni paket je aktiven</string>
   <string name="mobile_data_status_roaming_without_plan_subtext">Gostovanje poteka, potreben je podatkovni paket</string>
-  <string name="mobile_intelligent_connection_title">Inteligentna povezava z mobilnim omrežjem</string>
+  <string name="mobile_intelligent_connection_title">Inteligentna povezava mobilnega omrežja</string>
   <string name="mobile_network_settings_not_available">Nastavitve mobilnega omrežja niso na voljo za tega uporabnika</string>
   <string name="mobile_networks">Nastavitve mob. omrežja</string>
   <string name="mobile_property">Lastnosti mob. omrežja</string>

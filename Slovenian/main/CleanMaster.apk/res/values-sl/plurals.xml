@@ -135,6 +135,14 @@
         <item quantity="other">%1$d ur</item>
         <item quantity="one">%1$d ura</item>
      </plurals>
+	 <plurals name="install_find_application">
+        <item quantity="other">Išči med %d aplikacijami</item>
+        <item quantity="one">Išči med %d aplikacijo</item>
+    </plurals>
+    <plurals name="install_find_application_num">
+        <item quantity="other">Najdeno %d aplikacij</item>
+        <item quantity="one">Najdena %d aplikacija</item>
+     </plurals>
      <plurals name="minute">
         <item quantity="other">%1$d min</item>
         <item quantity="one">%1$d min</item>

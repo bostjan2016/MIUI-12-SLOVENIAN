@@ -1,5 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <string-array name="account_sync_frequency">
+        <item>Ročno</item>
+        <item>Vsakih 15 minut</item>
+        <item>Vsako uro</item>
+        <item>Vsake 4 ure</item>
+        <item>Vsakih 12 ur</item>
+    </string-array>
    <string-array name="response_labels2">
         <item>"Brez odgovora"</item>
         <item>Sprejmem</item>
