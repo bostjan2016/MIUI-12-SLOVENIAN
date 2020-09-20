@@ -261,6 +261,8 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">javljanje, nadzor in končanje klica</string>
   <string name="HIPS_Perm_read_notification_sms">SMS Storitev</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">Beri SMS storitev</string>
+  <string name="HIPS_Perm_recognition">Dostop do informacij o aktivnostih</string>
+  <string name="HIPS_Perm_recognition_Desc">Dovolite aplikaciji dostop do informacij o vaši aktivnosti</string>
   <string name="HIPS_Perm_service_foreground">Storitev v prvem planu</string>
   <string name="HIPS_Perm_service_foreground_Desc">Storitev v prvem planu</string>
   <string name="HIPS_Perm_show_when_locked">Pokaži na zaklenjenem zaslonu</string>

@@ -375,6 +375,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="hide_pull_down_positive">Skrij</string>
   <string name="home_apply_failured">"Ne morem nastaviti ozadje zač. zaslona"</string>
   <string name="home_apply_success">Ozadje zač. zaslona nastavljeno</string>
+  <string name="home_daily">Dnevno ozadje</string>
   <string name="i_know">Razumem</string>
   <string name="icon_content_description">Ikona dialoga</string>
   <string name="in_the_end">Ni več stvari za prikaz</string>
@@ -401,12 +402,14 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="item_resource_audio_optional_color_ring">Zvok povratnega signala</string>
   <string name="item_resource_audio_optional_notification_ring">Obvestila</string>
   <string name="item_resource_audio_optional_phone_ring">Melodija zvonenja</string>
+  <string name="item_view_role_description">Kartica</string>
   <string name="kuyin_user_agreement_content">Naročnine za melodije zvonjenja po meri zagotavlja iFlytek. Preden začnete uporabljati naročnine na melodije zvonjenja, se morate strinjati z %s. Se strinjate ?</string>
   <string name="kuyin_user_agreement_content_href">iFlytek Pravila o zasebnosti</string>
   <string name="lab">Beta storitve</string>
   <string name="like_list">Stvari ki so mi všeč</string>
   <string name="live_wallpaper">Živo ozadje</string>
   <string name="loading">Nalaganje…</string>
+  <string name="loading_picture">Nalaganje slike…</string>
   <string name="loading_resource_detail_fail">"Ne morem naložiti vira!"</string>
   <string name="loading_resource_detail_info">Nalaganje…</string>
   <string name="local_photos">Lokalne fotografije</string>
@@ -425,6 +428,8 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="lockscreen_wallpaper">Zaklenjen zaslon</string>
   <string name="lockstyle_personal_settings">Prilagodi</string>
   <string name="long_click_can_hide_resource">Pritisnite in držite za skrivanje stvari</string>
+  <string name="material_slider_range_end">Konec,</string>
+  <string name="material_slider_range_start">Začetek,</string>
   <string name="loop_wallpaper_is_here">Diaprojekcija slik za ozadje je na voljo</string>
   <string name="mi_wallpaper">MIUI ozadje</string>
   <string name="midnight">AM</string>
@@ -544,6 +549,7 @@ dd.MM"</string>
   <string name="morning">AM</string>
   <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Več kot %1$d novih obvestil</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
   <string name="mtrl_picker_a11y_next_month">Zamenjaj na naslednji mesec</string>
   <string name="mtrl_picker_a11y_prev_month">Zamenjaj na prejšnji mesec</string>
@@ -699,7 +705,7 @@ dd.MM"</string>
   <string name="resource_comment_rate">Ocena:</string>
   <string name="resource_comment_rating_star_tips">Dotaknite se zvezdice za oceno:</string>
   <string name="resource_comment_score_count">%1$s uporabnikov</string>
-  <string name="resource_comment_sending">Pošiljanje komentarja...</string>
+  <string name="resource_comment_sending">Pošiljanje komentarja…</string>
   <string name="resource_comment_title">Komentarji: %1$s</string>
   <string name="resource_comment_error_not_bought">Morate uporabiti temo preden lahko pišete komentarje o njej</string>
   <string name="resource_comment_upload_data_invalid">Komentar ki ste ga vnesli je neveljaven</string>
@@ -837,6 +843,7 @@ dd.MM"</string>
   <string name="resource_share_subject">Deli temo: %1$s</string>
   <string name="resource_share_text">Tukaj je tema ki bi ti bila mogoče všeč: %1$s! Povezava: %2$s</string>
   <string name="resource_share_title">Deli</string>
+  <string name="resource_status_error">"Napaka. Trenutno ne morem videti tega ozadja."</string>
   <string name="resource_system_title">Sistemski viri</string>
   <string name="resource_tab_to_view">Dotaknite se za pregled.</string>
   <string name="resource_tip_select_none">Ni izbrano</string>
@@ -914,6 +921,18 @@ dd.MM"</string>
   <string name="settings_search_keyword_font_online">Online fonti</string>
   <string name="settings_search_keyword_font_style">Format fonta</string>
   <string name="settings_search_keyword_font_wechat">WeChat fonti</string>
+  <string name="share_copy_theme_url">Kopiraj URL teme</string>
+  <string name="share_copy_url_success">Uspešno kopirano</string>
+  <string name="share_copy_wallpaper_url">Kopiraj URL slike ozadja</string>
+  <string name="share_picture_loading">Nalaganje slike…</string>
+  <string name="share_save_success">Uspešno shranjeno</string>
+  <string name="share_save_to_photo">Galerija</string>
+  <string name="share_send_to_friend">WeChat</string>
+  <string name="share_theme_content_text">"Tu lahko prenesete neverjetno temo \"%1$s\": %2$s. Od "</string>
+  <string name="share_to_qq">QQ</string>
+  <string name="share_to_weibo">Weibo</string>
+  <string name="share_vipaccount">Mi Community</string>
+  <string name="share_wallpaper_content_text">"Tu lahko prenesete neverjetno sliko za ozadje \"%1$s\": %2$s. Od "</string>
   <string name="shortcut_add">Dodaj</string>
   <string name="shortcut_cancel">Ne, hvala</string>
   <string name="shortcut_message">Dodajte bližnjico začetnega zaslona!</string>
@@ -1187,6 +1206,7 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
   <string name="wallpaper_set_as_incall_show">Nastavi kot profilni video</string>
   <string name="wallpaper_set_as_lockscreen">Nastavi za zaklenjeni zaslon</string>
   <string name="wallpaper_setting_all">Vse slike ozadja</string>
+  <string name="wallpaper_setting_library">Knjižnica</string>
   <string name="wallpaper_setting_live">V živo</string>
   <string name="wallpaper_settings">Nastavitve ozadja</string>
   <string name="wallpaper_settings_change_wallpaper">Spremeni</string>
@@ -1198,6 +1218,7 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
   <string name="wallpaper_settings_page_title">Slika ozadja</string>
   <string name="wallpaper_share_alert">Prišlo je do napake. Počakajte minuto ali dve in poskusite znova.</string>
   <string name="wallpaper_static">Statično</string>
+  <string name="wallpaper_subject_version">MI</string>
   <string name="wechat_not_found">Najprej namestite WeChat</string>
   <string name="wednesday">Sreda</string>
   <string name="wednesday_short">Sre</string>

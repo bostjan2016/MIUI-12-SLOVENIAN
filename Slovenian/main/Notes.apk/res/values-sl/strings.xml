@@ -130,6 +130,7 @@
   <string name="done">Končano</string>
   <string name="edit_header_done_description">Končano</string>
   <string name="edit_header_lock_description">Skrita beležka</string>
+  <string name="edit_note_hint_title">Naslov</string>
   <string name="empty_folder_hint">"Ni map
 Tapnite + da napravite mapo"</string>
   <string name="empty_folder_import_notes">Uvozi beležke</string>

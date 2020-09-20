@@ -288,7 +288,9 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="activating">Aktivacija…</string>
     <string name="active_device_admin_msg">Skrbniška aplikacija naprave</string>
   <string name="active_input_method_subtypes">Aktivni načini vnosa</string>
-    <string name="activity_list_empty">Ni ustreznih dejavnosti.</string>
+  <string name="activity_check_context">"Vaša naprava se poskuša povezati na splet. Če uporabljate mobilne podatke, lahko ta postopek traja dlje, kot je bilo pričakovano. Lahko pa se vrnete nazaj in se povežete z omrežjem WiFi ali počakate, da se vzpostavi mobilna podatkovna povezava."</string>
+  <string name="activity_check_title">Povezovanje s spletom</string>
+  <string name="activity_list_empty">Ni ustreznih dejavnosti.</string>
   <string name="activity_not_found">Aplikacija ni nameščena v telefonu.</string>
   <string name="activity_picker_label">Izberite dejavnost</string>
   <string name="activity_title_apps_manager">Aplikacije</string>
@@ -2550,6 +2552,12 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s in prepreči
   <string name="dialog_backup_password_restore_tips">"Ne morem povrniti stvari ko je geslo za var. kopije vključeno. Najprej izključite geslo."</string>
   <string name="dialog_backup_password_to_settings">Nastavitve</string>
   <string name="dialog_backup_title">Posodobim var. kopije pred ponastavitvijo na tovarniške nastavitve?</string>
+  <string name="dialog_check_button_negative">Poskusi ponovno</string>
+  <string name="dialog_check_button_positive">Poveži se na WiFi</string>
+  <string name="dialog_check_context">"Vaša naprava se zdaj ne more povezati na splet.
+1. Tapnite \"Poveži se na WiFi\" za izbiro omrežja na voljo.
+2. Če želite uporabiti mobilne podatke, tapnite \"Poskusi ponovno\" ali odstranite in ponovno vstavite SIM kartico."</string>
+  <string name="dialog_check_title">"Ne morem se povezati na omrežje"</string>
   <string name="dialog_chose_item">Izberite stvar za prikaz</string>
   <string name="dialog_content_login">Se želite prijaviti v svoj Mi račun za posodobitve?</string>
     <string name="dialog_location_message">"Telefon ne more ustrezno upravljati porabe energije akumulatorja, ker aplikacija %1$s nenehno zahteva lokacijo, tudi ko aplikacije ne uporabljate.
@@ -2587,6 +2595,10 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="dialog_title_font_size">Velikost pisave</string>
   <string name="dialog_title_hdmi_color_calibration">Nastavljanje korekcije barv</string>
   <string name="dialog_title_login">Prijavite se v svoj Mi račun</string>
+  <string name="dialog_wifi_button_negative">Ne</string>
+  <string name="dialog_wifi_button_positive">Da</string>
+  <string name="dialog_wifi_context">Za nastavljanje naprave se morate povezati z omrežjem. Če se ne povežete z omrežjem WiFi, bodo morda uporabljeni mobilni podatki. Uporaba mobilnih podatkov lahko povzroči dodatne stroške operaterja. Ali želite vseeno uporabiti mobilne podatke?</string>
+  <string name="dialog_wifi_title">Uporaba mobilnih podatkov</string>
   <string name="dialog_yes">Da</string>
   <string name="dirac_control">Optimizirajte kakovost zvoka</string>
   <string name="dirac_mode_earbuds">Mi slušalke</string>
@@ -3351,9 +3363,10 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="fluency_mode_summary">Onemogoči animacijo sistema in tako zmanjšaj porabo RAM-a</string>
   <string name="fold_title">Pravila za združena obvestila</string>
   <string name="following_us_title">Spremljajte nas</string>
-  <string name="font_size_exhuge">Extra velik</string>
-  <string name="font_size_huge">Ogromen</string>
-  <string name="font_size_large">Velik</string>
+  <string name="font_size_exhuge">Extra veliko</string>
+  <string name="font_size_huge">Ogromno</string>
+  <string name="font_size_kddi">Srednje</string>
+  <string name="font_size_large">Veliko</string>
   <string name="font_size_make_larger_desc">Povečanje</string>
   <string name="font_size_make_smaller_desc">Pomanjšanje</string>
   <string name="font_size_medium">Večji</string>
@@ -9748,12 +9761,14 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
     <string name="wifi_configure_titlebar">Konfiguriranje povezave WiFi</string>
   <string name="wifi_configured_ap_list">Predhodno nastavljene AP</string>
   <string name="wifi_connect">Poveži</string>
+  <string name="wifi_connect_channel">WiFi kanal:</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Prekliči</string>
   <string name="wifi_connect_cmcc_dialog_confirm">V redu</string>
   <string name="wifi_connect_cmcc_dialog_content">Povezano na CMCC omrežne podatkovne storitve.</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Ne kaži več"</string>
   <string name="wifi_connect_cmcc_dialog_title">Obvestila uporabe podatkov</string>
   <string name="wifi_connect_failed_message">Telefon se ni mogel povezati v to omrežje WiFi.</string>
+  <string name="wifi_connect_frequency">WiFi frekvenca:</string>
     <string name="wifi_connected_mac_randomization">Dodelitev naključnega naslova MAC ob vzpostavitvi povezave</string>
     <string name="wifi_connected_mac_randomization_summary">Dodelitev naključnega naslova MAC pri povezovanju z omrežji WiFi</string>
   <string name="wifi_connected_no_internet">Vzpostavljena povezava brez spleta</string>
