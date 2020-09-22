@@ -471,6 +471,10 @@
          <item quantity="other">Vidna obvestila: %d</item>
          <item quantity="one">Vidno obvestilo: %d</item>
      </plurals>
+	 <plurals name="exit_dialog_release_memory_message">
+        <item quantity="other">&lt;Data>Zaprem &lt;font color=#0099ff>%d&lt;/font> aplikacij da boste pohitrili napravo?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Zaprem &lt;font color=#0099ff>%d&lt;/font> aplikacijo da boste pohitrili napravo?&lt;/Data></item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Preišči med %d aplik.</item>
         <item quantity="one">Preišči med %d aplik.</item>

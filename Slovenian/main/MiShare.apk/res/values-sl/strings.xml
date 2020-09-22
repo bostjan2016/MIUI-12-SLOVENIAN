@@ -99,10 +99,10 @@ Pred uporabo Mi Share morate odobriti naslednja dovoljenja in omogočiti zbiranj
     <string name="refuse_file">Zavračam</string>
     <string name="retry_task">Pošlji ponovno</string>
     <string name="scanning_device_tips">Iskanje naprav v bližini… Preverite če je druga naprava v vidnem načinu.</string>
-    <string name="scanning_only_xiaomi_device">To lahko pošljete samo na Xiaomi napravo</string>
+    <string name="scanning_only_xiaomi_device">To lahko pošljete samo na Xiaomi ali Black Shark napravo</string>
     <string name="send_file">POŠLJI DATOTEKO</string>
     <string name="send_files_to">Pošljite stvari na</string>
-    <string name="send_files_to_remote_success">Pošiljanje  %1$s uspešno</string>
+    <string name="send_files_to_remote_success">Pošiljanje na  %1$s uspešno</string>
     <string name="sender_error">Ne morem poslati. Počakajte minuto ali dve in poskusite ponovno.</string>
     <string name="somepc_send_much_file_to_you_files">%1$s vam pošilja več kot 200 datotek…</string>
     <string name="somepc_send_muchfile_files">%1$s vam pošilja več kot 200 datotek…</string>

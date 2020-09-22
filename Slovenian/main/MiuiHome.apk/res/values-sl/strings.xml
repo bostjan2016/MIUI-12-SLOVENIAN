@@ -51,6 +51,9 @@
   <string name="add_custom_category">Prilagodi</string>
   <string name="add_screen">Dodaj zaslon</string>
   <string name="added_all_category">Vse aplikacije uspešno dodane</string>
+  <string name="alexa_notification_add">Dodaj</string>
+  <string name="alexa_notification_cancel">Ne zdaj</string>
+  <string name="alexa_notification_content">Dodam Alexa bližnjico v Center za kontrolo?</string>
   <string name="additional_settings">Dodatne nastavitve</string>
   <string name="all_app_category_all">Vse</string>
   <string name="all_app_category_communication">Komunikacija</string>

@@ -509,6 +509,7 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="request_permission_confirm">Razumem</string>
   <string name="request_permission_content">Mi Drive mora dostopati do računov v tej napravi, če želite uporabiti svoj Mi račun za prijavo. Dovoljenje za dostop in shranjevanje datotek v vaši napravi bo Mi Drive omogočilo ogled, prenos, prevzem in sinhronizacijo elementov.</string>
   <string name="request_permission_msg">Mi Drive za normalno delovanje potrebuje dovoljenje za dostop do računa in zunanjega pomnilnika.</string>
+  <string name="request_permission_content_with_phone_state">Da se boste lahko prijavili z računom Mi, pregledali, nalagali, prenašali in sinhronizirali datoteke in preverjali posodobitve, potrebuje Mi Drive dovoljenja za dostop do računov, fotografij, datotek in IMEI.</string>
   <string name="request_permission_title">Potrebna so dovoljenja</string>
   <string name="resend_active_email">Pošlji ponovno</string>
   <string name="resend_email_reach_limit_message">Zahtevali ste preveč preverjanj po e-pošti. Prepričajte se, da potrditveno e-poštno sporočilo ni v mapi Neželjena pošta.</string>

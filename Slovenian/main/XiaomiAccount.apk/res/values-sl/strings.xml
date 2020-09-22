@@ -222,6 +222,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="exit">Izhod</string>
   <string name="expand_button_title">Napredno</string>
   <string name="facebook">Facebook</string>
+  <string name="facebook_login">Prijavite se z Facebook računom</string>
   <string name="failed_dup_secure_phone_number">Ta številka telefona je že povezana z drugim Mi Računom</string>
   <string name="find_device">Najdi napravo</string>
   <string name="find_device_access_denied">"Ne morem dobiti statusa, dostop zavrnjen"</string>
@@ -261,6 +262,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="get_phone_bind_exceed_limit">Povežete lahko do 3 Mi račune z eno številko telefona. Ni možno dodati nove račune.</string>
   <string name="get_phone_verifycode_exceed_limit">Preveč poslanih kod za potrjevanje na ta naslov e-pošte. Počakajte 24 ur in poskusite ponovno.</string>
   <string name="google">Google</string>
+  <string name="google_login">Prijavite se z Google računom</string>
   <string name="guest_account_label">Račun Mi Gosta</string>
   <string name="health_action_activate">Aktiviraj</string>
   <string name="health_action_install">Namesti</string>

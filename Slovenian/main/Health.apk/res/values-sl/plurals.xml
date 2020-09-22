@@ -47,6 +47,14 @@
 	<item quantity="few">%1$d dni</item>
         <item quantity="many">%1$d dni</item>
     </plurals>
+	<plurals name="days_in_menstrual_period">
+        <item quantity="other">Trajanje menstruacije: %1$d dni</item>
+        <item quantity="one">Trajanje menstruacije: %1$d dan</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Trajanje ciklusa: %1$d dni</item>
+        <item quantity="one">Trajanje ciklusa: %1$d dan</item>
+    </plurals>
 	<plurals name="dialog_choose_items">
         <item quantity="other">Izbranih stvari: %1$d</item>
         <item quantity="one">Izbrana %1$d stvar</item>
@@ -83,6 +91,10 @@
         <item quantity="other">%1$d korakov</item>
         <item quantity="one">%1$d korak</item>
     </plurals>
+	<plurals name="group_unit">
+        <item quantity="other">%1$d ciklusov</item>
+        <item quantity="one">%1$d ciklus</item>
+    </plurals>
 	<plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
     </plurals>
@@ -114,11 +126,15 @@
 	<plurals name="less_than_one_minute_ago">
         <item quantity="other">Takoj zdaj</item>
     </plurals>
+	<plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Menstruacija se bo verjetno začela čez %1$d dni</item>
+        <item quantity="one">Menstruacija se bo verjetno začela čez %1$d dan</item>
+    </plurals>
     <plurals name="menstruation_sum_days">
-        <item quantity="other">%1$d-dnevno obdobje</item>
-        <item quantity="one">%1$d-dnevno obdobje</item>
-		<item quantity="few">%1$d-dnevno obdobje</item>
-        <item quantity="many">%1$d-dnevno obdobje</item>
+        <item quantity="other">%1$d-dnevna menstruacija</item>
+        <item quantity="one">%1$d-dnevna menstruacija</item>
+		<item quantity="few">%1$d-dnevna menstruacija</item>
+        <item quantity="many">%1$d-dnevna menstruacija</item>
     </plurals>
 	<plurals name="mesens_card_title_day_in_predict">
         <item quantity="other">Dan %1$d (pričakovano)</item>
@@ -254,6 +270,10 @@
         <item quantity="one">" dan"</item>
         <item quantity="few">" dni"</item>
         <item quantity="many">" dni"</item>
+    </plurals>
+	<plurals name="unit_group">
+        <item quantity="other">" ciklusov"</item>
+        <item quantity="one">" ciklus"</item>
     </plurals>
 	<plurals name="unit_times">
         <item quantity="other">" krat"</item>

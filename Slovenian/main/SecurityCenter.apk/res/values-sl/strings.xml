@@ -795,6 +795,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="boot_time">Vklop ob: %1$s</string>
   <string name="boot_time_day">Vklop ob: %2$s %1$dd</string>
   <string name="boot_time_day_tomorrow">Vklop ob: %1$s</string>
+  <string name="bottom_func_guide_default_text">Več storitev</string>
   <string name="brand_diagnostic">Diagnostika vrste omrežja operaterja</string>
   <string name="brightness_auto_adjust_off">Osvetlitev bo ostala nespremenjena v vseh pogojih</string>
   <string name="brightness_auto_adjust_on">Nastavi osvetlitev zaslona glede na svetlost okolja</string>
@@ -1260,10 +1261,14 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="exception_notify_message">"Zaradi napake ne morem izračunati statistične podatke. Ponovno zaženite napravo zaradi povrnitve."</string>
   <string name="exception_titile">Prišlo je do napake</string>
   <string name="exit">Izhod</string>
+  <string name="exit_dialog_exit">Izhod</string>
   <string name="exit_dialog_garbage_clean_message">Količina smeti na vaši napravi je večja od %s. Očistim smeti?</string>
+  <string name="exit_dialog_garbage_clean_message_new"><Data>Čistilec lahko sprosti &lt;font color=#0099ff>%s&lt;/font> prostora za shranjevanje. Očistitim zdaj?</Data></string>
   <string name="exit_dialog_garbage_clean_positive_button">Očisti</string>
   <string name="exit_dialog_garbage_clean_title">Očisti smeti</string>
   <string name="exit_dialog_homepage_optimise_message">"Rezultat zmogljivosti za vašo napravo je nižji od 80 točk. Optimiziram zdaj?"</string>
+  <string name="exit_dialog_release_memory_positive_button">Zapri</string>
+    <string name="exit_dialog_release_memory_title"><Data>Pohitrite napravo za &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
   <string name="exit_dialog_release_storage_message">Več od 80% prostora za shranjevanje na napravi je zasedeno. Sprostite prostor z odstranitvijo aplikacij ki jih ne uporabljate.</string>
   <string name="exit_dialog_release_storage_positive_button">Sprosti prostor</string>
   <string name="exit_dialog_release_storage_title">Sprosti prostor</string>
@@ -2076,10 +2081,11 @@ Vaša naprava je zdaj %d%% hitrejša.</string>
   <string name="menu_item_app_permissions_control">Vodja dovoljenj</string>
   <string name="menu_item_control_app_permissions">Vprašaj za dovoljenje preden lahko aplikacija dobi vpogled v vaše stike, spreminja nastavitve, dostopa do kamere in drugih možnosti</string>
   <string name="menu_item_force_stop">Prisilna zaustavitev</string>
-  <string name="menu_item_install_debug_package">Namesti debug paket</string>
+  <string name="menu_item_install_debug_package">Namesti paket za odpravljanje napak</string>
   <string name="menu_item_notification_antispam_text_avail">Spam</string>
   <string name="menu_item_notification_antispam_text_normal">Spam</string>
   <string name="menu_item_notification_garbage_text">%s</string>
+  <string name="menu_item_notification_optimize_text">%d%% zasedeno</string>
   <string name="menu_item_notification_garbage_text_error">Napaka</string>
   <string name="menu_item_notification_power_text">Optimizacija baterije</string>
   <string name="menu_item_notification_title">Pokaži meni v obvestilni vrstici</string>
@@ -2117,7 +2123,9 @@ Vaša naprava je zdaj %d%% hitrejša.</string>
   <string name="menu_summary_power_manager_4">%s do konca polnjenja</string>
   <string name="menu_text_antispam">Seznam blokad</string>
   <string name="menu_text_antivirus">Varnost</string>
+  <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s zasedeno</string>
   <string name="menu_text_garbage_cleanup">Čiščenje</string>
+  <string name="menu_text_garbage_cleanup_danger">%s smeti</string>
   <string name="menu_text_license_manager">Dovoljenje</string>
   <string name="menu_text_networkassistants">Poraba podatkov</string>
   <string name="menu_text_networkassistants_danger">%s preseženo</string>
@@ -2137,7 +2145,7 @@ Vaša naprava je zdaj %d%% hitrejša.</string>
   <string name="mian_page_primary_txt">Mednarodno gostovanje</string>
   <string name="midrop_post_notification_contentText">Prenesite datoteke s hitrostjo do 50 Mbps z Mi Drop-om</string>
   <string name="midrop_post_notification_contentTitle">Morate prenesti datoteke?</string>
-  <string name="miui_optimization_close_final_tip">Iuključim MIUI optimizacijo?</string>
+  <string name="miui_optimization_close_final_tip">Izključim MIUI optimizacijo?</string>
   <string name="miui_optimization_close_title">Ta storitev je namenjena razvijalcem in morda ni primerna za splošne uporabnike. Če izklopite optimizacijo MIUI, lahko spremenite naslednje:</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
@@ -3196,7 +3204,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="renew_now">Obnovi</string>
   <string name="repair">Obnovi</string>
   <string name="repair_loading_text">Nalaganje…</string>
-  <string name="repeated_marked_number_summary">"Ne blokiraj drugi klic iz iste prijavljene številke v roku 3 minut."</string>
+  <string name="repeated_marked_number_summary">"Ne blokiraj drugi klic iz iste prijavljene številke v roku %d minut."</string>
   <string name="repeated_marked_number_title">"Ne blokiraj ponovljene klice s prijavljenih številk"</string>
   <string name="replace_dns">Samodejno zamenjaj DNS</string>
   <string name="report">Prijavi</string>
@@ -3548,10 +3556,10 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="st_mute_title">"Brez zvonjenja in vibriranja"</string>
   <string name="st_other_setting_group">Ostale nastavitve</string>
   <string name="st_settings_name">Nastavitve seznama prepovedanih</string>
-  <string name="st_share_settings">Uporabi nastavitve iz SIM1</string>
+  <string name="st_share_settings">Uporabi nastavitve iz %d</string>
   <string name="st_show_block_notification">Pokaži blokirana obvestila</string>
   <string name="st_show_num_keyword">" ključne besede"</string>
-  <string name="st_show_num_number">" stevilk"</string>
+  <string name="st_show_num_number">" Številk"</string>
   <string name="st_sms_group">SMS</string>
   <string name="st_sub_title_customize_mode_name">Ime</string>
   <string name="st_sub_title_whiteblack_list_group">Seznam blokiranih</string>
@@ -3689,6 +3697,12 @@ Za uporabo ^1 v tej napravi ga morate najprej vpeti."</string>
 
 Z formatiranjem bo izbrisana vsebina ^2. Če želite preprečiti izgubo vsebine, napravite var. kopijo na drug ^3 ali napravo."</string>
   <string name="storage_wizard_format_confirm_v2_title">Formatiram ^1 zdaj?</string>
+  <string name="stranger_call_dialog_add_block_list">Blokiraj</string>
+  <string name="stranger_call_dialog_add_contacts">Nov stik</string>
+  <string name="stranger_call_dialog_notification_body">Dodajte v stike ali blokirajte to številko</string>
+  <string name="stranger_call_dialog_notification_title_format">Neznana številka %s</string>
+  <string name="stranger_call_dialog_subtitle_format">"%s ni med vašimi stiki. To telefonsko številko lahko dodate svojim stikom ali jo blokirate."</string>
+  <string name="stranger_call_dialog_title">"Neznana številka "</string>
   <string name="suffix_pay_risk_count_bottom">tveganj</string>
   <string name="suffix_pay_risk_count_top">plačilo</string>
   <string name="suffix_virus_count_bottom">Skupno</string>
