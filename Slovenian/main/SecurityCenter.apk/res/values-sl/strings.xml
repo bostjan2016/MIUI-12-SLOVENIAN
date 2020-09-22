@@ -2125,7 +2125,6 @@ Vaša naprava je zdaj %d%% hitrejša.</string>
   <string name="menu_text_antivirus">Varnost</string>
   <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s zasedeno</string>
   <string name="menu_text_garbage_cleanup">Čiščenje</string>
-  <string name="menu_text_garbage_cleanup_danger">%s smeti</string>
   <string name="menu_text_license_manager">Dovoljenje</string>
   <string name="menu_text_networkassistants">Poraba podatkov</string>
   <string name="menu_text_networkassistants_danger">%s preseženo</string>
