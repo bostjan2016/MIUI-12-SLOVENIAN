@@ -52,8 +52,8 @@
         <item quantity="one">Trajanje menstruacije: %1$d dan</item>
     </plurals>
     <plurals name="days_in_period">
-        <item quantity="other">Trajanje ciklusa: %1$d dni</item>
-        <item quantity="one">Trajanje ciklusa: %1$d dan</item>
+        <item quantity="other">Trajanje cikla: %1$d dni</item>
+        <item quantity="one">Trajanje cikla: %1$d dan</item>
     </plurals>
 	<plurals name="dialog_choose_items">
         <item quantity="other">Izbranih stvari: %1$d</item>
@@ -92,8 +92,8 @@
         <item quantity="one">%1$d korak</item>
     </plurals>
 	<plurals name="group_unit">
-        <item quantity="other">%1$d ciklusov</item>
-        <item quantity="one">%1$d ciklus</item>
+        <item quantity="other">%1$d ciklov</item>
+        <item quantity="one">%1$d cikel</item>
     </plurals>
 	<plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
@@ -192,22 +192,22 @@
 	<item quantity="many">"Niste beležili %1$d dni. Zabeležite svoja obdobja da boste dobili natančnejša predvidevanja."</item>
     </plurals>
     <plurals name="subtitle_menstruation_continued_days">
-        <item quantity="other">Ta menstrualni ciklus je skupno trajal dni: %1$d</item>
-        <item quantity="one">Ta menstrualni ciklus je skupno trajal %1$d dan</item>
-	<item quantity="few">Ta menstrualni ciklus je skupno trajal dni: %1$d</item>
-	<item quantity="many">Ta menstrualni ciklus je skupno trajal dni: %1$d</item>
+        <item quantity="other">Ta menstrualni cikel je skupno trajal dni: %1$d</item>
+        <item quantity="one">Ta menstrualni cikel je skupno trajal %1$d dan</item>
+	<item quantity="few">Ta menstrualni cikel je skupno trajal dni: %1$d</item>
+	<item quantity="many">Ta menstrualni  je skupno trajal dni: %1$d</item>
     </plurals>
     <plurals name="subtitle_menstruation_cycle_days">
-        <item quantity="other">%1$d. dan tega menstrualnega ciklusa</item>
-        <item quantity="one">%1$d. dan tega menstrualnega ciklusa</item>
-	<item quantity="few">%1$d. dan tega menstrualnega ciklusa</item>
-	<item quantity="many">%1$d. dan tega menstrualnega ciklusa</item>
+        <item quantity="other">%1$d. dan tega menstrualnega cikla</item>
+        <item quantity="one">%1$d. dan tega menstrualnega cikla</item>
+	<item quantity="few">%1$d. dan tega menstrualnega cikla</item>
+	<item quantity="many">%1$d. dan tega menstrualnega cikla</item>
     </plurals>
     <plurals name="sum_cycle_days">
-        <item quantity="other">%1$d-dnevni menstrualni ciklus</item>
-        <item quantity="one">%1$d-dnevni menstrualni ciklus</item>
-	<item quantity="few">%1$d-dnevni menstrualni ciklus</item>
-	<item quantity="many">%1$d-dnevni menstrualni ciklus</item>
+        <item quantity="other">%1$d-dnevni menstrualni cikel</item>
+        <item quantity="one">%1$d-dnevni menstrualni cikel</item>
+	<item quantity="few">%1$d-dnevni menstrualni cikel</item>
+	<item quantity="many">%1$d-dnevni menstrualni cikel</item>
     </plurals>
 	<plurals name="time_duration_compare_standard">
         <item quantity="other">≤%1$d min</item>
@@ -244,22 +244,22 @@
         <item quantity="many">%1$d-krat</item>
     </plurals>
     <plurals name="title_menstruation_day">
-        <item quantity="other">%1$d. dan menstrualnega ciklusa</item>
-        <item quantity="one">%1$d. dan menstrualnega ciklusa</item>
-	<item quantity="few">%1$d. dan menstrualnega ciklusa</item>
-	<item quantity="many">%1$d. dan menstrualnega ciklusa</item>
+        <item quantity="other">%1$d. dan menstrualnega cikla</item>
+        <item quantity="one">%1$d. dan menstrualnega cikla</item>
+	<item quantity="few">%1$d. dan menstrualnega cikla</item>
+	<item quantity="many">%1$d. dan menstrualnega cikla</item>
     </plurals>
     <plurals name="title_menstruation_margin_next_time_days">
-        <item quantity="other">%1$d dni do naslednjega menstrualnega ciklusa</item>
-        <item quantity="one">%1$d dan do naslednjega menstrualnega ciklusa</item>
-	<item quantity="few">%1$d dni do naslednjega menstrualnega ciklusa</item>
-	<item quantity="many">%1$d dni do naslednjega menstrualnega ciklusa</item>
+        <item quantity="other">%1$d dni do naslednjega menstrualnega cikla</item>
+        <item quantity="one">%1$d dan do naslednjega menstrualnega cikla</item>
+	<item quantity="few">%1$d dni do naslednjega menstrualnega cikla</item>
+	<item quantity="many">%1$d dni do naslednjega menstrualnega cikla</item>
     </plurals>
     <plurals name="title_menstruation_predict_period">
-        <item quantity="other">Ocenjeni dnevi menstrualnega ciklusa: %1$d </item>
-        <item quantity="one">Ocenjen %1$d dan menstrualnega ciklusa</item>
-	<item quantity="few">Ocenjeni dnevi menstrualnega ciklusa: %1$d </item>
-	<item quantity="many">Ocenjeni dnevi menstrualnega ciklusa: %1$d </item>
+        <item quantity="other">Ocenjeni dnevi menstrualnega cikla: %1$d </item>
+        <item quantity="one">Ocenjen %1$d dan menstrualnega cikla</item>
+	<item quantity="few">Ocenjeni dnevi menstrualnega cikla: %1$d </item>
+	<item quantity="many">Ocenjeni dnevi menstrualnega cikla: %1$d </item>
     </plurals>
 	<plurals name="title_today_exercise_steps">
         <item quantity="other">%1$d korakov dnevno</item>
@@ -272,8 +272,8 @@
         <item quantity="many">" dni"</item>
     </plurals>
 	<plurals name="unit_group">
-        <item quantity="other">" ciklusov"</item>
-        <item quantity="one">" ciklus"</item>
+        <item quantity="other">" ciklov"</item>
+        <item quantity="one">" cikel"</item>
     </plurals>
 	<plurals name="unit_times">
         <item quantity="other">" krat"</item>

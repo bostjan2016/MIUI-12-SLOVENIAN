@@ -299,7 +299,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="logout_failed">Ne morem se vpisati</string>
   <string name="mi_account_identity_title">Potrdite svojo identiteto</string>
   <string name="mi_family">Mi Home</string>
-  <string name="mi_health">Xiaomi zdravje</string>
+  <string name="mi_health">Mi zdravje</string>
   <string name="mi_insurance">Mi zavarovanje</string>
   <string name="mi_pass">Mi Pass</string>
   <string name="mi_pay_identity">Identiteta</string>
@@ -382,7 +382,7 @@ ki ste ga prejeli v vaš poštni predal
   <string name="passport_confirm">V redu</string>
   <string name="passport_confirm_login">Nadaljuj</string>
   <string name="passport_confirm_recycle_account">Da</string>
-  <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Kaže da je&lt;/font&gt; številko %s recikliral vaš operater, a Mi Račun je povezan z njo. Ali je ta račun vaš?"</string>
+  <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Kaže da je&lt;/font&gt; številko %s recikliral vaš operater, Mi Račun pa je povezan z njo. Ali je ta račun vaš?"</string>
   <string name="passport_continue">Nadaljuj</string>
   <string name="passport_copy_message_text_success">Uspešno kopirano</string>
   <string name="passport_copy_message_vcode">Kopiraj kodo</string>

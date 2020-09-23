@@ -251,7 +251,7 @@
   <string name="bcc">Bcc</string>
   <string name="bill_center_setting">Nastavitve plačila</string>
   <string name="bill_center_setting_head">Uvozi podatke iz teh računov</string>
-  <string name="bill_cycle_text">Ciklus plačila</string>
+  <string name="bill_cycle_text">Cikel plačila</string>
   <string name="blank_feedback_toast">Napisati morate povratno informacijo</string>
   <string name="body_forward_email_text">[Posreduj]</string>
   <string name="body_hint">Sestavi E-pošto</string>

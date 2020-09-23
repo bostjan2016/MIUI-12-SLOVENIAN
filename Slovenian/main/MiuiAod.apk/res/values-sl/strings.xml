@@ -226,9 +226,9 @@ dd.MM"</string>
   od BOŠTJAN-a"</string>
   <string name="standard_clock_panel">Standard</string>
   <string name="standard_style">Standardno</string>
-  <string name="step_component_info_active_tip">Število korakov zagotavlja Xiaomi zdravje. Strinjate se z Xiaomi zdravje Pogoji in določila za nadaljevanje.</string>
-  <string name="step_component_info_desc">Ko bo vaš cilj dosežen, se bo število korakov spremenilo v pokal. Število korakov zagotavlja Xiaomi zdravje.</string>
-  <string name="step_component_info_tip">Število korakov zagotavlja Xiaomi zdravje. Namestite ali posodobite Xiaomi zdravje in se strinjajte z njegovimi določili in pogoji za nadaljevanje.</string>
+  <string name="step_component_info_active_tip">Število korakov zagotavlja Mi zdravje. Strinjate se z Mi zdravje Pogoji in določila za nadaljevanje.</string>
+  <string name="step_component_info_desc">Ko bo vaš cilj dosežen, se bo število korakov spremenilo v pokal. Število korakov zagotavlja Mi zdravje.</string>
+  <string name="step_component_info_tip">Število korakov zagotavlja Mi zdravje. Namestite ali posodobite Mi zdravje in se strinjajte z njegovimi določili in pogoji za nadaljevanje.</string>
   <string name="summary">"Da boste zmanjšali porabo energije, stvari ne bodo prikazane v naslednjih situacijah:
 1. Ko naprava dolgo stoji v mraku.
 2. Če je vključen DND način."</string>

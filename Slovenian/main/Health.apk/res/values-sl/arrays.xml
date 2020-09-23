@@ -119,7 +119,7 @@
         <item>Če želite izvedeti več, se dotaknite \ "Nadaljuj \" in vklopite to funkcijo.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>Xiaomi zdravje lahko zazna in posname, ko vstanete. Po 1 uri neaktivnosti lahko dobite tudi opomnike, da vstanete.</item>
+        <item>Mi zdravje lahko zazna in posname, ko vstanete. Po 1 uri neaktivnosti lahko dobite tudi opomnike, da vstanete.</item>
         <item>Ta storitev spremlja vaše gibanje in na podlagi rezultatov pošilja opomnike.</item>
     </string-array>
     <string-array name="temperature_unit">
