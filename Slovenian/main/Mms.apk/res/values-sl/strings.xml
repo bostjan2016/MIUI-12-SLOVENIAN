@@ -35,6 +35,8 @@
   <string name="actionbar_button_up_description">Nazaj</string>
   <string name="activity_not_found">Ni bilo najdene nobene aplikacije, ki bi lahko opravila to opravilo</string>
   <string name="activity_not_found_uri">Ni bilo najdene nobene aplikacije, ki bi lahko opravila to opravilo</string>
+  <string name="ad_close_button_text">Reklama</string>
+  <string name="ad_notification_title">Nevažna sporočila</string>
   <string name="addBlackList">Dodaj v seznam blokiranih</string>
   <string name="add_attachment">Dodaj priponko</string>
   <string name="add_contact">Stik</string>
@@ -240,7 +242,7 @@
   <string name="delivery_toast_body">Sporočilo prejeto od %s.</string>
   <string name="dialog_choice_all_correct_as_normal">Vsa sporočila od %s</string>
   <string name="dialog_complain_tips">Dovolite aplikaciji sporočila povezavo na omrežje.</string>
-  <string name="dialog_message_correct_as_ad">Vsa sporočila od %s (razen kontrolnih kod)bodo premeščena v promocijska sporočila.</string>
+  <string name="dialog_message_correct_as_ad">Vsa sporočila od %s (razen kontrolnih kod)bodo premeščena v reklamna sporočila.</string>
   <string name="dialog_message_correct_as_normal">Izberite sporočila za premestitev</string>
   <string name="dialog_message_fake_cell_detect_error">Popravim informacije o tem sporočilu? Za to mora MIUI prebrati številko telefona (%1$s), vsebino sporočila in informacije o najbližji lokaciji njegovih strežnikov.</string>
   <string name="dialog_message_mx">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe.</string>
@@ -254,7 +256,7 @@
   <string name="dialog_sim_locked_confirm">V redu</string>
   <string name="dialog_sim_locked_message">"Vaša SIM kartica ni popolnoma uporabna v tem telefonu ker ni v skladu z pravili in pogoji vašega predplačila. Za več informacij kontaktirajte Xiaomi servisne centre ali trgovino kjer ste kupili napravo."</string>
   <string name="dialog_smart_message_privacy_tips">Pametna sporočila ponuja Dianhuabang. Pred uporabo se strinjajte z \"%1$s\". Potrebna je spletna povezava in dostop do lokacije. Se strinjate?</string>
-  <string name="dialog_title_correct_as_ad">Premesti v promocijska sporočila</string>
+  <string name="dialog_title_correct_as_ad">Premesti v reklamna sporočila</string>
   <string name="dialog_title_correct_as_normal">Premesti v normalna sporočila</string>
   <string name="dialog_title_fake_cell_detect_error">Popravi</string>
   <string name="dialog_title_mx_rcs">Mi sporočilo</string>
@@ -383,7 +385,7 @@
   <string name="hms_first_use_tips">Če želite prejemati sporočila storitev morate biti povezani z omrežjem WiFi</string>
   <string name="hms_uri_param_err">"Povezava ne sme biti prazna"</string>
   <string name="hold_to_talk">Obdrži za razgovor</string>
-  <string name="home_tab_ad">Promocijska</string>
+  <string name="home_tab_ad">Reklamna</string>
   <string name="home_tab_common">Normalna</string>
   <string name="hybrid_check_network">Nastavitve omrežjae</string>
   <string name="hybrid_data_error">Prišlo je do napake</string>
@@ -422,7 +424,7 @@
   <string name="menu_call">Klic</string>
   <string name="menu_compose_new">Novo sporočilo</string>
   <string name="menu_contact">Poglej informacije stika</string>
-  <string name="menu_correct_as_ad">Premesti v promocijska</string>
+  <string name="menu_correct_as_ad">Premesti v reklamna</string>
   <string name="menu_correct_as_normal">Premesti v normalna</string>
   <string name="menu_delete_messages">Izbriši sporočila</string>
   <string name="menu_edit">Spremeni</string>
@@ -641,7 +643,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="not_prepare_for_send">Ni sporočil za pošiljanje</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="not_support_audio_forward">"Ne morem posredovati glasovnih sporočil"</string>
-  <string name="notification_ad_content">Dobili ste promocijsko sporočilo od %s</string>
+  <string name="notification_ad_content">Dobili ste reklamno sporočilo od %s</string>
   <string name="notification_channel_msg_description">Obvestilo o sporočilu</string>
   <string name="notification_channel_msg_name">Sporočilo</string>
   <string name="notification_channel_other_description">Obvestilo brez sporočila</string>
@@ -690,6 +692,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="pref_delivery_ringtone">Zvok dostave</string>
   <string name="pref_edit_smsc_address">Številka SMS centra</string>
   <string name="pref_forward_title">Posreduj</string>
+  <string name="pref_group_ad_mms_recognition">Združi reklamna sporočila</string>
   <string name="pref_hide_verification_code_summary">Samodejno skrij enkratna gesla in obvestila sporočil na zavarovanem zakl. zaslonu</string>
   <string name="pref_message_recovery_introduction_title">Obnova sporočil</string>
   <string name="pref_messages_to_save">Nastavi število sporočil za shranjevanje</string>
@@ -706,15 +709,17 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="pref_smart_messages_settings">Pametna sporočila</string>
   <string name="pref_sms_storage_title">Prostor za shranjevanje</string>
   <string name="pref_sms_theme_title">Nastavitve teme</string>
+  <string name="pref_summary_ad_mms_recognition">Nastavi reklamna sporočila v zaseben zavihek</string>
   <string name="pref_summary_allow_si_sl_push">Dovoli sporočilom branje spletnih strani</string>
   <string name="pref_summary_allow_upload_message_info">"Spam sporočila in informacije o pošiljatelju bodo poslani MIUI če jih prijavite."</string>
   <string name="pref_summary_auto_delete">Ko se doseže omejitev izbriši stara sporočila </string>
-  <string name="pref_summary_collapse_ad_notification">Pokaži vsa promocijska sporočila v zasebni mapi plošče obvestil</string>
-  <string name="pref_summary_collapse_ad_notification_mms">Pokaži vsa promocijska sporočila v zasebni kartici</string>
+  <string name="pref_summary_collapse_ad_notification">Pokaži vsa reklamna sporočila v zasebni mapi plošče obvestil</string>
+  <string name="pref_summary_collapse_ad_notification_mms">Pokaži vsa reklamna sporočila v zasebni kartici</string>
+  <string name="pref_summary_collapse_ad_notification_mms_new">Združi reklamna sporočila in jih označi kot nepomembna v Plošči obvestil</string>
   <string name="pref_summary_delete_limit">%1$s sporočil na pogovor</string>
   <string name="pref_summary_delivery_reports">Pokaži stanje dostave za vsako sporočilo ki ga pošljete</string>
   <string name="pref_summary_delivery_ringtone">Prejmi zvočna obvestila za dostavljena sporočila.</string>
-  <string name="pref_summary_enable_classify">Premesti promocijska in finančna sporočila na zasebne kartice</string>
+  <string name="pref_summary_enable_classify">Premesti reklamna in finančna sporočila na zasebne kartice</string>
   <string name="pref_summary_hide_festival">Skrij opravila kitajskega jezika, ko je sistem nastavljen na drug jezik.</string>
   <string name="pref_summary_manage_sim_messages">Urejaj sporočila shranjena na SIM kartici</string>
   <string name="pref_summary_mms_auto_retrieval">Samodejno prejmi MMS</string>
@@ -731,6 +736,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="pref_summary_wake_up_screen">Vključi zaslon vsakič ko je prejeto novo sporočilo</string>
   <string name="pref_switch_sdk_setting">Zamenjaj smart SMS storitev operaterja</string>
   <string name="pref_system_title">Sistem</string>
+  <string name="pref_title_ad_mms_recognition">Prepoznaj reklamna sporočila</string>
   <string name="pref_time_auto_group_disabled_summary">"Ni podprto v trenutni velikosti fontov"</string>
   <string name="pref_time_auto_group_summary">Skupinska sporočila po času</string>
   <string name="pref_time_auto_group_title">Skupinska sporočila</string>
@@ -739,7 +745,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="pref_title_allow_upload_message_info">Pošlji spam sporočila</string>
   <string name="pref_title_auto_delete">Izbriši stara sporočila</string>
   <string name="pref_title_card_format">Deli kartični format</string>
-  <string name="pref_title_collapse_ad_notification">Skupinska obvestila o promocijskih sporočilih</string>
+  <string name="pref_title_collapse_ad_notification">Skupinska obvestila o reklamnih sporočilih</string>
   <string name="pref_title_delivery_reports">Status dostave</string>
   <string name="pref_title_enable_classify">Samodejno združi sporočila</string>
   <string name="pref_title_festival_networking">Spletna povezava</string>
@@ -1115,7 +1121,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="system_permission_perm_send_mms">Poslati MMS</string>
   <string name="tab_finance">Finance</string>
   <string name="tab_message">Sporočila</string>
-  <string name="tab_promotions">Promocije</string>
+  <string name="tab_promotions">Reklame</string>
   <string name="text_in_popup_saved_to_clipboard">Urejevan tekst v pojavnem oknu je shranjen v odložišče</string>
   <string name="text_message">Sporočilo</string>
   <string name="thursday">Četrtek</string>

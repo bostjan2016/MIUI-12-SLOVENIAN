@@ -201,6 +201,7 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
   <string name="status_bar_in_casting">Predvajanje</string>
   <string name="status_bar_in_casting_long">Kliknite za razširitev dodatnih storitev</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="synergy_casting">"Ne morete predvajati ko je Screen Combo vključen"</string>
   <string name="tile_label">Predvajanje</string>
   <string name="toast_guide_show_more">Izvedite več</string>
   <string name="toast_guide_title">Raziščite nove storitve</string>

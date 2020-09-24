@@ -469,6 +469,10 @@ Vizitke stikov so izključene"</string>
   <string name="dialer_menu_title">Možnosti izbiranja</string>
   <string name="dialer_returnToInCallScreen">Vrni se na klic v teku</string>
   <string name="dialer_useDtmfDialpad">Uporabi tonsko tipkovnico</string>
+  <string name="dialog_delete_contact_button_delete">Izbriši</string>
+  <string name="dialog_delete_contact_button_keep">Obdrži</string>
+  <string name="dialog_delete_contact_content">Mi Cloud želi izbrisati nekatere vaše stike. Jih želite izbrisati?</string>
+  <string name="dialog_delete_contact_title">Brisanje stikov</string>
   <string name="dialog_device_info_hardware_version">Verzija strojne opreme: %s</string>
   <string name="dialog_device_info_miui_version">MIUI verzija: %s</string>
   <string name="dialog_device_info_title">Informacija o verziji</string>
@@ -1045,6 +1049,8 @@ Napravite varnostno kopijo stikov."</string>
   <string name="not_applied">"Ne morem uporabiti"</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="notification_action_voicemail_play">Predvajaj</string>
+  <string name="notification_click_detail">Tapnite za prikaz podrobnosti</string>
+  <string name="notification_micloudsync_delete_contact">Mi Cloud želi izbrisati nekatere vaše stike</string>
   <string name="notification_new_voicemail_ticker">Nova glasovna pošta od %1$s</string>
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="openDialKeyboard">Številčnica</string>

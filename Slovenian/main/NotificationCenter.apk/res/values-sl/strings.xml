@@ -180,10 +180,10 @@
   <string name="not_sent_recently">Nedavno</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="notch_and_status_bar_setting">Center za kontrolo &amp; vrstica obvestil</string>
-  <string name="notification_aggregate_description1">MIUI lahko samodejno združi potisna in promocijska obvestila, zaradi česar je plošča z obvestili manj utesnjena.</string>
+  <string name="notification_aggregate_description1">MIUI lahko samodejno združi potisna in reklamna obvestila, zaradi česar je plošča z obvestili manj utesnjena.</string>
   <string name="notification_aggregate_description2">"Naši algoritmi analizirajo vsebino obvestil in ne uporabljajo te funkcije pri pomembnih opozorilih in obvestilih iz hitrih sporočil. Če ugotovite, da so pomembna obvestila združena narobe prijavite težavo na katero ste naleteli z uporabo \ "Povratne informacije \". "</string>
   <string name="notification_aggregate_summary">Dovolite MIUI da samodejno združi obvestila</string>
-  <string name="notification_aggregate_summary_inner">Samodejno vključi skupinska push in promocijska obvestila</string>
+  <string name="notification_aggregate_summary_inner">Samodejno vključi skupinska push in reklamna obvestila</string>
   <string name="notification_aggregate_title">Skupinska obvestila</string>
   <string name="notification_display_setting">Plošča obvestil</string>
   <string name="notification_display_style">Stil obvestil</string>

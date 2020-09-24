@@ -72,7 +72,7 @@
   <string name="action_settings">Nastavitve</string>
   <string name="ad_close">Zapri</string>
   <string name="ad_data_exception">Napaka podatkov v oglasu</string>
-  <string name="ad_extension">Promocija</string>
+  <string name="ad_extension">Reklama</string>
   <string name="ad_mark">Oglas</string>
   <string name="ad_recommend">Priporočila</string>
   <string name="ad_setting">Dodatne nastavitve</string>
@@ -866,7 +866,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="notification_need_wifi_for_size">Potreben WiFi za velikost prenosa</string>
   <string name="notification_play_summary">Pregled trenutne in naslednje pesmi, pokaži besedilo na zač. zaslonu</string>
   <string name="notification_play_title">Pripomoček v plošči obvestil</string>
-  <string name="notification_recommend_summary">Izvedite več o novih glasbenih trendih in promocijah aplikacij</string>
+  <string name="notification_recommend_summary">Izvedite več o novih glasbenih trendih in reklamnih aplikacij</string>
   <string name="notification_recommend_title">Pomembna obvestila</string>
   <string name="notification_setting">Nastavitve obvestil</string>
   <string name="nowplaying_circle_style">Stil kroga "Predvaja se"</string>
