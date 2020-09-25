@@ -80,16 +80,20 @@
         <item quantity="other">pred %s ur</item>
         <item quantity="one">pred %s uro</item>
      </plurals>
-	<plurals name="provision_sync_items_status_title">
+     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s storitev bo sinhronizirano z Mi Cloudom</item>
         <item quantity="one">%s storitev bo sinhronizirana z Mi Cloudom</item>
     </plurals>
-	<plurals name="select_no_more_than">
+    <plurals name="select_no_more_than">
         <item quantity="other">"Ne morete izbrati več kot %d stvari"</item>
         <item quantity="one">"Ne morete izbrati več kot %d stvar"</item>
     </plurals>
-        <plurals name="dirty_wlan_count_china">
+    <plurals name="dirty_wlan_count_china">
         <item quantity="other">%d WiFi omrežij</item>
         <item quantity="one">%d WiFi omrežje</item>
+     </plurals>
+     <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">"Ne morem sinhronizirati stvari: %s"</item>
+        <item quantity="one">"Ne morem sinhronizirati %s stvar"</item>
      </plurals>
 </resources>

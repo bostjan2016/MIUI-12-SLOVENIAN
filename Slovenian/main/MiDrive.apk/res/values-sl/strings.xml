@@ -540,10 +540,13 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="service_error">Napaka strežnika</string>
   <string name="set_success">Menjava uspešna</string>
   <string name="setting_clear_cache">Očisti predpomnilnik</string>
+  <string name="setting_create_shortcut">Bližnjica zač. zaslona</string>
   <string name="setting_default_download_dir">Privzeta lokacija za prenose</string>
   <string name="setting_default_download_dir_title">Izberite privzeto lokacijo za prenose</string>
   <string name="setting_no_download_path">Najprej izberite privzeto lokacijo za prenose</string>
   <string name="setting_title">Nastavitve</string>
+  <string name="shortcut_dialog_confirm">Napravi</string>
+  <string name="shortcut_dialog_content">Napravim bližnjico zač. zaslona za Mi Drive?</string>
   <string name="sign_in">Prijavi se</string>
   <string name="sign_in_progress">Prijava…</string>
   <string name="sign_in_title">Prijavite se z Mi Računom</string>
@@ -581,6 +584,8 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="ticket_hint">Kontrolna koda</string>
   <string name="ticket_invalid">Vnešena koda ni točna</string>
   <string name="ticket_sign_in">Prijavite se preko SMS-a</string>
+  <string name="tip_shortcut_added_success">Uspešno napravljeno</string>
+  <string name="tip_shortcut_already_added">Bližnjica zač. zaslona že obstaja</string>
   <string name="tools">Orodja</string>
   <string name="trans_mobile_network_message">Uporaba mobilnih podatkov za prenos datotek bo porabila veliko podatkov, ali ste prepričani da želite nadaljevati?</string>
   <string name="trans_task">Omrežni prenos</string>

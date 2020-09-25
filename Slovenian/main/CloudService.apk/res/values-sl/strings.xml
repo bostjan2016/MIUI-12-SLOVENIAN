@@ -97,6 +97,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="cloud_storage_loading_data">Samo trenutek…</string>
   <string name="cloud_storage_manage_title">Urejajte Cloud prostor</string>
   <string name="cloud_storage_no_data">V Cloudu ni ničesar</string>
+  <string name="cloud_space_full_gallery_notification_content_text">Nadgradite svoj plan da boste dobili več cloud prostora za shranjevanje</string>
   <string name="cloudservice_new_sync">Sinhr. %s z Mi Cloudom</string>
   <string name="cmcc_micloud_dspt">Uporabite Mi Cloud za sinhronizacijo podatkov in lociranje naprave.</string>
   <string name="confirm_delete">Izbriši</string>
@@ -107,6 +108,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="connect_wlan_china">Povežite se preko WiFi</string>
   <string name="contact">Stiki</string>
   <string name="copy">Kopiraj</string>
+  <string name="cta_notification_content_text">Dovolite %s povezovanje s spletom da boste lahko vrnili stvari</string>
+  <string name="cta_notification_content_title">"Ne morem vrniti stvari iz %s"</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Ta račun se uporablja tudi v drugi napravi. Združim stvari iz več aplikacij (vključno %1$s in %2$s) s stvarmi v tej napravi?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_one">Ta račun se uporablja tudi v drugi napravi. Združim stvari iz %s s stvarmi v tej napravi?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_two">Ta račun se uporablja tudi v drugi napravi. Združim stvari iz %1$s in %2$s s stvarmi v tej napravi?</string>
@@ -431,6 +434,11 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   <string name="micloud_manual_pausing">Sinhr. pavzirana</string>
   <string name="micloud_manual_pending">Na čakanju</string>
   <string name="micloud_manual_reactivate">Aktiviraj ponovno</string>
+  <string name="micloud_manual_request_permission_cancel">Prekliči</string>
+  <string name="micloud_manual_request_permission_confirm">Nastavitve</string>
+  <string name="micloud_manual_request_permission_content">Da boste lahko uporabljali naše storitve, dajte Mi Cloudu dovoljenja v nastavitvah \"%s\".</string>
+  <string name="micloud_manual_request_permission_content_on_provision">Najprej dajte potrebna dovoljenja v aplikaciji varnost</string>
+  <string name="micloud_manual_request_permission_title">Potrebno je dovoljenje</string>
   <string name="micloud_manual_sync_all">Sinhr vse stvari.</string>
   <string name="micloud_manual_sync_now">Sinhr.</string>
   <string name="micloud_manual_sync_now_retry">Poskusi ponovno</string>

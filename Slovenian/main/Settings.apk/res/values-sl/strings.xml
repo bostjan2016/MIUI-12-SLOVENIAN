@@ -2188,7 +2188,7 @@ Začnite z napolnjeno baterijo in telefon mora biti priključen ves čas.
   <string name="cutout_mode_always">Zmeraj pokaži</string>
   <string name="cutout_mode_default">Samod.</string>
   <string name="cutout_mode_settings_title">Nekatere aplikacije se lahko prikažejo napačno če prilagodite način prikaza zoba.</string>
-  <string name="cutout_mode_title">Zob v posameznih aplikacih</string>
+  <string name="cutout_mode_title">Zob v posameznih aplikacijah</string>
   <string name="cutout_type_desc">Vključite za poravnavanje krivulj zoba</string>
   <string name="cutout_type_title">Prilagodite obliko zoba</string>
   <string name="daltonizer_mode_deuteranomaly">Devteranomalija (rdeča – zelena)</string>
@@ -7556,7 +7556,7 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
   <string name="sharing_remote_bugreport_dialog_message">To poročilo o programski napaki je v skupni rabi z vašim IT skrbnikom. Več podrobnisti lahko izveste od skrbnika.</string>
     <string name="short_summary_font_size">Pomanjšava ali povečava besedila</string>
     <string name="show_all_anrs">Pokaži ANR-je v ozadju</string>
-  <string name="show_all_anrs_summary">Pokaži dijalog \"Aplikacija se ne odziva\" za aplikacije v ozadju</string>
+  <string name="show_all_anrs_summary">Pokaži dialog \"Aplikacija se ne odziva\" za aplikacije v ozadju</string>
     <string name="show_all_apps">Prikaz vseh podatkov o uporabi naprave</string>
   <string name="show_background_processes">Pokaži predpom. procese</string>
   <string name="show_carrier_under_keyguard_title">Pokaži ime operaterja ko je naprava zaklenjena</string>
