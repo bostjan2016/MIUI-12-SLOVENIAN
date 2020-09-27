@@ -175,6 +175,7 @@ Izbor"</string>
     <string name="cb_error_channel_id_exist">ID kanala že obstaja.</string>
     <string name="cb_error_channel_name">Dolžina imena kanala ni pravilna (1-10 znakov).</string>
     <string name="cb_error_channel_num">Vnesite številko kanala(0-65534).</string>
+    <string name="cb_list_activity_title">Opozorila o nujnih primerih</string>
     <string name="cb_menu_add_channel">Dodaj kanal</string>
     <string name="cb_menu_channel_list">Seznam kanalov</string>
     <string name="cb_menu_delete">Izbriši Nujna opozorila</string>
@@ -182,13 +183,12 @@ Izbor"</string>
     <string name="cb_menu_tile">Operacija kanala</string>
     <string name="cb_other_message_identifiers">Predvajana sporočila</string>
     <string name="cell_broadcast_setting">Nastavitve nujnih opozoril</string>
-    <string name="channel_list">Seznam kanalov</string>
-    <string name="close_dialog">V redu</string>
-    <string name="cb_list_activity_title">Opozorila o nujnih primerih</string>
     <string name="cell_broadcast_settings_not_available">Nastavitve sporočil o trenutni lokaciji niso na voljo za tega uporabnika</string>
+    <string name="channel_list">Seznam kanalov</string>
     <string name="charge_length_format">Pred %1$s</string>
     <string name="choose_profile">Izbira profila</string>
     <string name="clear_adb_keys">Preklic dovoljenj za odpr. težav preko USB</string>
+    <string name="close_dialog">V redu</string>
     <string name="cmas_amber_alert">Ugrabitev otroka (oranžno opozorilo)</string>
     <string name="cmas_category_cbrne">Kemična/biološka/jedrska/eksploziv</string>
     <string name="cmas_category_env">Okoljska</string>
@@ -292,7 +292,7 @@ Izbor"</string>
     <string name="done_text">Končano</string>
     <string name="emergency_alert">Opozorilo v sili</string>
     <string name="emergency_alert_history_title">Zgodovina nujnih opozoril</string>
-	<string name="emergency_alert_settings_title">Nastavitve nujnih obvestil</string>
+    <string name="emergency_alert_settings_title">Nastavitve nujnih obvestil</string>
     <string name="emergency_alert_settings_title_watches">Brezžična nujna opozorila</string>
     <string name="emergency_alerts_title">Opozorila</string>
     <string name="enable">Omogoči</string>
@@ -319,9 +319,9 @@ Izbor"</string>
     <string name="enable_cmas_test_alerts_summary">Prejmite besedila sistema varnostnih opozoril</string>
     <string name="enable_cmas_test_alerts_title">Obvezni mesečni test</string>
     <string name="enable_emergency_alerts_message_summary">Opozorila o dogodkih nevarnih za življenje</string>
+    <string name="enable_emergency_alerts_message_title">Nujna opozorila</string>
     <string name="enable_emergency_alerts_summary">Pokaži predvajanje nujnih obvestil</string>
     <string name="enable_emergency_alerts_title">Vključi obvestila</string>
-    <string name="enable_emergency_alerts_message_title">Nujna opozorila</string>
     <string name="enable_etws_test_alerts_summary">Preskusne oddaje sistema za opozarjanje na potrese in cunamije</string>
     <string name="enable_etws_test_alerts_title">Preskusne oddaje ETWS</string>
     <string name="enable_freeform_support">Omogočanje oken svobodne oblike</string>
@@ -336,6 +336,8 @@ Izbor"</string>
     <string name="enable_terminal_summary">Omogočanje terminalske aplikacije za dostop do lokalne lupine</string>
     <string name="enable_terminal_title">Lokalni terminal</string>
     <string name="enabled_by_admin">Omogočil skrbnik</string>
+    <string name="error_finish_dialog_title">Napaka omrežja ali SIM kartice.</string>
+    <string name="error_updating_title">Napaka v nastavitvah klicev</string>
     <string name="etws_earthquake_and_tsunami_warning">Opozorilo o potresu in cunamiju</string>
     <string name="etws_earthquake_warning">Opozorilo o potresu</string>
     <string name="etws_other_emergency_type">Opozorilo v sili</string>
@@ -344,8 +346,6 @@ Izbor"</string>
     <string name="expand_button_title">Dodatno</string>
     <string name="external_source_trusted">Dovoljene</string>
     <string name="external_source_untrusted">Ni dovoljeno</string>
-    <string name="error_finish_dialog_title">Napaka omrežja ali SIM kartice.</string>
-    <string name="error_updating_title">Napaka v nastavitvah klicev</string>
     <string name="failed_to_open_app_settings_toast">Ne morem odpreti nastavitev za %1$s</string>
     <string name="force_allow_on_external">Vsili omogočanje aplikacij v zunanji shrambi</string>
     <string name="force_allow_on_external_summary">Poskrbi, da je ne glede na vrednosti v manifestu mogoče vsako aplikacijo zapisati v zunanjo shrambo</string>
@@ -387,9 +387,9 @@ Izbor"</string>
     <string name="media_transfer_this_device_name">Ta naprava</string>
     <string name="menu_delete">Izbriši oddajo</string>
     <string name="menu_delete_all">Izbriši oddaje</string>
+    <string name="menu_preferences">Nastavitve</string>
     <string name="menu_view_details">Ogled podrobnosti</string>
     <string name="message_options">Možnosti sporočila</string>
-    <string name="menu_preferences">Nastavitve</string>
     <string name="mobile_data_always_on">Prenos podatkov v mobilnem omrežju je vedno aktiven</string>
     <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava WiFi (za hiter preklop med omrežji).</string>
     <string name="mock_location_app">Izberite aplikacijo za simulirano lokacijo</string>

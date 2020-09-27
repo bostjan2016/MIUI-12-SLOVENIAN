@@ -9,7 +9,7 @@
         <item>A</item>
         <item>B</item>
         <item>C</item>
-		<item>Č</item>
+	<item>Č</item>
         <item>D</item>
         <item>E</item>
         <item>F</item>
@@ -252,7 +252,7 @@
         <item>法</item>
     </string-array>
     <string-array name="playback_streaming_quality">
-        <item>Samod</item>
+        <item>Samod.</item>
         <item>Nizko</item>
         <item>Srednje</item>
         <item>Visoko</item>

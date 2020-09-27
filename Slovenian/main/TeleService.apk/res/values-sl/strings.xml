@@ -1723,10 +1723,10 @@ Kontaktirajte vašega operaterja."</string>
   <string name="not_supported_number_content">"Paket doplačila ne podpira številke storitev. Namesto tega uporabite navadno SIM za klicanje. Stroški klica so vaš problem."</string>
   <string name="not_supported_number_content_title">Ni podprto</string>
   <string name="not_voice_capable">Glasovno klicanje ni podprto</string>
+  <string name="notification_action_end_call">Prekini povezavo</string>
   <string name="notification_channel_demo">Demo naprava</string>
   <string name="notification_demo_version_text">"Ne morem klicati niti uporabljati mobilne podatke"</string>
   <string name="notification_demo_version_title">To je demo naprava</string>
-  <string name="notification_action_end_call">Prekini povezavo</string>
   <string name="notification_dialing">Izbiranje številke</string>
   <string name="notification_incoming_call">Dohodni klic</string>
   <string name="notification_missedCallTicker">Zgrešen klic od %s</string>
@@ -1873,9 +1873,9 @@ Poskusite ponovno ali pokličite podporo"</string>
   <string name="phone_in_ecm_call_notification_text">Podatkovna povezava je izklopljena</string>
   <string name="phone_in_ecm_notification_complete_time">Ni podatkovne povezave do %s</string>
   <string name="phone_in_ecm_notification_title">Način za povratni klic v sili</string>
-  <string name="phone_report_title">Preberi informacije o dohodnem klicu</string>
   <string name="phone_number_hint_text">Telefonska številka</string>
   <string name="phone_numbers">Vnesi telefonsko številko</string>
+  <string name="phone_report_title">Preberi informacije o dohodnem klicu</string>
   <string name="pick_outgoing_call_phone_type">Vzpostavi klic</string>
   <string name="pick_outgoing_sip_phone">Uporabi spletni klicni račun</string>
   <string name="picture_color_mode">Način barve slike</string>
@@ -2066,8 +2066,8 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="puk2_label">Vnesi PUK2 kodo</string>
   <string name="puk2_requested">Geslo je napačno. Kartica SIM je zaklenjena. Vnesite kodo PUK 2.</string>
   <string name="puk_label">Vnesi PUK kodo</string>
-  <string name="puk_lock_warning">
-Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
+  <string name="puk_lock_warning">"
+Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu."</string>
   <string name="puk_requested">Geslo je nepravilno, PIN je bil blokiran. Zahtevan PUK.</string>
   <string name="puk_unlock_failed">Neuspešno odklepanje PUK</string>
   <string name="puk_unlock_success">Uspešno odklepanje PUK</string>
@@ -2744,14 +2744,14 @@ Klici se zaračunajo glede na vaše nastavitve.
 Če izberete prednostno mobilno omrežje se bo privzeto uporabilo za telefonske klice. Če bo omrežje slabo se bo uporabilo WiFi omrežje."</string>
   <string name="wifi_call_help_title">WiFi klic v sili</string>
   <string name="wifi_call_notification_message">"Storitev ponuja Orange. Aktiviranje lahko traja več ur. Na koncu boste dobili SMS potrdilo."</string>
+  <string name="wifi_call_preferred_summary">"Če izberete mobilno omrežje se bo privzeto uporabilo za telefonske klice. Če bo omrežje slabo se bo uporabilo WiFi omrežje."</string>
   <string name="wifi_call_setting">Nastavitve WiFi klica</string>
-  <string name="wifi_call_preferred_summary">"Će izberete mobilno omrežje se bo privzeto uporabilo za telefonske klice. Če bo omrežje slabo se bo uporabilo WiFi omrežje."</string>
   <string name="wifi_call_setting_vodafone_de">WiFi klicanje</string>
   <string name="wifi_call_setting_vodafone_uk">WiFi klic</string>
   <string name="wifi_call_welcome_settings">WiFi klici</string>
   <string name="wifi_calling">WiFi klici</string>
   <string name="wifi_calling_call_assistant">Asistent klicev</string>
-  <string name="wifi_calling_call_assistant_configure">Konfiguriraj</string>
+  <string name="wifi_calling_call_assistant_configure">Nastavi</string>
   <string name="wifi_calling_call_assistant_configure_no_selection">Asistent klicev izključen</string>
   <string name="wifi_calling_call_assistant_none">Nič</string>
   <string name="wifi_calling_do_not_use">Ne uporabljajte WiFi klica</string>

@@ -398,7 +398,7 @@ Za dodajanje pritisnite in držite mapo ali tapnite \"Več\"."</string>
     <string name="not_support_documentui">DocumentUI ni podprt na tej napravi</string>
     <string name="notif_server_starting">Zaganjam FTP strežnik…</string>
     <string name="notif_title">FTP strežnik zagnan</string>
-	<string name="notification_dialog_title">Obvestila</string>
+    <string name="notification_dialog_title">Obvestila</string>
     <string name="notification_wechat_expired_empty">WeChat je že izbrisal te videoposnetke.</string>
     <string name="ok">V redu</string>
     <string name="online_not_support">Te datoteke trenutno ni mogoče prikazati.</string>

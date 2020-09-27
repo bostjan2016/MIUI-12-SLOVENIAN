@@ -82,6 +82,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="cloud_find_device_on">Vključeno</string>
   <string name="cloud_lab_title">Cloud Lab</string>
   <string name="cloud_restore_title">Obnovi iz var. kopije</string>
+  <string name="cloud_space_full_gallery_notification_content_text">Nadgradite svoj plan da boste dobili več cloud prostora za shranjevanje</string>
   <string name="cloud_space_upgrade_message">Tapni za dodajanje %s GB na tvoj oblak.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Ne morem pridobiti informacij o prostoru za shranjevanje"</string>
   <string name="cloud_space_upgrade_title">Več prostora na Mi Cloud</string>
@@ -97,7 +98,6 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="cloud_storage_loading_data">Samo trenutek…</string>
   <string name="cloud_storage_manage_title">Urejajte Cloud prostor</string>
   <string name="cloud_storage_no_data">V Cloudu ni ničesar</string>
-  <string name="cloud_space_full_gallery_notification_content_text">Nadgradite svoj plan da boste dobili več cloud prostora za shranjevanje</string>
   <string name="cloudservice_new_sync">Sinhr. %s z Mi Cloudom</string>
   <string name="cmcc_micloud_dspt">Uporabite Mi Cloud za sinhronizacijo podatkov in lociranje naprave.</string>
   <string name="confirm_delete">Izbriši</string>
@@ -178,16 +178,15 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="find_device_service_summary">"Locirajte vašo napravo in jo zaklenite na daljavo če jo slučajno izgubite."</string>
   <string name="find_device_service_summary_international">"Locirajte vašo napravo in jo zaklenite na daljavo če jo slučajno izgubite."</string>
   <string name="find_device_service_title">Najdi napravo</string>
+  <string name="find_device_status_ok">Najdite svojo napravo na i.mi.com</string>
+  <string name="find_device_status_ok_international">Najdite svojo napravo na www.mi.com/micloud</string>
   <string name="find_device_status_summary">Locirajte in zaklenite napravo, kot tudi daljinsko izbrišite podatke</string>
   <string name="find_device_status_title_pad">Najdi napravo</string>
   <string name="find_device_status_title_phone">Najdi napravo</string>
-  <string name="find_device_status_ok">Najdite svojo napravo na i.mi.com</string>
-  <string name="find_device_status_ok_international">Najdite svojo napravo na www.mi.com/micloud</string>
   <string name="find_device_success_title">Najdi napravo</string>
   <string name="finddevice_miservice_notification_content">"Zaklenite svojo napravo na daljavo če jo izgubite"</string>
   <string name="finddevice_miservice_notification_title">Vključi Najdi napravo</string>
   <string name="forget_password">Pozabljeno geslo</string>
-  <string name="help_and_feedback">Pomoč in povratne inf.</string>
   <string name="free_space_has_received">Ta mesec ste že dodali zastonjski prostor</string>
   <string name="free_space_receive_fail">"Nadgradnja ni mogoča"</string>
   <string name="get_first_month_gb">Pridobi %s brezplačnega prostora</string>
@@ -200,6 +199,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="header_cloud_restore_summary">Ponovno namesti aplikacije in obnovi videz zač. zaslona in nastavitve sistema iz var. kopije na Mi Cloudu</string>
   <string name="header_data_and_synchronization">Podatki &amp; sinhronizacija</string>
   <string name="header_find_device_settings">Najdi napravo</string>
+  <string name="help_and_feedback">Pomoč in povratne inf.</string>
   <string name="hybrid_check_network">Omrežne nastavitve</string>
   <string name="hybrid_data_error">Prišlo je do napake</string>
   <string name="hybrid_network_access_denied">Dostop do omrežja je zavrnjen</string>
@@ -233,9 +233,9 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="last_sync_time_yesterday">Včeraj</string>
   <string name="license_host_unreachable">"Povezave ni mogoče vzpostaviti. Da boste lahko videli podatke pojdite na %s."</string>
   <string name="loading">Samo trenutek…</string>
+  <string name="loading_hint">Samo trenutek</string>
   <string name="low_battery_locate_summary">Samodejno prijavi podatke o lokaciji ko je baterija slaba</string>
   <string name="low_battery_locate_title">Prijavi lokacijo ko je baterija slaba</string>
-  <string name="loading_hint">Samo trenutek</string>
   <string name="master_alert_notif_content">"Redno delajte varnostne kopije da ne izgubite ničesar važnega"</string>
   <string name="master_alert_notif_dspt_add">Za sinhr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinhronizirano</string>
@@ -321,8 +321,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_detail_fail">"Ne morem sinhr."</string>
   <string name="micloud_detail_not_syncable">Ne morem sinhronizirati</string>
   <string name="micloud_detail_query_error">"Ne morem dobiti statusa sinhronizacije"</string>
-  <string name="micloud_dspt">Sinhronizirajte stike, sporočila, zgodovino klicev in druge stvari na vseh napravah.
-Najdite in zaklenite napravo, če se izgubi.</string>
+  <string name="micloud_dspt">"Sinhronizirajte stike, sporočila, zgodovino klicev in druge stvari na vseh napravah.
+Najdite in zaklenite napravo, če se izgubi."</string>
   <string name="micloud_dspt_provision">Uporabi Mi Cloud za sinhronizacijo podatkov, iskanje naprave in skupno rabo stvari s prijatelji.</string>
   <string name="micloud_dspt_provision_china">Uporabi Mi Cloud za sinhronizacijo podatkov, iskanje naprave in skupno rabo stvari s prijatelji.</string>
   <string name="micloud_dspt_provision_xms">Uporabi Mi Cloud za sinhronizacijo podatkov.</string>
@@ -340,9 +340,9 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   <string name="micloud_find_device_guide_alert_positive">V redu</string>
   <string name="micloud_find_device_guide_alert_title">Zapomnite si svoj ID Mi Računa in geslo</string>
   <string name="micloud_find_device_guide_button">Vključi Najdi napravo</string>
+  <string name="micloud_find_device_guide_content">Poslano SMS sporočilo bo morda potrbno za aktiviranje te storitve. Vaš operater vam to lahko računa. Če zamenjate SIM kartico bo samodejno poslano sporočilo za ponovno aktivacijo.</string>
   <string name="micloud_find_device_guide_desc_pad">Če je vaša naprava izgubljena se prijavite v &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; v kateri koli drugi napravi za iskanje, oddaljeno zaklepanje ali brisanje podatkov na izgubljeni napravi. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Prikaz podrobnosti&lt;/a&gt;.</string>
   <string name="micloud_find_device_guide_desc_phone">Če je vaša naprava izgubljena se prijavite v &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; v kateri koli drugi napravi za iskanje, oddaljeno zaklepanje ali brisanje podatkov na izgubljeni napravi. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Prikaz podrobnosti&lt;/a&gt;.</string>
-  <string name="micloud_find_device_guide_content">Poslano SMS sporočilo bo morda potrbno za aktiviranje te storitve. Vaš operater vam to lahko računa. Če zamenjate SIM kartico bo samodejno poslano sporočilo za ponovno aktivacijo.</string>
   <string name="micloud_find_device_guide_fail_reopen">Vključi Najdi napravo na Mi Cloudu</string>
   <string name="micloud_find_device_guide_fail_sub_net">Preverite povezavo in poskusite ponovno.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Povezava je potekla. Poskusite kasneje.</string>
@@ -580,6 +580,9 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   <string name="micloud_wipe_data_confirm_title">Nekatere stvari iz naslednjih aplikacij so sinhronizirane s Mi Cloudom. Lahko jih izbrišete iz naprave in obdržite v Mi Cloudu.</string>
   <string name="micloud_wipe_data_remove">Odstrani</string>
   <string name="micloud_wipe_data_retain">Obdrži</string>
+  <string name="microsoft_cloud">Microsoft Cloud Service</string>
+  <string name="microsoft_cloud_eng">One Drive</string>
+  <string name="microsoft_cloud_price">Okoli 80 RMB letno</string>
   <string name="midrive_guide1_desc">Napravite var. kopijo stvari v cloud da boste osvobodili prostor za shranjevanje v napravi.</string>
   <string name="midrive_guide1_title">Varne var. kopije</string>
   <string name="midrive_guide2_desc">Prenesite stvari po hitrosti prenosa.</string>
@@ -589,9 +592,6 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   <string name="midrive_guide_btn_install">Namesti Mi Drive</string>
   <string name="midrive_guide_btn_installed">Odpri Mi Drive</string>
   <string name="midrive_guide_btn_installing">Nameščanje…</string>
-  <string name="microsoft_cloud">Microsoft Cloud Service</string>
-  <string name="microsoft_cloud_eng">One Drive</string>
-  <string name="microsoft_cloud_price">Okoli 80 RMB letno</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>

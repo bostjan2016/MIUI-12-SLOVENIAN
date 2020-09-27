@@ -155,8 +155,8 @@
   <string name="autologin_bar_hide_text">Skrij</string>
   <string name="autologin_bar_login_text">Vpis</string>
   <string name="autologin_bar_text">Vpiši se kot</string>
-  <string name="back_description">Nazaj</string>
   <string name="back_button_label">Nazaj</string>
+  <string name="back_description">Nazaj</string>
   <string name="block">Blokiraj</string>
   <string name="block_ads_choice_block">Blokiraj</string>
   <string name="block_ads_choice_continue">Nadaljuj</string>
@@ -422,7 +422,8 @@ Strani ki jih obiščete ne bodo v zgodovini.​"</string>
   <string name="empty_app_name">Druga aplikacija</string>
   <string name="empty_bookmark">Prazno</string>
   <string name="empty_cloud_tab_login_hint">Ni cloud kartic</string>
-  <string name="empty_cloud_tab_logout_hint">"Prijavite se v svoj Mi Račun\nu da vidite odprte kartice na drugih napravah."</string>
+  <string name="empty_cloud_tab_logout_hint">"Prijavite se v svoj Mi Račun
+ da vidite odprte zaznamke na drugih napravah."</string>
   <string name="empty_history_hint">Prazno</string>
   <string name="empty_snapshot_hint">Prazno</string>
   <string name="enable_geolocation_confirm_message">Izklop te storitve lahko povzroči slabo obnašanje nekaterih spletnih strani.</string>
@@ -790,8 +791,8 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="more_option">Več možnosti</string>
   <string name="morning">Jutro</string>
   <string name="movie_player_3g_tip_retry">Nadaljuj</string>
-  <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="movie_player_loading">Kmalu prihaja: %s</string>
+  <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="mw_abc_action_bar_home_description">Na začetno</string>
   <string name="mw_abc_action_bar_up_description">Gor</string>
   <string name="mw_abc_action_menu_overflow_description">Dodatne možnosti</string>
@@ -943,12 +944,12 @@ Zapustim to stran?"</string>
   <string name="mw_login_dialog_title">Potrebna avtentikacija</string>
   <string name="mw_login_dialog_username_field">Ime uporabnika:</string>
   <string name="mw_low_memory_error">Ne morem dokončati zaradi premalo prostora</string>
-  <string name="mw_menu_refresh">Osveži</string>
   <string name="mw_media_player_error_button">V redu</string>
   <string name="mw_media_player_error_text_invalid_progressive_playback">Videoposnetek ni v redu.</string>
   <string name="mw_media_player_error_text_unknown">Ne morem predvajati videoposnetka.</string>
   <string name="mw_media_player_error_title">Ne morem predvajati videoposnetka</string>
   <string name="mw_media_player_loading_video">Nalaganje videa</string>
+  <string name="mw_menu_refresh">Osveži</string>
   <string name="mw_miui_content_copy">Kopiraj</string>
   <string name="mw_miui_content_cut">Obreži</string>
   <string name="mw_miui_content_extent_select">Izberi več</string>
@@ -1204,9 +1205,9 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="mw_time_picker_dialog_pm">PM</string>
   <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="mw_time_picker_dialog_title">Nastavite čas</string>
-  <string name="mw_url_copied">Povezava je kopirana.</string>
   <string name="mw_title_bar_loading">Nalaganje…</string>
   <string name="mw_updating_chrome">Posodabljanje Chrome…</string>
+  <string name="mw_url_copied">Povezava je kopirana.</string>
   <string name="mw_video_buffering_percent">"Nalaganje "</string>
   <string name="mw_video_float_window">Pop-up</string>
   <string name="mw_video_float_window_playing">Predvajanje videoposnetka</string>
