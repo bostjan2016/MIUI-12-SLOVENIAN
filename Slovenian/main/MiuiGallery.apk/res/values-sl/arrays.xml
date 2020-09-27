@@ -3,7 +3,7 @@
     <string-array name="activities_title">
         <item>Poseben dan</item>
         <item>Dan za zapomnit</item>
-        <item>Vibrant trenutki</item>
+        <item>Živahni trenutki</item>
     </string-array>
     <string-array name="slideshow_time_entries">
         <item>"5 minut"</item>
@@ -16,6 +16,29 @@
         <item>Deček</item>
         <item>Deklica</item>
     </string-array>
+	 <string-array name="card_last_week_day">
+        <item>Zadnji ponedeljek</item>
+        <item>Zadnji torek</item>
+        <item>Zadnja sreda</item>
+        <item>Zadnji četrtek</item>
+        <item>Zadnji petek</item>
+     </string-array>
+	  <string-array name="holiday_last_year">
+        <item>"Zadnje Novo leto"</item>
+        <item>"Zadnje Valentinovo"</item>
+        <item>Zadnji Dan dela</item>
+        <item>"Zadnji Otroški dan"</item>
+        <item>Zadnji Dan državnosti</item>
+        <item>Zadnji Božič</item>
+     </string-array>
+	 <string-array name="holiday_past_year">
+        <item>"Novoletni dan skozi leta"</item>
+        <item>"Valentinovo skozi leta"</item>
+        <item>Dan dela skozi leta</item>
+        <item>"Otroški dan skozi leta"</item>
+        <item>Dan državnosti skozi leta</item>
+        <item>Božič skozi leta</item>
+     </string-array>
 	<string-array name="last_week_baby_title">
         <item>Čas za igro</item>
         <item>"Otroški vikend"</item>
@@ -104,19 +127,48 @@
         <item>Zima</item>
     </string-array>
 	<string-array name="last_month">
-         <item>Januar</item>
-         <item>Februar</item>
-         <item>Marec</item>
-         <item>April</item>
-         <item>Maj</item>
-         <item>Junij</item>
-         <item>Julij</item>
-         <item>Avgust</item>
-         <item>September</item>
-         <item>Oktober</item>
-         <item>November</item>
-         <item>December</item>
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>Marec</item>
+        <item>April</item>
+        <item>Maj</item>
+        <item>Junij</item>
+        <item>Julij</item>
+        <item>Avgust</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>December</item>
+     </string-array>
+	<string-array name="month_last_year">
+         <item>Zadnji Januar</item>
+         <item>Zadnji Februar</item>
+         <item>Zadnji Marec</item>
+         <item>Zadnji April</item>
+         <item>Zadnji Maj</item>
+         <item>Zadnji Junij</item>
+         <item>Zadnji Julij</item>
+         <item>Zadnji Avgust</item>
+         <item>Zadnji September</item>
+         <item>Zadnji Oktober</item>
+         <item>Zadnji November</item>
+         <item>Zadnji December</item>
     </string-array>
+	 <string-array name="relation_with_me_value">
+        <item>jaz</item>
+        <item>otrok</item>
+        <item>družina</item>
+        <item>sodelavci</item>
+        <item>sošolci</item>
+        <item>prijatelji</item>
+        <item>neznano</item>
+     </string-array>
+	  <string-array name="season_last_year">
+        <item>Zadnja spomlad</item>
+        <item>Zadnje poletje</item>
+        <item>Zadnja jesen</item>
+        <item>Zadnja zima</item>
+     </string-array>
 	<string-array name="three_month_baby_title">
         <item>Tako hitro rastejo</item>
         <item>"Otroške fotografije"</item>
