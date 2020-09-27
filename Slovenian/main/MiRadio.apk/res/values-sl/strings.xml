@@ -111,6 +111,7 @@
   <string name="all_tracks">Vse pesmi</string>
   <string name="already_download">Prenos…</string>
   <string name="already_favorited">Že označeno</string>
+     <string name="and"> in </string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s prenosov</string>
   <string name="app_label">Prenosi</string>
@@ -242,8 +243,8 @@
   <string name="date_format_str">dd-MM-yyyy</string>
   <string name="declaration_main_content">"Vaše osebne podatke bomo varovali v skladu z ustreznimi zakoni, predpisi in politiko zasebnosti.
 Za normalno delovanje se mora ta aplikacija povezati s spletom in za zbiranje vaših osebnih podatkov potrebuje naslednja dovoljenja:"</string>
-  <string name="declaration_main_content2">&lt;Data&gt;"Če se ne strinjate z odobritvijo takšnih dovoljenj ali skupno rabo in nalaganjem svojih osebnih podatkov, te aplikacije ne boste mogli uporabljati. V takih primerih se lahko v nastavitvah odjavite ali omejite dovoljenja. Preberite in se strinjajte z našimi
- &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; in &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; pred uporabo FM Radio."&lt;/Data&gt;</string>
+  <string name="declaration_main_content2">"&lt;Data&gt;"Če se ne strinjate z odobritvijo takšnih dovoljenj ali skupno rabo in nalaganjem svojih osebnih podatkov, te aplikacije ne boste mogli uporabljati. V takih primerih se lahko v nastavitvah odjavite ali omejite dovoljenja. Preberite in se strinjajte z našimi
+ &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; in &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; pred uporabo FM Radio."&lt;/Data&gt;"</string>
   <string name="declaration_main_content2_unloadable">&lt;Data&gt;"Če se ne strinjate z odobritvijo takšnih dovoljenj ali skupno rabo in nalaganjem svojih osebnih podatkov, te aplikacije ne boste mogli uporabljati. V takih primerih se lahko v nastavitvah odjavite ali omejite dovoljenja. Preberite in se strinjajte z našimi our &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; in &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; pred uporabo FM Radio."&lt;/Data&gt;</string>
   <string name="declaration_main_purpose">Dobrodošli v FM Radio! S to aplikacijo lahko poslušate programe lokalnih in spletnih radijskih postaj.</string>
   <string name="declaration_runtime_perm_desc">"Dostop do informacij o napravi za prepoznavanje vaše naprave
@@ -773,7 +774,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="passport_error_unknown">Neznana napaka</string>
     <string name="passport_error_user_agreement_error">Najprej se strinjajte s pogoji in predpisi</string>
     <string name="passport_error_user_name">Neveljavno uporabniško ime</string>
-  <string name="passport_forget_password">&lt;u&gt;Pozabljeno geslo&lt;/u&gt;</string>
+    <string name="passport_forget_password">&lt;u&gt;Pozabljeno geslo&lt;/u&gt;</string>
     <string name="passport_get_verify_code">Pridobite kodo</string>
     <string name="passport_getting_verify_code">Samo trenutek…</string>
     <string name="passport_identification_expired">Koda za preverjanje je potekla. Poskusite ponovno.</string>
@@ -788,9 +789,10 @@ Pošljite to kodo nadzorniku."</string>
     <string name="passport_login_failed">Vpis ni bil mogoč</string>
     <string name="passport_next">Naprej</string>
     <string name="passport_next_step">Naprej</string>
-  <string name="passport_oauth_actionbar_title">Mi račun</string>
-  <string name="passport_oauth_sucess_tip">Avtorizacija uspešna</string>
+    <string name="passport_oauth_actionbar_title">Mi račun</string>
+    <string name="passport_oauth_sucess_tip">Avtorizacija uspešna</string>
     <string name="passport_password_req_notice">Geslo mora vsebovati 8-16 znakov in vsebovati kombinacijo vsaj dva od naslednjih simbolov: števila, črke, posebni simboli (npr. 123abc@#, or 123abc, or abc@#).</string>
+    <string name="passport_privacy_policy">Pravila o zasebnosti</string>
     <string name="passport_querying_phone_info">Zahteva za informacije o računu…</string>
     <string name="passport_quick_login_dialog_step2_title">Preverjanje v 2 korakih</string>
     <string name="passport_quick_login_dialog_title">Potrdi geslo</string>
@@ -819,8 +821,10 @@ Pošljite to kodo nadzorniku."</string>
     <string name="passport_unknow_error">Prišlo je do neznane napake</string>
     <string name="passport_unknow_host_network_error">Preverite omrežne nastavitve in poskusite znova</string>
     <string name="passport_unknow_network_error">Prišlo je do napake omrežja</string>
+    <string name="passport_user_agreement">Pogoji uporabe</string>
   <string name="passport_user_agreement_link">"&lt;Data&gt;Prebral/-a sem in se strinjam z &lt;a href=%1$s&gt;Pogoji uporabe&lt;/a&gt; in &lt;a href=%2$s&gt;Pravila o zasebnosti&lt;/a&gt;.&lt;/Data&gt;"</string>
   <string name="passport_user_agreement_link_more">"&lt;Data&gt;Prebral/-a sem in se strinjam z Xiaomi &lt;a href=%1$s&gt;Pogoji uporabe&lt;/a&gt; and &lt;a href=%4$s&gt;Pravila o zasebnosti&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
+  <string name="passport_user_agreement_prefix">Strinjam se z </string>
     <string name="passport_user_id_intro">Vnesite geslo za %1$s</string>
     <string name="passport_v_code_error">Koda za preverjanje je napačna</string>
     <string name="passport_vcode_notification_title">Vaše preverjanje za vpis je nepopolno</string>

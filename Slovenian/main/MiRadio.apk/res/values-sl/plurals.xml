@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="toast_channel_searched">
-        <item quantity="other">%1$d postaj skenirano</item>
+        <item quantity="other">Skenirano %1$d postaj</item>
         <item quantity="one">%1$d postaja skenirana</item>
     </plurals>
     <plurals name="Nalbum_total_songs">

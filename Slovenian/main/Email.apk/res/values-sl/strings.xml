@@ -3,8 +3,8 @@
   <string name="SMTP_independent_verification_text">SMTP neodvisna kontrola</string>
   <string name="SMTP_password_text">Geslo</string>
   <string name="SMTP_username_text">Uporabniško ime</string>
-  <string name="account_add_title">Izberite ponudnika pošte</string>
   <string name="accessibility_guide_second">Nato kliknite v zgornjem desnem vogalu \"Sprejmi\" za nadaljevanje.</string>
+     <string name="account_add_title">Izberite ponudnika pošte</string>
   <string name="account_duplicate_dlg_message_fmt">To uporabniško ime že uporabljate za račun \"%s\".</string>
   <string name="account_duplicate_dlg_title">Podvojeni račun</string>
   <string name="account_failure">Napaka računa</string>
@@ -630,6 +630,7 @@
   <string name="invalid_recipient">Naslov %s ni pravilen.</string>
   <string name="invalid_recipient_title">Napaka prejemnika</string>
   <string name="kilobytes">%s KB</string>
+  <string name="label_notification_ticker">%1$s: %2$s</string>
   <string name="list_empty_to_fresh">Ni e-pošte, povlecite dol da boste osvežili.</string>
   <string name="load_from_remote">Nadaljuj iskanje na strežniku</string>
   <string name="load_more">Naloži več</string>
@@ -1150,9 +1151,9 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="select_path">Izberi pot</string>
   <string name="selected_lable">Izbrano</string>
   <string name="send">Pošlji</string>
+  <string name="send_att_title">Opozorilo</string>
   <string name="send_encrypt_dialog_fail_content">Ta e-pošta se ne da šifrirati ker prejemnik nima varnega certifikata. Pošljem nekodirano?</string>
   <string name="send_encrypt_dialog_fail_title">Ne morem poslati šifrirano pošto</string>
-  <string name="send_att_title">Opozorilo</string>
   <string name="send_failed">Sporočilo ni bilo poslano</string>
   <string name="send_feed_back">Pošlji povratne informacije</string>
   <string name="send_feed_back_keywords">Pošlji povratne informacije</string>
@@ -1185,8 +1186,8 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="share_choose">Izberite datoteko za deljenje</string>
   <string name="sharing">Deli</string>
   <string name="shortcut_name_title">Bližnjica imena mape</string>
-  <string name="show_elided">▶ Pokaži citirano besedilo</string>
   <string name="show_contact_address">Pokaži e-poštni naslov stika</string>
+  <string name="show_elided">▶ Pokaži citirano besedilo</string>
   <string name="show_images">Prenesi in pokaži slike</string>
   <string name="show_password">Pokaži geslo</string>
   <string name="signature">"
@@ -1276,11 +1277,11 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="translation_query_failure">"Ne morem najti rezultatov"</string>
   <string name="translation_technology_support">Tehnična podpora iciba.com</string>
   <string name="trash_folder_selection_title">Izberite mapo za Koš vašega strežnika za %s</string>
-  <string name="tryrefreshing">Osvežujem…</string>
   <string name="try_exchange_login">Prebral sem in se strinjam z WPS Mail Pogoji uporabe</string>
-  <string name="turn_auto_sync_on_dialog_body">Spremembe ki jih naredite 
-    za vse aplikacije in račune (ne le za Gmail) 
-    se bodo sinhronizirale na spletu, drugimi napravami in vašo napravo %1$s.</string>
+  <string name="tryrefreshing">Osvežujem…</string>
+  <string name="turn_auto_sync_on_dialog_body">"Spremembe ki jih naredite 
+za vse aplikacije in račune (ne le za Gmail) 
+se bodo sinhronizirale na spletu, z drugimi napravami in vašo napravo %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Vklop</string>
   <string name="turn_auto_sync_on_dialog_title">Vklopim samodejno sinhronizacijo?</string>
   <string name="unbind_dialog_text">"Po zaustavitvi analize ne boste imeli možnosti sprejeti opomnike.
@@ -1322,7 +1323,7 @@ Odstranim račun?"</string>
   <string name="via_domain">preko %1$s</string>
   <string name="view_more_conversations">Pokaži več pogovorov</string>
   <string name="wait_for_manual_sync_body">"Račun ni nastavljen na samodejno sinhronizacijo.
-Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizirali enkrat ali &lt;b&gt;Sprememba sinhronizacije&lt;/b&gt; da boste ta račun nastavili za automatsko sinhronizacijo pošte.</string>
+Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizirali enkrat ali &lt;b&gt;Sprememba sinhronizacije&lt;/b&gt; da boste ta račun nastavili za automatsko sinhronizacijo pošte."</string>
   <string name="wait_for_sync_body_txt_array_4">opozorila sistema</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_title">Čakaj na sinhr.</string>

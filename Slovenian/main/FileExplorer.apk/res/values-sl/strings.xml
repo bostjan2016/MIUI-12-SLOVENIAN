@@ -28,8 +28,8 @@
     <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
-  <string name="account_bind_prompt">Prestavljam podatke uporabnika… 
-    To lahko traja nekaj minut</string>
+    <string name="account_bind_prompt">"Prestavljam podatke uporabnika… 
+    To lahko traja nekaj minut"</string>
   <string name="account_login_title">Račun</string>
   <string name="action_mode_deselect_all">Prekliči izbrano</string>
   <string name="action_mode_select_all">Izberi vse</string>
@@ -38,6 +38,7 @@
   <string name="ad_download">Prenesi</string>
   <string name="ad_downloading">Nalaganje…</string>
   <string name="add_follow">Spremljaj</string>
+  <string name="add_one">(1)</string>
   <string name="add_private">Skrij datoteke</string>
   <string name="add_private_files">Dodaj datoteke</string>
   <string name="add_task">Dodaj opravila</string>
@@ -235,8 +236,6 @@
   <string name="delete_files">Izbrišem datoteke: %1$d?</string>
   <string name="delete_folder">Izbrišem to datoteko?</string>
   <string name="delete_folders">Izbrišem mape: %1$d?</string>
-  <string name="des_hide_pwd">Skrij geslo</string>
-  <string name="des_show_pwd">Pokaži geslo</string>
   <string name="delete_selected_tasks">Izbrišem izbrano?</string>
   <string name="delete_success">Datoteka izbrisana</string>
   <string name="delete_video">Izbriši</string>
@@ -244,7 +243,9 @@
   <string name="delete_video_dialog_title">Izbriši videoposnetek</string>
   <string name="delete_video_success">Uspešno izbrisano</string>
   <string name="deleted_video_msg">"Malo si zamudil. Ta videoposnetek je izbrisan."</string>
+  <string name="des_hide_pwd">Skrij geslo</string>
   <string name="des_running_trans">%1$d datotek ni bilo prenešenih.</string>
+  <string name="des_show_pwd">Pokaži geslo</string>
   <string name="dialog_logout_message">Ali se odjavim?</string>
   <string name="dialog_logout_title">Odjava</string>
   <string name="dialog_select_type">Izberi tip</string>
@@ -273,8 +274,8 @@
   <string name="download_link_completed">Delil sem %1$s z uporabo KuaiPan. Tapni povezavo spodaj za ogled: </string>
   <string name="downloaded_sticker_str">Prenešeno</string>
   <string name="downloading">Prenašam</string>
-  <string name="drag_not_support_with_dir">"Ne morem preurediti ali poslati map"</string>
   <string name="downloading_in_3g">Prenašam preko 3G…</string>
+  <string name="drag_not_support_with_dir">"Ne morem preurediti ali poslati map"</string>
   <string name="drive_closed">Niste prijavljeni</string>
   <string name="drive_opened">Prijavljeni ste</string>
   <string name="editor_commend">Uredi</string>
@@ -317,9 +318,9 @@
   <string name="fab_menu_sort">Razvrsti</string>
   <string name="fail_to_create_folder">Ni dovolj prostora ali pa mapa že obstaja.</string>
   <string name="fail_to_create_folder_unknown">"Mape ni mogoče ustvariti"</string>
+  <string name="fail_to_rename">Datoteka s tem imenom že obstaja.</string>
   <string name="failed_not_access_sd_card">Najprej omogočite dostop do SD kartice</string>
   <string name="failed_obtain_permissions">"Ne morem dobiti dovoljenja"</string>
-  <string name="fail_to_rename">Datoteka s tem imenom že obstaja.</string>
   <string name="favorite_photo">Slike</string>
   <string name="favorite_ringtone">Zvonenja</string>
   <string name="favorite_screen_cap">Posnetek zaslona</string>
@@ -343,11 +344,11 @@
   <string name="folder_exist">Mapa že obstaja.</string>
   <string name="folder_name_empty">"Ime mape ne more biti prazno"</string>
   <string name="folder_name_illegal">Nepravilno ime mape</string>
+  <string name="folder_name_invalid">"Imena map ne smejo vsebovati naslednjih znakov: /\\:*?&lt;&gt;"</string>
   <string name="follow_fail">"Ne morem spremljati, poskusite ponovno kasneje"</string>
   <string name="follow_success_tip">Uspešno se spremlja</string>
   <string name="follow_tip_1">Sledite me da gledate več videoposnetkov</string>
   <string name="follow_tip_2">Sledite me da gledate več videoposnetkov</string>
-  <string name="folder_name_invalid">"Imena map ne smejo vsebovati naslednjih znakov: /\\:*?&lt;&gt;"</string>
   <string name="force_touch_clean">Očisti</string>
   <string name="force_touch_search">Išči datoteke</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Tapni&lt;/a&gt;za premik v koš</string>
@@ -385,9 +386,9 @@
   <string name="guide_newfunc_content">Zdaj lahko filtrirate oblike datotek, preuredite stvari in preklapljate med različnimi pogledi tako, da se dotaknete bližnjice.</string>
   <string name="guide_newfunc_title">Nova storitev</string>
   <string name="handsome_boy">Moški</string>
-  <string name="hint_switch_to_list_mode">Spremenjeno na prikaz seznama</string>
-  <string name="hint_switch_to_grid_mode">Spremenjeno na prikaz rešetke</string>
   <string name="has_installed">Nameščeno</string>
+  <string name="hint_switch_to_grid_mode">Spremenjeno na prikaz rešetke</string>
+  <string name="hint_switch_to_list_mode">Spremenjeno na prikaz seznama</string>
   <string name="home_action_up">Nazaj</string>
   <string name="home_title">Raziskovalec</string>
   <string name="homepage_tab_category">Kategorije</string>
@@ -486,9 +487,9 @@
   <string name="menu_item_sort_size">Po velikosti</string>
   <string name="menu_item_sort_type">Po vrsti</string>
   <string name="menu_item_usb">USB</string>
+  <string name="menu_list_name">Meni</string>
   <string name="menu_new_display_open">Odpri v novem oknu</string>
   <string name="menu_pc_open">Odpri z računalniškim programom</string>
-  <string name="menu_list_name">Meni</string>
   <string name="menu_set_wallpaper">Nastavi za sliko ozadja</string>
   <string name="message_comment_prefix">Komentar:</string>
   <string name="message_my_received_notification">Novo sporočilo</string>
@@ -624,8 +625,8 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="no_search_content">"Ne najdem rezultate"</string>
   <string name="no_tasks">Ni nalog.</string>
   <string name="no_topic">Ni tem</string>
-  <string name="no_videos">Tu ni nič. Preverite tiste spodaj!</string>
   <string name="no_topic_found">Ni tem</string>
+  <string name="no_videos">Tu ni nič. Preverite tiste spodaj!</string>
   <string name="no_wifi">Ni dostopnih WiFi omrežij</string>
   <string name="no_wifi_hint">Ni dostopnih omrežij</string>
   <string name="not_installed_documentsui">"Nimate nameščene DocumentsUI aplikacije"</string>
@@ -682,15 +683,15 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="operation_delete_confirm_message">Izbrišem?</string>
   <string name="operation_delete_confirm_message_folder">Vsa vsebina mape bo izbrisana.</string>
   <string name="operation_deleting">Brišem...</string>
-  <string name="operation_encrypt_summary">Šifriranje datotek v zasebni mapi. Dešifriranje velikih datotek lahko dolgo traja.</string>
-  <string name="operation_encrypt_title">Šifriranje zasebnih datotek</string>
   <string name="operation_deleting_detail">Brisanje (%1$d/%2$d)</string>
   <string name="operation_download_link">Ustvari povezavo za prenos</string>
+  <string name="operation_encrypt_summary">Šifriranje datotek v zasebni mapi. Dešifriranje velikih datotek lahko dolgo traja.</string>
+  <string name="operation_encrypt_title">Šifriranje zasebnih datotek</string>
   <string name="operation_favorite">Dodaj med priljubljene</string>
   <string name="operation_hide_sys">Ne pokaži skritih datotek</string>
   <string name="operation_info">Podrobnosti</string>
-  <string name="operation_move">Premesti</string>
   <string name="operation_like">Všeč mi je</string>
+  <string name="operation_move">Premesti</string>
   <string name="operation_moving">Premikam...</string>
   <string name="operation_moving_detail">Premikam (%1$d/%2$d)</string>
   <string name="operation_other_apps">Odpri v drugi aplikaciji</string>
@@ -712,14 +713,14 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="operation_unfavorite">Odstrani iz priljubljenih</string>
   <string name="operation_unlike">Ni mi všeč</string>
   <string name="optional_change_wifi">Za daljinsko urejanje datotek preko WiFi-ja</string>
-  <string name="otg_data_transfer_success">Uspešno poslano</string>
-  <string name="otg_data_transferring">"Prenos datotek… Ne izklopite zun. pomnilnika."</string>
   <string name="original_user_desc">Redno prenašajte originalne videoposnetke da dobite status avtorja vsebin</string>
   <string name="original_user_qq_group">Pridružite se QQ skupini Talent team</string>
   <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; se je pridružil skupini</string>
   <string name="original_user_signal">Talent team</string>
   <string name="original_user_title">Čestitamo ker ste postali član Talent teama!</string>
   <string name="original_user_verify">• Hvala vam ker ste ostali v bližini!</string>
+  <string name="otg_data_transfer_success">Uspešno poslano</string>
+  <string name="otg_data_transferring">"Prenos datotek… Ne izklopite zun. pomnilnika."</string>
   <string name="otg_file_security_confirm">Kopiraj na telefon</string>
   <string name="otg_file_security_details">Kopiraj na telefon</string>
   <string name="otg_file_security_note">OTG Varnost</string>
@@ -787,8 +788,8 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="popup_msg_wx">Delite ta video z vašimi WeChat prijatelji.</string>
   <string name="port_range">Vrata morajo biti med 1024–65535</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
-  <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="pretty_girl">Ženska</string>
+  <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="private_files">Skrito</string>
   <string name="private_folder">Skrita mapa</string>
   <string name="private_folder_no_file_hints">Ni skritih datotek.</string>
@@ -832,8 +833,8 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="repair_error_no_media">"Ne morem obnoviti, izberite vsaj eno medijsko datoteko."</string>
   <string name="repair_error_no_order">"Ne morem obnoviti, izbrišite ali dešifrirajte %s in poskusite ponovno"</string>
   <string name="repair_file">Obnovi šifrirane datoteke</string>
-  <string name="replace">Zamenjaj</string>
   <string name="repeat_upload_video">Video je že podeljen, izberite drugega.</string>
+  <string name="replace">Zamenjaj</string>
   <string name="reply_success">Komentar dodan</string>
   <string name="report_abuse">Zloraba</string>
   <string name="report_advertisement">Oglasi</string>
@@ -855,11 +856,11 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="rlv_refreshing">Osveževanje…</string>
   <string name="rlv_release_to_close">Izpusti za zapiranje</string>
   <string name="rlv_release_to_refresh">Izpusti za osveževanje</string>
-  <string name="save_file_to_mishare">"Shranjeno v mapo Mi Share"</string>
   <string name="save">Shrani</string>
   <string name="save_desc_success">Uspešno spremenjeno​</string>
   <string name="save_failed">"Ne morem shraniti, poskusite ponovno"</string>
   <string name="save_failed_for_length">Podpis je predolg, poskusite s krajšim</string>
+  <string name="save_file_to_mishare">"Shranjeno v mapo Mi Share"</string>
   <string name="save_name_success">Uspešno spremenjeno</string>
   <string name="save_to_local">Prevzeto</string>
   <string name="sd_card_available">Na voljo: %1$s</string>
@@ -1006,8 +1007,8 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="storage_info">%1$s na voljo</string>
   <string name="storage_info_detail">Na voljo:%1$s Skupaj:%2$s</string>
   <string name="storage_internal">Notranji pomnilnik</string>
-  <string name="storage_maintenance_mode">Način vzdrževanja pomnilnika</string>
   <string name="storage_internal_description">Notranji pomnilnik</string>
+  <string name="storage_maintenance_mode">Način vzdrževanja pomnilnika</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_sd_card_description">SD kartica</string>
   <string name="storage_usb">USB pomnilnik</string>
@@ -1029,8 +1030,8 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="tab_claim">Zahteva</string>
   <string name="tab_common_app">Aplik. &amp; mape</string>
   <string name="tab_discover">Odkrij</string>
-  <string name="tab_explore">Odkrij</string>
   <string name="tab_expand">Razširi</string>
+  <string name="tab_explore">Odkrij</string>
   <string name="tab_follow">Spremljam</string>
   <string name="tab_homepage">Domov</string>
   <string name="tab_hottest_video">Popularno</string>
@@ -1075,10 +1076,10 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="transing">Pošiljam</string>
   <string name="trash_box_capacity">Koš %1$s</string>
   <string name="trash_box_link">Za izpraznitev koša obiščite &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
-  <string name="trash_box_message1">Izbrišite nepotrebne datoteke 
-  za sprostitev prostora.</string>
-  <string name="trash_box_message2">Izpraznite koš za  
-  sprostitev prostora.</string>
+  <string name="trash_box_message1">"Izbrišite nepotrebne datoteke 
+ za sprostitev prostora."</string>
+  <string name="trash_box_message2">"Izpraznite koš za  
+  sprostitev prostora."</string>
   <string name="type_not_support">"Ta format datoteke ni podprt. Razširite datoteko in poskusite ponovno."</string>
   <string name="ui_filechange_btn_download">Prenesem datoteko?</string>
   <string name="ui_filechange_btn_upload">Naloži datoteke</string>
@@ -1122,15 +1123,15 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="upload_notification_title">Nalaganje videoposnetka</string>
   <string name="upload_popup">Prenesite videoposnetke da osvojite nagrado</string>
   <string name="upload_user_photo">Prenesi</string>
+  <string name="upload_video">Deli videoposnetek</string>
+  <string name="upload_video_dialog_message">"Vaš videoposnetek bo objavljen po pregledu."</string>
+  <string name="upload_video_dialog_title">Vdeoposnetek uspešno deljen</string>
   <string name="upload_video_failed">"Ne morem prebrati"</string>
   <string name="upload_video_failed_external_progress">"Ne morem prebrati, poskusite kaj drugega"</string>
   <string name="upload_video_failed_progress">"Ne morem prebrati, poskusite ponovno"</string>
-  <string name="upload_video">Deli videoposnetek</string>
+  <string name="upload_video_forbidden">"Ne nalagaj isti videoposnetek"</string>
   <string name="upload_video_success">Uspešno naloženo</string>
   <string name="upload_video_success_progress">Uspešno naloženo</string>
-  <string name="upload_video_dialog_message">"Vaš videoposnetek bo objavljen po pregledu."</string>
-  <string name="upload_video_dialog_title">Vdeoposnetek uspešno deljen</string>
-  <string name="upload_video_forbidden">"Ne nalagaj isti videoposnetek"</string>
   <string name="upload_video_tip">"Ne morem deliti več kot 1 videoposnetek naenkrat"</string>
   <string name="uploading">Nalagam</string>
   <string name="uploading_video">Nalagam…</string>
@@ -1248,8 +1249,8 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="video_topic_hint">Išči teme ali osebe</string>
   <string name="video_upload_btn">Naprej</string>
   <string name="video_upload_btn_hint">MP4 videoposnetek mora biti dolg 3s~10 min</string>
-  <string name="video_upload_hint">Naložite promovirane videoposnetke da dobite več točk.</string>
   <string name="video_upload_btn_hint_span">"Ne morete najti svoj videoposnetek?"</string>
+  <string name="video_upload_hint">Naložite promovirane videoposnetke da dobite več točk.</string>
   <string name="video_upload_item_more">Še(%1$s)</string>
   <string name="video_upload_kuaishou_hint">Naložite KuaiShou videoposnetke da dobite več oboževalcev.</string>
   <string name="video_upload_retry_confirm">Poskusite ponovno</string>
@@ -1258,10 +1259,10 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="video_upload_title">Izberite video</string>
   <string name="video_upload_wechat_hint">Naložite WeChat videoposnetke da dobite več oboževalcev.</string>
   <string name="video_uploaded">Naloženo</string>
-  <string name="view_master_rank">Pokaži Youliao top</string>
   <string name="videos">Videoposnetki</string>
-  <string name="view_top_rank">Pokaži lestvico</string>
+  <string name="view_master_rank">Pokaži Youliao top</string>
   <string name="view_more_sticker">Pokaži več nalepk</string>
+  <string name="view_top_rank">Pokaži lestvico</string>
   <string name="view_type">Pregled</string>
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">Čakam na omrežje</string>

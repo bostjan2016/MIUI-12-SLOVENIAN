@@ -2,7 +2,7 @@
 <resources>
     <string-array name="activities_title">
         <item>Poseben dan</item>
-        <item>Dan za zapmnit</item>
+        <item>Dan za zapomnit</item>
         <item>Vibrant trenutki</item>
     </string-array>
     <string-array name="slideshow_time_entries">
