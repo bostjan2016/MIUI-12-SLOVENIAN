@@ -630,7 +630,6 @@
   <string name="invalid_recipient">Naslov %s ni pravilen.</string>
   <string name="invalid_recipient_title">Napaka prejemnika</string>
   <string name="kilobytes">%s KB</string>
-  <string name="label_notification_ticker">%1$s: %2$s</string>
   <string name="list_empty_to_fresh">Ni e-pošte, povlecite dol da boste osvežili.</string>
   <string name="load_from_remote">Nadaljuj iskanje na strežniku</string>
   <string name="load_more">Naloži več</string>
