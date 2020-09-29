@@ -8,12 +8,16 @@
         <item quantity="other">%d obvestil v prvem prostoru</item>
         <item quantity="one">%d obvestilo v prvem prostoru</item>
     </plurals>
+     <plurals name="search_app_count_txt_na">
+        <item quantity="other">Išči %d aplikacij</item>
+        <item quantity="one">Išči %d aplikacijo</item>
+     </plurals>
     <plurals name="second_space_notification_format">
         <item quantity="other">%d obvestil v drugem prostoru</item>
         <item quantity="one">%d obvestilo v drugem prostoru</item>
     </plurals>
-	     <plurals name="search_app_count_txt_na">
-        <item quantity="other">Išči %d aplikacije</item>
-        <item quantity="one">Išči %d aplikacijo</item>
+     <plurals name="xspace_guide_content">
+        <item quantity="other">Lahko napravite &lt;font color=#0D84FF>%d&lt;/font> &lt;font>dvojnih aplikacij&lt;/font></item>
+        <item quantity="one">Lahko napravite &lt;font color=#0D84FF>%d&lt;/font> &lt;font>dvojno aplikacijo&lt;/font></item>
      </plurals>
 </resources>

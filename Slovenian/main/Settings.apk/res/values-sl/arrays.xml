@@ -1528,4 +1528,17 @@
         <item>Dotik</item>
         <item>Dvojni tap</item>
     </string-array>
+	 <string-array name="captioning_font_size_selector_summaries">
+        <item>Zelo majhna velikost teksta</item>
+        <item>Majhna velikost teksta</item>
+        <item>Privzeta velikost teksta</item>
+        <item>Velika velikost teksta</item>
+        <item>Zelo velika velikost teksta</item>
+     </string-array>
+     <string-array name="eap_ocsp_type">
+        <item>Ne potrdi</item>
+        <item>Išči status certifikata</item>
+        <item>Zahtevaj status certifikata</item>
+        <item>Zahtevaj vse nepreverjene statuse certifikatov</item>
+     </string-array>
 </resources>

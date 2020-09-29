@@ -65,9 +65,9 @@
   <string name="button_sort_by_date">Razvrsti po datumu</string>
   <string name="button_sort_by_size">Razvrsti po velikosti</string>
   <string name="cancel">Prekini</string>
-  <string name="choose_open_picture">Izberi opravilo</string>
   <string name="cancel_running_download">Prekliči</string>
   <string name="cancle">Prekliči</string>
+  <string name="choose_open_picture">Izberi opravilo</string>
   <string name="choose_open_time">Izberite kdaj bi radi začeli</string>
   <string name="clear_data">Očisti</string>
   <string name="close">Zapri</string>
@@ -326,8 +326,8 @@
   <string name="remove_download">Izbriši</string>
   <string name="restart_download">Zaženi znova</string>
   <string name="resume_download">Nadaljuj</string>
-  <string name="retry_after_network_available">Povezave ni mogoče vzpostaviti. Preverite povezavo 
-  in poskusite znova.</string>
+  <string name="retry_after_network_available">"Povezave ni mogoče vzpostaviti. Preverite povezavo 
+  in poskusite znova."</string>
   <string name="retry_download">Poskusi ponovno</string>
   <string name="revert_default">Vračanje privzetih nastavitev</string>
   <string name="revert_download_path">Uporabitim privzeto lokacijo za prenose?</string>
@@ -459,6 +459,7 @@
   <string name="third_web_filesize">Velikost:</string>
   <string name="third_web_savepath">Lokacija</string>
   <string name="third_web_title">Prenesi</string>
+  <string name="thunder_download_speedup">Povečanje hitrosti z uporabo Xunlei…</string>
   <string name="time_consume">Trajanje</string>
   <string name="title_homepage_infoflow">Nedavne posodobitve</string>
   <string name="title_tips">Pozor</string>
@@ -488,8 +489,8 @@
   <string name="vip_auto_speedup">Xunlei pospeševalnik prenosa je vključen</string>
   <string name="vip_expire_show_info">Poteklo je Xunlei članstvo."</string>
   <string name="vip_expire_today_show_info">Poteklo je Xunlei članstvo."</string>
-  <string name="vip_show_info">5 miljonov članov.
-  Pohitrite prenose na vseh vaših napravah</string>
+  <string name="vip_show_info">"5 miljonov članov.
+  Pohitrite prenose na vseh vaših napravah"</string>
   <string name="vip_speedup">Pohitritev:</string>
   <string name="web_dialog_cancel">Prekini</string>
   <string name="web_dialog_confirm">V redu</string>

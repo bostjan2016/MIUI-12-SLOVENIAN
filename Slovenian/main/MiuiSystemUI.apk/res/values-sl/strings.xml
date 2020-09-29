@@ -605,9 +605,9 @@ hitrost vzorčenja"</string>
   <string name="data_saver_description">Da boste zmanjšali porabo podatkov, bo varčevanje podatkov preprečilo nekaterim aplikacijam pošiljanje ali sprejemanje podatkov v ozadju. Aplikacija ki jo trenutno uporabljate lahko dostopa do podatkov, ampak manj pogosto. Npr. da se slike ne prikažejo dokler jih ne tapnete.</string>
   <string name="data_saver_enable_button">Vključi</string>
   <string name="data_saver_enable_title">Vključim varčevanje podatkov?</string>
-  <string name="data_usage_disabled_dialog">Dosegli ste omejitev uporabe podatkov.     
+     <string name="data_usage_disabled_dialog">"Dosegli ste omejitev uporabe podatkov.     
 
-Če boste ponovno omogočili podatke jih lahko vaš operater zaračuna.</string>
+Če boste ponovno omogočili podatke jih lahko vaš operater zaračuna."</string>
   <string name="data_usage_disabled_dialog_3g_title">"2G-3G podatki izključeni"</string>
   <string name="data_usage_disabled_dialog_4g_title">"4G podatki izključeni"</string>
   <string name="data_usage_disabled_dialog_enable">Ponovno omogoči podatke</string>
@@ -880,10 +880,10 @@ hitrost vzorčenja"</string>
   <string name="gxzw_long_press_tip">Pritisnite in podržite da boste preverili nove storitve</string>
   <string name="gxzw_press_harder">Pritisnite malo močneje</string>
   <string name="gxzw_quick_close">Zapri</string>
-  <string name="gxzw_quick_open_add_note">Dodaj beležko</string>
-  <string name="gxzw_quick_open_add_note_sub">Beležke</string>
   <string name="gxzw_quick_open_add_event">Dodajte dogodek</string>
   <string name="gxzw_quick_open_add_event_sub">koledar</string>
+  <string name="gxzw_quick_open_add_note">Dodaj beležko</string>
+  <string name="gxzw_quick_open_add_note_sub">Beležke</string>
   <string name="gxzw_quick_open_alipay_pay">Šifra plačila</string>
   <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
   <string name="gxzw_quick_open_alipay_scan">Skener</string>
@@ -1454,6 +1454,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="notification_channel_tv_pip">Slika v sliki</string>
   <string name="notification_channel_usb">USB</string>
     <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
+    <string name="notification_control_center">Obvestila &amp; Center za kontrolo</string>
     <string name="notification_default_channel_desc">Ta aplikacija nima kategorij obvestil</string>
     <string name="notification_done">Dokončano</string>
   <string name="notification_group_collapse_button_text">Presavij</string>
@@ -1607,8 +1608,8 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
 
 "&lt;b&gt;Nivo 0&lt;/b&gt;" 
 &amp;#8211; blokiraj vsa obvestila aplikacije"</string>
-    <string name="power_remaining_charging_duration_only">Še ^1 do polne napolnjenosti</string>
-    <string name="power_remaining_duration_only">Še približno ^1</string>
+    <string name="power_remaining_charging_duration_only">Še %1$s do polne napolnjenosti</string>
+    <string name="power_remaining_duration_only">Še približno %1$s</string>
   <string name="power_remaining_duration_only_enhanced">Še približno %1$s na temelju vaše uporabe</string>
   <string name="power_remaining_duration_only_short">Preostalo je %1$s</string>
   <string name="power_remaining_duration_only_shutdown_imminent">Telefon se lahko kmalu izključi</string>
@@ -2000,9 +2001,9 @@ morda nadzira"</string>
   <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_notification_inspect_item_title">Nastavitve obvestil</string>
     <string name="status_bar_ongoing_events_title">Trenutno</string>
-  <string name="status_bar_recent_guide_all">Podrsajte navzgor da se zapre.     
+    <string name="status_bar_recent_guide_all">"Podrsajte navzgor da se zapre.     
   
-      Podrsajte navzdol za zaklepanje.</string>
+   Podrsajte navzdol za zaklepanje."</string>
   <string name="status_bar_recent_guide_bottom">Podrsajte navzdol za zaklepanje</string>
   <string name="status_bar_recent_guide_top">Podrsajte navzgor da se zapre.</string>
     <string name="status_bar_recent_inspect_item_title">Podatki o aplikaciji</string>

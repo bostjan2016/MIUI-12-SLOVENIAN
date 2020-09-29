@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string-array name="education">
+     <string-array name="account_user_gender_name">
+        <item>Moški</item>
+        <item>Ženska</item>
+     </string-array>
+     <string-array name="education">
          <item>Osnovna šola</item>
          <item>Mala šola</item>
          <item>Srednja šola</item>
@@ -8,10 +12,6 @@
          <item>Fakulteta</item>
          <item>"Magisterij"</item>
          <item>"Doktorat"</item>
-     </string-array>
-	 <string-array name="account_user_gender_name">
-         <item>Moški</item>
-         <item>Ženska</item>
      </string-array>
      <string-array name="income">
          <item>&lt; 2000</item>
@@ -62,6 +62,16 @@
         <item>Računi</item>
         <item>Dodajte in urejajte račune drugih ponudnikov</item>
         <item>Autorizacija;Račun;Mi Račun;Dodaj;Seznani;Xiaomi;Pokaži;SNS;WeChat;Google;Weibo</item>
+     </string-array>
+     <string-array name="settings_search_account_and_authority_global">
+        <item>Računi</item>
+        <item>Dodajte in urejajte račune drugih oseb</item>
+        <item>Autorizacija;Račun;Mi Račun;Dodaj;Seznani;Xiaomi;Pokaži;SNS;Facebook;Google</item>
+     </string-array>
+     <string-array name="settings_search_account_and_authority_non_global">
+        <item>Računi</item>
+        <item>Dodajte in urejajte račune drugih oseb</item>
+        <item>Autorizacija;Račun;Mi Račun;Dodaj;Seznani;Xiaomi;Pokaži;SNS;WeChat;QQ;Weibo</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Zamenjaj geslo</item>

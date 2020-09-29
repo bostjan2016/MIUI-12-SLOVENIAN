@@ -752,4 +752,41 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
         <item quantity="other">Izbrano: %d</item>
         <item quantity="one">Izbrano: %d</item>
      </plurals>
+	   <plurals name="accessibilty_autoclick_delay_unit_second">
+        <item quantity="other">%1$s sek.</item>
+        <item quantity="one">%1$s sek.</item>
+        <item quantity="few">%1$s sek.</item>
+     </plurals>
+     <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
+        <item quantity="other">Srednje (%1$s sek.)</item>
+        <item quantity="one">Srednje (%1$s sek.)</item>
+     </plurals>
+     <plurals name="app_link_open_always_summary">
+        <item quantity="other">Aplikacija trdi da obdeluje %d povezav</item>
+        <item quantity="one">Aplikacija trdi da obdeluje %d povezavo</item>
+     </plurals>
+     <plurals name="interact_across_profiles_number_of_connected_apps">
+        <item quantity="other">Povezano je %d aplikacij</item>
+        <item quantity="one">Povezana je %d aplikacija</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_nonnumerical">
+        <item quantity="other">Mora vsebovati najmanj %d ne-numeričnih znakov</item>
+        <item quantity="one">Mora vsebovati najmanj 1 ne-numerični znak</item>
+     </plurals>
+     <plurals name="notification_history_count">
+        <item quantity="other">%d obvestil</item>
+        <item quantity="one">%d obvestil</item>
+     </plurals>
+     <plurals name="zen_mode_contacts_count">
+        <item quantity="other">%d stikov</item>
+        <item quantity="one">1 stik</item>
+     </plurals>
+     <plurals name="zen_mode_conversations_count">
+        <item quantity="other">%d razgovorov</item>
+        <item quantity="one">1 razgovor</item>
+     </plurals>
+     <plurals name="zen_mode_other_sounds_summary">
+        <item quantity="other">%s lahko prekine</item>
+        <item quantity="one">%s lahko prekine</item>
+     </plurals>
 </resources> 

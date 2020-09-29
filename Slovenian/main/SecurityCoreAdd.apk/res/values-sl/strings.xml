@@ -305,9 +305,9 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="passwordProtect">Geslo</string>
   <string name="path_sspace">Nastavitve/Drugi prosotor</string>
   <string name="path_xspace">Nastavitve/Dvojne aplikacije</string>
-  <string name="please_diff_finger_print">Prepričajte se da uporabljate različne prstne odtise v Prvem prostoru in Drugem prostoru.
+  <string name="please_diff_finger_print">"Prepričajte se da uporabljate različne prstne odtise v Prvem prostoru in Drugem prostoru.
   
-  Drugače ne boste mogli v Drugi prostor iz zakl. zaslona.</string>
+  Drugače ne boste mogli v Drugi prostor iz zakl. zaslona."</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="privacyContactsSummary">Pokaži zasebne nastavitve v Drugem prostoru</string>
   <string name="privacyContactsTitle">Zasebna sporočila in stiki</string>
@@ -354,9 +354,11 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="scanner_second_space_fingerprint">Skeniraj prstni odtis za Drugi prostor</string>
   <string name="sdcardfs_dialog_message">MIUI 9 ima nov datotečni sistem. Stari podatki mogoče ne bodo kompatibilni z njim. Za rešitev te težave sledite korakom za namestitev posodobitve. Vaša naprava se bo dvakrat ponovno zagnala v toku te posodobitve.</string>
   <string name="sdcardfs_dialog_title">Pomembna posodobitev</string>
-  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 ima nov datotečni sistem. Stari podatki mogoče ne bodo kompatibilni z njim. Za posodobitev prestavite stvari iz Drugega prostora, ponovno zaženite napravo in ponovno ustvarite Drugi prostor.\nČe ne posodobite, dvojne aplikacije mogoče ne bodo delovala pravilno."</string>
+  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 ima nov datotečni sistem. Stari podatki mogoče ne bodo kompatibilni z njim. Za posodobitev prestavite stvari iz Drugega prostora, ponovno zaženite napravo in ponovno ustvarite Drugi prostor.
+Če ne posodobite, dvojne aplikacije mogoče ne bodo delovale pravilno."</string>
   <string name="sdcradfs_dialog_in_owner_title">Drugi prostor</string>
-  <string name="sdcradfs_dialog_in_sec_message">"Za posodobitev morate izbrisati Drugi prostor in ga ponovno ustvariti. Premestite podatke iz Drugega prostora v Prvi prostor in ponovo zaženite napravo da dokončate posodobitev.\nČe ne posodobite, dvojne aplikacije mogoče ne bodo delovala pravilno."</string>
+  <string name="sdcradfs_dialog_in_sec_message">"Za posodobitev morate izbrisati Drugi prostor in ga ponovno ustvariti. Premestite podatke iz Drugega prostora v Prvi prostor in ponovo zaženite napravo da dokončate posodobitev.
+Če ne posodobite, dvojne aplikacije mogoče ne bodo delovale pravilno."</string>
   <string name="sdcradfs_dialog_in_sec_title">Pomembna posodobitev</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_menu_title">Išči</string>
@@ -390,9 +392,9 @@ Umaknite in zavarujte svoje podatke."</string>
   <string name="settings_cross_notification_title">Obvestila</string>
   <string name="settings_guide_title">Potrebujete druge nastavitve??</string>
   <string name="settings_msg_add_shortcut">Bližnjica dodana v Prvi prostor</string>
-  <string name="settings_msg_remove_shortcut">Bližnjica odstranjena iz Prvega prostora</string>
   <string name="settings_msg_add_shortcut_to_owner_space">Bližnjica dodana v Prvi prostor</string>
   <string name="settings_msg_add_shortcut_to_second_space">Bližnjica je izdelana v Drugem prostoru</string>
+  <string name="settings_msg_remove_shortcut">Bližnjica odstranjena iz Prvega prostora</string>
   <string name="settings_msg_remove_shortcut_from_owner_space">Bližnjica odstranjena iz Prvega prostora</string>
   <string name="settings_msg_remove_shortcut_from_second_space">Bližnjica odstranjena iz Drugega prostora</string>
   <string name="settings_notification_and_switch">Spremeni &amp; obvesti</string>
@@ -514,14 +516,20 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="xspace_default_guide_notification_xspace_title">Uporaba dvojne aplikacije</string>
   <string name="xspace_default_setting_dialog_title">Privzeto</string>
   <string name="xspace_default_setting_label">Privzeta aplik.</string>
-  <string name="xspace_description">Dvojne aplikacije so kopije aplikacij ki se lahko uporabijo zasebno z drugim računom.\n\nNekatere dvojne aplikacije zahtevajo podporo Google Services Framework. V teh primerih se ustvari dvojni Google Services Framework.</string>
+  <string name="xspace_description">"Dvojne aplikacije so kopije aplikacij ki se lahko uporabijo zasebno z drugim računom.
+
+Nekatere dvojne aplikacije zahtevajo podporo Google Services Framework. V teh primerih se ustvari dvojni Google Services Framework."</string>
   <string name="xspace_disable">Ni napravljeno</string>
   <string name="xspace_enable">Napravljeno</string>
   <string name="xspace_facebook_title">Facebook</string>
+  <string name="xspace_guide_content_bound">Aplikacije na voljo</string>
   <string name="xspace_guide_des">Uporabljaj 2 računa brez menjanja</string>
+  <string name="xspace_guide_description">"Vsak račun
+zasluži lastno aplikacijo"</string>
   <string name="xspace_guide_title">Izdelaj dvojno aplikacijo</string>
   <string name="xspace_header">Dvojne aplikacije</string>
   <string name="xspace_instagram_title">Instagram</string>
+  <string name="xspace_install_complete">&lt;font>Uspešno izdelano&lt;/font>&lt;font color=#0D84FF>Odpri zdaj&lt;/font></string>
   <string name="xspace_install_completed">Ikona dodana na začetni zaslon</string>
   <string name="xspace_install_completed_global">Ikona dodana v predal</string>
   <string name="xspace_install_failed">"Ne morem tega napraviti"</string>
@@ -530,11 +538,13 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="xspace_label">Dvojne aplikacije</string>
   <string name="xspace_loading_msg">Nalaganje aplikacij…</string>
   <string name="xspace_notification">Obvestila dvojnih aplikacij</string>
+     <string name="xspace_notification_button">Poskusite</string>
   <string name="xspace_notification_error">Prijavite se v dvojni WeChat in poskusite ponovno</string>
   <string name="xspace_qq_title">QQ</string>
   <string name="xspace_remove">"Izbriši račune dvojnih aplikacij"</string>
   <string name="xspace_setting_label">Nastavitve dvojne aplikacije</string>
   <string name="xspace_settins">Nastavi</string>
+  <string name="xspace_start">Izdelaj</string>
   <string name="xspace_uninstall_completed">Dvojna aplikacija uspešno odstranjena</string>
   <string name="xspace_uninstall_dialog_content">Odstranitev dvojne aplikacije bo odstranila vse podatke aplikacije.</string>
   <string name="xspace_uninstall_dialog_title">Odstrani dvojno aplikacijo</string>

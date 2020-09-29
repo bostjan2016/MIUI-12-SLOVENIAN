@@ -125,6 +125,7 @@
   <string name="no_avaliable_application">Aplikacij ni na voljo</string>
   <string name="noon">PM</string>
   <string name="not_set">Ni nastavljeno</string>
+  <string name="notification_control_center">Obvestila &amp; Center za kontrolo</string>
   <string name="online">Online</string>
   <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" je kopirano v odložišče.</string>
