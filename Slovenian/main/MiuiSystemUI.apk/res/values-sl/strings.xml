@@ -502,8 +502,8 @@ hitrost vzorčenja"</string>
   <string name="bubble_content_description_stack">%1$s od %2$s in še %3$d</string>
   <string name="bubble_dismiss_text">Zavrzi</string>
   <string name="bubbles_deep_link_button_description">Odpri %1$s</string>
-  <string name="bubbles_prompt">Dovolite mehurčke od %1$s?</string>
-  <string name="bubbles_settings_button_description">Nastavitve za %1$s mehurčke</string>
+  <string name="bubbles_prompt">Dovolite oblačke od %1$s?</string>
+  <string name="bubbles_settings_button_description">Nastavitve za %1$s oblačke</string>
   <string name="bugreport_in_power">Bližnjica poročila o napakah</string>
   <string name="bugreport_in_power_summary">Pokaži gumb v meniju napajanja za izdelavo poročila o napakah</string>
   <string name="button_convert_fbe">Izbriši in spremeni…</string>
