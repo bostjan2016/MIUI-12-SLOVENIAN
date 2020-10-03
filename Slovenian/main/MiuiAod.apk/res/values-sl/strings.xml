@@ -56,8 +56,8 @@ dd.MM"</string>
   <string name="apply">Uporabi</string>
   <string name="apply_succeed">Uspešno nastavljeno</string>
   <string name="background_icon">Ozadje</string>
-  <string name="black_white_clock_panel">Ura</string>
   <string name="below_image">Dol</string>
+  <string name="black_white_clock_panel">Ura</string>
   <string name="btn_know">Razumem</string>
   <string name="cancel">Prekliči</string>
   <string name="character_counter_content_description">Vnešeno znakov %1$d od %2$d</string>
@@ -90,11 +90,14 @@ dd.MM"</string>
   <string name="evening">PM</string>
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Pokaži padajoči meni</string>
-  <string name="icon_content_description">Ikona dialoga</string>
   <string name="font_thickness">Odebeljeni font</string>
+  <string name="icon_content_description">Ikona dialoga</string>
+  <string name="item_view_role_description">Kartica</string>
   <string name="large_time">Velika ura</string>
   <string name="letter_space">Razmak med črkami</string>
   <string name="line_space">Razmak med vrsticami</string>
+  <string name="material_slider_range_end">Konec,</string>
+  <string name="material_slider_range_start">Začetek,</string>
   <string name="midnight">AM</string>
   <string name="mini_time">Mala ura</string>
   <string name="minimalist_clock">Enostavna ura</string>
@@ -151,6 +154,7 @@ dd.MM"</string>
   <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Več kot %1$d novih obvestil</string>
   <string name="mtrl_picker_a11y_next_month">Zamenjaj na naslednji mesec</string>
   <string name="mtrl_picker_a11y_prev_month">Zamenjaj na prejšnji mesec</string>
   <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>

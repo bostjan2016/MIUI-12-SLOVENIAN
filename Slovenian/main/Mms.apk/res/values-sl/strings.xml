@@ -646,7 +646,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="notification_ad_content">Dobili ste reklamno sporočilo od %s</string>
   <string name="notification_channel_msg_description">Obvestilo o sporočilu</string>
   <string name="notification_channel_msg_name">Sporočilo</string>
-  <string name="notification_channel_other_description">Obvestilo brez sporočila</string>
+  <string name="notification_channel_other_description">Druga obvestila</string>
   <string name="notification_channel_other_name">Ostalo</string>
   <string name="notification_channel_sim1_description">Obvestilo o sporočilu SIM-1</string>
   <string name="notification_channel_sim1_name">Sporočilo SIM-1</string>

@@ -86,6 +86,13 @@
   <string name="focus_mode_timer_pick_dialog_title">Vnesite trajanje</string>
   <string name="focus_time_exception_tip">Kaže da je zamenjan sistemski čas. Izključite način fokusiranja.</string>
   <string name="follow_sim1">Uporabi nastavitve SIM 1</string>
+  <string name="fps_nature_summary">Visoka hitrost osveževanja naredi vse ostro in jasno</string>
+  <string name="fps_nature_title">Visoka</string>
+  <string name="fps_smooth_summary">Srednja hitrost osveževanja doda več jasnosti podrobnostim</string>
+  <string name="fps_smooth_title">Srednja</string>
+  <string name="fps_standard_summary">Standardna hitrost osveževanja varčuje z baterijo</string>
+  <string name="fps_standard_title">Standardna</string>
+  <string name="fps_user_tip">Te predstavitvene animacije se za vašo referenco predvajajo pri nizki hitrosti. Dejanska uspešnost je lahko videti drugačna, odvisno od različnih dejavnikov.</string>
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>

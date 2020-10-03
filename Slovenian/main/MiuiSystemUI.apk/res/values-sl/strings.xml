@@ -11,6 +11,16 @@
     <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
     <string name="abc_capital_off">IZKLOPLJENO</string>
     <string name="abc_capital_on">VKLOPLJENO</string>
+     <string name="abc_menu_alt_shortcut_label">Alt+</string>
+     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+     <string name="abc_menu_delete_shortcut_label">delete</string>
+     <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+     <string name="abc_menu_meta_shortcut_label">Meta+</string>
+     <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+     <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meni +</string>
     <string name="abc_search_hint">Iskanje …</string>
     <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
     <string name="abc_searchview_description_query">Iskalna poizvedba</string>
@@ -215,7 +225,7 @@
   <string name="accessibility_quick_settings_no_internet">Ni spleta.</string>
   <string name="accessibility_quick_settings_open_details">Odpiranje podrobnosti.</string>
   <string name="accessibility_quick_settings_open_settings">Odpiranje podrobnosti za %s.</string>
-  <string name="accessibility_quick_settings_page">Strani %1$d od %2$d</string>
+  <string name="accessibility_quick_settings_page">Stran %1$d od %2$d</string>
   <string name="accessibility_quick_settings_rotation">Samodejno obračanje zaslona</string>
   <string name="accessibility_quick_settings_rotation_value">Način: %s</string>
   <string name="accessibility_quick_settings_settings">Odpiranje nastavitev.</string>
@@ -292,7 +302,11 @@
   <string name="accessibility_wimax_three_bars">WiMAX: tri črtice.</string>
   <string name="accessibility_wimax_two_bars">WiMAX: dve črtici.</string>
   <string name="accessibility_work_mode">Način dela</string>
+     <string name="accessibility_work_profile_app_description">Delo %s</string>
   <string name="accessibility_zero_bars">Ni črtic.</string>
+    <string name="accessor_expires_text">Zakup poteče dne %s</string>
+    <string name="accessor_info_title">Aplikacije, ki si delijo podatke</string>
+    <string name="accessor_no_description_text">Aplikacija ni posredovala opisa.</string>
   <string name="account_info">Niste prijavljeni</string>
   <string name="action_bar_expand_collapse_button">Gumb za širjenje/strnjevanje</string>
   <string name="activate_usb_message">Da aktivirate to storitev vstavite vašo SIM kartico</string>
@@ -300,9 +314,36 @@
   <string name="active_input_method_subtypes">Aktivni načini vnosa</string>
   <string name="activity_launch_on_secondary_display_failed_text">Aplikacija ne podpira zagona na sekundarnih zaslonih.</string>
   <string name="activity_not_found">Aplikacija ni nameščena v vaši napravi</string>
-  <string name="adb_keys_warning_message">Ali želite preklicati dostop do odpravljanja napak preko USB-a iz vseh avtoriziranih računalnikov?</string>
+    <string name="adb_device_fingerprint_title_format">Prstni odtis naprave: %1$s</string>
+    <string name="adb_device_forget">Pozabi</string>
+    <string name="adb_keys_warning_message">Ali želite preklicati dostop do odpravljanja težav prek povezave USB iz vseh računalnikov, ki ste jih pooblastili?</string>
+    <string name="adb_pair_method_code_summary">Seznanjanje novih naprav s šestmestno kodo</string>
+    <string name="adb_pair_method_code_title">Seznanjanje naprave s kodo za seznanjanje</string>
+    <string name="adb_pair_method_qrcode_summary">Seznanitev novih naprav z optičnim bralnikom kod QR</string>
+    <string name="adb_pair_method_qrcode_title">Seznanjanje naprave s kodo QR</string>
+    <string name="adb_paired_devices_title">Seznanjene naprave</string>
+    <string name="adb_pairing_device_dialog_failed_msg">Preverite, ali je naprava povezana v isto omrežje.</string>
+    <string name="adb_pairing_device_dialog_failed_title">Seznanjanje neuspešno</string>
+    <string name="adb_pairing_device_dialog_pairing_code_label">Koda za seznanjanje po Wi‑Fi-ju</string>
+    <string name="adb_pairing_device_dialog_title">Seznanitev z napravo</string>
+    <string name="adb_qrcode_pairing_device_failed_msg">Seznanitev naprave ni uspela. Koda QR je nepravilna ali pa naprava ni povezana v isto omrežje.</string>
   <string name="adb_warning_message">Odpravljanje napak preko USB je namenjeno je samo za raziskovalce. Lahko se uporabi za kopiranje podatkov iz računalnika na napravo in obratno, namestitev aplikacij na napravo....</string>
   <string name="adb_warning_title">Omogočim odpravljanje napak preko USB?</string>  
+    <string name="adb_wireless_connection_failed_message">Preverite, ali je naprava %1$s povezana v ustrezno omrežje</string>
+    <string name="adb_wireless_connection_failed_title">Povezava neuspešna</string>
+    <string name="adb_wireless_device_connected_summary">Trenutno povezano</string>
+    <string name="adb_wireless_device_details_title">Podrobnosti o napravi</string>
+    <string name="adb_wireless_error">Napaka</string>
+    <string name="adb_wireless_ip_addr_preference_title">Naslov IP in vrata</string>
+    <string name="adb_wireless_list_empty_off">Če si želite ogledati in uporabljati razpoložljive naprave, vklopite brezžično odpravljanje napak</string>
+    <string name="adb_wireless_no_network_msg">Vzpostavite povezavo z omrežjem Wi-Fi</string>
+    <string name="adb_wireless_qrcode_pairing_description">Seznanitev naprave prek Wi‑Fi-ja z optičnim branjem kode QR</string>
+    <string name="adb_wireless_qrcode_pairing_title">Optično branje kode QR</string>
+    <string name="adb_wireless_qrcode_summary">Seznanitev naprave prek Wi‑Fi-ja z optičnim branjem kode QR</string>
+    <string name="adb_wireless_settings">Brezžično odpravljanje napak</string>
+    <string name="adb_wireless_verifying_qrcode_text">Seznanjanje naprave …</string>
+    <string name="adbwifi_warning_message">Brezžično odpravljanje napak je namenjeno samo za razvoj. Lahko ga uporabljate za kopiranje podatkov med računalnikom in napravo, nameščanje aplikacij v napravo brez obveščanja in branje podatkov v dnevniku.</string>
+    <string name="adbwifi_warning_title">Ali dovolite brezžično odpravljanje napak?</string>
   <string name="add_tile">Dodajanje ploščice</string>
   <string name="adjust_button_width">Prilagodite širino gumba</string>
   <string name="airplane_mode">Letalo</string>
@@ -310,8 +351,8 @@
   <string name="alarm_template_far">ob %1$s</string>
   <string name="allow_mock_location">Dovoli poskusne lokacije</string>
   <string name="allow_mock_location_summary">Dovoli poskusne lokacije</string>  
-  <string name="always_use_accessory">"Uporabi kot privzeto za ta USB dodatek"</string>
-  <string name="always_use_device">"Uporabi kot privzeto za to USB napravo"</string>
+  <string name="always_use_accessory">Zmeraj odpri aplikacijo %1$s ko se poveže naprava %2$s</string>
+  <string name="always_use_device">Zmeraj odpri aplikacijo %1$s ko se poveže naprava %2$s</string>
   <string name="animator_duration_scale_title">Razmerje dolžine animatorja</string>
   <string name="aod_lock_screen_date">EE, dd.MM.yyyy</string>
   <string name="aod_lock_screen_date_12">EE, dd.MM.</string>
@@ -320,6 +361,7 @@
   <string name="app_label">Sistem UI</string>
   <string name="app_name">Zakl. zaslon</string>
   <string name="app_process_limit_title">Omejitev procesov v ozadju</string>
+     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
   <string name="appops_camera">Ta aplikacija uporablja kamero.</string>
   <string name="appops_camera_mic">Ta aplikacija uporablja mikrofon in kamero.</string>
   <string name="appops_camera_mic_overlay">Ta aplikacija se prikazuje preko drugih aplikacij na zaslonu in uporablja mikrofon in kamero.</string>
@@ -339,6 +381,7 @@
   <string name="audio_effect_settings">Določi tip slušalk</string>
   <string name="auto_brightness_off">Samodejna svetlost je onemogočena</string>
   <string name="auto_brightness_on">Samodejna svetlost je omogočena</string>
+     <string name="auto_connect_disable">Samodejna povezava je izključena</string>
   <string name="auto_disable_screenbuttons_disable_toast_text">Navigacijske tipke onemogočene, dvakrat tapnite katerokoli tipko da jih ponovno vključite.</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">Navigacijske tipke omogočene</string>
   <string name="auto_saver_enabled_text">Varčevanje baterije se vključi samodejno ko nivo baterije pade pod %d%%.</string>
@@ -346,6 +389,7 @@
   <string name="auto_saver_okay_action">Razumem</string>
   <string name="auto_saver_text">Vključi se samodejno ko nivo baterije na %d%%</string>
   <string name="auto_saver_title">Tapnite za nastavitev varčevanja baterije</string>
+    <string name="available_via_app">Na voljo prek aplikacije %1$s</string>
   <string name="available_via_carrier">Na voljo preko %1$s</string>
   <string name="available_via_passpoint">Na voljo preko %1$s</string>
   <string name="back">Nazaj</string>
@@ -357,7 +401,9 @@
   <string name="battery_detail_switch_summary">Zmanjša količino dela in podatke v ozadju</string>
   <string name="battery_detail_switch_title">Varčevanje baterije</string>
   <string name="battery_info_status_charging">Polnjenje</string>
+    <string name="battery_info_status_charging_fast">Hitro polnjenje</string>
   <string name="battery_info_status_charging_lower">polnjenje</string>
+     <string name="battery_info_status_charging_slow">Počasno polnjenje</string>
   <string name="battery_info_status_discharging">Ne polni se</string>
   <string name="battery_info_status_full">Napolnjeno</string>
   <string name="battery_info_status_not_charging">"Vključeno, trenutno se ne more polniti"</string>
@@ -373,7 +419,6 @@
   <string name="battery_low_title">"Baterija je prazna"</string>
   <string name="battery_low_title_power_save">Varčevanje baterije</string>
   <string name="battery_low_why">Nastavitve</string>
-  <string name="battery_meter_very_low_overlay_symbol">!</string>
   <string name="battery_panel_title">Poraba baterije</string>
   <string name="battery_profiles">Uporabi baterijske profile</string>
   <string name="battery_saver_confirmation_ok">Vključi</string>
@@ -382,8 +427,40 @@
   <string name="battery_saver_notification_text">Zmanjša količino dela in podatke v ozadju</string>
   <string name="battery_saver_notification_title">Varčevanje baterije je vključeno</string>
   <string name="battery_saver_start_action">Vključi varčevanje baterije</string>
+    <string name="biometric_dialog_authenticated">Preverjena pristnost</string>
   <string name="biometric_dialog_confirm">Potrdi</string>
-  <string name="biometric_dialog_try_again">Poskusite ponovno</string>
+    <string name="biometric_dialog_credential_attempts_before_wipe">Poskusite znova. %1$d. poskus od %2$d.</string>
+    <string name="biometric_dialog_credential_too_many_attempts">"Preveč napačnih poskusov.
+Poskusite znova čez %d s."</string>
+    <string name="biometric_dialog_empty_space_description">Če želite preklicati preverjanje pristnosti, se dotaknite</string>
+    <string name="biometric_dialog_face_icon_description_authenticated">Pristnost obraza je potrjena</string>
+    <string name="biometric_dialog_face_icon_description_authenticating">Iskanje obraza</string>
+    <string name="biometric_dialog_face_icon_description_confirmed">Potrjeno</string>
+    <string name="biometric_dialog_face_icon_description_idle">Poskusite znova</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_device">Preveč napačnih poskusov. Podatki v napravi bodo izbrisani.</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_profile">Preveč napačnih poskusov. Delovni profil in podatki v njem bodo izbrisani.</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_user">Preveč napačnih poskusov. Uporabnik bo izbrisan.</string>
+    <string name="biometric_dialog_last_attempt_before_wipe_dialog_title">Vaši podatki bodo izbrisani</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_device">Če pri naslednjem poskusu vnesete napačno geslo, bodo podatki v tej napravi izbrisani.</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_profile">Če pri naslednjem poskusu vnesete napačno geslo, bodo delovni profil in podatki v njem izbrisani.</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_user">Če pri naslednjem poskusu vnesete napačno geslo, bo ta uporabnik izbrisan.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_device">Če pri naslednjem poskusu vnesete napačen vzorec, bodo podatki v tej napravi izbrisani.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_profile">Če pri naslednjem poskusu vnesete napačen vzorec, bodo delovni profil in podatki v njem izbrisani.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_user">Če pri naslednjem poskusu vnesete napačen vzorec, bo ta uporabnik izbrisan.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_device">Če pri naslednjem poskusu vnesete napačno kodo PIN, bodo podatki v tej napravi izbrisani.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_profile">Če pri naslednjem poskusu vnesete napačno kodo PIN, bodo delovni profil in podatki v njem izbrisani.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_user">Če pri naslednjem poskusu vnesete napačno kodo PIN, bo ta uporabnik izbrisan.</string>
+    <string name="biometric_dialog_now_wiping_dialog_dismiss">Opusti</string>
+    <string name="biometric_dialog_tap_confirm">Za dokončanje se dotaknite »Potrdite«</string>
+    <string name="biometric_dialog_try_again">Poskusi znova</string>
+    <string name="biometric_dialog_use_password">Uporabi geslo</string>
+    <string name="biometric_dialog_use_pattern">Uporabi vzorec</string>
+    <string name="biometric_dialog_use_pin">Uporabi kodo PIN</string>
+    <string name="biometric_dialog_wrong_password">Napačno geslo</string>
+    <string name="biometric_dialog_wrong_pattern">Napačen vzorec</string>
+    <string name="biometric_dialog_wrong_pin">Napačna koda PIN</string>
+    <string name="blob_expires_text">Poteče dne %s</string>
+    <string name="blob_id_text">ID deljenih podatkov: %d</string>
   <string name="block">Blokiraj vsa obvestila</string>
   <string name="block_notification_content_text">"Obvestila %1$s ne bodo ponovno prikazane. To lahko spremenite v Nastavitvah."</string>
   <string name="block_notification_desc">"Obvestila aplikacij ne bodo ponovno prikazana. To lahko spremenite v Nastavitvah."</string>
@@ -393,10 +470,10 @@
   <string name="bluetooth_a2dp_profile_summary_connected">Povezano z medijskim zvokom</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Uporabi za medijski zvok</string>
   <string name="bluetooth_active_battery_level">Aktivno| Baterija %1$s</string>
-  <string name="bluetooth_active_battery_level_untethered">Aktivno, L: baterija %1$s, R: baterija %2$s</string>
+  <string name="bluetooth_active_battery_level_untethered">Aktivno, L: baterija %1$s, D: baterija %2$s</string>
   <string name="bluetooth_active_no_battery_level">Aktivno</string>
   <string name="bluetooth_battery_level">baterija %1$s</string>
-  <string name="bluetooth_battery_level_untethered">L: baterija %1$s, R: baterija %2$s</string>
+  <string name="bluetooth_battery_level_untethered">L: baterija %1$s, D: baterija %2$s</string>
   <string name="bluetooth_connected">Povezano %1$s</string>
   <string name="bluetooth_connected_battery_level">Povezano| Baterija: %1$s</string>
   <string name="bluetooth_connected_no_a2dp">Povezano (brez predstavnosti)</string>
@@ -413,6 +490,8 @@
   <string name="bluetooth_disconnecting">Izključevanje…</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na DUN strežnik</string>
   <string name="bluetooth_dun_profile_summary_use_for">Uporablja za klicni dostop na omrežje</string>
+    <string name="bluetooth_enable_gabeldorsche">Omogoči Gabeldorsche</string>
+    <string name="bluetooth_enable_gabeldorsche_summary">Omogoči sklad funkcij Bluetooth Gabeldorsche.</string>
   <string name="bluetooth_enable_inband_ringing">Omogoči zvok zvonenja znotraj pasovne širine</string>
   <string name="bluetooth_enable_inband_ringing_summary">Omogoči predvajanje melodije zvonenja preko Bluetooth slušalk</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezano s telefonskim zvokom</string>
@@ -450,47 +529,51 @@
   <string name="bluetooth_profile_headset">Zvok telefona</string>
   <string name="bluetooth_profile_hearing_aid">Slušni aparat</string>
   <string name="bluetooth_profile_hid">Vhodna naprava</string>
-  <string name="bluetooth_profile_map">Dostop sporočilom</string>
+  <string name="bluetooth_profile_map">SMS-i</string>
   <string name="bluetooth_profile_opp">Prenos datotek</string>
   <string name="bluetooth_profile_pan">Dostop do spleta</string>
   <string name="bluetooth_profile_pan_nap">Delenje spletne povezave</string>
   <string name="bluetooth_profile_pbap">Deljenje stikov</string>
   <string name="bluetooth_profile_pbap_summary">Uporabi za deljenje stikov</string>
   <string name="bluetooth_profile_sap">Pristop SIM kartici</string>
-  <string name="bluetooth_sap_profile_summary_connected">Povezano s SAP-om</string>
+    <string name="bluetooth_sap_profile_summary_connected">Vzpostavljena povezava s profilom SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Uporabi za dostop do SIM kartice</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bitov po vzorcu za Bluetooth Audio</string>
-  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Izberi kodek za Bluetooth Audio:
-bitov po vzorcu"</string>
-  <string name="bluetooth_select_a2dp_codec_channel_mode">Način kanala za Bluetooth Audio</string>
-  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Izberi kodek za Bluetooth Audio:
-način kanala"</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Kodek za Bluetooth Audio LDAC: kvaliteta predvajanja</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Izberi kodek za Bluetooth Audio LDAC:
-kvaliteta predvajanja"</string>
-  <string name="bluetooth_select_a2dp_codec_sample_rate">Hitrost vzorca za Bluetooth Audio</string>
-  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Izberi kodek za Bluetooth Audio:
-hitrost vzorčenja"</string>
-  <string name="bluetooth_select_a2dp_codec_streaming_label">Prenos: %1$s</string>
-  <string name="bluetooth_select_a2dp_codec_type">Kodek za Bluetooth Audio</string>
-  <string name="bluetooth_select_a2dp_codec_type_dialog_title">Izberi kodek za Bluetooth Audio</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Sproži zvočni kodek za Bluetooth
+Izbor: število bitov na vzorec"</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode">Način zvočnega kanala prek Bluetootha</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Sproži zvočni kodek za Bluetooth
+Izbor: način kanala"</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Zvočni kodek LDAC za Bluetooth: kakovost predvajanja</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sproži kodek LDAC za zvok prek Bluetootha
+Izbira kodeka: kakovost predvajanja"</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate">Hitrost vzorčenja zvoka prek Bluetootha</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Sproži zvočni kodek za Bluetooth
+Izbor: hitrost vzorčenja"</string>
+    <string name="bluetooth_select_a2dp_codec_streaming_label">Pretočno predvajanje: %1$s</string>
+    <string name="bluetooth_select_a2dp_codec_type">Zvočni kodek za Bluetooth</string>
+    <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Sproži zvočni kodek za Bluetooth
+Izbor"</string>
+    <string name="bluetooth_select_a2dp_codec_type_help_info">Če je možnost zatemnjena, to pomeni, da je telefon ali slušalke z mikrofonom ne podpirajo</string>
   <string name="bluetooth_select_avrcp_version_dialog_title">Izberite verzijo AVRCP-a za Bluetooth</string>
   <string name="bluetooth_select_avrcp_version_string">Verzija AVRCP-a za Bluetooth</string>
-  <string name="bluetooth_show_devices_without_names">Prikaz Bluetooth naprave bez imena</string>
+    <string name="bluetooth_select_map_version_dialog_title">Izbira različice profila MAP za Bluetooth</string>
+    <string name="bluetooth_select_map_version_string">Različica profila MAP za Bluetooth</string>
+  <string name="bluetooth_show_devices_without_names">Prikaz Bluetooth naprave brez imena</string>
   <string name="bluetooth_show_devices_without_names_summary">Pokazala se bo Bluetooth naprava brez imena (samo MAC naslov)</string>
   <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
   <string name="bluetooth_talkback_computer">Računalnik</string>
   <string name="bluetooth_talkback_headphone">Slušalke</string>
   <string name="bluetooth_talkback_headset">Slušalke z mikrofonom</string>
   <string name="bluetooth_talkback_imaging">Slike</string>
-  <string name="bluetooth_talkback_input_peripheral">Periferni naprava za vnos</string>
+    <string name="bluetooth_talkback_input_peripheral">Zunanja dodatna oprema</string>
   <string name="bluetooth_talkback_phone">Telefon</string>
   <string name="bluetooth_tethered">Deljenje Bluetooth</string>
   <string name="branded_monitoring_description_app_personal">Povezani ste z aplikacijo %1$s ki lahko nadzira vašo aktivnost aktivnost na omrežju, vključno e-pošto, aplikacije in web-lokacije.</string>
   <string name="branded_vpn_footer">Omrežje je lahko nadzorovano</string>
   <string name="broadcast_tile">Predvajanje ploščice</string>
   <string name="bt_hci_snoop_log">Dnevniki za Bluetooth HCI</string>
-  <string name="bt_hci_snoop_log_summary">Posnemi vse Bluetooth HCI pakete v datoteki (Spremenite Bluetooth po spremembi te nastavitve)</string>
+  <string name="bt_hci_snoop_log_summary">Pridobite pakete Bluetooth. (Po spremembi te nastavitve vklopite Bluetooth)</string>
   <string name="bt_is_off">Bluetooth je izključen</string>
   <string name="btn_camera">Vnesite obraz</string>
   <string name="bubble_accessibility_action_move">Premakni</string>
@@ -498,15 +581,26 @@ hitrost vzorčenja"</string>
   <string name="bubble_accessibility_action_move_bottom_right">Premakni dol desno</string>
   <string name="bubble_accessibility_action_move_top_left">Premakni gor levo</string>
   <string name="bubble_accessibility_action_move_top_right">Premakni gor desno</string>
-  <string name="bubble_content_description_single">%1$s od %2$s</string>
-  <string name="bubble_content_description_stack">%1$s od %2$s in še %3$d</string>
+  <string name="bubble_content_description_single">%1$s iz aplikacije %2$s</string>
+  <string name="bubble_content_description_stack">%1$s iz aplikacije %2$s in še %3$d</string>
   <string name="bubble_dismiss_text">Zavrzi</string>
-  <string name="bubbles_deep_link_button_description">Odpri %1$s</string>
-  <string name="bubbles_prompt">Dovolite oblačke od %1$s?</string>
-  <string name="bubbles_settings_button_description">Nastavitve za %1$s oblačke</string>
+    <string name="bubble_overflow_empty_subtitle">Tukaj bodo prikazani tako nedavni kot tudi opuščeni oblački</string>
+    <string name="bubble_overflow_empty_title">Ni nedavnih oblačkov</string>
+    <string name="bubbles_app_settings">Nastavitve za %1$s</string>
+    <string name="bubbles_dont_bubble_conversation">Pogovora ne prikaži v oblačku</string>
+    <string name="bubbles_settings_button_description">Nastavitve za oblačke aplikacije %1$s</string>
+    <string name="bubbles_user_education_description">Novi pogovori so prikazani kot lebdeče ikone ali oblački. Če želite odpreti oblaček, se ga dotaknite. Če ga želite premakniti, ga povlecite.</string>
+    <string name="bubbles_user_education_got_it">Razumem</string>
+    <string name="bubbles_user_education_manage">Dotaknite se »Upravljanje«, da izklopite oblačke iz te aplikacije</string>
+    <string name="bubbles_user_education_manage_title">Upravljanje oblačkov kadar koli</string>
+    <string name="bubbles_user_education_title">Klepet z oblački</string>
   <string name="bugreport_in_power">Bližnjica poročila o napakah</string>
   <string name="bugreport_in_power_summary">Pokaži gumb v meniju napajanja za izdelavo poročila o napakah</string>
   <string name="button_convert_fbe">Izbriši in spremeni…</string>
+     <string name="cached_apps_freezer_device_default">Naprava privzeta</string>
+     <string name="cached_apps_freezer_disabled">Onemogočeno</string>
+     <string name="cached_apps_freezer_enabled">Omogočeno</string>
+     <string name="cached_apps_freezer_reboot_dialog_text">Za uveljavitev te spremembe morate napravo znova zagnati. Znova zaženite zdaj ali prekličite.</string>
   <string name="call_status_dialing">Klicanje</string>
   <string name="call_status_holding">Na čakanju</string>
   <string name="call_status_ringing">Zvonjenje</string>
@@ -608,11 +702,11 @@ hitrost vzorčenja"</string>
      <string name="data_usage_disabled_dialog">"Dosegli ste omejitev uporabe podatkov.     
 
 Če boste ponovno omogočili podatke jih lahko vaš operater zaračuna."</string>
-  <string name="data_usage_disabled_dialog_3g_title">"2G-3G podatki izključeni"</string>
-  <string name="data_usage_disabled_dialog_4g_title">"4G podatki izključeni"</string>
+  <string name="data_usage_disabled_dialog_3g_title">2G – 3G podatki pavzirani</string>
+  <string name="data_usage_disabled_dialog_4g_title">4G podatki pavzirani</string>
   <string name="data_usage_disabled_dialog_enable">Ponovno omogoči podatke</string>
-  <string name="data_usage_disabled_dialog_mobile_title">"Mobilni podatki izključeni"</string>
-  <string name="data_usage_disabled_dialog_title">Podatki izključeni</string>
+  <string name="data_usage_disabled_dialog_mobile_title">Mobilni podatki pavzirani</string>
+  <string name="data_usage_disabled_dialog_title">Podatki pavzirani</string>
   <string name="data_usage_ota">Posodobitve sistema</string>
   <string name="data_usage_uninstalled_apps">Odstranjene aplikacije</string>
   <string name="data_usage_uninstalled_apps_users">Odstranjene aplikacije in uporabniki</string>
@@ -634,6 +728,8 @@ hitrost vzorčenja"</string>
   <string name="default_lockscreen_unlock_hint_text">Podrsaj gor za odklep.</string>
   <string name="default_theme">Privzeto</string>
   <string name="delete">Izbriši</string>
+    <string name="delete_blob_confirmation_text">Ali ste prepričani, da želite odstraniti te deljene podatke?</string>
+    <string name="delete_blob_text">Izbriši deljene podatke</string>
   <string name="demo_mode">Demo način</string>
   <string name="description_direction_left">Podrsaj levo za %s.</string>
   <string name="description_direction_up">Podrsaj navzgor za %s.</string>
@@ -651,7 +747,7 @@ hitrost vzorčenja"</string>
   <string name="development_settings_not_available">Nastavitve razvojnih programerjev niso na voljo za tega uporabnika</string>
   <string name="development_settings_summary">Nastavljanje opcij za razvoj aplikacije</string>
   <string name="development_settings_title">Opcije za razvojne programerje</string>
-  <string name="digital_clock_dot">:</string>
+    <string name="device_services">Storitve naprave</string>
   <string name="direct_boot_unaware_dialog_message">Opomba: Po ponovnem zagonu naprave se aplikacija ne more ponovno zagnati dokler ne odklenete telefon</string>
   <string name="disable_notification_summary">"Ne pokaži obvestil izbranih aplikacij."</string>
   <string name="disable_notification_title">Skrij obvestila</string>
@@ -688,6 +784,8 @@ hitrost vzorčenja"</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Deljeni zaslon ni podprt na zakl. zaslonu.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Ta aplikacija ne podpira deljeni zaslon</string>
   <string name="download_lock_wallpaper">Tapnite dvakrat da prenesete aplikacijo Wallpaper Carousel</string>
+     <string name="doze_brightness_sensor_type" />
+     <string name="doze_pickup_subtype_performs_proximity_check" />
   <string name="drag_to_add_tiles">Pritisnite in držite da boste dodali ali zamenjali razpored stvari</string>
   <string name="drag_to_remove_disabled">Potrebno je vsaj 6 ploščic</string>
   <string name="drag_to_remove_tiles">Podrsajte tu za odstranitev</string>
@@ -700,6 +798,8 @@ hitrost vzorčenja"</string>
   <string name="empty_title">" "</string>
   <string name="enable_adb">Odpravljanje napak preko USB</string>
   <string name="enable_adb_summary">Odpravljanje napak z priključenim USB</string>
+    <string name="enable_adb_wireless">Brezžično odpravljanje napak</string>
+    <string name="enable_adb_wireless_summary">Način za odpravljanje napak pri vzpostavljeni povezavi WiFi</string>
   <string name="enable_bluetooth_confirmation_ok">Vključi</string>
   <string name="enable_bluetooth_message">Da boste povezali tipkovnico z napravo, morate vklopiti Bluetooth.</string>
   <string name="enable_bluetooth_title">Želite vklopiti Bluetooth?</string>
@@ -713,7 +813,11 @@ hitrost vzorčenja"</string>
   <string name="enable_power_save_mode">Vključi varčevanje baterije</string>
   <string name="enable_terminal_summary">Omogoči aplikacijo terminala ki nudi dostop do lokalne ovojnice</string>
   <string name="enable_terminal_title">Lokalni terminal</string>
+    <string name="enable_verbose_vendor_logging">Omogoči podrobno beleženje za ponudnika</string>
+    <string name="enable_verbose_vendor_logging_summary">Vključitev dodatnih dnevnikov ponudnika, odvisnih od posamezne naprave, v poročila o napakah. Takšno poročilo lahko vsebuje zasebne podatke, porabi več energije baterije in/ali več shrambe.</string>
   <string name="enabled_by_admin">Omogočil skrbnik</string>
+    <string name="enhanced_connectivity">Izboljšana povezljivost</string>
+    <string name="enhanced_connectivity_summary">Omogoči funkcijo Izboljšana povezljivost.</string>
   <string name="error_disable_esim_msg">Onemogočanje eSIM-a ni uspelo zaradi napake.</string>
   <string name="error_disable_esim_title">Ne morem onemogočiti eSIM</string>
   <string name="ethernet_label">Ethernet</string>
@@ -859,7 +963,7 @@ hitrost vzorčenja"</string>
   <string name="fsg_demo_back">Nazaj</string>
   <string name="fsg_demo_go_on">Gremo naprej</string>
   <string name="global_action_screenshot">Posnetek zaslona</string>
-  <string name="go_to_web">Pojdi na splet</string>
+    <string name="go_to_web">Odpri brskalnik</string>
   <string name="got_it">Razumem</string>
   <string name="gps_notification_found_text">Lokacijo nastavil GPS</string>
   <string name="gps_notification_searching_text">Iskanje GPS-a</string>
@@ -915,6 +1019,7 @@ hitrost vzorčenja"</string>
   <string name="headset_settings">Slušalke priključene</string>
   <string name="heap_dump_tile_name">Izdvoji sp. SysUI-a</string>
     <string name="help_feedback_label">Pomoč in povratne informacije</string>
+    <string name="help_label">Pomoč in povratne informacije</string>
     <string name="hidden_notifications_cancel">Ne, hvala</string>
     <string name="hidden_notifications_setup">Nastavitev</string>
     <string name="hidden_notifications_text">Oglejte si jih pred odklepanjem</string>
@@ -944,6 +1049,7 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
   <string name="ims_reg_status_not_registered">Ni registrirano</string>
   <string name="ims_reg_status_registered">Registrirano</string>
   <string name="ims_reg_title">Stanje registracije IMS-a</string>
+    <string name="imsi_protection_warning">To omrežje prejme enolični ID, s katerim je mogoče spremljati lokacijo naprave. <annotation id="url">Več o tem</annotation></string>
   <string name="inactive_app_active_summary">Aktivno. Tapnite za spremembo.</string>
   <string name="inactive_app_inactive_summary">Ni aktivno. Tapnite za spremembo.</string>
   <string name="inactive_apps_title">Aplikacije na čakanju</string>
@@ -951,6 +1057,8 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
   <string name="incorrect_pukcode">Napačna PUK koda</string>
   <string name="inline_blocking_helper">"Ponavadi zavržete ta obvestila. 
   Naj se še naprej prikazujejo?"</string>
+    <string name="inline_deliver_silently_button">Dostava brez zvoka</string>
+    <string name="inline_done_button">Končano</string>
   <string name="inline_keep_button">Nadaljuj prikazovati</string>
   <string name="inline_keep_showing">Želite da se obvestila nadaljujejo prikazovati?</string>
   <string name="inline_keep_showing_app">Želite da se obvestila te aplikacije nadaljujejo prikazovat?</string>
@@ -973,9 +1081,9 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
     <string name="install_other_apps">Nameščanje neznanih aplikacij</string>
     <string name="installer_cd_button_title">Namesti program Android – Prenos datotek za Mac</string>
     <string name="instant_apps">Nenamestljive aplikacije</string>
-    <string name="instant_apps_message">Nenamestljivih aplikacij ni treba namestiti.</string>
-  <string name="instant_apps_message_with_help">Aplikacija se je odprla brez namestitve. Tapnite da izveste več.</string>
-  <string name="instant_apps_title">%1$s se pregleduje</string>
+  <string name="instant_apps_message">Aplikacija je odprta brez nameščanja.</string>
+  <string name="instant_apps_message_with_help">Aplikacija je odprta brez nameščanja. Dotaknite se, če želite izvedeti več.</string>
+  <string name="instant_apps_title">Izvaja se aplikacija %1$s</string>
   <string name="interruption_level_alarms">Samo alarmi</string>
   <string name="interruption_level_alarms_twoline">"Samo
 alarmi"</string>
@@ -1105,6 +1213,7 @@ Uporabite priloženi polnilnik."</string>
     <string name="keyguard_plugged_in_charging_fast">Hitro polnjenje</string>
     <string name="keyguard_plugged_in_charging_slowly">Počasno polnjenje</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Hitro polnjenje. Tapnite za podrobnosti.</string>
+    <string name="keyguard_retry">Podrsajte navzgor za vnovičen poskus</string>
   <string name="keyguard_sim_error_message_short">Neveljavna kartica.</string>
     <string name="keyguard_sim_locked_message">Kartica SIM je zaklenjena.</string>
     <string name="keyguard_sim_puk_locked_message">Kartica SIM je zaklenjena s kodo PUK.</string>
@@ -1123,6 +1232,7 @@ Poskusite znova čez %3$d s."</string>
     <string name="kg_failed_attempts_now_erasing_profile">Telefon ste neuspešno poskusili odkleniti %d-krat. Delovni profil bo odstranjen in vsi podatki profila bodo izbrisani.</string>
     <string name="kg_failed_attempts_now_erasing_user">Telefon ste neuspešno poskusili odkleniti %d-krat. Ta uporabnik bo odstranjen in vsi podatki uporabnika bodo izbrisani.</string>
     <string name="kg_failed_attempts_now_wiping">Telefon ste neuspešno poskusili odkleniti %d-krat, zato bo ponastavljen, vsi podatki v njem pa bodo izbrisani.</string>
+     <string name="kg_fingerprint_not_recognized">Nije prepoznat</string>
     <string name="kg_forgot_pattern_button_text">Pozabljen vzorec</string>
     <string name="kg_invalid_confirm_pin_hint">Kodi PIN se ne ujemata</string>
     <string name="kg_invalid_puk">Znova vnesite pravilno kodo PUK. Večkratni poskusi bodo trajno onemogočili kartico SIM.</string>
@@ -1138,6 +1248,9 @@ Poskusite znova čez %3$d s."</string>
     <string name="kg_pin_accepted">Koda je sprejeta.</string>
     <string name="kg_pin_instructions">Vnesite kodo PIN</string>
     <string name="kg_prompt_reason_device_admin">Napravo je zaklenil skrbnik</string>
+    <string name="kg_prompt_reason_prepare_for_update_password">Za pripravo na posodobitev morate vnesti geslo</string>
+    <string name="kg_prompt_reason_prepare_for_update_pattern">Za pripravo na posodobitev morate vnesti vzorec</string>
+    <string name="kg_prompt_reason_prepare_for_update_pin">Za pripravo na posodobitev morate vnesti kodo PIN</string>
     <string name="kg_prompt_reason_restart_password">Po vnovičnem zagonu naprave je treba vnesti geslo</string>
     <string name="kg_prompt_reason_restart_pattern">Po vnovičnem zagonu naprave je treba vnesti vzorec</string>
     <string name="kg_prompt_reason_restart_pin">Po vnovičnem zagonu naprave je treba vnesti kodo PIN</string>
@@ -1170,8 +1283,8 @@ Poskusite znova čez %2$d s."</string>
     <string name="kg_wrong_pin">Napačna koda PIN</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="label_view">Pogled</string>
-  <string name="launch_defaults_none">Ni nastavljeno privzeto</string>
-  <string name="launch_defaults_some">Nekatere so prizeto nastavljene</string>
+  <string name="launch_defaults_none">Ni privzetih nastavitev</string>
+  <string name="launch_defaults_some">Nastavljene so nekatere privzete nastavitve</string>
     <string name="lb_guidedaction_continue_title">Naprej</string>
     <string name="lb_guidedaction_finish_title">Končano</string>
     <string name="lb_media_player_error">Koda napake MediaPlayer %1$d dodatno %2$d</string>
@@ -1280,7 +1393,8 @@ posnetka zaslona"</string>
     <string name="media_projection_action_text">Začni zdaj</string>
     <string name="media_projection_dialog_text">"Aplikacija %s bo začela snemati vse, kar je prikazano na zaslonu."</string>
     <string name="media_projection_remember_text">"Ne kaži več"</string>
-  <string name="media_transfer_this_device_name">Ta naprava</string>
+  <string name="media_transfer_this_device_name">Zvočnik telefona</string>
+     <string name="media_transfer_wired_device_name">Žična avdionaprava</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="memory_clear_result_giga">%1$sGB očiščeno</string>
   <string name="memory_clear_result_mega">%1$sMB očiščeno</string>
@@ -1437,6 +1551,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="notification_app_settings">Nastavite: %1$s</string>
   <string name="notification_appops_ok">V redu</string>
   <string name="notification_appops_settings">Nastavitve</string>
+     <string name="notification_bubble_title">Oblaček</string>
   <string name="notification_channel_alerts">Opozorila</string>
   <string name="notification_channel_battery">Baterija</string>
     <string name="notification_channel_controls_closed_accessibility">Kontrolniki obvestil za aplikacijo %1$s so zaprti</string>
@@ -1572,42 +1687,42 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="pointer_location">Mesto kazalca</string>
   <string name="pointer_location_summary">Na zaslonu se prikazujejo podatki o dotikih.</string>
   <string name="power_charging_duration">%1$s - %2$s do polne baterije</string>
-  <string name="power_discharge_by">Še približno %1$s (%2$s)</string>
-  <string name="power_discharge_by_enhanced">Še približno %1$s odvisno od porabe (%2$s)</string>
-  <string name="power_discharge_by_only">Še približno %1$s</string>
-  <string name="power_discharge_by_only_enhanced">Še približno %1$s odvisno od porabe</string>
+    <string name="power_discharge_by">Naprava bi morala delovati do približno %1$s (%2$s)</string>
+    <string name="power_discharge_by_enhanced">Naprava bi morala glede na način uporabe (%2$s) delovati do približno %1$s</string>
+    <string name="power_discharge_by_only">Moralo bi zadostovati do približno %1$s</string>
+    <string name="power_discharge_by_only_enhanced">Naprava bi morala glede na način uporabe delovati do približno %1$s</string>
   <string name="power_discharge_by_only_short">Do %1$s</string>
-  <string name="power_discharging_duration">%1$s – še približno %2$s</string>
-  <string name="power_discharging_duration_enhanced">Še približno %1$s odvisno od porabe (%2$s)</string>
+    <string name="power_discharging_duration">Še približno %1$s (%2$s)</string>
+    <string name="power_discharging_duration_enhanced">Glede na način uporabe še približno %1$s (%2$s)</string>
     <string name="power_notification_controls_description">"S kontrolniki za pomebnost obvestila je mogoče za obvestila aplikacije nastaviti stopnjo pomembnosti od 0 do 5. 
 
-"&lt;b&gt;Nivo 5&lt;/b&gt;" 
-&amp;#8211; prika&amp;#382;i na vrhu seznama obvestil 
-&amp;#8211; dovoli prekinitve prikaza na celem zaslonu 
-&amp;#8211; zmeraj dovoli hitri pregled 
+"<b>Stopnja 5</b>" 
+– Prikaz na vrhu seznama obvestil 
+– Omogočanje prekinitev v celozaslonskem načinu 
+– Vedno prikaži hitre predoglede 
 
-"&lt;b&gt;Razina 4&lt;/b&gt;" 
-&amp;#8211; onemogo&amp;#263;e prekinitve prikaza na celem zaslonu 
-&amp;#8211; zmeraj dovoli hitri pregled 
+"<b>Stopnja 4</b>" 
+– Preprečevanje prekinitev v celozaslonskem načinu 
+– Vedno prikaži hitre predoglede 
 
-"&lt;b&gt;Razina 3&lt;/b&gt;" 
-&amp;#8211; onemogo&amp;#263;e prekinitve prikaza na celem zaslonu
-&amp;#8211; nikoli ne dovoli hitri pregled
+"<b>Stopnja 3</b>" 
+– Preprečevanje prekinitev v celozaslonskem načinu 
+– Nikoli ne prikaži hitrih predogledov 
 
-"&lt;b&gt;Razina 2&lt;/b&gt;" 
-&amp;#8211; onemogo&amp;#263;e prekinitve prikaza na celem zaslonu 
-&amp;#8211; nikoli ne dovoli hitri pregled 
-&amp;#8211; nikoli ne predvajaj zvok niti vibracijo
+"<b>Stopnja 2</b>" 
+– Preprečevanje prekinitev v celozaslonskem načinu 
+– Nikoli ne prikaži hitrih predogledov 
+– Nikoli ne uporabi zvoka in vibriranja 
 
-"&lt;b&gt;Razina 1&lt;/b&gt;" 
-&amp;#8211; onemogo&amp;#263;e prekinitve prikaza na celem zaslonu 
-&amp;#8211; nikoli ne dovoli hitri pregled 
-&amp;#8211; nikoli ne predvajaj zvok niti vibracijo
-&amp;#8211; ne kaži na zaklenjenem zaslonu in vrstici obvestil
-&amp;#8211; prika&amp;#382;i na dnu seznama obvestil 
+"<b>Stopnja 1</b>" 
+– Preprečevanje prekinitev v celozaslonskem načinu 
+– Nikoli ne prikaži hitrih predogledov 
+– Nikoli ne uporabi zvoka in vibriranja 
+– Skrivanje na zaklenjenem zaslonu in v vrstici stanja 
+– Prikaz na dnu seznama obvestil 
 
-"&lt;b&gt;Nivo 0&lt;/b&gt;" 
-&amp;#8211; blokiraj vsa obvestila aplikacije"</string>
+"<b>Stopnja 0</b>" 
+– Blokiranje vseh obvestil aplikacije"</string>
     <string name="power_remaining_charging_duration_only">Še %1$s do polne napolnjenosti</string>
     <string name="power_remaining_duration_only">Še približno %1$s</string>
   <string name="power_remaining_duration_only_enhanced">Še približno %1$s na temelju vaše uporabe</string>
@@ -1623,15 +1738,21 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="power_save_ps_close_setting">Izključi storitve v ozadju (sinhronizacija, GPS) da prihranite baterijo</string>
   <string name="power_save_ps_freeze">Zamrzni aplikacije v ozadju</string>
   <string name="power_save_ps_limit">Omeji aktivnost aplikacij sistema</string>
+    <string name="power_suggestion_battery_run_out">Energije baterije lahko zmanjka do %1$s</string>
   <string name="power_suggestion_extend_battery">Podaljšajte čas trajanja baterije %1$s</string>
   <string name="pref_show_lunar_calendar_title">Pokaži tradicionalni kitajski koledar na zakl. zaslonu</string>
   <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
+    <string name="preference_summary_default_combination">%1$s/%2$s</string>
+    <string name="private_dns_broken">Do zasebnega strežnika DNS ni mogoče dostopati</string>
   <string name="private_dns_mode_off">Izključeno</string>
   <string name="private_dns_mode_opportunistic">Samodejno</string>
   <string name="private_dns_mode_provider">Ime hosta ponudnika zasebnega DNS-a</string>
   <string name="private_dns_mode_provider_failure">Povezovanje ni možno</string>
   <string name="private_dns_mode_provider_hostname_hint">Vnesite ime DNS ponudnika</string>
-  <string name="profile_owned_footer">Profil se možda nadzira</string>
+     <string name="process_kernel_label">Android OS</string>
+    <string name="profile_connect_timeout_subtext">Težava pri povezovanju. Napravo izklopite in znova vklopite.</string>
+    <string name="profile_info_settings_title">Podatki za profil</string>
+    <string name="profile_owned_footer">Profil je morda nadziran</string>
   <string name="prompt_danger">Nevarno</string>
   <string name="prompt_detecting">Odkrivanje</string>
   <string name="prompt_safe">Varno</string>
@@ -1677,6 +1798,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="quick_settings_bluetooth_secondary_label_audio">Avdio</string>
   <string name="quick_settings_bluetooth_secondary_label_battery_level">%s baterije</string>
   <string name="quick_settings_bluetooth_secondary_label_headset">Slušalke</string>
+    <string name="quick_settings_bluetooth_secondary_label_hearing_aids">Slušni pripomočki</string>
   <string name="quick_settings_bluetooth_secondary_label_input">Vnos</string>
   <string name="quick_settings_bluetooth_secondary_label_transient">Vklop…</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">SAMODEJNO</string>
@@ -1685,6 +1807,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="quick_settings_cast_detail_empty_text">Na voljo ni nobene naprave</string>
     <string name="quick_settings_cast_device_default_description">Pripravljeno za predvajanje</string>
     <string name="quick_settings_cast_device_default_name">Neimenovana naprava</string>
+    <string name="quick_settings_cast_no_wifi">Povezava WiFi ni vzpostavljena</string>
     <string name="quick_settings_cast_title">Predvajanje</string>
     <string name="quick_settings_casting">Predvajanje</string>
     <string name="quick_settings_cellular_detail_data_limit">Omejitev: %s</string>
@@ -1746,9 +1869,9 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="quick_settings_nfc_off">Tehnologija NFC je onemogočena</string>
     <string name="quick_settings_nfc_on">Tehnologija NFC je omogočena</string>
     <string name="quick_settings_night_display_label">Nočna svetloba</string>
-  <string name="quick_settings_night_secondary_label_on_at">Ob %s</string>
-  <string name="quick_settings_night_secondary_label_on_at_sunset">Od sončnega vzhoda</string>
-  <string name="quick_settings_night_secondary_label_until_sunrise">Do sončnega zahoda</string>
+    <string name="quick_settings_night_secondary_label_on_at">Vklop ob %s</string>
+    <string name="quick_settings_night_secondary_label_on_at_sunset">Ob sončnem zahodu</string>
+    <string name="quick_settings_night_secondary_label_until_sunrise">Do sončnega vzhoda</string>
   <string name="quick_settings_nightmode_label">Temni način</string>
     <string name="quick_settings_notifications_label">Obvestila</string>
   <string name="quick_settings_papermode_label">Način branja</string>
@@ -1921,6 +2044,12 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="settings_toggle_position_divider_list">Bližnjice nad to vrstico so aktivne</string>
   <string name="settings_toggle_position_reset">Ponastavitev bližnjic</string>
   <string name="share">Deli</string>
+    <string name="shared_data_delete_failure_text">Pri brisanju deljenih podatkov je prišlo do napake.</string>
+    <string name="shared_data_no_accessors_dialog_text">Za te deljene podatke ni pridobljen noben zakup. Ali želite podatke izbrisati?</string>
+    <string name="shared_data_no_blobs_text">Za tega uporabnika ni nobenih deljenih podatkov.</string>
+    <string name="shared_data_query_failure_text">Pri pridobivanju deljenih podatkov je prišlo do napake. Poskusite znova.</string>
+    <string name="shared_data_summary">Ogled in sprememba deljenih podatkov</string>
+    <string name="shared_data_title">Deljeni podatki</string>
     <string name="show_all_anrs">Pokaži okna neodzivanj</string>
     <string name="show_all_anrs_summary">Prikaz pogovornega okna za neodzivanje aplikacije v ozadju</string>
     <string name="show_battery_percentage">Pokaži odstotek napolnjenosti vgraj. akumulatorja</string>
@@ -2030,11 +2159,12 @@ morda nadzira"</string>
   <string name="status_bar_volte_label">HD</string>
   <string name="status_bar_work">Delovni profil</string>
   <string name="status_unavailable">Ni na voljo</string>
+    <string name="storage_category">Shramba</string>
   <string name="storage_is_connecting">%1$s je povezan</string>
     <string name="stream_accessibility">Opravila za ljudi s posebnimi potrebami</string>
     <string name="stream_alarm">Opozorilo</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>
-    <string name="stream_dtmf">Dvojna večtonska frekvenca</string>
+  <string name="stream_dtmf">DTMF</string>
     <string name="stream_music">Predstavnost</string>
     <string name="stream_notification">Obvestilo</string>
     <string name="stream_ring">Sprožitev zvonjenja</string>
@@ -2097,10 +2227,11 @@ morda nadzira"</string>
   <string name="structure_face_unlock_not_same_person">"Sami morate izvršiti vse korake. Ne menjajte mesta z nikomer."</string>
   <string name="structure_face_unlock_really_person">"Kaže da ste zamenjali obraz z nekim objektom."</string>
   <string name="structure_face_unlock_tof_covered">"Ne morem dodati podatke o obrazu. Odddaljite obraz malo od zaslona."</string>
-    <string name="switch_bar_off">Izklop</string>
-    <string name="switch_bar_on">Vklopljeno</string>
+  <string name="switch_bar_off">Izključeno</string>
+  <string name="switch_bar_on">Vključeno</string>
   <string name="switch_system_user">Nazaj v Prvi prostor</string>
     <string name="system_ui_tuner">Uglaševalnik uporabniškega vmesnika sistema</string>
+    <string name="tap_to_renew_subscription_and_connect">Dotaknite se za podaljšanje naročnine in vzpostavitev povezave</string>
   <string name="tap_to_sign_up">Tapnite za prijavo</string>
   <string name="task_access_locked_app_msg">Zakl. aplikacij vključeno</string>
     <string name="telephony_monitor_switch">Nadziranje telefonije</string>
@@ -2172,6 +2303,7 @@ Telefon lahko postane prevroč ob:
     <string name="tuner_launch_app">Zaženi aplikacijo %1$s</string>
     <string name="tuner_left">Levo</string>
     <string name="tuner_lock_screen">Zaklenjen zaslon</string>
+    <string name="tuner_low_priority">Pokaži ikone obvestil z nizko stopnjo prednosti</string>
     <string name="tuner_menu">Meni</string>
     <string name="tuner_minus">Minus</string>
     <string name="tuner_other_apps">Druge aplikacije</string>
@@ -2195,18 +2327,23 @@ Telefon lahko postane prevroč ob:
   <string name="unlockscreen_low_battery">Priključite polnilec</string>
   <string name="unlockscreen_recharge_completed">Baterija napolnjena</string>
   <string name="unlockscreen_recharging_message">Polnjenje %d%%</string>
-    <string name="usb_accessory_confirm_prompt">Želite, da se odpre %1$s, ko priključite ta dodatek USB?</string>
-    <string name="usb_accessory_permission_prompt">Želite dovoliti aplikaciji %1$s dostop do dodatka USB?</string>
+    <string name="usb_accessory_confirm_prompt">Želite da se odpre %1$s, ko priključite napravo %2$s?</string>
+    <string name="usb_accessory_permission_prompt">Želite dovoliti aplikaciji %1$s dostop do naprave %2$s?</string>
     <string name="usb_accessory_uri_prompt">Namešč. prog. ne delujejo s tem dodatkom USB. Več o tem dodatku preberite na %1$s</string>
     <string name="usb_audio_disable_routing">On. us. zvoka preko USB-ja</string>
     <string name="usb_audio_disable_routing_summary">Onem. samod. usmerjanja na zun. zvoč. naprave USB</string>
+    <string name="usb_contaminant_message">"Zaradi zaščite naprave pred tekočino ali umazanijo so vrata USB onemogočena in ne bodo zaznala nobene dodatne opreme.
+
+Ko bo znova varno uporabljati vrata USB, boste obveščeni."</string>
+    <string name="usb_contaminant_title">Vrata USB so onemogočena</string>
+    <string name="usb_debugging_allow">Dovoli</string>
     <string name="usb_debugging_always">Vedno dovoli iz tega računalnika</string>
     <string name="usb_debugging_message">"Računalnikov prstni odtis ključa RSA je:
 %1$s"</string>
     <string name="usb_debugging_secondary_user_message">Uporabnik, trenutno prijavljen v napravo, ne more vklopiti odpravljanja napak s povezavo USB. Če želite uporabljati to opravilo, preklopite na primarnega uporabnika.</string>
     <string name="usb_debugging_secondary_user_title">Odpravljanje napak s povezavo USB ni dovoljeno</string>
     <string name="usb_debugging_title">Ali dovolite odpravljanje težav preko USB?</string>
-    <string name="usb_device_confirm_prompt">Želite, da se odpre %1$s, ko priključite to napravo USB?</string>
+    <string name="usb_device_confirm_prompt">Želite, da se odpre %1$s zaradi upravljanja %2$s?</string>
     <string name="usb_device_permission_prompt">Želite aplikaciji %1$s dovoliti dostop do naprave USB?</string>
   <string name="usb_function_charging_text">Povezano v načinu polnjenja</string>
   <string name="usb_mode_dont_ask">Ne sprašuj več</string>
@@ -2242,24 +2379,43 @@ Telefon lahko postane prevroč ob:
     <string name="use_mtp_button_title">Vpni kot predvajalnik (MTP)</string>
     <string name="use_ptp_button_title">Vpni kot fotoaparat (PTP)</string>
     <string name="use_system_language_to_select_input_method_subtypes">Uporaba sistemskih jezikov</string>
+    <string name="user_add_profile_item_summary">Dostop do aplikacij in vsebine iz vašega računa lahko omejite</string>
+    <string name="user_add_profile_item_title">Omejen profil</string>
     <string name="user_add_user">Dodajanje uporabnika</string>
-  <string name="user_add_user_message_setup">Ko dodate novega uporabnika, mora ta nastaviti svoj prostor.</string>
+    <string name="user_add_user_item_summary">Uporabniki imajo svoje aplikacije in vsebino</string>
+    <string name="user_add_user_item_title">Uporabnik</string>
+    <string name="user_add_user_message_long">"To napravo lahko delite z drugimi tako, da ustvarite dodatne uporabnike. Vsak ima svoj prostor, ki ga lahko prilagodi z aplikacijami, ozadji in drugim. Uporabniki lahko tudi prilagodijo nastavitve naprave, ki vplivajo na vse, na primer nastavitve omrežja Wi-Fi.
+
+Ko dodate novega uporabnika, mora ta nastaviti svoj prostor.
+
+Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike. Nastavitve in storitve funkcij za ljudi s posebnimi potrebami morda ne bodo prenesene v prostor novega uporabnika."</string>
     <string name="user_add_user_message_short">"Ko dodate novega uporabnika, mora ta nastaviti svoj prostor.
 
 Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="user_add_user_message_update">Vsak uporabnik lahko posodobi aplikacije za ostale uporabnike.</string>
     <string name="user_add_user_title">Dodam novega uporabnika?</string>
+    <string name="user_add_user_type_title">Dodaj</string>
     <string name="user_guest">Gost</string>
   <string name="user_guide_for_notification">Povleci navzdol da dobiš obvestilno vrstico</string>
   <string name="user_guide_for_toggle">Bližnjice lahko premikate vodoravno</string>
   <string name="user_guide_for_toggle_list">Urejaj bližnjice</string>
+     <string name="user_info_settings_title">Podatki o uporabniku</string>
     <string name="user_logout_notification_action">ODJAVA UPORABNIKA</string>
     <string name="user_logout_notification_text">Odjava trenutnega uporabnika</string>
     <string name="user_logout_notification_title">Odjava uporabnika</string>
+    <string name="user_need_lock_message">Preden lahko ustvarite profil z omejitvami, morate nastaviti zaklepanje zaslona, da zaščitite aplikacije in osebne podatke.</string>
+    <string name="user_new_profile_name">Nov profil</string>
     <string name="user_new_user_name">Nov uporabnik</string>
     <string name="user_remove_user_message">Vse aplikacije in podatki tega uporabnika bodo izbrisani.</string>
     <string name="user_remove_user_remove">Odstrani</string>
     <string name="user_remove_user_title">Želite odstraniti uporabnika?</string>
+    <string name="user_set_lock_button">Nastavi zaklepanje</string>
+    <string name="user_setup_button_setup_later">Ne zdaj</string>
+    <string name="user_setup_button_setup_now">Želim nastaviti zdaj</string>
+    <string name="user_setup_dialog_message">Prepričajte se, da ima oseba čas za nastavitev svojega prostora.</string>
+    <string name="user_setup_dialog_title">Želite uporabnika nastaviti zdaj?</string>
+    <string name="user_setup_profile_dialog_message">Želite zdaj nastaviti profil?</string>
+    <string name="user_switch_to_user">Preklop na račun %s</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
     <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije, nameščene preko ADB/ADT, škodljive.</string>
@@ -2272,6 +2428,10 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="volume_dialog_ringer_guidance_ring">Telefon bo zvonil za klice in obvestila (%1$s)</string>
   <string name="volume_dialog_title">Kontrole glasnosti – %s</string>
     <string name="volume_dnd_silent">Bližnjica z gumboma za glasnost</string>
+    <string name="volume_odi_captions_content_description">Prekrivni podnapisi</string>
+    <string name="volume_odi_captions_hint_disable">onemogoči</string>
+    <string name="volume_odi_captions_hint_enable">omogoči</string>
+    <string name="volume_odi_captions_tip">Sam. podnapisi predstavnosti</string>
   <string name="volume_ringer_hint_mute">izklop zvoka</string>
   <string name="volume_ringer_hint_unmute">vklop zvoka</string>
   <string name="volume_ringer_hint_vibrate">vibriranje</string>
@@ -2349,6 +2509,8 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="wifi_disconnected">Ni povezano</string>
     <string name="wifi_display_certification">Potrdilo brezžičnega zaslona</string>
     <string name="wifi_display_certification_summary">Pokaži možnosti za potrdilo brezžičnega zaslona</string>
+    <string name="wifi_enhanced_mac_randomization">Naključen naslov MAC s podporo Wi‑Fi‑ja</string>
+     <string name="wifi_enhanced_mac_randomization_summary">Ko je ta način omogočen, se lahko naslov MAC te naprave spremeni vsakič, ko se poveže z omrežjem, ki ima omogočeno naključno izbiro MAC.</string>
     <string name="wifi_fail_to_scan">Ne morem iskati omrežij</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>
@@ -2360,7 +2522,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="wifi_no_internet_no_reconnect">"Ne morem se povezati samodejno"</string>
     <string name="wifi_not_in_range">Ni v obsegu</string>
     <string name="wifi_remembered">Shranjeno</string>
-  <string name="wifi_scan_throttling">WiFi skeniranje dušenja</string>
+  <string name="wifi_scan_throttling">Upočasnitev iskanja WiFi</string>
   <string name="wifi_scan_throttling_summary">Zmanjšuje praznjenje baterije &amp; izboljšuje zmogljivost omrežja</string>
   <string name="wifi_security_dpp">DPP</string>
   <string name="wifi_security_eap">802.1x EAP</string>
@@ -2377,8 +2539,8 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="wifi_unmetered_label">Brez omejitve prometa</string>
    <string name="wifi_unsaved_network_linking">SSID Bridging ‑ Samodejna povezava</string>
   <string name="wifi_unsaved_network_linking_summary">Omogoči poskuse samodejne povezave z novim WPA/WPA2‑PSK 5GHz SSID z trenutno povezanimi WPA/WPA2‑PSK 2GHz SSID poverilnicami za delno ujemanje SSID-a in BSSID-a</string>
-    <string name="wifi_verbose_logging">Vključi podrob. zapis. dnevnika za WiFi</string>
-    <string name="wifi_verbose_logging_summary">Povečaj raven zapis. dnev. za WiFi; v izbir. WiFi-ja pokaži glede na SSID RSSI</string>
+    <string name="wifi_verbose_logging">Omogoči podrobno zapisovanje dnevnika za Wi-Fi</string>
+    <string name="wifi_verbose_logging_summary">Povečaj raven zapisovanja dnevnika za Wi-Fi; v izbirniku Wi‑Fi-ja pokaži glede na SSID RSSI</string>
   <string name="wifi_wapi_as_certificate">AS certifikat</string>
   <string name="wifi_wapi_cert_mode_hand_text">Ročno izberi</string>
   <string name="wifi_wapi_certification_dont_exist">Vnešeno geslo omrežja ni točno.</string>
