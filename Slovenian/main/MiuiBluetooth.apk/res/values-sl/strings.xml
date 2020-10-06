@@ -39,7 +39,7 @@
     <string name="accessibility_wifi_signal_full">Poln signal WiFi.</string>
     <string name="accessibility_wifi_three_bars">Tri črtice signala WiFi.</string>
     <string name="accessibility_wifi_two_bars">Dve črtici signala WiFi.</string>
-  <string name="accessibility_work_profile_app_description">Delo %s</string>
+  <string name="accessibility_work_profile_app_description">Delovni profil %s</string>
     <string name="accessor_expires_text">Zakup poteče dne %s</string>
     <string name="accessor_info_title">Aplikacije, ki si delijo podatke</string>
     <string name="accessor_no_description_text">Aplikacija ni posredovala opisa.</string>

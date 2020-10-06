@@ -62,12 +62,13 @@
   <string name="accessibility_battery_full">Baterija je polna.</string>
   <string name="accessibility_battery_level">Baterija %d procentov.</string>
   <string name="accessibility_battery_level_charging">Baterija se polni, %d procentov.</string>
+    <string name="accessibility_battery_level_with_estimate">Baterija je na %1$s odstotkov, približno še %2$s na osnovi vaše uporabe</string>
   <string name="accessibility_battery_one_bar">Baterija ena črtica.</string>
   <string name="accessibility_battery_three_bars">Baterija tri črtice.</string>
   <string name="accessibility_battery_two_bars">Baterija dve črtice.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth povezan.</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth odklopljen.</string>
-  <string name="accessibility_bluetooth_name">Povezan z %s .</string>
+  <string name="accessibility_bluetooth_name">Povezan z %s.</string>
   <string name="accessibility_bluetooth_tether">Bluetooth deljenje.</string>
   <string name="accessibility_brightness">Svetlost zaslona</string>
   <string name="accessibility_brightness_slider">Drsnik za osvetlitev</string>
@@ -118,9 +119,9 @@
   <string name="accessibility_detail_switch_disable">Ni na voljo</string>
   <string name="accessibility_detail_switch_off">Izključeno</string>
   <string name="accessibility_detail_switch_on">Vključeno</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Ta storitev je poskusna in lahko vpliva na zmogljivost.</string>
-  <string name="accessibility_display_daltonizer_preference_title">Korekcija barve</string>
-  <string name="accessibility_divider">Razdelilnik deljeega zaslona</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Popravek barv vam omogoča, da prilagodite način prikaza barv v vaši napravi</string>
+  <string name="accessibility_display_daltonizer_preference_title">Popravek barve</string>
+  <string name="accessibility_divider">Razdelilnik deljenega zaslona</string>
   <string name="accessibility_drag_hint_message">Potegnite stvari na vrh zaslona</string>
   <string name="accessibility_enter_lock_wallpaper">Tapni za odpiranje Wallpaper Carousel</string>
   <string name="accessibility_ethernet_connected">Vzpostavljena je povezava z ethernetom.</string>
@@ -139,6 +140,7 @@
   <string name="accessibility_left_lock_screen_magazine_button">Glasba</string>
   <string name="accessibility_location_active">Zahteve za lokacijo so aktivne</string>
   <string name="accessibility_long_click_tile">Odpiranje nastavitev</string>
+    <string name="accessibility_manage_notification">Urejanje obvestil</string>
   <string name="accessibility_managed_profile">Delovni profil</string>
   <string name="accessibility_manual_zen_less_time">Manj časa.</string>
   <string name="accessibility_manual_zen_more_time">Več časa.</string>
@@ -172,9 +174,9 @@
   <string name="accessibility_qs_edit_move_tile">Premesti %1$s</string>
   <string name="accessibility_qs_edit_position_label">Položaj %1$d. Dvakrat tapnite za izbiro.</string>
   <string name="accessibility_qs_edit_remove_tile">Odstrani %1$s</string>
-  <string name="accessibility_qs_edit_tile_added">Ploščica %1$s je dodana na položaj %2$d</string>
+    <string name="accessibility_qs_edit_tile_add">Dodajte ploščico %1$s na položaj %2$d</string>
   <string name="accessibility_qs_edit_tile_label">Položaj %1$d, %2$s. Dvakrat tapnite za urejanje.</string>
-  <string name="accessibility_qs_edit_tile_moved">Ploščica %1$s je premeščena na položaj %2$d</string>
+    <string name="accessibility_qs_edit_tile_move">Premestite ploščico %1$s na položaj %2$d</string>
   <string name="accessibility_qs_edit_tile_removed">Ploščica %1$s odstranjena</string>
   <string name="accessibility_quick_settings_airplane_changed_off">Letalski način je izključen.</string>
   <string name="accessibility_quick_settings_airplane_changed_on">Letalski način je vključen.</string>
@@ -284,6 +286,7 @@
   <string name="accessibility_unlock_button">Odklepanje</string>
   <string name="accessibility_unlock_without_fingerprint">Odklepanje brez prstnega odtisa</string>
   <string name="accessibility_voice_assist_button">Glasovna pomoč</string>
+    <string name="accessibility_volume_close_odi_captions_tip">Zapri opis</string>
   <string name="accessibility_volume_collapse">Strinjanje</string>
   <string name="accessibility_volume_expand">Razširjanje</string>
   <string name="accessibility_volume_settings">Nastavitve zvoka</string>
@@ -302,7 +305,7 @@
   <string name="accessibility_wimax_three_bars">WiMAX: tri črtice.</string>
   <string name="accessibility_wimax_two_bars">WiMAX: dve črtici.</string>
   <string name="accessibility_work_mode">Način dela</string>
-     <string name="accessibility_work_profile_app_description">Delo %s</string>
+     <string name="accessibility_work_profile_app_description">Delovni profil %s</string>
   <string name="accessibility_zero_bars">Ni črtic.</string>
     <string name="accessor_expires_text">Zakup poteče dne %s</string>
     <string name="accessor_info_title">Aplikacije, ki si delijo podatke</string>
@@ -406,7 +409,7 @@
      <string name="battery_info_status_charging_slow">Počasno polnjenje</string>
   <string name="battery_info_status_discharging">Ne polni se</string>
   <string name="battery_info_status_full">Napolnjeno</string>
-  <string name="battery_info_status_not_charging">"Vključeno, trenutno se ne more polniti"</string>
+  <string name="battery_info_status_not_charging">Vključeno, trenutno se ne more polniti</string>
   <string name="battery_info_status_unknown">Neznano</string>  
   <string name="battery_low_button_not_open_power_save">Ne zdaj</string>
   <string name="battery_low_button_open_power_save">Vključi</string>
@@ -416,7 +419,7 @@
   <string name="battery_low_percent_format_save_mode_closed">Ostalo je manj kot %d%% baterije. Priključite polnilec.</string>
   <string name="battery_low_percent_format_save_mode_open">Ostalo je manj kot %d%% baterije. Vključite varčevanje baterije da prihranite energijo.</string>
   <string name="battery_low_percent_format_saver_started">Ostalo %s. Vključeno je varčevanje baterije.</string>
-  <string name="battery_low_title">"Baterija je prazna"</string>
+  <string name="battery_low_title">Baterija bo kmalu prazna</string>
   <string name="battery_low_title_power_save">Varčevanje baterije</string>
   <string name="battery_low_why">Nastavitve</string>
   <string name="battery_panel_title">Poraba baterije</string>
@@ -526,8 +529,8 @@ Poskusite znova čez %d s."</string>
   <string name="bluetooth_profile_a2dp_high_quality">HD avdio: %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HD avdio</string>
   <string name="bluetooth_profile_dun">Klicni dostop do omrežja</string>
-  <string name="bluetooth_profile_headset">Zvok telefona</string>
-  <string name="bluetooth_profile_hearing_aid">Slušni aparat</string>
+    <string name="bluetooth_profile_headset">Telefonski klici</string>
+    <string name="bluetooth_profile_hearing_aid">Slušni aparati</string>
   <string name="bluetooth_profile_hid">Vhodna naprava</string>
   <string name="bluetooth_profile_map">SMS-i</string>
   <string name="bluetooth_profile_opp">Prenos datotek</string>
@@ -565,7 +568,7 @@ Izbor"</string>
   <string name="bluetooth_talkback_computer">Računalnik</string>
   <string name="bluetooth_talkback_headphone">Slušalke</string>
   <string name="bluetooth_talkback_headset">Slušalke z mikrofonom</string>
-  <string name="bluetooth_talkback_imaging">Slike</string>
+    <string name="bluetooth_talkback_imaging">Snemanje</string>
     <string name="bluetooth_talkback_input_peripheral">Zunanja dodatna oprema</string>
   <string name="bluetooth_talkback_phone">Telefon</string>
   <string name="bluetooth_tethered">Deljenje Bluetooth</string>
@@ -597,7 +600,7 @@ Izbor"</string>
   <string name="bugreport_in_power">Bližnjica poročila o napakah</string>
   <string name="bugreport_in_power_summary">Pokaži gumb v meniju napajanja za izdelavo poročila o napakah</string>
   <string name="button_convert_fbe">Izbriši in spremeni…</string>
-     <string name="cached_apps_freezer_device_default">Naprava privzeta</string>
+     <string name="cached_apps_freezer_device_default">Privzeta naprava</string>
      <string name="cached_apps_freezer_disabled">Onemogočeno</string>
      <string name="cached_apps_freezer_enabled">Omogočeno</string>
      <string name="cached_apps_freezer_reboot_dialog_text">Za uveljavitev te spremembe morate napravo znova zagnati. Znova zaženite zdaj ali prekličite.</string>
@@ -731,6 +734,7 @@ Izbor"</string>
     <string name="delete_blob_confirmation_text">Ali ste prepričani, da želite odstraniti te deljene podatke?</string>
     <string name="delete_blob_text">Izbriši deljene podatke</string>
   <string name="demo_mode">Demo način</string>
+    <string name="demote">Označi da to obvestilo ni pogovor</string>
   <string name="description_direction_left">Podrsaj levo za %s.</string>
   <string name="description_direction_up">Podrsaj navzgor za %s.</string>
   <string name="description_image_button_answer">Odgovori</string>
@@ -1029,7 +1033,7 @@ Izbor"</string>
 Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
     <string name="high_temp_notif_message">Nekatera opravila bodo med ohlajanjem omejena.</string>
     <string name="high_temp_title">Telefon se segreva</string>
-    <string name="home">Začetna stran nastavitev</string>
+    <string name="home">Začetni zaslon nastavitev</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="how_to_back_home">Pojdi na začetni zaslon</string>
   <string name="how_to_switch_recents">Odpri Nedavno</string>
@@ -1094,11 +1098,10 @@ tišina"</string>
     <string name="interruption_level_priority">Samo prednostno</string>
     <string name="interruption_level_priority_twoline">"Samo
 prednostno"</string>
-    <string name="invalid_charger">"Polnjenje preko povezave USB ni podprto.
-Uporabite priloženi polnilnik."</string>
-    <string name="invalid_charger_text">Uporabljajte samo priloženi polnilnik.</string>
+    <string name="invalid_charger">"Polnjenje preko povezave USB ni podprto. Uporabite priloženi polnilec."</string>
+    <string name="invalid_charger_text">Uporabljajte samo priloženi polnilec.</string>
     <string name="invalid_charger_title">Polnjenje preko USB-ja ni podprto.</string>
-  <string name="invalid_confirm_pin_hint">"PIN-i se ne ujemajo"</string>
+  <string name="invalid_confirm_pin_hint">"PIN-a se ne ujemata"</string>
   <string name="invalid_sim_pin_hint">PIN mora imeti od 4 do 8 številk</string>
   <string name="invalid_sim_puk_hint">PUK mora imeti 8 ali več številk</string>
     <string name="keep_screen_on">Brez zaklepanja</string>
@@ -1631,7 +1634,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="open_remote_center_hint_text">Povlecite desno za prikaz bližnjic</string>
   <string name="open_saver_setting_action">Nastavitve</string>
     <string name="orb_search_action">Dejanje iskanja</string>
-  <string name="osu_completing_sign_up">Zaključevanje prijave…</string>
+  <string name="osu_completing_sign_up">Zaključevanje registracije…</string>
   <string name="osu_connect_failed">Ne morem se povezati</string>
   <string name="osu_opening_provider">Odpiranje %1$s</string>
   <string name="osu_sign_up_complete">Prijava je končana. Povezovanje…</string>
@@ -1743,6 +1746,11 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="pref_show_lunar_calendar_title">Pokaži tradicionalni kitajski koledar na zakl. zaslonu</string>
   <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
     <string name="preference_summary_default_combination">%1$s/%2$s</string>
+    <string name="priority_onboarding_appear_as_bubble_text">Videti je kot plavajoči oblaček nad aplikacijami</string>
+    <string name="priority_onboarding_done_button_title">Razumem</string>
+    <string name="priority_onboarding_ignores_dnd_text">Prekine Ne moti</string>
+    <string name="priority_onboarding_show_at_top_text">Prikaže se na vrhu odseka za pogovor</string>
+    <string name="priority_onboarding_show_avatar_text">Na zaklenjenem zaslonu prikaže sliko profila</string>
     <string name="private_dns_broken">Do zasebnega strežnika DNS ni mogoče dostopati</string>
   <string name="private_dns_mode_off">Izključeno</string>
   <string name="private_dns_mode_opportunistic">Samodejno</string>
@@ -1788,6 +1796,10 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="qs_rearrange">Zamenjaj razpored hitrih nastavitev</string>
   <string name="qs_status_phone_muted">Na telefonu je izključen zvok</string>
   <string name="qs_status_phone_vibrate">Telefon je nastavljen na vibriranje</string>
+    <string name="quick_controls_setup_subtitle">Pritisnite in držite tipko za vklop / izklop za dostop do kontrolnikov</string>
+    <string name="quick_controls_setup_title">Nastavljanje kontrolnikov naprave</string>
+    <string name="quick_controls_subtitle">Dodajanje kontrol za povezane naprave</string>
+    <string name="quick_controls_title">Kontrole naprave</string>
     <string name="quick_settings">Hitre nastavitve</string>
   <string name="quick_settings_autobrightness_label">Samod. svetlost</string>
   <string name="quick_settings_batterysaver_label">Varčevanje baterije</string>
@@ -2253,6 +2265,7 @@ Telefon lahko postane prevroč ob:
 \u0009• uporabi telefona pri visokih temp."</string>
     <string name="thermal_shutdown_message">Zdaj telefon normalno deluje</string>
     <string name="thermal_shutdown_title">Tel. izklopljen zaradi vročine</string>
+    <string name="tile_unavailable">Ni na voljo</string>
   <string name="time_unit_just_now">Ravno sedaj</string>
   <string name="time_zone_gmt">GMT</string>
     <string name="title_convert_fbe">Preklop na šifriranje na ravni datotek</string>
@@ -2262,7 +2275,7 @@ Telefon lahko postane prevroč ob:
   <string name="torch_closed">Izklopi svetilko</string>
   <string name="torch_high_temperature_warning">"Naprava je prevroča. Ne morem uporabiti bliskavice."</string>
   <string name="torch_opened">Vklopi svetilko</string>
-  <string name="track_frame_time">Profil GPU prikazovanja</string>
+  <string name="track_frame_time">Profil HWUI prikazovanja</string>
   <string name="transition_animation_scale_title">Hitrost animacije prehoda</string>
   <string name="tts_default_lang_summary">Nastavlja jezik govora</string>
   <string name="tts_default_lang_title">Jezik</string>
@@ -2521,9 +2534,10 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="wifi_no_internet">"Ni dostopa do spleta"</string>
     <string name="wifi_no_internet_no_reconnect">"Ne morem se povezati samodejno"</string>
     <string name="wifi_not_in_range">Ni v obsegu</string>
+    <string name="wifi_passpoint_expired">Poteklo</string>
     <string name="wifi_remembered">Shranjeno</string>
   <string name="wifi_scan_throttling">Upočasnitev iskanja WiFi</string>
-  <string name="wifi_scan_throttling_summary">Zmanjšuje praznjenje baterije &amp; izboljšuje zmogljivost omrežja</string>
+  <string name="wifi_scan_throttling_summary">Zmanjšuje praznjenje baterije in izboljšuje delovanje omrežja</string>
   <string name="wifi_security_dpp">DPP</string>
   <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Brez</string>
