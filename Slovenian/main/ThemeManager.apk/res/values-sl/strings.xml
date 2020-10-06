@@ -621,7 +621,7 @@ dd.MM"</string>
   <string name="ota_recovery_theme_dialog_title">Vračanje prvotne teme</string>
   <string name="ota_recovery_theme_notity_btn">Vrni</string>
   <string name="ota_recovery_theme_notity_content">"Lahko se vrnete na temo, ki ste jo uporabljali pred posodobitvijo"</string>
-  <string name="ota_recovery_theme_notity_title">Vraćanje vaše teme</string>
+  <string name="ota_recovery_theme_notity_title">Vračanje vaše teme</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
   <string name="playing_ringtone">Predvaja se</string>
   <string name="pm">PM</string>

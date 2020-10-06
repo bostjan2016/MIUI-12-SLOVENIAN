@@ -156,6 +156,7 @@ Mi zdravje podpira naprave, ki ste jih predhodno dodali v aplikacijo Mi Home. Č
   <string name="breaststroke">Prsni stil</string>
   <string name="butterfly_stroke">Metulj</string>
   <string name="button_record_menstruation">Zabeleži</string>
+  <string name="calories">kalorij</string>
   <string name="buy">Kupi</string>
   <string name="camera_permission_desc">Za nastavljanje fotografije profila</string>
   <string name="cancel">Prekliči</string>
@@ -537,6 +538,16 @@ Počakajte dokler krog ne postane rdeč."</string>
   <string name="hr_detect_state_reseting">Stanje počivanja</string>
   <string name="hr_detect_state_reseting_desc">Pravkar zbujen-a ali popolnoma sproščen-a</string>
   <string name="hr_disturb_detect">Odkrivanje prekinjeno</string>
+  <string name="hr_fp_area">Področje prstnega odtisa</string>
+  <string name="hr_fp_detect_desc">Pretok krvi v prste se poveča med srčnim utripom. Z virom močne svetlobe na območju prstnega odtisa pod zaslonom lahko dosežemo pogostost sprememb prstov v krvi. Frekvenca se pretvori v impulzni signal za izračun natančnega srčnega utripa.</string>
+  <string name="hr_fp_detect_principle_desc">"Kri lahko absorbira svetlobo. Z vsakim srčnim utripom do prstov priteka več krvi in ​​absorbira več svetlobe; v presledku med srčnimi utripi se absorbira manj svetlobe. S pomočjo svetlobnega vira svetlobe v območju prstnih odtisov pod zaslonom lahko dobite pogostost spremembe prstne krvi. Frekvenca se pretvori v impulzni signal za izračun natančnega srčnega utripa.
+
+Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3 BPM"</string>
+  <string name="hr_fp_detect_principle_desc_2">Opomba: poskrbite, da prst popolnoma pokrije območje prstnih odtisov; med zaznavanjem ga rahlo pritisnite. Če je tlak previsok, se bo pretok krvi v prstu zmanjšal, kar bo povzročilo netočne rezultate. Podatki o testih so samo referenčni in ne za medicinske instrumente.</string>
+  <string name="hr_fp_detect_start_desc">Rahlo pritisnite prst. Ne premikajte območja s prstnimi odtisi</string>
+  <string name="hr_fp_detecting">Zaznavanje…</string>
+  <string name="hr_fp_not_put_well">Prst ni na pravem mestu, poskusite ponovno</string>
+  <string name="hr_fp_report_common_desc">Normalni srčni utrip se giblje od 60 do 100 utripov na minuto. Srčni utrip pod 60 BPM je znak bradikardije, medtem ko je srčni utrip nad 100 BPM sprejet kot tahikardija pri odraslih.</string>
   <string name="hr_disturb_detect_desc">Še enkrat testirajte, med postopkom bodite mirni</string>
   <string name="hr_heart_rate_unit">Srčni utrip (BPM)</string>
   <string name="hr_in_detect">Med testiranjem ne spustite prstov</string>
@@ -968,11 +979,14 @@ Počakajte dokler krog ne postane rdeč."</string>
   <string name="setting_avatar">Fotografija profila</string>
   <string name="setting_birthday">Datum rojstva</string>
   <string name="setting_blood_type">Krvna skupina</string>
+  <string name="setting_cycling_goals">Nastavite cilj kolesarjenja</string>
   <string name="setting_data_cloud_sync_tip">To storitev uporabite za varnostno kopiranje stvari iz te naprave in sinhronizacijo zdravstvenih podatkov iz drugih naprav</string>
   <string name="setting_gender">Nastavite spol</string>
+  <string name="setting_running_goals">Nastavite cilj teka</string>
   <string name="setting_sedentary_off">IZKLJUČENO</string>
   <string name="setting_sedentary_on">VKLJUČENO</string>
   <string name="setting_sedentary_title">Opomni me za sprehod</string>
+  <string name="setting_walking_goals">Nastavite cilj hoje</string>
   <string name="severe_abnormal">Hipertenzijska kriza</string>
   <string name="severe_abnormal_tip">Vsak dan po vstajanju, po kosilu in pred odhodom spat</string>
   <string name="share">Deli</string>
@@ -1158,7 +1172,7 @@ podatkov o spanju"</string>
   <string name="stand_guide_page_title2">Samodejno odkrivanje, snemanje in opomnik, da vstanete</string>
   <string name="stand_notice">Opomni o vstajanju</string>
   <string name="stand_notice_subtitle1">Kaže da niste vstali med %1$s in %2$s. Če ste, dodajte zapis ročno.</string>
-  <string name="stand_notice_subtitle2">"Če ste vstali, vnesite vnos ročno. Če ne, vstanite in se malo premaknite."</string>
+  <string name="stand_notice_subtitle2">"Če ste vstali, vnesite zapis ročno. Če ne, vstanite in se malo premaknite."</string>
   <string name="stand_notice_title1">Vstanite in aktivirajte se!</string>
   <string name="stand_notice_title2">Čas je za vstajanje</string>
   <string name="stand_notice_title3">Predolgo sedite</string>
@@ -1170,6 +1184,9 @@ podatkov o spanju"</string>
   <string name="stand_stop_reminding">"Ne kaži več"</string>
   <string name="standard_format">(standardno: %1s)</string>
   <string name="standing_already">" Vstali ste"</string>
+  <string name="start_cycling">Začnite voziti kolo</string>
+  <string name="start_running">Začnite teči</string>
+  <string name="start_walking">Začnite hoditi</string>
   <string name="state_agree">Strinjam se</string>
   <string name="state_auto_run_disenable">Izkl.</string>
   <string name="state_auto_run_enable">Vkl.</string>

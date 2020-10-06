@@ -742,7 +742,7 @@
   <string name="storage_app_list_desc">Zasedeni prostor: %s</string>
   <string name="storage_app_space_details_entry">Pokaži podrobnosti o aplikaciji</string>
   <string name="storage_available_total_size">Na voljo %1$s od %2$s</string>
-  <string name="storage_deepclean_entry">Globinsko čišćenje</string>
+  <string name="storage_deepclean_entry">Globinsko čiščenje</string>
   <string name="storage_item_apk_name">APK</string>
   <string name="storage_item_appdata_name">Aplikacije in podatki</string>
   <string name="storage_item_audio_name">Avdio</string>

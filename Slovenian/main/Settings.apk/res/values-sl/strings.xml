@@ -503,6 +503,7 @@ Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
   <string name="alert_title_restore_from_miasist">Vrnem podatke na vaš telefon?</string>
   <string name="all_volume_title">Glasnost</string>
   <string name="allow">Dovoli</string>
+  <string name="allow_all_rotations_title">Dovoli vse rotacije</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Ko ustvarite pripomoček ima %1$s dostop do vseh podatkov ki jih ta prikazuje.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Želite ustvariti pripomoček in dovoliti dostop?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Vedno dovoli da %1$s ustvari pripomočke in dostopa do njihovih podatkov</string>
@@ -939,7 +940,7 @@ Nazadnje zagnano: %2$s"</string>
     <string name="aware_info_button_description">Več nastavitev</string>
   <string name="aware_settings_description"/>
     <string name="aware_lock_title">Samodejno zaklepanje zaslona, ko ni nikogar v bližini</string>
-  <string name="aware_settings_description">Pixel s senzorjem zazna razdaljo in gibanje v bližini telefona</string>
+  <string name="aware_settings_description">Naprava s senzorjem zazna razdaljo in gibanje v bližini telefona</string>
   <string name="aware_settings_disabled_info_dialog_content">Funkcije senzorja gibanja, kot so hitri posnetek, prikaz zaslona, ​​ko je v bližini, in iskanje telefona po telefonu v tej državi niso podprte.</string>
   <string name="aware_settings_disabled_info_dialog_title">Senzor gibanja je izključen</string>
   <string name="aware_settings_enabled_info_dialog_content">Storitve senzorja gibanja na primer hitre poteze, prikaz zaslona, ​​ko je v bližini, in nalaganje telefona, so v tej državi podprti.</string>
@@ -3084,11 +3085,11 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="dual_wifi_on">Vključeno</string>
   <string name="dual_wifi_primary_wifi_connected">Glavno WiFi omrežje</string>
   <string name="dual_wifi_slave_wifi_connected">Pomožno WiFi omrežje</string>
-  <string name="dual_wifi_summary">Povećajte hitrost WiFi z povezavo na pomožna omrežja.</string>
+  <string name="dual_wifi_summary">Povečajte hitrost WiFi s povezavo na pomožna omrežja.</string>
   <string name="dual_wifi_switching_not_remind">Ne kaži več</string>
   <string name="dual_wifi_switching_prompt">Zamenjava omrežij</string>
   <string name="dual_wifi_switching_summary">Dvopasovno povečanje WiFi hitrosti uporablja dva različna WiFi pasova. Če se povežete z drugim glavnim omrežjem se bo pomožna povezava izgubila.</string>
-  <string name="dump_log">Pridobivanje zapisov povezanih z problemi</string>
+  <string name="dump_log">Pridobivanje zapisov povezanih s problemi</string>
   <string name="dump_log_summary">"Ta storitev je dizajnirana za generiranje 284 zapisov v alfa in beta različicah MIUI. Uporabljajte jo previdno.
 Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="dump_log_title">O tej storitvi</string>
@@ -3131,7 +3132,6 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="empty_title_auto_start_list">Ni aplik. z samod. zagonom</string>
   <string name="empty_title_perm_apps">Ni aplik. s tem dovoljenjem</string>
   <string name="empty_title_permission_apps_list">Ni aplikacij.</string>
-  <string name="enableNetwork">enableNetwork</string>
     <string name="enable_adb">Odpravljanje težav preko USB-ja</string>
   <string name="enable_adb_summary">Način za odpravljanje težav, ko je vzpostavljena povezava USB</string>
   <string name="enable_adb_summary_charging">Naprava je v načinu polnjenja, USB popravljanje napak je onemogočeno</string>
@@ -3832,8 +3832,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
     <string name="graphics_driver_dashboard_title">Nastavitve grafičnega gonilnika</string>
     <string name="graphics_driver_footer_text">Kadar je nameščenih več grafičnih gonilnikov, lahko izberete, naj aplikacije, nameščene v napravi, uporabljajo posodobljeni grafični gonilnik.</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WiFi</string>
-     <string name="gsm_umts_network_preferences_dialogtitle">Network Mode</string>
-     <string name="gsm_umts_network_preferences_title">Network Mode</string>
+  <string name="gsm_umts_network_preferences_dialogtitle">Omrežni način</string>
+     <string name="gsm_umts_network_preferences_title">Omrežni način</string>
   <string name="guarded_mode_dialog_backup_message">Izdelava var.kopije ni dovoljena v načinu dela Gost.</string>
   <string name="guarded_mode_dialog_title">Ste v načinu Gosta</string>
   <string name="guarded_mode_dialog_transfer_message">"Ne morem uporabiti Mi Mover v načinu dela Gost."</string>
@@ -4376,7 +4376,7 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
     <string name="keywords_voice_input">prepoznavalnik, vnos, govor, govori, jezik, prostoročno, prostoročno, prepoznavanje, žaljivka, zvok, zgodovina, slušalka bluetooth</string>
     <string name="keywords_vr_listener">vr navidezna resničnost poslušalec stereo storitev za pomoč</string>
     <string name="keywords_wake_display">Tipalo, stalno vklopljen zaslon, prikaz, čas, gibanje, stalno vklopljeno, zaznavanje, premik</string>
-     <string name="keywords_wake_screen">Prijeći prstom, prijeći prstom ulijevo ili udesno, senzor, ambijent na zaslonu, zaslon, vrijeme, kretanja, posvijetliti</string>
+     <string name="keywords_wake_screen">Povlecite, povlecite v levo ali desno, senzor, ambient zaslona, ​​zaslon, čas, gibanje, osvetlitev</string>
     <string name="keywords_wallpaper">ozadje, zaslon, zaklenjen zaslon, tema</string>
     <string name="keywords_wifi">wifi, WiFi, omrežna povezava, internet, brezžično, podatki, wi fi</string>
     <string name="keywords_wifi_calling">wifi, WiFi, klic, klicanje</string>
@@ -4469,12 +4469,13 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="legal_workday_invalidate">Pon-Pet (potekli podatki o praznikih)</string>
   <string name="legal_workday_invalidate_message">Dotaknite se za posodobitev podrobnosti o praznikih.</string>
   <string name="legal_workday_message">(Preskoči praznike)</string>
-     <string name="legal_written_offer">Written Offer</string>
+  <string name="legal_written_offer">Pisana ponudba</string>
   <string name="license_title">Licenca</string>
   <string name="lift_to_wake_title">Preklop iz stanja pripravlj. z dviganjem</string>
   <string name="lights_title">LED svetloba</string>
   <string name="line_breaking_summary">Optimizirajte odstavek prelamljanja vrstice</string>
   <string name="line_breaking_title">Optimizirajte besedilo</string>
+  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Hitrost povezave:</string>
   <string name="link_turbo_prompt">"Statistika na tej strani kaže samo količino podatkov uporabljeno za za večanje hitrosti WiFi povezave. Statistika porabe mobilnih podatkov je nerealna."</string>
   <string name="link_turbo_settings_all_app_display_loading">Samo trenutek…</string>
@@ -5042,6 +5043,7 @@ Tega dejanja ne moreš preklicati!"</string>
   <string name="memory_title">Na voljo: %1$s\u0009\u0009Skupaj: %2$s</string>
   <string name="memory_usage">Uporaba pomnilnika</string>
   <string name="memory_usage_apps">Pomnilnik ki ga uporabljajo aplikacije</string>
+  <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">Povprečno uporabljenega pomnilnika v zadnjih 3 urah: %1$s</string>
     <string name="menu_cancel">"Zavrzi"</string>
   <string name="menu_check">Izkušnja</string>
@@ -5083,18 +5085,18 @@ Tega dejanja ne moreš preklicati!"</string>
   <string name="miliao_account_guide">Uporabite svoj Mi račun da se prijavite v Mi Cloud, MIUI Teme in druge storitve Mi.</string>
   <string name="miliao_account_login">Prijavi se v Mi Talk</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
-  <string name="miracast_PC2THOR_streaming_on">Miracast ni dostopen ker računalnik streama na to napravo</string>
+  <string name="miracast_PC2THOR_streaming_on">Miracast ni dostopen ker računalnik predvaja na to napravo</string>
   <string name="miracast_cancelconnect_dialog">Prekini povezavo</string>
   <string name="miracast_connection_failed_generic">"Ne morem se povezati z zaslonom"</string>
   <string name="miracast_dialog_title">%1$s</string>
   <string name="miracast_disable_dhcp">Onemogoči HDCP</string>
   <string name="miracast_display_category">Zasloni</string>
   <string name="miracast_enable_dhcp">Omogoči HDCP</string>
-  <string name="miracast_error_already_streaming">Že streamam na drug zaslon</string>
+  <string name="miracast_error_already_streaming">Že predvajam na drug zaslon</string>
   <string name="miracast_error_cancelconnect">Povezava je zasedena</string>
   <string name="miracast_error_connection_in_progress">Povezovanje…</string>
-  <string name="miracast_menu_connect">Zagon streama</string>
-  <string name="miracast_menu_disconnect">Ustavi stream</string>
+  <string name="miracast_menu_connect">Zagon predvajanja</string>
+  <string name="miracast_menu_disconnect">Ustavi predvajanje</string>
   <string name="miracast_menu_forget">Pozabi zaslon</string>
   <string name="miracast_menu_rename">Preimenuj zaslon</string>
   <string name="miracast_menu_search">Preišči</string>
@@ -5617,6 +5619,7 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="nfc_how_it_works_got_it">Razumem</string>
     <string name="nfc_how_it_works_title">Plačevanje v terminalu</string>
     <string name="nfc_more_title">Več…</string>
+  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">Nastavi za privzeto</string>
     <string name="nfc_payment_btn_text_update">Posodobi</string>
   <string name="nfc_payment_default">Privzeto za plačevanje</string>
@@ -6785,7 +6788,7 @@ Pred uporabo preberite in sprejmite %s."</string>
   <string name="privacy_thumbnail_blur_progress_message">Samo trenutek…</string>
   <string name="privacy_thumbnail_blur_title">Zamegljeni pregledi aplikacij</string>
     <string name="private_dns_broken">Do zasebnega strežnika DNS ni mogoče dostopati</string>
-    <string name="private_dns_help_message">&lt;annotation id="url"&gt;Izvedite več&lt;/annotation&gt; o funkcijah Privat DNS</string>
+    <string name="private_dns_help_message">&lt;annotation id="url"&gt;Izvedite več&lt;/annotation&gt; o storitvah Privat DNS</string>
     <string name="private_dns_mode_off">Izklopljeno</string>
     <string name="private_dns_mode_on">Vklopljeno</string>
     <string name="private_dns_mode_opportunistic">Samodejno</string>
@@ -6860,9 +6863,6 @@ Pred uporabo preberite in sprejmite %s."</string>
     <string name="proxy_settings_title">Strežnik proxy</string>
     <string name="proxy_url_title">"URL datoteke PAC: "</string>
   <string name="proxy_warning_limited_support">Proxy HTTP lahko uporablja brskalnik, druge aplikacije pa ne.</string>
-  <string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
-  <string name="qtifeedback_intent_action">com.qti.smq.snapdragonSettings</string>
-  <string name="qtifeedback_package">com.qti.smq.Feedback</string>
   <string name="qtifeedback_settings_subtitle">Qualcomm Technologies, Inc Reporting</string>
   <string name="qtifeedback_settings_title">Hardware Feedback</string>
   <string name="query_hint_text">Preišči nastavitve</string>
@@ -7849,9 +7849,9 @@ Prav tako lahko telefon odklene nekdo, ki vam je zelo podoben, na primer vaš en
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Ime</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">V redu</string>
     <string name="security_settings_fingerprint_enroll_disclaimer">Funkcijo Pixel Imprint lahko razen za odklepanje telefona uporabljate tudi za odobritev nakupov in dostop do aplikacij. <annotation id="url">Več o tem</annotation></string>
-     <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"" Možnost zaklepanja zaslona je onemogočena. Če želite izvedeti več, se obrnite na skrbnika organizacije. "<annotation id="admin_details">Več podrobnosti</annotation>"
+     <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" Možnost zaklepanja zaslona je onemogočena. Če želite izvedeti več, se obrnite na skrbnika organizacije. "<annotation id="admin_details">Več podrobnosti</annotation>"
 
-Prstni odtis lahko še naprej uporabljate za potrjevanje nakupov in dostop do aplikacij. "<annotation id="url">Več o tem</annotation>"</string>
+Prstni odtis lahko še naprej uporabljate za potrjevanje nakupov in dostop do aplikacij. "<annotation id="url">Več o tem</annotation></string>
   <string name="security_settings_fingerprint_enroll_done">Končano</string>
     <string name="security_settings_fingerprint_enroll_enrolling_skip">Pozneje</string>
   <string name="security_settings_fingerprint_enroll_error_dialog_title">Registracija ni dokončana</string>
@@ -8257,7 +8257,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
     <string name="smart_battery_manager_title">Prilagodljivo varčevanje z energijo akumulatorja</string>
     <string name="smart_battery_summary">Omejite porabljanje energije akumulatorja za aplikacije, ki jih ne uporabljate pogosto</string>
     <string name="smart_battery_title">Prilagodljivo varčevanje z energijo akumulatorja</string>
-  <string name="smart_home_title">Smart Home</string>
+  <string name="smart_home_title">Pametni dom</string>
   <string name="smart_home_value_none">Nič</string>
   <string name="smart_home_value_unknown">Neznano</string>
   <string name="smart_notifications_title">Prilagodljiva obvestila</string>
@@ -8771,8 +8771,6 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="subscription_available">Na voljo</string>
   <string name="succ_description">Uspešno</string>
   <string name="succeed">Končano</string>
-  <string name="sudFontSecondary">google-sans</string>
-  <string name="sudFontSecondaryMedium">google-sans-medium</string>
   <string name="sud_back_button_label">Nazaj</string>
   <string name="sud_more_button_label">Več</string>
   <string name="sud_next_button_label">Naprej</string>
@@ -8840,7 +8838,6 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="suspension_ball_enable">Bližnjica menija bližnjic</string>
   <string name="suspension_ball_enable_desc">Vključite/izključite meni bližnjic s pomočjo bližnjice</string>
   <string name="suwFontSecondary">google-sans</string>
-  <string name="suwFontSecondaryMedium">google-sans-medium</string>
   <string name="suw_back_button_label">Nazaj</string>
   <string name="suw_more_button_label">Več</string>
   <string name="suw_next_button_label">Naprej</string>
@@ -10281,6 +10278,7 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
   <string name="wifi_calling_off_explanation_2"/>
     <string name="wifi_calling_pref_managed_by_carrier">Nastavitev upravlja operater</string>
     <string name="wifi_calling_roaming_mode_dialog_title">Prednostna izbira za gostovanje</string>
+  <string name="wifi_calling_roaming_mode_summary">%1$s</string>
     <string name="wifi_calling_roaming_mode_title">Prednostna izbira za gostovanje</string>
     <string name="wifi_calling_settings_activation_instructions">Aktivirajte klicanje preko WiFi-ja</string>
   <string name="wifi_calling_settings_title">Klicanje preko WiFi-ja</string>

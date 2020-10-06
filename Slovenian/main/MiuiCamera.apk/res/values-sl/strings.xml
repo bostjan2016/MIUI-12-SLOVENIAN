@@ -460,7 +460,7 @@ in za trenutek zapustite pregled"</string>
   <string name="details_title">%1$d od %2$d stvari:</string>
   <string name="device_48m_watermark_default_text">48MP DVOJNA KAMERA</string>
   <string name="device_watermark_default_text">AI DVOJNA KAMERA</string>
-  <string name="dialog_google_lens_option_0">Google Leće (priporočeno)</string>
+  <string name="dialog_google_lens_option_0">Google Leče (priporočeno)</string>
   <string name="dialog_ok">V redu</string>
   <string name="dialog_ok_time">V redu (%ds)</string>
   <string name="dirty_tip_toast">Leča je umazana. Očistite jo.</string>

@@ -102,6 +102,10 @@
         <item quantity="other">%1$d ur</item>
         <item quantity="one">%1$d ura</item>
     </plurals>
+	<plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">%1$d sek. ostalo</item>
+        <item quantity="one">%1$d sek. ostalo</item>
+    </plurals>
     <plurals name="in_a_hour">
          <item quantity="other">Čez 1 uro</item>
      </plurals>
@@ -274,6 +278,26 @@
 	<plurals name="unit_group">
         <item quantity="other">" ciklov"</item>
         <item quantity="one">" cikel"</item>
+    </plurals>
+	<plurals name="unit_hours">
+        <item quantity="other">" ur "</item>
+        <item quantity="one">" ura "</item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="other">" ur "</item>
+        <item quantity="one">" ura "</item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="other">" min "</item>
+        <item quantity="one">" min "</item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="other">" minut "</item>
+        <item quantity="one">" minuta "</item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="other">" sek "</item>
+        <item quantity="one">" sek "</item>
     </plurals>
 	<plurals name="unit_times">
         <item quantity="other">" krat"</item>
