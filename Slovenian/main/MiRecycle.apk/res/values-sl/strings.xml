@@ -84,6 +84,7 @@ poškodbe vaše naprave po nesreči"</string>
   <string name="dialog_button_update">Posodobi</string>
   <string name="dialog_content_stop">"Ustavim test strojne opreme pred koncem?"</string>
   <string name="dialog_content_update">Poskusite ponovno po posodobitvi.</string>
+   <string name="dialog_title_attention">Pozor</string>
   <string name="done_claim_ps">*Stranka mora plačati nadomestilo v skladu s pogoji in pravili programa</string>
   <string name="done_download_invoice">&lt;u&gt;Prenos računa&lt;/u&gt;</string>
   <string name="done_how_claim">Kako vložiti zahtevek?</string>

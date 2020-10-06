@@ -726,6 +726,7 @@ dd.MM"</string>
   <string name="search_menu_title">Išči</string>
   <string name="search_str">Popularno</string>
   <string name="see_all">Pokaži vse</string>
+  <string name="see_detail">Pokaži</string>
   <string name="see_more">Pokaži več</string>
   <string name="see_more_content">Pokaži več</string>
   <string name="send_diagnosis_log">Pošlji zapis</string>
@@ -890,6 +891,7 @@ dd.MM"</string>
   <string name="toast_update_no_more_newest_feeds">Ni novih stvari</string>
   <string name="top_search_tip">Poiščite kategorije ki so vam všeč</string>
   <string name="torch">Svetilka</string>
+  <string name="understand_band_story">Izvedite več</string>
   <string name="uninstall_introducation_text_desc">Wallpaper Carousel dostavlja nove kvalitete slike direktno na zakl. zaslon. Preden odstranite aplikacijo se prepričajte, da je res ne potrebujete.</string>
   <string name="uninstall_introduction_text_title">O Wallpaper Carousel</string>
   <string name="uninstall_warning_text_desc">"Brez Wallpaper Carousela ne boste dobivali novih slik za ozadje. Lahko pa boste na novo namestili aplikacijo. Izbrišem Wallpaper Carousel?"</string>

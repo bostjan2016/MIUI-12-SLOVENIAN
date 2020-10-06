@@ -37,6 +37,11 @@
   <string name="printer_out_of_ink">Ni barve</string>
   <string name="printer_out_of_paper">Ni papirja</string>
   <string name="printer_out_of_toner">Ni tonerja</string>
+  <string name="recommendation_enable_summary">Izberite za omogočanje</string>
+  <string name="recommendation_install_summary">Izberite za namestitev</string>
+  <string name="recommendation_manage">Urejanje storitev</string>
+  <string name="recommendation_summary">Privzeta storitev tiskanja ponuja osnovne možnosti. Druge možnosti za ta tiskalnik so morda na voljo v drugi storitvi tiskanja.</string>
+  <string name="recommendations_heading">Priporočene storitve</string>
   <string name="reject">Zavrni</string>
   <string name="saved_printers">Shranjeni tiskalniki</string>
   <string name="searching">Iskanje</string>
