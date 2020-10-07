@@ -3,12 +3,16 @@
      <plurals name="alert_dialog_exit_ecm">
         <item quantity="other">Telefon bo v stanju nujnega povratnega klica %s minut. V tem načinu ne morete uporabljati aplikacij ki potrebujejo podatkovno povezavo. Želite zapreti ta način?</item>
         <item quantity="one">Telefon bo v stanju nujnega povratnega klica %s minuto. V tem načinu ne morete uporabljati aplikacij ki potrebujejo podatkovno povezavo. Želite zapreti ta način?</item>
-        <item quantity="few">Telefon bo v stanju nujnega povratnega klica %s minut. V tem načinu ne morete uporabljati aplikacij ki potrebujejo podatkovno povezavo. Želite zapreti ta način?</item>
      </plurals>
      <plurals name="alert_dialog_not_avaialble_in_ecm">
         <item quantity="other">Izbrano opravilo ni na voljo v načinu nujnega povratnega klica. Telefon bo v tem načinu %s minut. Želite zapreti ta način?</item>
         <item quantity="one">Izbrano opravilo ni na voljo v načinu nujnega povratnega klica. Telefon bo v tem načinu  %s minuto. Želite zapreti ta način?</item>
-        <item quantity="few">Izbrano opravilo ni na voljo v načinu nujnega povratnega klica. Telefon bo v tem načinu %s minut. Želite zapreti ta način?</item>
+    </plurals>
+	     <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
+        <item quantity="other">"Telefon bo v stanju nujnega povratnega klica %s minut.
+Želite takoj zapreti ta način?"</item>
+        <item quantity="one">"Telefon bo v stanju nujnega povratnega klica %s minuto.
+Želite takoj zapreti ta način?"</item>
      </plurals>
     <plurals name="auto_answer_summary_delay">
          <item quantity="other">odloži: %d sek.</item>
