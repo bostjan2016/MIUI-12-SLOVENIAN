@@ -317,7 +317,7 @@
   <string name="battery_info_status_charging_ac_short">Polnjenje</string>
      <string name="battery_info_status_charging_fast">Hitro polnjenje</string>
   <string name="battery_info_status_charging_lower">polnjenje</string>
-  <string name="battery_info_status_charging_usb">Polnjenje preko USB-a</string>
+  <string name="battery_info_status_charging_slow">Počasno polnjenje</string>
   <string name="battery_info_status_charging_usb">Polnj. preko USB-ja</string>
   <string name="battery_info_status_charging_usb_short">Polnjenje</string>
   <string name="battery_info_status_charging_wireless">Brezžično polnjenje</string>
