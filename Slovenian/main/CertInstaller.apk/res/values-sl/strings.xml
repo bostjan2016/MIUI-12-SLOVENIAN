@@ -13,9 +13,10 @@
   <string name="cert_too_large_error">"Namestitev ni uspela ker je potrdilo preveliko."</string>
   <string name="certificate">Certifikat</string>
   <string name="certificate_capabilities_warning">Pozor: izdajatelj tega certifikata lahko pregleduje ves promet iz naprave in vanjo.</string>
+  <string name="certificate_name">Ime certifikata</string>
   <string name="credential_info">V tem paketu je:</string>
-  <string name="credential_name">Ime potrdila:</string>
-  <string name="credential_password">Za ekstrahiranje potrdil vnesite geslo.</string>
+  <string name="credential_name">"Ime potrdila:"</string>
+  <string name="credential_password">"Za ekstrahiranje potrdil vnesite geslo."</string>
   <string name="credential_usage_label">Uporaba poverilnice:</string>
   <string name="done_label">Končano</string>
   <string name="extracting_pkcs12">Ekstrahiranje ...</string>

@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
+    <string name="abc_action_bar_up_description">Pomik navzgor</string>
+    <string name="abc_action_menu_overflow_description">Več možnosti</string>
+    <string name="abc_action_mode_done">Končano</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
+    <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+    <string name="abc_capital_off">IZKLOP</string>
+    <string name="abc_capital_on">VKLOP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meni+</string>
+    <string name="abc_search_hint">Iskanje …</string>
+    <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
+    <string name="abc_searchview_description_query">Iskalna poizvedba</string>
+    <string name="abc_searchview_description_search">Iskanje</string>
+    <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
+    <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+    <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
+    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="about_weather_setting">O Vremenu</string>
   <string name="about_weather_setting_feedback">Pov. informacije</string>
   <string name="abrupt_weather_alert_channel_name">Opozorila o vremenu</string>
@@ -219,7 +246,9 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="information_set">Ostale nastavtve</string>
   <string name="information_settings_title">Informacije o vremenu</string>
   <string name="install">Namesti</string>
+  <string name="international_details_chance_of_rain">MOŽNOST DEŽJA</string>
   <string name="international_details_humidity_title">VLAGA</string>
+  <string name="international_details_humidity">VLAGA</string>
   <string name="international_detail_menu_title">Podrobnosti</string>
   <string name="international_details_pressure_title">Pritisk</string>
   <string name="international_details_real_feel_title">Realni občutek</string>
