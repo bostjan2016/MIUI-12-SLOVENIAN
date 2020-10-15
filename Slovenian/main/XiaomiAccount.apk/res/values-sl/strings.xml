@@ -566,8 +566,15 @@ ki ste ga prejeli v vaš poštni predal
   <string name="passport_trust_device">Dodaj to napravo k zaupanja vrednim</string>
   <string name="passport_trying_read_verify_code_sms">Pridobivanje kode…</string>
   <string name="passport_uplink_reg">Uporabi številko telefona</string>
+  <string name="passport_uplink_send_sms_hint">"Tapnite \"Pošlji\" ko boste preusmerjeni na stran z sestavljenim sporočilom."</string>
   <string name="passport_uplink_slot1_reg">Uporabi SIM 1</string>
   <string name="passport_uplink_slot2_reg">Uporabi SIM 2</string>
+  <string name="passport_uplink_sms_send_cancel">Pošiljanje SMS-jev prek povezave preklicano</string>
+  <string name="passport_uplink_sms_send_confirm">Poslano</string>
+  <string name="passport_uplink_sms_send_failed">"Povezave SMS ni mogoče potrditi"</string>
+  <string name="passport_uplink_sms_sending">Pošiljanje plačanega sporočila…</string>
+  <string name="passport_uplink_suggest_dialog_msg">"Kode ni mogoče prejeti. Namesto tega uporabim plačljivo povezavo za plačljive SMS-e?</string>
+  <string name="passport_uplink_suggest_dialog_title">Pozor</string>
   <string name="passport_use_generated_pwd_message">Poskrbite da si boste zapomnili svoje geslo. Lahko ga uporabite za prijavo na druge Mi storitve.</string>
   <string name="passport_use_generated_pwd_title">Zapomnite si vaše geslo!</string>
   <string name="passport_user_agreement">Pogoji uporabe</string>
