@@ -4484,7 +4484,6 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="lights_title">LED svetloba</string>
   <string name="line_breaking_summary">Optimizirajte odstavek prelamljanja vrstice</string>
   <string name="line_breaking_title">Optimizirajte besedilo</string>
-  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Hitrost povezave:</string>
   <string name="link_turbo_prompt">"Statistika na tej strani kaže samo količino podatkov uporabljeno za za večanje hitrosti WiFi povezave. Statistika porabe mobilnih podatkov je nerealna."</string>
   <string name="link_turbo_settings_all_app_display_loading">Samo trenutek…</string>
@@ -5052,7 +5051,6 @@ Tega dejanja ne moreš preklicati!"</string>
   <string name="memory_title">Na voljo: %1$s\u0009\u0009Skupaj: %2$s</string>
   <string name="memory_usage">Uporaba pomnilnika</string>
   <string name="memory_usage_apps">Pomnilnik ki ga uporabljajo aplikacije</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">Povprečno uporabljenega pomnilnika v zadnjih 3 urah: %1$s</string>
     <string name="menu_cancel">"Zavrzi"</string>
   <string name="menu_check">Izkušnja</string>
@@ -5628,7 +5626,6 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="nfc_how_it_works_got_it">Razumem</string>
     <string name="nfc_how_it_works_title">Plačevanje v terminalu</string>
     <string name="nfc_more_title">Več…</string>
-  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">Nastavi za privzeto</string>
     <string name="nfc_payment_btn_text_update">Posodobi</string>
   <string name="nfc_payment_default">Privzeto za plačevanje</string>
@@ -10287,7 +10284,6 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
   <string name="wifi_calling_off_explanation_2"/>
     <string name="wifi_calling_pref_managed_by_carrier">Nastavitev upravlja operater</string>
     <string name="wifi_calling_roaming_mode_dialog_title">Prednostna izbira za gostovanje</string>
-  <string name="wifi_calling_roaming_mode_summary">%1$s</string>
     <string name="wifi_calling_roaming_mode_title">Prednostna izbira za gostovanje</string>
     <string name="wifi_calling_settings_activation_instructions">Aktivirajte klicanje preko WiFi-ja</string>
   <string name="wifi_calling_settings_title">Klicanje preko WiFi-ja</string>

@@ -1757,7 +1757,6 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="private_dns_mode_provider">Ime hosta ponudnika zasebnega DNS-a</string>
   <string name="private_dns_mode_provider_failure">Povezovanje ni možno</string>
   <string name="private_dns_mode_provider_hostname_hint">Vnesite ime DNS ponudnika</string>
-     <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Težava pri povezovanju. Napravo izklopite in znova vklopite.</string>
     <string name="profile_info_settings_title">Podatki za profil</string>
     <string name="profile_owned_footer">Profil je morda nadziran</string>
