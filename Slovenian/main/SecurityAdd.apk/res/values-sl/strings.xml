@@ -27,6 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
     <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi preko aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
+  <string name="actionbar_button_up_description">Nazaj</string>
   <string name="ad_downloading">Prenos…</string>
   <string name="add_done">Uspešno dodano</string>
   <string name="add_game">Dodaj igro</string>
@@ -47,7 +48,10 @@
   <string name="cancel">Prekliči</string>
   <string name="cancel_button">Prekliči</string>
   <string name="close">Zapri</string>
+  <string name="clear_text_end_icon_content_description">Izbriši besedilo</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="create_shortcut">Napravi bližnjico na začetnem zaslonu za pohitritev iger</string>
+  <string name="cta_main_purpose">Dobrodošli v Game Turbo!</string>
   <string name="dialog_market_score_cancel">Prekliči</string>
   <string name="dialog_market_score_dislike">Komentiraj</string>
   <string name="dialog_market_score_like">5 zvezdic!</string>
@@ -64,6 +68,8 @@
   <string name="dont_bore_title">DND način</string>
   <string name="dual_app_title">Dvojne aplikacije</string>
   <string name="dual_app_words">Vsak račun zasluži lastno aplikacijo</string>
+  <string name="error_icon_content_description">Napaka</string>
+  <string name="exposed_dropdown_menu_content_description">Pokaži padajoči meni</string>
   <string name="fastboot_locked_answer_1">Fastboot je tradicionalna metoda flešanja Mi naprav. Ko je naprava v Fastboot načinu, se lahko dostopa do vseh podatkov shranjenih na njej. Možen je neposreden dostop ali pa brisanje. Fastboot zaklepamo za varnost vaših podatkov če izgubite napravo in garantiramo varnost storitve Najdi napravo.</string>
   <string name="fastboot_locked_answer_2">"Če izgubite napravo, Fastboot zagotavlja varnost stvari shranjenih v njej. Če odklenete Fastboot, ne boste več mogli zakleniti naprave na daljavo ali izbrisati podatke s pomočjo storitve Najdi napravo. Zato ne priporočamo da odklenete Fastboot na napravi."</string>
   <string name="fastboot_locked_answer_3">"Uporabljate orodje za odklep iz MIUI web strani. Da boste odklenili napravo, moramo preveriti ali je naprava res vaša. Zato se morate prijaviti s svojim Mi Računom in vključiti Najdi napravo."</string>

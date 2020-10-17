@@ -86,6 +86,7 @@ dd.MM"</string>
   <string name="disable_aod_in_dark_room">Izključi ko je v mraku</string>
   <string name="disable_aod_in_power_save_mode">Izključi če je vključeno varčevanje baterije</string>
   <string name="disable_aod_in_power_save_mode_summary">"Ne kaži za prihranek baterije"</string>
+     <string name="dual_clock_tip">Vključena je dvojna ura. Dotaknite se, da odprete Nastavitve.</string>
   <string name="error_icon_content_description">Napaka</string>
   <string name="evening">PM</string>
   <string name="expand_button_title">Napredno</string>
@@ -101,6 +102,17 @@ dd.MM"</string>
   <string name="midnight">AM</string>
   <string name="mini_time">Mala ura</string>
   <string name="minimalist_clock">Enostavna ura</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
+     <string name="miuix_appcompat_cancel_description">Prekliči</string>
+     <string name="miuix_appcompat_confirm_description">Potrdi</string>
+     <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
+     <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all_description">Izberi vse</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -153,8 +165,8 @@ dd.MM"</string>
   <string name="more_online_theme">Online storitve</string>
   <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
-  <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Več kot %1$d novih obvestil</string>
+     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
   <string name="mtrl_picker_a11y_next_month">Zamenjaj na naslednji mesec</string>
   <string name="mtrl_picker_a11y_prev_month">Zamenjaj na prejšnji mesec</string>
   <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>

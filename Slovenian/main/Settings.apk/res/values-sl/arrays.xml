@@ -675,7 +675,7 @@
         <item>Zaženi upravitelja</item>
         <item>Zaženi Google now</item>
         <item>Zapri trenutno aplikacijo</item>
-		<item>Zaženi hitro iskanje</item>
+	<item>Zaženi hitro iskanje</item>
         <item>Pokaži Meni</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
@@ -793,7 +793,7 @@
         <item>Otroški način</item>
         <item>Datoteke</item>
         <item>Zakl. aplikacij</item>
-		<item>Drugi prostor</item>
+	<item>Drugi prostor</item>
     </string-array>
 	<string-array name="anr_record_interval_entries">
         <item>10 sek</item>
@@ -936,7 +936,7 @@
     <string-array name="screen_button_style">
          <item>Levičar</item>
          <item>Desničar</item>
-		 </string-array>
+	 </string-array>
     <string-array name="privacy_password_function_specfication_names">
          <item>Sporočila</item>
          <item>Fotografije</item>
@@ -1183,7 +1183,7 @@
         <item>Pritisnite za nastavitev - Dvakrat pritisnite za vklop</item>
         <item>Potegnite za nastavitev - Potegnite za vklop</item>
         <item>Pritisnite za nastavitev - Pritisnite za vklop</item>
-		<item>Pritisnite za nastavitev - Pritisnite &amp; zadržite za vklop</item>
+	<item>Pritisnite za nastavitev - Pritisnite &amp; zadržite za vklop</item>
       </string-array>
      <string-array name="color_mode_descriptions">
         <item>Izboljšane barve</item>
@@ -1496,14 +1496,12 @@
         <item>Odstotek (zraven ikone v plošči obvestil)</item>
     </string-array>
 	<string-array name="aggregate_entries">
-        <item>Priporočeno</item>
-        <item>Važno</item>
-        <item>Nevažno</item>
+        <item>Združi</item>
+        <item>"Ne združi"</item>
     </string-array>
     <string-array name="aggregate_summaries">
-        <item>MIUI bo odločil katera obvestila se pojavijo neposredno</item>
-        <item>Obvestila se bodo pojavila v plošči obvestil</item>
-        <item>Obvestila se bodo pojavila v zasebni mapi</item>
+        <item>Promocijska in vsebinska potisna obvestila bodo združena v skupine</item>
+        <item>"Potisna obvestila ne bodo združena v skupine"</item>
     </string-array>
 	 <string-array name="vpn_proxy_settings">
         <item>Nič</item>

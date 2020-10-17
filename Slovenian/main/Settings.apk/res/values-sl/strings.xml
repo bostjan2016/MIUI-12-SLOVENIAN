@@ -955,6 +955,9 @@ Nazadnje zagnano: %2$s"</string>
     <string name="aware_wake_display_summary">Prikaz ure, ikon obvestil in drugih informacij, ko ste v bližini telefona</string>
     <string name="aware_wake_display_summary_aod_off">Ni na voljo, ker je nastavitev vedno vklopljenega zaslona izklopljena</string>
     <string name="aware_wake_display_title">Vklop, ko ste v bližini</string>
+  <string name="back_button">Nazaj</string>
+  <string name="back_double_tap">Dvakrat tapnite nazaj</string>
+  <string name="back_key">Nazaj</string>
   <string name="back_sensitivity_dialog_message">Višja občutljivost bo morda ovirala izvajanje potez ob robovih zaslona v aplikaciji.</string>
     <string name="back_sensitivity_dialog_title">Občutljivost hrbtnega dela</string>
   <string name="back_tap">Dotik zadaj</string>
@@ -4031,6 +4034,7 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="ignore_optimizations_on_desc">Baterija se lahko hitreje izprazni</string>
   <string name="ignore_optimizations_title">Naj bo aplikaciji %s dovoljeno prezreti optimizacije akumulatorja?</string>
   <string name="ime_security_warning">%1$s lahko morda zbere besedilo, ki ga vtipkate, vključno z osebnimi podatki.</string>
+  <string name="ime_security_warning_global">Načini vnosa lahko zberejo celotno besedilo, ki ga vnesete, vključno z osebnimi podatki, kot so gesla in številke kreditnih kartic. Uporabim %1$s?</string>
   <string name="ime_security_warning_title_global">Vklop tipkovnice</string>
   <string name="imei_information_summary">Relativni podatki o IMEI</string>
   <string name="imei_information_title">Podatki o IMEI</string>
@@ -4194,6 +4198,8 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="invalid_location">Mesto namestitve ni veljavno.</string>
   <string name="invalid_size_value">Velikosti paketa ni bilo mogoče izračunati.</string>
   <string name="ipaddr_label">IPaddr:</string>
+  <string name="ipv4_congertion_control">Izberite nadzor prezasedenosti TCP</string>
+  <string name="ipv4_congertion_xontrol_chose">Algoritem za preprečevanje zastojev TCP</string>
   <string name="item_system_app">Sistemske aplikacije</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s in %2$s</string>
@@ -4423,6 +4429,9 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="launch_instant_app">Odpri</string>
     <string name="launch_mdp_app_text">Pokaži paket</string>
   <string name="launch_notification_center">Plošča obvestil</string>
+  <string name="launch_noapp_dialog_cancel">Prekliči</string>
+  <string name="launch_noapp_dialog_install">Namesti</string>
+  <string name="launch_noapp_dialog_replace">Nastavitve</string>
   <string name="launch_recents">Zaženi Nedavno</string>
   <string name="launch_voice_assistant">Zaženi glasovni pomočnik</string>
   <string name="launch_wechat_payment_code">WeChat koda plačila</string>
@@ -4458,7 +4467,7 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="led_settings">LED lučka</string>
     <string name="left_edge">Levi rob</string>
   <string name="left_function_key">Leva bližnjica</string>
-     <string name="legacy_control_center_desc">Povucite dolje traku statusa za prikaz prečaca i obavijesti</string>
+     <string name="legacy_control_center_desc">Povlecite dol vrstico obvestil za prikaz bližnjic in obvestil</string>
      <string name="legacy_control_center_title">Stara verzija</string>
   <string name="legacy_dhcp_client">Uporaba starejšega odjemalca DHCP</string>
   <string name="legacy_dhcp_client_summary">Uporaba odjemalca DHCP za Lollipop namesto novega odjemalca DHCP za Android.</string>
@@ -4475,6 +4484,7 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="lights_title">LED svetloba</string>
   <string name="line_breaking_summary">Optimizirajte odstavek prelamljanja vrstice</string>
   <string name="line_breaking_title">Optimizirajte besedilo</string>
+  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Hitrost povezave:</string>
   <string name="link_turbo_prompt">"Statistika na tej strani kaže samo količino podatkov uporabljeno za za večanje hitrosti WiFi povezave. Statistika porabe mobilnih podatkov je nerealna."</string>
   <string name="link_turbo_settings_all_app_display_loading">Samo trenutek…</string>
@@ -5042,6 +5052,7 @@ Tega dejanja ne moreš preklicati!"</string>
   <string name="memory_title">Na voljo: %1$s\u0009\u0009Skupaj: %2$s</string>
   <string name="memory_usage">Uporaba pomnilnika</string>
   <string name="memory_usage_apps">Pomnilnik ki ga uporabljajo aplikacije</string>
+  <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">Povprečno uporabljenega pomnilnika v zadnjih 3 urah: %1$s</string>
     <string name="menu_cancel">"Zavrzi"</string>
   <string name="menu_check">Izkušnja</string>
@@ -5617,6 +5628,7 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="nfc_how_it_works_got_it">Razumem</string>
     <string name="nfc_how_it_works_title">Plačevanje v terminalu</string>
     <string name="nfc_more_title">Več…</string>
+  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">Nastavi za privzeto</string>
     <string name="nfc_payment_btn_text_update">Posodobi</string>
   <string name="nfc_payment_default">Privzeto za plačevanje</string>
@@ -10275,6 +10287,7 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
   <string name="wifi_calling_off_explanation_2"/>
     <string name="wifi_calling_pref_managed_by_carrier">Nastavitev upravlja operater</string>
     <string name="wifi_calling_roaming_mode_dialog_title">Prednostna izbira za gostovanje</string>
+  <string name="wifi_calling_roaming_mode_summary">%1$s</string>
     <string name="wifi_calling_roaming_mode_title">Prednostna izbira za gostovanje</string>
     <string name="wifi_calling_settings_activation_instructions">Aktivirajte klicanje preko WiFi-ja</string>
   <string name="wifi_calling_settings_title">Klicanje preko WiFi-ja</string>
@@ -10734,6 +10747,8 @@ Dovolite to vsem aplikacijam, ki želijo iskati?"</string>
   <string name="wifi_switch_to_gsm_title">Uporabim GSM?</string>
     <string name="wifi_tap_to_sign_in">Dotaknite se tukaj, da se prijavite v omrežje</string>
   <string name="wifi_tether_checkbox_text">Prenosna dostopna točka WiFi</string>
+  <string name="wifi_tether_checkbox_kddi_text">WiFi deljenje povezave</string>
+  <string name="wifi_tether_configure_ap_kddi_text">Nastavljanje WiFi deljenja povezave</string>
   <string name="wifi_tether_configure_ap_text">Nastavitev dostopne točke WiFi</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="wifi_tether_configure_subtext">Dostopna točka %1$s %2$s</string>

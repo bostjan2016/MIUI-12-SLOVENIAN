@@ -96,4 +96,20 @@
         <item quantity="other">"Ne morem sinhronizirati stvari: %s"</item>
         <item quantity="one">"Ne morem sinhronizirati %s stvar"</item>
      </plurals>
+     <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">Klic je sprejelo %d oseb</item>
+        <item quantity="one">Klic je sprejela %d oseba</item>
+     </plurals>
+     <plurals name="time_format_day">
+        <item quantity="other">%1$s dni</item>
+        <item quantity="one">%1$s dan</item>
+     </plurals>
+     <plurals name="time_format_hour">
+        <item quantity="other">%1$s ur</item>
+        <item quantity="one">%1$s ura</item>
+     </plurals>
+     <plurals name="time_format_min">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+     </plurals>
 </resources>
