@@ -75,7 +75,6 @@
   <string name="announce_for_drag">Poteg ene stvari</string>
     <string name="app_agenda_i_known">Razumem</string>
     <string name="app_bluetooth_device_type">Naprava Bluetooth</string>
-  <string name="app_label">Asistent</string>
     <string name="app_health_card_completion">Cilj</string>
     <string name="app_health_card_step">"Današnji koraki:"</string>
     <string name="app_label">Osebni asistent</string>
@@ -130,9 +129,6 @@
   <string name="assistant_summary">Dobite uporabne predloge takrat ko jih potrebujete</string>
   <string name="authorize_button">Dovoli</string>
   <string name="authorize_fav_tip">Tu dodajte priljubljeno iz drugih aplikacij.</string>
-    <string name="app_version_name">"Osebni asistent verzija: "</string>
-    <string name="apps">Predlogi aplikacij</string>
-    <string name="apps_label">Aplikacije</string>
   <string name="ball_dialog_confirm">Namesti</string>
   <string name="ball_dialog_content">Namesti %s za uporabo te storitve. Namestim zdaj?</string>
   <string name="ball_dialog_tip">Ne kaži več</string>
