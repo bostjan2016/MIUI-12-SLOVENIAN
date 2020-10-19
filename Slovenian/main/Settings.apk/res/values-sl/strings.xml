@@ -2395,8 +2395,10 @@ Začnite z napolnjeno baterijo in telefon mora biti priključen ves čas.
   <string name="dark_color_summary">Uporabite temno paleto barv za ozadja sistema in kompatibilne aplikacije</string>
   <string name="dark_color_summary_lcd">"Uporabite temno paleto barv za ozadja sistema in kompatibilne aplikacije. Temni način zmanjšuje obremenitev oči pri uporabi naprave v mraku."</string>
   <string name="dark_color_summary_oled">Uporabite temno paleto barv za ozadja sistema in kompatibilne aplikacije. Temni način zmanjšuje porabo energije in obremenitev oči pri uporabi naprave v mraku.</string>
+  <string name="dark_mode_apps_header">Posamezne aplikacije</string>
   <string name="dark_mode_contrast">Samodejno prilagodi kontrast</string>
   <string name="dark_mode_contrast_hint">Prilagodi barve in zmanjšaj kontrast samodejno ko se zmanjša svetloba</string>
+  <string name="dark_mode_font_background_title">Samodejno prilagodi besedilo in ozadje</string>
     <string name="dark_theme_slice_subtitle">Pomaga podaljšati čas delovanja baterije</string>
     <string name="dark_theme_slice_title">Preizkusite temno temo</string>
     <string name="dark_ui_activation_off_auto">Izklopi do sončnega zahoda</string>
@@ -3381,6 +3383,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="experimental_category_title">Poskusno</string>
   <string name="experimental_preference">(Poskusno)</string>
   <string name="extended_power_menu">Razširjeni meni Vklop</string>
+  <string name="exterior">Shema barv</string>
     <string name="external_code_size_label">Aplikacija na pogonu USB</string>
     <string name="external_data_size_label">Podatki na pogonu USB</string>
     <string name="external_source_switch_title">Dovoli aplikacije iz tega vira</string>
@@ -4481,6 +4484,7 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
   <string name="legal_written_offer">Pisana ponudba</string>
   <string name="license_title">Licenca</string>
   <string name="lift_to_wake_title">Preklop iz stanja pripravlj. z dviganjem</string>
+  <string name="light_color_mode">Svetli način</string>
   <string name="lights_title">LED svetloba</string>
   <string name="line_breaking_summary">Optimizirajte odstavek prelamljanja vrstice</string>
   <string name="line_breaking_title">Optimizirajte besedilo</string>
@@ -5319,6 +5323,7 @@ Znova zaženite napravo in poskusite znova."</string>
     <string name="module_version">Posodobitev sistema za Google Play</string>
   <string name="more_account_settings_title">Ostali računi</string>
   <string name="more_dangerous_option_hint">Stvari visokega tveganja, vključno \"%1$s\" so omogočene. Tapni za spremembo nastavitev.</string>
+  <string name="more_dark_mode_settings">Več možnosti temnega načina</string>
   <string name="more_installed_services_title">Več storitev prenosa</string>
   <string name="move_app">Premakni</string>
     <string name="move_app_failed_dlg_text">"Ne morem premakniti aplikacijo %1$s"</string>
@@ -7248,14 +7253,10 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_compatibility_label">Združljivost zaslona</string>
   <string name="screen_compatibility_text">Ta aplikacija morda ni namenjena za vaš zaslon. Tu lahko nastavite način prilagajanja zaslonu.</string>
   <string name="screen_confirm">Vključi</string>
-  <string name="screen_dark_mode_advanced_title">Napredno</string>
   <string name="screen_dark_mode_select_time_error_summary">"Čas začetka in konca ne moreta biti enaka"</string>
-  <string name="screen_dark_mode_smart_dark_3rd_apps_list">Aplikacije tretjih oseb</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_summary">Nekatere aplikacije se lahko napačno prikažejo v temnem načinu. Tu lahko omejite uporabo temnega načina za posamezne aplikacije.</string>
-  <string name="screen_dark_mode_smart_dark_apps_setting_title">Posamezne aplikacije</string>
-  <string name="screen_dark_mode_smart_dark_summary">Uporabite temni način tudi za aplikacije drugih proizvajalcev. Nekatere aplikacije bodo morda prikazane nepravilno.</string>
   <string name="screen_dark_mode_smart_dark_title">Global temni način</string>
-  <string name="screen_dark_mode_time_title">Razpored</string>
+  <string name="screen_dark_mode_time_title">Razpored temnega načina</string>
   <string name="screen_effect">Kontrast &amp; barve</string>
   <string name="screen_fps_summary_power_save">Uporaba fiksne hitrosti osvežavanja porabi manj energije</string>
   <string name="screen_fps_summary_smooth">Nekatere aplikacije bodo samodejno povečale hitrost osvežavanja zaradi izboljšanja kvalitete slike</string>

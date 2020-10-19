@@ -68,10 +68,10 @@
   <string name="alert_weather_enable_settings_title">Opozorila vremena</string>
   <string name="already_voted">Glasovano</string>
   <string name="app_name">Vreme</string>
-  <string name="aqi_15_days_desc">15-dnevna napoved kvalitete zraka</string>
-  <string name="aqi_24_hours_desc">24-urna napoved kvalitete zraka</string>
-  <string name="aqi_48_hours_desc">48-urna napoved kvalitete zraka</string>
-  <string name="aqi_5_days_desc">5-dnevna napoved kvalitete zraka</string>
+  <string name="aqi_15_days_desc">%d-dnevna napoved kvalitete zraka</string>
+  <string name="aqi_24_hours_desc">%d-urna napoved kvalitete zraka</string>
+  <string name="aqi_48_hours_desc">%d-urna napoved kvalitete zraka</string>
+  <string name="aqi_5_days_desc">%d-dnevna napoved kvalitete zraka</string>
   <string name="aqi_alert_channel_name">AQI opozorila</string>
   <string name="aqi_data_source">Ponuja Colorful Clouds</string>
   <string name="aqi_detail_24_hours">24-urna napoved</string>
@@ -445,7 +445,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="weather_alert_channel_name">Opozorila</string>
   <string name="weather_introduce">Zmeraj z vami.</string>
   <string name="weather_main_aqi_desc">Kvaliteta zraka</string>
-  <string name="weather_main_minute_hour">2-urna verjetnost padavin</string>
+  <string name="weather_main_minute_hour">%d-urna verjetnost padavin</string>
   <string name="weather_main_speak_tips">Kliknite, če želite glas oddajati</string>
   <string name="weather_permission_agree">Sprejmem</string>
   <string name="weather_service_channel_name">Storitve v ozadju</string>

@@ -1509,10 +1509,11 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="mr_dialog_transferable_header">Igrajte v skupini</string>
   <string name="mr_system_route_name">Sistem</string>
   <string name="mr_user_route_category_name">Naprave</string>
+  <string name="msim_set_sub_not_supported_phone_in_call">"Med klicem ni mogoče nastaviti"</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="mtrl_picker_cancel">Prekliči</string>
   <string name="mtrl_picker_confirm">Shrani</string>
-  <string name="mtrl_picker_date_format">MMM dd, yyyy</string>
+  <string name="mtrl_picker_date_format">dd.MM.yyyy</string>
   <string name="mtrl_picker_header_prompt">Izberi datum</string>
   <string name="mtrl_picker_header_selected">%1$s</string>
   <string name="mtrl_picker_range_header_prompt">Izberite datumski razpon</string>
@@ -1911,6 +1912,9 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="quick_settings_user_new_user">Nov uporabnik</string>
     <string name="quick_settings_user_title">Uporabnik</string>
   <string name="quick_settings_vibrate_label">Vibracija</string>
+  <string name="quick_settings_vowifi_label">WiFi klici</string>
+  <string name="quick_settings_vowifi_sim1_label">WiFi klici SIM1</string>
+  <string name="quick_settings_vowifi_sim2_label">WiFi klici SIM2</string>
   <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Povečanje hitrosti</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Prekliči</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Potrdi</string>
