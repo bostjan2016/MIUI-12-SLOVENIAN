@@ -107,7 +107,7 @@
   "price":"Cena: ",
   "renew_period":"Poteče: ",
   "one_month":"1 mjesec",
-  "too_freq":"Preveč zahtjev poslanih s te naprave.",
+  "too_freq":"Preveč zahtev poslanih s te naprave.",
   "tos":"Pogoji ponudnika storitev",
   "auto_payment":"Samod. obnovi",
   "pay_now":"Prikaz podrobnosti predplačila",

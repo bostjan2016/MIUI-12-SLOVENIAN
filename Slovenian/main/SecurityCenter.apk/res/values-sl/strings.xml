@@ -2381,7 +2381,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="oaid_reset_final_tip">Vseeno izključim virtualno ID?</string>
   <string name="ok">V redu</string>
   <string name="ok_button">V redu</string>
-  <string name="old_sdk_deny_warning">"Aplikacija ni skladna z najnovejšimi zahtjevami dovoljenj Androida. Zavrnjena dovoljenja lahko vplivajo na način delovanja aplikacije."</string>
+  <string name="old_sdk_deny_warning">"Aplikacija ni skladna z najnovejšimi zahtevami dovoljenj Androida. Zavrnjena dovoljenja lahko vplivajo na način delovanja aplikacije."</string>
   <string name="om_btn_text_quick_fix">Optimiziraj</string>
   <string name="om_cpu_overload_activity_title">Aplikacije z visoko porabo CPU</string>
   <string name="om_cpu_overload_app_fixed">Vsi problemi popravljeni</string>
