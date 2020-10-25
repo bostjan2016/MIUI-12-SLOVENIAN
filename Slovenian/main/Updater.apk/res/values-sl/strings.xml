@@ -65,7 +65,7 @@ Posodobitve niso na voljo za vas!"</string>
      <string name="notif_install">Namesti</string>
      <string name="notif_new_summary">Tapni za pridobivanje podrobnosti</string>
      <string name="notif_new_title">Na voljo je nova MIUI verzija!</string>
-  <string name="notif_service_summary">Držite da onemogočite obvestilo \"Storitev v ozadju\"!</string>
+  <string name="notif_service_summary">Držite da onemogočite obvestilo "Storitev v ozadju"!</string>
   <string name="notif_service_title">Aplikacija se izvaja v ozadju…</string>
   <string name="notifications_switch">Opozori na novo MIUI različico</string>
      <string name="permdesc_cache_filesystem">Aplikaciji omogoča pisanje datotek v / predpomnilnik.</string>

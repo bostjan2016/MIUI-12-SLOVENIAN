@@ -38,6 +38,7 @@
   <string name="download_remaining">Še %s</string>
   <string name="download_unknown_title">Brez naslova</string>
   <string name="enter_garbage_clean">Očistite notranji pomnilnik.</string>
+  <string name="get_account_dialog_msg">Pridobivanje informacij o računu…</string>
   <string name="insufficient_space">"Ni dovolj prostora v notranjem pomnilniku"</string>
   <string name="mobile_recommended_title">Uporaba mob. podatkov</string>
   <string name="notif_text_engine_off">Xunlei accelerator je izključen.</string>
