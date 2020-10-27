@@ -3194,6 +3194,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="enable_webview_multiprocess">Omogoči večprocesni WebView</string>
   <string name="enable_webview_multiprocess_desc">Izvajanje upodabljalnikov za WebView v ločenem procesu.</string>
   <string name="enable_wifi_display">Omogoči Brezžični zaslon</string>
+  <string name="enabled">Vključeno</string>
   <string name="enable_wifi_master_key_service">Vključi WiFi Master ključ</string>
   <string name="enable_wifi_master_key_service_first">Vključi</string>
      <string name="enabled_5g_mode_title">Enable 5G</string>
@@ -5757,7 +5758,8 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="normal_smartcover_title">Neprozorni sprednji pokrov</string>
     <string name="not_allowed">Kartica SIM ne dovoljuje povezave s tem omrežjem.</string>
     <string name="not_battery_optimizing">Ne uporablja optimizacije akumulatorja</string>
-    <string name="not_installed">Ni namešč. za tega uporabnika</string>
+  <string name="not_enabled">Izključeno</string>
+  <string name="not_installed">Ni nameščeno za uporabnika</string>
     <string name="not_set">Ni nastavljeno</string>
   <string name="notch_and_status_bar_settings">Center za kontrolo &amp; vrstica obvestil</string>
   <string name="notch_force_black_desc">Ko je vključeno je področje zoba zaslona črno</string>
@@ -6072,6 +6074,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
     <string name="other_conversations_summary">Pogovori, v katere ste vnesli spremembe</string>
   <string name="other_data">Ostale stvari v tej napravi</string>
   <string name="other_device_info">Ostalo</string>
+  <string name="other_input_method">Ostale tipkovnice</string>
   <string name="other_input_settings">Dodatne nastavitve tipkovnice</string>
   <string name="other_password">Ostala gesla</string>
   <string name="other_personal_settings">Osebne nastavitve</string>
@@ -8102,7 +8105,11 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
   <string name="shuting_down_find_device">Izklop Najdi napravo…</string>
   <string name="silent_duration">Trajanje</string>
   <string name="silent_mode">Tihi način</string>
+  <string name="silent_mode_disable_media">Utišaj vse</string>
+  <string name="silent_mode_enable_media">Predvajaj predstavnosti</string>
+  <string name="silent_mode_summary">Utišaj klice, obvestila in predstavnosti</string>
   <string name="silent_mode_title">Tihi način</string>
+  <string name="silent_mode_toggle_title">Tihi način</string>
     <string name="silent_notifications_status_bar">Skrivanje tihih obvestil v vrstici stanja</string>
   <string name="silent_off">Izključeno</string>
   <string name="silent_settings">Tiho/DND</string>
@@ -8871,9 +8878,9 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="sync_enable">Sinhr.</string>
   <string name="sync_enabled">Sinhroniz. je VKLOP</string>
   <string name="sync_error">Sinhron. napaka</string>
-  <string name="sync_failed">Sinhronizacija ni uspela</string>
+  <string name="sync_failed">"Sinhronizacija ni uspela. Počakajte minuto ali dve in poskusite znova."</string>
   <string name="sync_gmail">Gmail</string>
-    <string name="sync_in_progress">Sinhroniziranje ...</string>
+    <string name="sync_in_progress">Sinhroniziranje poteka…</string>
   <string name="sync_is_failing">Težava pri sinhronizaciji. Kmalu bo spet na voljo.</string>
   <string name="sync_menu_sync_cancel">Prekliči sinhronizacijo</string>
   <string name="sync_menu_sync_now">Sinhroniziraj</string>
@@ -8883,6 +8890,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="sync_plug">"<font fgcolor="#ffffffff">Pozdravljeni v storitvi Google Sync.</font>" 
 Googlov pristop k sinhroniziranju podatkov, s katerim lahko dostopate do stikov, koledarskih vnosov in drugih podatkov ne glede na to, kje ste.""</string>
   <string name="sync_settings">Računi &amp; Sinhronizacija</string>
+  <string name="sync_success">Uspešno sinhronizirano</string>
   <string name="sync_wifi_label">WiFi</string>
   <string name="sync_wifi_only">Samo WiFi</string>
   <string name="system">Sistem</string>
@@ -9700,11 +9708,13 @@ Prenesite samo važne stvari."</string>
     <string name="usb_preference">Nastavitve USB-ja</string>
     <string name="usb_ptp_summary">Omogoča prenos fotografij s programsko opremo fotoaparata in prenos datotek v računalnikih, ki ne podpirajo protokola MTP</string>
   <string name="usb_ptp_title">Fotoaparat (PTP)</string>
+  <string name="usb_reverse_charge">Obratno polnjenje</string>
   <string name="usb_restore_select_data_too_large">"Datoteke var. kopije so velike. Trajalo bo nekaj časa.
 Prenos smo važnih stvari bo hitrejši."</string>
   <string name="usb_sdcard_summary">Omogoča prenos medijskih datotek iz SD kartice na računalnik</string>
   <string name="usb_sdcard_title">Vpni SD kartico</string>
-    <string name="usb_summary_MIDI">MIDI</string>
+  <string name="usb_summary_MIDI">Uporaba naprave kot MIDI</string>
+  <string name="usb_use_MIDI_miui12_5">MIDI</string>
     <string name="usb_summary_MIDI_power">MIDI in napajanje</string>
     <string name="usb_summary_charging_only">Polnjenje te naprave</string>
     <string name="usb_summary_file_transfers">Prenos datotek</string>
@@ -9741,8 +9751,11 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
     <string name="usb_use_charging_only_desc">Samo polnjenje akumulatorja naprave</string>
     <string name="usb_use_file_transfers">Prenos datotek/Android Auto</string>
     <string name="usb_use_file_transfers_desc">Prenos datotek v drugo napravo</string>
+  <string name="usb_use_file_transfers_miui12_5">Prenos datotek</string>
+  <string name="usb_use_miui12_5">Namen uporabe USB</string>
     <string name="usb_use_photo_transfers">PTP</string>
     <string name="usb_use_photo_transfers_desc">Prenos fotografij ali datotek, če MTP ni podprt (PTP)</string>
+  <string name="usb_use_photo_transfers_miui12_5">Prenos fotografij</string>
     <string name="usb_use_power_only">Polnjenje priključene naprave</string>
     <string name="usb_use_power_only_desc">Napolni povezano napravo. Deluje samo z napravami, ki podpirajo polnjenje preko USB-ja.</string>
   <string name="usb_use_tethering">USB deljenje</string>
@@ -9975,6 +9988,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="volte_5G_limited_text">"S tem tudi izklopite povezavo 5G.
 Med glasovnim klicem ne boste mogli uporabljati interneta in nekatere aplikacije morda ne bodo delovale."</string>
     <string name="volte_5G_limited_title">Želite izklopiti VoLTE?</string>
+  <string name="volume_adjustment">Nastavi glasnost</string>
   <string name="volte_provisioned_flag_off">Izklop zastavice za omogočeno uporabo storitve VoLTE</string>
   <string name="volte_provisioned_flag_on">Vklop zastavice za omogočeno uporabo storitve VoLTE</string>
   <string name="volte_provisioned_switch_string">VoLTE omogočen</string>
@@ -10912,6 +10926,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Mi Cloud sinhronizira vaše fotografije, napravi var. kopijo vaših aplikacij in nastavitev in vam pomaga najti napravo.</string>
   <string name="xiaomi_cloud_service_disabled">Izključeno</string>
   <string name="xiaomi_cloud_service_unknown">Neznano</string>
+  <string name="xiaomi_custom_input_method">Prilagojeno za Xiaomi</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne morem začeti s prenosom. Preverite ali upravitelj prenosov deluje normalno."</string>
   <string name="xiaomi_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
   <string name="xiaomi_money_service">Mi Krediti</string>
@@ -10970,10 +10985,12 @@ Shramba poverilnic morda ne bo omogočena"</string>
     <string name="zen_mode_all_calls_summary">Vsi klici vas lahko dosežejo</string>
   <string name="zen_mode_all_messages">Vsa sporočila</string>
      <string name="zen_mode_all_messages_summary">Vsa sporočila vas lahko dosežejo</string>
+  <string name="zen_mode_always">Zmeraj</string>
   <string name="zen_mode_all_visual_interruptions">Izključeno</string>
   <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_app_set_behavior">Teh nastavitev trenutno ni mogoče spremeniti. Aplikacija (%1$s) je samodejno vklopila način »ne moti« z delovanjem po meri.</string>
     <string name="zen_mode_apps_bypassing_list_count">Še %d</string>
+  <string name="zen_mode_auto_rule">Razpored DND seje</string>
     <string name="zen_mode_automatic_rule_settings_page_title">Razpored</string>
   <string name="zen_mode_automation_category">Avtomatizacija</string>
     <string name="zen_mode_automation_settings_page_title">Razporedi</string>
@@ -11088,6 +11105,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
   <string name="zen_mode_from_sms">"Sporočila od "</string>
   <string name="zen_mode_from_starred">Samo od stikov označenih z zvezdico</string>
   <string name="zen_mode_important_category">Prednostne prekinitve</string>
+  <string name="zen_mode_lockscreen">Ko je zaklenjeno</string>
     <string name="zen_mode_media">Predvajaj zvoke predstavnosti</string>
   <string name="zen_mode_media_list">predstavnosti</string>
     <string name="zen_mode_media_list_first">Predstavnost</string>
@@ -11099,6 +11117,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
     <string name="zen_mode_messages_title">Aplikacije za SMS, MMS in sporočanje</string>
   <string name="zen_mode_miui_disturb_category">Ne moti</string>
   <string name="zen_mode_miui_silent_category">Dovoli</string>
+  <string name="zen_mode_more_actions">Več DND možnosti</string>
     <string name="zen_mode_no_exceptions">Nič</string>
     <string name="zen_mode_no_visual_interruptions">Ko je zaslon vklopljen ali izklopljen</string>
      <string name="zen_mode_none_calls">Nič</string>
@@ -11197,6 +11216,7 @@ Ko izklopite način »Ne moti«, lahko zamujena obvestila poiščete tako, da po
     <string name="zen_mode_starred_contacts_title">Stiki z zvezdico</string>
   <string name="zen_mode_start_time">Ura začetka</string>
   <string name="zen_mode_summary">Utišaj dohodne klice, obvestila, predstavnosti in omeji vibracijo</string>
+  <string name="zen_mode_summary2">Utišaj klice in obvestila, izključi vibracijo</string>
     <string name="zen_mode_summary_alarms_only_by_time">Sprememba na samo alarme do %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Sprememba na samo alarme za nedoločen čas</string>
     <string name="zen_mode_summary_always">Sprememba na vedno prekini</string>

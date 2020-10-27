@@ -56,14 +56,17 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="Generic_Update">Posodobitev</string>
   <string name="Generic_UserApp">Preneseno (%d)</string>
   <string name="Generic_Version">Verzija %1$s</string>
+     <string name="HIPS_ACTION_REJECT_CLEAR">Omeji in očisti odložišče</string>
   <string name="HIPS_Action_Accept">Dovoli</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Dovoli&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Once">Dovoli enkrat</string>
+     <string name="HIPS_Action_Accept_This">Dovoli enkrat</string>
   <string name="HIPS_Action_Prompt">Vprašaj</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Vprašaj&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Zavrni</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Zavrni&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject_Once">Zavrni enkrat</string>
+     <string name="HIPS_Action_Reject_This">Zavrni enkrat</string>
   <string name="HIPS_Group_DataPrivacy">Zasebnost</string>
   <string name="HIPS_Group_Expense">Varnost</string>
   <string name="HIPS_Group_Internet">Splet</string>
@@ -259,6 +262,8 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_process_nfc_Desc">Dostop do Near Field Communication (NFC) strojne opreme</string>
   <string name="HIPS_Perm_process_outgoing_calls">Dostop do aplikacije Telefon</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">javljanje, nadzor in končanje klica</string>
+     <string name="HIPS_Perm_read_clipboard">Dostop do stvari v odložišču</string>
+     <string name="HIPS_Perm_read_clipboard_Desc">Dovolite aplikacijam dostop do stvari v odložišču</string>
   <string name="HIPS_Perm_read_notification_sms">SMS Storitev</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">Beri SMS storitev</string>
   <string name="HIPS_Perm_recognition">Dostop do informacij o aktivnostih</string>
@@ -269,6 +274,8 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_show_when_locked_Desc">bo prikazan na zaklenjenem zaslonu</string>
   <string name="HIPS_Perm_use_sip">Video storitve</string>
   <string name="HIPS_Perm_use_sip_Desc">uporabiti Session Initiation Protocol za streaming videoposnetkov</string>
+     <string name="HIPS_Perm_write_clipboard">Shranjevanje stvari v odložišču</string>
+     <string name="HIPS_Perm_write_clipboard_Desc">Dovolite aplikacijam shranjevanje stvari v odložišču</string>
   <string name="HIPS_SecurityPrompt_Accept">Dovoli (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Dovoli</string>
   <string name="HIPS_SecurityPrompt_Accept_Once">Dovoli enkrat (%d)</string>
@@ -282,7 +289,9 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Dovolite aplikacijam ROOT dostop na lastno odgovornost.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Dovolim %1$s ROOT dostop?</string>
   <string name="HIPS_SecurityPrompt_Reject">Zavrni (%d)</string>
+     <string name="HIPS_SecurityPrompt_Reject_Clear_This">Omeji in očisti odložišče (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Zavrni enkrat (%d)</string>
+     <string name="HIPS_SecurityPrompt_Reject_This">Zavrni enkrat (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Zapomni si nastavitve</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s poskuša %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d dovoljenj</string>
@@ -310,8 +319,17 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="app_name">Dovoljenja</string>
   <string name="background_location_access_reminder_notification_content">Ta aplikacija lahko zmeraj dostopa do vaše lokacije. Tapnite za spremembo.</string>
   <string name="background_location_access_reminder_notification_title">%s uporablja vašo lokacijo</string>
+     <string name="clipboard_ai_allow_once">Dovoljeno %1$s samodejni dostop do stvari v odložišču</string>
+     <string name="clipboard_data">Stvari v odložišču</string>
+     <string name="clipboard_data_request">%1$s poskuša dostopati do stvari v odložišču</string>
+     <string name="clipboard_deny_notification_content">Poskus je blokiran. Dotaknite se za urejanje dovoljenj.</string>
+     <string name="clipboard_deny_notification_operation">Urejaj</string>
+     <string name="clipboard_deny_notification_title">%1$s poskuša dostopati do stvari v odložišču</string>
+     <string name="clipboard_may_sensitive">Možne občutljive informacije</string>
+     <string name="clipboard_read_allow_once">%1$s dostopa do stvari v odložišču</string>
   <string name="current_permission_template">%1$s od %2$s</string>
   <string name="default_permission_description">izvesti neznana opravila</string>
+     <string name="go_perm_manager">Urejanje dovoljenj</string>
   <string name="grant_confirm_question">Želite odobriti ta dovoljenja? Omogočen bo dostop:</string>
   <string name="grant_dialog_button_allow">Dovoli</string>
   <string name="grant_dialog_button_allow_always">Dovoli ves čas</string>
@@ -325,9 +343,12 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="location_settings">Nastavitve lokacije</string>
   <string name="location_warning">%1$s je ponudnik storitve lociranja za to napravo. Dostop do lokacije lahko spremenite v nastavitvah lokacije.</string>
   <string name="never_ask_again">"Ne sprašuj več po omejitvi"</string>
+     <string name="no">Ne</string>
   <string name="ok">V redu</string>
   <string name="perm_action_allow">Dovoli</string>
   <string name="perm_action_deny">Nikoli ne dovoli</string>
+     <string name="perm_manager_suggest_operation">Urejanje dovoljenj</string>
+     <string name="perm_manager_suggest_title">Prilagodim dovoljenja?</string>
   <string name="perm_modem_location">Dostop do vaše lokacije</string>
   <string name="perm_modem_location_desc">Vaš ponudnik storitev poskuša dostopati do podatkov o vaši lokaciji. Boste delili podatke o lokaciji s ponudnikom storitev?</string>
   <string name="permdesc_camera">Snemati fotografije in videoposnetke</string>
@@ -388,4 +409,5 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="virtual_reject_notice_title_contacts">%1$s poskuša dostopati do stikov</string>
   <string name="virtual_reject_notice_title_phonestate">%1$s poskuša dostopati do podatkov o napravi</string>
   <string name="virtual_reject_notice_title_sms">%1$s poskuša dostopati do sporočil</string>
+     <string name="yes">Da</string>
 </resources>

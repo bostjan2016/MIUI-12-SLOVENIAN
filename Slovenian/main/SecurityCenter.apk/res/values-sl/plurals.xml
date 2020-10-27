@@ -363,6 +363,10 @@
         <item quantity="other">Posodobitve na voljo za (%d) aplikacij</item>
         <item quantity="one">Posodobitev na voljo za (%d) aplikacijo</item>
     </plurals>
+	<plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Izbriši %d namestitvenih paketov</item>
+        <item quantity="one">Izbriši %d namestitveni paket</item>
+    </plurals>
     <plurals name="notification_title_cmcc_app_check">
          <item quantity="other">%d dni od zadnjega pregleda</item>
          <item quantity="one">%d dan od zadnjega pregleda</item>

@@ -28,6 +28,10 @@
         <item quantity="few">Pred %1$d dnevi</item>
         <item quantity="many">Pred %1$d dnevi</item>
     </plurals>
+	<plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Izbriši %d namestitvenih paketov</item>
+        <item quantity="one">Izbriši %d namestitveni paket</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Preneslo %1$d oseb</item>
 	<item quantity="one">Prenesla %1$d oseba</item>
