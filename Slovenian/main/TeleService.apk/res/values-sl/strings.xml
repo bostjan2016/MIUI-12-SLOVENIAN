@@ -1187,7 +1187,11 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="fiveg_hosted_mode_title">5G Pametna menjava</string>
   <string name="fiveg_icon_type1">Nr Vrsta ikone :</string>
   <string name="fiveg_infos">5G informacije</string>
-  <string name="fiveg_network_config_type1">Vrsta omrežne konfiguracije[Reža1] :</string>
+  <string name="fiveg_network_config_type1">Vrsta omrežne konfiguracije:</string>
+  <string name="fiveg_network_mode_default">Samod.</string>
+  <string name="fiveg_network_mode_nsa">NSA</string>
+  <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
+  <string name="fiveg_network_mode_title">Izberite način 5G omrežja</string>
   <string name="fiveg_network_title">5G omrežje</string>
   <string name="fiveg_plmn_info_list1">PLMN seznam podatkov:</string>
   <string name="fiveg_power_secret_code_tip">Urejajte v Varnost - Baterija - 5G Varčevanje baterije</string>
@@ -1199,6 +1203,7 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="fiveg_sa_switch_title_slot0">SIM 1 SA način</string>
   <string name="fiveg_sa_switch_title_slot1">SIM 2 SA način</string>
   <string name="fiveg_sa_switch_warning_toast">Ponovno zaženite telefon zaradi efekta.</string>
+  <string name="fiveg_sa_vice_switch_title">SA na sekundarni SIM</string>
   <string name="fiveg_signal_strength1">5G Moč signala:</string>
   <string name="fiveg_switch_status1">5G stanje stikala:</string>
   <string name="fiveg_switch_title">5G omrežje</string>

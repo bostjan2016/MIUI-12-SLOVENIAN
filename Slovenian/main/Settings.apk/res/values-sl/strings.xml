@@ -8461,12 +8461,12 @@ Pred uporabo naših storitev preberite in sprejmite naše %s."</string>
   <string name="status_bar_settings_show_screenshot_notification">Pokaži obvestilo posnetka zaslona</string>
   <string name="status_bar_settings_show_statusBar_notification">Pokaži kot seznam</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Obvestilo se na kratko pojavi na vrhu zaslona</string>
-  <string name="status_bar_settings_show_weather">Pokaži vremensko napoved v plošči obvestil</string>
+  <string name="status_bar_settings_show_weather">Pokaži vremensko napoved</string>
   <string name="status_bar_settings_show_wifi_name">Pokaži WiFi</string>
   <string name="status_bar_settings_status_bar">Vrstica stanja</string>
   <string name="status_bar_settings_style">Obvestila &amp; razpored bližnjic</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Po dotiku zapri</string>
-  <string name="status_bar_settings_toggle_layout_style">Vključi/izključi slog zgleda</string>
+  <string name="status_bar_settings_toggle_layout_style">Vključi/izključi slog videza</string>
   <string name="status_bar_settings_toggle_layout_style_applying">Spreminjanje sloga…</string>
   <string name="status_bar_settings_toggle_layout_style_compact">Vrstica</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Stran</string>

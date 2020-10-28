@@ -42,6 +42,10 @@
   <string name="account_error_user_birthday">Rojstni dan ki ste ga vnesli, je neveljaven</string>
   <string name="account_error_user_name">Ime ki ste ga vnesli, ni veljavno</string>
   <string name="account_info_desc">Urejanje podatkov o računu</string>
+  <string name="ai_ppt_to_pdf">Pretvori diapozitive v PDF</string>
+  <string name="ai_ppt_to_pdf_view_all">Pokaži vse</string>
+  <string name="ai_recommend_pdf">Spremenjeno v PDF</string>
+  <string name="album">Galerija</string>
   <string name="account_invalid_user_avatar">Ta fotografija je neveljavna. Poskusite drugo.</string>
   <string name="account_limit_update_birthday">"Ne morem zdaj posodobiti datuma rojstva"</string>
   <string name="account_logout">Izhod iz računa “%1$s”</string>
@@ -74,21 +78,17 @@
   <string name="adding_download_tasks">Dodajanje naloge prenosa#8230;</string>
   <string name="adding_upload_tasks">Dodajanje naloge nalaganja#8230;</string>
   <string name="agree">Strinjam se</string>
-     <string name="ai_ppt_to_pdf">Spremenjeno v PDF</string>
-     <string name="ai_recommend_pdf">Spremenjeno v PDF</string>
-     <string name="album">Galerija</string>
-     <string name="all">Vse</string>
   <string name="app_function">Shranjevanje, ogled, prenašanje datotek in še več</string>
   <string name="app_is_running">Aplikacija se izvaja…</string>
   <string name="app_name">Mi Drive</string>
+  <string name="auto_save_to_file">Shranjeno v mapo \"Spremenjeno v PDF\"</string>
   <string name="auth_fail_warning">Seja je potekla. Prijavite se ponovno.</string>
-     <string name="auto_save_to_file">Shranjeno v mapo \"Spremenjeno v PDF\"</string>
   <string name="background">Skrij</string>
   <string name="be_sure_to_clear_cache">Želite zdaj očistiti predpomnilnik?</string>
   <string name="bind_sign_in_title">Dodajte Mi Račun</string>
   <string name="byteShort">B</string>
-     <string name="camera">Kamera</string>
   <string name="cancel">Prekini</string>
+     <string name="camera">Kamera</string>
   <string name="category_document">Dokumenti</string>
   <string name="category_document_title">Dokumenti</string>
   <string name="category_file">Datoteke</string>
@@ -152,11 +152,11 @@
   <string name="delete_folders">Izbrišem (%1$d) map?</string>
   <string name="delete_record_only">"Stvari na katere se nanašajo izbrani zapisi, ne bodo izbrisane."</string>
   <string name="delete_success">Datoteka izbrisana</string>
+  <string name="dialog_content_delete_pdf_content">Ali želite ta PDF takoj izbrisati?</string>
   <string name="diagnosis_log_send_failed">Ne morem poslati poročila diagnoze.</string>
   <string name="diagnosis_log_sent_format">"Poročila diagnoze poslana.
 ID:%s
 Pošljite to kodo nadzorniku."</string>
-     <string name="dialog_content_delete_pdf_content">Ali želite ta PDF takoj izbrisati??</string>
   <string name="dialog_copy_storage_full_desc">"Stvari ni mogoče kopirati zaradi premalo shrambe v oblaku. Nadgradite načrt, da boste pridobili več prostora za shranjevanje."</string>
   <string name="dialog_copy_storage_full_title">"Ne morem kopirati"</string>
      <string name="dialog_immediately_open">Vključi</string>
@@ -252,6 +252,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="file_too_large">Datoteka je prevelika za prenos.</string>
   <string name="file_upload_dialog_cancel">Prekliči</string>
   <string name="file_upload_dialog_title">Izberi kategorijo</string>
+  <string name="h5_ppt_to_pdf_introduce_title">O pretvarjanju diapozitivov v PDF</string>
   <string name="files">Datoteke</string>
   <string name="find_psw">Pozabljeno geslo</string>
   <string name="finished">Končano</string>
@@ -266,7 +267,6 @@ Pošljite to kodo nadzorniku."</string>
   <string name="get_phone_verifycode_exceed_limit">Na to številko je bilo poslanih preveč potrditvenih kod. Počakajte 24 ur in poskusite znova.</string>
   <string name="gigabyteShort">GB</string>
   <string name="goto_sign_up">Napravi račun</string>
-     <string name="h5_ppt_to_pdf_introduce_title">O pretvarjanju diapozitivov v PDF</string>
   <string name="i_know">Razumem</string>
   <string name="identity">Identifikacija</string>
   <string name="image_loading_error">"Ne morem prenesti slike"</string>
@@ -389,11 +389,11 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="operation_pause_all">Zaustavi vse</string>
   <string name="operation_refresh">Osveži</string>
   <string name="operation_rename">Preimenuj</string>
+  <string name="operation_save">Shrani</string>
   <string name="operation_rename_message">Preimenuj mapo</string>
   <string name="operation_renaming">Preimenovanje…</string>
   <string name="operation_resume">Začni</string>
   <string name="operation_resume_all">Nastavi vse</string>
-  <string name="operation_save">Shrani</string>
   <string name="operation_send">Pošlji</string>
   <string name="operation_sure_to_delete">Izbrišem zdaj?</string>
   <string name="operation_task_manage">Pokaži prenose</string>
