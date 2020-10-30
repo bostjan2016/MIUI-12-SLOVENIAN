@@ -54,10 +54,13 @@
   <string name="agenda_assistant">Dogodki koledarja</string>
   <string name="agenda_assistant_account_num">Račun</string>
   <string name="agenda_assistant_add">Dodaj</string>
+  <string name="agenda_settings_ainnersary">Pokaži obletnice</string>
   <string name="agenda_assistant_allday">Cel dan</string>
+  <string name="agenda_settings_countdown">Pokaži odštevanje</string>
   <string name="agenda_assistant_empty">Danes ni dogodkov</string>
   <string name="agenda_assistant_finish">Danes ni dogodkov</string>
   <string name="agenda_assistant_more">Vsi dogodki</string>
+  <string name="agenda_default">Dogodki koledarja</string>
   <string name="agenda_i_known">Razumem</string>
   <string name="agenda_no_title">Brez imena</string>
   <string name="agenda_open">Vključite opomnike</string>

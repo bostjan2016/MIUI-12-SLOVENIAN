@@ -23,6 +23,7 @@
   <string name="accessibility_battery_level">Baterija %d procentov.</string>
   <string name="accessibility_battery_level_charging">Polnjenje, baterija %d procentov.</string>
   <string name="actionbar_button_up_description">Nazaj</string>
+  <string name="add_custom_image">Lastna slika</string>
   <string name="add_from_album">Dodaj iz Galerije</string>
   <string name="afternoon">PM</string>
   <string name="align_type">Poravnaj</string>
@@ -165,8 +166,8 @@ dd.MM"</string>
   <string name="more_online_theme">Online storitve</string>
   <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
-  <string name="mtrl_exceed_max_badge_number_content_description">Več kot %1$d novih obvestil</string>
      <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Več kot %1$d novih obvestil</string>
   <string name="mtrl_picker_a11y_next_month">Zamenjaj na naslednji mesec</string>
   <string name="mtrl_picker_a11y_prev_month">Zamenjaj na prejšnji mesec</string>
   <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
@@ -230,6 +231,8 @@ dd.MM"</string>
   <string name="search_menu_title">Išči</string>
   <string name="select_notification_animation_style">Izberite posebni efekt</string>
   <string name="select_notification_notify_style">Izberite efekt obvestil</string>
+  <string name="share">Deli</string>
+  <string name="share_to_community">Deli na Mi Community</string>
   <string name="show_battery">Pokaži status baterije</string>
   <string name="show_battery_status">Pokaži status baterije</string>
   <string name="show_lunar">Pokaži Traditional Chinese koledar</string>
@@ -245,6 +248,7 @@ dd.MM"</string>
   <string name="step_component_info_active_tip">Število korakov zagotavlja Mi zdravje. Strinjate se z Mi zdravje Pogoji in določila za nadaljevanje.</string>
   <string name="step_component_info_desc">Ko bo vaš cilj dosežen, se bo število korakov spremenilo v pokal. Število korakov zagotavlja Mi zdravje.</string>
   <string name="step_component_info_tip">Število korakov zagotavlja Mi zdravje. Namestite ali posodobite Mi zdravje in se strinjajte z njegovimi določili in pogoji za nadaljevanje.</string>
+  <string name="step_to_image_community">Najdi več v Mi Community</string>
   <string name="summary">"Da boste zmanjšali porabo energije, stvari ne bodo prikazane v naslednjih situacijah:
 1. Ko naprava dolgo stoji v mraku.
 2. Če je vključen DND način."</string>

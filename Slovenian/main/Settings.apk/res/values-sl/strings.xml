@@ -8275,6 +8275,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="smart_home_value_none">Nič</string>
   <string name="smart_home_value_unknown">Neznano</string>
   <string name="smart_notifications_title">Prilagodljiva obvestila</string>
+  <string name="smart_space_clock">Na prvi pogled</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Smart Cover način</string>
   <string name="smartcover_sensitive_summary">Samodejno zaklenite/odklenite telefon s smart cover-jem</string>
   <string name="smartcover_sensitive_title">Smart cover</string>

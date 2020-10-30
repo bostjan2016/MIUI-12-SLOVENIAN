@@ -110,6 +110,7 @@
   <string name="network_tip_dialog_title">Potrebna je spletna povezava</string>
   <string name="new_record_name">Nov posnetek</string>
   <string name="no_file">Prazno</string>
+  <string name="no_network">"Ne morem se povezati na omrežje"</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="notification_message_all_paused">Čakam na povezavo WiFi.</string>
   <string name="notification_playback">Predvajanje...</string>
