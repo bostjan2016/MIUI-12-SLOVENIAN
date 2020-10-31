@@ -96,7 +96,7 @@
   <string name="category_image">Slike</string>
   <string name="category_image_title">Slike</string>
   <string name="category_midrive">Mi Drive</string>
-  <string name="category_music">Glazba</string>
+  <string name="category_music">Glasba</string>
   <string name="category_music_title">Glasba</string>
   <string name="category_no_file_desc">Tu še ni ničesar.</string>
   <string name="category_no_file_sub_desc">Tapnite plus za nalaganje datotek.</string>
@@ -211,7 +211,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="error_filename_too_long">Ime datoteke je predolgo</string>
   <string name="error_invalid_bind_address">E-poštni naslov, ki ste ga vnesli, ni veljaven.</string>
   <string name="error_open_file_failed_no_app_found">"Ni bilo najdenih programov, ki bi lahko odprli to stvar"</string>
-     <string name="error_ppt_to_pdf_algorithm">"Slike ni mogoče obdelati. Namesto tega se uporablja izvirna datoteka."</string>
+     <string name="error_ppt_to_pdf_algorithm">"Slike ni mogoče obdelati. Namesto tega se uporablja originalna datoteka."</string>
      <string name="error_ptp_ai_recommend_pdf_save_fail">"Ne morem shraniti. Poskusite ponovno."</string>
   <string name="exceed_binded_phone_times_notice">Ta telefonska številka je že povezana z drugim Mi računom.</string>
   <string name="exception_cloud_storage_is_full">Cloud shramba je polna</string>
@@ -272,8 +272,8 @@ Pošljite to kodo nadzorniku."</string>
   <string name="image_loading_error">"Ne morem prenesti slike"</string>
   <string name="image_picker_title">Izberite slike</string>
   <string name="image_preview_cover_failed">"Ne morem naložiti. Poskusite ponovno."</string>
-  <string name="image_preview_download_failed">"Ne morem odpreti izvirne slike"</string>
-  <string name="image_preview_open_large_image">Odpri izvirno sliko (%s)</string>
+  <string name="image_preview_download_failed">"Ne morem odpreti originalne slike"</string>
+  <string name="image_preview_open_large_image">Odpri originalno sliko (%s)</string>
   <string name="inconsistent_pwd">"Gesli se ne ujemata"</string>
   <string name="inner_storage_path">Notranji pomnilnik</string>
   <string name="input_email_address_notice">"Ta e-poštni naslov bo uporabljen za preverjanje vašega računa"</string>

@@ -85,7 +85,7 @@
     <string name="miui_feedback_edit_select_modem_log">Dodajte zapise modema</string>
     <string name="miui_feedback_edit_select_modem_log_not_select_desc">Niste izbrali \"Dodajte zapise modema\"</string>
     <string name="miui_feedback_edit_select_modem_log_select_desc">Izbrano \"Dodajte zapise modema\"</string>
-    <string name="miui_feedback_edit_select_original_images">Dodajte izvorno sliko ali kratek posnetek</string>
+    <string name="miui_feedback_edit_select_original_images">Dodajte originalno sliko ali kratek posnetek</string>
     <string name="miui_feedback_edit_select_problem">Težave</string>
     <string name="miui_feedback_edit_select_problem_not_select_desc">Niste izbrali \"Težave\"</string>
     <string name="miui_feedback_edit_select_problem_select_desc">Izbrano \"Težave\"</string>

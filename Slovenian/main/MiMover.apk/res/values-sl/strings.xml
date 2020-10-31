@@ -482,7 +482,7 @@ Vaše zasebne podatke bomo varovali glede na ustrezne zakone, predpise in pravil
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="prompt_before_transmission_message1_summary">Če jih želite prenesti s svoje stare naprave, bodo podatki o aplikacijah (vključno z zgodovino klepeta) prepisani.</string>
   <string name="prompt_before_transmission_message1_title">Te aplikacije so že ustvarile podatke o aplikacijah v vaši novi napravi</string>
-  <string name="prompt_before_transmission_message2_summary">"Dvojnih aplikacij ni mogoče prenesti. Lahko pa prenesete izvirne aplikacije."</string>
+  <string name="prompt_before_transmission_message2_summary">"Dvojnih aplikacij ni mogoče prenesti. Lahko pa prenesete originalne aplikacije."</string>
   <string name="prompt_before_transmission_message2_title">"Za naslednje stvari uporabite dvojne aplikacije"</string>
   <string name="prompt_before_transmission_message3_summary">"Predmete iz drugega prostora ni mogoče prenesti zaradi sistemskih omejitev."</string>
   <string name="prompt_before_transmission_message3_title">"Uporabite Drugi prostor"</string>

@@ -938,7 +938,6 @@ Nazadnje zagnano: %2$s"</string>
     <string name="aware_footer_when_airplane_on">Motion Sense ni na voljo, ker je vklopljen način za letalo</string>
     <string name="aware_footer_when_batterysaver_on">Motion Sense ni na voljo, ker je vklopljeno varčevanje z energijo baterije</string>
     <string name="aware_info_button_description">Več nastavitev</string>
-  <string name="aware_settings_description"/>
     <string name="aware_lock_title">Samodejno zaklepanje zaslona, ko ni nikogar v bližini</string>
   <string name="aware_settings_description">Naprava s senzorjem zazna razdaljo in gibanje v bližini telefona</string>
   <string name="aware_settings_disabled_info_dialog_content">Funkcije senzorja gibanja, kot so hitri posnetek, prikaz zaslona, ​​ko je v bližini, in iskanje telefona po telefonu v tej državi niso podprte.</string>
@@ -5022,7 +5021,7 @@ Tega dejanja ne moreš preklicati!"</string>
   <string name="mem_use_free_type">Prosto</string>
   <string name="mem_use_kernel_cache_type">Predspomin jedra sistema</string>
   <string name="mem_use_kernel_type">Jedro</string>
-  <string name="mem_use_native_type">Izvorno</string>
+  <string name="mem_use_native_type">Originalno</string>
   <string name="mem_use_subtitle">Uporaba pomnilnika</string>
   <string name="mem_use_total">Skupaj</string>
   <string name="mem_use_zram_type">Zamenjava pomnilnika z ZRam</string>
@@ -6826,7 +6825,7 @@ Pred uporabo preberite in sprejmite %s."</string>
   <string name="process_stats_os_cache">Predpomnjeno</string>
   <string name="process_stats_os_kernel">Jedro</string>
   <string name="process_stats_os_label">Sistem Android</string>
-  <string name="process_stats_os_native">Izvorno</string>
+  <string name="process_stats_os_native">Originalno</string>
   <string name="process_stats_os_zram">Z-Ram</string>
   <string name="process_stats_ram_use">Uporaba RAM-a</string>
   <string name="process_stats_run_time">Trajanje izvajanja</string>

@@ -800,7 +800,7 @@ dd.MM"</string>
   <string name="resource_pack_confirm">"Čeprav ste že kupili %1$d komponent v tej temi pa je še vedno ceneje če kupite celoten paket."</string>
   <string name="resource_pack_discount_info">Prihranjeno: %1$s</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">Ta tema ni več na voljo.</string>
-  <string name="resource_pack_price_info">Izvirna cena: %1$s</string>
+  <string name="resource_pack_price_info">Originalna cena: %1$s</string>
   <string name="resource_pack_warning">"Kupili ste že komponent %1$d v tej temi. Ceneje je če kupite preostale komponente posebej."</string>
   <string name="resource_present">Darilo</string>
   <string name="resource_price_free">Brezplačno</string>
