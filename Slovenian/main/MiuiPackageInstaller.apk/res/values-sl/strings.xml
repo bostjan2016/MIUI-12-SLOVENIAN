@@ -188,6 +188,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="miui_app_danger">"Ta aplikacija ni varna, ne nameščajte jo."</string>
   <string name="miui_app_detail">Podrobnosti</string>
   <string name="miui_app_permission_detail">Potrebna so dovoljenja</string>
+  <string name="miui_app_permission_number_desc">%1$s (%2$s)</string>
   <string name="miui_app_virus">"Ta aplikacija je virus, ne nameščajte jo."</string>
   <string name="miui_clean">Očisti</string>
   <string name="miui_clear_apk_desc">Izbrisan namestitveni paket in preostali podatki(%s)</string>
@@ -238,6 +239,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="miui_message_staging_3">Izvajanje aplikacije...</string>
   <string name="miui_no_perms">Ni potrebnih dovoljenj</string>
   <string name="miui_not_uninstall_system_app">"Ne morem odstraniti aplikacije sistema"</string>
+  <string name="miui_other_permission">Ostalo</string>
   <string name="miui_other_relative">Ostalo</string>
   <string name="miui_permission_manage_title">%s podrobnosti</string>
   <string name="miui_please_clear">Izbriši viruse</string>

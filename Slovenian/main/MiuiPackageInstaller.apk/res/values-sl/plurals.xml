@@ -4,6 +4,14 @@
         <item quantity="other">Še %1$d</item>
         <item quantity="one">Še %1$d</item>
     </plurals>
+	<plurals name="miui_app_all_permission_number">
+        <item quantity="other">%d dovoljenj</item>
+        <item quantity="one">%d dovoljenje</item>
+    </plurals>
+    <plurals name="miui_app_privacy_permission_number">
+        <item quantity="other">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> dovoljenj povezanih z zasebnostjo&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> dovoljenje povezano z zasebnostjo&lt;/Data></item>
+    </plurals>
     <plurals name="miui_permission_detail">
         <item quantity="other">%d dovoljenj</item>
         <item quantity="one">%d dovoljenje</item>

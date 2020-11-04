@@ -160,7 +160,8 @@
   <string name="miui_upgrading_notification_title">Sistem se prenaša, nekatera opravila so lahko omejena</string>
   <string name="miui_warning_button_cancel">Prekliči</string>
   <string name="miui_warning_button_ok">V redu</string>
-  <string name="miui_warning_tip_info">Napaka %1$s. Zaprem aplikacijo?</string>
+  <string name="miui_warning_tip_info">Prišlo je do napake v %1$s. Zaprem aplikacijo?</string>
+  <string name="notification_channel_hotspot">Hotspot obvestilo</string>
   <string name="onehour">30 minut</string>
   <string name="open_close_tip_action">Razumem</string>
   <string name="open_close_tip_content">Da zaprete plavajoče okno pritisnite in držite delovni trak, potem pa povlecite gor</string>

@@ -3300,6 +3300,13 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_special_permission_summary">Spremljajte, kako aplikacije uporabljajo občutljiva dovoljenja</string>
   <string name="privacy_special_permission_title">Posebna dovoljenja</string>
   <string name="privacy_summary">Izvedite o zaščiti zasebnosti v MIUI 12</string>
+  <string name="privacy_thumbnail_blur_category_financial">Finance</string>
+  <string name="privacy_thumbnail_blur_category_other">Ostalo</string>
+  <string name="privacy_thumbnail_blur_category_photography">Fotografija &amp; videoposnetki</string>
+  <string name="privacy_thumbnail_blur_category_tip">Priporočeno</string>
+  <string name="privacy_thumbnail_blur_search_empty">"Nič ne najdem"</string>
+  <string name="privacy_thumbnail_blur_title">Zamegli preglede</string>
+  <string name="privacy_thumbnail_blur_top_tip">Izberite aplikacije, za katere bodo pogledi v meniju Nedavno zamegljeni</string>
   <string name="privacy_type_open">Vključeno</string>
   <string name="privacy_using_camera">Uporaba kamere</string>
   <string name="privacy_using_location">Dostop do lokacije</string>

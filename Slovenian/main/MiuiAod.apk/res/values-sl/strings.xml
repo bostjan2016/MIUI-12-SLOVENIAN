@@ -28,7 +28,10 @@
   <string name="afternoon">PM</string>
   <string name="align_type">Poravnaj</string>
   <string name="always_style">Zmeraj</string>
+  <string name="always_style_symmary">Porabi več energije</string>
   <string name="am">AM</string>
+  <string name="ambient_display_screen_title">Vedno na zaslonu</string>
+  <string name="ambient_display_screen_title_sp">Ambientalni zaslon</string>
   <string name="animation_clock_panel">Valovno izbiranje</string>
   <string name="aod_close_color_inversion">"To se ne more kombinirati z inverzijo barv. Najprej izključite inverzijo barv."</string>
   <string name="aod_component">Prikazane stvari</string>
@@ -206,6 +209,8 @@ dd.MM"</string>
   <string name="notification_anim_star">Starlight</string>
   <string name="notification_nothing">Nič</string>
   <string name="notification_screen_on">Osvetli zaslon</string>
+  <string name="off">Izključeno</string>
+  <string name="on">Vključeno</string>
   <string name="only_show_bg_description">"Ne kaži časa, datuma in drugih stvari"</string>
   <string name="only_show_bg_title">Pokaži samo ozadje</string>
   <string name="open_aod_mode">Vključi</string>
@@ -225,6 +230,7 @@ dd.MM"</string>
   <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
   <string name="scheduled_mode_msg">Aktivno obdobje: %s</string>
   <string name="scheduled_style">Razpored</string>
+  <string name="scheduled_style_summary">Nastavite prilagojeni čas</string>
   <string name="scope_des">Vsak kalejdoskop vsebuje 5 različnih vzorcev ki se bodo kazali po vrsti ko se vklopi zaslon.</string>
   <string name="scope_icon">Stil kalejdoskopa</string>
   <string name="scope_time">Kalejdoskop</string>
@@ -260,6 +266,7 @@ dd/MM"</string>
   <string name="super_wallpaper_date_inter">"EEEE
 dd/MM"</string>
   <string name="temporary_style">Čez 10 sekund po dotiku</string>
+  <string name="temporary_style_summary">Priporočeno</string>
   <string name="text_color">Barva teksta</string>
   <string name="text_length_exceed_limit_alert">*Vnešeno besedilo je predolgo</string>
   <string name="text_size">Velikost teksta</string>
