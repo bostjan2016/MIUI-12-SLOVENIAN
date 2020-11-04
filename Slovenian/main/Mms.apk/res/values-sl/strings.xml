@@ -444,6 +444,10 @@
   <string name="menu_unlock">Odstrani iz priljubljenih</string>
   <string name="menu_view_contact">Pokaži stik</string>
   <string name="menu_view_group_info">Informacije o skupini</string>
+  <string name="message_cannot_send_air_mode">"Ne morem poslati sporočila.
+Izključite Letalski način."</string>
+   <string name="message_cannot_send_sim_unavailable">"Ne morem poslati sporočila.
+Preverite SIM kartico."</string>
   <string name="menu_yellowpage">Pokaži %s</string>
   <string name="message_class_label">Vrsta sporočila:</string>
   <string name="message_contact">Stik:</string>
@@ -451,7 +455,9 @@
   <string name="message_download_failed_title">Sporočilo ni prenešeno</string>
   <string name="message_expired">Preteklo</string>
   <string name="message_failed">Ni uspelo</string>
-  <string name="message_failed_body">Dotakni se ze pregled sporočila in poskusi ponovno.</string>
+  <string name="message_failed_and_cotanct_operator">Napaka. <font color="#1c86ee">Obrnite se na svojega mobilnega operaterja</font>.</string>
+  <string name="message_failed_and_feedback">Napaka. <font color="#1c86ee">Prijavite problem</font>.</string>
+  <string name="message_failed_body">Dotakni se za pregled sporočila in poskusi ponovno.</string>
   <string name="message_number">Tel. številka:</string>
   <string name="message_pending">Pošiljam</string>
   <string name="message_queued">"Trenutno ne morem poslati sporočila. Ko bo storitev na voljo bo poslano."</string>
@@ -471,9 +477,20 @@
   <string name="messaging">Sporočila</string>
   <string name="mi_message_title">Mi sporočilo</string>
   <string name="millionbyte">MB</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
+     <string name="miuix_appcompat_cancel_description">Prekliči</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
   <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
+  <string name="miuix_appcompat_confirm_description">Potrdi</string>
+     <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
+     <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all_description">Izberi vse</string>
   <string name="mipub_messaging_entry_title">Mi sporočilo</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>

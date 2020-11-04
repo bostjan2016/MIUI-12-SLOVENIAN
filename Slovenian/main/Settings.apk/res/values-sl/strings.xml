@@ -3094,7 +3094,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="dual_wifi_switching_prompt">Zamenjava omrežij</string>
   <string name="dual_wifi_switching_summary">Dvopasovno povečanje WiFi hitrosti uporablja dva različna WiFi pasova. Če se povežete z drugim glavnim omrežjem se bo pomožna povezava izgubila.</string>
   <string name="dump_log">Pridobivanje zapisov povezanih s problemi</string>
-  <string name="dump_log_summary">"Ta storitev je dizajnirana za generiranje 284 zapisov v alfa in beta različicah MIUI. Uporabljajte jo previdno.
+  <string name="dump_log_summary">"Ta storitev je dizajnirana za generiranje 284 zapisov v beta različicah MIUI. Uporabljajte jo previdno.
 Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="dump_log_title">O tej storitvi</string>
     <string name="duration_less_than_one_minute">Manj kot ena minuta</string>
@@ -3873,7 +3873,9 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="gxzw_dialog_not_show_again">"Ne kaži več"</string>
   <string name="gxzw_dialog_ok">Razumem</string>
   <string name="gxzw_dialog_title">O senzorju prstnih odtisov znotraj zaslona</string>
-  <string name="gxzw_enroll_again">Dvidnite prst in ponovno pritisnite čitalec prstnih odtisov</string>
+  <string name="gxzw_enroll_again">Dvignite prst in ponovno pritisnite čitalec prstnih odtisov</string>
+  <string name="gxzw_lowlight_open_summary">Zmanjšaj svetlost ikone prstnih odtisov v slabih svetlobnih pogojih. Ko je ta storitev vklopljena, se naprava lahko odklene počasneje.</string>
+  <string name="gxzw_lowlight_open_title">Odklepanje s prstnim odtisom pri šibki svetlobi</string>
   <string name="gxzw_quick_open_enable_summary">Uporabite bližnjice s kretnjami, da odprete aplikacije ali uporabite funkcije aplikacij, ko je naprava odklenjena</string>
   <string name="gxzw_quick_open_enable_title">Bližnjice prstnih odtisov</string>
   <string name="gxzw_quick_open_fast_summary">Ko je naprava odklenjena, povlecite da uporabite bližnjico.</string>
