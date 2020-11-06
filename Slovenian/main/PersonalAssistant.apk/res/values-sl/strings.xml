@@ -111,6 +111,7 @@
     <string name="app_news_default_title">Novice</string>
     <string name="app_note_add">Dodaj</string>
     <string name="app_note_title_empty">Beležke</string>
+	<string name="app_pa_setting_bugreport">Povratne informacije</string>
     <string name="app_pa_setting_global_display">Zaslon</string>
     <string name="app_pa_setting_global_display_blur_option">Zameglitev ozadja</string>
     <string name="app_pa_setting_global_display_blur_summary">Zameglitev ozadja upočasni odziv s potegom</string>

@@ -1119,7 +1119,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="picker_number_title">Izberi številko</string>
   <string name="picker_postal_title">Izberi poštno številko</string>
   <string name="picker_recent_list_empty">Ni nedavnih stikov</string>
-  <string name="pkgLabel">Stiki in izbira številk</string>
+  <string name="pkgLabel">Stiki in klicanje številk</string>
   <string name="play_add_incall_show_entry">Predvajaj ali dodaj videoposnetek</string>
   <string name="play_incall_show_entry">Predvajaj videoposnetek</string>
   <string name="pm">PM</string>
