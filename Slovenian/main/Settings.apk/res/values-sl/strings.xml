@@ -1888,7 +1888,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
     <string name="carrier_settings_title">Nastavitve operaterja</string>
     <string name="carrier_settings_version">Različica nastavitev</string>
   <string name="carrier_show_in_lock_screen">Pokaži samo na zakl. zaslonu</string>
-  <string name="carrier_show_none">Nikoli ne prikazuj ime operaterja</string>
+  <string name="carrier_show_none">Nikoli ne kaži ime operaterja</string>
   <string name="category_personal">Osebno</string>
   <string name="category_work">Služba</string>
     <string name="cbrs_data_switch_string">Podatki Cbrs</string>
@@ -4647,8 +4647,8 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
     <string name="lock_screen_notifications_interstitial_message_profile">Kako naj se obvestila o profilu prikazujejo, ko je naprava zaklenjena?</string>
     <string name="lock_screen_notifications_interstitial_title">Na zaklenjenem zaslonu</string>
     <string name="lock_screen_notifications_interstitial_title_profile">Obvestila o profilu</string>
-    <string name="lock_screen_notifications_summary_disable">Sploh ne prikazuj obvestil</string>
-  <string name="lock_screen_notifications_summary_disable_profile">Ne prikazuj obvestil za delovni profil</string>
+    <string name="lock_screen_notifications_summary_disable">Sploh ne kaži obvestil</string>
+  <string name="lock_screen_notifications_summary_disable_profile">Ne kaži obvestil za delovni profil</string>
     <string name="lock_screen_notifications_summary_hide">Prikaz občutljive vsebine samo na odklenjenem zas.</string>
     <string name="lock_screen_notifications_summary_hide_profile">Skrivanje občutljive vsebine za delovni profil</string>
     <string name="lock_screen_notifications_summary_show">Pokaži vso vsebino obvestil</string>

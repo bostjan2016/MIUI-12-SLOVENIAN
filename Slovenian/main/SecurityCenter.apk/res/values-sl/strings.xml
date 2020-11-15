@@ -3726,7 +3726,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="st_mute_title">"Brez zvonjenja in vibriranja"</string>
   <string name="st_other_setting_group">Ostale nastavitve</string>
   <string name="st_settings_name">Nastavitve seznama prepovedanih</string>
-  <string name="st_share_settings">Uporabi nastavitve iz %d</string>
+  <string name="st_share_settings">Uporabi nastavitve iz SIM %d</string>
   <string name="st_show_block_notification">Pokaži blokirana obvestila</string>
   <string name="st_show_num_keyword">" ključne besede"</string>
   <string name="st_show_num_number">" Številk"</string>
@@ -4361,7 +4361,7 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="traffic_setting_fragment_default">Privzeto</string>
   <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Ne veste operaterja?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_get_template_falure">"Ne morem se povezati na omrežje. Preverite svojo podatkovno povezavo in poskusite ponovno."</string>
-  <string name="traffic_setting_fragment_loacation_alert_nomore">"Ne prikazuj ponovo"</string>
+  <string name="traffic_setting_fragment_loacation_alert_nomore">"Ne kaži več"</string>
   <string name="traffic_setting_fragment_month_summary">Mobilni podatki in minute klicev se posodabljajo mesečno</string>
   <string name="traffic_setting_fragment_month_title">Mesečni plan podatkov</string>
   <string name="traffic_setting_fragment_next">Naprej</string>

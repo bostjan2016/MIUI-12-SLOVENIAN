@@ -307,7 +307,7 @@ sledite povezavi v aktivacijskem sporočilu"</string>
   <string name="pref_list_use_staging_server">Uporabite stopnjevanje strežnika</string>
   <string name="pref_summary_auto_download_via_wifi">Samod. prenesi posodobitve aplikacij z WiFi-jem.</string>
   <string name="pref_summary_clear_search_record">Izbriši zgodovino iskanja</string>
-  <string name="pref_summary_data_save">"Ne prikazuj slik preko podatkovnga omrežja"</string>
+  <string name="pref_summary_data_save">"Ne kaži slik preko podatkovnga omrežja"</string>
   <string name="pref_summary_developer_service0">Obiščite našo razvijalsko spletno stran</string>
   <string name="pref_summary_developer_service1">http://dev.xiaomi.com</string>
   <string name="pref_summary_download_website0">Obiščite našo spletno stran</string>

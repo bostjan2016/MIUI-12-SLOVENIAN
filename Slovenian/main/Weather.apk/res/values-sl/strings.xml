@@ -74,9 +74,11 @@
   <string name="aqi_5_days_desc">%d-dnevna napoved kvalitete zraka</string>
   <string name="aqi_alert_channel_name">AQI opozorila</string>
   <string name="aqi_data_source">Ponuja Colorful Clouds</string>
+  <string name="aqi_desc">Indeks kakovosti zraka</string>
   <string name="aqi_detail_24_hours">24-urna napoved</string>
   <string name="aqi_detail_5_days">5-dnevna napoved</string>
   <string name="aqi_detail_co_unit">Enota: mg/m³</string>
+  <string name="aqi_detail_title">Indeks kakovosti zraka</string>
   <string name="aqi_detail_unit">Enota: µg/m³ (CO: mg/m³)</string>
   <string name="aqi_first_sub_desc_locate">Postaja: %1$s (oddaljena %2$s)</string>
   <string name="aqi_first_sub_desc_no_locate">Povp. AQI ob %1$s</string>
@@ -347,7 +349,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="rainfall_settings_title">Opozorilo padavin</string>
   <string name="real_time_sunrise">Sončni vzhod %1$s</string>
   <string name="real_time_sunset">Sončni zahod %1$s</string>
-  <string name="realtime_aqi_title">Indeks kvalitete zraka</string>
+  <string name="realtime_aqi_title">Indeks kakovosti zraka</string>
   <string name="realtime_humidity_title">Vlaga</string>
   <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Veter</string>
@@ -360,6 +362,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="request_permission_read_phone_state_dialog_content">Za identificiranje vaše naprave</string>
   <string name="request_permission_storage_dialog_content">Za deljenje informacij o vremenu v formatu slike</string>
   <string name="retry">Poskusi ponovno</string>
+  <string name="save_to_gallery_icon_name">Shrani v Galerijo</string>
   <string name="search_menu_title">Išči</string>
   <string name="search_weather">Vreme</string>
   <string name="set">Nastavitve</string>
@@ -372,11 +375,11 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="settings_atmospheric_pressure_title">Enote atmosferskega pritiska</string>
   <string name="share">Deli</string>
   <string name="share_btn_cancel">Prekini</string>
-  <string name="share_btn_confirm">Delite</string>
-  <string name="share_button">Delite</string>
-  <string name="share_menu_title">Delite</string>
-  <string name="share_subject">Delite</string>
-  <string name="share_title">Delite čas</string>
+  <string name="share_btn_confirm">Deli</string>
+  <string name="share_button">Deli</string>
+  <string name="share_menu_title">Deli</string>
+  <string name="share_subject">Deli</string>
+  <string name="share_title">Deli čas</string>
   <string name="share_weather_desc">\#MIUI Vreme#Danes %1$s %2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">"Ne morem narediti posnetek zaslona"</string>
@@ -443,6 +446,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="warning_weather_day_and_night_settings_summary">Prejemanje dnevnih povzetkov, ki vsebujejo podatke o vremenu ob 7:00 in 19:00</string>
   <string name="warning_weather_day_and_night_settings_title">Dnevni povzetki</string>
   <string name="weather_alert_channel_name">Opozorila</string>
+  <string name="weather_aqi_full_air_quality_forcast">Napoved kakovosti zraka</string>
   <string name="weather_introduce">Zmeraj z vami.</string>
   <string name="weather_main_aqi_desc">Kvaliteta zraka</string>
   <string name="weather_main_minute_hour">%d-urna verjetnost padavin</string>

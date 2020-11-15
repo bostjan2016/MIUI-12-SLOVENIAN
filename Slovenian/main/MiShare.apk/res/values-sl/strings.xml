@@ -97,11 +97,14 @@
   <string name="file_transfer_progress_title">Napredek</string>
     <string name="functions_are_being_developed">Ta storitev bo na voljo kmalu. Ostanite v stiku!</string>
   <string name="go_to_settings">Nastavitve</string>
+  <string name="guide_summary_1">Druga oseba se lahko dotakne preklopnika v plošči za obvestila</string>
+  <string name="guide_title_1">Vključite Mi Share na obeh napravah</string>
   <string name="help">"Ne najdete naprav?"</string>
   <string name="help_content">"Če ne najdete naprave, ki jo potrebujete, prosite drugo osebo, da vklopi Mi Share."</string>
     <string name="hide">Skrij</string>
   <string name="i_know">Razumem</string>
     <string name="location_enabled">Vključena je storitev lociranja za iskanje naprav v bližini</string>
+	<string name="menu_item_privacy_title">Pravila o zasebnosti</string>
     <string name="mi_drop">Mi Share</string>
   <string name="mishare_folder_in_file_explorer">Datoteke &gt; MiShare</string>
   <string name="mishare_service_channel_desc">Obvesti o procesih Mi Share</string>
@@ -167,7 +170,7 @@ Pred uporabo Mi Share morate odobriti naslednja dovoljenja in omogočiti zbiranj
   <string name="to_feedback">Povratna inf.</string>
     <string name="transfer_intercept_to_remote">Ne morem poslati: %1$s</string>
     <string name="transfer_to_pc_summary">"Mi Share lahko uporabite za pošiljanje iz vašega telefona na Mi prenosnike ali med prenosniki.
-Spisek naprav najdete na naši spletni strani. Če je vaš prenosnik na seznamu, a nima nameščeno Mi Share mu posodobite BIOS in upravljalski program omrežne kartice in prenesite Mi Share."</string>
+Spisek naprav najdete na naši spletni strani. Če je vaš prenosnik na seznamu, nima pa nameščene apl. Mi Share mu posodobite BIOS in upravljalski program omrežne kartice in prenesite Mi Share."</string>
     <string name="transfer_to_pc_title">Pošljite datoteke na računalnike</string>
     <string name="transfer_to_phone_summary">Mi Share lahko uporabite za pošiljanje slik in datotek na bližnje Mi telefone in druge podprte naprave.</string>
     <string name="transfer_to_phone_title">Pošljite datoteke na telefone</string>

@@ -335,8 +335,8 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="reset_password_dialog_title">"Ne morem skriti bližnjice Drugega prostora"</string>
   <string name="resource_sspace">Drugi prosotor</string>
   <string name="resource_xspace">Dvojne aplikacije</string>
-  <string name="restore_normal_show">"Ne prikazuj zasebnih sporočil"</string>
-  <string name="restore_show_desc">"Ne prikazuj zasebnih sporočil v Drugem prostoru. Ta bodo še naprej na voljo v Prvem prostoru."</string>
+  <string name="restore_normal_show">"Ne kaži zasebnih sporočil"</string>
+  <string name="restore_show_desc">"Ne kaži zasebnih sporočil v Drugem prostoru. Ta bodo še naprej na voljo v Prvem prostoru."</string>
   <string name="restore_show_toast">Zasebna sporočila se ne prikazujejo</string>
   <string name="retain_src_file">Ohrani datoteke</string>
   <string name="retain_src_photo">Ohrani fotografije</string>

@@ -226,6 +226,11 @@
   <string name="delete_wallpaper_message">Izbrišem sliko za ozadje: %1$d?</string>
   <string name="delete_wallpapers_message">Izbrišem slike za ozadje: %1$d?</string>
   <string name="deselect_all">Prekliči izbrano</string>
+     <string name="dialog_work_profile_button_1">Naprej</string>
+     <string name="dialog_work_profile_button_2">Razumem</string>
+     <string name="dialog_work_profile_content_1">Osebni podatki so ločeni &amp; skriti pred delovnimi aplikacijami</string>
+     <string name="dialog_work_profile_content_2">Delovne aplikacije &amp; podatki vidni vašemu IT skrbniku</string>
+     <string name="dialog_work_profile_title">Delovni profil</string>
   <string name="disable_wallpaper_scroll">Izključi pomikanje slike</string>
   <string name="double_tap_to_lock_title">Dvakrat tapnite da zakl. zaslon</string>
   <string name="download_action">Prenesi</string>
@@ -506,6 +511,9 @@
   <string name="recents_exit_multi_window_mode">Izhod</string>
   <string name="recents_forbid_dock_when_screening_toast_text">"Ne morem uporabiti deljeni zaslon med predvajanjem"</string>
   <string name="recents_incompatible_app_message">"Ta aplikacija ne podpira deljeni zaslon"</string>
+  <string name="recents_layout_style">Razvrsti stvari v Nedavno</string>
+  <string name="recents_layout_style_horizontal">Vodoravno</string>
+  <string name="recents_layout_style_vertical">Navpično</string>
   <string name="recents_smallwindow_text">Spusti za dodajanje</string>
   <string name="recents_task_screening">Predvajanje</string>
   <string name="recents_title_app_manager">Urejanje aplikacij</string>

@@ -192,6 +192,9 @@
   <string name="notification_display_style">Stil obvestil</string>
   <string name="notification_fold_summary">Vsa nevažna obvestila se bodo pojavila v zasebni mapi</string>
   <string name="notification_fold_title">Mapa obvestil</string>
+  <string name="notification_keyguard_hide_content">Pokaži obvestila a skrij vsebino</string>
+  <string name="notification_keyguard_show_content">Pokaži obvestilo in vsebino</string>
+  <string name="notification_keyguard_show_nothing">"Ne kaži obvestil na zakl. zaslonu"</string>
   <string name="notification_manager">Obvestila aplikacij</string>
   <string name="notification_style_android">Android</string>
   <string name="notification_style_miui">MIUI</string>
