@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="about_extreme_mode">Ekstremn varčevanje baterije</string>
   <string name="about_hide_mode">O varčevanju baterije</string>
+     <string name="accessibility_service_description">Pametno varčevanje baterije</string>
   <string name="action_bar_delete">Izbriši</string>
   <string name="action_settings">Nastavitve</string>
   <string name="action_title_optimize">Optimiziraj</string>
@@ -61,6 +62,7 @@
   <string name="cloud_addr_info">Cloud informacije</string>
   <string name="cloud_china_addr">Posodobi podatke kitajskega strežnika</string>
   <string name="cloud_international_addr">Posodobi podatke mednarodnega strežnika</string>
+     <string name="cloud_russion_addr">Posodobi podatke ruskega strežnika</string>
   <string name="cloud_staging_addr">Posodobi podatke strežnika</string>
   <string name="config_classify">Razvrsti po nastavitvah aplikacije</string>
   <string name="config_description">"MIUI lahko prepozna aplikacije s specifičnimi procesi v ozadju (npr. sporočila in aplikacije za navigacijo, media player) in uporabi varčevanje z baterijo tako da ne vpliva bistveno na procese v ozadju."</string>
@@ -96,8 +98,8 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="extreme_power_config_mode_category">Ekstremni način varčevanja baterije</string>
   <string name="extreme_power_config_mode_desc">Sprememba na ekstremni način varčevanja baterije bo izključila sinhronizacijo, Bluetooth, GPS, NFC, dvojni dotik, osvetlitev tipk, zbujanje zakl. zaslona ob obvestilih, utripajočo lučko obvestil itd in način varčevanja baterije nastavil na ultimativno</string>
   <string name="extreme_power_config_mode_summary">Ekstremni način varčevanja baterije omejuje aktivnosti v ozadju in ustavlja sinhronizacijo.</string>
-  <string name="extreme_power_settings_title">Nastavitve</string>
   <string name="extreme_power_config_mode_title">Način ekstremno varčevanje baterije</string>
+     <string name="extreme_power_settings_title">Nastavitve</string>
   <string name="failure">Napaka</string>
   <string name="foreground_change">Aplikacija se izvaja v ozadju</string>
   <string name="fragment_nonesys_listempty">Ni nameščenih aplikacij</string>
@@ -151,12 +153,12 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="nonui_mode_config_title">Neprekinjeni način</string>
   <string name="normal">Privzeti način</string>
   <string name="not_set">Ni nastavljeno</string>
-  <string name="notify_app_consume_abnormal_title">močno porablja baterijo</string>
-  <string name="notify_abnormal">Opozorilo nenormalne energije</string>
-  <string name="notify_abnormal_title">Obvestilo</string>
   <string name="notification_exit_extreme_mode_text">Baterija je napolnjena več kot %s</string>
   <string name="notification_exit_extreme_mode_title">Ekstremni način je izključen</string>
   <string name="notification_open_extreme_mode_text">Ekstremni način je vključen</string>
+     <string name="notify_abnormal">Opozorilo nenormalne energije</string>
+     <string name="notify_abnormal_title">Obvestilo</string>
+     <string name="notify_app_consume_abnormal_title">močno porablja baterijo</string>
   <string name="open_dark_mode">Odpri</string>
   <string name="open_dark_mode_tip">Kvaliteta zaslona nekaterih storitev se lahko zmanjša v temnem načinu dela. Vrnjeno bo na normalno ko zapustite temni način dela. Zamenjam na tamni način dela?</string>
   <string name="operation_create_group">Ime</string>

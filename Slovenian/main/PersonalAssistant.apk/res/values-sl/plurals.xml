@@ -102,6 +102,10 @@
         <item quantity="other">Začetek čez %1$d min</item>
         <item quantity="one">Začetek čez %1$d minuto</item>
      </plurals>
+     <plurals name="app_course_to_start">
+        <item quantity="other">Začetek čez %1$d min</item>
+        <item quantity="one">Začetek čez %1$d min</item>
+     </plurals>
      <plurals name="app_express_content_title_1">
         <item quantity="other">Na poti je %d paketov</item>
         <item quantity="one">%d paket je na poti</item>

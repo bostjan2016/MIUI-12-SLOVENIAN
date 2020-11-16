@@ -67,6 +67,7 @@
   <string name="alert_weather_enable_settings_summary">Dobivajte uradna opozorila o vremenu</string>
   <string name="alert_weather_enable_settings_title">Opozorila vremena</string>
   <string name="already_voted">Glasovano</string>
+     <string name="already_voted_toast">"Danes ste že glasovali"</string>
   <string name="app_name">Vreme</string>
   <string name="aqi_15_days_desc">%d-dnevna napoved kvalitete zraka</string>
   <string name="aqi_24_hours_desc">%d-urna napoved kvalitete zraka</string>
@@ -88,8 +89,15 @@
   <string name="aqi_quality_detail_24_hours">24-urna napoved</string>
   <string name="aqi_quality_detail_48_hours">48-urna napoved</string>
   <string name="aqi_quality_detail_5_days">5-dnevna napoved</string>
+     <string name="aqi_quality_no2_desc">Dušikov dioksid</string>
+     <string name="aqi_quality_o3_desc">Ozon</string>
+     <string name="aqi_quality_pm10_desc">Grobi delci, ki jih je mogoče vdihniti</string>
+     <string name="aqi_quality_pm25_desc">Fini delci</string>
+     <string name="aqi_quality_so2_desc">Žveplov dioksid</string>
   <string name="aqi_station_best_quality_station">Najboljša postaja</string>
   <string name="aqi_station_min_distance_station">Najbližja postaja</string>
+     <string name="aqi_sub_desc">AQI</string>
+     <string name="aqi_top_pollution">Glavni onesnaževalci</string>
   <string name="button_abandon">Opusti spremembe</string>
   <string name="button_add_city">Dodaj mesto</string>
   <string name="button_allow">V redu</string>
@@ -148,7 +156,14 @@
   <string name="daily_forecast_no_data">"Ne morem dobiti podatkov o vremenu
 Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="data_provided_by">Podatki dobljeni od</string>
+     <string name="dialog_internet_error_title">Pojavila se je napaka</string>
+     <string name="dialog_msg_score_midrop">Kako vam je všeč Vreme?</string>
+     <string name="dialog_msg_score_not_good">Bi nam lahko poslali povratne informacije?</string>
+     <string name="dialog_msg_score_perfect">Lepo! Ocenim Vreme v Trgovini?</string>
+     <string name="dialog_title_score">Oceni Vreme</string>
   <string name="dislike_alert_dialog_title">Zakaj ne želite videti te vsebine?</string>
+     <string name="download_rsc_tips">Zagon zvoka v ozadju…</string>
+     <string name="dynamic_weather">Vreme</string>
   <string name="edit_alert_city_title">Urejaj opozorila</string>
   <string name="edit_city">Uredi</string>
   <string name="empty_view_net_loading">Posodabljanje…</string>
@@ -301,8 +316,10 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="night_not_disturb_settings_summary">Blokiraj opozorila med 23:00 in 07:00</string>
   <string name="night_not_disturb_settings_title">"Ne moti ponoči"</string>
   <string name="no_data">Ni podatkov</string>
+     <string name="no_internet_message">Vaša naprava se mora povezati z omrežjem, da boste lahko umaknili soglasje. Preverite omrežne nastavitve in poskusite znova.</string>
   <string name="no_network_btn">Poskusi ponovno</string>
   <string name="no_vote_ratio">Proti %1$s%%</string>
+     <string name="non_wifi_environment">Če želite prenesti zvočne učinke, se povežite z WiFi</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="notif_aqi_title">AQI je %1$d v %2$s danes</string>
   <string name="notif_weather_title">%1$s v %2$s danes</string>
@@ -335,6 +352,8 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="privacy_grant_or_revoke_settings">Odobravanje &amp; preklic avtorizacije</string>
   <string name="privacy_grant_success">Avtorizacija uspešno odobrena</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
+     <string name="privacy_policy_msg"><Data>Ta aplikacija vsebuje naslednje storitve:&lt;br/>• Vreme na vaši lokaciji&lt;br/>• Vremenska napoved&lt;br/>• Opozorila&lt;br/>&lt;br/>Vreme mora zbrati potrebne osebne podatke, da vam omogoči osnovne storitve. Naučite se, kako ravnamo s podatki, ki jih zbiramo v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%3$s\">Pravila o zasebnosti&lt;/a> pred uporabo aplikacije. V nastavitvah lahko kadar koli umaknete soglasje k Pravilniku o zasebnosti.</Data></string>
+     <string name="privacy_policy_msg_for_gp"><Data>Ta aplikacija vsebuje naslednje storitve:&lt;br/>• Vreme na vaši lokaciji&lt;br/>• Weather forecasts&lt;br/>• Opozorila&lt;br/>&lt;br/>Vreme mora zbrati potrebne osebne podatke, vključno podatke o lokaciji, tda vam omogoči osnovne storitve, tudi ko se aplikacija ne uporablja. Naučite se, kako ravnamo s podatki, ki jih zbiramo v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%3$s\">Pravila o zasebnosti&lt;/a> pred uporabo aplikacije. V nastavitvah lahko kadar koli umaknete soglasje k Pravilniku o zasebnosti.</Data></string>
   <string name="privacy_revoke_failed">"Ne morem preklicati avtorizacijo. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="privacy_revoke_success">Avtorizacija uspešno preklicana</string>
   <string name="privacy_settings">Pravila o zasebnosti</string>
@@ -347,6 +366,8 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="rain_sound_setting_title_text">Zvočni efekti</string>
   <string name="rainfall_settings_summary">Nastavitve padavin</string>
   <string name="rainfall_settings_title">Opozorilo padavin</string>
+     <string name="rating_dialog_later">Pozneje</string>
+     <string name="rating_dialog_rate_now">Oceni zdaj</string>
   <string name="real_time_sunrise">Sončni vzhod %1$s</string>
   <string name="real_time_sunset">Sončni zahod %1$s</string>
   <string name="realtime_aqi_title">Indeks kakovosti zraka</string>
@@ -362,7 +383,11 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="request_permission_read_phone_state_dialog_content">Za identificiranje vaše naprave</string>
   <string name="request_permission_storage_dialog_content">Za deljenje informacij o vremenu v formatu slike</string>
   <string name="retry">Poskusi ponovno</string>
+     <string name="revoke_fail">"Ne morem se povezati na omrežje"</string>
+     <string name="revoke_privacy_policy_title">Preklic soglasja</string>
+     <string name="save_to_gallery_failure_message">"Ne morem shraniti v Galerijo"</string>
   <string name="save_to_gallery_icon_name">Shrani v Galerijo</string>
+     <string name="save_to_gallery_success_message">Shranjeno v Galerijo</string>
   <string name="search_menu_title">Išči</string>
   <string name="search_weather">Vreme</string>
   <string name="set">Nastavitve</string>
@@ -451,11 +476,14 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="weather_main_aqi_desc">Kvaliteta zraka</string>
   <string name="weather_main_minute_hour">%d-urna verjetnost padavin</string>
   <string name="weather_main_speak_tips">Kliknite, če želite glas oddajati</string>
+     <string name="weather_more_air_quality">Več o kakovosti zraka</string>
   <string name="weather_permission_agree">Sprejmem</string>
   <string name="weather_service_channel_name">Storitve v ozadju</string>
+     <string name="welcome_app_title">Dobrodošli v Vreme!</string>
   <string name="widget_cta_not_agree">Tapnite da boste dobili informacije o vremenu</string>
   <string name="wind_direction_no_data">Veter</string>
   <string name="xiaomi_weather_description_content">Aplikacija Vreme ponuja točne informacije o vremenski napovedi. Odstranitev vpliva na vrstico obvestil, uro vremenske napovedi delovne površine itd. Želite odstraniti komponente sistema?</string>
   <string name="xiaomi_weather_description_title">O aplikaciji</string>
+     <string name="yes_vote_ratio">Za %1$s%%</string>
   <string name="your_location">Vaša lokacija</string>
 </resources>

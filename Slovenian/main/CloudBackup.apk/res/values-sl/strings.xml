@@ -122,6 +122,8 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="cloud_back_up_task">Izdelava var. kopije…</string>
   <string name="cloud_backup">Mi Cloud var. kopije</string>
   <string name="cloud_backup_detail_frequence">Razpored var. kopije</string>
+     <string name="cloud_backup_detail_frequence_every_7_day">Var. kopiraj vsakih %d dni</string>
+     <string name="cloud_backup_detail_frequence_every_day">Var. kopiraj vsak dan</string>
   <string name="cloud_backup_detail_manage">Urejanje var. kopij</string>
   <string name="cloud_backup_detail_state">Mi Cloud var. kopija</string>
   <string name="cloud_backup_detail_state_summary">Aplikacije, začetni zaslon in nastavitve sistema</string>

@@ -170,6 +170,10 @@
   <string name="dlg_title_use_privacy_password">Uporabi geslo za zaščito zasebnosti</string>
   <string name="dlg_unhide_message">Odkrivanje…</string>
   <string name="dlg_unmark_privacy_message">Odkrivanje…</string>
+     <string name="dlg_update_cancel">Ne zdaj</string>
+     <string name="dlg_update_checkbox_title">Zanemari to verzijo</string>
+     <string name="dlg_update_title">Posodobitev na voljo</string>
+     <string name="dlg_update_update_now">Posodobi</string>
   <string name="done">Končano</string>
   <string name="doodle_action_enter_immersion_mode">Preklopi na interaktivni način</string>
   <string name="doodle_action_exit_immersion_mode">Interaktivni način je izključen</string>
@@ -184,15 +188,19 @@
   <string name="doodle_feature">Doodles</string>
   <string name="doodle_palette">Paleta barv</string>
   <string name="doodle_save_progress_text">Shranjevanje…</string>
+     <string name="doodle_saving">Shranjevanje</string>
   <string name="doodle_setting_show_grid_background">Doodle mrežne črte</string>
   <string name="doodle_setting_show_grid_background_desc">Pokaži mrežne črte doodle</string>
   <string name="doodle_text_click_input_text">Dotaknite se za vnos besedila</string>
+     <string name="doodle_tool_background">Zamenjaj ozadje</string>
   <string name="doodle_tool_eraser">Brisalec</string>
   <string name="doodle_tool_eraser_element_mode">Brisalec potez</string>
   <string name="doodle_tool_eraser_pixel_mode">Brisalec Pixla</string>
   <string name="doodle_tool_picture">Dodaj sliko</string>
   <string name="doodle_tool_text">Dodaj tekst</string>
+     <string name="doodle_tool_text_dialog_hint">Vnesite besedilo</string>
   <string name="doodle_tool_text_hint">Dotaknite se za vnos besedila</string>
+     <string name="early_morning">Jutro</string>
   <string name="edit_header_done_description">Končano</string>
   <string name="edit_header_lock_description">Skrita beležka</string>
   <string name="edit_note_hint_title">Naslov</string>
@@ -212,6 +220,7 @@ Tapnite + da napravite mapo"</string>
   <string name="error_send_empty_note_to_weibo">"Ne morem poslati prazno beležko na Weibo"</string>
   <string name="error_unsupport_content">Beležka vsebuje nepodprto vsebino. Tapni za posodobitev</string>
   <string name="error_widget_exist_for_send_to_desktop">Ta beležka je že na vašem začetnem zaslonu</string>
+     <string name="evening">Popoldne</string>
   <string name="exceed_todo_text_limitation">Opis naloge je predolg.</string>
   <string name="expand_button_title">Napredno</string>
   <string name="first_enter_custom_folder_hint">Tu lahko preimenujete ali brišete mape</string>
@@ -353,11 +362,14 @@ Tapnite + da napravite mapo"</string>
   <string name="note_gesture_guide_step1">Pritisnite in držite plus za zvočno beležko</string>
   <string name="note_gesture_guide_step2">Pritisnite in držite beležko in jo premaknite nad drugo, da napravite mapo</string>
   <string name="note_gesture_guide_step3">Pritisnite in držite beležko in jo premaknite nad mapo, da jo dodate v mapo</string> 
+     <string name="note_invalid_mindnote_hint">"Zemljevidi misli niso na voljo v tej različici. Posodobite aplikacijo, če želite uporabljati to funkcijo."</string>
   <string name="note_link_email">"Nova e-pošta"</string>
   <string name="note_link_other">Odpri s pomočjo aplikacije Karte</string>
   <string name="note_link_select">Izberi besedilo</string>
   <string name="note_link_tel">Klic</string>
   <string name="note_link_web">Brskaj po spletu</string>
+     <string name="note_mindnote_entrance_hint">"Začnite tipkati "</string>
+     <string name="note_mindnote_entrance_icon_text">Ustvari miselni zemljevid</string>
   <string name="note_sort_way">Izberite kako želite razporediti vaše beležke</string>
   <string name="notealert_enter">Poglej</string>
   <string name="notealert_ok">"Zavrzi"</string>
@@ -485,6 +497,10 @@ Tapnite + da napravite mapo"</string>
   <string name="sunday">Nedelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
+     <string name="sync_all_terms">%1$s, %2$s, in %3$s</string>
+     <string name="sync_folder_todo">%1$s in %2$s</string>
+     <string name="sync_note_folder">%1$s in %2$s</string>
+     <string name="sync_note_todo">%1$s in %2$s</string>
   <string name="sync_tips">Dotaknite se za sinhr. beležk z Mi Cloudom.</string>
   <string name="theme_blue_description">Modraa</string>
   <string name="theme_green_description">Zelena</string>
@@ -510,6 +526,8 @@ Tapnite + da napravite mapo"</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
   <string name="time_picker_dialog_title">Nastavi čas</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
   <string name="toast_cancel_to_insert_image">"Ne morem dodati sliko."</string>
   <string name="toast_folder_privacy_mode">"Ne morem spremeniti mape v načinu za goste"</string>
   <string name="toast_mark_privacy_notes">Uspešno skrito</string>
@@ -607,6 +625,7 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
   <string name="tomorrow">Jutri</string>
   <string name="toolbar_check_description">Dodaj potrdni okvir</string>
   <string name="toolbar_delete_description">Izbriši to beležko</string>
+     <string name="toolbar_done_description">Končano</string>
   <string name="toolbar_gallery_description">Dodaj sliko</string>
   <string name="toolbar_redo_description">Ponovi</string>
   <string name="toolbar_share_description">Deli beležko</string>
@@ -634,5 +653,9 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
   <string name="widget_content_loading">Nalagam…</string>
   <string name="widget_havenot_content">"Dotaknite se da napravite beležko. Držite pripomoček za menjavo velikosti."</string>
   <string name="widget_under_privacy_mode">"Ne morem pregledati beležke v načinu Gost"</string>
+     <string name="xiaomi_account_type">com.xiaomi</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">Posodobitev na voljo</string>
   <string name="yesterday">Včeraj</string>
 </resources>

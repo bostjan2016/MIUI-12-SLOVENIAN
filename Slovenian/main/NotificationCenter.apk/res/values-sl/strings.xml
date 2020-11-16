@@ -30,10 +30,15 @@
     <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="actionbar_button_up_description">Nazaj</string>
   <string name="afternoon">PM</string>
+     <string name="aggregate_title">Pravila za razvrščanje obvestil v skupine</string>
+     <string name="am">AM</string>
   <string name="app_name">Obvestila</string>
   <string name="back">Nazaj</string>
   <string name="cancel">Prekliči</string>
   <string name="category_other">Ostalo</string>
+     <string name="channel_keyguard_hide_content">Pokaži vsa obvestila, vendar skrij vsebino</string>
+     <string name="channel_keyguard_show_content">Pokaži vsa obvestila in njihovo vsebino</string>
+     <string name="channel_keyguard_show_nothing">"Sploh ne kaži obvestil"</string>
   <string name="channel_name_aggregation">Skupinska obvestila</string>
   <string name="channel_name_notification">Obvestila aplikacije</string>
   <string name="channel_name_recovered">Vrnjena obvestila</string>
@@ -201,7 +206,9 @@
   <string name="off">Izključi</string>
   <string name="on">Vključi</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
+     <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
+     <string name="rule_keyguard_display">Format</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>
@@ -210,7 +217,11 @@
   <string name="settings_guide_title">Potrebujete druge nastavitve??</string>
   <string name="show_badge_notifications">Značke obvestil</string>
   <string name="show_badge_notifications_short">Značke</string>
+     <string name="show_weather">Pokaži vremenske informacije</string>
   <string name="status_bar_setting">Vrstica obvestil</string>
+     <string name="summary_aggregate_default">Promocijska in vsebinska potisna obvestila bodo združena v skupine</string>
+     <string name="summary_aggregate_home">"Potisna obvestila ne bodo razvrščena v skupine"</string>
+     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="summary_disable_float_notification">"Plavajoča obvestila niso dovoljena"</string>
   <string name="summary_disable_lockscreen_notification">"Obvestila zakl. zaslona niso dovoljena"</string>
   <string name="summary_disable_show_badge_notification">"Značke obvestil niso dovoljene"</string>
@@ -218,6 +229,9 @@
   <string name="summary_enable_lockscreen_notification">Obvestila zakl. zaslona so dovoljena</string>
   <string name="summary_enable_show_badge_notification">Značke obvestil so dovoljene</string>
   <string name="summary_float_enable_notification_first">Dovolite obvestila da boste lahko vključili plavajoča obvestila</string>
+     <string name="summary_fold_importance_default">MIUI se bo odločil, katera obvestila bodo prikazana neposredno</string>
+     <string name="summary_fold_importance_important">Obvestilo se prikaže v plošči za obvestila</string>
+     <string name="summary_fold_importance_unimportant">Obvestilo se prikaže v ločeni mapi</string>
   <string name="summary_lock_screen_enable_notification_first">Dovolite obvestila da boste lahko vključili obvestila zakl. zaslona</string>
   <string name="summary_show_badge_enable_notification_first">Dovolite obvestila da boste lahko vključili značke obvestil</string>
   <string name="sunday">Nedelja</string>
@@ -231,6 +245,8 @@
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="tip_feedback_thanks">Hvala za povratne informacije!</string>
+     <string name="title_aggregate_default">Združi onvestila</string>
+     <string name="title_aggregate_home">"Ne združuj obvestil"</string>
   <string name="today">Danes</string>
   <string name="tomorrow">Jutri</string>
   <string name="tuesday">Torek</string>
