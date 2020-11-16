@@ -653,7 +653,6 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
   <string name="widget_content_loading">Nalagam…</string>
   <string name="widget_havenot_content">"Dotaknite se da napravite beležko. Držite pripomoček za menjavo velikosti."</string>
   <string name="widget_under_privacy_mode">"Ne morem pregledati beležke v načinu Gost"</string>
-     <string name="xiaomi_account_type">com.xiaomi</string>
      <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
      <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
      <string name="xiaomi_market_sdk_update_dialog_title">Posodobitev na voljo</string>
