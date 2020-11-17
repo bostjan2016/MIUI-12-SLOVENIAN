@@ -4,10 +4,16 @@
   <string name="Call_BLACKLIST">Seznam blokiranih klicev</string>
   <string name="Call_PRIVATE_CALL">Skriti klici</string>
   <string name="Calnetwork_blocked_switch_wifiEFIX">Seznam blokiranih predštevilk</string>
+     <string name="HIPS_Perm_Access_Gallery">Dostop do Galerije</string>
+     <string name="HIPS_Perm_Access_Gallery_Desc">Dovolite tej aplikaciji dostop do stvari v vaši galeriji</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Vklop in izklop Bluetootha</string>
   <string name="HIPS_Perm_CallLog_Desc">zabeležiti in brisati zgodovino klicev</string>
   <string name="HIPS_Perm_Call_Desc">neposredno klicati telefonske številke</string>
   <string name="HIPS_Perm_Contact_Desc">menjati in brisati vaše stike</string>
+     <string name="HIPS_Perm_External_Storage">Dostop in shranjevanje v shrambo</string>
+     <string name="HIPS_Perm_External_Storage_Desc">Dostop in shranjevanje datotek in slik v notranji pomnilnik</string>
+     <string name="HIPS_Perm_External_Storage_Group">Upravljanje dovoljenj za shranjevanje</string>
+     <string name="HIPS_Perm_External_Storage_Group_Desc">Izberite, katere aplikacije imajo dostop</string>
   <string name="HIPS_Perm_PhoneID_Desc">"dostop do številke telefona, IMEI in IMSI vaše naprave"</string>
   <string name="HIPS_Perm_PhoneID_Desc_Q">Dostop do številke telefona in IMSI</string>
   <string name="HIPS_Perm_Read_Call_Log_Desc">brati zgodovino klicev</string>
@@ -19,6 +25,8 @@
   <string name="HIPS_Perm_add_voicemail_Desc">dodati glasovna sporočila sistema</string>
   <string name="HIPS_Perm_get_accounts_Desc">dostop do vseh računov v napravi</string>
   <string name="HIPS_Perm_process_nfc_Desc">Uporaba NFC</string>
+     <string name="HIPS_Perm_tencentControl">Dostop do sporočil v aplikacijah za družabna omrežja</string>
+     <string name="HIPS_Perm_tencentControl_Desc">Dovolite tej aplikaciji dostop do sporočil WeChat in QQ</string>
    <string name="HIPS_Perm_use_sip_Desc">uporabiti Session Initiation Protocol za stream videoposnetkov</string>
   <string name="MALICIOUS_URL">Zlonameren URL</string>
   <string name="PAST_BLOCK">predhodno blokirano</string>
@@ -470,6 +478,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_perm_monitor_send_sms">Pošiljanje SMS sporočil</string>
   <string name="app_manager_permission">Dovoljenja vezana na zasebnost (zadnjih 7 dni)</string>
   <string name="app_manager_permission_call_phone_over">Klicano 100000+ krat</string>
+     <string name="app_manager_permission_dcimcontrol_title">Dostop do Galerije</string>
   <string name="app_manager_permission_manager_title">Dovoljenja</string>
   <string name="app_manager_permission_notify_summary">Obvestila opravil, lebdečih obvestil in zakl. zaslona</string>
   <string name="app_manager_permission_notify_title">Obvestila</string>
@@ -1008,6 +1017,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="cmcc_app_check_dialog_negative">Kasneje</string>
   <string name="cmcc_app_check_dialog_positive">Ponovno zaženi</string>
   <string name="cmcc_app_check_dialog_title">Sistem je popravljen</string>
+     <string name="comprehensive_protection_measures">Celovita zaščita</string>
   <string name="confirmSecondSpacePassword">Potrdite geslo Drugega prostora</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Dodajanje Mi Računa</string>
   <string name="confirm_fingerprint_msg">Postavite prst na senzor</string>
@@ -1501,6 +1511,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="free_traffic_settings">Nastavitve Izklj. maks. omejitve</string>
   <string name="full_fill_oprator_and_location">Navedite podatke o vašem operaterju in lokacijo</string>
   <string name="full_fill_sim_location">Najprej nastavite lokacijo</string>
+     <string name="fully_informed_privacy">Zavedanje o zasebnosti</string>
   <string name="function_auto_reject_detail">"O tej storitvi:
 1. Med igranjem iger bodo vsi dohodni klici na kartico SIM brez mobilne podatkovne storitve samodejno zavrnjeni.
 2. Videli boste obvestila o neodgovorjenih klicih, druga oseba pa bo zaslišala zvočno sporočilo, da ste trenutno zasedeni.
@@ -1526,6 +1537,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="fw_blocked_join">" in "</string>
   <string name="fw_oversea">Blokiraj klice iz tujine</string>
   <string name="fw_oversea_content">Blokiraj dohodne klice iz tujih telefonskih številk</string>
+     <string name="gallery_confirm_start_activity">%s poskuša dostopati do slik preko druge aplikacije. Dovolim?</string>
   <string name="game_ad_recommendation">Vsi igrajo</string>
   <string name="game_anti_disturb_msg">Igra DND</string>
   <string name="game_booster">Game Turbo</string>
@@ -1657,11 +1669,13 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gb_game_video_type_ai_record">Posnemi z uporabo AI</string>
   <string name="gb_game_video_type_manual">Ročno</string>
   <string name="gb_game_video_type_manual_record">Posnemi ročno</string>
+     <string name="gb_get_gift_right_now">Preveri zdaj</string>
   <string name="gb_global_settings">Splošne nastavitve</string>
   <string name="gb_gpu_driver_btn_update">Preveri za posodobitve</string>
   <string name="gb_gpu_driver_update">Posodabljanje GPU gonilnika</string>
   <string name="gb_gpu_driver_update_app">Posodobi</string>
   <string name="gb_gpu_driver_update_app_tips">Trenutna verzija je posodobljena</string>
+     <string name="gb_have_signed">Prijavljen danes</string>
   <string name="gb_manual_record_dialog_del_video_message">Želite trajno izbrisati izbrane videoposnetke?</string>
   <string name="gb_msg_completely_shielded">Skrij sporočila</string>
   <string name="gb_msg_completely_shielded_summary">Skrij</string>
@@ -1672,23 +1686,61 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gb_msg_transparent_dispaly_summary">Transparentno</string>
   <string name="gb_network_status_bad">Napaka v povezavi.</string>
   <string name="gb_new_feature">Novo opravilo</string>
+     <string name="gb_operat_frequently">Ne tako hitro!</string>
   <string name="gb_shortcut_pref_title">Bližnjica zač. zaslona</string>
+     <string name="gb_sign_gift">Prijavite se, če želite dobiti nagrade</string>
+     <string name="gb_sign_gift_button_text">Prejmi</string>
+     <string name="gb_sign_notification_summary">Igrajte igre brez zamud v omrežju</string>
+     <string name="gb_sign_notification_title">Poskusite Game Turbo brezplačno</string>
+     <string name="gb_signed_gift_loading_fail">"Ne morem naložiti"</string>
+     <string name="gb_signed_gift_loading_summary">Delam…</string>
+     <string name="gb_signed_title">Prijavljen ta mesec</string>
   <string name="gb_sound_audition">Poslušaj</string>
   <string name="gb_storage_game_uninstall">Odstrani igre</string>
   <string name="gb_storage_summary">"Na zač. zaslonu ne kaži igre ki so dodane v Game Turbo"</string>
   <string name="gb_storage_title">Odstrani dodane igre iz zač. zaslona</string>
   <string name="gb_voice_change_settinged">Menjava glasu je vključena</string>
   <string name="gb_voice_changer_cartoon">Risanka</string>
+     <string name="gb_voice_changer_dialog_upgrade_vip">Obnovite naročnino, da boste lahko uporabljali povratne informacije v realnem času.</string>
   <string name="gb_voice_changer_dlg_button_agree">Dovoli</string>
   <string name="gb_voice_changer_dlg_button_refuse">Zavrni</string>
   <string name="gb_voice_changer_dlg_title">Menjava glasu</string>
+     <string name="gb_voice_changer_free">Brezplačno</string>
+     <string name="gb_voice_changer_gender_female">Ženska</string>
+     <string name="gb_voice_changer_gender_man">Moški</string>
+     <string name="gb_voice_changer_headset">Če želite uporabljati povratne informacije v realnem času, priključite slušalke</string>
   <string name="gb_voice_changer_lady">Ženska</string>
   <string name="gb_voice_changer_loli">Dekle</string>
   <string name="gb_voice_changer_men">Moški</string>
   <string name="gb_voice_changer_normal">Original</string>
   <string name="gb_voice_changer_permission_dlg_msg">Zamenjava glasu mora biti sposobna snemati zvok za normalno delovanje.</string>
   <string name="gb_voice_changer_permission_dlg_title">Potrebno je dovoljenje</string>
+     <string name="gb_voice_changer_recommend">Priporočeno</string>
+     <string name="gb_voice_changer_renew_dailog">Obnovite naročnino, da boste lahko uporabili ta učinek.</string>
   <string name="gb_voice_changer_robot">Robot</string>
+     <string name="gb_voice_changer_setting_account_title">Mi Račun</string>
+     <string name="gb_voice_changer_setting_become_vip">Naročite se</string>
+     <string name="gb_voice_changer_setting_gender_subtitle">Učinke in priporočila prilagodite izbranemu spolu</string>
+     <string name="gb_voice_changer_setting_gender_title">Spol</string>
+     <string name="gb_voice_changer_setting_realtime_subtitle">Preverite, kako se vaš glas spreminja v realnem času</string>
+     <string name="gb_voice_changer_setting_realtime_title">Povratne informacije v realnem času</string>
+     <string name="gb_voice_changer_setting_rights">Pogoji uporabe in Pravila o zasebnosti</string>
+     <string name="gb_voice_changer_toast_window_bubble_tips">"Preizkusite Menjalnik glasov zdaj
+za 3-dnevni preizkus!"</string>
+     <string name="gb_voice_changer_toast_window_new_tips">"Preizkusite Menjalnik glasov!
+Preklapljajte med različnimi znaki in posebnimi učinki."</string>
+     <string name="gb_voice_changer_toast_window_open">Vključen \"%s\" učinek</string>
+     <string name="gb_voice_changer_toast_window_vip_expire">Vaša naročnina bo kmalu potekla. Podaljšajte naročnino, če želite dobiti ugodnosti!</string>
+     <string name="gb_voice_changer_trial_gender_dialog">Uspešno prejeli brezplačno preskusno različico! Izberite spol, da ustrezno prilagodite učinke in priporočila.</string>
+     <string name="gb_voice_changer_trial_gender_dialog_title">Brezplačen preizkus</string>
+     <string name="gb_voice_changer_trial_progress_dialog_message">Prejemam brezplačen preizkus…</string>
+     <string name="gb_voice_changer_user_status_expired">Naročnina je potekla</string>
+     <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Dobite %d-dnevni brezplačen preizkus
+in raziščite naš menjalnik glasov!"</string>
+     <string name="gb_voice_changer_user_status_no_login">Prijavite se v račun Mi</string>
+     <string name="gb_voice_changer_user_status_remain_time">Poteče: %s</string>
+     <string name="gb_voice_changer_user_status_renew">Obnovi</string>
+     <string name="gb_voice_changer_user_tips_info_vip_expire">Vaše naročnine so potekle. Podaljšajte naročnino, če želite dobiti ugodnosti!</string>
   <string name="gb_wonderful_moment_toast_window_new_pop">"Zabeležite ključne trenutke
 vašega igranja"</string>
   <string name="gb_wonderful_video_cancel">Prekliči</string>
@@ -1857,6 +1909,18 @@ vašega igranja"</string>
   <string name="icon_text_size_mega_byte">%dMB</string>
   <string name="ignore_special_app">Iz vašega načrta izključite podatke, ki jih uporabljajo izbrane aplikacije</string>
   <string name="im">IM</string>
+     <string name="image_protect_auto_del">%s poskuša brisati slike</string>
+     <string name="image_protect_del_pic_tips">Obvesti o izbrisanih slikah</string>
+     <string name="image_protect_del_success">Izbrisano</string>
+     <string name="image_protect_ensure_del_pic">Izbriši</string>
+     <string name="image_protect_exit_and_del">Izbriši</string>
+     <string name="image_protect_intercept_can_recover_tips">To dejanje je bilo blokirano. Izberete lahko, ali želite slike izbrisati ali obnoviti.</string>
+     <string name="image_protect_intercept_tips">Dotaknite se za upravljanje vedenja aplikacije</string>
+     <string name="image_protect_no_data">Tu ni ničesar</string>
+     <string name="image_protect_recover_del_pic">Obnovi</string>
+     <string name="image_protect_recover_success">Obnovljeno</string>
+     <string name="image_protect_tips_title">Brisanje fotografij</string>
+     <string name="image_protect_total_activity_label">Prejemajte obvestila o izbrisanih fotografijah</string>
   <string name="info_and_call">Klici in sporočila</string>
   <string name="info_antispam_close">AntiSpam je izključen</string>
   <string name="info_antispam_current_mode">%s</string>
@@ -2037,8 +2101,10 @@ vašega igranja"</string>
   <string name="main_primary_message_traffic_warning">Opozorilo uporabe podatkov</string>
   <string name="main_purchase_tips">Reklama</string>
   <string name="main_tc_over">Uspešno kalibrirano</string>
-  <string name="main_tc_send_sms">"Pošlji SMS\nza kalibracijo"</string>
-  <string name="main_tc_wait_result">"Čaka se odgovor\noperatera"</string>
+     <string name="main_tc_send_sms">"Pošlji SMS
+za kalibracijo"</string>
+     <string name="main_tc_wait_result">"Čaka se odgovor
+operaterja"</string>
   <string name="main_tobe_added_desc">Mobilni podatki od ¥0.03/MB</string>
   <string name="main_today_used">Porabljeno danes</string>
   <string name="main_toolbar_firewall">Omeji uporabo podatkov</string>
@@ -2140,8 +2206,8 @@ Vaša naprava je zdaj %d%% hitrejša.</string>
   <string name="menu_item_notification_antispam_text_avail">Spam</string>
   <string name="menu_item_notification_antispam_text_normal">Spam</string>
   <string name="menu_item_notification_garbage_text">%s</string>
-  <string name="menu_item_notification_optimize_text">%d%% zasedeno</string>
   <string name="menu_item_notification_garbage_text_error">Napaka</string>
+     <string name="menu_item_notification_optimize_text">%d%% zasedeno</string>
   <string name="menu_item_notification_power_text">Optimizacija baterije</string>
   <string name="menu_item_notification_title">Pokaži meni v obvestilni vrstici</string>
   <string name="menu_item_settings_title">Nastavitve</string>
@@ -2262,6 +2328,9 @@ Vaša naprava je zdaj %d%% hitrejša.</string>
   <string name="network_connected_exception_title">Test omrežja</string>
   <string name="network_control">Prikaz nastavitev aplikacije</string>
   <string name="network_diagnostics">Test omrežja</string>
+     <string name="network_disable_dialog_btn_text">Razumem</string>
+     <string name="network_disable_dialog_content">Vaša naprava se mora povezati z omrežjem, da boste lahko umaknili soglasje. Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="network_disable_dialog_title">"Ne morem se povezati na omrežje"</string>
   <string name="network_mobile_exception_detail">"Vaša naprava se ne more povezati s spletom:
 
  1. Preverite ali ste prekoračili mesečno omejitev uporabe podatkov.
@@ -2640,6 +2709,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="perm_intercept_title">Če dovolite dostop do podatkov o uporabi za %1s, bo tej aplikaciji omogočeno, da izvede naslednja dejanja:</string>
   <string name="perm_intercept_unknown_title">Dovoljenje %1s za namestitev aplikacij iz neznanih virov lahko predstavlja naslednje nevarnosti:</string>
   <string name="perm_list_header_title">Aplikacije</string>
+     <string name="perm_list_header_title_has_storage">Aplikacije s pomnilnikom</string>
   <string name="permdesc_in_calls">Nadzirati dohodne klice</string>
   <string name="permdesc_out_calls">Nadzirati odhodne klice</string>
   <string name="permgroupdesc_calendar">Dostop do dogodkov koledarja</string>
@@ -2685,6 +2755,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="permission_instruction_dont_disturb">To dovoljenje aplikacijam omogoča vklop in izklop načina DND.</string>
   <string name="permission_instruction_draw_overlay">To dovoljenje aplikacijam omogoča ogled plavajočih oken prek katerega koli drugega vmesnika v vaši napravi, kar lahko vpliva na običajno uporabo drugih aplikacij. Zlonamerni programi lahko to dovoljenje uporabljajo za branje ali zbiranje zasebnih podatkov (na primer gesel) skozi prozorna plavajoča okna..</string>
   <string name="permission_instruction_external_storage">To dovoljenje aplikacijam omogoča dostop do fotografij, predstavnosti in datotek v vaši napravi. S tem dovoljenjem bodite previdni, da se izognete nepotrebnemu razkritju zasebnih podatkov.</string>
+     <string name="permission_instruction_gallery">Za zaščito vaše zasebnosti vam MIUI omogoča, da se odločite, ali dovolite aplikacijam, ki imajo dovoljenja za shranjevanje, dostop do Galerije.</string>
   <string name="permission_instruction_get_accounts">To dovoljenje aplikacijam omogoča dostop do seznama računov, shranjenih v vaši napravi. Ta seznam lahko vsebuje vse vaše osebne račune, ki so jih ustvarili nameščeni programi, pa tudi račune s platform socialnih medijev in komunikacijskih orodij.</string>
   <string name="permission_instruction_install_shortcuts">To dovoljenje aplikacijam omogoča ustvarjanje bližnjic na začetnem zaslonu.</string>
   <string name="permission_instruction_install_unknown_source">To dovoljenje aplikacijam omogoča namestitev drugih programov v vašo napravo. Zlonamerni programi uporabljajo to dovoljenje za namestitev programov brez vaše potrditve.</string>
@@ -2720,6 +2791,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="permission_instruction_send_payment_sms">To dovoljenje aplikacijam omogoča pošiljanje plačljivih besedilnih sporočil.</string>
   <string name="permission_instruction_send_sms">To dovoljenje aplikacijam omogoča pošiljanje besedilnih sporočil, kar lahko povzroči dodatne stroške. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za pošiljanje plačljivih sporočil brez vašega soglasja.</string>
   <string name="permission_instruction_show_locked">To dovoljenje aplikacijam omogoča prikaz elementov na zaklenjenem zaslonu. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za prikazovanje nadležnih oglasov.</string>
+     <string name="permission_instruction_sociality">Za zaščito vaše zasebnosti vam MIUI omogoča, da se odločite, ali dovolite aplikacijam, ki imajo dovoljenja za shranjevanje, dostop do vaših sporočil v aplikacijah za družabna omrežja.</string>
+     <string name="permission_instruction_storage">Za zaščito vaše zasebnosti vam MIUI omogoča, da se odločite, ali dovolite aplikacijam, ki imajo dovoljenja za shranjevanje, dostop do Galerije in vaših sporočil v aplikacijah za družabna omrežja.</string>
   <string name="permission_instruction_touch_pay">To dovoljenje aplikacijam omogoča brezstično plačevanje.</string>
   <string name="permission_instruction_use_sip">To dovoljenje aplikacijam omogoča uporabo video storitev SIP.</string>
   <string name="permission_instruction_vr_assistant">To dovoljenje aplikacijam omogoča uporabo storitev pomočnikov VR.</string>
@@ -3033,6 +3106,69 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_superpower_title_systemui_highpower">Preostali čas</string>
   <string name="power_superpower_title_systemui_lowpower">Priključite polnilec</string>
   <string name="power_wifi">WiFi</string>
+     <string name="pp_app_behavior_record_detail">Zabeleži vsa vedenja aplikacij</string>
+     <string name="pp_app_del_img_intercept_detail">Prejemajte obvestila, ko aplikacije izbrišejo stvari iz galerije brez vašega dovoljenja</string>
+     <string name="pp_app_gets_dangerous_permission_reminder">Prejemajte obvestila, ko aplikacije uporabljajo dovoljenja z visokim tveganjem</string>
+     <string name="pp_app_gets_dangerous_permission_reminder_detail">Prejemajte obvestila vsakič, ko aplikacija uporabi dovoljenje z visokim tveganjem, in razmislite o svojih možnostih</string>
+     <string name="pp_app_lock_introduction">Dodatno zaklepanje zaslona</string>
+     <string name="pp_app_permission_settings">Dovoljenja aplikacij</string>
+     <string name="pp_app_permission_settings_detail">Dovoli aplikacijam uporabo dovoljenj, povezanih z zasebnostjo</string>
+     <string name="pp_app_reads_clipboard_smart_reminder">Zaščiti odložišče</string>
+     <string name="pp_app_reads_clipboard_smart_reminder_detail">"MIUI se bo odločil, ali lahko aplikacije dostopajo do odložišča. Ko to storijo, boste prejeli obvestilo."</string>
+     <string name="pp_app_warning_permission_tips">Prejemajte obvestila o vedenju aplikacij</string>
+     <string name="pp_app_warning_permission_tips_detail">Prejemajte obvestila, ko aplikacije dostopajo do vaše lokacije, snemajo zvok ali uporabljajo kamero</string>
+     <string name="pp_call_phone_msg">Zgodovina klicev</string>
+     <string name="pp_capability_approved_title">"Naše ukrepe za zaščito zasebnosti so preizkusili in potrdili vodilni strokovnjaki v tej panogi."</string>
+     <string name="pp_chain_start_is_prohibited">Omeji verižni začetek</string>
+     <string name="pp_chain_start_is_prohibited_detail">Nadzirajte primere, ko se aplikacije tretjih oseb zaženejo in pridobijo vaše osebne podatke brez vaše vednosti</string>
+     <string name="pp_clipboard">Odložišče</string>
+     <string name="pp_comprehensive_privacy_management">Celovita zaščita zasebnosti</string>
+     <string name="pp_contacts_msg">Stiki</string>
+     <string name="pp_data_rights_realization">Podatkovne pravice</string>
+     <string name="pp_fuzzy_positioning">Manjša natančnost pozicioniranja</string>
+     <string name="pp_fuzzy_positioning_detail">Zmanjšajte natančnost določanja položaja in aplikacijam omogočite dostop do manj natančnih informacij o lokaciji</string>
+     <string name="pp_grant_permission_only_during_app_use">"Dovoli aplikacijam, da uporabljajo dovoljenja samo med uporabo aplikacije"</string>
+     <string name="pp_grant_permission_only_during_app_use_detail">"Če želite preprečiti, da bi aplikacija uporabljala dovoljenja v ozadju, lahko dovolite uporabo dovoljenj, povezanih z lokacijo, snemanjem zvoka in stiki, samo med uporabo aplikacije"</string>
+     <string name="pp_hide_app">Skrij aplikacije</string>
+     <string name="pp_hide_app_form_desktop">Odstranite ikone aplikacij z začetnega zaslona</string>
+     <string name="pp_icon_layout_status_bg_content_enable">Zaščiteno</string>
+     <string name="pp_icon_layout_status_bg_content_unable">Izključeno</string>
+     <string name="pp_interception_net_visit_content_manager">Zaščitite galerijo in aplikacije za družabna omrežja</string>
+     <string name="pp_interception_net_visit_content_manager_detail">Izberite, katerim aplikacijam je dovoljen dostop do vaših fotografij, videoposnetkov in zgodovine klepetov</string>
+     <string name="pp_local_msg">Informacije o lokaciji</string>
+     <string name="pp_manage_apps_location_information">Dovolite aplikacijam dostop do vaše lokacije</string>
+     <string name="pp_one_app_two_use">Uporabite dva računa brez odjave</string>
+     <string name="pp_one_phone_two_space">Uporabite eno napravo kot dve</string>
+     <string name="pp_only_allow_permission_during_this_run">Dovoli aplikacijam, da enkrat uporabljajo dovoljenja</string>
+     <string name="pp_only_allow_permission_during_this_run_detail">Dovoljenja, povezana z lokacijo, snemanjem zvoka in stiki, lahko dovolite samo enkrat. Ta dovoljenja bodo kmalu po zaprtju aplikacije ponovno omejena.</string>
+     <string name="pp_optional_protection_function">Neobvezni zaščitni ukrepi</string>
+     <string name="pp_permission_action_virtual_detail">Dodelite dovoljenja, vendar aplikacijam namesto osebnih podatkov dajte prazne datoteke</string>
+     <string name="pp_permission_settings">Dovoljenja</string>
+     <string name="pp_privacy_protection">Zaščita</string>
+     <string name="pp_privacy_protection_function">Storitve zaščite zasebnosti</string>
+     <string name="pp_privacy_risk_detection">Odkrij tveganja glede zasebnosti</string>
+     <string name="pp_privacy_risk_detection_detail">Samodejno zaznajte tveganja za zasebnost in prejmite priporočila o zaščitnih ukrepih</string>
+     <string name="pp_privacy_safe_box">Zasebni prostor</string>
+     <string name="pp_private_file_dir">Zasebne datoteke</string>
+     <string name="pp_private_file_dir_detail">Šifriraj in zaščiti stvari z zaklepanjem zaslona</string>
+     <string name="pp_private_photo_album">Zasebne fotografije in videoposnetki</string>
+     <string name="pp_private_photo_album_detail">Šifrirajte in zaščitite stvari z zaklepanjem zaslona</string>
+     <string name="pp_prohibit_use_camera_in_background">Omeji uporabo kamere v ozadju</string>
+     <string name="pp_prohibit_use_camera_in_background_detail">"Aplikacije privzeto ne bodo mogle uporabljati kamere v ozadju"</string>
+     <string name="pp_record_msg">Snemanje zvoka</string>
+     <string name="pp_safe_box">Zasebni prostor</string>
+     <string name="pp_safe_box_detail">Za zaščito vaše zasebnosti vam MIUI omogoča nadzor dostopa aplikacij do vaših fotografij in zgodovine klepetov v družabnih omrežjih.</string>
+     <string name="pp_safe_box_summary">Zaščita zasebnosti</string>
+     <string name="pp_safe_input_pwd">Zaščitite svoja gesla</string>
+     <string name="pp_safe_keyboard">Varna tipkovnica</string>
+     <string name="pp_safe_save_pwd_and_account">Gesla shranjujte v varnem okolju</string>
+     <string name="pp_safe_share_img_detail">Skupna raba fotografij brez informacij o lokaciji in metapodatkov</string>
+     <string name="pp_smart_manager_pwd">Gesla</string>
+     <string name="pp_special_permission_settings">Posebna dovoljenja</string>
+     <string name="pp_special_permission_settings_detail">Nadzirajte, kako aplikacije uporabljajo posebna dovoljenja</string>
+     <string name="pp_storage_msg">Shramba</string>
+     <string name="pp_understanding_privacy">Ozaveščenost</string>
+     <string name="pp_virtual_identity_manager">Virtualna ID</string>
   <string name="pref_about">O aplikaciji</string>
   <string name="pref_about_traffic_title">Nastavitve porabe podatkov</string>
   <string name="pref_add_traffic_pkg">Dodatno kupljeni podatki</string>
@@ -3224,6 +3360,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_dialog_call_title">Zaščitite klice</string>
   <string name="privacy_dialog_camera_message">"Za zaščito vaše zasebnosti MIUI ne dovoljuje aplikacijam, da uporabljajo vašo kamero v ozadju."</string>
   <string name="privacy_dialog_camera_title">Omeji uporabo kamere v ozadju</string>
+     <string name="privacy_dialog_content_part1">Dobrodošli v Varnost! Ta aplikacija preverja, ali so v vaši napravi smeti in virusi, omogoča pa tudi upravljanje aplikacij, nadzor nad porabo mobilnih podatkov, blokiranje klicev in sporočil ter drugo.</string>
+     <string name="privacy_dialog_content_part2"><Data>Varnost mora zbrati potrebne osebne podatke, da vam nudi svoje storitve in lahko izboljša svoje funkcije. Naučite se, kako ravnamo s podatki, ki jih zbiramo v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. V nastavitvah lahko kadarkoli prekličete soglasje za Pravila o zasebnosti.</Data></string>
+     <string name="privacy_dialog_content_part3"><Data>"Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> pred uporabo aplikacije. Če se ne strinjate z uporabo zgoraj omenjenih storitev, nekaterih funkcij te aplikacije ne boste mogli uporabljati; vendar vam bo osnovna funkcionalnost še vedno na voljo."</Data></string>
   <string name="privacy_dialog_danger_mission_message">Android ima več dovoljenj z visokim tveganjem (npr. Dovoljenje za potisno obveščanje). Za zaščito vaše zasebnosti vas bo MIUI vprašal, če dopuščate takšno vedenje in določite omejitve.</string>
   <string name="privacy_dialog_danger_mission_title">Dovoljenja visokega tveganja</string>
   <string name="privacy_dialog_feedback">Povratna inf.</string>
@@ -3231,6 +3370,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_dialog_ok">Razumem</string>
   <string name="privacy_dialog_ok_with_num">Razumem (%ss)</string>
   <string name="privacy_dialog_open">Vključi</string>
+     <string name="privacy_dialog_revoking">Preklic soglasja…</string>
+     <string name="privacy_dialog_title">Pogoji in pravila</string>
   <string name="privacy_empty_call">"Danes ni dostopal/a do zgodovine klicev"</string>
   <string name="privacy_empty_contact">"Danes ni dostopal/a do stikov"</string>
   <string name="privacy_empty_location">"Danes ni dostopal/a do lokacije"</string>
@@ -3285,6 +3426,70 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_provision_summary">Zaščita zasebnosti je obveza dizajna naših proizvodov</string>
   <string name="privacy_provision_text">Zavzemamo se za spoštovanje in varovanje vaše zasebnosti. Prednostno raziskovanje in razvoj na področju informacijske varnosti Xiaomi nenehno dela za izboljšanje metod, praks in tehničnih rešitev, ki varujejo vaše podatke. S partnerji delimo tudi najnovejša dogajanja, da zagotovimo vašo zasebnost.</string>
   <string name="privacy_provision_title">Zasebnost</string>
+     <string name="privacy_revoke_dialog_content">Z izklopom stikala umaknete soglasje k Varnostni politiki zasebnosti. Nehali bomo zbirati vaše osebne podatke. Že zbrani in hranjeni osebni podatki bodo izbrisani v določenem roku, kot to zahteva veljavna zakonodaja. Varnost mora zbrati potrebne osebne podatke za zagotavljanje osnovnih storitev. Vaš umik soglasja z njegovo politiko zasebnosti bo zavrnjen kot sprejem nobenih storitev na podlagi zbranih osebnih podatkov.</string>
+     <string name="privacy_revoke_dialog_negetive_text">Prekliči</string>
+     <string name="privacy_revoke_dialog_positive_text">Umakni</string>
+     <string name="privacy_revoke_dialog_title">Preklic soglasja</string>
+     <string name="privacy_risk_app">Tvegane aplikacije</string>
+     <string name="privacy_risk_app_fuzzy">Aplikacije brez zamegljenih predogledov</string>
+     <string name="privacy_risk_dangerous_bar_title">Dovoljenja z visokim tveganjem</string>
+     <string name="privacy_risk_dangerous_manager">Kontrolna naprava</string>
+     <string name="privacy_risk_dangerous_manager_msg">Dovoli aplikacijam, da delno nadzorujejo tvojo napravo</string>
+     <string name="privacy_risk_dangerous_msg">Aplikacije lahko ta dovoljenja uporabljajo za ogrožanje vaše zasebnosti</string>
+     <string name="privacy_risk_dangerous_notice">Branje in upravljanje obvestil</string>
+     <string name="privacy_risk_dangerous_notice_msg">Dovoli aplikacijam branje in upravljanje obvestil</string>
+     <string name="privacy_risk_dangerous_permissions">Dovoljenja z visokim tveganjem</string>
+     <string name="privacy_risk_dangerous_permissions_msg">"Če želite zaščititi svojo zasebnost in preprečiti izpostavljenost občutljivih podatkov, dovoljenja z visokim tveganjem podelite le kadar je to potrebno."</string>
+     <string name="privacy_risk_dangerous_title">"Dovolili ste dovoljenja z visokim tveganjem"</string>
+     <string name="privacy_risk_dangerous_top_tip">"Če želite zaščititi svojo zasebnost in preprečiti izpostavljenost občutljivih podatkov, dovoljenja z visokim tveganjem podelite le kadar je to potrebno."</string>
+     <string name="privacy_risk_dangerous_usage">Sledenje dejavnosti naprave</string>
+     <string name="privacy_risk_dangerous_usage_msg">Dovoli aplikacijam sledenje dejavnosti v napravi</string>
+     <string name="privacy_risk_detection_continue">Nadaljuj</string>
+     <string name="privacy_risk_detection_stop">Ustavi</string>
+     <string name="privacy_risk_detection_stop_btn">Ustavi</string>
+     <string name="privacy_risk_detection_stop_msg">Če zdaj ustavite iskanje nekaterih tveganj glede zasebnosti morda ne boste zaznali. Vseeno preneham pregled?</string>
+     <string name="privacy_risk_detection_stop_title">Ustavi</string>
+     <string name="privacy_risk_detection_title">Odkrivanje tveganj glede zasebnosti</string>
+     <string name="privacy_risk_detection_user">Osebne informacije</string>
+     <string name="privacy_risk_install_app">Nezanesljive aplikacije</string>
+     <string name="privacy_risk_photo_delete">Fotografije bodo morda izbrisane brez vašega dovoljenja</string>
+     <string name="privacy_risk_photo_location">Fotografije z informacijami o lokaciji</string>
+     <string name="privacy_risk_photo_location_msg">"Omeji dostop do galerije, kadar to ni potrebno"</string>
+     <string name="privacy_risk_photo_msg">Fotografije z občutljivimi informacijami</string>
+     <string name="privacy_risk_result_cancel_msg">"Pregleda ni bilo mogoče končati. Nadaljujte, da boste dobili rezultate."</string>
+     <string name="privacy_risk_result_detection_continue">Nadaljuj</string>
+     <string name="privacy_risk_result_file_btn">Uredi</string>
+     <string name="privacy_risk_result_file_tip">Napravi pomembne datoteke zasebne</string>
+     <string name="privacy_risk_result_ignore_btn">Ignoriraj</string>
+     <string name="privacy_risk_result_item_safe">Tveganja niso zaznana</string>
+     <string name="privacy_risk_result_open_btn">Vključi</string>
+     <string name="privacy_risk_result_photo_delete">Prejemajte obvestila o izbrisanih fotografijah</string>
+     <string name="privacy_risk_result_photo_delete_msg">Prejemajte obvestila, ko aplikacije izbrišejo stvari iz galerije brez vašega dovoljenja</string>
+     <string name="privacy_risk_result_photo_sensitive">Vaše fotografije vsebujejo zasebne podatke</string>
+     <string name="privacy_risk_result_protection">Zaščita zasebnosti</string>
+     <string name="privacy_risk_result_screen_fuzzy">Zameglitev predogledov aplikacij</string>
+     <string name="privacy_risk_result_screen_fuzzy_msg">BZameglite predogled občutljivih aplikacij, ki so prikazane v nedavnem</string>
+     <string name="privacy_risk_result_set_btn">Nastavitve</string>
+     <string name="privacy_risk_result_success_empty_msg">Vse je v redu!</string>
+     <string name="privacy_risk_result_success_msg">Odpravili smo vse težave. UAU!</string>
+     <string name="privacy_risk_result_uninstall_btn">Odstrani</string>
+     <string name="privacy_risk_sensitive">Občutljiva dovoljenja</string>
+     <string name="privacy_risk_sensitive_bar_title">Občutljiva dovoljenja</string>
+     <string name="privacy_risk_sensitive_call_records">Dovolite aplikacijam dostop do zgodovine klicev</string>
+     <string name="privacy_risk_sensitive_contact">Dovolite aplikacijam dostop ali urejanje stikov</string>
+     <string name="privacy_risk_sensitive_location">Dovolite aplikacijam, da poiščejo vašo napravo prek razpoložljivih omrežij ali satelitov</string>
+     <string name="privacy_risk_sensitive_permissions">Občutljiva dovoljenja</string>
+     <string name="privacy_risk_sensitive_permissions_msg">"Če želite zaščititi svojo zasebnost, občutljiva dovoljenja podelite le, kadar je to potrebno."</string>
+     <string name="privacy_risk_sensitive_record">Dovolite aplikacijam snemanje zvoka ali klicev</string>
+     <string name="privacy_risk_sensitive_second_msg">Aplikacije lahko ta dovoljenja uporabljajo za dostop do vaših osebnih podatkov</string>
+     <string name="privacy_risk_sensitive_second_title">"Dali ste občutljiva dovoljenja"</string>
+     <string name="privacy_risk_sensitive_storage">Dovolite aplikacijam dostop do datotek ali njihovo shranjevanje</string>
+     <string name="privacy_risk_sensitive_top_tip">"Če želite zaščititi svojo zasebnost, občutljiva dovoljenja podelite le, kadar je to potrebno."</string>
+     <string name="privacy_risk_space_uninstall_dialog_msg">Odstranim izbrane aplikacije, vključno z njihovimi dvojnimi aplikacijami？</string>
+     <string name="privacy_risk_uninstall_dialog_msg">Odstranim izbrane aplikacije?</string>
+     <string name="privacy_risk_uninstall_dialog_title">V redu</string>
+     <string name="privacy_risk_uninstall_title">Odstranim aplikacije</string>
+     <string name="privacy_risk_work_encryption">"Družabna omrežja in pisarniške datoteke niso zaščitene"</string>
   <string name="privacy_search_key_1">Zasebnost</string>
   <string name="privacy_search_key_10">ID naprave</string>
   <string name="privacy_search_key_2">Omrežno prestrezanje</string>
@@ -3511,6 +3716,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="securityadd_update_tips_now">Posodobi</string>
   <string name="securityadd_update_tips_title">Posodobi</string>
   <string name="securitycenter_tab_title">Varnost</string>
+     <string name="see_all_app_behavior_record">Pokaži vse vedenja aplikacij</string>
   <string name="see_detail">Podrobnosti</string>
   <string name="see_more">Več</string>
   <string name="see_more_content">Posodobite igre da boste videli več</string>
@@ -3543,6 +3749,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="settings_image_camera_summary">Model naprave, metapodatki itd.</string>
   <string name="settings_location_subtitle_no">Ni informacij o lokaciji</string>
   <string name="settings_power_save_ontime_title">Razpored</string>
+     <string name="settings_privacy_revoke_desc">Z izklopom stikala umaknete soglasje k Pravili o zasebnosti Varnosti.</string>
+     <string name="settings_privacy_revoke_title">Preklic soglasja</string>
   <string name="settings_share_enable_summary">Stvari, ki jih delite na WeChatu, bodo prikazane z značko MIUI</string>
   <string name="settings_share_info">Tu so na voljo varne možnosti skupne rabe elementov, ki jih daste v skupno rabo iz Galerije in Raziskovalca:</string>
   <string name="settings_show_detail">Pokaži podrobnosti</string>
@@ -3570,6 +3778,10 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="signal_exception_none_4g_5g_network">"Uporabljate 2G/3G mobilno omrežje. Hitrost povezave je najbrž majhna."</string>
   <string name="signal_exception_summary">"Ne morem se povezati v omrežje na tem področju."</string>
   <string name="signal_exception_title">Test moči signala</string>
+     <string name="signed_rule">Pravila</string>
+     <string name="signed_rule_one">1. Vsak mesec se prijavite 10, 20 ali 28 dni zapored, da dobite Xunyou povečanje za 1, 2 ali 3 dni.</string>
+     <string name="signed_rule_three">"3. Dnevi ob prijavi se na začetku vsakega meseca razveljavijo. Preostali dnevi se ne prevrnejo."</string>
+     <string name="signed_rule_two">2. Na mesec lahko dobite le 1 Xunyou povečanje.</string>
   <string name="sim_location_diagnostic">Diagnostika lokacije</string>
   <string name="sim_location_error_dialog_message">"SIM kartica ki jo uporabljate je iz %1$s. To se razlikuje od lokacije ki ste jo nastavili ročno (%2$s). Spremenim lokacijo SIM kartice na %3$s?"</string>
   <string name="sim_location_error_notify_message">Tapnite za spremembo lokacije SIM-a.</string>
@@ -3835,6 +4047,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="storage_app_uninstall_app_dialog_title">Odstranjevanje aplikacije</string>
   <string name="storage_available_total_size">Na voljo %1$s od %2$s</string>
   <string name="storage_available_total_size1">Zasedeno: %1$s | Skupaj: %2$s</string>
+     <string name="storage_category_title">Dodatne možnosti</string>
   <string name="storage_deepclean_entry">Globinsko čiščenje</string>
   <string name="storage_dialog_unmountable">"Ta ^1 je poškodovan.
 
@@ -3984,7 +4197,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="system_permission_declare_analytics_declare">"Zahvaljujemo se vam za vključitev v program uporabniških izkušenj. Za normalno delo morate biti povezani na splet. Dati morate tudi naslednja dovoljenja da omogočite zbiranje podatkov ki nam bodo pomagali izboljšati naše izdelke in storitve. Ti podatki se zbirajo samo v statistične namene. Te podatov ne moremo uporabiti za osebno prepoznavo.
 "</string>
   <string name="system_permission_declare_disagree">Ne strinjam se</string>
-  <string name="system_permission_declare_double_link">Preberite in se strinjajte z Pogoji uporabe in Pravila o zasebnosti pred uporabo.</string>
+  <string name="system_permission_declare_double_link"><Data>Preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>.</Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli v %1s! Ta storitev vam omogoča uporabo naslednjega: %2s.</string>
   <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;Ob istem času, za popolno razumevanje vaših pravic kot uporabnika in tega, kako uporabljamo vaše podatke, preberite in sprejmite naše &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;Ob istem času, za popolno razumevanje vaših pravic kot uporabnika in tega, kako uporabljamo vaše podatke, preberite in sprejmite naše &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
@@ -4534,7 +4747,21 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="warningcenter_alert_source">MIUI Center za opozarjanje | Vir podatkov: %s</string>
   <string name="warningcenter_alert_time">Čas</string>
   <string name="warningcenter_alert_warning_time">Čas prejema: %s</string>
+     <string name="warningcenter_disaster_all">Vsa opozorila</string>
+     <string name="warningcenter_disaster_area_search_hint">Vnesite regijo</string>
+     <string name="warningcenter_disaster_area_select">Izbrane regije</string>
+     <string name="warningcenter_disaster_area_suggest">Priporočene regije</string>
+     <string name="warningcenter_disaster_area_title">Prizadeto območje</string>
+     <string name="warningcenter_disaster_detail_suggest">Priporočamo, da vklopite prednostna opozorila</string>
+     <string name="warningcenter_disaster_detail_title">Podrobnosti</string>
+     <string name="warningcenter_disaster_guide_title">Varnostne smernice</string>
+     <string name="warningcenter_disaster_icon_title">Demo opozorilo</string>
   <string name="warningcenter_disaster_search_keywords">Opozorila vremena</string>
+     <string name="warningcenter_disaster_title">Opozorila katastrof</string>
+     <string name="warningcenter_disaster_type_all">Vse vrste</string>
+     <string name="warningcenter_disaster_type_cancel">Preklicano</string>
+     <string name="warningcenter_disaster_type_first">Novo</string>
+     <string name="warningcenter_disaster_type_update">Posodobljeno</string>
   <string name="warningcenter_earthquake_info">Zgodnja opozorila o potresu</string>
   <string name="warningcenter_mijia_alert_close">Zapri</string>
   <string name="warningcenter_mijia_alert_settings">Zamenjajte nastavitve v Varnost &gt; Opozorila pametnih hišnih naprav</string>
@@ -4588,6 +4815,7 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="write_clipboard_tip_content">To dovoljenje aplikacijam omogoča shranjevanje stvari v odložišče. Neželena sporočila lahko vplivajo na običajno uporabo odložišča</string>
   <string name="write_clipboard_tip_title">Shranjevanje stvari v odložišče</string>
   <string name="wrong_password">Napačno geslo</string>
+     <string name="xiaomi_privacy_protection_measures">Ukrepi za zaščito zasebnosti</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Kupite še</string>
   <string name="xiaomi_traffic_pass_dialog_warning_title">Obvestila Mi Data plana</string>
   <string name="xiaomi_traffic_pass_exhausted">"Ni dostopnih mobilnih podatkovna vašem Mi Data načrtu. Prestavljeno na načrt podatkov vašega mobilnega operaterja."</string>
@@ -4616,4 +4844,5 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="xunyou_net_booster_detail">Uporabi Xunyou storitev povečanja hitrosti za igranje</string>
   <string name="xunyou_pay_webview">Xunyou storitve</string>
   <string name="xunyou_server_expired">Seja je potekla.</string>
+     <string name="yuan">CNY</string>
 </resources>

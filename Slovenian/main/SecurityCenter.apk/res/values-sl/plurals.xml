@@ -240,7 +240,7 @@
          <item quantity="one">Aplikacija: %d</item>
      </plurals>
 	 <plurals name="bg_network_allow_count">
-         <item quantity="other">%d aplikacij se lahko v ozadju povežejo na omrežje</item>
+         <item quantity="other">%d aplikacij se lahko v ozadju poveže na omrežje</item>
          <item quantity="one">%d aplikacija se lahko v ozadju poveže na omrežje</item>
      </plurals>
      <plurals name="bg_network_restrict_count">
@@ -724,4 +724,82 @@
         <item quantity="other">Prijavljeno %d dni zapored</item>
         <item quantity="one">Prijavljeno %d krat</item>
 	</plurals>
+     <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">"Ne morem dobiti %d-dnevni brezplačni preizkus"</item>
+        <item quantity="one">"Ne morem dobiti %d-dnevni brezplačni preizkus"</item>
+     </plurals>
+     <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">Dobljen %d-dnevni brezplačni preizkus</item>
+        <item quantity="one">Dobljen %d-dnevni brezplačni preizkus</item>
+     </plurals>
+     <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Dobite %d-dnevni brezplačni preizkus</item>
+        <item quantity="one">Dobite %d-dnevni brezplačni preizkus</item>
+     </plurals>
+     <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Naročnina je potekla.
+Dobite %d-dnevni brezplačni preizkus!"</item>
+        <item quantity="one">"Naročnina je potekla.
+Dobite %d-dnevni brezplačni preizkus!"</item>
+     </plurals>
+     <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Dobite %d-dnevni brezplačni preizkus</item>
+        <item quantity="one">Dobite %d-dnevni brezplačni preizkus</item>
+     </plurals>
+     <plurals name="image_protect_del_tips">
+        <item quantity="other">Trajno izbrišem %d slik?</item>
+        <item quantity="one">Trajno izbrišem %d sliko?</item>
+     </plurals>
+     <plurals name="image_protect_exit_del_tips">
+        <item quantity="other">%d slik bo trajno izbrisano, ko zapustite to stran. Vseeno izbrišem?</item>
+        <item quantity="one">%d slika bo trajno izbrisana, ko zapustite to stran. Vseeno izbrišem?</item>
+     </plurals>
+     <plurals name="image_protect_try_del_tips">
+        <item quantity="other">Izbriši %d slik</item>
+        <item quantity="one">Izbriši %d sliko</item>
+     </plurals>
+     <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d aplikacij</item>
+        <item quantity="one">%d aplikacija</item>
+     </plurals>
+     <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d danih dovoljenj z visokim tveganjem</item>
+        <item quantity="one">%d dano dovoljenje z visokim tveganjem</item>
+     </plurals>
+     <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d najdenih nevarnih aplikacij</item>
+        <item quantity="one">%d najdena nevarna aplikacija</item>
+     </plurals>
+     <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">%d najdenih tveganj razkritja lokacije</item>
+        <item quantity="one">%d najdeno tveganje razkritja lokacije</item>
+     </plurals>
+     <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d najdenih tveganj</item>
+        <item quantity="one">%d najdeno tveganje</item>
+     </plurals>
+     <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d najdenih možnih tveganj</item>
+        <item quantity="one">%d najdeno možno tveganje</item>
+     </plurals>
+     <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d fotografij lahko vsebuje zasebne ali občutljive informacije</item>
+        <item quantity="one">%d fotografija lahko vsebuje zasebne ali občutljive informacije</item>
+     </plurals>
+     <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d izključenih varnostnih storitev</item>
+        <item quantity="one">%d izključena varnostna storitev</item>
+     </plurals>
+     <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d danih občutljivih dovoljenj</item>
+        <item quantity="one">%d dano občutljivo dovoljenje</item>
+     </plurals>
+     <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Odstrani %d aplikacij</item>
+        <item quantity="one">Odstrani %d aplikacijo</item>
+     </plurals>
+     <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d stvari potrebuje posebno zaščito</item>
+        <item quantity="one">%d stvar potrebuje posebno zaščito</item>
+     </plurals>
 </resources>
