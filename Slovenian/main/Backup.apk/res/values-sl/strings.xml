@@ -108,8 +108,10 @@ nastavitev in aplikacij"</string>
   <string name="click_soft_ap_to_link">Izberite hotspot za povezovanje</string>
   <string name="click_to_view">Dotaknite se za pregled</string>
   <string name="close_twice_auth_btn">Izključite autorizacijo z dvema faktorjema</string>
-  <string name="close_twice_auth_note">"Beležka:\nKo napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dvojne avtentifikacije izključeno. Če ne vidite opcije izključitve dvojne prveerbe avtentičnosti na strani računa Apple ID, je ne morete izključiti."</string>
-  <string name="close_twice_auth_operation">"Spletna stran:\nhttps://appleid.apple.com/#!&amp;page=signin da zaprete"</string>
+     <string name="close_twice_auth_note">"Beležka:
+Ko napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dvojne avtentifikacije izključeno. Če ne vidite opcije izključitve dvojne prveerbe avtentičnosti na strani računa Apple ID, je ne morete izključiti."</string>
+     <string name="close_twice_auth_operation">"Spletna stran:
+https://appleid.apple.com/#!&amp;page=signin da zaprete"</string>
   <string name="close_twice_auth_step_1">1. Odprite brskalnik na računalniku in pojdite na appleid.apple.com.</string>
   <string name="close_twice_auth_step_2">2. Prijavite se na Apple ID za katerega želite onemogočiti avtorizacijo z dvema faktorjema, pojdite na poglavje \"Varnost\" v nastavitvah računa in izberite \"Uredi\"</string>
   <string name="close_twice_auth_step_3">3. Kliknite \"Izključi avtorizacijo z dvemaa faktorjema\". Kliknite ponovno za potrditev.</string>
@@ -226,9 +228,11 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="hsa_send_again_countdown">Pošlji ponovno (%ds)</string>
   <string name="hsa_send_failed">Pošiljanje kontrolne kode ni uspelo. Poskusite ponovno kasneje.</string>
   <string name="hsa_sending">Pošiljanje…</string>
-  <string name="hsa_tip_message">"1. Če ne morete dobiti kontrolne kode preverite ali ste že prijavljeni v iCloud na vaši Apple napravi.\r\n2. Če vnos kontrolne kode ne pomaga izključite dvostopenjsko preverjanje."</string>
+     <string name="hsa_tip_message">"1. Če ne morete dobiti kontrolne kode preverite ali ste že prijavljeni v iCloud na vaši Apple napravi.\r
+2. Če vnos kontrolne kode ne pomaga izključite dvostopenjsko preverjanje."</string>
   <string name="hsa_tip_message_shutdown_hsa">Kako izključiti avtorizacijo z dvema faktorjema</string>
-  <string name="hsa_tip_message_with_device">"1.Sporočilo ki vsebuje kontrolno kodo je poslano na telefon "%s" povezan z vašim Apple ID.\r\n2. Izključite dvostopenjsko preverjanje če ne uspete potrditi."</string>
+     <string name="hsa_tip_message_with_device">"1.Sporočilo ki vsebuje kontrolno kodo je poslano na telefon "%s" povezan z vašim Apple ID.\r
+2. Izključite dvostopenjsko preverjanje če ne uspete potrditi."</string>
   <string name="hsa_tip_title">Nasveti:</string>
   <string name="hsa_title">Avtorizacija z dvema faktorjema</string>
   <string name="hsa_verify_failed">Avtorizacija z dvema faktorjema ni uspela</string>
@@ -237,7 +241,9 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="hsa_verify_shutdown">Izključi</string>
   <string name="iCloud_ID_verification_tip">"Tapnite \"Dovoli\" na vaši Apple napravi da se pojavi kontrolna koda. Tukaj jo vnesite."</string>
   <string name="icloud_backup_tip">Prijavite se v iCloud račun iz stare Apple naprave</string>
-  <string name="icloud_how_to_backup_tip_steps">"1. Odprite Nastavitve v svoji iOS napravi, nato izberite iCloud.\r\n2.Vključite spremembo za stike in druge stvari.\r\n3.Izberite Fotografije in vključite knjižnico fotografij v iCloudu."</string>
+     <string name="icloud_how_to_backup_tip_steps">"1. Odprite Nastavitve v svoji iOS napravi, nato izberite iCloud.\r
+2.Vključite spremembo za stike in druge stvari.\r
+3.Izberite Fotografije in vključite knjižnico fotografij v iCloudu."</string>
   <string name="icloud_how_to_backup_tip_summary">Da boste uvozili podatke iz iOS-a, morate napraviti iCloud var. kopijo.</string>
   <string name="icloud_how_to_backup_tip_title">Nasveti:</string>
   <string name="icloud_login_title">Prijavi se v iCloud</string>
@@ -448,7 +454,8 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="retry">Poskusite znova</string>
   <string name="reverse_all">Prekliči izbrano</string>
   <string name="router_backup_hint">Ne ugasnite naprave</string>
-  <string name="save_finish_with_failing_items">"Prenos je prekinjen.\r\nPodatki ki niso uvoženi bodo morali biti ponovno uvoženi."</string>
+     <string name="save_finish_with_failing_items">"Prenos je prekinjen.\r
+Podatki ki niso uvoženi bodo morali biti ponovno uvoženi."</string>
   <string name="saving_data">"Uvoz podatkov iz iClouda…
  Ne izključite WiFi"</string>
   <string name="saving_data_no_time">Vračanje podatkov</string>
@@ -694,7 +701,7 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_security_tips_message">"Nekatere aplikacije ne podpirajo Mi Mover."</string>
   <string name="trans_security_tips_title">Mi Mover kompatibilnost</string>
   <string name="trans_select_data">Izberite podatke</string>
-  <string name="trans_select_data_no_space">"Premalo prostora na novi napravi.
+  <string name="trans_select_data_no_space">"Premalo prostora na novi napravi (%s na voljo).
  Prenesite samo važne datoteke  ali osvobodite prostor"</string>
   <string name="trans_select_data_tips">"Izberite datoteke za prenos.
  Podobne datoteke na novi napravi bodo presnete.

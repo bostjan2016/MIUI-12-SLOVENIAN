@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ErrorTooManyRequests">Preveč zahtev. Poskusite kasneje.</string>
+     <string name="a2dp_sink_mbs_label">Bluetooth Avdio</string>
   <string name="ack_record">Ack zapis</string>
   <string name="airplane_can_not_share">"Pri Načinu za letalo ne morete deliti z Bluetoothom"</string>
   <string name="airplane_error_msg">Uporaba Bluetootha v Načinu za letalo ni mogoča.</string>
@@ -9,6 +10,7 @@
   <string name="auth_notif_message">Vpiši šifro seje za %1$s</string>
   <string name="auth_notif_ticker">Obex zahteva za avtentikacijo</string>
   <string name="auth_notif_title">Zvezni ključ</string>
+     <string name="avrcp_cover_art_default_image_type">slika</string>
   <string name="ble_device_address">Bluetooth Smart naprava MAC</string>
   <string name="ble_device_profile">Profil Bluetooth naprave</string>
   <string name="ble_device_profile_header_title">Nastavitve</string>
@@ -66,6 +68,7 @@
     <string name="bt_toast_5">Pošiljanje %1$s datotek prejemniku »%2$s«</string>
     <string name="bt_toast_6">Pošiljanje datoteke prejemniku »%1$s« je ustavljeno</string>
   <string name="btopp_live_folder">Bluetooth prejet</string>
+     <string name="defaultname">Avtomobilski komplet</string>
   <string name="deleteAll_record">Izbriši vse zapise</string>
   <string name="delete_record">Izbriši zapise</string>
   <string name="device_picker">Nastavitve Bluetooth naprav</string>

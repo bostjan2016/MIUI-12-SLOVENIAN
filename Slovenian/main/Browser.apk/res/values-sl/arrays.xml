@@ -144,5 +144,24 @@
 	<string-array name="quick_link_tabs">
        <item>Oznake</item>
        <item>Zgodovina</item>
-    </string-array>	   
+    </string-array>
+ <string-array name="pref_fling_gesture_values">
+        <item>hitro nazaj</item>
+        <item>zamenjaj zavihke</item>
+        <item>nič</item>
+	</string-array>
+ <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Namizje</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+     </string-array>
+     <string-array name="readmode_theme_background_color">
+        <item>bela</item>
+        <item>bež</item>
+        <item>rjava</item>
+        <item>zelena</item>
+        <item>siva</item>
+        <item>črna</item>
+     </string-array>
 </resources>
