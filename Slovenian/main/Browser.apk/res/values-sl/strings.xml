@@ -1114,6 +1114,10 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobilni podatki) Preverite %s1 APN nastavitve %s2.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_url">"Preverite vnešeni URL."</string>
   <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) Preverite %s1 nastavitve proxyja %s2.</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Izbriši predspomin (%s1Nastavitve%s2 - Izbriši podatke).</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Izbriši predspomin in piškote (%s1Nastavitve%s2 - Izbriši podatke, podatki o vašem računu se lahko izgubijo).</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Izbriši predspomin in piškote (podatki o vašem računu se lahko izgubijo).</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Izbriši predspomin.</string>
   <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Po povezavi na splet ponovno naloži</string>
   <string name="mw_miuichromium_error_page_suggestion_contact_admin">Obrnite se na skrbnika naprave.</string>
   <string name="mw_miuichromium_error_page_suggestion_correct_url">"Preverite vnešeni naslov in poskusite ponovno z pravilnim naslovom."</string>
@@ -1675,14 +1679,8 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="short_video_net_dialog_title">"Uporabljate mobilne podatke. Uporaba lahko povzroči dodatne stroške operaterja."</string>
   <string name="short_video_network_error">"Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="short_video_tip">Poglej! Zabavni videoposnetek</string>
-    <string name="show_check_security_url_check_tip_dialog_description">"Vaše osebne podatke bomo zbrali in uporabili, če se odločite za uporabo naših storitev.
-Tu so podatki, ki jih bomo zbrali:
-1. Varni URL-ji: zbrali bomo URL-je spletnih mest, ki jih obiščete med uporabo naših storitev.
-2. Podatki o lokaciji: dostopali bomo do vaših lokacijskih podatkov.
-Tako uporabljamo podatke, ki jih zberemo:
-1. Varnost: vaše podatke uporabljamo, ko zaščitimo napravo pred goljufijami in virusi, pa tudi zaradi shranjevanja in varnostnih kopij.
-2. Vsebina: Vaši podatki nam pomagajo pri zagotavljanju ustrezne lokalizirane vsebine novic.
-Brskalnik se mora normalno povezati z spletom. Strinjati se morate z %2$s in %1$s za uporabo aplikacije.​"</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Brskalnik se mora normalno povezati s spletom. Za izboljšanje varnosti in prejemanje ustreznih priporočil omogočite brskalniku, da pridobi povezave do spletnih mest, ki jih obiščete, in dostopa do informacij o vaši lokaciji.</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Brskalnik se mora normalno povezati s spletom. Če želite prejemati ustrezna priporočila, dovolite brskalniku, da dobi povezave do spletnih mest, ki jih obiščete, in dostopa do informacij o vaši lokaciji.</string>
   <string name="show_security_tip_dialog_title">Pogoji uporabe</string>
   <string name="show_weather_location_getter_tip_dialog_description">Servisi napovedi potrebujejo informacije o lokaciji da vam ponudijo najnovejše informacije o vremenu v brskalniku. Dovolite to opravilo.</string>
   <string name="sign_and_open">Prijavi se in vključi</string>
