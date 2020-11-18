@@ -860,18 +860,6 @@ za fotografije"</string>
   <string name="filter_movie_travel">Potovanje</string>
   <string name="filter_movie_wonderful">Čudež</string>
   <string name="filter_original">Nič</string>
-  <string name="filter_popular_autumn">Jesn</string>
-  <string name="filter_popular_bluedream">Dremanje</string>
-  <string name="filter_popular_coffee">Kava</string>
-  <string name="filter_popular_coldsmoke">Cool mist</string>
-  <string name="filter_popular_comic">Anime</string>
-  <string name="filter_popular_dream">Sanjarenje</string>
-  <string name="filter_popular_hill">Hribi</string>
-  <string name="filter_popular_humanity">Dokumentarec</string>
-  <string name="filter_popular_kamakura">Kamakura</string>
-  <string name="filter_popular_lnk">Črnilo</string>
-  <string name="filter_popular_purple">Vijola</string>
-  <string name="filter_portrait_greyish">Pepel</string>
   <string name="filter_people_bw">B&amp;W</string>
   <string name="filter_people_fairytale">Otroci</string>
   <string name="filter_people_heart">Čustva</string>
@@ -886,6 +874,18 @@ za fotografije"</string>
   <string name="filter_people_sepia">Sepia</string>
   <string name="filter_people_story">Zgodba</string>
   <string name="filter_people_tea">Čaj</string>
+     <string name="filter_popular_autumn">Jesen</string>
+     <string name="filter_popular_bluedream">Dremanje</string>
+     <string name="filter_popular_coffee">Kava</string>
+     <string name="filter_popular_coldsmoke">Cool mist</string>
+     <string name="filter_popular_comic">Anime</string>
+     <string name="filter_popular_dream">Sanjarenje</string>
+     <string name="filter_popular_hill">Hribi</string>
+     <string name="filter_popular_humanity">Dokumentarec</string>
+     <string name="filter_popular_kamakura">Kamakura</string>
+     <string name="filter_popular_lnk">Črnilo</string>
+     <string name="filter_popular_purple">Vijola</string>
+     <string name="filter_portrait_greyish">Pepel</string>
   <string name="filter_portrait_hint">Fokus v barvi</string>
   <string name="filter_portrait_mist">Meglica</string>
   <string name="filter_portrait_painting">Barvanje</string>
@@ -945,9 +945,9 @@ za fotografije"</string>
   <string name="filter_sky_xinghe">Galaxy</string>
   <string name="filter_sky_xingji">Zvezdne skladbe</string>
   <string name="filter_sky_xizhao">Aurora</string>
-  <string name="filter_sky_yingxia">Jutro</string>
   <string name="filter_sky_xuanguang">Borealis</string>
   <string name="filter_sky_xuanyue">Crescent</string>
+     <string name="filter_sky_yingxia">Jutro</string>
   <string name="filter_sky_yingyue">Polna luna</string>
   <string name="filter_sky_yinhe">Mlečna cesta</string>
   <string name="filter_sky_yuhui">Bleščeča svetloba</string>
@@ -1034,7 +1034,9 @@ za fotografije"</string>
   <string name="gigabyteShort">GB</string>
   <string name="grain">Zrnatost filma</string>
   <string name="grant_permission_go_and_set">Nastavi</string>
-  <string name="grant_permission_text">"Galerija za normalno delo potrebuje dostop do \n%s\n za delovanje, pritisni \"Nastavi\" za dostop do dovoljenj."</string>
+     <string name="grant_permission_text">"Galerija za normalno delo potrebuje dostop do 
+%s
+ za delovanje, pritisni \"Nastavi\" za dostop do dovoljenj."</string>
   <string name="grant_permission_title">Dovoli dostop</string>
   <string name="grant_permission_unlock_and_set">Odkleni in nastavi</string>
   <string name="grayscale">Toni sive</string>
@@ -1336,8 +1338,8 @@ za fotografije"</string>
   <string name="need_to_turn_on_wlan">Povežite se na WiFi</string>
   <string name="negative">Negativ</string>
   <string name="network_connected_rescan">"Ne morem se povezati na omrežje"</string>
-  <string name="new_album_invalid_byte">Ime je predolgo</string>
   <string name="network_unsatisfied_button_text">Povežite se na omrežje</string>
+     <string name="new_album_invalid_byte">Ime je predolgo</string>
   <string name="new_album_invalid_char">"Ime vsebuje neveljaven znak \"%s\", vnesite črko ali številko."</string>
   <string name="new_album_invalid_name">\"%s\" je sistemski album, prosimo preimenujte ga.</string>
   <string name="new_album_invalid_prefix">"Ne uporabljajte \".\" ali \"_\" kot začetek imena albuma."</string>
@@ -1358,6 +1360,7 @@ za fotografije"</string>
   <string name="not_remind_any_more">"Ne kaži več"</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="notice_click_lock_orientation">Tapnite za zaklep orientacije</string>
+     <string name="number_of_uploading_finish">Var. kopija albuma izdelana samodejno</string>
   <string name="ocr_abnormal">"Ne morem prepoznati tekst."</string>
   <string name="ocr_abnormal_pic_format">"Ne morem prepoznati tekst. Ta format slike ni podprt."</string>
   <string name="ocr_abnormal_pic_too_large">"Ne morem prepoznati tekst. Ta slika je prevelika."</string>
@@ -1377,7 +1380,6 @@ za fotografije"</string>
   <string name="ocr_using_cellular_negative">Prepoznaj</string>
   <string name="ocr_using_cellular_positive">Prekliči</string>
   <string name="ocr_using_cellular_text">Prepoznavanje besedila prek mobilnih podatkov lahko povzroči dodatne stroške mobilnega operaterja. Vseeno prepoznam?</string>
-  <string name="number_of_uploading_finish">Var. kopija albuma izdelana samodejno</string>
   <string name="ok">V redu</string>
   <string name="old">Staro</string>
   <string name="onekey_auto">Avto</string>
@@ -1607,13 +1609,13 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="photodetail_rename_success">Uspešno preimenovano</string>
   <string name="photodetail_rename_title">Preimenuj</string>
   <string name="photodetail_rename_too_long">Ime datoteke, ki ste ga vnesli, je predolgo</string>
+     <string name="photoeditor_name">Foto Studio</string>
   <string name="pic_to_pdf_a4_format">A4 papir</string>
   <string name="pic_to_pdf_all_not_support">"Izbranih slik ni mogoče shraniti kot PDF"</string>
   <string name="pic_to_pdf_exit_notice">"Ta PDF ne bo shranjen, če zapustite zdaj. Vseeno zapustim?"</string>
   <string name="pic_to_pdf_not_support_video">"Videoposnetkov ni mogoče shraniti v obliki PDF"</string>
   <string name="pic_to_pdf_preview_loading">Nalaganje pregleda…</string>
   <string name="pic_to_pdf_save_in">Shrani PDF v %s</string>
-  <string name="photoeditor_name">Foto Studio</string>
   <string name="pick_from_contact">Izberi iz stikov</string>
   <string name="pick_people_cover_fail">Napaka. Poskusite ponovno.</string>
   <string name="pick_people_cover_page_title">Izberite naslovno fotografijo</string>
@@ -2233,6 +2235,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="unrecognized_model">Neznana naprava</string>
   <string name="unsupport_raw">"%s ne deluje z RAW slikami"</string>
   <string name="unsupport_raw_and_video">"%s ne deluje z videoposnetki in RAW slikami"</string>
+     <string name="unsupport_type">"Ta vrsta datoteke ni podprta"</string>
   <string name="unsupport_video">"%s ne deluje z videoposnetki"</string>
   <string name="unsupported_media_downloading_tip_common">"Gledanje originalnih slik v tem formatu ni podprto v tej verziji Androida. Vseeno prenesem?"</string>
   <string name="unsupported_media_downloading_tip_format">"Gledanje originalnih %s slik ni podprto v tej verziji Androida. Vseeno prenesem?"</string>

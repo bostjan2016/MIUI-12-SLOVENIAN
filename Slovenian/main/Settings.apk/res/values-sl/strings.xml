@@ -191,7 +191,7 @@ Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
     <string name="accessibility_service_action_perform_title">Ogledovanje in izvajanje dejanj</string>
   <string name="accessibility_service_default_description">Ni opisa.</string>
      <string name="accessibility_service_master_open_title">Odpri %1$s</string>
-    <string name="accessibility_service_master_switch_title">Uporabi storitev</string>
+    <string name="accessibility_service_master_switch_title">Koristi aplikacijo %1$s</string>
   <string name="accessibility_service_no_apps_message">TalkBack daje govorne povratne informacije kot pomoč slepim im slabovidnim uporabnikom. Ga želite brezplačno namestiti iz Trg. Play?</string>
   <string name="accessibility_service_no_apps_title">Potrebujete bralnik zaslona?</string>
     <string name="accessibility_service_screen_control_description">Bere lahko vso vsebino na zaslonu ter prikaže vsebino preko drugih aplikacij.</string>
@@ -818,6 +818,8 @@ Spremenim nastavitve?"</string>
   <string name="audio_list_loading">Nalaganje…</string>
   <string name="audio_profile_settings_title">Avdio profili</string>
   <string name="audio_record_proc_title">Zmanjšanje zunanjih zvokov</string>
+     <string name="audio_share_cancel">Ne, hvala</string>
+     <string name="audio_share_confirm">Skupna raba</string>
   <string name="auto_adjst_effect_summary">Prilagodi temperaturo barve okoljski svetlobi samodejno da boste održali optimalni nivo udobnosti</string>
   <string name="auto_adjust_effect_title">Prilagodi temperaturo barve samodejno</string>
   <string name="auto_backup">Načrtuj varnostno kopiranje</string>
@@ -1219,7 +1221,7 @@ nastavitev in aplikacij"</string>
     <string name="battery_summary">%1$s uporabe od zadnje polne napolnjenosti</string>
     <string name="battery_tip_dialog_message">"Telefon ste uporabljali več kot običajno. Akumulator se bo morda izpraznil prej, kot ste pričakovali.
 
-Aplikacije ki najbolj porabljajo baterijo:"</string>
+Aplikacije ki najbolj porabljajo baterijo: %1$d"</string>
     <string name="battery_tip_dialog_message_footer">Vključuje dejavnost z visoko porabo energije v ozadju</string>
     <string name="battery_tip_dialog_summary_message">"Aplikacije porabljajo običajno količino energije akumulatorja. V primeru prekomerne porabe energije vam bo telefon predlagal ustrezne ukrepe.
 
@@ -1308,6 +1310,8 @@ Aplikacije:
     <string name="bluetooth_ask_lasting_discovery">%1$s želi omogočiti, da bodo lahko druge naprave Bluetooth videle vašo napravo. To lahko pozneje spremenite v nastavitvah za Bluetooth.</string>
     <string name="bluetooth_ask_lasting_discovery_no_name">Aplikacija želi omogočiti, da bodo lahko druge naprave Bluetooth videle vašo napravo. To lahko pozneje spremenite v nastavitvah za Bluetooth.</string>
   <string name="bluetooth_ask_start_broadcast">%1$s želi vklopiti oddajanje Bluetootha za komuniciranje z drugimi napravami v bližini. To lahko pozneje spremenite v nastavitvah za Bluetooth.</string>
+     <string name="bluetooth_audio_share_feature_notice_summary">Delim zvok z drugimi povezanimi napravami?</string>
+     <string name="bluetooth_audio_share_feature_notice_title">Deli zvok</string>
   <string name="bluetooth_auto_connect">Samodejno poveži</string>
     <string name="bluetooth_battery_level">Akumulator na %1$s</string>
     <string name="bluetooth_battery_level_untethered">L: napolnjenost akumulatorja je %1$s, D: napolnjenost akumulatorja je %2$s</string>
@@ -1690,6 +1694,9 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="bt_absVolume_open_dialog_title">Pozor</string>
   <string name="bt_absVolume_pre_title">Absolutna glasnost</string>
   <string name="bt_absVolume_summary">Obdrži strogo dosledno glasnost Bluetooth naprav in telefona</string>
+     <string name="bt_audio_share_property">Deljenje</string>
+     <string name="bt_audio_share_switch_summary">Delite zvok z povezanimi Bluetooth napravami</string>
+     <string name="bt_audio_share_switch_title">Deli zvok</string>
   <string name="bt_dialog_remember_choice">Zapomni si</string>
   <string name="bt_dialog_settings">Nastavitve</string>
     <string name="bt_hci_snoop_log">Omogoči zajem dnevnika Bluetooth HCI</string>
@@ -7273,6 +7280,23 @@ Neuvožene podatke morate ponovno uvoziti."</string>
   <string name="screen_dark_mode_smart_dark_title">Global temni način</string>
   <string name="screen_dark_mode_time_title">Razpored temnega načina</string>
   <string name="screen_effect">Kontrast &amp; barve</string>
+     <string name="screen_enhance_engine_ai_note">"Če želite zagotoviti, da je vaša izkušnja ogleda naravna, ta storitev ne bo delovala, če je slika sestavljena iz osnovnih barv ali če vsebuje napredne prilagoditve."</string>
+     <string name="screen_enhance_engine_ai_open">Izboljšajte slike</string>
+     <string name="screen_enhance_engine_ai_pic_summary">Prepoznajte predmete (npr. rastline, slike, zgradbe) in dinamično prilagajanje prikaznih učinkov. Ta storitev nekoliko poveča porabo energije.</string>
+     <string name="screen_enhance_engine_ai_title">AI izboljšanje slike</string>
+     <string name="screen_enhance_engine_memc_open">MEMC</string>
+     <string name="screen_enhance_engine_memc_pic_summary">Videoposnetkom dodajte dodatne okvirje, da bo vsebina videti gladka in prehodna.</string>
+     <string name="screen_enhance_engine_memc_title">MEMC</string>
+     <string name="screen_enhance_engine_s2h_open">AI HDR izboljšanje</string>
+     <string name="screen_enhance_engine_s2h_pic_summary">Urejajte videoposnetke z učinki HDR, da boste razkrili več podrobnosti na svetlejših in temnejših območjih in naredili barve bolj živahne. To storitev podpirajo izbrane aplikacije.</string>
+     <string name="screen_enhance_engine_s2h_title">AI HDR izboljšanje</string>
+     <string name="screen_enhance_engine_sr_for_pic">Izboljšajte slike</string>
+     <string name="screen_enhance_engine_sr_for_video">Izboljšajte videoposnetke</string>
+     <string name="screen_enhance_engine_sr_pic_summary">Povečajte ločljivost slike ali videa na 1440p. To storitev podpirajo izbrane aplikacije in nekoliko poveča porabo energije.</string>
+     <string name="screen_enhance_engine_sr_title">Super ločljivost</string>
+     <string name="screen_enhance_engine_title">AI slikovni mehanizem</string>
+     <string name="screen_enhance_status_disable">Izključeno</string>
+     <string name="screen_enhance_status_enable">Vključeno</string>
   <string name="screen_fps_summary_power_save">Uporaba fiksne hitrosti osvežavanja porabi manj energije</string>
   <string name="screen_fps_summary_smooth">Nekatere aplikacije bodo samodejno povečale hitrost osvežavanja zaradi izboljšanja kvalitete slike</string>
   <string name="screen_fps_title">Hitrost osveževanja</string>
@@ -8998,6 +9022,7 @@ Googlov pristop k sinhroniziranju podatkov, s katerim lahko dostopate do stikov,
   <string name="tether_over_limit_dialog_title">Opozorilo uporabe podatkov</string>
   <string name="tether_over_limit_warning_notify_message">Izključi mobilno dostopno točko.</string>
   <string name="tether_over_limit_warning_notify_title">Dosežena omejitev podatkov za dostopno točko</string>
+     <string name="tether_password_illegal_character">Geslo vsebuje nedovoljene znake. Vnesite ga ponovno.</string>
   <string name="tether_settings_disabled">Prenosna dostopna točka je izključena</string>
     <string name="tether_settings_disabled_on_data_saver">Dokler je vklopljeno varčevanje s podatki, ni mogoče vzpostaviti povezave s spletom preko mobilnega telefona ali uporabljati prenosnih dostopnih točk.</string>
   <string name="tether_settings_launch_title">Prenosna dostopna točka</string>

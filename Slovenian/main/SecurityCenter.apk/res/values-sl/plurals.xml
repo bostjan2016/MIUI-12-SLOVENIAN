@@ -652,6 +652,10 @@
         <item quantity="other">%d ikon aplikacij niso skrite</item>
         <item quantity="one">%d ikona aplikacije ni skrita</item>
     </plurals>
+	<plurals name="pp_times">
+        <item quantity="other">%s krat</item>
+        <item quantity="one">%s krat</item>
+    </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">"%d ikon aplikacij so skrite"</item>
         <item quantity="one">"%d ikona aplikacije je skrita"</item>

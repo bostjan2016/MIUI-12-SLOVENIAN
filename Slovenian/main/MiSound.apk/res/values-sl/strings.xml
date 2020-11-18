@@ -31,6 +31,7 @@
   <string name="app_name">Slušalke &amp; zvočni efekti</string>
   <string name="apply_sound">Uporabi</string>
   <string name="can_you_here">Ali slišite zvok?</string>
+     <string name="choose_bluetooth_device">Izberite napravo</string>
   <string name="complete_dialog_button">Razumem</string>
   <string name="complete_dialog_message">"Uspešno ste končali test."</string>
   <string name="complete_dialog_title">Rezultati testiranja</string>
@@ -39,6 +40,7 @@
   <string name="customization_continue">Nadaljuj</string>
   <string name="customization_pause_tip">Ustavim testiranje? Za nadaljevanje priključite slušalke.</string>
   <string name="customization_quit">Izhod</string>
+     <string name="end_wireless_transmission">Stop</string>
   <string name="eq_auto">Lastno</string>
   <string name="eq_blues">Blues</string>
   <string name="eq_cancel">Prekliči</string>
@@ -208,7 +210,13 @@
   <string name="switch_audio_device_bt">Bluetooth</string>
   <string name="switch_audio_device_phone">Ta naprava</string>
   <string name="switch_audio_dialog_title">Premakni zvok na</string>
+     <string name="switch_bluetooth_device">Zamenjaj napravo</string>
   <string name="third_note">Najdite mirno lokacijo.</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
+     <string name="wireless_transmission">Brezžični zvočnik</string>
+     <string name="wireless_transmission_cancel">Prekliči</string>
+     <string name="wireless_transmission_confirm">Vključi</string>
+     <string name="wireless_transmission_definition">"Preklopite mikrofon telefona na zunanjo napravo Bluetooth"</string>
+     <string name="wireless_transmission_prompt">Za prenos zvoka mora brezžični zvočnik vklopiti Bluetooth. Vklopim?</string>
 </resources>

@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="a_hour_ago">
+        <item quantity="other">pred 1 uro</item>
+     </plurals>
+     <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">pred 1 uro</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pred pol ure</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Čez 1 uro</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Čez pol ure</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Takoj</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">čez %d min</item>
+        <item quantity="one">čez 1 min</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Prav zdaj</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred 1 min</item>
+     </plurals>
 	<plurals name="alarm_alert_snooze_set">
         <item quantity="other">Odloži alarm za %d min</item>
         <item quantity="one">Odloži alarm za %d min</item>
@@ -16,9 +45,28 @@
          <item quantity="other">Izbrišem izbrane časovne pasove?</item>
          <item quantity="one">Izbrišem ta časovni pas?</item>
     </plurals>
+     <plurals name="half_hour_ago">
+        <item quantity="other">Pred pol ure</item>
+     </plurals>
 	<plurals name="hour">
          <item quantity="other">%d ur</item>
          <item quantity="one">%d ura</item>
+     </plurals>
+     <plurals name="in_a_hour">
+        <item quantity="other">Čez 1 uro</item>
+     </plurals>
+     <plurals name="in_half_hour">
+        <item quantity="other">Čez pol ure</item>
+     </plurals>
+     <plurals name="in_less_than_one_minute">
+        <item quantity="other">Takoj</item>
+     </plurals>
+     <plurals name="in_num_minutes">
+        <item quantity="other">čez %d min</item>
+        <item quantity="one">čez 1 minuto</item>
+     </plurals>
+     <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Prav zdaj</item>
      </plurals>
      <plurals name="life_post_wake_up_item_acumu_day">
          <item quantity="other">%1$d dni</item>
@@ -28,9 +76,33 @@
          <item quantity="other">%d min</item>
          <item quantity="one">%d min</item>
      </plurals>
+     <plurals name="minute_text">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+     </plurals>
+     <plurals name="num_minutes_ago">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred 1 minuto</item>
+     </plurals>
 	<plurals name="second">
         <item quantity="other">%d sek.</item>
         <item quantity="one">%d sek.</item>
+     </plurals>
+     <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s ur</item>
+        <item quantity="one">%1$s ura</item>
+     </plurals>
+     <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s ur</item>
+        <item quantity="one">%1$s ura</item>
+     </plurals>
+     <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+     </plurals>
+     <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
      </plurals>
 	<plurals name="snooze_duration_changed_info">
         <item quantity="other">Alarm je odložen za %d min</item>
@@ -75,26 +147,6 @@
     <plurals name="timer_message_second">
         <item quantity="other">%1$d sek.</item>
         <item quantity="one">%1$d sek.</item>
-     </plurals>
-	 <plurals name="sleep_duration_hour">
-        <item quantity="other">%1$s ur</item>
-        <item quantity="one">%1$s ura</item>
-    </plurals>
-    <plurals name="sleep_duration_hour_avg">
-        <item quantity="other">%1$s ur</item>
-        <item quantity="one">%1$s ura</item>
-    </plurals>
-    <plurals name="sleep_duration_min">
-        <item quantity="other">%1$s min</item>
-        <item quantity="one">%1$s min</item>
-    </plurals>
-    <plurals name="sleep_duration_min_avg">
-        <item quantity="other">%1$s min</item>
-        <item quantity="one">%1$s min</item>
-    </plurals>
-	<plurals name="minute_text">
-        <item quantity="other">" min"</item>
-        <item quantity="one">" min"</item>
      </plurals>
      <plurals name="worldcolock_timezone_gap_fast">
         <item quantity="other">%s ur naprej</item>

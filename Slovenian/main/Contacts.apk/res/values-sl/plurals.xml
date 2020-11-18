@@ -72,6 +72,18 @@
         <item quantity="other">Izbrišem stike: %1$d?</item>
         <item quantity="one">Izbrišem %1$d stik?</item>
     </plurals>
+	<plurals name="bh_day">
+        <item quantity="other">" dni"</item>
+        <item quantity="one">" dan"</item>
+    </plurals>
+    <plurals name="bh_hour">
+        <item quantity="other">" ur"</item>
+        <item quantity="one">" ura"</item>
+    </plurals>
+    <plurals name="bh_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Izbriši stike: %1$d</item>
         <item quantity="one">Izbriši %1$d stik</item>
@@ -79,6 +91,14 @@
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Zvonilo %1$d krat</item>
         <item quantity="one">Zvonilo %1$d krat</item>
+    </plurals>
+	<plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d telefonskih številk</item>
+        <item quantity="one">%d telefonska številk</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Izbrišem telefonske številke: %d?</item>
+        <item quantity="one">Izbrišem %d telefonsko številko?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"Stiki/fotografije niso sinhronizirani: %1$d"</item>
@@ -200,6 +220,10 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">Najdeno: %d</item>
         <item quantity="one">Najdeno: %d</item>
+    </plurals>
+	<plurals name="search_group_contacts_result">
+        <item quantity="other">%s rezultatov</item>
+        <item quantity="one">%s rezultat</item>
     </plurals>
 	<plurals name="select_all_exceed_plurals">
         <item quantity="other">"Izberite ne več kot %1$d, ne morete izbrati vse"</item>

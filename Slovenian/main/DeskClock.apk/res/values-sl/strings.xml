@@ -32,6 +32,7 @@
   <string name="action_for_restart">Ponovi</string>
   <string name="action_for_snooze">Odloži</string>
   <string name="action_for_stop">Ustavi</string>
+     <string name="actionbar_button_up_description">Nazaj</string>
   <string name="add_alarm">Dodaj alarm</string>
   <string name="add_clock">Dodaj uro</string>
   <string name="add_common_timer">Dodaj kronometer</string>
@@ -114,6 +115,7 @@
   <string name="check_theme_app_install">Preverite ali je aplikacija Teme nameščena v vaši napravi.</string>
   <string name="check_voice_assist_app_version">Posodobite Mi AI na najnovejšo verzijo.</string>
   <string name="city_time_contrast_desc">Tapnite za primerjavo časa v različnih mestih</string>
+     <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="clock_bg_button_setting_summary_common">izberite barvo ozadja za aplikacijo ura</string>
   <string name="clock_bg_button_setting_summary_follow_sys">Črna bo uporabljena kot barva ozadja vsakič ko izberete Temni način</string>
   <string name="clock_bg_button_setting_title">Barva ozadja</string>
@@ -237,6 +239,17 @@
   <string name="menu_item_sort_by_gmt_offset">Razporedi po času</string>
   <string name="menu_item_sort_by_name">Razporedi po imenu</string>
   <string name="mibi_license">Mi Kredit Pogoji uporabe</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
+     <string name="miuix_appcompat_cancel_description">Prekliči</string>
+     <string name="miuix_appcompat_confirm_description">Potrdi</string>
+     <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
+     <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all_description">Izberi vse</string>
    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
@@ -286,14 +299,53 @@
   <string name="module_white_noise_download_data_privacy">"Da boste prenesli avdio datoteke za časovnike hrupa okolice (&amp;#8776;30MB) in nudenje prilagojenih storitev se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Uporabljate mobilne podatke. Se strinjate?"</string>
   <string name="module_white_noise_download_wifi">Ura mora prenesti avdio datoteke za časovnike hrupa okolice. Prenesem?</string>
   <string name="module_white_noise_download_wifi_privacy">Da boste prenesli avdio datoteke za časovnike hrupa okolice in nudenje prilagojenih storitev se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; Se strinjate?</string>
+     <string name="monday">Ponedjeljek</string>
+     <string name="monday_short">Pon</string>
+     <string name="monday_shortest">P</string>
   <string name="monday_to_friday">Pon - Pet</string>
+     <string name="month_april">April</string>
+     <string name="month_april_short">Apr</string>
+     <string name="month_april_shortest">A</string>
+     <string name="month_august">Avgust</string>
+     <string name="month_august_short">Avg</string>
+     <string name="month_august_shortest">A</string>
+     <string name="month_december">December</string>
+     <string name="month_december_short">Dec</string>
+     <string name="month_december_shortest">D</string>
+     <string name="month_february">Februar</string>
+     <string name="month_february_short">Feb</string>
+     <string name="month_february_shortest">F</string>
+     <string name="month_january">Januar</string>
+     <string name="month_january_short">Jan</string>
+     <string name="month_january_shortest">J</string>
+     <string name="month_july">Julij</string>
+     <string name="month_july_short">Jul</string>
+     <string name="month_july_shortest">J</string>
+     <string name="month_june">Junij</string>
+     <string name="month_june_short">Jun</string>
+     <string name="month_june_shortest">J</string>
+     <string name="month_march">Marec</string>
+     <string name="month_march_short">Mar</string>
+     <string name="month_march_shortest">M</string>
+     <string name="month_may">Maj</string>
+     <string name="month_may_short">Maj</string>
+     <string name="month_may_shortest">M</string>
+     <string name="month_november">November</string>
+     <string name="month_november_short">Nov</string>
+     <string name="month_november_shortest">N</string>
+     <string name="month_october">Oktober</string>
+     <string name="month_october_short">Okt</string>
+     <string name="month_october_shortest">O</string>
+     <string name="month_september">September</string>
+     <string name="month_september_short">Sep</string>
+     <string name="month_september_shortest">S</string>
   <string name="more_alert_setting">Dodatne nastavitve alarma</string>
   <string name="more_settings">Več nastavitev</string>
   <string name="more_setting">Več nastavitev</string>
   <string name="net_permission_cancel">"Ne strinjam se"</string>
   <string name="net_permission_ok">Strinjam se</string>
-   <string name="network_privacy_global">Za delovanje ura potrebuje povezavo s spletom. Pred uporabo preberite in se strinjajte z Pogoji uporabe in Pravila o zasebnosti. Se strinjate?</string>
   <string name="network_privacy">S ciljem ponujanja relevantnih informacij o lokalnih praznikih, prilagajanju alarma in nudenju prilagojenih storitev se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?</string>
+     <string name="network_privacy_global">Za delovanje ura potrebuje povezavo s spletom. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?</string>
   <string name="never">Enkrat</string>
   <string name="new_label">Dodaj tekst alarma</string>
   <string name="no_alarm_setting">Ni alarmov</string>
@@ -333,6 +385,9 @@
   <string name="ringtone_other">Več melodij zvonenja</string>
   <string name="ringtone_weather">Vremenski alarm</string>
   <string name="ringtone_week">Alarm narave</string>
+     <string name="saturday">Sobota</string>
+     <string name="saturday_short">Sob</string>
+     <string name="saturday_shortest">S</string>
   <string name="search_alarm_clock_keywords">Alarm;Budilka;</string>
   <string name="search_menu_title">Išči</string>
   <string name="search_stopwatch_keywords">Štoparica</string>
@@ -405,6 +460,9 @@ ko bo Mi Zdravje analiziral dovolj podatkov</string>
   <string name="stopwatch_reset_notification">Štoparica je ponastavljena</string>
   <string name="stopwatch_running_notification">Štoparica</string>
   <string name="stopwatch_title">Štoparica</string>
+     <string name="sunday">Nedelja</string>
+     <string name="sunday_short">Ned</string>
+     <string name="sunday_shortest">N</string>
   <string name="system_permission_agree_desc">Dovolite aplikaciji povezavo s spletom da boste lahko uporabili vse storitve.</string>
   <string name="system_permission_main_purpose">Čas pregledovanja, nastavljanje alarma in časovnika, štoparica</string>
   <string name="system_permission_phone_desc">Za identificiranje različnih naprav</string>
@@ -413,6 +471,9 @@ ko bo Mi Zdravje analiziral dovolj podatkov</string>
   <string name="system_time_setting">Nastavitve</string>
   <string name="system_time_settings_category_title">Nastavitve časa</string>
   <string name="temperature_unit">℃</string>
+     <string name="thursday">Četrtek</string>
+     <string name="thursday_short">Čet</string>
+     <string name="thursday_shortest">Č</string>
   <string name="time">Čas</string>
   <string name="time_picker_colon">:</string>
   <string name="time_picker_label_hour">H</string>
@@ -485,6 +546,9 @@ ko bo Mi Zdravje analiziral dovolj podatkov</string>
   <string name="wake_up_alert_desc">Predvajaj alarm ob času zbujanja</string>
   <string name="wake_up_ringtone">Melodija alarma</string>
   <string name="wake_up_time">Čas zbujanja</string>
+     <string name="wednesday">Sreda</string>
+     <string name="wednesday_short">Sre</string>
+     <string name="wednesday_shortest">S</string>
   <string name="white_noise_selector">Izberi zvok</string>
   <string name="workday_alarm_clock">Alarm ob delavnikih</string>
   <string name="worldclock_empty_text">Ni svetovnih ur</string>
@@ -503,4 +567,5 @@ ko bo Mi Zdravje analiziral dovolj podatkov</string>
   <string name="worldcolock_timezone_date">dd.MM</string>
   <string name="worldcolock_timezone_gap">%s H</string>
   <string name="worldcolock_timezone_local">Isto kot lokalni čas</string>
+     <string name="yesterday">Včeraj</string>
 </resources>

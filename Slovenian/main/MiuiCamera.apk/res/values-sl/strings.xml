@@ -146,6 +146,12 @@
   <string name="accessibility_portrait_depth_effect_panel_on">Portret plošča</string>
   <string name="accessibility_preview_button">Pregled</string>
   <string name="accessibility_preview_effect_button">Efekt pregleda</string>
+     <string name="accessibility_preview_expand">Približaj</string>
+     <string name="accessibility_preview_front">Predogled sprednje kamere</string>
+     <string name="accessibility_preview_select_tip">Položaj %1$d</string>
+     <string name="accessibility_preview_selected">Izbrano</string>
+     <string name="accessibility_preview_shrink">Oddalji</string>
+     <string name="accessibility_preview_zoom_tip">%1$.1fX zoom predogled</string>
   <string name="accessibility_pro_video_simple_mode">Lite način</string>
   <string name="accessibility_protrait">Portret</string>
   <string name="accessibility_pull_down_to_open_camera">Potegni dol dolje za odpiranje kamere</string>
@@ -641,7 +647,8 @@ Natisnite kopijo brezžično na papir A4."</string>
   <string name="lighting_hint_title">Studio osvetlitev</string>
   <string name="lighting_hint_too_close">Oddaljite kamero</string>
   <string name="lighting_hint_too_far">Približajte kamero</string>
-  <string name="lighting_hint_usage">"Efekte studio svetlitve lahko uporabite v\n Portretnem načinu dela"</string>
+  <string name="lighting_hint_usage">"Efekte studio svetlitve lahko uporabite v
+ Portretnem načinu dela"</string>
   <string name="lighting_lanshan">Decadence</string>
   <string name="lighting_movie_light_effect_title">Filmski efekti</string>
   <string name="lighting_neon">Neon</string>
@@ -865,12 +872,12 @@ zgledali večji na fotografijah"</string>
   <string name="multi_window_mode_not_supported">"Kamera ne deluje v deljenem zaslonu"</string>
   <string name="music_hint_tt">Vir storitev</string>
   <string name="network_access_user_notice_agree">Strinjam se</string>
-  <string name="network_access_user_notice_message_live_video">"Kamera se mora povezati na splet za ponujanje efektov, glasbe in ostalih stvari za kratke videoposnetke.Z dotikom na \"Strinjam se\", se strinjate z Pogoji uporabe in Pravila o zasebnosti in dovolite kameri povezovanje na splet."</string>
-  <string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;Dobrodošli v kratke videoposnetke! Naša storitev se mora povezati na plet da vam ponudimo glasbo in druge stvari. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Pred uporabo morate pprebrati in se strinjati z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in omogočiti aplikaciji povezavo na splet.&lt;/Data&gt;</string>
-  <string name="network_access_user_notice_message_sticker">"Kamera se mora povezati na splet za ponujanje nalepk za to storitev.Z dotikom na \"Strinjam se\", se strinjate z Pogoji uporabe in Pravila o zasebnosti in dovolite kameri povezovanje na splet."</string>
-  <string name="network_access_user_notice_message_voice_caption">"Kamera se mora povezati na splet za storitev govor v tekst.Z dotikom na \"Strinjam se\", se strinjate z Pogoji uporabe in Pravila o zasebnosti in dovolite kameri povezovanje na splet."</string>
+  <string name="network_access_user_notice_message_live_video">"Kamera se mora povezati na splet za ponujanje efektov, glasbe in ostalih stvari za kratke videoposnetke.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Z dotikom na \"Strinjam se\", se strinjate z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in dovolite Kameri povezovanje na splet."</string>
+  <string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;Dobrodošli v kratke videoposnetke! Naša storitev se mora povezati na plet da vam ponudimo glasbo in druge stvari. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Pred uporabo morate prebrati in se strinjati z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in omogočiti aplikaciji povezavo na splet.&lt;/Data&gt;</string>
+  <string name="network_access_user_notice_message_sticker">"Kamera se mora povezati na splet za ponujanje nalepk za to storitev.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Z dotikom na \"Strinjam se\", se strinjate z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in dovolite kameri povezovanje na splet."</string>
+  <string name="network_access_user_notice_message_voice_caption">"Kamera se mora povezati na splet za storitev govor v tekst.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Z dotikom na \"Strinjam se\", se strinjate z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in dovolite kameri povezovanje na splet."</string>
   <string name="network_access_user_notice_title">Povezovanje na splet</string>
-  <string name="no_save">"Ne shrani"</string>s
+  <string name="no_save">"Ne shrani"</string>
   <string name="no_storage">Pred uporabo kamere vstavite SD kartico.</string>
   <string name="no_thumbnail">Ni miniatur</string>
   <string name="not_enough_space">Notranji pomnilnik je poln</string>
@@ -910,8 +917,8 @@ pritisnite sprožilec"</string>
   <string name="parameter_exposure_title">Kompenzacija ekspozicije</string>
   <string name="parameter_focus_description">Ne morete fokusirati ročno in samodejno. Večjo vrednost ostrenja, ki jo izberete na drsniku, dlje od leče bo območje ostrenja.</string>
   <string name="parameter_focus_title">Fokus</string>
-  <string name="parameter_histogram_description">Histogram je prikaz izpostavljenosti v realnem času ki prikazuje najmračnejše dele scene z leve strani i prehod na najsvjetlejše dele z desne strani. Navpični del lestvice kaže koliko je scena svetla ali mračna
-.</string>
+     <string name="parameter_histogram_description">"Histogram je prikaz izpostavljenosti v realnem času ki prikazuje najmračnejše dele scene z leve strani in prehod na najsvjetlejše dele z desne strani. Navpični del lestvice kaže koliko je scena svetla ali mračna
+."</string>
   <string name="parameter_histogram_title">Histogram</string>
   <string name="parameter_iso_description">ISO vrednosti se lahko samodejno določi s pomočjo merilca. Vrednost lahko zamenjate tudi ročno. Večji ISO napravi kamero bolj občutljivo na svetlobo, prinaša pa več digitalnega šuma u vašo sliko.</string>
   <string name="parameter_iso_title">ISO občutljivost</string>
@@ -1598,6 +1605,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="timbre_robot">Robot</string>
   <string name="time">Čas</string>
   <string name="time_lapse_error">"Te velikost videoposnetka se ne da uporabiti za snemanje v intervalih"</string>
+     <string name="time_stamp_date_format">dd/MM/yyyy</string>
   <string name="timer_burst">Časovno hitro sproženje</string>
   <string name="timer_burst_manu_param_interval">Interval brez ekspozicije</string>
   <string name="timer_burst_param_interval">Interval</string>

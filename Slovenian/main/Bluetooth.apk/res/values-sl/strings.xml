@@ -48,8 +48,9 @@
   <string name="bluetooth_sap_notif_message">Želite nastaviti zahtevo klientu da naj prekine povezavo?</string>
   <string name="bluetooth_sap_notif_ticker">Pristop SIM-u z Bluetoothom</string>
   <string name="bluetooth_sap_notif_title">Pristop SIM-u z Bluetoothom</string>
+  <string name="bt_audio_share_notification_content">Tapnite za prikaz možnosti</string>
+  <string name="bt_audio_share_notification_title">Deljenje zvoka</string>
   <string name="bluetooth_search_for_devices">Išči naprave</string>
-  <string name="bluetooth_share_file_name">bluetooth_vsebina deljenja</string>
   <string name="bt_enable_cancel">Prekliči</string>
   <string name="bt_enable_line1">Za uporabo Bluetootha ga najprej vklopite.</string>
   <string name="bt_enable_line2">Vklopim Bluetooth?</string>
@@ -134,6 +135,7 @@
   <string name="not_exist_file">Ni datotek</string>
   <string name="not_exist_file_desc">"Datoteka ne obstaja.
 "</string>
+  <string name="notice_audio_share_disconnected">Zvok se ne deli več zaradi prekinjene povezave</string>
   <string name="noti_caption">%1$s uspešno, %2$s neuspešno.</string>
   <string name="notification_received">Bluetooth deljenje: Prejeto %1$s</string>
   <string name="notification_received_fail">Bluetooth deljenje: Datoteka %1$s ni prejeta</string>

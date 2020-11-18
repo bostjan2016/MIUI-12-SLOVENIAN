@@ -37,6 +37,7 @@
   <string name="bluetooth_enable_notification_content">%s je vključil-a Bluetooth</string>
   <string name="bluetooth_enable_notification_title">Bluetooth je vključen</string>
   <string name="bluetooth_open">Ta aplikacija je vključila Bluetooth</string>
+     <string name="bottom_bar_smallwindow_text">Spusti za dodajanje</string>
   <string name="btn_cancel">Prekliči</string>
   <string name="btn_sure">V redu</string>
   <string name="button_text_cancel">Prekliči</string>
