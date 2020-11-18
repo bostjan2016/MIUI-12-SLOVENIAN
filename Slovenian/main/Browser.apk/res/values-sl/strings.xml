@@ -1114,10 +1114,8 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobilni podatki) Preverite %s1 APN nastavitve %s2.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_url">"Preverite vnešeni URL."</string>
   <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) Preverite %s1 nastavitve proxyja %s2.</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Izbriši predspomin (%s1Nastavitve%s2 - Izbriši podatke).</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Izbriši predspomin in piškote (%s1Nastavitve%s2 - Izbriši podatke, podatki o vašem računu se lahko izgubijo).</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Izbriši predspomin in piškote (podatki o vašem računu se lahko izgubijo).</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Izbriši predspomin.</string>
+    <string name="mw_miuichromium_error_page_suggestion_clear_cache">Izbriši predpomnilnik.</string>
+    <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Izbriši predpomnilnik in piškote (informacije o računu se lahko izgubijo).</string>
   <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Po povezavi na splet ponovno naloži</string>
   <string name="mw_miuichromium_error_page_suggestion_contact_admin">Obrnite se na skrbnika naprave.</string>
   <string name="mw_miuichromium_error_page_suggestion_correct_url">"Preverite vnešeni naslov in poskusite ponovno z pravilnim naslovom."</string>
