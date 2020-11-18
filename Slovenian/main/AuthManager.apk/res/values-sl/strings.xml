@@ -346,8 +346,8 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="grant_dialog_button_deny_background">Samo med uporabo aplikacije</string>
   <string name="grant_dialog_button_deny_background_and_dont_ask_again">Dovoli samo med uporabo aplikacije in ne sprašuj več</string>
      <string name="grant_dialog_storage_category_title">Ta aplikacija zahteva dovoljenja za dostop do Galerije in sporočil v aplikacijah za družabna omrežja</string>
-     <string name="grant_dialog_storage_gallery_title">Gallery</string>
-     <string name="grant_dialog_storage_sociality_title">Messages in social media apps</string>
+     <string name="grant_dialog_storage_gallery_title">Galerija</string>
+     <string name="grant_dialog_storage_sociality_title">Sporočila v aplikacijah za družabna omrežja</string>
   <string name="location_settings">Nastavitve lokacije</string>
   <string name="location_warning">%1$s je ponudnik storitve lociranja za to napravo. Dostop do lokacije lahko spremenite v nastavitvah lokacije.</string>
   <string name="never_ask_again">"Ne sprašuj več po omejitvi"</string>
