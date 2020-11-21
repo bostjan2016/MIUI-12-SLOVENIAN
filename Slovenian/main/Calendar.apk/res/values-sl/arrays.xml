@@ -91,11 +91,9 @@
         <item>15</item>
         <item>30</item>
         <item>60</item>
-        <item>720</item>
         <item>1440</item>
         <item>2880</item>
         <item>10080</item>
-        <item>20160</item>
     </integer-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Brez opomnika</item>
@@ -118,11 +116,9 @@
         <item>15</item>
         <item>30</item>
         <item>60</item>
-        <item>720</item>
         <item>1440</item>
         <item>2880</item>
         <item>10080</item>
-        <item>20160</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Privzeta oznaka države</item>

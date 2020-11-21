@@ -156,8 +156,10 @@
         <item quantity="one">%1$d sek</item>
      </plurals>	
 	  <plurals name="clean_long_msg_p1">
-     <item quantity="other">"Čiščenje %1$d datotek (%2$d%%)\n"</item>
-        <item quantity="one">"Čiščenje %1$d datoteke (%2$d%%)\n"</item>
+        <item quantity="other">"Čiščenje %1$d datotek (%2$d%%)
+"</item>
+        <item quantity="one">"Čiščenje %1$d datoteke (%2$d%%)
+"</item>
      </plurals>
      <plurals name="clean_long_msg_p2">
         <item quantity="other">%1$d stvari/sek. | Preostali čas: %2$s</item>

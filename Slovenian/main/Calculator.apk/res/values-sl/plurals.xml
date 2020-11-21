@@ -69,6 +69,17 @@
          <item quantity="other">Izbrano: %d</item>
          <item quantity="one">Izbrana: %d</item>
      </plurals>
+	  <plurals name="loan_repayment_detail">
+        <item quantity="other">Podrobno odplačilo (%d let)</item>
+        <item quantity="one">Podrobno odplačilo (%d leto)</item>
+     </plurals>
+     <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Podrobno odplačilo (%d let), CNY</item>
+        <item quantity="one">Podrobno odplačilo (%d leto), CNY</item>
+     </plurals>
+     <plurals name="tenure_years">
+        <item quantity="other">%d let</item>
+        <item quantity="one">%d leto</item>
      <plurals name="less_than_one_minute_ago">
          <item quantity="other">Ravno zdaj</item>
      </plurals>

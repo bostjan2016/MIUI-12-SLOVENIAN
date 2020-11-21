@@ -631,7 +631,7 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
   <string name="todo_user_guide_tip3">Da boste uredili tekstno nalogo jo tapnite.</string>
   <string name="todo_user_guide_tip4">"Ne pozabite napraviti bližnjice na začetnem zaslonu za naloge."</string>
   <string name="todo_user_guide_tip5">Ostanite v vrhu svoje igre in nikoli ne zamudite kaj važnega!</string>
-  <string name="todo_user_guide_tip6">Tapni \"Naprej\" za ustvarjanje kontrolnega seznama podnaslovov</string>
+  <string name="todo_user_guide_tip6">Tapni \"Naprej\" za izdelavo seznama podnalog</string>
   <string name="todoalert_done">V redu</string>
   <string name="tomorrow">Jutri</string>
   <string name="toolbar_check_description">Dodaj potrdni okvir</string>

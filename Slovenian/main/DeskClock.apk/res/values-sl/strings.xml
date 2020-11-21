@@ -38,11 +38,12 @@
   <string name="add_common_timer">Dodaj kronometer</string>
   <string name="add_timer">Dodaj kronometer</string>
   <string name="add_timezone_title">Dodaj časovni pas</string>
+     <string name="afternoon">Popoldne</string>
   <string name="aggree_desc">Dovolite aplikaciji povezavo s spletom in odobrite zgoraj navedena obvezna dovoljenja.</string>
   <string name="agree">Strinjam se</string>
   <string name="alarm_alert">Privzeto zvonenje</string>
-  <string name="alarm_alert_disabled">Izključeno</string>
   <string name="alarm_alert_alert_silenced">Alarm utišan po %1$s minutah.</string>
+     <string name="alarm_alert_disabled">Izključeno</string>
   <string name="alarm_alert_snooze_set">Dremež %d minut.</string>
   <string name="alarm_ascending_mode_summary">Glasnost alarma se stopnjuje</string>
   <string name="alarm_ascending_mode_title">Naraščajoča glasnost zvoka</string>
@@ -72,6 +73,7 @@
   <string name="alert_volume_summary">Nastavite glasnost zvonenja za alarme in odštevanja</string>
   <string name="allow">Dovoli</string>
   <string name="already_exist">Ta časovnik že obstaja</string>
+     <string name="am">AM</string>
   <string name="analog_gadget">Analogna ura</string>
   <string name="app_label">Ura</string>
   <string name="app_name">Ura</string>
@@ -119,6 +121,8 @@
   <string name="clock_bg_button_setting_summary_common">izberite barvo ozadja za aplikacijo ura</string>
   <string name="clock_bg_button_setting_summary_follow_sys">Črna bo uporabljena kot barva ozadja vsakič ko izberete Temni način</string>
   <string name="clock_bg_button_setting_title">Barva ozadja</string>
+     <string name="clock_date_time_format_seconds_12">hh:mm:ss</string>
+     <string name="clock_date_time_format_seconds_24">HH:mm:ss</string>
   <string name="close">Zapri</string>
   <string name="close_alarm">Izključi</string>
   <string name="common_settings">Nastavitve</string>
@@ -162,11 +166,13 @@
   <string name="disagree">"Ne strinjam se"</string>
   <string name="done">Končano</string>
   <string name="dynamic_alarm_speech">Pametni alarm</string>
+     <string name="early_morning">Jutro</string>
   <string name="edit_alarm">Uredi alarm</string>
   <string name="edit_label">Uredi ime alarma</string>
   <string name="edit_systemtime">Uredi sistemski čas</string>
   <string name="edit_systemtime_setting_summary">Datum, čas in dvojna ura</string>
   <string name="elapsed_time_format">+</string>
+     <string name="evening">Večer</string>
   <string name="every_day">Dnevno</string>
   <string name="expand_button_title">Napredno</string>
   <string name="expired_timers_dismissed">Kronometer je preklican</string>
@@ -174,6 +180,9 @@
   <string name="force_touch_add_alarm">Dodaj alarm</string>
   <string name="force_touch_enter_stopwatch">Štoparica</string>
   <string name="force_touch_enter_timer">Kronometer</string>
+     <string name="friday">Petek</string>
+     <string name="friday_short">Pet</string>
+     <string name="friday_shortest">P</string>
   <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
   <string name="go_back">Nazaj</string>
   <string name="guide_newfunc_content">Zdaj lahko filtrirati formate datotek, preuredite razpored stvari in prehajati iz različnih prikazov na dotik bližnjice.</string>
@@ -239,6 +248,7 @@
   <string name="menu_item_sort_by_gmt_offset">Razporedi po času</string>
   <string name="menu_item_sort_by_name">Razporedi po imenu</string>
   <string name="mibi_license">Mi Kredit Pogoji uporabe</string>
+     <string name="midnight">Noč</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
@@ -339,17 +349,21 @@
      <string name="month_september">September</string>
      <string name="month_september_short">Sep</string>
      <string name="month_september_shortest">S</string>
+     <string name="more">Več</string>
   <string name="more_alert_setting">Dodatne nastavitve alarma</string>
-  <string name="more_settings">Več nastavitev</string>
-  <string name="more_setting">Več nastavitev</string>
+     <string name="more_setting">Več nastavitev</string>
+     <string name="more_settings">Več nastavitev</string>
+     <string name="morning">Jutro</string>
   <string name="net_permission_cancel">"Ne strinjam se"</string>
   <string name="net_permission_ok">Strinjam se</string>
   <string name="network_privacy">S ciljem ponujanja relevantnih informacij o lokalnih praznikih, prilagajanju alarma in nudenju prilagojenih storitev se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?</string>
      <string name="network_privacy_global">Za delovanje ura potrebuje povezavo s spletom. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?</string>
   <string name="never">Enkrat</string>
   <string name="new_label">Dodaj tekst alarma</string>
+     <string name="night">Noč</string>
   <string name="no_alarm_setting">Ni alarmov</string>
   <string name="no_worldclock">Ni ur</string>
+     <string name="noon">Poldne</string>
   <string name="normal_settings">Splošne nastavitve</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="not_update">Ne zdaj</string>
@@ -361,6 +375,7 @@
   <string name="other_settings">Dodatne nastavitve</string>
   <string name="pause">Odmor</string>
   <string name="personal_recommend">Priporočila osebne narave</string>
+     <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="privacy_policy_title">Pravila o zasebnosti</string>
@@ -456,6 +471,9 @@ ko bo Mi Zdravje analiziral dovolj podatkov</string>
   <string name="stat_repeat_self_define">Po meri</string>
   <string name="stat_repeat_weekdays">Pon-Pet</string>
   <string name="stat_repeat_weekends">Vikend</string>
+     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
+     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
+     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
   <string name="stopwatch_lap_empty_text">Ni krogov</string>
   <string name="stopwatch_reset_notification">Štoparica je ponastavljena</string>
   <string name="stopwatch_running_notification">Štoparica</string>
@@ -476,6 +494,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov</string>
      <string name="thursday_shortest">Č</string>
   <string name="time">Čas</string>
   <string name="time_picker_colon">:</string>
+     <string name="time_picker_dialog_title">Nastavi čas</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="time_picker_label_second">S</string>
@@ -524,6 +543,9 @@ ko bo Mi Zdravje analiziral dovolj podatkov</string>
   <string name="timezone_exist_error_message">"Ta časovni pas je že prikazan"</string>
   <string name="today">Danes</string>
   <string name="tomorrow">Jutri</string>
+     <string name="tuesday">Torek</string>
+     <string name="tuesday_short">Tot</string>
+     <string name="tuesday_shortest">T</string>
   <string name="turn_off_a_repeat_alarm">Izključi ponavljajoči alarm</string>
   <string name="turn_off_this_repeat_alarm">Izključi ta ponavljajoči alarm</string>
   <string name="upcoming_alarm">Prihodnji alarm: %s</string>
