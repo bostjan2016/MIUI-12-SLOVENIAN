@@ -15,7 +15,7 @@
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
   <string name="abc_menu_shift_shortcut_label">Shift+</string>
-  <string name="abc_menu_space_shortcut_label">presledek</string>
+    <string name="abc_menu_space_shortcut_label">presledek</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
   <string name="abc_search_hint">Preišči…</string>
@@ -129,7 +129,7 @@
   <string name="common_timer_selector">Izberi časovnik</string>
   <string name="confirm">Potrdi</string>
   <string name="confirm_abort">Zavrzi</string>
-  <string name="content_desc_keep_screen">Tipka \"Obdrži zaslon vkl.\"</string>
+    <string name="content_desc_keep_screen">\"Obdrži zaslon\" tipka</string>
   <string name="continue_operation">Nadaljuj</string>
   <string name="continue_step">Naprej</string>
   <string name="control_set_alarm">Nastavi budilko</string>

@@ -15,7 +15,7 @@
         <item>Budilka čez %2$s %3$s</item>
         <item>Budilka čez %1$s %2$s %3$s</item>
     </string-array>
-	 <string-array name="aqi_value">
+    <string-array name="aqi_value">
         <item>Dobro</item>
         <item>Zadovoljivo</item>
         <item>Zmerno onesnaženo</item>

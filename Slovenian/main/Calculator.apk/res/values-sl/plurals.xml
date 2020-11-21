@@ -80,6 +80,7 @@
      <plurals name="tenure_years">
         <item quantity="other">%d let</item>
         <item quantity="one">%d leto</item>
+    </plurals>
      <plurals name="less_than_one_minute_ago">
          <item quantity="other">Ravno zdaj</item>
      </plurals>
