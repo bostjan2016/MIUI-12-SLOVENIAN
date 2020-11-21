@@ -22,12 +22,13 @@
         <item>Slabo</item>
         <item>Zelo slabo</item>
         <item>Kritično</item>
+	</string-array>
     <string-array name="days">
         <item>Včeraj</item>
         <item>Danes</item>
         <item>Jutri</item>
     </string-array>
-     <string-array name="alarm_repeat_type">
+    <string-array name="alarm_repeat_type">
         <item>Enkrat</item>
         <item>Dnevno</item>
         <item>Delavnik</item>
