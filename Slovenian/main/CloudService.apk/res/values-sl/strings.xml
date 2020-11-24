@@ -704,8 +704,10 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
      <string name="share_sdk_btn_quit_share_text">Ustavi deljenje</string>
      <string name="share_sdk_btn_resend_share_text">Pošlji ponovno</string>
      <string name="share_sdk_btn_send_share_text">Pošalji vabilo</string>
+     <string name="share_sdk_btn_stop_share_confirm_text">Ustavim deljenje stvari s to osebo?</string>
      <string name="share_sdk_btn_stop_share_text">Ustavi deljenje</string>
-     <string name="share_sdk_btn_undo_invitation_text">Pokličite vabilo</string>
+     <string name="share_sdk_btn_undo_invitation_confirm_text">Odpokličem vabilo zdaj?</string>
+     <string name="share_sdk_btn_undo_invitation_text">Odpokliči vabilo</string>
      <string name="share_sdk_business_btn_grant_permission_text">Strinjam se in nadaljuj</string>
      <string name="share_sdk_business_family_invite_preference_summary">"Skupna raba lokacije in nadzor nad napravami drugih"</string>
      <string name="share_sdk_business_family_member_actionbar_subtitle">Delite podatke o lokaciji s prijatelji</string>

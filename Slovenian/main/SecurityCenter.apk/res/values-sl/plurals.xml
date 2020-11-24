@@ -762,6 +762,54 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">Izbriši %d slik</item>
         <item quantity="one">Izbriši %d sliko</item>
      </plurals>
+     <plurals name="power_center_battery_charge_number">
+        <item quantity="other">krat</item>
+        <item quantity="one">krat</item>
+     </plurals>
+     <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d napak porabe baterije</item>
+        <item quantity="one">%d napaka porabe baterije</item>
+     </plurals>
+     <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" ur"</item>
+        <item quantity="one">" ura"</item>
+     </plurals>
+     <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+     </plurals>
+     <plurals name="power_center_battery_health_summary">
+        <item quantity="other">Popolnoma napolnite napravo vsaj %2$d krat, da dobite natančne statistične podatke</item>
+        <item quantity="one">Popolnoma napolnite napravo vsaj %2$d krat, da dobite natančne statistične podatke</item>
+     </plurals>
+     <plurals name="power_center_battery_problem">
+        <item quantity="other">Odpravite %d težav porabe baterije</item>
+        <item quantity="one">Odpravite %d težavo porabe baterije</item>
+     </plurals>
+     <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Lahko odpravite %d težav porabe baterije</item>
+        <item quantity="one">Lahko odpravite %d težavo porabe baterije</item>
+     </plurals>
+     <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d stvari je lahko optimiziranih"</item>
+        <item quantity="one">" %d stvar je lahko optimizirana"</item>
+     </plurals>
+     <plurals name="power_center_battery_suggest">
+        <item quantity="other">Optimizirajte %d stvari za prihranek baterije</item>
+        <item quantity="one">Optimizirajte %d stvar za prihranek baterije</item>
+     </plurals>
+     <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Lahko optimizirate %d stvari za prihranek baterije</item>
+        <item quantity="one">Lahko optimizirate %d stvar za prihranek baterije</item>
+     </plurals>
+     <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d aplikacij se pogosto samodejno zaganja</item>
+        <item quantity="one">%d aplikacija se pogosto samodejno zaganja</item>
+     </plurals>
+     <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d aplikacij porablja baterijo</item>
+        <item quantity="one">%d aplikacija porablja baterijo</item>
+     </plurals>
      <plurals name="privacy_risk_app_count">
         <item quantity="other">%d aplikacij</item>
         <item quantity="one">%d aplikacija</item>

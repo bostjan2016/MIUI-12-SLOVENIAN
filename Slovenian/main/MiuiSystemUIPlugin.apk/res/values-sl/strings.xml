@@ -103,6 +103,7 @@
      <string name="miui_ringer_status_close">Izljučeno</string>
      <string name="miui_ringer_status_open">Vključeno</string>
      <string name="miui_ringer_total">Ne moti</string>
+     <string name="miui_ringer_total_description">Utišaj zvoke in izklopi vibracije za vse stvari, razen za budilko</string>
      <string name="miui_toast_zen_dnd_to_off">Ne moti je izklopljen. Zvoki in vibracije so ponovno vklopljeni.</string>
      <string name="miui_toast_zen_dnd_to_off_version_R">Ne moti je izklopljen. Zvoki obvestil in vibracije so ponovno vklopljeni.</string>
      <string name="miui_toast_zen_standard_to_off">Ne moti je izklopljen. Melodije zvonjenja in vibracije so ponovno vklopljene.</string>
@@ -229,7 +230,7 @@
   <string name="wednesday_short">Sre</string>
   <string name="wednesday_shortest">S</string>
      <string name="wireless_charging_connected_message">"Ko se naprava polni brezžično, ne morete uporabljati povratnega brezžičnega polnjenja."</string>
-     <string name="wireless_charging_low_battery_level_message">"Povratnega brezžičnega polnjenja ni mogoče uporabiti, če je baterije manj od 30%."</string>
+     <string name="wireless_charging_low_battery_level_message">"Povratnega brezžičnega polnjenja ni mogoče uporabiti, če je baterije manj od %d%%."</string>
      <string name="wireless_charging_ok">Razumem</string>
      <string name="wireless_charging_saver_cancel">Izključi</string>
      <string name="wireless_charging_saver_message">Varčevanje z energijo je zdaj vklopljeno. Ali želite obdržati povratno brezžično polnjenje?</string>

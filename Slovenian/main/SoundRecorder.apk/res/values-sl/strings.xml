@@ -248,6 +248,8 @@
   <string name="trash_box">Nedavno izbrisane stvari</string>
   <string name="trash_box_close_tip">Zapri povpraševanje</string>
   <string name="trash_box_delete_all">Trajno izbrišem vse stvari iz smeti?</string>
+  <string name="uninstall_warning_content">"Snemalec je sistemska aplikacija. Ko ga odstranite, ne boste mogli snemati in prepisovati zvočnih in glasovnih klicev."</string>
+  <string name="uninstall_warning_title">Želite odstraniti Snemalec?</string>
   <string name="usage_description">Prepisovanje zvoka in sinhroniziranje stvari z Mi Cloudom</string>
   <string name="user_feedback">Povratna inf.</string>
   <string name="v7_preference_off">IZKLJUČENO</string>

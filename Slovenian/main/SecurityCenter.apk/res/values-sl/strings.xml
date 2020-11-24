@@ -73,6 +73,11 @@
     <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
+     <string name="abnormal_consume_disable_autostart">Omeji samodejni zagon</string>
+     <string name="abnormal_consume_disable_autostart_toast">Samodejni zagon je bil uspešno omejen</string>
+     <string name="abnormal_consume_set_hidemode">S to aplikacijo uporabite varčevanje z energijo</string>
+     <string name="abnormal_consume_type_cpu">Visoka CPU poraba</string>
+     <string name="abnormal_consume_type_wakelock">"Sistem se ne more uspavati"</string>
   <string name="about_autostart">O samod. zagonu</string>
   <string name="ac_enable_title">Vključite zaklepanje aplikacij</string>
   <string name="ac_enter_applock">Vstopi v zakl. aplikacij</string>
@@ -977,7 +982,12 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="card_main_xspace_title">Dvojne aplikacije</string>
   <string name="card_sms_report">Prijavi preko SMS-a</string>
   <string name="card_tc_failed">"Ne morem kalibrirati"</string>
-  <string name="card_tc_failed_content">"Možni razlogi:\n 1. Operaterji reagirajo počasneje na začetku in na koncu meseca. Poskusite ponovno čez nekaj dni.\n 2. Potrebna je zahteva predloge omrežja kadar kalibrirate prvič. Povežite se na omrežje in poskusite ponovno.\n 3. Vaš mobilni operater morda ne podpira pošiljanje tekstnih sporočil z ostalimi podatki in stanjem računa. Obrnite se na mobilnrga operaterja za več informacij.\n 4. Morda je napaka v podatkih operaterja. Poskusite z diagnostiko operaterja rešiti ta problem.\n 5. Kaže da nič ne pomaga? Tapni "Prijavi preko SMS-a" da pošljete povratno informacijo Xiaomi-ju v SMS sporočilu."</string>
+     <string name="card_tc_failed_content">"Možni razlogi:
+ 1. Operaterji reagirajo počasneje na začetku in na koncu meseca. Poskusite ponovno čez nekaj dni.
+ 2. Potrebna je zahteva predloge omrežja kadar kalibrirate prvič. Povežite se na omrežje in poskusite ponovno.
+ 3. Vaš mobilni operater morda ne podpira pošiljanje tekstnih sporočil z ostalimi podatki in stanjem računa. Obrnite se na mobilnrga operaterja za več informacij.
+ 4. Morda je napaka v podatkih operaterja. Poskusite z diagnostiko operaterja rešiti ta problem.
+ 5. Kaže da nič ne pomaga? Tapni "Prijavi preko SMS-a" da pošljete povratno informacijo Xiaomi-ju v SMS sporočilu."</string>
   <string name="cd_back">Nazaj</string>
   <string name="celcius_symbol">℃</string>
   <string name="cellular_data_auto_check">Samodejno preveri</string>
@@ -1080,14 +1090,18 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Tapnite za vključitev mobilnih podatkov.</string>
   <string name="daily_limit_over_message">"Prekoračili ste svojo dnevno omejitev porabe podatkov."</string>
   <string name="daily_pkg_traffic">Omejitev porabe podatkov</string>
-  <string name="daily_sim_over_limit_dialog_message">"Izkoristili ste že %s dnevne omejitve podatkov.\n\nČe ponovo vključite mobilne podatke, vam bo vaš mobilni operater dodatno zaračunal."</string>
+     <string name="daily_sim_over_limit_dialog_message">"Izkoristili ste že %s dnevne omejitve podatkov.
+
+Če ponovo vključite mobilne podatke, vam bo vaš mobilni operater dodatno zaračunal."</string>
   <string name="daily_sim_over_limit_notify_title">"Izkoristili ste že %s dnevne omejitve podatkov."</string>
  <string name="data_booster_desc">Deaktivirajte drugo SIM režo da obdržite povezavo stabilno</string>
   <string name="data_booster_title">Stabiliziraj podatkovno povezavo</string>
   <string name="data_network_blocked_notification_title">Ni povezave s spletom</string>
   <string name="data_usage_correction_timeout_body">Tapnite za ročno posodobitev.</string>
   <string name="data_usage_correction_timeout_title">Potekel je čas za sinhronizacijo porabe podatkov</string>
-  <string name="data_usage_disabled_dialog">"Dosegli ste vašo omejitev porabe podatkov.\n\nPrekoračitev omejitve porabe podatkov lahko pripelje do povečanih stroškov."</string>
+     <string name="data_usage_disabled_dialog">"Dosegli ste vašo omejitev porabe podatkov.
+
+Prekoračitev omejitve porabe podatkov lahko pripelje do povečanih stroškov."</string>
   <string name="data_usage_disabled_dialog_enable">Vključi mob. podatke</string>
   <string name="data_usage_leisure_warning_body">Tapnite za pregled podrobnosti porabe podatkov.</string>
   <string name="data_usage_leisure_warning_title">Omejitev porabe podatkov</string>
@@ -1241,10 +1255,13 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="dlg_keyword_ok">Shrani</string>
   <string name="dlg_message_not_open_stranger_identify">Za vklop te storitve, pojdite v Nastavitve &gt; Telefon.</string>
   <string name="dlg_move_to_white">Dodaj v izjeme</string>
-  <string name="dlg_no_block">Odblokiram to telefonsko številko?\nBo dodana v izjeme toda predhodno blokirane stvari ne bodo vidne v zgodovini klicev.</string>
+     <string name="dlg_no_block">"Odblokiram to telefonsko številko?
+Bo dodana v izjeme toda predhodno blokirane stvari ne bodo vidne v zgodovini klicev."</string>
   <string name="dlg_no_block_ok">Odblokiraj</string>
-  <string name="dlg_not_block_call">"Odblokiram izbrane številke?\nBodo dodane v izjeme toda predhodno blokirane stvari ne bodo vidne v zgodovini klicev."</string>
-  <string name="dlg_not_block_sms">"Deblokiram izbrane številke?\nBodo dodane v izjeme toda predhodno blokirane stvari ne bodo vidne v dohodnih obvestilih."</string>
+     <string name="dlg_not_block_call">"Odblokiram izbrane številke?
+Bodo dodane v izjeme toda predhodno blokirane stvari ne bodo vidne v zgodovini klicev."</string>
+     <string name="dlg_not_block_sms">"Deblokiram izbrane številke?
+Bodo dodane v izjeme toda predhodno blokirane stvari ne bodo vidne v dohodnih obvestilih."</string>
   <string name="dlg_remove_address_blacklist">Odstranim to lokacijo s seznama blokiranih?</string>
   <string name="dlg_remove_address_whitelist">Odstranim to lokacijo iz izjem?</string>
   <string name="dlg_remove_blacklist">Ostranim to številko s seznama blokiranih?</string>
@@ -2002,7 +2019,9 @@ vašega igranja"</string>
   <string name="legal_workday_invalidate">Pon.-Pet.</string>
   <string name="legal_workday_invalidate_message">Tapnite za posodobitev informacij o delovnih dneh</string>
   <string name="legal_workday_message">(Preskoči počitnice)</string>
-  <string name="leisure_usage_dialog_message">"Dosegli ste omejitev podatkov.\n\nVaš operater vam lahko računa dodatne stroške če ponovno uporabite mobilno podatkovno povezavo."</string>
+     <string name="leisure_usage_dialog_message">"Dosegli ste omejitev podatkov.
+
+Vaš operater vam lahko računa dodatne stroške če ponovno uporabite mobilno podatkovno povezavo."</string>
   <string name="leisure_usage_dialog_title">Omejitev uporabe podatkov prekoračena, podatkovna povezava je prekinjena</string>
   <string name="limit_speed_by_quota">Omejitve hitrosti lahko uporabite, ko dosežete omejitev</string>
   <string name="list_empty_text">Prazno</string>
@@ -2171,9 +2190,9 @@ operaterja"</string>
   <string name="memory_clean_click_tip">Povečaj hitrost</string>
   <string name="memory_clean_memory_size_tip">Predpomnilnik</string>
   <string name="memory_clean_no_need_clean">Vse zgleda dobro</string>
-  <string name="memory_clean_no_need_clean_1" formatted="false">Osvobojeno %s.
+     <string name="memory_clean_no_need_clean_1" formatted="false">"Osvobojeno %s.
   
-Vaša naprava je zdaj %d%% hitrejša.</string>
+Vaša naprava je zdaj %d%% hitrejša."</string>
   <string name="memory_clean_no_running_process">Ni nalog za brisanje</string>
   <string name="memory_clean_running_process_title">Spremljanje aplikacij (%d)</string>
   <string name="memory_cleaned_memory_info">Na voljo spomina</string>
@@ -2399,14 +2418,19 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="note_list_none">Seznam je prazen</string>
   <string name="note_sms_none">Ni sporočil</string>
   <string name="noti_back_diving_mode_title">Interaktivni način je vključen. Tapni za izklop.</string>
+     <string name="notification_abnormal_check_button">Pokaži</string>
+     <string name="notification_abnormal_check_now_button">Pokaži</string>
+     <string name="notification_abnormal_consume_app_title">%s porablja baterijo</string>
+     <string name="notification_abnormal_consume_cpu">CPU viri so zlorabljeni v ozadju</string>
+     <string name="notification_abnormal_consume_wakelock">Sistem ostaja buden v ozadju</string>
   <string name="notification_battery_consume_abnormal_title">Baterija se prazni prehitro</string>
   <string name="notification_battery_over_heat_summary">Poiščite, kaj povzroča segrevanje in ohladite napravo.</string>
   <string name="notification_battery_over_heat_title">Trenutna temperatura je %d℃</string>
   <string name="notification_battery_scan_consume_abnormal_summary">Tapnite da rešite problem</string>
   <string name="notification_battery_scan_consume_abnormal_title_set">%s porablja baterijo</string>
   <string name="notification_channel_battery">Baterija</string>
-  <string name="notification_checker_installed_apk_hint">Po namestitvi ni treba hraniti APK</string>
   <string name="notification_charging_title">"Polnjenje "</string>
+     <string name="notification_checker_installed_apk_hint">Po namestitvi ni treba hraniti APK</string>
   <string name="notification_exit_extreme_mode_text">Baterija je napolnjena več kot %s</string>
   <string name="notification_exit_extreme_mode_title">Ekstremno varčevanje baterije je izključeno</string>
   <string name="notification_exit_power_save_mode">Varčevanje baterije izključeno</string>
@@ -2664,6 +2688,9 @@ To skrajšuje trajanje baterije."</string>
   <string name="pc_battery_detail_curve_reference_now">Zdaj</string>
   <string name="pc_battery_detail_device_item_title">Statistika porabe baterije</string>
   <string name="pc_battery_history_battery_detail_menu_item">Podrobnosti</string>
+     <string name="pc_battery_history_battery_software_menu_item">Programska oprema</string>
+     <string name="pc_battery_history_consume_all_menu_item">Vse</string>
+     <string name="pc_battery_history_consume_hardware_menu_item">Strojna oprema</string>
   <string name="pc_battery_history_consume_rank_menu_item">Razporedi po</string>
   <string name="pc_battery_history_consumption_percent_title">Odstotek porabe energije</string>
   <string name="pc_battery_history_idletime_title">Pripravljenost</string>
@@ -2743,8 +2770,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="permission_instruction_activity_recognition">To dovoljenje aplikacijam omogoča dostop do informacij, zbranih z vgrajenimi senzorji, ki zaznajo vašo telesno aktivnost (npr. Število korakov in vadbe). Ne pozabite, da so podatki o vaši telesni aktivnosti zasebni.</string>
   <string name="permission_instruction_add_voicemail">To dovoljenje aplikacijam omogoča, da v sistem dodajo glasovno pošto.</string>
   <string name="permission_instruction_answer_phone_call">To dovoljenje aplikacijam omogoča, da sprejemajo ali končujejo klice brez vašega soglasja.</string>
-  <string name="permission_instruction_auto_start">To dovoljenje omogoča samodejni zagon aplikacij brez vaše potrditve. Če to dovoljenje dodelite več aplikacijam, lahko naprava upočasni delovanje. Zlonamerne aplikacije uporabljajo to dovoljenje za zbiranje vaših osebnih podatkov brez vaše vednosti.
-</string>
+     <string name="permission_instruction_auto_start">"To dovoljenje omogoča samodejni zagon aplikacij brez vaše potrditve. Če to dovoljenje dodelite več aplikacijam, lahko naprava upočasni delovanje. Zlonamerne aplikacije uporabljajo to dovoljenje za zbiranje vaših osebnih podatkov brez vaše vednosti.
+"</string>
   <string name="permission_instruction_background_start">To dovoljenje aplikacijam omogoča prikazovanje pojavnih oken brez vaše potrditve. Ta pojavna okna lahko prekrijejo zaslon in v celoti vplivajo na običajno uporabo.</string>
   <string name="permission_instruction_bluetooth_admin">To dovoljenje aplikacijam omogoča vklop in izklop Bluetootha brez vaše potrditve.</string>
   <string name="permission_instruction_body_sensors">To dovoljenje aplikacijam omogoča dostop do informacij o vašem telesu, ki jih zbirajo senzorji (na primer srčni utrip). Ne pozabite, da so podatki o vašem telesu zasebni.</string>
@@ -2765,29 +2792,28 @@ To skrajšuje trajanje baterije."</string>
   <string name="permission_instruction_ongoing_notification">To dovoljenje aplikacijam omogoča ustvarjanje stalnih bližnjic na obvestilni plošči, ki lahko onemogočijo redna obvestila..</string>
   <string name="permission_instruction_package_usage_stat">To dovoljenje aplikacijam omogoča spremljanje vedenja drugih aplikacij v napravi in ​​pridobivanje podatkov, ki lahko vključujejo mobilne operaterja in jezikovne nastavitve. To je dovoljenje z visokim tveganjem. Naprava je lahko nadzorovana in ogrožena je lahko tudi varnost vaših osebnih podatkov.</string>
   <string name="permission_instruction_picture_in_picture">To dovoljenje aplikacijam omogoča ogled elementov na domačem zaslonu ali prek drugih aplikacij prek vmesnika slika v sliki.</string>
-  <string name="permission_instruction_popup_window">To dovoljenje aplikacijam omogoča ogled plavajočih oken prek katerega koli drugega vmesnika v vaši napravi, kar lahko vpliva na običajno uporabo drugih aplikacij. Zlonamerni programi lahko to dovoljenje uporabljajo za branje ali zbiranje zasebnih podatkov (na primer gesel) skozi prozorna plavajoča okna..
-</string>
-  <string name="permission_instruction_read_appplication_list">To dovoljenje aplikacijam omogoča dostop do informacij o vseh aplikacijah, nameščenih v vaši napravi. Zlonamerne aplikacije lahko to dovoljenje uporabijo za analizo vaših osebnih želja.  <string name="permission_group_title_others">Ostalo</string>
-</string>
-  <string name="permission_instruction_read_calllog">To dovoljenje aplikacijam omogoča dostop do zgodovine klicev, ki lahko vsebuje podrobne informacije o dohodnih in odhodnih klicih. To dovoljenje aplikacijam omogoča tudi shranjevanje zapisov zgodovine klicev. Zlonamerni programi lahko to dovoljenje uporabijo za skupno rabo vaše zgodovine klicev s tretjimi osebami ali zgodovine klicev zaradi goljufij.
-</string>
-  <string name="permission_instruction_read_clipboard">To dovoljenje aplikacijam omogoča branje katere koli vsebine, ki jo kopirate, vključno z zasebnimi podatki (npr. podatki o računu, številke bančnih kartic in gesla).
-</string>
-  <string name="permission_instruction_read_contacts">To dovoljenje aplikacijam omogoča dostop do kontaktnih podatkov, shranjenih v vaši napravi. Te informacije lahko vključujejo pogostost komunikacije z določenimi stiki prek klicev, e-pošte in drugih načinov. To dovoljenje aplikacijam omogoča tudi shranjevanje stikov. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za skupno rabo stikov brez vašega soglasja
-.</string>
+     <string name="permission_instruction_popup_window">"To dovoljenje aplikacijam omogoča ogled plavajočih oken prek katerega koli drugega vmesnika v vaši napravi, kar lahko vpliva na običajno uporabo drugih aplikacij. Zlonamerni programi lahko to dovoljenje uporabljajo za branje ali zbiranje zasebnih podatkov (na primer gesel) skozi prozorna plavajoča okna..
+"</string>
+     <string name="permission_instruction_read_appplication_list">To dovoljenje aplikacijam omogoča dostop do informacij o vseh aplikacijah, nameščenih v vaši napravi. Zlonamerne aplikacije lahko to dovoljenje uporabijo za analizo vaših osebnih želja.  <string name="permission_group_title_others">Ostalo</string>
+     <string name="permission_instruction_read_calllog">"To dovoljenje aplikacijam omogoča dostop do zgodovine klicev, ki lahko vsebuje podrobne informacije o dohodnih in odhodnih klicih. To dovoljenje aplikacijam omogoča tudi shranjevanje zapisov zgodovine klicev. Zlonamerni programi lahko to dovoljenje uporabijo za skupno rabo vaše zgodovine klicev s tretjimi osebami ali zgodovine klicev zaradi goljufij.
+"</string>
+     <string name="permission_instruction_read_clipboard">"To dovoljenje aplikacijam omogoča branje katere koli vsebine, ki jo kopirate, vključno z zasebnimi podatki (npr. podatki o računu, številke bančnih kartic in gesla).
+"</string>
+     <string name="permission_instruction_read_contacts">"To dovoljenje aplikacijam omogoča dostop do kontaktnih podatkov, shranjenih v vaši napravi. Te informacije lahko vključujejo pogostost komunikacije z določenimi stiki prek klicev, e-pošte in drugih načinov. To dovoljenje aplikacijam omogoča tudi shranjevanje stikov. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za skupno rabo stikov brez vašega soglasja
+."</string>
   <string name="permission_instruction_read_notify_sms">To dovoljenje aplikacijam omogoča branje besedilnih sporočil obvestil, shranjenih v vaši napravi ali na kartici SIM.</string>
   <string name="permission_instruction_read_phone_state">"To dovoljenje aplikacijam omogoča dostop do vaše telefonske številke, IMEI, IMSI in drugih identifikatorjev naprav. Aplikacije običajno uporabljajo to dovoljenje za ugotavljanje, ali so vaši klici preusmerjeni. Če uporabljate navidezni ID naprave, aplikacije ne bodo mogle dostopati do vaših dejanskih identifikatorjev naprave
 ."</string>
-  <string name="permission_instruction_read_sms">To dovoljenje aplikacijam omogoča branje vseh besedilnih sporočil, shranjenih v vaši napravi ali na kartici SIM. Takšna sporočila lahko vključujejo gesla, podatke o bančnem računu in druge osebne podatke.
-</string>
+     <string name="permission_instruction_read_sms">"To dovoljenje aplikacijam omogoča branje vseh besedilnih sporočil, shranjenih v vaši napravi ali na kartici SIM. Takšna sporočila lahko vključujejo gesla, podatke o bančnem računu in druge osebne podatke.
+"</string>
   <string name="permission_instruction_read_write_calendar">To dovoljenje aplikacijam omogoča dostop do koledarja ter branje, dodajanje, odstranjevanje, urejanje, skupno rabo in shranjevanje koledarskih dogodkov. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za pošiljanje sporočil v vašem imenu ali za urejanje koledarskih dogodkov brez vašega soglasja.</string>
   <string name="permission_instruction_receive_mms">To dovoljenje aplikacijam omogoča branje vseh večpredstavnostnih sporočil, shranjenih v vaši napravi ali na kartici SIM. Takšna sporočila lahko vključujejo gesla, podatke o bančnem računu in druge osebne podatke.</string>
   <string name="permission_instruction_record_audio">"To dovoljenje aplikacijam omogoča uporabo mikrofona za snemanje zvoka. Upoštevajte, da to dovoljenje aplikacijam omogoča snemanje česar koli, vključno z vašimi pogovori z drugimi. Najbolje je, da program dovoli uporabo tega dovoljenja samo med njihovo uporabo.
 "</string>
   <string name="permission_instruction_running_background">To dovoljenje omogoča izvajanje aplikacij v ozadju. S tem lahko aplikacije zbirajo podatke in nudijo storitve. Upoštevajte, da takšne dejavnosti povečajo porabo energije.</string>
   <string name="permission_instruction_running_exceed_data">To dovoljenje omogoča aplikacijam da ignorirajo omejitev potrebe mobilnih podatkov.</string>
-  <string name="permission_instruction_send_mms">To dovoljenje aplikacijam omogoča pošiljanje večpredstavnostnih sporočil, kar lahko povzroči dodatne stroške. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za pošiljanje plačljivih sporočil brez vašega soglasja.
-</string>
+     <string name="permission_instruction_send_mms">"To dovoljenje aplikacijam omogoča pošiljanje večpredstavnostnih sporočil, kar lahko povzroči dodatne stroške. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za pošiljanje plačljivih sporočil brez vašega soglasja.
+"</string>
   <string name="permission_instruction_send_payment_sms">To dovoljenje aplikacijam omogoča pošiljanje plačljivih besedilnih sporočil.</string>
   <string name="permission_instruction_send_sms">To dovoljenje aplikacijam omogoča pošiljanje besedilnih sporočil, kar lahko povzroči dodatne stroške. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za pošiljanje plačljivih sporočil brez vašega soglasja.</string>
   <string name="permission_instruction_show_locked">To dovoljenje aplikacijam omogoča prikaz elementov na zaklenjenem zaslonu. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za prikazovanje nadležnih oglasov.</string>
@@ -2796,11 +2822,11 @@ To skrajšuje trajanje baterije."</string>
   <string name="permission_instruction_touch_pay">To dovoljenje aplikacijam omogoča brezstično plačevanje.</string>
   <string name="permission_instruction_use_sip">To dovoljenje aplikacijam omogoča uporabo video storitev SIP.</string>
   <string name="permission_instruction_vr_assistant">To dovoljenje aplikacijam omogoča uporabo storitev pomočnikov VR.</string>
-  <string name="permission_instruction_write_calllog">To dovoljenje aplikacijam omogoča urejanje zgodovine klicev, ki lahko vsebuje podrobne informacije o dohodnih in odhodnih klicih. Zlonamerni programi lahko to dovoljenje uporabijo za brisanje ali urejanje vaše zgodovine klicev.
-</string>
+     <string name="permission_instruction_write_calllog">"To dovoljenje aplikacijam omogoča urejanje zgodovine klicev, ki lahko vsebuje podrobne informacije o dohodnih in odhodnih klicih. Zlonamerni programi lahko to dovoljenje uporabijo za brisanje ali urejanje vaše zgodovine klicev.
+"</string>
   <string name="permission_instruction_write_clipboard">To dovoljenje aplikacijam omogoča shranjevanje elementov v odložišče. Neželena sporočila lahko vplivajo na običajno uporabo odložišča.</string>
-  <string name="permission_instruction_write_contacts">To dovoljenje aplikacijam omogoča urejanje, dodajanje in brisanje podatkov o stikih, shranjenih v vaši napravi. Te informacije lahko vključujejo pogostost komunikacije z določenimi stiki s klici, e-pošto in drugimi metodami. To dovoljenje aplikacijam omogoča tudi brisanje stikov.
-</string>
+     <string name="permission_instruction_write_contacts">"To dovoljenje aplikacijam omogoča urejanje, dodajanje in brisanje podatkov o stikih, shranjenih v vaši napravi. Te informacije lahko vključujejo pogostost komunikacije z določenimi stiki s klici, e-pošto in drugimi metodami. To dovoljenje aplikacijam omogoča tudi brisanje stikov.
+"</string>
   <string name="permission_instruction_write_settings">To dovoljenje aplikacijam omogoča spreminjanje sistemskih nastavitev. Zlonamerne aplikacije lahko to dovoljenje uporabljajo s sistemskimi nastavitvami in vplivajo na običajno uporabo vaše naprave.</string>
   <string name="permission_group_title_others">Ostalo</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Aplikacije ne bodo zaprosile za vaše dovoljenje za dostop do vaših stikov, zgodovine klicev, nastavitev spremembe sistema ali dostopa do vaše kamere in drugih virov naprave. To funkcijo lahko omogočite v nastavitvah dovoljenj."</string>
@@ -2856,11 +2882,34 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_5g_save_close_title">Izklop 5G varčevanja baterije</string>
   <string name="power_center_5g_save_summary_text">Uporabite 5G povezanost za manjšo porabo energije v določenih situacijah</string>
   <string name="power_center_5g_save_title_text">5G Varčevanje baterije</string>
+     <string name="power_center_abnormal_consume_analysis">Nenormalnosti pri porabi energije</string>
   <string name="power_center_auto_shutdown">Načrtovan čas vklop/izklop</string>
   <string name="power_center_back">Nazaj</string>
+     <string name="power_center_battery_all">Vse</string>
+     <string name="power_center_battery_app_detail">Poraba baterije v aplikacijah</string>
+     <string name="power_center_battery_charge_night">Prihranite baterijo med nočnim polnjenjem</string>
+     <string name="power_center_battery_charge_times">Napolnjeno danes</string>
+     <string name="power_center_battery_chargefull_time">Dokler se popolnoma ne napolni</string>
+     <string name="power_center_battery_detail">Podrobnosti</string>
+     <string name="power_center_battery_duration">Preostal čas</string>
+     <string name="power_center_battery_duration_format">%1$s %2$s</string>
   <string name="power_center_battery_full">"Baterija je napolnjena "</string>
+     <string name="power_center_battery_hardware">Strojna oprema %s</string>
   <string name="power_center_battery_last">%s ostalo</string>
+     <string name="power_center_battery_level">%s napolnjeno</string>
+     <string name="power_center_battery_level_general">Normalno</string>
+     <string name="power_center_battery_problem_and_suggest">%1$s. %2$s.</string>
+     <string name="power_center_battery_software">Programska oprema %s</string>
+     <string name="power_center_battery_status">Poraba baterije</string>
+     <string name="power_center_battery_temperature">Temperatura</string>
+     <string name="power_center_battery_used_time">Na bateriji</string>
+     <string name="power_center_batteryrank_all">Vsa poraba baterije</string>
+     <string name="power_center_batteryrank_hardware">Poraba baterije strojna oprema %s</string>
+     <string name="power_center_batteryrank_software">Poraba baterije programska oprema %s</string>
+     <string name="power_center_batteryscan_normal">Ni napak porabe. pokaži rezultate.</string>
+     <string name="power_center_charge_status">Polnjenje</string>
   <string name="power_center_charge_time">%1$s do konca polnjenja</string>
+     <string name="power_center_consume_fast">Porablja baterijo</string>
   <string name="power_center_consume_rank">Poraba baterije</string>
   <string name="power_center_consume_time">%1$s ostalo</string>
   <string name="power_center_custom_title">Profili baterije</string>
@@ -2873,15 +2922,22 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_list_item_close_bluetooth">Izključi Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Dodatne nastavitve</string>
   <string name="power_center_list_item_haptic_feedback">Izključi haptično povratno informacijo</string>
+     <string name="power_center_list_item_haptic_feedback_summary">"Poteze in nadzor nad sistemom ne bodo spremljali povratne informacije"</string>
   <string name="power_center_list_item_set_lockscreen_time">Postavite zaslon v stanje mirovanja čez 30 sek. neaktivnosti</string>
   <string name="power_center_list_item_set_lockscreen_time_holder">Zakleni napravo po %d sek. neaktivnosti</string>
+     <string name="power_center_list_item_set_lockscreen_time_summary">Hitrejše zaklepanje naprave prihrani baterijo</string>
   <string name="power_center_list_item_wake_notification">"Ne zbudi zaslona za obvestila"</string>
+     <string name="power_center_list_item_wake_notification_summary">Dohodna obvestila bodo prikazana šele ko vklopite zaslon</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_one_key_save">Optimiziraj</string>
   <string name="power_center_ontime_boot">Čas vklopa</string>
   <string name="power_center_ontime_shutdown">Čas izklopa</string>
+     <string name="power_center_optimize_title">Predlogi</string>
   <string name="power_center_power_save_summary_text">Povečaj preostali čas do %1$dh %2$dm</string>
   <string name="power_center_power_save_title_text">Varčevanje baterije</string>
+     <string name="power_center_problem_title">Odpravi težave</string>
+     <string name="power_center_reduce_dpi_summary">QHD+ porablja več baterije</string>
+     <string name="power_center_reduce_resolution">Nižja ločljivost zaslona</string>
   <string name="power_center_repeat">Ponovi</string>
   <string name="power_center_scan_item_title_5g">5G povezava</string>
   <string name="power_center_scan_item_title_GPS">Uredite natančnost GPS-a</string>
@@ -2904,6 +2960,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_time_to_boot">Čas vklopa</string>
   <string name="power_center_time_to_shutdown">Čas izklopa</string>
   <string name="power_center_title">Baterija</string>
+     <string name="power_center_used_time_Introduction">Čas akumulatorja, odkar je bil zadnjič napolnjen pred %s</string>
   <string name="power_chooser_check_box_title">Izberi profil</string>
   <string name="power_chooser_sleep_summary">Izklopi vse opravila (klici, SMS, WiFi in podatkovne podatke), izjema je budilka</string>
   <string name="power_chooser_sleep_title">Spanje</string>
@@ -2999,21 +3056,53 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_off_warning_button_ok">Razumem</string>
   <string name="power_off_warning_message">Baterija je prazna. Naprava se bo izključila čez %d sek. Priključite polnilec.</string>
   <string name="power_off_warning_notification_title">O izklopu</string>
+     <string name="power_optimize__set_lockscreen_time_holder">Zakleni napravo po %d sekundah nedejavnosti</string>
+     <string name="power_optimize__set_lockscreen_time_summary">Hitrejše zaklepanje naprave prihrani baterijo</string>
+     <string name="power_optimize_aod_summary">Naprava varčuje z baterijo, ko je zaslon izklopljen</string>
+     <string name="power_optimize_auto_brightness">Samodejno prilagodi svetlost</string>
+     <string name="power_optimize_auto_brightness_summary">Samodejna svetlost prihrani baterijo</string>
   <string name="power_optimize_auto_catagory_title">Problemi baterije</string>
   <string name="power_optimize_battery_save_idea">Optimiziraj baterijo</string>
   <string name="power_optimize_battery_save_more">Več</string>
   <string name="power_optimize_brightness">Osvetljenost zaslona</string>
   <string name="power_optimize_btn_text_fixed">Optimizirano</string>
   <string name="power_optimize_catagory_fixed_title">Optimizirano</string>
+     <string name="power_optimize_clean_memory">Očisti spomin %d minut po zaklepu</string>
+     <string name="power_optimize_clean_memory_summary">Dejavnosti v ozadju porabijo veliko energije</string>
   <string name="power_optimize_close_app">Zapri aplikacije ki porabijo preveč energije</string>
+     <string name="power_optimize_close_bluetooth_summary">Bluetooth v ozadju porabi veliko energije</string>
+     <string name="power_optimize_close_consume_app">Zapri aplikacije, ki praznijo baterijo</string>
+     <string name="power_optimize_close_gps">Izklopi lokacijske storitve</string>
+     <string name="power_optimize_close_haptic_feedback">Izklopite haptične povratne informacije</string>
+     <string name="power_optimize_close_wake_notification">"Ne prebujaj zaslona za obvestila"</string>
+     <string name="power_optimize_close_wlan">Izklopi prenosno dostopno točko</string>
+     <string name="power_optimize_close_wlan_summary">Prihranite energijo, ko ni priključenih nobenih naprav</string>
+     <string name="power_optimize_darkmode">Preklopite v temni način</string>
+     <string name="power_optimize_darkmode_dialog_confirm">Vključi</string>
+     <string name="power_optimize_darkmode_dialog_summary">Temni način spremeni barvno shemo uporabniškega vmesnika sistema in izbranih aplikacij, kar vam omogoča prihranek baterije in zmanjšanje obremenitve oči.</string>
+     <string name="power_optimize_darkmode_dialog_title">Preklopite v temni način</string>
+     <string name="power_optimize_darkmode_extend_summary">Temni način spremeni barvno shemo uporabniškega vmesnika sistema in izbranih aplikacij, kar vam omogoča prihranek baterije in zmanjšanje obremenitve oči</string>
+     <string name="power_optimize_darkmode_summary">Temni način porabi manj energije</string>
   <string name="power_optimize_disable_5g">Omeji 5G povezavo</string>
+     <string name="power_optimize_disable_5g_summary">Povezava 5G porabi več energije</string>
+     <string name="power_optimize_disable_aod">Izključi Vedno na zaslonu</string>
   <string name="power_optimize_disable_app_autostart">Prepreči aplikacijam samodejni zagon</string>
   <string name="power_optimize_disable_gps">Izključi GPS</string>
   <string name="power_optimize_disable_gps_high_accuracy">Izključi način dela lokacije visoke natančnosti</string>
   <string name="power_optimize_disable_start_other_app">Prepreči aplikacijam odpiranje drugih aplikacij</string>
+     <string name="power_optimize_disable_start_other_app_summary">Aplikacije porabljajo energijo tako, da medsebojno zaženejo</string>
+     <string name="power_optimize_disconnect_data">Izklopite mobilne podatke %d minut po zaklepanju naprave</string>
+     <string name="power_optimize_disconnect_data_summary">Uporaba mobilnih podatkov v ozadju porabi energijo</string>
+     <string name="power_optimize_enable_now_button">Vključi</string>
+     <string name="power_optimize_gps_summary">Omejite dostop do lokacije za vse aplikacije</string>
   <string name="power_optimize_loading">Samo trenutek…</string>
   <string name="power_optimize_manual_catagory_title">Ročno</string>
   <string name="power_optimize_open_hide_mode">Vključi Varčevanje baterije</string>
+     <string name="power_optimize_power_save_extend_time">Dodaj %s</string>
+     <string name="power_optimize_power_save_summary">Preklopite v temni način in uporabite več sistemskih optimizacij, ki omejujejo aktivnost v ozadju in varčujejo z energijo</string>
+     <string name="power_optimize_prohibit_app_autostart">"Ne dovolite samodejnega zagona aplikacij"</string>
+     <string name="power_optimize_reduce_fps">Znižajte hitrost osveževanja zaslona na %d HZ</string>
+     <string name="power_optimize_reduce_fps_summary">Pri večini primerov deluje nižja stopnja osveževanja</string>
   <string name="power_optimize_save_mode_not_opened">Varčevanje baterije izključeno</string>
   <string name="power_optimize_save_on_lockscreen">Varčujte energijo kadar je naprava zaklenjena</string>
   <string name="power_phone">Glasovni klici</string>
@@ -3241,8 +3330,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_open_adjust_traffic">"Posodobi porabo podatkov vsakodnevno z uporabo statistike mobilnega operaterja"</string>
   <string name="pref_operator_not_set">"Operater ni nastavljen"</string>
   <string name="pref_over_traffic_limit">Ko presežete omejitev podatkov</string>
-  <string name="pref_package_traffic_leisure">%1$s 
-  Izklj.maks.: %2$s</string>
+     <string name="pref_package_traffic_leisure">"%1$s 
+  Izkl.maks.: %2$s"</string>
   <string name="pref_package_traffic_normal">Maks.: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Dodatno: %2$s</string>
   <string name="pref_package_traffic_settings">Omejitev mobilnih podatkov</string>
@@ -3720,13 +3809,13 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="see_detail">Podrobnosti</string>
   <string name="see_more">Več</string>
   <string name="see_more_content">Posodobite igre da boste videli več</string>
+     <string name="select_pattern">Izberi vzorec</string>
   <string name="select_province_and_city">Izberite lokacijo</string>
   <string name="send_msg_to_query">Pošljite SMS za preverbo</string>
-  <string name="set_complete">Uspešno nastavljeno</string>
-  <string name="set_location">Nastavite lokacijo</string>
-  <string name="select_pattern">Izberi vzorec</string>
   <string name="set_applock_password">Nastavite geslo</string>
+     <string name="set_complete">Uspešno nastavljeno</string>
   <string name="set_immediately">Nastavi</string>
+     <string name="set_location">Nastavite lokacijo</string>
   <string name="set_mixed_password_name">Nastavi geslo</string>
   <string name="set_numeric_password_name">Nastavi PIN</string>
   <string name="set_package_tips">"Vašemu mobilnemu operaterju bomo poslali brezplačno sporočilo SMS, da preveri vaš podatkovni paket. Podatki, ki jih posredujete, bodo šifrirani in posredovani našim strežnikom, da sestavijo to sporočilo."</string>
@@ -3740,9 +3829,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="settings">Nastavitve porabe podatkov</string>
   <string name="settings_battery_consume_abnormal_summary">Obvesti me kadar se baterija prazni prehitro</string>
   <string name="settings_battery_consume_abnormal_title">Obvestilo prehitrega praznjenja</string>
-  <string name="settings_camera_subtitle_no">Ni metapodatkov</string>
   <string name="settings_battery_over_heat_summary">Obvesti me kadar naprava postaja toplejša kot normalno</string>
   <string name="settings_battery_over_heat_title">Obvestilo pregrevanja</string>
+     <string name="settings_camera_subtitle_no">Ni metapodatkov</string>
   <string name="settings_category_other">Ostale nastavitve</string>
   <string name="settings_category_overheat">Pregrevanje</string>
   <string name="settings_choice_no_notification">Izključeno</string>
@@ -4294,8 +4383,8 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tc_sms_report_geting_sms">Sprejemanje poročila SMS-a…</string>
   <string name="tc_sms_report_notify_correction_body">Pojdi v-&gt; Varnost-&gt; Poraba podatkov in poskusite ponovno ročno.</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Ne morem posodobiti podrobnosti porabe podatkov"</string>
-  <string name="tc_sms_report_notify_get_failure_body">Ne morem poslati poročila o porabi podatkov. Preverite če ste priključeni
-   na mobilno omrežje.</string>
+     <string name="tc_sms_report_notify_get_failure_body">"Ne morem poslati poročila o porabi podatkov. Preverite če ste priključeni
+   na mobilno omrežje."</string>
   <string name="tc_sms_report_notify_get_failure_title">"Ne morem dobiti SMS o porabi podatkov"</string>
   <string name="tc_sms_report_notify_get_timeout_body">Čas obdelave je potekel. Potrdi pri operaterju da je koda zahteve SMS ki ste jo vnesli pravilna.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Ne morem dobiti SMS o porabi podatkov"</string>
@@ -4575,13 +4664,13 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Ne veste operaterja?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_get_template_falure">"Ne morem se povezati na omrežje. Preverite svojo podatkovno povezavo in poskusite ponovno."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"Ne kaži več"</string>
+     <string name="traffic_setting_fragment_loading_text">Pridobivanje podrobnosti omrežja…</string>
   <string name="traffic_setting_fragment_month_summary">Mobilni podatki in minute klicev se posodabljajo mesečno</string>
   <string name="traffic_setting_fragment_month_title">Mesečni plan podatkov</string>
   <string name="traffic_setting_fragment_next">Naprej</string>
+     <string name="traffic_setting_fragment_no_network">"Ne morem se povezati na omrežje"</string>
   <string name="traffic_setting_fragment_not_limited_summary">Opcije neomejenega plana podatkov</string>
   <string name="traffic_setting_fragment_not_limited_title">Neomejeni plan podatkov</string>
-  <string name="traffic_setting_fragment_loading_text">Pridobivanje podrobnosti omrežja…</string>
-  <string name="traffic_setting_fragment_no_network">"Ne morem se povezati na omrežje"</string>
   <string name="traffic_setting_fragment_null">Prazno</string>
   <string name="traffic_setting_fragment_operator">Operater</string>
   <string name="traffic_setting_fragment_operator_setting">Operater</string>
@@ -4594,11 +4683,11 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="traffic_setting_fragment_template">Predloga sporočila</string>
   <string name="traffic_setting_fragment_title">Prošnja za porabo podatkov</string>
   <string name="traffic_setting_fragment_title_guide">Mob. operaterji in plani pdatkov</string>
+     <string name="traffic_setting_open">Vključeno</string>
+     <string name="traffic_setting_step_num">Nastavitve porabe</string>
   <string name="traffic_usage_warning_body">"Porabili ste %s mobilnih podatkov ta mesec."</string>
   <string name="traffic_usage_warning_limit">Opzorilo porabe podatkov</string>
   <string name="traffic_usage_warning_title">Opzorilo porabe podatkov</string>
-  <string name="traffic_setting_open">Vključeno</string>
-  <string name="traffic_setting_step_num">Nastavitve porabe</string>
   <string name="traffic_warning_purchase_title">Opozorilo porabe podatkov</string>
   <string name="try_game">Poskusi</string>
   <string name="try_recommended_function">Zavarujte svojo napravo s pomočjo novega opravila Varnost</string>
@@ -4669,8 +4758,8 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="vb_advanced_settings_pic_stronger_desc">Napravite jasnejši premik objektov z izboljšanjem animacij. To porablja energijo.</string>
   <string name="vb_fps_display_unit">Hz</string>
   <string name="vb_fps_settings">Hitrost samodejnega osveževanja</string>
-  <string name="vb_fps_settings_tips">Ta funkcija prilagodi hitrost osveževanja zaslona na hitrost sličic videoposnetka, prihrani življenjsko dobo baterije in omogoči gladko predvajanje. Če omogočite plavajoče komentarje, bo izklopljena hitrost samodejnega osveževanja.
-</string>
+     <string name="vb_fps_settings_tips">"Ta storitev prilagodi hitrost osveževanja zaslona na hitrost sličic videoposnetka, prihrani življenjsko dobo baterije in omogoči gladko predvajanje. Če omogočite plavajoče komentarje, bo izklopljena hitrost samodejnega osveževanja.
+"</string>
   <string name="vb_quick_func_auto_bgm">Prepoznaj glasbo v ozadju</string>
   <string name="vb_quick_func_hangup_listening">Predvajaj video zvok z izključenim zaslonom</string>
   <string name="vb_quick_func_screen_capture">Posnetek zaslona</string>

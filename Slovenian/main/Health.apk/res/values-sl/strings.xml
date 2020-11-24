@@ -550,6 +550,7 @@ Počakajte dokler krog ne postane rdeč."</string>
   <string name="hr_detect_state_regular_desc">Vsakodnevni delovni in študijski status</string>
   <string name="hr_detect_state_reseting">Stanje počivanja</string>
   <string name="hr_detect_state_reseting_desc">Pravkar zbujen-a ali popolnoma sproščen-a</string>
+  <string name="hr_disable_in_split_screen">"Med uporabo deljenega zaslona utripa ni mogoče izmeriti"</string>
   <string name="hr_disturb_detect">Odkrivanje prekinjeno</string>
   <string name="hr_finger_permission_desc">Za merjenje srčnega utripa mora ta storitev dostopati do optičnega bralnika prstnih odtisov, da lahko zazna spremembe krvnega pretoka. Dovolim?</string>
   <string name="hr_fp_area">Področje prstnega odtisa</string>

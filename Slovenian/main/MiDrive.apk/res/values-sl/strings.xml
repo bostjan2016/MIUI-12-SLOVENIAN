@@ -129,6 +129,7 @@
   <string name="confirm_activate_email">Potrjeno</string>
   <string name="confirm_and_continue">Nadaljuj</string>
   <string name="confirm_bundled_phone_dialog_title">Potrdi povezano številko telefona</string>
+     <string name="confirm_know">Nazaj</string>
   <string name="confirm_new_pwd">Potrdi novo geslo</string>
   <string name="confirm_unbundled_phone_dialog_message">Ta telefonska številka je bila povezana z Mi računom %2$s za %1$s. Če nadaljujete, ne bo več povezano z Mi računom %3$s. Nadaljujem?</string>
   <string name="consumption_alert">Povezovanje s spletom</string>
@@ -226,6 +227,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="exception_move_file_exist">"Stvar ki jo premikate je že v ciljni mapi"</string>
   <string name="exception_move_sub_path">"Ne morem premestiti stvari v isto mapo"</string>
   <string name="exception_net_not_available">"Ne morem se povezati na omrežje"</string>
+     <string name="exception_not_support_modify_for_overseas_user">"Ta storitev ni na voljo zunaj celinske Kitajske"</string>
   <string name="exception_param_error">Prišlo je do napake. Počakajte minuto ali dve in poskusite znova.</string>
   <string name="exception_rename_conflict">"Ne morem preimenovati. Stvar z tem imenom že obstaja."</string>
   <string name="exception_rename_illegal_char">"Imena datotek ne smejo vsebovati posebne znake"</string>
@@ -235,6 +237,11 @@ Pošljite to kodo nadzorniku."</string>
   <string name="file_already_downlaoded">Datoteka shranjena v \"%1$s\"</string>
   <string name="file_change_btn_download">Prenesi datoteko</string>
   <string name="file_change_btn_upload">Naloži datoteko</string>
+     <string name="file_info_created">"Naloženo: "</string>
+     <string name="file_info_local_created">"Ustvarjeno: "</string>
+     <string name="file_info_location">"Lokacija: "</string>
+     <string name="file_info_modified">"Zadnja sprememba: "</string>
+     <string name="file_info_size">"Velikost: "</string>
   <string name="file_is_downloaded">Stvar je že prenešena</string>
   <string name="file_loading">Samo trenutek…</string>
   <string name="file_name_empty">Vnesti morate ime.</string>
@@ -249,6 +256,12 @@ Pošljite to kodo nadzorniku."</string>
   <string name="file_send_no_support">"Ne morete deliti datoteke te vrste"</string>
   <string name="file_size_is_zero">Velikost datoteke mora biti večja od 0</string>
   <string name="file_size_lager_than_4g">"Velikost datoteke ne more biti večja od 4 GB"</string>
+     <string name="file_sort_create_time">Razvrsti po datumu nastanka</string>
+     <string name="file_sort_modify_time">Razvrsti po datumu spremembe</string>
+     <string name="file_sort_name">Razvrsti po imenu</string>
+     <string name="file_sort_size">Razvrsti po velikosti</string>
+     <string name="file_status_text">%1$s | %2$s %3$s: %4$s</string>
+     <string name="file_status_text_no_size">%1$s %2$s: %3$s</string>
   <string name="file_too_large">Datoteka je prevelika za prenos.</string>
   <string name="file_upload_dialog_cancel">Prekliči</string>
   <string name="file_upload_dialog_title">Izberi kategorijo</string>
@@ -321,7 +334,11 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="move_failed_retry">"Ne morem premakniti, počakajte %1$s in poskusite znova"</string>
   <string name="move_file_success">Uspešno premeščeno</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
+     <string name="music_format_not_support">"Predogled datoteke ni mogoč"</string>
   <string name="music_picker_title">Izberite glasbo</string>
+     <string name="music_play_attention_network_traffic">Uporaba mobilnih podatkov za pretakanje zvoka in videa lahko ustvari dodatne stroške</string>
+     <string name="music_play_online">Pretakanje</string>
+     <string name="music_play_online_network_not_available">"Povezave z omrežjem ni bilo mogoče vzpostaviti. Preverite omrežne nastavitve in poskusite znova."</string>
   <string name="music_preview_download_failed">"Ne morem naložiti"</string>
   <string name="music_preview_failed">"Ne morem predvajati te avdio datoteke"</string>
   <string name="music_preview_title_loading">Samo trenutek…</string>
@@ -347,6 +364,7 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="no_phone">Ni številke telefona</string>
   <string name="no_tasks">Ni nalog.</string>
   <string name="not_set">Ni nastavljeno</string>
+     <string name="not_support_upload_file_for_overseas_users">"Nalaganje ni na voljo zunaj celinske Kitajske"</string>
   <string name="notification_channel_remind">Opomniki</string>
   <string name="notification_channel_service">Storitve</string>
   <string name="ok">V redu</string>
@@ -380,6 +398,7 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="operation_dialog_move_message">Premeščanje…</string>
   <string name="operation_dialog_rename_message">Preimenovanje…</string>
   <string name="operation_download">Prenesi</string>
+     <string name="operation_info">Podrobnosti</string>
   <string name="operation_move">Premakni</string>
   <string name="operation_moving">Premikam…</string>
   <string name="operation_moving_detail">Premikam (%1$d/%2$d)</string>
@@ -524,6 +543,7 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="refresh_label_refreshed">Uspešno osveženo</string>
   <string name="refresh_label_refreshing">Osveževanje…</string>
   <string name="refresh_label_release_to_refresh">Spusti za osvežitev</string>
+     <string name="release_enter_private">Spusti za ogled zasebnih datotek</string>
   <string name="remove_success">Uspešno izbrisano</string>
   <string name="rename_alert">"Če spremenite končnico datoteke jo mogoče ne boste mogli odpreti."</string>
   <string name="rename_ext_confirm_dialog_desc">S spremembo vrste datoteke lahko datoteka postane neuporabna</string>
@@ -565,6 +585,8 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="send_to_midrive_failed">"Ta vrsta datotek ni podprta."</string>
   <string name="sending">Pošiljam…</string>
   <string name="service_error">Napaka strežnika</string>
+     <string name="set_lock_password_dialog_msg">Geslo za zaščito zasebnosti bo uporabljeno za fotografije, beležke in datoteke.</string>
+     <string name="set_lock_password_dialog_title">Nastavite novo geslo</string>
   <string name="set_success">Menjava uspešna</string>
   <string name="setting_clear_cache">Očisti predpomnilnik</string>
   <string name="setting_create_shortcut">Bližnjica zač. zaslona</string>
@@ -591,6 +613,8 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="start_download">Začetek prenašanja…</string>
   <string name="start_upload">Začetek nalaganja…</string>
   <string name="start_use_xiaomi_account">Začnite uporabljati Mi Drive</string>
+     <string name="stay_tuned">Ostanite na vezi</string>
+     <string name="stay_tuned_sub_desc">Ta storitev je trenutno na voljo samo v celinski Kitajski</string>
   <string name="storage_internal">Notranji pomnilnik</string>
   <string name="storage_manage_list_title">Xiaomi Cloud</string>
   <string name="storage_manage_list_title_action">Več</string>
@@ -620,6 +644,8 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="transing">Pošiljanje…</string>
   <string name="transport_end_button">Uredi</string>
   <string name="transport_title">Prenosi</string>
+     <string name="unlock_password_dialog_msg">Uporabljeno bo geslo za zaščito zasebnosti. Deluje za fotografije, beležke in datoteke.</string>
+     <string name="unlock_password_dialog_title">Geslo za zaščito zasebnosti</string>
   <string name="update_dialog_button_cancel">Ne zdaj</string>
   <string name="update_dialog_button_ok">Posodobi</string>
   <string name="update_dialog_content">"Nova verzija: %1$s
