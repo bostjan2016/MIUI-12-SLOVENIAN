@@ -2794,7 +2794,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="permission_instruction_picture_in_picture">To dovoljenje aplikacijam omogoča ogled elementov na domačem zaslonu ali prek drugih aplikacij prek vmesnika slika v sliki.</string>
      <string name="permission_instruction_popup_window">"To dovoljenje aplikacijam omogoča ogled plavajočih oken prek katerega koli drugega vmesnika v vaši napravi, kar lahko vpliva na običajno uporabo drugih aplikacij. Zlonamerni programi lahko to dovoljenje uporabljajo za branje ali zbiranje zasebnih podatkov (na primer gesel) skozi prozorna plavajoča okna..
 "</string>
-     <string name="permission_instruction_read_appplication_list">To dovoljenje aplikacijam omogoča dostop do informacij o vseh aplikacijah, nameščenih v vaši napravi. Zlonamerne aplikacije lahko to dovoljenje uporabijo za analizo vaših osebnih želja.  <string name="permission_group_title_others">Ostalo</string>
+     <string name="permission_instruction_read_appplication_list">To dovoljenje aplikacijam omogoča dostop do informacij o vseh aplikacijah, nameščenih v vaši napravi. Zlonamerne aplikacije lahko to dovoljenje uporabijo za analizo vaših osebnih želja.</string>
      <string name="permission_instruction_read_calllog">"To dovoljenje aplikacijam omogoča dostop do zgodovine klicev, ki lahko vsebuje podrobne informacije o dohodnih in odhodnih klicih. To dovoljenje aplikacijam omogoča tudi shranjevanje zapisov zgodovine klicev. Zlonamerni programi lahko to dovoljenje uporabijo za skupno rabo vaše zgodovine klicev s tretjimi osebami ali zgodovine klicev zaradi goljufij.
 "</string>
      <string name="permission_instruction_read_clipboard">"To dovoljenje aplikacijam omogoča branje katere koli vsebine, ki jo kopirate, vključno z zasebnimi podatki (npr. podatki o računu, številke bančnih kartic in gesla).
@@ -4613,7 +4613,7 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Prihranjeno podatkov</string>
   <string name="traffic_saving_mobile_usage">Poraba podatkov</string>
-  <string name="traffic_saving_msg_month">Mesečni varčevanje:</string>
+  <string name="traffic_saving_msg_month">Mesečno varčevanje:</string>
   <string name="traffic_saving_msg_not_started">Izključeno</string>
   <string name="traffic_saving_msg_today">Prihranjeno danes</string>
   <string name="traffic_saving_need_optimize">Lahko je optimizirano</string>
@@ -4934,4 +4934,5 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="xunyou_pay_webview">Xunyou storitve</string>
   <string name="xunyou_server_expired">Seja je potekla.</string>
      <string name="yuan">CNY</string>
+     <string name="zhifubao_not_found">Različica aplikacije je prenizka ali ni nameščena</string>
 </resources>
