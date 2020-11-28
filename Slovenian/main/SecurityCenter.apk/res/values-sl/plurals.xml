@@ -125,7 +125,8 @@
         <item quantity="one">%d aplikacija porablja baterijo</item>
     </plurals>
 	<plurals name="people">
-         <item quantity="other">Preneslo %1$d oseb</item>
+     <item quantity="other">Preneslo %1$d oseb</item>
+	 <item quantity="one">Prenesla %1$d oseba</item>
      </plurals>
 	 <plurals name="power_main_battery_last_day">
         <item quantity="other">%s dni ostane</item>
@@ -193,11 +194,7 @@
      </plurals>
     <plurals name="view_num">
          <item quantity="other">%1$d ogledov</item>
-         <item quantity="zero">%1$d ogledov</item>
          <item quantity="one">%1$d ogled</item>
-         <item quantity="two">%1$d ogleda</item>
-         <item quantity="few">%1$d ogledov</item>
-         <item quantity="many">%1$d ogledov</item>
     </plurals>
 	<plurals name="scan_result_description">
        <item quantity="other">Najdeno tveganj plačevanja: %d</item>
@@ -485,7 +482,6 @@
     </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">Najdeno %d aplik.</item>
-        <item quantity="zero">Najdeno 0 aplik.</item>
         <item quantity="one">Najdena %d aplik.</item>
     </plurals>
 	<plurals name="search_app_count_txt_na">
@@ -853,5 +849,13 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
      <plurals name="privacy_risk_work_encryption_msg">
         <item quantity="other">%d stvari potrebuje posebno zaščito</item>
         <item quantity="one">%d stvar potrebuje posebno zaščito</item>
+     </plurals>
+	 <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d težav z uporabo baterije</item>
+        <item quantity="one">%d težava z uporabo baterije</item>
+     </plurals>
+     <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Optimizirajte %d stvari za varčevanje baterije</item>
+        <item quantity="one">Optimizirajte %d stvar za varčevanje baterije</item>
      </plurals>
 </resources>

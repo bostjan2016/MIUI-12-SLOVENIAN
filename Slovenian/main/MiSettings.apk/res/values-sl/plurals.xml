@@ -128,6 +128,10 @@
         <item quantity="other">%d krat</item>
         <item quantity="one">%d krat</item>
     </plurals>
+     <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">Povp.%.2f krat</item>
+        <item quantity="one">Povp. %.2f krat</item>
+     </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">Vikend: %d ur</item>
         <item quantity="one">Vikend: %d ura</item>

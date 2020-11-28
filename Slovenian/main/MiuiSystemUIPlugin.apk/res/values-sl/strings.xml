@@ -197,6 +197,9 @@
      <string name="reboot_info_shutdown_alarm">Alarm za izklop: %s</string>
   <string name="reset">Ponastavi</string>
      <string name="restart">Ponovno zaženi</string>
+     <string name="safe_media_volume_warning">"Povečam glasnost nad priporočeno raven?
+
+Dolgotrajno poslušanje visoke glasnosti lahko poškoduje vaš sluh."</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>

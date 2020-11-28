@@ -122,19 +122,19 @@
   <string name="pause">Odmor</string>
   <string name="playback_delete_records">Izbriši posnetek</string>
   <string name="playback_share_records">Deli posnetek</string>
+     <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="preference_enable_earpiece_summary">Uporabi zvočnik za zunanje predvajanje</string>
   <string name="preference_enable_earpiece_title">Uporabi zvočnik za predvajanje avdia</string>
   <string name="preference_led_indicator">Obvestila na zaklenjem zaslonu</string>
   <string name="preference_led_indicator_prompt">Med snemanjem kaži bližnjico v obvestilni vrstici stanja ter utripajočo lučko.</string>
+     <string name="preference_recog_terms">Pogoji uporabe</string>
+     <string name="preference_record_desktop_indicator_summary">Pokaži modri indikator na zač. zaslonu ko snemalec dela v ozadju</string>
+     <string name="preference_record_desktop_indicator_title">Indikator zač. zaslona</string>
   <string name="preference_record_scenes_dialog_title">Izberite vrsto snemanja</string>
   <string name="preference_scenes">Vrsta snemanja</string>
-  <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="preference_silent_mode">Izključi zvok zvonjenja med snemanjem</string>
   <string name="preference_status_bar_indicator_prompt">Pokaži bližnjico v obvestilni vrstici med snemanjem</string>
   <string name="preference_tip_rename">Ročno poimenuj posnetek</string>
-  <string name="preference_recog_terms">Pogoji uporabe</string>
-  <string name="preference_record_desktop_indicator_summary">Pokaži modri indikator na zač. zaslonu ko snemalec dela v ozadju</string>
-  <string name="preference_record_desktop_indicator_title">Indikator zač. zaslona</string>
   <string name="privacy_policy_title">Pravila o zasebnosti</string>
   <string name="recognition_button_add_to_queue">Dodaj v čakalno vrsto</string>
   <string name="recognition_button_cancel">Ne zdaj</string>
@@ -262,6 +262,9 @@
   <string name="webview_service_unavailiable">Storitev nedostopna</string>
   <string name="webview_try_again">Poskusite ponovno</string>
   <string name="wifi_recommended_body" formatted="false">"Z uporabo mobilne podatkovne povezave in prenosom te datoteke (%s) se bo povečala uporaba podatkov.
-  Če greste čez mejo uporabe podatkov vašega zakupa lahko vaš ponudnik zaračuna dodaten strošek. Če želite počakati na povezavo WiFi za prenos datoteke pritisnite %s.</string>
+  Če greste čez mejo uporabe podatkov vašega zakupa lahko vaš ponudnik zaračuna dodaten strošek. Če želite počakati na povezavo WiFi za prenos datoteke pritisnite %s."</string>
   <string name="wifi_recommended_title">Opozorilo uporabe podatkov</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">Posodobitev na voljo</string>
 </resources>

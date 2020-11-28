@@ -78,8 +78,8 @@
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
-  <string name="focus_mode_timer_add_limit">Lahko dodate do %d lastnih časovnikov</string>
   <string name="focus_mode_custom_time">Prilagojeno trajanje</string>
+     <string name="focus_mode_timer_add_limit">Lahko dodate do %d lastnih časovnikov</string>
   <string name="focus_mode_timer_delete">Izbriši</string>
   <string name="focus_mode_timer_exist">Ta seja že obstaja</string>
   <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d do %d min.</string>
@@ -272,6 +272,7 @@
   <string name="unlock_times_per_hour">"Odklepanj na uro: "</string>
   <string name="usage_agree">Strinjam se</string>
   <string name="usage_app_get_it">Razumem</string>
+  <string name="usage_app_holiday_limit">Nedelovni dnevi</string>
   <string name="usage_app_limit_alter_summary">"Kaže da je ta časovna omejitev krajša od časa današnje uporabe aplikacije. Vseeno nastavim omejitev?"</string>
   <string name="usage_app_limit_alter_title">Preverite časovno omejitev zaslona</string>
   <string name="usage_app_limit_prelong">Podaljšajte čas</string>
@@ -358,11 +359,16 @@ Aplikacija potrebuje povezavo s spletom in dovoljenje za dostop do osebnih podat
   <string name="usage_new_home_unused">"Nisem uporabil"</string>
   <string name="usage_new_home_update">Zamenjaj</string>
   <string name="usage_new_home_usage_detail">Podrobnosti o uporabi</string>
+     <string name="usage_new_home_week_average_count">Povp. %s</string>
   <string name="usage_new_home_week_category_title">Kategorije aplikacij</string>
   <string name="usage_new_home_week_compare_text1">%.2f več kot teden prej</string>
+     <string name="usage_new_home_week_compare_text1_new">(%s%% več kot prejšnji teden)</string>
   <string name="usage_new_home_week_compare_text2">%.2f manj kot teden prej</string>
+     <string name="usage_new_home_week_compare_text2_new">(%s%% manj kot prejšnji teden)</string>
   <string name="usage_new_home_week_equals_text">Isto kot teden prej</string>
   <string name="usage_new_home_week_title">Teden</string>
+     <string name="usage_new_home_week_unlock_compare_decrease">(%.2f manj kot prejšnji teden)</string>
+     <string name="usage_new_home_week_unlock_compare_increase">(%.2f več kot prejšnji teden)</string>
   <string name="usage_new_home_week_unlock_equals_text">Isto kot teden prej</string>
   <string name="usage_new_home_week_usage_title">Posamezne aplikacije</string>
   <string name="usage_new_home_which_week">Teden %d</string>
@@ -430,6 +436,8 @@ Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje nasl
   <string name="usage_state_focus_weak_summary">Odložite telefon</string>
   <string name="usage_state_friday">Pet</string>
   <string name="usage_state_go_more">Več aplikacij</string>
+     <string name="usage_state_holiday_day_hour_minute">Nedelovni dnevi: %1$s %2$s</string>
+     <string name="usage_state_holiday_time">Nedelovni dnevi: %s</string>
   <string name="usage_state_hour_minute">%1$dh %2$dm</string>
   <string name="usage_state_less_one_minute">&lt; 1 minute</string>
   <string name="usage_state_monday">Pon</string>
@@ -479,8 +487,10 @@ Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje nasl
   <string name="usage_stats_experience_text">Tapni za poskus (1 min)</string>
   <string name="usage_stats_limit_time_accuracy_title">Točnost ocene preostalega časa</string>
   <string name="usage_stats_limit_time_high_accuracy_summary">Preostali čas pokaži z minutno točnostjo. To povečuje porabo energije.</string>
+     <string name="usage_stats_limit_time_high_accuracy_summary_new">Natanko na minuto (porabi več energije)</string>
   <string name="usage_stats_limit_time_high_accuracy_title">Visoko</string>
   <string name="usage_stats_limit_time_low_accuracy_summary">Pokaži preostali čas z minutno točnostjo znotraj 2 preostalih ur da boste prihranili baterijo</string>
+     <string name="usage_stats_limit_time_low_accuracy_summary_new">Natančno do minute v preostalih %d urah (prihrani energijo)</string>
   <string name="usage_stats_limit_time_low_accuracy_title">Nizko</string>
   <string name="usage_stats_limit_time_warn">Opozorila o času zaslona</string>
   <string name="usage_stats_limit_time_warn_summary">Preostali čas zaslona pokaži v plošči obvestil</string>

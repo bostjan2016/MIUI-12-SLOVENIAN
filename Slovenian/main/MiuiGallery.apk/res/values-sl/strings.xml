@@ -1906,6 +1906,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="select_item_face">"Na fotog. je %s"</string>
   <string name="select_origin_tip">Originalna datoteka (%s)</string>
   <string name="send_file_beautify_failed">"Ne morem poslati"</string>
+     <string name="send_files_by">Delite datoteke preko</string>
   <string name="send_files_to">Pošlji stvari v</string>
   <string name="send_heif_summary">Pretvorite slike pred pošiljanjem da boste zagotovili kompatibilnost</string>
   <string name="send_heif_title">Pretvorite HEIF v JPG pred pošiljanjem</string>
@@ -2189,7 +2190,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="tip_file_path">Pot: </string>
   <string name="tip_not_download">Ni v napravi. Samodejno bo prenešeno pri predvajanju.</string>
   <string name="tip_screenshot_package_info">Ime aplik.:</string>
-  <string name="tips_prompt_enable_midrop">Delite datoteke z napravami v bližini</string>
+  <string name="tips_prompt_enable_midrop">Mi Share</string>
   <string name="title_set_name">Izberite ime</string>
   <string name="title_tip">Nasvet</string>
   <string name="title_warn">Opozorilo</string>

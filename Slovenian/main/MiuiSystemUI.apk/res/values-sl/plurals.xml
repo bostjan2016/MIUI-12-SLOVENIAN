@@ -11,10 +11,6 @@
 	<plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s Ura %2$s"</item>
     </plurals>
-	<plurals name="auto_disconnect_timer_tip">
-        <item quantity="other">Prekini čez %1$d sekund</item>
-        <item quantity="one">Prekini čez %1$d sekundo</item>
-    </plurals>
     <plurals name="block_record_notification_more_text">
          <item quantity="other">Skrivanje obvestil od %1$s &amp; %2$d aplikacij.</item>
          <item quantity="one">Skrivanje obvestil od %1$s &amp; 1 aplikacije.</item>
@@ -23,6 +19,10 @@
         <item quantity="other">"Skrijem obvestila aplik:  %d?"</item>
         <item quantity="one">"Skrijem obvestilo aplik:  %d?"</item>
      </plurals>
+	 <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Prekini klic čez %1$d sek.</item>
+        <item quantity="one">Prekini klic čez %1$d sek.</item>
+    </plurals>
 	<plurals name="fold_tips_title">
          <item quantity="other">%d nevažnih obvestil</item>
          <item quantity="one">%d nevažno obvestilo</item>
@@ -80,7 +80,7 @@
         <item quantity="one">%1$d hr %2$d min.</item>
      </plurals>
 	 <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-        <item quantity="other">Ostalo še još %d hr</item>
+        <item quantity="other">Ostalo še %d hr</item>
         <item quantity="one">Ostalo še %d hr</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
@@ -128,8 +128,8 @@
         <item quantity="one">%1$s, %2$s in še %3$d</item>
      </plurals>
      <plurals name="notification_group_overflow_description">
-         <item quantity="other">%s več dodatnih obvestil.</item>
-         <item quantity="one">%s dodatno obvestilo.</item>
+        <item quantity="other">V skupini je še %s obvestil.</item>
+        <item quantity="one">V skupini je še %s obvestilo.</item>
      </plurals>
 	<plurals name="notification_num_channels">
         <item quantity="other">%d kategorij obvestil</item>
@@ -163,5 +163,51 @@
         <item quantity="other">%1$d naprav povezano</item>
         <item quantity="one">%1$d naprava povezana</item>
     </plurals>
-
+     <plurals name="abc_slice_duration_days">
+        <item quantity="other">pred %d dni</item>
+        <item quantity="one">pred %d dan</item>
+     </plurals>
+     <plurals name="abc_slice_duration_min">
+        <item quantity="other">pred %d min.</item>
+        <item quantity="one">pred %d min.</item>
+     </plurals>
+     <plurals name="abc_slice_duration_years">
+        <item quantity="other">pred %d let</item>
+        <item quantity="one">pred %d letom</item>
+     </plurals>
+     <plurals name="controls_number_of_favorites">
+        <item quantity="other">%s kontrol dodano.</item>
+        <item quantity="one">%s kontrola dodana.</item>
+     </plurals>
+     <plurals name="kg_password_default_pin_message_multi_sim">
+        <item quantity="other">Vnesite SIM%1$d PIN, imate še %2$d poskusov.</item>
+        <item quantity="one">Vnesite SIM%1$d PIN, imate še %2$d poskus pred zaklepom SIM kartice.</item>
+     </plurals>
+     <plurals name="kg_password_wrong_pin_code_multi_sim">
+        <item quantity="other">Napačna  SIM%1$d PIN koda, imate še %2$d poskusov.</item>
+        <item quantity="one">Napačna  SIM%1$d PIN koda, imate še %2$d poskus pred zaklepom SIM kartice.</item>
+     </plurals>
+     <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Poskusite ponovno čez %d sek.</item>
+        <item quantity="one">Poskusite ponovno čez 1 sekundo.</item>
+     </plurals>
+     <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d naprav</item>
+        <item quantity="one">%d naprava</item>
+     </plurals>
+     <plurals name="snoozeHourOptions">
+        <item quantity="other">%d hr</item>
+        <item quantity="one">%d hr</item>
+        <item quantity="two">%d hr</item>
+        <item quantity="few">%d hr</item>
+     </plurals>
+     <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minut</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="few">%d minut</item>
+     </plurals>
+     <plurals name="user_limit_reached_message">
+        <item quantity="other">Lahko dodate do %d uporabnikov.</item>
+        <item quantity="one">Dodate lahko samo enega uporabnika.</item>
+     </plurals>
 </resources>

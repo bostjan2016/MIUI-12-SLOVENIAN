@@ -70,6 +70,10 @@
   <string name="feedback_tip_title">Povratne informacije o kategorijah obvestil</string>
   <string name="float_notifications">Plavajoča obvestila</string>
   <string name="float_notifications_short">Plavajoče</string>
+     <string name="fold_importance_default">Priporočeno</string>
+     <string name="fold_importance_important">Važno</string>
+     <string name="fold_importance_unimportant">Nevažno</string>
+     <string name="fold_title">Pravila za skupinska obvestila</string>
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>

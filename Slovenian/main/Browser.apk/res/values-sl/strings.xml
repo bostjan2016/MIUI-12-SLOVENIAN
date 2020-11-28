@@ -114,7 +114,7 @@
      <string name="ad_download_pausing">Premor</string>
      <string name="ad_download_success">Prenešeno</string>
   <string name="ad_exit_dialog_exit_btn_name">Izhod</string>
-  <string name="ad_exit_dialog_message">Namestitev %s končana! Želite odpreti?</string>
+  <string name="ad_exit_dialog_message">Namestitev končana! Želite odpreti?</string>
   <string name="ad_exit_dialog_open_btn_name">Odpri</string>
   <string name="ad_exit_dialog_title_name">Odpri novo aplikacijo</string>
      <string name="ad_go_download">Prenos</string>
@@ -1167,6 +1167,8 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) Preverite %s1 nastavitve proxyja %s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache">Izbriši predpomnilnik.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Izbriši predpomnilnik in piškote (informacije o računu se lahko izgubijo).</string>
+     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Izbriši predpomnilnik in piškote (informacije o računu se lahko izgubijo).</string>
+     <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Izbriši predpomnilnik.</string>
   <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Po povezavi na splet ponovno naloži</string>
   <string name="mw_miuichromium_error_page_suggestion_contact_admin">Obrnite se na skrbnika naprave.</string>
   <string name="mw_miuichromium_error_page_suggestion_correct_url">"Preverite vnešeni naslov in poskusite ponovno z pravilnim naslovom."</string>

@@ -293,12 +293,12 @@
     <string-array name="wifi_status">
         <item></item>
         <item>Iskanje …</item>
-        <item>Vzpostavljanje povezave ...</item>
-        <item>Preverjanje pristnosti ...</item>
-        <item>Pridobivanje naslova IP …</item>
+        <item>Vzpostavljanje povezave…</item>
+        <item>Preverjanje pristnosti…</item>
+        <item>Pridobivanje naslova IP…</item>
         <item>Povezava je vzpostavljena</item>
         <item>Odloženo</item>
-        <item>Prekinjanje povezave ...</item>
+        <item>Prekinjanje povezave…</item>
         <item>Prekinjena povezava</item>
         <item>Ni uspelo</item>
         <item>Blokirano</item>
@@ -327,4 +327,8 @@
         <item>Merilo animacije: 5 x</item>
         <item>Merilo animacije: 10 x</item>
     </string-array>
+    <string-array name="miui_notification_aggregate_category">
+        <item>To je priporočena vsebina.</item>
+        <item>To je oglas.</item>
+     </string-array>
 </resources>

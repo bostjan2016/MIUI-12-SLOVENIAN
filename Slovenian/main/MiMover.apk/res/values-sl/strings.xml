@@ -691,6 +691,7 @@ Prenesite in namestite Mi Mover."</string>
     <string name="user_name_null">Apple ID ne more biti prazen</string>
     <string name="video">Video</string>
     <string name="view_password_description">Prikaži geslo</string>
+     <string name="waiting_restore_aod">Vračanje Vedno na zaslonu…</string>
   <string name="waiting_restore_desktop">Prenos aplikacij drugih proizvajalcev za obnovitev videza zač. zaslona…</string>
   <string name="web_sso_login_fail">Morate se ponovno prijaviti</string>
   <string name="web_sso_login_message">Prijava…</string>

@@ -491,6 +491,7 @@ skenirane dokumente samodejno"</string>
      <string name="download_cancel_hint">Prekličem prenos %1$s?</string>
      <string name="download_confirm">Prenos</string>
      <string name="download_hint">%1$s MB mobilnih podatkov bo uporabljenih za prenos stvari. Vseeno prenesem?</string>
+     <string name="download_in_progress">Prenos…</string>
   <string name="download_qq">Prenesi QQ</string>
      <string name="download_title">Opozorilo o porabi podatkov</string>
   <string name="download_wechat">Prenesi WeChat</string>

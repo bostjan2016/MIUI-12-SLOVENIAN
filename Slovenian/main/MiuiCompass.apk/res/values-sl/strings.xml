@@ -36,9 +36,8 @@
   <string name="altitude_uncalibrate_refresh">Poskusi ponovno</string>
   <string name="altitude_uncalibrate_tip">"Ne morem kalibrirati nadm. višine"</string>
   <string name="altitude_unit">m</string>
-  <string name="app_description_content">Kompas se uporablja za navigacijo in orientacijo ter kaže smeri neba.</string>
-  <string name="app_description_title">O Kompasu</string>
-  <string name="app_label">Kompas</string>
+  <string name="app_description_content">"Kompas je sistemska aplikacija. Po odstranitvi je ne boste mogli uporabljati za preverjanje navodil, koordinat, atmosferskega tlaka in trenutne nadmorske višine."</string> 
+  <string name="app_description_title">Odstranim Kompas?</string>
   <string name="app_name">Kompas</string>
   <string name="calibrate_failed">Kalibriranje nadmorske višine ni uspelo</string>
   <string name="calibrate_failed_no_location">"Kalibracija ni mogoča"</string>
