@@ -2920,11 +2920,6 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_dialog_msg_top">Ko je vključeno varčevanje baterije, bo MIUI napravil naslednje optimizacije:</string>
   <string name="power_center_hints_scan_danger_result">Zdaj lahko rešite probleme baterije</string>
   <string name="power_center_list_item_auto_brightness">Samodejno nastavite svetlost zaslona</string>
-     <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-     <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-     <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-     <string name="power_center_list_item_battery_status_capacity">mAh</string>
-     <string name="power_center_list_item_battery_status_temperature">℃</string>
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_list_item_close_bluetooth">Izključi Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Dodatne nastavitve</string>
