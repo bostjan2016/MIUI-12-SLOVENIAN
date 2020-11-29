@@ -218,8 +218,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antivirus_privacy_dialog_cloudscan">Pošlji imena in podrobnosti aplikacij</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">"Za učinkovitejše odkrivanje in nevtralizacijo virusov bomo prenesli imena in lastnosti aplikacijskih paketov, da jih skeniramo z uporabo mehanizma v oblaku."</string>
   <string name="antivirus_privacy_dialog_ok">V redu</string>
-  <string name="antivirus_privacy_dialog_summary">&lt;Data&gt;To storitev ponuja protivirusni sistem drugega proizvajalca. Če želite izvedeti več, preberite &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; drugega proizvajalca.&lt;/Data&gt;</string>
-  <string name="antivirus_privacy_dialog_summary_link">Prikaz Pravila o zasebnosti</string>
+  <string name="antivirus_privacy_dialog_summary"><Data>To storitev poganja neodvisni protivirusni mehanizem. Če želite izvedeti več, preberite &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> ki jih ponuja tretja oseba.</Data></string>
+  <string name="antivirus_privacy_dialog_summary_link">Prikaz Pravil o zasebnosti</string>
   <string name="antivirus_privacy_dialog_title">Pravila o zasebnosti</string>
   <string name="antivirus_sec_network_unavailable">"Aplikacija Varnost ne more posodobiti ker ste omejili spletno povezavo. Dovolim aplikaciji povezavo na splet?"</string>
   <string name="antivirus_sec_support">Ponujeno od %s</string>

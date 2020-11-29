@@ -222,7 +222,7 @@
   <string name="image_view">Pokaži sliko</string>
   <string name="importFailed">"Ne morem uvoziti"</string>
   <string name="import_contact">Uvozi stik</string>
-  <string name="impunity_declaration_content">"Skener mora uporabljati kamero in obdelovati slike katere snemate med uporabo aplikacije. Ne uporabljajte skener za fotografiranje objektov ki vsebujejo vaše osebne podatke. Z dotikom \"Strinjam se\", se strinjate z &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\"&gt;Pravila o zasebnosti&lt;/a&gt;&lt;/font&gt; in dovolite aplikaciji povezovanje na splet."</string>
+  <string name="impunity_declaration_content">"Skener mora uporabljati kamero in obdelovati slike katere snemate med uporabo aplikacije. Ne uporabljajte skener za fotografiranje objektov ki vsebujejo vaše osebne podatke. Z dotikom \"Strinjam se\", se strinjate z &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Pravila o zasebnosti&lt;/a>&lt;/font> in dovolite aplikaciji povezovanje na splet."</string>
   <string name="impunity_declaration_negative_text">Izhod</string>
   <string name="impunity_declaration_positive_text">Dovoli</string>
   <string name="impunity_declaration_title">Pogoji uporabe</string>

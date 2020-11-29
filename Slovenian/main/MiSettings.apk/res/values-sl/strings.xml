@@ -377,7 +377,7 @@ Aplikacija potrebuje povezavo s spletom in dovoljenje za dostop do osebnih podat
   <string name="usage_optional_title">Izbirna dovoljenja</string>
   <string name="usage_permisison_agree_desc_o">Da bi vam zagotovila statistične podatke o zaslonu, mora ta aplikacija zbrati naslednje podatke: kolikokrat odklenete napravo, seznam vaših aplikacij skupaj z trajanjem uporabe.</string>
   <string name="usage_permisison_agree_desc_p">Za zagotovitev statističnih podatkov o času zaslona in načinu ostrenja mora ta aplikacija zbrati naslednje podatke: številko za odklepanje naprave, seznam aplikacij skupaj s primernim časom uporabe, številko svetlosti zaslona in nastavitvami načina ostrenja.</string>
-  <string name="usage_permission_double_link" formatted="false">"Ta aplikacija se mora povezati na splet in zbrati potrebne osebne podatke, da lahko normalno deluje. Če želite v celoti razumeti svoje pravice kot uporabnika in kako uporabljamo vaše podatke, preberite in se strinjate z našimi &amp;lt;a href='%1s'&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href='%2s'&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.</string>
+  <string name="usage_permission_double_link" formatted="false"><Data>"Ta aplikacija se mora povezati s spletom in zbrati zahtevane osebne podatke, da lahko normalno deluje. Če želite v celoti razumeti svoje pravice kot uporabnik in načine, kako uporabljamo vaše podatke, preberite in se strinjate z &lt;a href='%1s'>Pogoji uporabe&lt;/a> in &lt;a href='%2s'>Pravila o zasebnosti&lt;/a>."</Data></string>
   <string name="usage_permission_main_desc">"Dobrodošli v čas zaslona!
 Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje naslednja dovoljenja:"</string>
   <string name="usage_permission_title">Pozor</string>

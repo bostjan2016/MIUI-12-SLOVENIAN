@@ -36,7 +36,7 @@
      <string name="activate_phone_server_success_notif_title">%s uspješno aktiviran</string>
   <string name="activate_phone_success_notif_title">SIM kartica aktivirana</string>
   <string name="activate_phone_success_notif_title_msim">SIM kartica %d aktivirana</string>
-     <string name="activate_phone_success_notif_title_sim">%2$s uspešno aktiviran z uporabo SIM %1$d</string>
+     <string name="activate_phone_success_notif_title_sim">Activirano %2$s z uporabo SIM %1$d</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Poskusi ponovno</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">Poskusi ponovno</string>
   <string name="activate_popup_confirm_error_device_id">Poskusi ponovno</string>
