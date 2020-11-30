@@ -226,10 +226,12 @@ Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
     <string name="accessibility_shortcut_edit_dialog_title_software_gesture_talkback">Vlečenje navzgor s tremi prsti</string>
     <string name="accessibility_shortcut_edit_dialog_title_triple_tap">Trikratni dotik zaslona</string>
     <string name="accessibility_shortcut_edit_summary_software">Gumb za funkcije za ljudi s posebnimi potrebami</string>
+     <string name="accessibility_shortcut_hardware_keyword">držite tipke za glasnost</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Dovoli na zaklenjenem zaslonu</string>
     <string name="accessibility_shortcut_service_title">Storitev z bližnjico</string>
     <string name="accessibility_shortcut_settings">Nastavitve bližnjice</string>
     <string name="accessibility_shortcut_title">Bližnjica do storitve %1$s</string>
+     <string name="accessibility_shortcut_triple_tap_keyword">trojni tap zaslona</string>
     <string name="accessibility_shortcut_type_hardware">Pridržanje tipk za glasnost</string>
     <string name="accessibility_shortcut_type_software">Gumb za funkcije za ljudi s posebnimi potrebami</string>
     <string name="accessibility_shortcut_type_software_gesture">Vlečenje z dvema prstoma od dna navzgor</string>
@@ -1221,7 +1223,7 @@ nastavitev in aplikacij"</string>
     <string name="battery_summary">%1$s uporabe od zadnje polne napolnjenosti</string>
     <string name="battery_tip_dialog_message">"Telefon ste uporabljali več kot običajno. Akumulator se bo morda izpraznil prej, kot ste pričakovali.
 
-Aplikacije ki najbolj porabljajo baterijo: %1$d"</string>
+Aplikacije ki najbolj porabljajo baterijo:"</string>
     <string name="battery_tip_dialog_message_footer">Vključuje dejavnost z visoko porabo energije v ozadju</string>
     <string name="battery_tip_dialog_summary_message">"Aplikacije porabljajo običajno količino energije akumulatorja. V primeru prekomerne porabe energije vam bo telefon predlagal ustrezne ukrepe.
 
@@ -1811,9 +1813,9 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="call_records_name_1">Holcar</string>
   <string name="call_records_name_2">MIUI Adria</string>
   <string name="call_records_name_3">Olimpija Ljubljana</string>
-  <string name="call_records_summary_1">%1$d:%2$d AM | %3$d sekund</string>
-  <string name="call_records_summary_2">Avgust %1$d | %2$dm %3$ds</string>
-  <string name="call_records_summary_3">Avgust %1$d | %2$dm %3$ds</string>  
+  <string name="call_records_summary_1">9:35 AM | 26 sekund</string>
+    <string name="call_records_summary_2">Avgust 16 | 1m 16s</string>
+    <string name="call_records_summary_3">Avgust 16 | 2m 24s</string>
   <string name="call_settings_primary_user_only">Spremeni nastavitve klicev v privzetem prostoru</string>
   <string name="call_settings_summary">Nastavite telefonski predal, preusmeritev klicev, čakajoči klic, ID klicatelja</string>
   <string name="call_settings_title">Nastavitve klicanja</string>
@@ -2542,10 +2544,10 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
   <string name="data_usage_restrict_denied_dialog">Prenos podatkov v ozadju lahko omejite samo če nastavite omejitev prenosa podatkov v mobilnih omrežjih.</string>
   <string name="data_usage_summary_format">Prenesenih podatkov: %1$s</string>
   <string name="data_usage_summary_title">Uporaba podatkov</string>
-  <string name="data_usage_sweep_limit">&lt;font size="12"&gt;Omejeno na&lt;/font&gt;"
-"&lt;font size="18"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;</string>
-  <string name="data_usage_sweep_warning">&lt;font size="12"&gt;Opozori na&lt;/font&gt;"
-"&lt;font size="18"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;</string>
+    <string name="data_usage_sweep_limit"><font size="18">^1</font> <font size="9">^2</font>"
+"<font size="12">omejitev</font></string>
+    <string name="data_usage_sweep_warning"><font size="18">^1</font> <font size="9">^2</font>"
+"<font size="12">opozorilo</font></string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -3685,9 +3687,9 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="forget_passpoint_wifi_message">Vaš telefon se bo prenehal samodejno povezovati na to omrežje.</string>
   <string name="forget_password_button_text">Pozabljeno geslo</string>
   <string name="forget_password_dialog_button_text">Nazaj</string>
-  <string name="forget_password_dialog_content_four">&lt;Data&gt;2. Izberite &amp;lt;font color=#e6e6e6&amp;gt;[Izbriši podatke]&amp;lt;/font&amp;gt;, in počakajte ponovni zagon naprave.&lt;/Data&gt;</string>
-  <string name="forget_password_dialog_content_one">&lt;Data&gt;"Če pozabite geslo, ga ne boste mogli obnoviti. Lahko ga ponovno nastavite ko &amp;lt;font color=#ec2700&amp;gt;izbrišete vse podatke na napravi&amp;lt;/font&amp;gt; (vključno fotografije, stike itd.). Napravite var. kopijo vaših podtkov pred tem."&lt;/Data&gt;</string>
-  <string name="forget_password_dialog_content_three">&lt;Data&gt;"1. Izključite napravo. Pritisnite istočasno tipke &amp;lt;font color=#e6e6e6&amp;gt;[Power]&amp;lt;/font&amp;gt; in &amp;lt;font color=#e6e6e6&amp;gt;[Volume +]&amp;lt;/font&amp;gt;, in jih držite dokler ne vidite &amp;lt;img src=''&amp;gt; ikono."&lt;/Data&gt;</string>
+    <string name="forget_password_dialog_content_four">2. Izberite [Izbriši podatke], in počakajte, da se naprava znova zažene.</string>
+    <string name="forget_password_dialog_content_one"><Data>"Če pozabite geslo, ga ne boste mogli obnoviti. Vendar lahko geslo ponastavite po &lt;font color=#ec2700>brisanju podatkov iz naprave&lt;/font> (including photos, contacts, etc.). Pred tem varnostno kopirajte vse pomembne podatke."</Data></string>
+    <string name="forget_password_dialog_content_three">1. Izklopite napravo. Pritisnite tipki [Vklop] in [Glasnost+] istočasno, in ju držite dokler ne vidite * znaka.</string>
   <string name="forget_password_dialog_content_two">Sledite te korake za brisanje podatkov:</string>
   <string name="forget_password_dialog_title">Ponastavitev gesla</string>
   <string name="forget_pattern">Ali ste pozabili geslo?</string>
@@ -4197,7 +4199,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
     <string name="interact_across_profiles_consent_dialog_app_data_title">Podatki aplikacij</string>
     <string name="interact_across_profiles_consent_dialog_permissions_summary">Ta aplikacija lahko uporablja dovoljenja osebne aplikacije %1$s, kot je dostop do lokacije, shrambe ali stikov.</string>
     <string name="interact_across_profiles_consent_dialog_permissions_title">Dovoljenja</string>
-    <string name="interact_across_profiles_consent_dialog_summary">Aplikacija %1$s lahko vaše osebne podatke prikaže skrbniku za IT.</string>
+    <string name="interact_across_profiles_consent_dialog_summary">Aplikacije povežite samo, če jim zaupate, da osebnih podatkov ne bodo delile s svojim skrbnikom za IT.</string>
     <string name="interact_across_profiles_consent_dialog_title">Ali želite delovni aplikaciji %1$s zaupati osebne podatke?</string>
     <string name="interact_across_profiles_empty_text">Ni povezanih aplikacij</string>
     <string name="interact_across_profiles_install_app_summary">Dotaknite se za prenos aplikacije</string>
@@ -4984,9 +4986,9 @@ Na tej napravi je več uporabnikov.
   <string name="master_clear_personal_data">"Izbrišem vse osebne podatke?
   
 Tega dejanja ne moreš preklicati!"</string>
-  <string name="master_clear_personal_data_application">Izbrišem vse vaše podatke in aplikacije?
+     <string name="master_clear_personal_data_application">"Izbrišem vse vaše podatke in aplikacije?
   
-Tega dejanja ne moreš preklicati!</string>
+Tega dejanja ne moreš preklicati!"</string>
   <string name="master_clear_personal_data_sdcard">"Izbrišem vse osebne podatke?
   
 Tega dejanja ne moreš preklicati!"</string>
@@ -5628,7 +5630,7 @@ Znova zaženite napravo in poskusite znova."</string>
     <string name="network_connection_errorstate_dialog_message">Prišlo je do napake. Aplikacija je preklicala zahtevo za izbiro naprave.</string>
     <string name="network_connection_request_dialog_showall">Pokaži vse</string>
      <string name="network_connection_request_dialog_summary">%1$s aplikacij želi uporabiti začasno omrežje WiFi za povezavo z vašo napravo</string>
-    <string name="network_connection_request_dialog_title">Naprava, ki bo uporabljena skupaj z aplikacijo %1$s</string>
+    <string name="network_connection_request_dialog_title">Poveži se z napravo</string>
     <string name="network_connection_searching_message">Iskanje naprave …</string>
     <string name="network_connection_timeout_dialog_message">Ni naprav. Preverite, ali so naprave vklopljene in na voljo za vzpostavitev povezave.</string>
     <string name="network_connection_timeout_dialog_ok">Poskusi znova</string>
@@ -6010,7 +6012,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
     <string name="notification_summary_channel">%1$s • %2$s</string>
     <string name="notification_summary_level">Stopnja %d</string>
     <string name="notification_summary_none">Vklopljeno za vse aplikacije</string>
-    <string name="notification_switch_label">Pokaži obvestila</string>
+    <string name="notification_switch_label">Vsa \"%1$s\" obvestila</string>
   <string name="notification_toggle_off">Izključeno</string>
   <string name="notification_toggle_on">Vključeno</string>
     <string name="notification_unknown_sound_title">Zvok iz aplikacije</string>
@@ -7161,6 +7163,7 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="resolution_fhd_summary">2400×1080</string>
   <string name="resolution_qhd">QHD+ (Quad HD)</string>
   <string name="resolution_qhd_summary">3200×1440 (porabi več energije)</string>
+  <string name="resolution_sub_title">MIUI lahko med preklapljanjem ločljivosti zapre aplikacije, ki se izvajajo v ozadju</string>
   <string name="resolver_settings_label">Razvrsti</string>
   <string name="resource_ringtone_volume_mute">Vaše zvonenje je trenutno utišano</string>
   <string name="restore">Vrni</string>
@@ -7573,6 +7576,7 @@ Za uporabo pripenjanja aplikacije: \u0009
   <string name="search_airplane_mode">Letalski način;Letalski način;Način letenja;Letalo;avion;Let</string>
   <string name="search_alarm_sound_title">Zvok Alarma;Zvok alarma;Alarm</string>
   <string name="search_ambient_display_screen_title">Vedno na zaslonu</string>
+     <string name="search_android_auto">avto;vozilo</string>
   <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
   <string name="search_apn_settings">APN;Imena dostopnih točk</string>
   <string name="search_app_invisible">Aplik. skrita;Skrite aplikacije</string>
@@ -7946,9 +7950,9 @@ Prav tako lahko telefon odklene nekdo, ki vam je zelo podoben, na primer vaš en
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Ime</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">V redu</string>
     <string name="security_settings_fingerprint_enroll_disclaimer">Funkcijo Pixel Imprint lahko razen za odklepanje telefona uporabljate tudi za odobritev nakupov in dostop do aplikacij. <annotation id="url">Več o tem</annotation></string>
-     <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" Možnost zaklepanja zaslona je onemogočena. Če želite izvedeti več, se obrnite na skrbnika organizacije. "<annotation id="admin_details">Več podrobnosti</annotation>"
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" Možnost zaklepanja zaslona je onemogočena. Če želite izvedeti več, se obrnite na skrbnika vaše organizacije. "<annotation id="admin_details">Več o tem</annotation>"
 
-Prstni odtis lahko še naprej uporabljate za potrjevanje nakupov in dostop do aplikacij. "<annotation id="url">Več o tem</annotation></string>
+S svojim prstnim odtisom lahko še vedno odobrite nakupe in dostop do aplikacij. "<annotation id="url">Izvedite več</annotation></string>
   <string name="security_settings_fingerprint_enroll_done">Končano</string>
     <string name="security_settings_fingerprint_enroll_enrolling_skip">Pozneje</string>
   <string name="security_settings_fingerprint_enroll_error_dialog_title">Registracija ni dokončana</string>
@@ -10860,7 +10864,8 @@ Dovolite to vsem aplikacijam, ki želijo iskati?"</string>
   <string name="wifi_tether_setting_title">Nastavitve</string>
   <string name="wifi_tether_settings_title">Osebni hotspot</string>
     <string name="wifi_tether_starting">"Vklop dostopne točke  ..."</string>
-    <string name="wifi_tether_stopping">Izklop dostopne točke ...</string>
+  <string name="wifi_tether_stopping">Izklop dostopne točke ...</string>
+  <string name="wifi_time_remaining">%1$s ostalo</string>
   <string name="wifi_title">Nastavitve WiFi</string>
   <string name="wifi_traffic_priority">Način WiFi mirovanja</string>
   <string name="wifi_traffic_priority_extreme">Ekstremni način</string>
