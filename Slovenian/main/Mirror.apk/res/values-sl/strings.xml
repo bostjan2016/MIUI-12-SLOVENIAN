@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
+    <string name="actionbar_button_up_description">Nazaj</string>
   <string name="app_name">Screen Combo</string>
   <string name="cancel">Prekliči</string>
   <string name="clearable_edittext_clear_description">Očisti</string>
@@ -162,6 +163,7 @@
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
   <string name="time_picker_dialog_title">Nastavi čas</string>
+  <string name="tip_connect_fail_for_hotspot">"Ne morem se povezati. Izključite prenosni hotspot in poskusite ponovno."</string>
   <string name="today">Danes</string>
   <string name="tomorrow">Jutri</string>
   <string name="traffic_log">Zapisi prenosa</string>

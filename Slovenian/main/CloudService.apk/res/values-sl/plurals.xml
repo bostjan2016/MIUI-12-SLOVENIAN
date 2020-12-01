@@ -112,4 +112,8 @@
         <item quantity="other">%1$s min</item>
         <item quantity="one">%1$s min</item>
      </plurals>
+	 <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Poskusi ponovno čez %d sek.</item>
+        <item quantity="one">Poskusi ponovno čez %d sekundo</item>
+     </plurals>
 </resources>

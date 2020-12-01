@@ -142,6 +142,7 @@
   <string name="lockscreen_access_pattern_cleared">Vzorec je izbrisan</string>
   <string name="lockscreen_access_pattern_detected">Vzorec je končan</string>
   <string name="lockscreen_access_pattern_start">Vzorec se začenja</string>
+     <string name="magic_window_toast">Aplikacija Multiplier je omogočena.</string>
   <string name="maml_component_customization_title">Nastavitve</string>
   <string name="memory_clear_nothing_result">Uporaba pomnilnika je že optimizirana.</string>
   <string name="memory_clear_result">"Izbrisano: %1$sB Na voljo: %2$sB"</string>
@@ -239,6 +240,7 @@
   <string name="security_share_text">Zaščita zasebnosti</string>
   <string name="select">Izberi</string>
   <string name="select_all">Izberi vse</string>
+  <string name="send_files_by">Delite datoteke preko</string>
   <string name="send_files_to">Pošlji stvari na</string>
   <string name="serviceEnabled">Storitev je omogočena.</string>
   <string name="set_password_action">Nastavite geslo</string>

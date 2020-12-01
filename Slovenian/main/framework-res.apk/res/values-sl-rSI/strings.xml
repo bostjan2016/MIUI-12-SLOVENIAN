@@ -455,9 +455,9 @@ s številko %s"</string>
     <string name="data_usage_rapid_title">Visoka poraba mobilnih podatkov</string>
     <string name="data_usage_restricted_body">Dotaknite se za odstr. omejitve.</string>
     <string name="data_usage_restricted_title">Podatki v ozadju so omejeni</string>
-    <string name="data_usage_warning_body">Porabili ste %s podatkov</string>
-    <string name="data_usage_warning_title">Opozorilo o prenosu podatkov</string>
-    <string name="data_usage_wifi_limit_snoozed_title">Preko omejitve podatkov WiFi</string>
+   <string name="data_usage_warning_body">Tapnite za prikaz porabe.</string>
+   <string name="data_usage_warning_title">Opozorilo o prenosu podatkov</string>
+   <string name="data_usage_wifi_limit_snoozed_title">Preko omejitve podatkov WiFi</string>
   <string name="data_usage_wifi_limit_title">Dosežena pod. omejitev za WiFi</string>
   <string name="date_picker_decrement_day_button">Zmanjšanje vrednosti za dan</string>
   <string name="date_picker_decrement_month_button">Zmanjšanje vrednosti za mesec</string>
@@ -586,8 +586,8 @@ s številko %s"</string>
   <string name="expand_button_content_description">Gumb za razširitev</string>
   <string name="expand_button_content_description_collapsed">Razširjanje</string>
   <string name="expand_button_content_description_expanded">Strnjevanje</string>
-  <string name="expires_on">Velja do:</string>
-  <string name="ext_media_badremoval_notification_message">Izpnite shrambo %s, preden jo odstranite, da se izognete izgubi podatkov.</string>
+  <string name="expires_on">Poteče dne:</string>
+  <string name="ext_media_badremoval_notification_message">Pred odstranjevanjem odstranite medij, da ne boste izgubili vsebine</string>
   <string name="ext_media_badremoval_notification_title">Shramba %s nepričak. odstranjena</string>
   <string name="ext_media_browse_action">Preišči</string>
   <string name="ext_media_checking_notification_message">Iskanje napak</string>
@@ -601,10 +601,10 @@ s številko %s"</string>
   <string name="ext_media_move_success_message">Podatki so premeščeni v shrambo %s</string>
   <string name="ext_media_move_success_title">Premeščanje končano</string>
   <string name="ext_media_move_title">Premeščanje podatkov</string>
-  <string name="ext_media_new_notification_message">Najdena je nova naprava %s</string>
-  <string name="ext_media_new_notification_title">Novo %s</string>
-    <string name="ext_media_nomedia_notification_message">Nekatere funkcije morda ne bodo pravilno delovale. Vstavite novo napravo za shranjevanje.</string>
+  <string name="ext_media_new_notification_message">Tapnite za nastavljanje</string>
+  <string name="ext_media_new_notification_title">Nov medij %s</string>
   <string name="ext_media_nofs_notification_title">Prazen pomnilnik USB</string>
+  <string name="ext_media_nomedia_notification_message">Nekatere storitve morda ne bodo pravilno delovale. Vstavite novo napravo za shranjevanje.</string>
     <string name="ext_media_nomedia_notification_title">Nosilec %s je odstranjen</string>
     <string name="ext_media_ready_notification_message">Za prenos fotografij in predstavnosti</string>
   <string name="ext_media_safe_unmount_notification_message">USB pomnilnik lahko varno odstranite.</string>
@@ -892,8 +892,8 @@ Poskusite znova čez %d s."</string>
   <string name="kg_invalid_sim_pin_hint">Vnesite PIN ki vsebuje od štiri do osem številk.</string>
   <string name="kg_invalid_sim_puk_hint">Koda PUK mora biti 8 mestno število.</string>
   <string name="kg_login_account_recovery_hint">"Ali ste pozabili uporabniško ime ali geslo?
-Obiščite "<b>google.com/accounts/recovery</b>.</string>
-  <string name="kg_login_checking_password">Preverjanje računa ...</string>
+Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+  <string name="kg_login_checking_password">Preverjanje računa….</string>
   <string name="kg_login_instructions">Če želite odkleniti napravo se prijavite z Google računom.</string>
   <string name="kg_login_invalid_input">Neveljavno uporabniško ime ali geslo.</string>
   <string name="kg_login_password_hint">Geslo</string>
@@ -946,7 +946,7 @@ Za odpenjanje pritisnite in držite istočasno tipko Domov in Vklop."</string>
 
 Za odpenjanje pritisnite in držite istočasno tipko Domov in Vklop."</string>
   <string name="lock_to_app_exit">Zaslon je odpet</string>
-  <string name="lock_to_app_negative">Ne, hvala</string>
+  <string name="lock_to_app_negative">NE, HVALA</string>
   <string name="lock_to_app_positive">Zaženi</string>
   <string name="lock_to_app_start">Zaslon je pripet</string>
   <string name="lock_to_app_title">Želite uporabiti pripenjanje?</string>
@@ -974,8 +974,8 @@ Poskusite znova čez %d s."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Telefon ste poskusili %d krat nepravilno odkleniti zato bo ponastavljen na privzete tovarniške nastavitve.</string>
   <string name="lockscreen_forgot_pattern_button_text">Ali ste pozabili vzorec?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Ali ste pozabili uporabniško ime ali geslo?
-Obiščite "<b>google.com/accounts/recovery</b>.</string>
-  <string name="lockscreen_glogin_checking_password">Preverjanje ...</string>
+Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+  <string name="lockscreen_glogin_checking_password">Preverjanje…</string>
   <string name="lockscreen_glogin_forgot_pattern">Odklepanje računa</string>
   <string name="lockscreen_glogin_instructions">Če želite odkleniti telefon se prijavite z Google Računom.</string>
   <string name="lockscreen_glogin_invalid_input">Neveljavno uporabniško ime ali geslo.</string>
@@ -1200,9 +1200,9 @@ Znova poskusite čez %d s."</string>
     <string name="network_switch_metered_detail">Naprava uporabi omrežje vrste %1$s, ko omrežje vrste %2$s nima dostopa do spleta. Prenos podatkov se lahko zaračuna.</string>
     <string name="network_switch_metered_toast">Preklopljeno z omrežja vrste %1$s na omrežje vrste %2$s</string>
   <string name="network_switch_type_name_unknown">neznana vrsta omrežja</string>
-  <string name="new_app_action">Zaženi %1$s</string>
-  <string name="new_app_description">Ustavi prejšnjo aplikacijo brez shranjevanja.</string>
-  <string name="new_sms_notification_content">Za ogled odprite aplikacijo za SMS-je</string>
+  <string name="new_app_action">Odpri aplikacijo %1$s</string>
+  <string name="new_app_description">Aplikacija %1$s bo zaprta brez shranjevanja</string>
+  <string name="new_sms_notification_content">Za ogled odprite aplikacijo za SMS-e</string>
   <string name="new_sms_notification_title">Imate nova sporočila.</string>
   <string name="next_button_label">Naprej</string>
   <string name="no">Prekliči</string>
@@ -1962,6 +1962,7 @@ Znova poskusite čez %d s."</string>
   <string name="perms_description_app">Zagotavlja aplikacija %1$s.</string>
     <string name="perms_new_perm_prefix"><font fgcolor="#ff33b5e5" size="12">NOVO: </font></string>
     <string name="personal_apps_suspended_turn_profile_on">Vklopi delovni profil</string>
+    <string name="personal_apps_suspension_soon_text">Osebne aplikacije bodo blokirane %1$s ob %2$s. Vaš IT skrbnik ne dovoli, da vaš delovni profil ostane izključen dlje kot %3$d dni.</string>
     <string name="personal_apps_suspension_text">Osebne aplikacije so blokirane, dokler ne vklopite delovnega profila</string>
     <string name="personal_apps_suspension_title">Vklopite delovni profil</string>
     <string name="personal_apps_suspension_tomorrow_text">Osebne aplikacije bodo blokirane jutri</string>

@@ -124,6 +124,8 @@
   <string name="download">Prenosi</string>
   <string name="download_auth">Pridobivanje avtorizacije…</string>
   <string name="download_complete">Končano</string>
+     <string name="download_description_content">"Aplikacija Prenosi je sistemska aplikacija. Če jo odstranite, ne boste mogli urejati svojih prenosov."</string>
+     <string name="download_description_title">Odstranim \"Prenosi\" iz zač. zaslona?</string>
   <string name="download_detail">Podrobnosti</string>
   <string name="download_error">"Ne morem prenesti"</string>
   <string name="download_error_download_file_not_exists">"Datoteka ne obstaja"</string>

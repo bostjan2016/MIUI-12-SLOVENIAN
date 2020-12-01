@@ -199,6 +199,7 @@
   <string name="detail_menu_history">Zgodovina</string>
   <string name="detail_menu_home">Pojdi na začetno stran</string>
   <string name="detail_menu_setting">Nastavitve aplikacije</string>
+  <string name="detail_menu_settingbtn_save">Shrani v Galerijo</string>
   <string name="detail_menu_settingbtn_setting">Nastavitve</string>
   <string name="detail_menu_settingbtn_share">Deli</string>
   <string name="detail_menu_wall">"Današnja ozadja"</string>
