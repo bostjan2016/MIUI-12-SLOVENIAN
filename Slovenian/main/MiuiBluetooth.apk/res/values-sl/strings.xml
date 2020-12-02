@@ -394,6 +394,7 @@ Ta storitev je v fazi razvoja, zato morda ne bo delovala pravilno.
   <string name="media_category">Predstavnosti</string>
   <string name="media_transfer_this_device_name">Ta naprava</string>
   <string name="media_transfer_wired_device_name">Žična avdionaprava</string>
+     <string name="media_transfer_wired_usb_device_name">Žične slušalke</string>
   <string name="mi_audio_relay_cancel">V redu</string>
   <string name="mi_audio_relay_connect_failed">Ni uspelo</string>
   <string name="mi_audio_relay_localphone">Telefon</string>

@@ -32,6 +32,10 @@
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
+  <string name="icon_add_description">Dodajte bližnjico na zač. zaslon</string>
+  <string name="icon_remove_confirm">Odstrani</string>
+  <string name="icon_remove_description_content">"\"Storitve &amp; Povratne inf.\" je sistemska aplikacija. Lahko jo boste še vedno uporabljali v Nastavitvah, če izbrišete bližnjico na zač. zaslonu."</string>
+  <string name="icon_remove_description_title">Izbrišem \"Storitve &amp; Povratne inf.\" iz zač. zaslona?</string>
     <string name="mi_service_app_name">Storitve in povratne informacije</string>
     <string name="miservice_channel_update_notification_info">\"Storitve in povratne informacije\" zahteva spletne podatke…</string>
     <string name="miservice_notification_boot_content">Izvedite več o tem kaj MIUI lahko naredi</string>

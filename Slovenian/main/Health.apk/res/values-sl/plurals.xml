@@ -44,8 +44,6 @@
     <plurals name="day_index">
         <item quantity="other">%1$d dni</item>
         <item quantity="one">%1$d dan</item>
-	<item quantity="few">%1$d dni</item>
-        <item quantity="many">%1$d dni</item>
     </plurals>
 	<plurals name="days_in_menstrual_period">
         <item quantity="other">Trajanje menstruacije: %1$d dni</item>
@@ -78,14 +76,10 @@
     <plurals name="goal_format_with_unit">
         <item quantity="other">Cilj: %1$d korakov</item>
         <item quantity="one">Cilj: %1$d korak</item>
-	<item quantity="few">Cilj: %1$d koraki</item>
-        <item quantity="many">Cilj: %1$d korakov</item>
     </plurals>
     <plurals name="goal_unit">
         <item quantity="other">" korakov"</item>
         <item quantity="one">" korak"</item>
-	<item quantity="few">" koraki"</item>
-        <item quantity="many">" korakov"</item>
     </plurals>
 	<plurals name="goal_unit_with_number">
         <item quantity="other">%1$d korakov</item>
@@ -137,8 +131,6 @@
     <plurals name="menstruation_sum_days">
         <item quantity="other">%1$d-dnevna menstruacija</item>
         <item quantity="one">%1$d-dnevna menstruacija</item>
-		<item quantity="few">%1$d-dnevna menstruacija</item>
-        <item quantity="many">%1$d-dnevna menstruacija</item>
     </plurals>
 	<plurals name="mesens_card_title_day_in_predict">
         <item quantity="other">Dan %1$d (pričakovano)</item>
@@ -163,8 +155,6 @@
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">Nova obvestila: %d</item>
         <item quantity="one">%d novo obvestilo</item>
-	<item quantity="few">Nova obvestila: %d</item>
-	<item quantity="many">Nova obvestila: %d</item>
     </plurals>
 	<plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>
@@ -181,8 +171,6 @@
     <plurals name="steps_format">
         <item quantity="other">%1$d</item>
         <item quantity="one">%1$d</item>
-		<item quantity="few">%1$d</item>
-        <item quantity="many">%1$d</item>
     </plurals>
 	    <plurals name="sport_tts_goal_consume">
         <item quantity="other">Morate porabiti še %s kalorij da dosežete cilj</item>
@@ -260,26 +248,18 @@
     <plurals name="subtitle_add_record">
         <item quantity="other">"Niste beležili %1$d dni. Zabeležite svoja obdobja da boste dobili natančnejša predvidevanja."</item>
         <item quantity="one">"Niste beležili %1$d dan. Zabeležite svoja obdobja da boste dobili natančnejša predvidevanja."</item>
-	<item quantity="few">"Niste beležili %1$d dni. Zabeležite svoja obdobja da boste dobili natančnejša predvidevanja."</item>
-	<item quantity="many">"Niste beležili %1$d dni. Zabeležite svoja obdobja da boste dobili natančnejša predvidevanja."</item>
     </plurals>
     <plurals name="subtitle_menstruation_continued_days">
         <item quantity="other">Ta menstrualni cikel je skupno trajal dni: %1$d</item>
         <item quantity="one">Ta menstrualni cikel je skupno trajal %1$d dan</item>
-	<item quantity="few">Ta menstrualni cikel je skupno trajal dni: %1$d</item>
-	<item quantity="many">Ta menstrualni  je skupno trajal dni: %1$d</item>
     </plurals>
     <plurals name="subtitle_menstruation_cycle_days">
         <item quantity="other">%1$d. dan tega menstrualnega cikla</item>
         <item quantity="one">%1$d. dan tega menstrualnega cikla</item>
-	<item quantity="few">%1$d. dan tega menstrualnega cikla</item>
-	<item quantity="many">%1$d. dan tega menstrualnega cikla</item>
     </plurals>
     <plurals name="sum_cycle_days">
         <item quantity="other">%1$d-dnevni menstrualni cikel</item>
         <item quantity="one">%1$d-dnevni menstrualni cikel</item>
-	<item quantity="few">%1$d-dnevni menstrualni cikel</item>
-	<item quantity="many">%1$d-dnevni menstrualni cikel</item>
     </plurals>
 	<plurals name="time_duration_compare_standard">
         <item quantity="other">≤%1$d min</item>
@@ -312,26 +292,18 @@
 	<plurals name="times_format">
         <item quantity="other">%1$d-krat</item>
         <item quantity="one">%1$d-krat</item>
-        <item quantity="few">%1$d-krat</item>
-        <item quantity="many">%1$d-krat</item>
     </plurals>
     <plurals name="title_menstruation_day">
         <item quantity="other">%1$d. dan menstrualnega cikla</item>
         <item quantity="one">%1$d. dan menstrualnega cikla</item>
-	<item quantity="few">%1$d. dan menstrualnega cikla</item>
-	<item quantity="many">%1$d. dan menstrualnega cikla</item>
     </plurals>
     <plurals name="title_menstruation_margin_next_time_days">
         <item quantity="other">%1$d dni do naslednjega menstrualnega cikla</item>
         <item quantity="one">%1$d dan do naslednjega menstrualnega cikla</item>
-	<item quantity="few">%1$d dni do naslednjega menstrualnega cikla</item>
-	<item quantity="many">%1$d dni do naslednjega menstrualnega cikla</item>
     </plurals>
     <plurals name="title_menstruation_predict_period">
         <item quantity="other">Ocenjeni dnevi menstrualnega cikla: %1$d </item>
         <item quantity="one">Ocenjen %1$d dan menstrualnega cikla</item>
-	<item quantity="few">Ocenjeni dnevi menstrualnega cikla: %1$d </item>
-	<item quantity="many">Ocenjeni dnevi menstrualnega cikla: %1$d </item>
     </plurals>
 	<plurals name="title_today_exercise_steps">
         <item quantity="other">%1$d korakov dnevno</item>
@@ -340,8 +312,6 @@
 	<plurals name="unit_days">
         <item quantity="other">" dni"</item>
         <item quantity="one">" dan"</item>
-        <item quantity="few">" dni"</item>
-        <item quantity="many">" dni"</item>
     </plurals>
 	<plurals name="unit_group">
         <item quantity="other">" ciklov"</item>
@@ -374,8 +344,6 @@
     <plurals name="user_age_display_format_year">
         <item quantity="other">%1$d let</item>
         <item quantity="one">%1$d leto</item>
-        <item quantity="few">%1$d leta</item>
-        <item quantity="many">%1$d let</item>
     </plurals>
 	     <plurals name="cousume_unit_format">
         <item quantity="other">%1$d Cal</item>

@@ -7,8 +7,9 @@
     <string-array name="SportTabTitle">
         <item>Tek na prostem</item>
         <item>Sprehod</item>
+        <item>Kolesarjenje</item>
         <item>Jahanje na prostem</item>
-        <item>Ergometer</item>
+	<item>Trening</item>
     </string-array>
     <string-array name="arr_prompt_label">
         <item>Razumno</item>
@@ -45,9 +46,9 @@
         <item>Brat</item>
         <item>Soprog</item>
         <item>Partner</item>
-        <item>Prijatelji</item>
+        <item>Prijatelj</item>
         <item>Sodelavec</item>
-        <item>Sodelavci</item>
+        <item>Kolegi</item>
     </string-array>
 	<string-array name="gender_array">
         <item>Ni nastavljeno</item>
@@ -100,7 +101,7 @@
         <item>Ne</item>
     </string-array>
     <string-array name="pager_titles">
-        <item>Dan</item>
+        <item>Dnevno</item>
         <item>Tedensko</item>
         <item>Mesečno</item>
     </string-array>
@@ -154,6 +155,15 @@
         <item>Pet</item>
         <item>Sob</item>
     </string-array>
+     <string-array name="week_short">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Tor</item>
+        <item>Sre</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sob</item>
+     </string-array>
     <string-array name="weight_unit">
         <item>" g"</item>
         <item>" kg"</item>

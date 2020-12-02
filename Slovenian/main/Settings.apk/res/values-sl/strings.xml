@@ -3450,6 +3450,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="face_unlock_offset_right">Pomaknite se levo</string>
   <string name="face_unlock_offset_top">Malo dvignite telefon</string>
   <string name="face_unlock_open_eye">Širše odprite oči</string>
+  <string name="face_unlock_prompt">Zahteva za odklepanje z obrazom</string>
   <string name="face_unlock_quality">"Ne morem jasno videti vašega obraza"</string>
   <string name="face_unlock_reveal_eye">Napravite oči vidnejše</string>
   <string name="face_unlock_reveal_mouth">Napravite usta vidnejša</string>

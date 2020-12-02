@@ -4,6 +4,9 @@
   <string name="add_vm_number_str">Dodaj številko</string>
   <string name="ai_assistant">AI Pomočnik klicev</string>
   <string name="ai_assistant_not_installed">Najprej namestite AI Pomočnik klicev</string>
+     <string name="ai_mode_auto">Samodejno</string>
+     <string name="ai_mode_manual">Ročno</string>
+     <string name="ai_mode_subtitles">Naslovi</string>
   <string name="antispam_local_marked">Lokalno označen</string>
   <string name="antispam_notification_title">Neznana številka</string>
   <string name="antispam_provider">Identificiran od %s</string>

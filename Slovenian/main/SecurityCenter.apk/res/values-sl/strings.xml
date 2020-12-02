@@ -284,6 +284,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_behavior_key_camera">Kamera</string>
   <string name="app_behavior_key_location">Lokacija</string>
   <string name="app_behavior_key_protect">Zaščiti zasebne informacije</string>
+  <string name="app_behavior_link_start">Aktiviran zagon</string>
   <string name="app_behavior_list_load_more">Nalagam…</string>
   <string name="app_behavior_location">%1s je dostopal(a) do lokacije</string>
   <string name="app_behavior_location_bg">%1s je dostopal(a) do lokacije v ozadju</string>
@@ -345,6 +346,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_behavior_settings_category_privacy">Zaščitite osebne informacije</string>
   <string name="app_behavior_settings_perm_tips">Pokaži opozorilo v vrstici opozoril ko aplikacije dostopajo do vaše lokacije, snemajo zvok ali snemajo fotografije</string>
   <string name="app_behavior_settings_privacy_tips">Prejemajte obvestila, ko aplikacije dostopajo do vaših stikov, zgodovine klicev ali izvajajo druga občutljiva dejanja</string>
+  <string name="app_behavior_share_file">Deli datoteko</string>
+  <string name="app_behavior_share_picture">Deli sliko</string>
   <string name="app_behavior_sms_read">%1s bere SMS sporočila</string>
   <string name="app_behavior_sms_read_single">Ta aplikacija bere SMS sporočila</string>
   <string name="app_behavior_sms_send">%1s je poslal(a) SMS</string>
@@ -2463,14 +2466,18 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_mask_title">Skrij vsebino obvestil</string>
   <string name="notification_masked_item">Kako skriti vsebino obvestil?</string>
   <string name="notification_masked_subtitle">Uporabite Zakl. aplikacij da skrijete vsebino obvestil za izbrane aplikacije</string>
-  <string name="notification_qq_clean_hint">Smeti upočasnijo vašo napravo</string>
-  <string name="notification_qq_clean_text">"Izbrišite QQ smeti"</string>
   <string name="notification_open_extreme_mode_text">Ekstremno varčevanje baterije je vključeno</string>
-  <string name="notification_quick_charging_title">Hitro polnjenje</string>
   <string name="notification_power_consume_issue_summary">Velika poraba energije</string>
   <string name="notification_power_consume_suggest_summary">Popravite probleme glede varčevanja baterije</string>
+     <string name="notification_qq_clean_hint">Smeti upočasnijo vašo napravo</string>
+     <string name="notification_qq_clean_text">"Izbrišite QQ smeti"</string>
+     <string name="notification_quick_charging_title">Hitro polnjenje</string>
   <string name="notification_subtitle">Tapnite za vklop</string>
   <string name="notification_summary_cmcc_app_check">Dotakni se za prikaz podrobnosti.</string>
+     <string name="notification_sysapp_cracked_text">Trenutna MIUI verzija je spremenjena</string>
+     <string name="notification_sysapp_cracked_title">Odkrtito varnostno tveganje</string>
+     <string name="notification_title_cmcc_app_check">Dni (%d) od zadnjega pregleda</string>
+     <string name="notification_title_firewall_blocked">Blokirano</string>
   <string name="notification_uninstall_clean_hint">Obrišite smeti, da sprostite prostor za shranjevanje</string>
   <string name="notification_uninstall_clean_text">Odstranjene aplikacije puščajo smeti v vaši napravi</string>
   <string name="notification_wechat_clean_high_level_hint">Izbrišite smeti za pospešitev naprave</string>
@@ -2478,10 +2485,6 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_wechat_clean_high_level_text_b">"Smetnjak WeChat upočasnjuje vašo napravo"</string>
   <string name="notification_wechat_clean_low_level_hint">Osvobodite prostor za shranjevanje</string>
   <string name="notification_wechat_clean_low_level_text">"Izbrišite smeti WeChat-a"</string>
-  <string name="notification_sysapp_cracked_text">Trenutna MIUI verzija je spremenjena</string>
-  <string name="notification_sysapp_cracked_title">Odkrtito varnostno tveganje</string>
-  <string name="notification_title_cmcc_app_check">Dni (%d) od zadnjega pregleda</string>
-  <string name="notification_title_firewall_blocked">Blokirano</string>
   <string name="notification_whatsapp_clean_button_text">Očisti</string>
   <string name="notification_whatsapp_clean_size">WhatsApp predpredpomnilnik je dosegel %s</string>
   <string name="notify_channel_mipush">Varnost push sporočil</string>
@@ -2663,13 +2666,6 @@ To skrajšuje trajanje baterije."</string>
   <string name="password_type">Spremeni geslo</string>
   <string name="password_type_underline">Spremeni geslo</string>
   <string name="password_xspace_forget_pattern_message">Za spremembo gesla drugega prostora, morate izbrisati trenutni Drugi prostor in napraviti novega.</string>
-  <string name="pc_abnormal_scan_button_text">Zapri aplikacije</string>
-  <string name="pc_abnormal_scan_reason_prevent_standby">Preprečuje sistemu vstop v stanje pripravljenosti</string>
-  <string name="pc_abnormal_scan_reason_reconnect">Prepogosto se skuša povezati z omrežjem</string>
-  <string name="pc_abnormal_scan_reason_runtime_exception">Zaganja se nenormalno</string>
-  <string name="pc_abnormal_scan_reason_scan_wifi">Prepogosto raziskuje WiFi omrežja</string>
-  <string name="pc_abnormal_scan_reason_use_GPS">Prepogosto uporablja storitve lokacije</string>
-  <string name="pc_abnormal_scan_reason_wake_system">Prepogosto zbuja sistem</string>
   <string name="path_antispam">Aplikacije sistema/Varnost/Spisek blokiranih</string>
   <string name="path_antivirus">Aplikacije sistema/Varnost/Preverjanje virusov</string>
   <string name="path_app_permissions">Aplikacije sistema/Varnost/Dovoljenja/Dovoljenja aplikacij</string>
@@ -2678,7 +2674,6 @@ To skrajšuje trajanje baterije."</string>
   <string name="path_cleanmaster">Aplikacije sistema/Varnost/Čistilec</string>
   <string name="path_networkassistant_2">Aplikacije sistema/Varnost/Uporaba podatkov</string>
   <string name="path_networkassistant_3">Aplikacije sistema/Varnost/Uporaba podatkov/Varčevanje podatkov</string>
-  <string name="pay_charge">Doplačilo dodatnih podatkov</string>
   <string name="path_networkassistant_4">Aplikacije sistema/Varnost/Uporaba podatkov/Test omrežja</string>
   <string name="path_payment_security">Aplikacije sistema/Varnost/Varnost plačil</string>
   <string name="path_powercenter">Aplikacije sistema/Varnost/Uporaba baterije</string>
@@ -2686,6 +2681,14 @@ To skrajšuje trajanje baterije."</string>
   <string name="path_securitycenter">Aplikacije sistema/Varnost</string>
   <string name="path_securitycenter_settings">Aplikacije sistema/Varnost</string>
   <string name="path_usb_install">Aplikacije sistema/Varnost/Dovoljenja/Namesti preko USB</string>
+     <string name="pay_charge">Doplačilo dodatnih podatkov</string>
+     <string name="pc_abnormal_scan_button_text">Zapri aplikacije</string>
+     <string name="pc_abnormal_scan_reason_prevent_standby">Preprečuje sistemu vstop v stanje pripravljenosti</string>
+     <string name="pc_abnormal_scan_reason_reconnect">Prepogosto se skuša povezati z omrežjem</string>
+     <string name="pc_abnormal_scan_reason_runtime_exception">Zaganja se nenormalno</string>
+     <string name="pc_abnormal_scan_reason_scan_wifi">Prepogosto raziskuje WiFi omrežja</string>
+     <string name="pc_abnormal_scan_reason_use_GPS">Prepogosto uporablja storitve lokacije</string>
+     <string name="pc_abnormal_scan_reason_wake_system">Prepogosto zbuja sistem</string>
   <string name="pc_activity_title">Optimiziraj baterijo</string>
   <string name="pc_battery_detail_curve_reference_now">Zdaj</string>
   <string name="pc_battery_detail_device_item_title">Statistika porabe baterije</string>
@@ -2768,6 +2771,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="permission_close_permission_control_dialog_msg">"Ko je Upravitelj dovoljenj izklopljen, aplikacije ne bodo prosile dovoljenja za dostop do vaših stikov, zgodovine klicev, nastavitev spremembe sistema ali dostopa do vaše kamere in drugih virov naprave."</string>
   <string name="permission_close_permission_control_dialog_title">Izključim?</string>
   <string name="permission_exception_title">Omejena povezava za aplikacije</string>
+     <string name="permission_group_title_others">Ostalo</string>
   <string name="permission_instruction_access_notification">To dovoljenje aplikacijam omogoča branje, iskanje in brisanje vseh vaših obvestil. Upoštevajte, da lahko obvestila vsebujejo zasebne podatke (npr. številke bančnih kartic in gesla).</string>
   <string name="permission_instruction_activity_recognition">To dovoljenje aplikacijam omogoča dostop do informacij, zbranih z vgrajenimi senzorji, ki zaznajo vašo telesno aktivnost (npr. Število korakov in vadbe). Ne pozabite, da so podatki o vaši telesni aktivnosti zasebni.</string>
   <string name="permission_instruction_add_voicemail">To dovoljenje aplikacijam omogoča, da v sistem dodajo glasovno pošto.</string>
@@ -2830,7 +2834,6 @@ To skrajšuje trajanje baterije."</string>
      <string name="permission_instruction_write_contacts">"To dovoljenje aplikacijam omogoča urejanje, dodajanje in brisanje podatkov o stikih, shranjenih v vaši napravi. Te informacije lahko vključujejo pogostost komunikacije z določenimi stiki s klici, e-pošto in drugimi metodami. To dovoljenje aplikacijam omogoča tudi brisanje stikov.
 "</string>
   <string name="permission_instruction_write_settings">To dovoljenje aplikacijam omogoča spreminjanje sistemskih nastavitev. Zlonamerne aplikacije lahko to dovoljenje uporabljajo s sistemskimi nastavitvami in vplivajo na običajno uporabo vaše naprave.</string>
-  <string name="permission_group_title_others">Ostalo</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Aplikacije ne bodo zaprosile za vaše dovoljenje za dostop do vaših stikov, zgodovine klicev, nastavitev spremembe sistema ali dostopa do vaše kamere in drugih virov naprave. To funkcijo lahko omogočite v nastavitvah dovoljenj."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Upravitelj dovoljenj</string>
   <string name="permission_privacy_link">&lt;Data&gt;&amp;lt;a href=\"%1$s\"&amp;gt;%2$s&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
@@ -2920,6 +2923,11 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_dialog_msg_top">Ko je vključeno varčevanje baterije, bo MIUI napravil naslednje optimizacije:</string>
   <string name="power_center_hints_scan_danger_result">Zdaj lahko rešite probleme baterije</string>
   <string name="power_center_list_item_auto_brightness">Samodejno nastavite svetlost zaslona</string>
+     <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+     <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+     <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+     <string name="power_center_list_item_battery_status_capacity">mAh</string>
+     <string name="power_center_list_item_battery_status_temperature">℃</string>
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_list_item_close_bluetooth">Izključi Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Dodatne nastavitve</string>

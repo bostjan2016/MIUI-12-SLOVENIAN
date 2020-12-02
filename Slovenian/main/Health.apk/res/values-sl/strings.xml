@@ -32,8 +32,8 @@
   <string name="accessibility_sync_closed_device">Sinhronizacija z %1$s je izključena</string>
   <string name="accessibility_unbound_device">%1$s ni več povezan z vašim računom</string>
   <string name="achieve_goals">Cilj dosežen</string>
-  <string name="acting">Energija</string>
   <string name="achieve_stand_goals">Dosezite cilj stanja</string>
+     <string name="acting">Energija</string>
   <string name="actionbar_button_up_description">Nazaj</string>
   <string name="activity_title_basic_info">Osnovne informacije</string>
   <string name="activity_title_exercise">Aktivnost</string>
@@ -67,11 +67,21 @@ Mi zdravje podpira naprave, ki ste jih predhodno dodali v aplikacijo Mi Home. Č
   <string name="altitude">Višina</string>
   <string name="altitude_range">Višina</string>
   <string name="am">AM</string>
+     <string name="app_setting">Aplikacije</string>
   <string name="audio_permission_dialog_desc">Dovoljenje za snemanje zvoka ni dano. Dajte dovoljenje</string>
   <string name="audio_permission_dialog_title">Dajte dovoljenje za snemanje zvoka</string>
   <string name="audio_record_perm_description">Zabeležite smrčanje in govor med spanjem</string>
   <string name="audio_record_permission_description">Za snemanje pogovorov in smrčanja med analizo cikla spanja</string>
   <string name="auth_description">Omogočite %1$s sinhronizirati podatke iz naslednjih naprav</string>
+     <string name="auth_dialog_description">"Vključim priporočila?
+
+Da vam bomo zagotovili priporočila, bomo vaše zdravstvene podatke delili s tretjimi ponudniki. Stvari, ki jih bomo delili, vključujejo osebne podatke (starost, spol), zdravstvene podatke (višina, teža, rutina vadbe), vedenjske informacije (čas začetka in konca ter trajanje vadbe).
+
+Te stvari bomo obdelali, preden jih bomo delili, da preprečimo, da bi vas neodvisni ponudniki storitev osebno identificirali na podlagi prejetih informacij..
+
+Če ne želite dostopati do priporočenih tečajev, lahko še vedno uporabljate redne treninge."</string>
+     <string name="auth_dialog_link">Če želite v celoti razumeti svoje uporabniške pravice in načine, kako uporabljamo vaše podatke, preberite in sprejmite naše &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Pravila o zasebnosti&lt;/a>&lt;/font>.</string>
+     <string name="auth_dialog_title">Priporočeni tečaji</string>
     <string name="auto_start_fail">"Ne morem dodeliti dovoljenj"</string>
     <string name="auto_start_success">Dovoljenja so bila uspešno dodeljena</string>
   <string name="auto_start_tips">Tapnite \"Nastavitve\" spodaj da odprete nastavitve Mi zdravje in dajte potrebna dovoljenja.</string>
@@ -151,13 +161,13 @@ Mi zdravje podpira naprave, ki ste jih predhodno dodali v aplikacijo Mi Home. Č
   <string name="body_weight_thin">Podhranjenost</string>
   <string name="body_weight_unmeasure_today">Danes ni tehtanja</string>
   <string name="bone_mass">Kostna masa</string>
-  <string name="bone_mass_descripe_content">Kostni mineral je anorganska komponenta kostnega tkiva. Kemična sestava kosti se s starostjo spreminja, kar vpliva na mineralno gostoto. Študije so pokazale, da dolgotrajna redna vadba odpornosti lahko učinkovito upočasni izgubo kosti, zmanjša tveganje za zlome in izboljša kakovost življenja.
-</string>
+     <string name="bone_mass_descripe_content">"Kostni mineral je anorganska komponenta kostnega tkiva. Kemična sestava kosti se s starostjo spreminja, kar vpliva na mineralno gostoto. Študije so pokazale, da dolgotrajna redna vadba odpornosti lahko učinkovito upočasni izgubo kosti, zmanjša tveganje za zlome in izboljša kakovost življenja.
+"</string>
   <string name="breaststroke">Prsni stil</string>
   <string name="butterfly_stroke">Metulj</string>
   <string name="button_record_menstruation">Zabeleži</string>
-  <string name="calories">kalorij</string>
   <string name="buy">Kupi</string>
+     <string name="calories">kalorij</string>
   <string name="camera_permission_desc">Za nastavljanje fotografije profila</string>
   <string name="cancel">Prekliči</string>
   <string name="cancel_edit">Zavrzi spremembe</string>
@@ -280,6 +290,9 @@ Mi zdravje podpira naprave, ki ste jih predhodno dodali v aplikacijo Mi Home. Č
   <string name="delete_record">Izbriši</string>
   <string name="delete_wear_data_toast">"Ne morem izbrisati podatke ki kih ponuja %1$s"</string>
   <string name="description">Podrobnosti</string>
+     <string name="detail_format">%1$.1f</string>
+     <string name="detail_record_pace_describe">Tempo (Čas prehoda 1 km)</string>
+     <string name="detail_record_pace_title">Segmenti tempa</string>
   <string name="detection_has_no_data">Ni podatkov</string>
   <string name="detection_not_start">"Niste še začeli"</string>
   <string name="detection_not_start_detail">"Ne ostatite budni pozno"</string>
@@ -288,9 +301,6 @@ Mi zdravje podpira naprave, ki ste jih predhodno dodali v aplikacijo Mi Home. Č
   <string name="detection_stop">Ta seja se bo končala, ko vstanete</string>
   <string name="detection_wait_generate_report">Izdelava statistike…</string>
   <string name="detection_wait_generate_report_detail">Vrnite se kasneje</string>
-  <string name="detail_format">%1$.1f</string>
-  <string name="detail_record_pace_describe">Tempo (Čas prehoda 1 km)</string>
-  <string name="detail_record_pace_title">Segmenti tempa</string>
   <string name="device_data_manage">Urejaj naprave</string>
   <string name="device_data_sync">Sinhroniziraj podatke</string>
   <string name="device_description">"Naprav je povezana z Mi Računom %s. Če ne najdete željene naprave, jo najprej dodajte v Mi Fit ali Xiaomi Wear."</string>
@@ -360,9 +370,9 @@ Mi zdravje vas bo obvestil samo o pomembnih stvareh."</string>
   <string name="each_week_day_format1">Vsak/o %1$s</string>
   <string name="each_week_day_format2">Vsak/o %1$s, %2$s, in %3$s</string>
   <string name="each_week_day_format3">Vsak/o %1$s vse do %2$s</string>
+     <string name="edit_aid_file">Uredi</string>
   <string name="edit_basic_info_desc">Osnovne informacije</string>
   <string name="edit_immediately">Vnesite podatke</string>
-  <string name="edit_aid_file">Uredi</string>
   <string name="edit_sleep_record_button">Uredi</string>
   <string name="elliptical_machine">Eliptično</string>
   <string name="emergency_contact">Stik v sili</string>
@@ -370,8 +380,8 @@ Mi zdravje vas bo obvestil samo o pomembnih stvareh."</string>
   <string name="enable">Vključeno</string>
   <string name="enable_go_now">Vključi</string>
   <string name="enable_not_now">Ne zdaj</string>
-  <string name="engrgy_format">%1$d W</string>
   <string name="enable_right_now">Izključi</string>
+     <string name="engrgy_format">%1$d W</string>
   <string name="enough">Dovolj</string>
   <string name="enter_mi_health">Odpri Mi zdravje</string>
   <string name="equivalent_exercise">≈%1$s km prehojeno (%2$s kcal)</string>
@@ -432,8 +442,8 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="exercise_setting_label_reach_standard_remind">Opozorilo o aktivnosti</string>
   <string name="exercise_setting_page_title">Nastavitve aktivnosti</string>
   <string name="exercise_speed">Hitrost</string>
-  <string name="exercise_strokes">Število zamahov</string>
   <string name="exercise_start">Začetek</string>
+     <string name="exercise_strokes">Število zamahov</string>
   <string name="exercise_sum">Poročilo o vadbi</string>
   <string name="exercise_time">Trajanje</string>
   <string name="exercise_walk_description">Po prehranskih smernicah za prebivalce Kitajske naj bi aktivna telesna aktivnost trajala vsaj 40 minut na dan, kar je enako hoji 6000 korakov. Tu so povzet opravila, ki jih izvajate vsak dan - hoja, tek in vzpon.</string>
@@ -444,12 +454,12 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="expand_all">Pokaži vse</string>
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Pokaži padajoči meni</string>
-  <string name="fast">Hitro</string>
   <string name="fall_sleep_hard">Problemi pri spanju</string>
   <string name="falling_duration">Padanje v spanje</string>
   <string name="falling_duration_hard_description">"Padanje v spanje je obdobje med začetkom in popolno potopitvijo v spanec. Če potrebujete več kot 30 minut da zaspite, je to lahko znak nespečnosti.
 Če po 30 minutah v postelji še vedno težko zaspite, zmanjšajte dejavnike, ki prispevajo k temu pojavu. Pijte manj kave; ne simulirajte živčnega sistema vizualno in čustveno z gledanjem videoposnetkov ali branjem pred spanjem; naj bo spalnica temna, tiha in prijetna. Če ti ukrepi ne prinesejo olajšave, se posvetujte z zdravnikom."</string>
   <string name="falling_duration_normal_description">Padanje v spanje je obdobje med začetkom in popolno potopitvijo v spanec. Za zdravljenje nespečnosti in drugih stanj, povezanih s spanjem je pomembno, koliko časa potrebujete da zaspite.</string>
+     <string name="fast">Hitro</string>
   <string name="fat_rate">Maščoba</string>
   <string name="fat_rate_descripe_content">Odstotek telesne maščobe se nanaša na delež maščobe v skupni teži človeškega telesa.</string>
   <string name="feedback_need_permission_msg">Dovolite Mi zdravje zapise v zunanji pomnilnik da bo lahko generiral zapisnike ki se uporabljajo za povratne informacije.</string>
@@ -508,6 +518,7 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="health_cloud_service">Cloud storitve</string>
   <string name="health_data_cloud_sync_subtitle">Sinhronizirajte zdravstvene podatke z oblakom in dostopajte do njih iz katere koli naprave</string>
   <string name="health_data_cloud_sync_title">Sinhronizirajte podatke z oblakom</string>
+  <string name="health_data_sync">Sinhronizirajte podatke Zdravja</string>
   <string name="health_score">Rezultat</string>
   <string name="health_score_tips">Zdravstveni rezultat se izračunava na osnovi BMI (indeksa telesne mase) ter spanja in aktivnosti. Bližje kot boste ciljem, boljši bo vaš zdravstveni rezultat.</string>
   <string name="health_setting">Nastavitve</string>
@@ -529,16 +540,15 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="hour">H</string>
   <string name="hour_in_day_format">%1$d</string>
   <string name="hour_in_day_format_short">%1$d</string>
+  <string name="hr_camera_permission_desc">Za pridobitev frekvence spremembe svetlobe okoli prsta skozi kamero določite vrednost srčnega utripa</string>
   <string name="hr_choose_detect_state">Izberite stanje med odkrivanjem</string>
   <string name="hr_cover_to_red">"Kamero popolnoma prekrijte s prstom.
 Počakajte dokler krog ne postane rdeč."</string>
   <string name="hr_detect">Odkrivanje srčnega utripa</string>
   <string name="hr_detect_desc">Skozi bliskavico kot neprekinjen vir svetlobe, kamera mobilnega telefona za zbiranje sprememb v pretoku krvi, lahko analiza slike zbere stabilen signal pulznega vala, znanstveno odkrivanje srčnega utripa</string>
   <string name="hr_detect_finished">Odkrivanje končano</string>
+  <string name="hr_detect_fps_jitter">"Utripa ni mogoče izmeriti. Prosim poskusite ponovno."</string>
   <string name="hr_detect_paused">Premor</string>
-  <string name="hr_re_detect_title">Začnite znova</string>
-  <string name="hr_report_active_desc">Merjenje srčnega utripa takoj po vadbi vam lahko pomaga prilagoditi vadbene navade, saj imajo treningi različnih intenzivnosti različna optimalna območja srčnega utripa. Če je vaš srčni utrip previsok, lahko aktivnost škoduje vašemu zdravju, kar povzroči omotico, stiskanje v prsih in druga tveganja. Nizek srčni utrip je lahko znak nizke učinkovitosti določenega treninga.</string>
-  <string name="hr_report_common_desc">Med vsakodnevnimi aktivnostmi človeško telo vzdržuje normalen srčni utrip in znaša od 60 do 100 utripov na minuto. Srčni utrip pod 60 BPM je znak bradikardije, medtem ko je srčni utrip nad 100 BPM kot tahikardija pri odraslih..</string>
   <string name="hr_detect_principle_desc_1">Skozi bliskavico ob fotoaparatu kot neprekinjenem svetlobnem viru nežno držite prst na kameri, dobite lahko sliko pretoka krvi, analiza slike lahko zbere stabilen signal pulznega vala in tako dobite vrednost srčnega utripa.</string>
   <string name="hr_detect_principle_desc_2">Z velikim številom poskusov je vrednost napake srčnega utripa znotraj plus ali minus 2.</string>
   <string name="hr_detect_principle_desc_3">Ker sta fotoaparat in bliskavica nepoklicna oprema za zajem, je priporočljivo večkrat meriti in opazovati.</string>
@@ -552,6 +562,7 @@ Počakajte dokler krog ne postane rdeč."</string>
   <string name="hr_detect_state_reseting_desc">Pravkar zbujen-a ali popolnoma sproščen-a</string>
   <string name="hr_disable_in_split_screen">"Med uporabo deljenega zaslona utripa ni mogoče izmeriti"</string>
   <string name="hr_disturb_detect">Odkrivanje prekinjeno</string>
+     <string name="hr_disturb_detect_desc">Še enkrat testirajte, med postopkom bodite mirni</string>
   <string name="hr_finger_permission_desc">Za merjenje srčnega utripa mora ta storitev dostopati do optičnega bralnika prstnih odtisov, da lahko zazna spremembe krvnega pretoka. Dovolim?</string>
   <string name="hr_fp_area">Področje prstnega odtisa</string>
   <string name="hr_fp_detect_desc">Pretok krvi v prste se poveča med srčnim utripom. Z virom močne svetlobe na območju prstnega odtisa pod zaslonom lahko dosežemo pogostost sprememb prstov v krvi. Frekvenca se pretvori v impulzni signal za izračun natančnega srčnega utripa.</string>
@@ -559,11 +570,11 @@ Počakajte dokler krog ne postane rdeč."</string>
 
 Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3 BPM"</string>
   <string name="hr_fp_detect_principle_desc_2">Opomba: poskrbite, da prst popolnoma pokrije območje prstnih odtisov; med zaznavanjem ga rahlo pritisnite. Če je tlak previsok, se bo pretok krvi v prstu zmanjšal, kar bo povzročilo netočne rezultate. Podatki o testih so samo referenčni in ne za medicinske instrumente.</string>
+  <string name="hr_fp_detect_principle_desc_3">Naši testi kažejo, da ta metoda meri vaš srčni utrip samo z napako ≤3 BPM.</string>
   <string name="hr_fp_detect_start_desc">Rahlo pritisnite prst. Ne premikajte območja s prstnimi odtisi</string>
   <string name="hr_fp_detecting">Zaznavanje…</string>
   <string name="hr_fp_not_put_well">Prst ni na pravem mestu, poskusite ponovno</string>
   <string name="hr_fp_report_common_desc">Normalni srčni utrip se giblje od 60 do 100 utripov na minuto. Srčni utrip pod 60 BPM je znak bradikardije, medtem ko je srčni utrip nad 100 BPM sprejet kot tahikardija pri odraslih.</string>
-  <string name="hr_disturb_detect_desc">Še enkrat testirajte, med postopkom bodite mirni</string>
   <string name="hr_heart_rate_unit">Srčni utrip (BPM)</string>
   <string name="hr_in_detect">Med testiranjem ne spustite prstov</string>
   <string name="hr_input_heart_rate">Zabeleži srčni utrip</string>
@@ -574,6 +585,9 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
   <string name="hr_pre_detect">Za zaznavanje  s prsti popolnoma blokirajte fotoaparat in bliskavico</string>
   <string name="hr_pre_detect_finger">Raziščite prst</string>
   <string name="hr_pre_detect_finger_desc">Zaznava se pokrivanje prstov. Ne spuščajte</string>
+     <string name="hr_re_detect_title">Začnite znova</string>
+     <string name="hr_report_active_desc">Merjenje srčnega utripa takoj po vadbi vam lahko pomaga prilagoditi vadbene navade, saj imajo treningi različnih intenzivnosti različna optimalna območja srčnega utripa. Če je vaš srčni utrip previsok, lahko aktivnost škoduje vašemu zdravju, kar povzroči omotico, stiskanje v prsih in druga tveganja. Nizek srčni utrip je lahko znak nizke učinkovitosti določenega treninga.</string>
+     <string name="hr_report_common_desc">Med vsakodnevnimi aktivnostmi človeško telo vzdržuje normalen srčni utrip in znaša od 60 do 100 utripov na minuto. Srčni utrip pod 60 BPM je znak bradikardije, medtem ko je srčni utrip nad 100 BPM kot tahikardija pri odraslih..</string>
   <string name="hr_see_report">Poglej poročilo</string>
   <string name="hr_start_detect">Začnite zaznavanje</string>
   <string name="hr_state">Status</string>
@@ -647,6 +661,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
   <string name="light_sleep_time_increase_description">Vaše rahlo spanje je predolgo</string>
   <string name="light_sleep_time_normal_description">Imate dovolj rahlega spanja</string>
   <string name="load_failed">"Ne morem naložiti. Počakajte minuto ali dve in poskusite ponovno."</string>
+  <string name="loading">Samo trenutek…</string>
   <string name="location_permission_dialog_content">Dovolite Xiaomi Zdravje dostop do vaše lokacije v \"Xiaomi Zdravje\" > \"Urejanje dovoljenj\" da boste spremljali vaše vaje na prostem.</string>
   <string name="location_permission_dialog_negative">Ne zdaj</string>
   <string name="location_permission_dialog_positive">Dovoli</string>
@@ -749,9 +764,20 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
   <string name="min_pace">Najnižji tempo</string>
   <string name="minimum">Minimum</string>
   <string name="minute">M</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
+     <string name="miuix_appcompat_cancel_description">Prekliči</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
   <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
+     <string name="miuix_appcompat_confirm_description">Potrdi</string>
+     <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
+     <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all_description">Izberi vse</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
@@ -827,6 +853,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
   <string name="need_unrestricted_permission">Da dobite točnejšo statistiko, dovolite Mi zdravje izvajanje v ozadju.</string>
   <string name="network_connect_failure">"Omrežna povezava ni uspela. Preverite omrežne nastavitve in poskusite znova."</string>
   <string name="network_not_available">"Omrežna povezava ni uspela. Preverite omrežne nastavitve in poskusite znova."</string>
+  <string name="network_not_available2">"Ne morem se povezati na omrežje"</string>
   <string name="next_step">Naprej</string>
   <string name="night">PM</string>
   <string name="no_available_data_source">Viri podatkov niso na voljo</string>
@@ -884,9 +911,11 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
   <string name="per_time_minutes_heart_rate">" BPM"</string>
   <string name="period">Cikel</string>
   <string name="permission_check_result">Uspešno nastavljeno</string>
-    <string name="permission_check_result_failed">Ni možno nastaviti</string>
+  <string name="permission_check_result_failed">Ni možno nastaviti</string>
   <string name="permission_manage">Urejanje dovoljenj</string>
-  <string name="permission_tip">Dajte Mi Mi naslednja dovoljenja kar mu bo omogočilo točno spremljanje vašega spanja</string>
+  <string name="permission_tip">Dajte Mi Zdravje naslednja dovoljenja kar mu bo omogočilo točno spremljanje vašega spanja</string>
+  <string name="personal_course_recommend_subtitle">Dostopajte do tečajev, ki so vam priporočljivi na podlagi vaših osebnih podatkov, zdravstvene statistike in preferenc</string>
+  <string name="personal_course_recommend_title">Priporočeni tečaji</string>
   <string name="phone_detection">Odkrij samodejno</string>
   <string name="photograph">Kamera</string>
   <string name="picker_day">Izbrani dan: %1$d. Povlecite navpično za izbiro.</string>
@@ -917,6 +946,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
   <string name="preference_update_find_new_version">Preveri za posodobitev</string>
   <string name="preference_update_find_newer_version">Posodobitev na voljo: %1$s</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
+  <string name="privacy_setting">Zasebnost</string>
   <string name="prompt_more_than_3h">Več kot 3 ure</string>
   <string name="prompt_sleep_time_night">Spanje ponoči</string>
   <string name="prompt_sleep_time_noon">Dnevno dremanje</string>
@@ -961,6 +991,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
     <string name="remind_query_menstruation_start">"Ali se je vaša menstruacija začela? Ne pozabite jo zabeležiti."</string>
   <string name="remind_sleep_report_complete">Statistika spanja je pripravljena</string>
   <string name="remind_sleep_report_content">Spali ste %1$d hr %2$d min. Tapnite za prikaz podrobnosti.</string>
+  <string name="remind_sleep_report_content_1">Zadnjo noč ste spali %1$d hr. Tapnite za prikaz podrobnosti.</string>
   <string name="remind_sleep_report_title">Statistika spanja je pripravljena</string>
     <string name="remind_subtitle_menstruation_start">Prejmite opomnik 2 dni preden se začne naslednja menstruacija</string>
     <string name="remind_subtitle_record">Prejmite opomnik, kdaj morate zabeležiti začetne in končne datume menstruacije</string>
@@ -997,10 +1028,10 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
   <string name="sedentary_title">Opomni me za sprehod</string>
   <string name="sedentary_toggle_content">"Mi zdravje vas bo opomnilo da vstanete in se sprehodite če ste dolgo bili neaktivni."</string>
   <string name="sedentaty_hazard_description">Posedanje ne koristi vašemu zdravju. 12 ur z enominutnimi prekinitvami vsak dan vam bo pomagalo, da se izognete nevarnostim sedečega načina življenja.</string>
+     <string name="select_exercise_intensity">Izberite intenziteto</string>
+     <string name="select_exercise_type">Izberite vrsto vadbe</string>
   <string name="select_menstruation_end_date">Izberite datum konca te menstruacije</string>
   <string name="select_null">Nič ni izbrano</string>
-  <string name="select_exercise_type">Izberite vrsto vadbe</string>
-  <string name="select_exercise_intensity">Izberite intenziteto</string>
   <string name="select_recog_question">Izberite opravilo</string>
   <string name="select_swim_posture">Izberite stil</string>
   <string name="select_target">Izberi cilj</string>
@@ -1023,12 +1054,35 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
   <string name="severe_abnormal_tip">Vsak dan po vstajanju, po kosilu in pred odhodom spat</string>
   <string name="share">Deli</string>
   <string name="skip">Preskoči</string>
+     <string name="skip_to_next_item_button_content_description">Preskoči na naslednjo stvar</string>
+     <string name="skip_to_previous_item_button_content_description">Preskoči na prejšnjo stvar</string>
+     <string name="skipping_count">Skoki</string>
+     <string name="skipping_detection_no">"Ne morem zaznati vašega treninga."</string>
+     <string name="skipping_detection_no_hint">Izogibajte se hrupnim krajem in imejte napravo v bližini.</string>
+     <string name="skipping_kcal">Kalorije</string>
+     <string name="skipping_pause">Preskoki pavzirano</string>
+     <string name="skipping_pause_tips">Pavzirano | Nastavite s vježbanjem da nastavite s autom. praćenjem</string>
+     <string name="skipping_ready">Zdaj lahko začnete s svojim treningom</string>
+     <string name="skipping_ready_hint_one">Naprava naj bo na razdalji manj kot 1 meter.</string>
+     <string name="skipping_ready_hint_two">Vadba bo zaustavljena in nadaljevana samodejno glede na zvoke, ki jih ustvarite.</string>
+     <string name="skipping_ready_toast">"Povečali smo glasnost, da boste lahko bolje slišali navodila."</string>
+     <string name="skipping_reset_time">Premor</string>
+     <string name="skipping_start_counting">Začetek</string>
+     <string name="skipping_time">Trajanje</string>
+     <string name="skipping_upload_dialog_agree_and_upload">Sprejmem in pošlji</string>
+     <string name="skipping_upload_dialog_msg">Za natančnejšo izkušnjo štetja preskoka bo Xiaomi zdravje poslal datoteko posnetka vaše preskakovalne vrvi pod %s pogoji, da optimizira učinek prepoznavanja preskakovanja vrvi. Za zaščito vaše zasebnosti bo prenos in shranjevanje snemalnih datotek strogo šifrirano.</string>
+     <string name="skipping_upload_dialog_reject_not_remind">Zavračam in ne sprašuj več</string>
+     <string name="skipping_upload_dialog_title">Naložite posnetek preskakovanja vrvi, da optimizirate prepoznavanje</string>
+     <string name="skipping_upload_tips">Naložite ta posnetek preskakovanja vrvi, da boste izboljšali učinek prepoznavanja</string>
   <string name="sleep">Spanje</string>
   <string name="sleep_and_get_up_time">Razpored spanja</string>
   <string name="sleep_auto_start_perm_grant">Dovoljenje odobreno</string>
   <string name="sleep_chart_empty">Ni podatkov</string>
   <string name="sleep_chart_loading">Samo trenutek…</string>
   <string name="sleep_day">Dan</string>
+     <string name="sleep_day_multi_short_title">Dremanje %1$d</string>
+     <string name="sleep_day_single_short_title">Dremanje</string>
+     <string name="sleep_day_title">Spanje podnevi</string>
   <string name="sleep_deep">Globoko spanje</string>
   <string name="sleep_deep_light_analysis">Rahlo in globoko spanje</string>
   <string name="sleep_deep_light_close_tip">Analiza globokega spanja je izključena</string>
@@ -1091,6 +1145,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
     <string name="sleep_need_auto_start">Dovolite Mi zdravju samodejni začetek, da bi podatki o spanju bili bolj natančni</string>
     <string name="sleep_need_background_run">Izberite \"Brez omejitev\", da bi podatki o spanju bili bolj natančni</string>
     <string name="sleep_need_necessary_permissions">Dodelite zahtevana dovoljenja, da bi vaši podatki o spanju bili bolj natančni</string>
+     <string name="sleep_night_title">Spanje ponoči</string>
   <string name="sleep_no_data_info">"Pojdite skozi kompletni
 cikel spanja"</string>
   <string name="sleep_no_deep_light_data_tip">"Zakaj ni zabeleženo rahlo in globoko spanje?"</string>
@@ -1122,6 +1177,8 @@ podatkov o spanju"</string>
   <string name="sleep_snore_detection_desc">Spremljajte svoje spanje</string>
   <string name="sleep_sober">Budnost</string>
   <string name="sleep_sober_times_title">Zbudil/a se</string>
+  <string name="sleep_state_this_month">"Spanje ta mesec"</string>
+  <string name="sleep_state_this_week">"Spanje ta teden"</string>
   <string name="sleep_status">Statistka spanja</string>
   <string name="sleep_time_edit">Uredi</string>
   <string name="sleep_time_standard_pattern">Standardno: %1$dh</string>
@@ -1305,6 +1362,7 @@ podatkov o spanju"</string>
   <string name="sustain_title">"Niste se premaknili "</string>
   <string name="swim">Plavanje</string>
   <string name="swim_type">Stil</string>
+  <string name="sync_health_data">Sinhr. podatke Zdravja</string>
   <string name="sync_immediately">Sinhr.</string>
   <string name="sync_is_not_closed">Sinhronizacija je vključena</string>
   <string name="sync_is_off">Sinhronizacija je izključena</string>
@@ -1315,8 +1373,12 @@ podatkov o spanju"</string>
   <string name="sync_status_network_failure">"Ne morem sinhronizirati. Povežite se na omrežje in poskusite znova."</string>
   <string name="sync_status_never_done">Ni sinhronizirano</string>
   <string name="sync_status_oauth_error">"Sinhronizacija vira podatkov ni uspela. Najprej odobrite dovoljenja"</string>
+  <string name="system_app_setting">Nastavitve sistemske aplikacije</string>
   <string name="systolic_pressure">Sistolični</string>
   <string name="tb_audio_progress_bar">Trak predvajanja zvoka</string>
+  <string name="tb_blood_pressure_day_chart">%1$s. Najvišji sistolični pritisk: %2$d milimetrov živega srebra. Najnižji diastolični pritisk: %3$d milimetrov živega srebra.</string>
+  <string name="tb_blood_pressure_item">%1$s. Sistolični pritisk: %2$d milimetrov živega srebra. Diastolični pritisk: %3$d milimetrov živega srebra.</string>
+  <string name="tb_blood_pressure_wm_card">Povprečni sistolični pritisk: %1$ d milimetrov živega srebra. Povprečni diastolični pritisk: %2$d milimetrov živega srebra. Najvišji sistolični pritisk: %3$d milimetrov živega srebra. Najvišji diastolični pritisk: %4$d milimetrov živega srebra. Najnižji sistolični pritisk: %5$d milimetrov živega srebra. Najnižji diastolični pritisk: %6$d milimetrov živega srebra.</string>
   <string name="tb_card_on_using_list">Dodano</string>
   <string name="tb_click_finish_stand">Nedokončano stanje skoraj 1 uro, kliknite da boste dokončali stanje</string>
   <string name="tb_current_select">%1$s trenutno izbrano</string>
@@ -1550,6 +1612,7 @@ podatkov o spanju"</string>
   <string name="tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
   <string name="tracking_progress_labe_up_nodata">Ni podatkov</string>
   <string name="tracking_progress_labe_up_refresh">Povleci za osvežitev</string>
+  <string name="treadmill">Tekalna steza</string>
   <string name="tuesday">Torek</string>
   <string name="tuesday_short">Tor</string>
   <string name="tuesday_shortest">T</string>

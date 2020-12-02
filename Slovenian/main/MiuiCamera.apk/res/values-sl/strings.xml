@@ -188,10 +188,10 @@
   <string name="accessibility_super_eis_pr_on">EIS PRO je vključen</string>
   <string name="accessibility_super_macro_off">Super macro je izključen</string>
   <string name="accessibility_super_macro_on">Super macro je vključen</string>
-  <string name="accessibility_time">Čas</string>
   <string name="accessibility_super_moon_silhouette_panel_on">Urejanje plošče</string>
   <string name="accessibility_tilt_shift_circle_button">Tilt shift. Krog.</string>
   <string name="accessibility_tilt_shift_parallel_button">Tilt shift. Paralela.</string>
+     <string name="accessibility_time">Čas</string>
   <string name="accessibility_timer_burst_image_off">Časovno slikanje je izključeno</string>
   <string name="accessibility_timer_burst_image_on">Časovno slikanje je vključeno</string>
   <string name="accessibility_timer_burst_text">Plošča za nastavljanje časovnega slikanja</string>
@@ -256,10 +256,10 @@ in samodejno prilagodi nastavitve"</string>
   <string name="ai_watermark_title">AI oznaka</string>
   <string name="ai_watermark_toast_off">AI je izklj.</string>
   <string name="ai_watermark_toast_on">AI je vklj.</string>
-  <string name="albums">Albumi</string>
   <string name="aiwatermark_location_absent_hint">"Informacije o lokaciji ni bilo mogoče dobiti"</string>
   <string name="aiwatermark_location_list_title">Lokacija</string>
   <string name="aiwatermark_location_tips">Dovolite kameri dostop do vaše lokacije, da dobi ustreznejše oznake</string>
+     <string name="albums">Albumi</string>
   <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
   <string name="ambilight_description_title">O daljši ekspoziciji</string>
   <string name="ambilight_intro_crowd_moving_part1">Ko snemate v prometni ulici prosite vaš objekt naj miruje. Drugi ljudje se bodo pojavili kot zamegljene sledi.</string>
@@ -640,9 +640,9 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   nato pa izdelala posnetek na katerem vsi zgledajo najboljše."</string>
   <string name="hint_groupshot_beauty">Ne morem uporabiti olepšanje pri skupinskih fotografijah</string>
   <string name="hint_mimovie">Snemajte v načinu pokrajina za najboljši učinek</string>
+     <string name="hint_slow_motion">Videoposnetek ki ga snemate se bo predvajal počasneje.</string>
   <string name="hint_subtitle">"Diktirajte podnapise med snemanjem videoposnetkov"</string>
   <string name="hint_subtitle_prompt">Zdaj lahko diktirate podnapise</string>
-  <string name="hint_slow_motion">Videoposnetek ki ga snemate se bo predvajal počasneje.</string>
   <string name="hunt_dual_water_mark">Oznaka Dvojna kamera bo dodana samodejno.</string>
   <string name="id_card_mode_hint_back">Skenirajte zadnjo stran izkaznice</string>
   <string name="id_card_mode_hint_front">Skenirajte sprednjo stran izkaznice</string>
@@ -1069,8 +1069,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_auxiliary_exposure_feedback">Kontrola ekspozicije</string>
   <string name="pref_camera_auxiliary_focus_peak">Vrh fokusa</string>
   <string name="pref_camera_auxiliary_title">Pomočnik</string>
-  <string name="pref_camera_beautify_entry_close">Izklj.</string> 
   <string name="pref_camera_beautify_entry_auto">Izklj.</string>
+     <string name="pref_camera_beautify_entry_close">Izklj.</string>
   <string name="pref_camera_beautify_entry_high">Visoko</string>
   <string name="pref_camera_beautify_entry_low">Nizko</string>
   <string name="pref_camera_beautify_entry_normal">Srednje</string>
@@ -1110,11 +1110,11 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_coloreffect_title">Filtri</string>
   <string name="pref_camera_common_settings">Dodatne nastavitve</string>
   <string name="pref_camera_contrast_title">Kontrast</string>
+     <string name="pref_camera_debug_info_as_watermark_title">Vključi odpravo napak oznake</string>
+     <string name="pref_camera_default_suffix">(Privzeto)</string>
   <string name="pref_camera_delay_capture_10s">%ds zamik</string>
   <string name="pref_camera_delay_capture_3s">%ds zamik</string>
   <string name="pref_camera_delay_capture_5s">%ds zamik</string>
-  <string name="pref_camera_debug_info_as_watermark_title">Vključi odpravo napak oznake</string>
-  <string name="pref_camera_default_suffix">(Privzeto)</string>
   <string name="pref_camera_delay_capture_entry_10s">Počakaj 10s</string>
   <string name="pref_camera_delay_capture_entry_3s">Počakaj 3s</string>
   <string name="pref_camera_delay_capture_entry_5s">Počakaj 5s</string>
@@ -1385,8 +1385,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_video_duration_entry_30">30 minut</string>
   <string name="pref_camera_video_duration_entry_mms">30 sek.(MMS)</string>
   <string name="pref_camera_video_duration_title">Trajanje videoposnetka</string>
-  <string name="pref_camera_video_show_faceview_title">Pokaži okvir obraza v video načinu</string>
   <string name="pref_camera_video_sat_enable_title">Vključi storitev smooth zoomiranja</string>
+     <string name="pref_camera_video_show_faceview_title">Pokaži okvir obraza v video načinu</string>
   <string name="pref_camera_video_tag">Dovoli označevanje videoposnetkov</string>
   <string name="pref_camera_video_tag_description">Tapnite \"Označi\" med snemanjem videoposnetkov da se boste lahko vrnili v označene trenutke med predvajanjem</string>
   <string name="pref_camera_volumekey_function_entry_exposure">Ekspozicija</string>
@@ -1495,6 +1495,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_video_focusmode_entry_auto">Tapni</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Način fokusa</string>
+     <string name="pref_video_hfr_title">Hitrost sličic</string>
   <string name="pref_video_quality_entry_1080p">FULL HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>
   <string name="pref_video_quality_entry_4kuhd">4K</string>
@@ -1503,6 +1504,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
+     <string name="pref_video_quality_hfr_title">Hitrost sličic &amp; kvaliteta slike</string>
   <string name="pref_video_quality_summary">4K videoposnetek ne more biti podprt v načinu dela 120FPS</string>
   <string name="pref_video_quality_title">Video kvaliteta</string>
   <string name="pref_video_slow_speed_title_simple_mode">Hitro gibanje</string>

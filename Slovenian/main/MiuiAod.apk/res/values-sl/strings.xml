@@ -96,6 +96,9 @@ dd.MM"</string>
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Pokaži padajoči meni</string>
   <string name="font_thickness">Odebeljeni font</string>
+     <string name="friday">Petek</string>
+     <string name="friday_short">Pet</string>
+     <string name="friday_shortest">P</string>
   <string name="icon_content_description">Ikona dialoga</string>
   <string name="item_view_role_description">Kartica</string>
   <string name="large_time">Velika ura</string>
@@ -169,8 +172,8 @@ dd.MM"</string>
   <string name="more_online_theme">Online storitve</string>
   <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
+     <string name="mtrl_exceed_max_badge_number_content_description">Več kot %1$d novih obvestil</string>
      <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
-  <string name="mtrl_exceed_max_badge_number_content_description">Več kot %1$d novih obvestil</string>
   <string name="mtrl_picker_a11y_next_month">Zamenjaj na naslednji mesec</string>
   <string name="mtrl_picker_a11y_prev_month">Zamenjaj na prejšnji mesec</string>
   <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>

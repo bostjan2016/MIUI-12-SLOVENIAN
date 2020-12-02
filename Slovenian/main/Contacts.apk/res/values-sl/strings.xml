@@ -272,6 +272,10 @@
      <string name="call_record_text_auto_delete_half_year">Čez %d mesecev</string>
      <string name="call_record_text_auto_delete_never">Nikoli</string>
      <string name="call_record_text_auto_delete_one_month">Čez %d mesec</string>
+     <string name="call_record_user_notice_all_purpose">Najdi klice, v katerih so omenjene določene besede</string>
+     <string name="call_record_user_notice_permission_desc_microphone">Za snemanje klicev</string>
+     <string name="call_record_user_notice_permission_desc_storage">Za shranjevanje posnetkov</string>
+     <string name="call_record_user_notice_title">Pregled govornih klicev</string>
      <string name="call_record_whitelist_custom">Izbrani klici</string>
      <string name="call_recording_notification_summary">Ko je klic posnet, prejmite obvestilo</string>
      <string name="call_recording_notification_title">Obvesti o snemanju klica</string>
@@ -393,10 +397,10 @@
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
   <string name="config_prohibited_phone_number_regexp"/>
-  <string name="confirm_delete_contact_all_call_logs">Izbrišem zgodovino klicev od  %s?</string>
   <string name="confirm_call_log_dial_summary">Pred klicanjem iz seznama klicev zahtevajte potrdilo da preprečite slučajne klice.</string>
   <string name="confirm_call_log_dial_title">Potrdite klicanje iz seznama klicev</string>
   <string name="confirm_delete_cloud_all_call_logs">Izbrišem kompletno zgodovino klicev od %s iz Mi Clouda in te naprave?</string>
+     <string name="confirm_delete_contact_all_call_logs">Izbrišem zgodovino klicev od  %s?</string>
   <string name="confirm_delete_selected_all_call_logs">Izbrišem zgodovino klicev?</string>
   <string name="confirm_delete_sim_entry_miui_title">Izbriši</string>
   <string name="confirm_export_message">"Vaš seznam stikov bo izvožen v datoteko: %s."</string>
@@ -880,8 +884,8 @@ Razlog: \"%s\""</string>
   <string name="in_call_show_filter_process_error">Napaka, poskusite ponovno.</string>
   <string name="in_call_show_filter_processing">V obdelavi…</string>
   <string name="in_call_show_filter_vivid">Vivid</string>
-  <string name="in_call_show_guide_intro">Posnemite videoposnetek profila 
-ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</string>
+     <string name="in_call_show_guide_intro">"Posnemite videoposnetek profila 
+ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"</string>
   <string name="in_call_show_guide_start_recording">Posnemi zdaj</string>
   <string name="in_call_show_guide_title">Videoposnetek profila</string>
   <string name="in_call_show_long_press_to_record">Pritisni &amp; drži za snemanje</string>
@@ -1728,11 +1732,11 @@ Napravite varnostno kopijo stikov."</string>
   <string name="unknown_details_new_contact">Nov stik</string>
   <string name="update_sim_contact_photo_toast">"Ne morem nastaviti fotografije za SIM kontakte"</string>
   <string name="upgrade_in_progress">Seznam stikov se posodablja.</string>
-  <string name="upgrade_out_of_memory">Stiki so v postopku nadgradnje.      
+     <string name="upgrade_out_of_memory">"Stiki so v postopku nadgradnje.      
 
      Postopek nadgradnje zahteva približno %s MB notranjega pomnilnika.       
 
-     Izberite eno od naslednjih možnosti:</string>
+     Izberite eno od naslednjih možnosti:"</string>
   <string name="upgrade_out_of_memory_retry">Ponovi nadgradnjo</string>
   <string name="upgrade_out_of_memory_uninstall">Odstrani nekaje aplikacij</string>
   <string name="use_photo_as_primary">Uporabi to sliko</string>

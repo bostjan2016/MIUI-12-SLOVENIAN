@@ -43,6 +43,8 @@
   <string name="call_record_list_group_connected">Povezano</string>
   <string name="call_record_list_group_unconnected">Ni povezano</string>
   <string name="cancel_rename">Prekliči</string>
+     <string name="clear_data_dialog_content">Stvari, podatki o aplikacijah in nastavitve po meri bodo izbrisani iz predpomnilnika, vendar bodo vaši posnetki ostali na svojem mestu.</string>
+     <string name="clear_data_dialog_title">Želite takoj izbrisati podatke?</string>
   <string name="clear_records">Izbriši sinhronizirane zapise</string>
   <string name="cloud_record">Sinhronizirano %d</string>
   <string name="cloud_record_open">Sinhr. posnetkov</string>
@@ -123,6 +125,7 @@
   <string name="pause">Odmor</string>
   <string name="playback_delete_records">Izbriši posnetek</string>
   <string name="playback_share_records">Deli posnetek</string>
+     <string name="preference_clear_data">Izbriši</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="preference_enable_earpiece_summary">Uporabi zvočnik za zunanje predvajanje</string>
   <string name="preference_enable_earpiece_title">Uporabi zvočnik za predvajanje avdia</string>
