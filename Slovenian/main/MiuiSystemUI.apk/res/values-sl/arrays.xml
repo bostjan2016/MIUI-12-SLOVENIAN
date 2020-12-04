@@ -266,33 +266,33 @@
         <item>Oblačno</item>
         <item>Oblačno</item>
         <item>Megla</item>
-        <item>Dež</item>
-        <item>Dež</item>
+        <item>Močan dež</item>
+        <item>Naliv</item>
         <item>Dež</item>
         <item>Nevihta</item>
         <item>Dež</item>
-        <item>Dež</item>
+        <item>Obilno deževje</item>
         <item>Zmeren dež</item>
-        <item>Zmeren dež</item>
+        <item>Rahel dež</item>
         <item>Rahlo sneženje</item>
-        <item>Rahlo sneženje</item>
+        <item>Snežni vihar</item>
         <item>Sneg</item>
-        <item>Močan sneg</item>
+        <item>Gost sneg</item>
         <item>Zmeren sneg</item>
         <item>Rahel sneg</item>
+        <item>Močan peščeni vihar</item>
         <item>Peščeni vihar</item>
-        <item>Peščeni vihar</item>
-        <item>Peščeni vihar</item>
+        <item>Pesek</item>
         <item>Vetrovno</item>
         <item>Toča</item>
-        <item>Prašnato</item>
+        <item>Prah</item>
         <item>Meglica</item>
-        <item>Ledeni dež</item>
+        <item>Leden dež</item>
         <item></item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Iskanje …</item>
+        <item>Iskanje…</item>
         <item>Vzpostavljanje povezave…</item>
         <item>Preverjanje pristnosti…</item>
         <item>Pridobivanje naslova IP…</item>

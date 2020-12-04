@@ -178,6 +178,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Posodobljeno včeraj ob %s</string>
   <string name="adjust_traffic_data">Nastavite porabo podatkov</string>
   <string name="after_the_lock_screen">"Zakleni aplikacije skupaj z zaslonom."</string>
+  <string name="ai_allow_all">Obvesti, ko se dovoljenje uporablja za vse</string>
   <string name="alert_back_diving_mode_summary">Izključim Interaktivni način?</string>
   <string name="alert_back_diving_mode_title">Interaktivni način</string>
   <string name="alert_back_milink_hangup_tips_content">"Predvajanje ne bo prekinjeno dokler ne končate klica. Pritisnite gumb za vklop da zbudite zaslon."</string>
@@ -4361,9 +4362,9 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="system_permission_declare_disagree">Ne strinjam se</string>
   <string name="system_permission_declare_double_link"><Data>Preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>.</Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli v %1s! Ta storitev vam omogoča uporabo naslednjega: %2s.</string>
-  <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;Ob istem času, za popolno razumevanje vaših pravic kot uporabnika in tega, kako uporabljamo vaše podatke, preberite in sprejmite naše &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-  <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;Ob istem času, za popolno razumevanje vaših pravic kot uporabnika in tega, kako uporabljamo vaše podatke, preberite in sprejmite naše &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-  <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;Ob istem času, za popolno razumevanje vaših pravic kot uporabnika in tega, kako uporabljamo vaše podatke, preberite in sprejmite naše &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;Istočasno, za popolno razumevanje vaših pravic kot uporabnika in tega, kako uporabljamo vaše podatke, preberite in sprejmite naše &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;Istočasno, za popolno razumevanje vaših pravic kot uporabnika in tega, kako uporabljamo vaše podatke, preberite in sprejmite naše &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;Istočasno, za popolno razumevanje vaših pravic kot uporabnika in tega, kako uporabljamo vaše podatke, preberite in sprejmite naše &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="system_permission_declare_no_say_no">"Aplikacija ne bo delovala brez potrebnih dovoljenj."</string>
   <string name="system_permission_declare_no_say_no_analytics">"Če ne želite odobriti dovoljenj se lahko odjavite v Nastavitve &gt; Dodatne nastavitve &gt; Zasebnost &gt; Program uporabniških izkušenj."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Aplikacija ne bo delovala brez potrebnih dovoljenj."</string>
