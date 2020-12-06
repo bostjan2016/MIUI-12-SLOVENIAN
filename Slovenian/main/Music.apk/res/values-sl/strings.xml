@@ -121,7 +121,6 @@
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s prenosov</string>
   <string name="app_label">Prenosi</string>
-  <string name="app_name">Glasba</string>
   <string name="app_permission_confirm">Razumem</string>
   <string name="app_permission_optional">Izbirna dovoljenja</string>
   <string name="app_permission_require">Obvezna dovoljenja</string>
@@ -570,9 +569,7 @@ predvsem nudi Ultimate Inc."</string>
      <string name="exo_media_action_repeat_all_description">Ponovi vse</string>
      <string name="exo_media_action_repeat_off_description">Ne ponavljaj</string>
      <string name="exo_media_action_repeat_one_description">Ponovi eno</string>
-     <string name="exo_track_bitrate">%1$.2f Mbps</string>
      <string name="exo_track_mono">Mono</string>
-     <string name="exo_track_resolution">%1$d × %2$d</string>
      <string name="exo_track_role_alternate">Nadomestno</string>
      <string name="exo_track_role_closed_captions">podnapisi</string>
      <string name="exo_track_role_commentary">Komentar</string>
@@ -1108,7 +1105,6 @@ predvsem nudi Ultimate Inc."</string>
   <string name="privacy_notif_content">Pritisnite za pregled podrobnosti.</string>
   <string name="privacy_notif_title">Xunlei Download Accelerator je vključen</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
-     <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
      <string name="privacy_request_desc"><Data>"Mi glasba mora zbrati potrebne osebne podatke za zagotavljanje spletnih storitev pretakanja. Izvedite, kako ravnamo s podatki, ki jih zbiramo v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. V nastavitvah lahko kadar koli umaknete svoje soglasje k Pravilih o zasebnosti Mi glasbbe.
 Preberite in se strinjajte z našimi &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> pred uporabe Glasbe.
 Če se ne strinjate z uporabo zgoraj omenjenih storitev, nekaterih možnosti te aplikacije ne boste mogli uporabljati; osnovna funkcionalnost pa vam bo še vedno na voljo."</Data></string>
@@ -1499,7 +1495,6 @@ Bodite Happy"</string>
      <string name="upload_playlist_to_hungama_title">Sinhronizirajte spletne pesmi z Hungamo, da boste lahko dostopali do njih v drugih napravah, kjer uporabljate svoj Mi račun.</string>
      <string name="upload_playlist_to_hungama_toast">Spletne pesmi bodo sinhronizirane z Hungamo</string>
   <string name="user_agreement">Pogoji uporabe</string>
-     <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
      <string name="user_privacy_dialog_negative_text">Prekliči</string>
      <string name="user_privacy_dialog_positive_count_down_text">Preklic (%ss)</string>
      <string name="user_privacy_dialog_positive_text">Preklic</string>
@@ -1534,7 +1529,6 @@ Bodite Happy"</string>
 Pritisnite %s da zaženete prenos naslednjič ko se povežete preko WiFi."</string>
   <string name="wifi_required_title">Prenos je prevelik za omrežje operaterja</string>
      <string name="xiaomi_privacy_policy_url">https://privacy.mi.com/all/</string>
-     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezovanje aplikacije prenos ni uspelo, preverite stanje v Upravitelju aplikacij.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verzijo %1$s
 Velikost: %2$s"</string>
@@ -1542,8 +1536,6 @@ Velikost: %2$s"</string>
 Velikost Delta posodobitve: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s posodobitev!</string>
      <string name="xiaomi_update_sdk_external_storage_unavailable">Shramba ni na voljo, preverite kartico SD.</string>
-     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
      <string name="yesterday">Včeraj</string>
   <string name="you_can_switch_mode_in_settings">Lahko menjate način dela v nastavitvah</string>
   <string name="you_may_like">Morda vam bo všeč</string>
