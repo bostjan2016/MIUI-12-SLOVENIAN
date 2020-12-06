@@ -164,7 +164,6 @@ skupaj %2$d pesemi</item>
      </plurals>
 	 <plurals name="Nalbum_total_songs">
          <item quantity="other">Skupaj %d pesmi</item>
-         <item quantity="zero">Skupaj %d pesmi</item>
          <item quantity="one">Skupaj %d pesem</item>
      </plurals>
 	 <plurals name="skipped_online_songs_tips">
@@ -190,5 +189,75 @@ skupaj %2$d pesemi</item>
 	 <plurals name="video_count">
         <item quantity="other">Videoposnetki</item>
         <item quantity="one">Videoposnetek</item>
+     </plurals>
+	  <plurals name="Ndialog_renew_content">
+        <item quantity="other">"Vaša naročnina poteče čez %d dni.
+Ali želite, da jo pomagamo obnoviti?"</item>
+        <item quantity="one">"Vaša naročnina poteče čez %d dan.
+Ali želite, da jo pomagamo obnoviti?"</item>
+     </plurals>
+      <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">Lahko prenesete %1$d brezplačnih pesmi. Prenesem %2$s zdaj?</item>
+        <item quantity="one">Lahko prenesete %1$d brezplačno pesem. Prenesem %2$s zdaj?</item>
+	 </plurals>	
+	   <plurals name="a_hour_ago">
+        <item quantity="other">pred 1 uro</item>
+     </plurals>
+     <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">pred 1 uro</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pred pol ure</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Čez 1 uro</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Čez pol ure</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Takoj</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">čez %d min</item>
+        <item quantity="one">čez 1 min</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Pravkar</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred 1 min</item>
+     </plurals>
+     <plurals name="free_downloads_num_hint">
+        <item quantity="other">ostalo %d brezplačhih prenosov</item>
+        <item quantity="one">ostal %d brezplačhih prenos</item>
+     </plurals>
+     <plurals name="half_hour_ago">
+        <item quantity="other">Pred pol ure</item>
+     </plurals>
+     <plurals name="in_a_hour">
+        <item quantity="other">Čez 1 uro</item>
+     </plurals>
+     <plurals name="in_half_hour">
+        <item quantity="other">Čez pol ure</item>
+     </plurals>
+     <plurals name="in_less_than_one_minute">
+        <item quantity="other">Takoj</item>
+     </plurals>
+     <plurals name="in_num_minutes">
+        <item quantity="other">čez %d minut</item>
+        <item quantity="one">čez 1 minuto</item>
+     </plurals>
+     <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Pravkar</item>
+     </plurals>
+     <plurals name="num_minutes_ago">
+        <item quantity="other">pred %d minut</item>
+        <item quantity="one">pred 1 minuto</item>
+     </plurals>
+     <plurals name="vip_remain_days_hint">
+        <item quantity="other">%d dni ostalo</item>
+        <item quantity="one">%d dan ostal</item>
      </plurals>
 </resources> 
