@@ -10200,6 +10200,10 @@ Ne zapirajte stran pred vzpostavljanjem povezave."</string>
   <string name="wake_suppression_title">Majhno področje</string>
   <string name="wakeup_and_sleep_settings_category_name">Nastavitve zakl. zaslona</string>
   <string name="wakeup_for_keyguard_notification_title">Vključi zakl. zaslon pri obvestilih</string>
+     <string name="wallet_reset">Bančne kartice Mi Pay, transportne kartice in kartice s ključi Mi Pay lahko odstranite samo v Mi denarnici. Odprem Mi denarnico zdaj?</string>
+     <string name="wallet_reset_cancel_btn">Preskoči</string>
+     <string name="wallet_reset_ok_btn">Odpri</string>
+     <string name="wallet_reset_title">Odstrani kartice iz Mi denarnice</string>
   <string name="wallpaper_attributions">Ozadja</string>
     <string name="wallpaper_attributions_values">"Ponudniki satelitskih posnetkov: 
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>

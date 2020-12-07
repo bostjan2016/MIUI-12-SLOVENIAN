@@ -35,6 +35,7 @@
      <string name="about_lasted_version">To je zadnja verzija</string>
   <string name="accessibility_guide_second">Nato kliknite v zgornjem desnem vogalu \"Sprejmi\" za nadaljevanje.</string>
      <string name="account_add_title">Izberite ponudnika pošte</string>
+     <string name="account_cache_provider">Ponudnik predpomnilnika računa</string>
   <string name="account_duplicate_dlg_message_fmt">To uporabniško ime že uporabljate za račun \"%s\".</string>
   <string name="account_duplicate_dlg_title">Podvojeni račun</string>
   <string name="account_failure">Napaka računa</string>
@@ -83,6 +84,7 @@
   <string name="account_settings_notifications">Nastavitve obvestil</string>
   <string name="account_settings_notify_label">Obvestila E-pošte</string>
   <string name="account_settings_notify_summary">Pošlji obvestilo ko prispe E-pošta</string>
+     <string name="account_settings_only_notify_inbox">Samo potisni nabiralnik</string>
   <string name="account_settings_param">Nastavitve računa</string>
   <string name="account_settings_policies">Varnostna pravila</string>
   <string name="account_settings_preference_add_account">Dodaj račun</string>
@@ -225,6 +227,8 @@
   <string name="always_bcc_myself">Zmeraj pošlji sebi skrito kopijo</string>
   <string name="always_show_images">Vedno pokaži slike tega pošiljatelja</string>
   <string name="app_name">E-pošta</string>
+     <string name="app_uninstall_content">E-pošta je sistemska aplikacija MIUI. Po odstranitvi ne boste mogli dodajati e-poštnih računov, pošiljati in prejemati e-pošte ter sinhronizirati e-poštnih urnikov.</string>
+     <string name="app_uninstall_title">Odstranim \"E-pošta\"?</string>
   <string name="appraise_des">Vam je všeč naša aplikacija?</string>
   <string name="appraise_good">Da</string>
   <string name="appraise_ignore">"Ne morem reči"</string>
@@ -333,6 +337,8 @@
   <string name="chat_view_description">Združi seznam pogovorov za prikaz pogovorov</string>
   <string name="chat_view_title">Pokaži pogovor</string>
   <string name="check_setup_data">Potrjevanje nastavitve strežnika…</string>
+     <string name="choose_an_office365_international">Mednarodna izdaja</string>
+     <string name="choose_an_office365_sj">21Vianet izdaja</string>
   <string name="choosertitle_sharevia">Deli preko</string>
   <string name="clear">Počisti</string>
   <string name="clear_display_images_whitelist_dialog_message">Ustavi prikazovanje slik od pošiljateljev ki ste jim to dovolili.</string>
@@ -411,6 +417,7 @@
   <string name="conversation_cert_info_tips">Pošiljatelj je sporočilo podpisal z varnim certifikatom</string>
   <string name="conversation_cert_info_title">Podpisano</string>
   <string name="conversation_cert_trust">Verjemi podpisu</string>
+     <string name="conversation_content_provider">Ponudnik vsebine pogovora</string>
   <string name="conversation_detail_hide">Skrij</string>
   <string name="conversation_detail_show">Podrobnosti</string>
   <string name="conversation_folder_moved">Premaknjen v %1$s</string>
@@ -676,6 +683,8 @@
   <string name="info_switch_title">Inbox Novice</string>
   <string name="inline_picture_deleted">Prenos manjkajoče slike…"</string>
   <string name="input_password_prompt">Vpišite geslo</string>
+     <string name="install_mime_encrypt_cert">Namesti S/MIME šifrirni certifikat</string>
+     <string name="install_mime_sign_cert">Namesti S/MIME podpisni certifikat</string>
   <string name="interact_with_server_error">"Povezovanje s strežnikom ni uspelo"</string>
   <string name="invalid_recipient">Naslov %s ni pravilen.</string>
   <string name="invalid_recipient_title">Napaka prejemnika</string>
@@ -705,7 +714,7 @@
   <string name="login_des_rediff">Prijavi se v Rediffmail</string>
   <string name="login_des_yahoo">Prijavi se v Yahoo Mail</string>
   <string name="login_des_yangdex">Prijavi se v Yandex Mail</string>
-  <string name="login_err_message">Vnešeno geslo ni pravilno. Morda boste potrebovali tudi kontrolno kodo za prijavo. Če morate uničiti geslo obiščite https://email.163.com/ da boste videli katere opcije so vam na voljo.</string>
+  <string name="login_err_message">Uporabite pooblaščena gesla za prijavo v %1$s. Morda boste potrebovali tudi kontrolno kodo za prijavo. Če morate uničiti geslo obiščite https://email.163.com/ da boste videli katere opcije so vam na voljo.</string>
      <string name="login_err_outlook_msg">"%s
 Potrdite, ali je geslo za aplikacijo vklopljeno. Če je vklopljeno, pojdite na Microsoftovo spletno mesto za ponastavitev gesla za aplikacijo"</string>
   <string name="login_err_sina_message">%1$s Za prijavo boste morda potrebovali tudi kontrolno kodo. Če morate ponastaviti geslo obiščite https://mail.sina.com.cn/ da boste videli katere opcije so vam na voljo.</string>
@@ -927,6 +936,7 @@ Poskusite z ostalo pošto."</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">V nastavitvah omogočite dovoljenje uporabe Koledarja, stikov in shranjevanja</string>
   <string name="open_external_storage_and_contacts_permission">V nastavitvah omogočite dovoljenje uporabe stikov</string>
   <string name="open_notification_kingagent">Vključite obvestila kingagent</string>
+     <string name="open_pdf_error">Datoteke Pdf ne morem odpreti. Prenesite druga orodja za odpiranje PDF in poskusite znova.</string>
   <string name="optimization_suggestion">Predlogi optimizacije</string>
   <string name="others_mail">Ostalo</string>
   <string name="others_mail_des">(Kompatibilno z 600K poštnimi ponudniki)</string>

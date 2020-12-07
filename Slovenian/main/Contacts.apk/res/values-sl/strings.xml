@@ -229,6 +229,8 @@
   <string name="call_disambig_title">"Izberi številko"</string>
   <string name="call_fax_home">Pokliči domači faks</string>
   <string name="call_fax_work">Pokliči službeni faks</string>
+     <string name="call_feature_volte">VoLTE</string>
+     <string name="call_feature_vowifi">VoWiFi</string>
   <string name="call_home">Pokliči domov</string>
   <string name="call_isdn">Pokliči ISDN</string>
   <string name="call_left">Stanje računa</string>
@@ -397,6 +399,7 @@
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
   <string name="config_prohibited_phone_number_regexp"/>
+     <string name="confirm">V redu</string>
   <string name="confirm_call_log_dial_summary">Pred klicanjem iz seznama klicev zahtevajte potrdilo da preprečite slučajne klice.</string>
   <string name="confirm_call_log_dial_title">Potrdite klicanje iz seznama klicev</string>
   <string name="confirm_delete_cloud_all_call_logs">Izbrišem kompletno zgodovino klicev od %s iz Mi Clouda in te naprave?</string>
@@ -405,6 +408,7 @@
   <string name="confirm_delete_sim_entry_miui_title">Izbriši</string>
   <string name="confirm_export_message">"Vaš seznam stikov bo izvožen v datoteko: %s."</string>
   <string name="confirm_export_title">"Izvozim stike?"</string>
+     <string name="confirming_pay_result">Potrjevanje plačila…</string>
   <string name="connections">Povezave</string>
   <string name="contactDetailAbout">O stiku</string>
   <string name="contactDetailCalllog">"Zgodovina klicev"</string>
@@ -423,6 +427,7 @@
   <string name="contact_detail_calllog_empty">Ni seznama klicev</string>
   <string name="contact_detail_entry_pay">Plačaj</string>
   <string name="contact_detail_entry_pay_dialog_title">Izberi številko telefona</string>
+     <string name="contact_detail_entry_pay_request">Zahtevaj denar</string>
   <string name="contact_detail_menu_delete_miprofile">Izbriši vizitko</string>
   <string name="contact_detail_miprofile_accept">Menjava vizitke</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Ne morem zamenjati vizitke"</string>
@@ -492,6 +497,13 @@ Vizitke stikov so izključene"</string>
   <string name="create_group_item_label">Ustvari novo skupino</string>
   <string name="create_qrcode_fail_message">Ne morem kreirati QR kode</string>
   <string name="create_voip_shortcut_success">Bližnjica je napravljena</string>
+     <string name="cta_content_seg1"><Data>"&lt;strong>Važno obvestilo
+Z dotikom \"Strinjam se\" se strinjate z &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Mi račun Pogoji uporabe&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Mi gostovanje Pogoji uporabe&lt;/a>&lt;/font>, in &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Pravila o zasebnosti&lt;/a>&lt;/font>. Preden se strinjate, natančno preberite te dokumente in popolnoma razumite vse pogoje.&lt;/strong>"</Data></string>
+     <string name="cta_content_seg2">"
+Mi gostovanje se mora za normalno delovanje povezati s spletom in dostopati do informacij o vaši lokaciji. Poleg tega lahko Mi gostovanje zbira, uporablja in deli vaše osebne podatke. Vaši osebni podatki bodo zaščiteni v skladu z lokalnimi zakoni in predpisi."</string>
+     <string name="cta_dialog_cancel">Izhod</string>
+     <string name="cta_dialog_ok">Strinjam se</string>
+     <string name="cta_dialog_title">Pogoji in Pravila</string>
   <string name="customLabelPickerTitle">Ime oznake po meri</string>
   <string name="custom_list_filter">Definiraj ogled po meri</string>
   <string name="custom_nickname_hint">Vpiši vzdevek</string>
@@ -675,6 +687,7 @@ Vizitke stikov so izključene"</string>
   <string name="emptyGroup">Ni ljudi v tej skupini</string>
   <string name="empty_divider_title"/>
   <string name="enter_contact_name">Vpiši ime osebe</string>
+     <string name="err_dont_install_mipay">Namestite Mi Pay za dokončanje plačila.</string>
      <string name="evening">Večer</string>
   <string name="eventLabelsGroup">Rojstni dan</string>
   <string name="eventTypeCustom">Po meri</string>
@@ -718,6 +731,7 @@ Razlog: \"%s\""</string>
   <string name="favorites_list_empty">Ni priljubljenih</string>
      <string name="feedback">Povratne informacije</string>
   <string name="firewall_setting">Seznam blokad</string>
+     <string name="flow_use_analyse">Statistika uporabe</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -815,6 +829,8 @@ Razlog: \"%s\""</string>
   <string name="help_url_people_add"/>
   <string name="help_url_people_edit"/>
   <string name="help_url_people_main"/>
+     <string name="hide_app_description_content">"Stiki je sistemska aplikacija. Po odstranitvi bližnjice na začetnem zaslonu jo boste še vedno lahko uporabljali prek aplikacije Telefon."</string>
+     <string name="hide_app_description_title">Odstranim \"Stiki\" iz začetnega zaslona?</string>
   <string name="hint_distance"/>
   <string name="hint_findContacts">Najdi stike</string>
   <string name="hint_more_contact">Združi podvojene stike</string>
@@ -1304,6 +1320,8 @@ Napravite varnostno kopijo stikov."</string>
   <string name="path_simple_mode">Aplikacije sistema/Stiki/Pokaži slike in informacije</string>
   <string name="path_smart_group_title">Aplikacije sistema/Stiki/Opcije prikaza/Pametne skupine</string>
   <string name="path_wipe_data">Aplikacije sistema/Stiki/Organizraj stike/Izbriši podatke</string>
+     <string name="pay_fail">"Ne morem dokončati plačila"</string>
+     <string name="pay_success">Uspešno plačano</string>
   <string name="payphone">Telefonska govorilnica</string>
   <string name="people">Stiki</string>
      <string name="permission_access_fine_location_desc">Za izboljšanje signala lokalnega omrežja</string>
@@ -1491,6 +1509,10 @@ Napravite varnostno kopijo stikov."</string>
 
   Za začetek tapnite ikono Združi na dnu zaslona."</string>
   <string name="report_inquiry_mms">Prijavi SMS</string>
+     <string name="restore_app_btn_cancel">Prekliči</string>
+     <string name="restore_app_btn_restore">V redu</string>
+     <string name="restore_app_description_content">Dodajte bližnjico na začetni zaslon, da boste lahko hitreje dostopali do stikov.</string>
+     <string name="restore_app_description_title">Dodam \"Stiki\" na začetni zaslon?</string>
   <string name="restore_nickname">Obnovi</string>
   <string name="ret_sign">"
   "</string>
@@ -1813,6 +1835,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Prenašam...</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Povezave ni mogoče vzpostaviti. Preverite povezavo in poskusite znova.</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Dodano na začetni zaslon</string>
+     <string name="yellowpage_provider_label">Tehnično podporo ponuja</string>
   <string name="yellowpage_search_the_yellowpage">Preišči Rumene strani</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yesterday">Včeraj</string>

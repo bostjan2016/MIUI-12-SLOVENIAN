@@ -331,9 +331,13 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
      <string name="clipboard_deny_notification_operation">Urejaj</string>
      <string name="clipboard_deny_notification_title">%1$s poskuša dostopati do stvari v odložišču</string>
      <string name="clipboard_may_sensitive">Možne občutljive informacije</string>
+     <string name="clipboard_read_ai_deny_once">Omejen dostop do odložišča za %1$s</string>
      <string name="clipboard_read_allow_once">%1$s dostopa do stvari v odložišču</string>
+     <string name="clipboard_read_deny_dialog_title">Omejen dostop do odložišča za %1$s</string>
   <string name="current_permission_template">%1$s(%2$d/%3$d)</string>
   <string name="default_permission_description">izvesti neznana opravila</string>
+     <string name="forbid_notice_me">Ustavi obveščanje</string>
+     <string name="go_behavior_record">Zgodovina obnašanja aplikacij</string>
      <string name="go_perm_manager">Urejanje dovoljenj</string>
   <string name="grant_confirm_question">Želite odobriti ta dovoljenja? Omogočen bo dostop:</string>
   <string name="grant_dialog_button_allow">Dovoli</string>

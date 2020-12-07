@@ -184,6 +184,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="alert_back_milink_hangup_tips_content">"Predvajanje ne bo prekinjeno dokler ne končate klica. Pritisnite gumb za vklop da zbudite zaslon."</string>
   <string name="alert_back_milink_hangup_tips_content_vb">"Predvajanje ne bo prekinjeno če je zaslon izključen in aplikacija dela v ozadju. Pritisnite gumb Vklop da spet vključite zaslon."</string>
   <string name="all_address_choose_hint">Vse številke v tej pokrajini</string>
+     <string name="allow_all">Dovoli vse</string>
   <string name="already_close_gamebooster">Pohitritev hitrosti igranja je izključeno</string>
   <string name="anim_gamebooster_text">Samo trenutek…</string>
   <string name="anti_disturb_msg_detail">Izključi vsa obvestila, razen za dohodne klice</string>
@@ -1033,6 +1034,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="cmcc_app_check_dialog_title">Sistem je popravljen</string>
      <string name="comprehensive_protection_measures">Celostna zaščita</string>
   <string name="confirmSecondSpacePassword">Potrdite geslo Drugega prostora</string>
+     <string name="confirm_allow_all_permission">Dovolim vsem aplikacijam uporabo te storitve?</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Dodajanje Mi Računa</string>
   <string name="confirm_fingerprint_msg">Postavite prst na senzor</string>
   <string name="confirm_leave">Ne, hvala</string>

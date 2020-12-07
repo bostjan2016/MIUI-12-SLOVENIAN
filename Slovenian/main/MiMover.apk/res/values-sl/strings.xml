@@ -151,8 +151,13 @@ Vaše zasebne podatke bomo varovali glede na ustrezne zakone, predpise in pravil
     <string name="dialog_tip_upgrade_title">Posodobite Mi Mover</string>
     <string name="dialog_version_summary_tip">Kaj je novega:</string>
     <string name="dialog_version_title_tip">Posodobitev je na voljo</string>
+     <string name="dialog_wechat_data_transfer_fail_button">Razumem</string>
+     <string name="dialog_wechat_data_transfer_fail_message">"Ne morem prenesti WeChat podatkov aplikacije in zgodovine klepetov zaradi omejitev aplikacije. Preizkusite funkcijo varnostnega kopiranja v aplikaciji.
+Open WeChat and go to Me > Settings > General > Var. kopija &amp; premakni pogovore."</string>
+     <string name="dialog_wechat_data_transfer_fail_title">"Ne morem prenesti WeChat podatkov aplikacije"</string>
   <string name="do_not_restore_temporarily">Ne zdaj</string>
     <string name="document">Dokumenti</string>
+     <string name="early_morning">AM</string>
   <string name="email">E-pošta</string>
     <string name="err_authentication_failed">Ne morem preveriti</string>
     <string name="err_bakfile_broken">Ne morem uporabiti te varnostne kopije.</string>
@@ -174,6 +179,7 @@ Vaše zasebne podatke bomo varovali glede na ustrezne zakone, predpise in pravil
     <string name="error_permissions">Ta aplikacija nima potrebnih dovoljenj za dostop do koledarja. Pojdite v nastavitve in preverite dovoljenja za nadaljevanje.</string>
   <string name="error_title">"Ne morem sinhronizirati"</string>
   <string name="error_unauthorized">Sinhronizacija je izključena zaradi prevelikega števila poskusov prijave.</string>
+     <string name="evening">PM</string>
   <string name="fail_list_tips">"Naslednjih stvari ni mogoče prenesti v novo napravo."</string>
   <string name="failed_description">Ni uspelo</string>
      <string name="faq">Pogosta vprašanja</string>
@@ -290,6 +296,7 @@ Vaše zasebne podatke bomo varovali glede na ustrezne zakone, predpise in pravil
     <string name="launcher">Nastavitev začetnega zaslona</string>
     <string name="less_than_1_minute">Manj kot 1 minuta</string>
     <string name="loading_data">Samo trenutek…</string>
+     <string name="location_permission_request">Za povezavo z drugimi napravami v bližini</string>
     <string name="login">Prijava</string>
     <string name="login_failed">Prijava ni uspela. Poskusite ponovno.</string>
     <string name="logining">Prijava…</string>
@@ -404,6 +411,7 @@ Vaše zasebne podatke bomo varovali glede na ustrezne zakone, predpise in pravil
     <string name="no_more_memory_title">Mi Mover mora ustvariti lokalno varnostno kopijo na tej napravi. Trenutno ni dovolj prostora v shrambi, da bi ustvaril varnostno kopijo. Najprej sprostite nekaj prostora.</string>
   <string name="no_network">"Ne morem se povezati na omrežje"</string>
   <string name="no_sim">Ni SIM kartice</string>
+     <string name="noon">PM</string>
   <string name="not_support_data_content1">1. Stvari specifične za model naprave</string>
   <string name="not_support_data_content2">2. Podatki izbranih aplikacij</string>
   <string name="not_support_data_content3">3. Podatki Drugega prostora</string>
@@ -487,6 +495,7 @@ Vaše zasebne podatke bomo varovali glede na ustrezne zakone, predpise in pravil
   <string name="permission_wifi_title">Vklop in izklop WiFi</string>
   <string name="permlab_sendSmsNoConfirmation">Dovoli SMS v ozadju</string>
   <string name="phone">Telefon</string>
+     <string name="pm">PM</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="prompt_before_transmission_message1_summary">Če jih želite prenesti s svoje stare naprave, bodo podatki o aplikacijah (vključno z zgodovino klepeta) prepisani.</string>
   <string name="prompt_before_transmission_message1_title">Te aplikacije so že ustvarile podatke o aplikacijah v vaši novi napravi</string>
@@ -594,6 +603,9 @@ Sprostite najmanj %s."</string>
   <string name="soft_ap_create_failed">Dostopne točke ni mogoče ustvariti. Poskusite ponovno. </string>
   <string name="soft_ap_creating">Ustvarjanje dostopne točke…</string>
   <string name="succ_description">Končano</string>
+     <string name="summary_open_wlan">Mi Mover to dovoljenje potrebuje za zagotovitev stabilnosti postopka prenosa.</string>
+     <string name="summary_request_alert_window_prem">Mi Mover to dovoljenje potrebuje za zagotovitev stabilnosti postopka prenosa.</string>
+     <string name="summary_request_write_settings_prem">Mi Mover potrebuje to dovoljenje, da vklopi WiFi in ustvari dostopno točko za prenos datotek.</string>
   <string name="sunday">Nedelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">Ned</string>
@@ -621,6 +633,8 @@ Sprostite najmanj %s."</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="time_spent">Čas: &lt;g id="time"&gt;%1$s&lt;/g&gt;</string>
+     <string name="title_open_wlan">Vklopi WiFi</string>
+     <string name="title_request_alert_window_perm">Dovoli plavajoča okna</string>
     <string name="title_request_package_stats_perm">Zahtevana so dovoljenja</string>
   <string name="title_request_write_settings_perm">Za spreminjanje sistemskih nastavitev je potrebno dovoljenje</string>
   <string name="today">Danes</string>

@@ -10,6 +10,16 @@
   <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
   <string name="abc_capital_off">IZKLJUČENO</string>
   <string name="abc_capital_on">VKLJUČENO</string>
+     <string name="abc_menu_alt_shortcut_label">Alt+</string>
+     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+     <string name="abc_menu_delete_shortcut_label">delete</string>
+     <string name="abc_menu_enter_shortcut_label">enter</string>
+     <string name="abc_menu_function_shortcut_label">Function+</string>
+     <string name="abc_menu_meta_shortcut_label">Meta+</string>
+     <string name="abc_menu_shift_shortcut_label">Shift+</string>
+     <string name="abc_menu_space_shortcut_label">presledek</string>
+     <string name="abc_menu_sym_shortcut_label">Sym+</string>
+     <string name="abc_prepend_shortcut_label">Menu+</string>
   <string name="abc_search_hint">Iskanje…</string>
   <string name="abc_searchview_description_clear">Izbriši povpraševanje</string>
   <string name="abc_searchview_description_query">Povpraševanje</string>
@@ -55,10 +65,12 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="ad_experience_now">Odpri</string>
   <string name="ad_tag_text_1">Popularno</string>
   <string name="ad_tag_text_2">Moda</string>
+     <string name="add">Dodaj</string>
   <string name="add_resource_detail_fail">"Ne morem dodati vira"</string>
   <string name="afternoon">PM</string>
   <string name="all_resources">Vse</string>
   <string name="already_latest_version">Najnovejša verzija</string>
+     <string name="already_newest_version">Ta verzija je najnovejša</string>
   <string name="am">AM</string>
   <string name="anonymous_resource_link_error">"Ne morem dodati"</string>
   <string name="anonymous_resource_link_hint">"Nekatere stvari niso dodane na vaš račun. Jih dodam?"</string>
@@ -107,10 +119,15 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="backup_theme_name">Tema varnostno kopirana</string>
   <string name="backup_theme_progress_message">Varnostno kopiranje...</string>
   <string name="backup_theme_success_message">Vaše trenutne nastavitve teme so bile varnostno kopirane.</string>
+     <string name="boot_audio_dialog_cancel">Prekliči</string>
+     <string name="boot_audio_dialog_confirm">V redu</string>
+     <string name="boot_audio_dialog_content">Zagon zvoka je zdaj izklopljen. Ponovno ga vklopite in uporabite ta zvok?</string>
+     <string name="boot_audio_dialog_title">Attention</string>
   <string name="both_all_apply_failured">"Ne morem nastaviti ozadja"</string>
   <string name="both_all_apply_success">Ozadje nastavljeno</string>
   <string name="browser_local_resource">Lokalni viri</string>
   <string name="can_not_apply">Ne morem nastaviti</string>
+     <string name="cancel_download">Prenos preklican</string>
   <string name="card_data_request_error">Prišlo je do napake. Počakajte trenutek ali dva in poskusite ponovno.</string>
   <string name="card_loading">Samo trenutek…</string>
   <string name="card_no_network">Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovno </string>
@@ -179,6 +196,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="concentration_old_period">Več</string>
   <string name="copy">Kopiraj</string>
   <string name="count_down_tip">%ds ostalo</string>
+     <string name="create_home_icon">Bližnjica na začetnem zaslonu</string>
   <string name="current_using">Trenutno</string>
   <string name="current_using_desktop_wallpaper_text">Začetni zaslon</string>
   <string name="current_using_float_wallpaper_text">Transparentno</string>
@@ -201,6 +219,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="de_icon_text_discuss">Razprava</string>
   <string name="de_icon_text_favorite">Dodaj v priljubljeno</string>
   <string name="de_icon_text_like">Všeč mi je</string>
+     <string name="de_icon_text_reward">Nagrada</string>
   <string name="de_icon_text_share">Deli</string>
   <string name="de_mix">Izdelaj</string>
   <string name="de_mix_dialog_title">Izdelajte svojo temo</string>
@@ -239,6 +258,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="description_uploadtime">Posodobitev</string>
   <string name="description_version">Verzija</string>
   <string name="description_version_szie">Verzija: %1$s Velikost: %2$s</string>
+     <string name="desk_loop_will_change">Pozor</string>
   <string name="desktop_effects">Efekti zač. zaslona</string>
   <string name="desktop_wallpaper">Začetni zaslon</string>
   <string name="detail_author_attention_head">Sledite našim uveljavljenim dizajnerjem</string>
@@ -257,9 +277,9 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="enable_accessibility">Potrebno je dovoljenje</string>
   <string name="enable_accessibility_hint">"Storitev vključite v temah. Potem lahko izberete katere aplikacije bodo delale z transparentnim ozadjem."</string>
   <string name="enable_all_free_mode">Odkupi</string>
-  <string name="enabling_all_free_mode">Odkup…</string>
   <string name="enable_aod_list">Vključi Vedno na zaslonu</string>
   <string name="enable_transparent_wallpaper">Uporabi transparentno ozadje</string>
+     <string name="enabling_all_free_mode">Odkup…</string>
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
   <string name="error_icon_content_description">Napaka</string>
@@ -268,18 +288,35 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="exit_extreme_mode_dialog_agree">Strinjam se</string>
   <string name="exit_extreme_mode_dialog_cancel">Izključi</string>
   <string name="exit_extreme_mode_dialog_title">Izključi Ekstremni način</string>
+     <string name="exo_controls_cc_disabled_description">Omogoči podnapise</string>
+     <string name="exo_controls_cc_enabled_description">Onemogoči podnapise</string>
+     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
   <string name="exo_controls_fastforward_description">Hitro naprej</string>
   <string name="exo_controls_fullscreen_description">Način celega zaslona</string>
+     <string name="exo_controls_fullscreen_enter_description">Vključi celozaslonski način</string>
+     <string name="exo_controls_fullscreen_exit_description">Izključi celozaslonski način</string>
+     <string name="exo_controls_hide">Skrij kontrolnike predvajalnika</string>
   <string name="exo_controls_next_description">Naslednja pesem</string>
+     <string name="exo_controls_overflow_hide_description">Skrij dodatne nastavitve</string>
+     <string name="exo_controls_overflow_show_description">Pokaži dodatne nastavitve</string>
   <string name="exo_controls_pause_description">Premor</string>
   <string name="exo_controls_play_description">Predvajaj</string>
+     <string name="exo_controls_playback_speed">Speed</string>
+     <string name="exo_controls_playback_speed_normal">Normal</string>
   <string name="exo_controls_previous_description">Prejšnja pesem</string>
   <string name="exo_controls_repeat_all_description">Ponovi vse</string>
   <string name="exo_controls_repeat_off_description">Brez ponavljanja</string>
   <string name="exo_controls_repeat_one_description">Ponovi eno</string>
   <string name="exo_controls_rewind_description">Prevrti</string>
-  <string name="exo_controls_shuffle_description">Zmeešaj</string>
+     <string name="exo_controls_seek_bar_description">Potek predvajanja</string>
+     <string name="exo_controls_settings_description">Nastavitve</string>
+     <string name="exo_controls_show">Pokaži kontrolnike predvajalnika</string>
+  <string name="exo_controls_shuffle_description">Zmešaj</string>
+     <string name="exo_controls_shuffle_off_description">Naključno izkl.</string>
+     <string name="exo_controls_shuffle_on_description">Naključno vkl.</string>
   <string name="exo_controls_stop_description">Stop</string>
+     <string name="exo_controls_time_placeholder">00:00:00</string>
+     <string name="exo_controls_vr_description">VR način</string>
   <string name="exo_download_completed">Prenos je končan</string>
   <string name="exo_download_description">Prenesi</string>
   <string name="exo_download_downloading">Prenašam…</string>
@@ -310,15 +347,15 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="find_more_wallpapers">Najdi več</string>
   <string name="first_page_recommend">Priporočeno</string>
   <string name="float_wallpaper_is_here">Transparentna slika ozadja</string>
+     <string name="font_trial_end_purchase">Kupi font</string>
+     <string name="forbid_transparent_wallpaper_by_second_space">Najprej uporabite prozorna ozadja v prvem prostoru.</string>
+     <string name="forbid_video_wallpaper_by_second_space">Najprej uporabite dinamična ozadja v prvem prostoru.</string>
   <string name="forcetouch_featured">Izpostavljeni</string>
   <string name="forcetouch_free_themes">Brezplačne teme</string>
   <string name="forcetouch_offline">Izvenmrežno</string>
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
-  <string name="font_trial_end_purchase">Kupi font</string>
-  <string name="forbid_transparent_wallpaper_by_second_space">Najprej uporabite prozorna ozadja v prvem prostoru.</string>
-  <string name="forbid_video_wallpaper_by_second_space">Najprej uporabite dinamična ozadja v prvem prostoru.</string>
   <string name="gallery_wallpaper">Wallpaper Carousel</string>
   <string name="gallery_wallpaper_count">100k+</string>
   <string name="gallery_wallpaper_count_tw">10w+</string>
@@ -370,7 +407,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="hide_free_miwallpaper">"Ne kaži brezplačne efekte zač. zaslona"</string>
   <string name="hide_free_theme">Skrij brezplačne teme</string>
   <string name="hide_free_wallpaper">Skrij brezplačne slike za ozadje</string>
-  <string name="hide_incompatible">Skrij nekompatibilne teme</string>
+  <string name="hide_incompatible">Skrij nekompatibilne %1$s</string>
   <string name="hide_mamual_hide_aod">"Ne kaži ročno skritih stvari"</string>
   <string name="hide_mamual_hide_font">"Ne kaži skritih fontov"</string>
   <string name="hide_mamual_hide_icons">"Ne kaži ročno skrite ikone"</string>
@@ -402,6 +439,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="incompatible_dialog_message">Ta tema ni združljiva z nameščeno MIUI verzijo na vaši napravi. Nekateri elementi MIUI-ja mogoče ne bodo delovali pravilno če nastavite to temo.</string>
   <string name="incompatible_dialog_ok">Razumem</string>
   <string name="incompatible_dialog_title">Problemi z združljivostjo</string>
+     <string name="install_failed">"Ne morem nanestiti"</string>
   <string name="internal_online_precust_gorgeous_black_name">Prekrasna črna</string>
   <string name="internal_online_precust_gorgeous_color_name">Prekrasna barva</string>
   <string name="is_setting_wallpaper_message">Nastavitev slike ozadja…</string>
@@ -435,9 +473,9 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="lockscreen_wallpaper">Zaklenjen zaslon</string>
   <string name="lockstyle_personal_settings">Prilagodi</string>
   <string name="long_click_can_hide_resource">Pritisnite in držite za skrivanje stvari</string>
+     <string name="loop_wallpaper_is_here">Diaprojekcija slik za ozadje je na voljo</string>
   <string name="material_slider_range_end">Konec,</string>
   <string name="material_slider_range_start">Začetek,</string>
-  <string name="loop_wallpaper_is_here">Diaprojekcija slik za ozadje je na voljo</string>
   <string name="mi_wallpaper">MIUI ozadje</string>
   <string name="midnight">AM</string>
   <string name="mine_tab_not_login">"Prijavite se za pregled stvari.
@@ -459,7 +497,11 @@ dd.MM"</string>
      <string name="miui_lock_screen_large_date">"EEE
 dd.MM"</string>
      <string name="miui_lock_screen_large_date_12">"EEE
-dd.MM"</string>  
+dd.MM"</string>
+     <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+     <string name="miui_vertical_time_format_24">"HH
+mm"</string>
   <string name="miuishare_account_activate_confirmation">Aktiviraj Mi Račun</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
   <string name="miuishare_account_login_cancel">Prekliči</string>
@@ -551,6 +593,7 @@ dd.MM"</string>
   <string name="month_september_short">Sep</string>
   <string name="month_september_shortest">S</string>
   <string name="more">Več</string>
+     <string name="more_icon_style">Več ikon</string>
   <string name="more_sub_comment">Poglej vse odgovore (%1$d)&gt;</string>
   <string name="more_system_wallpaper">Več ozadij sistema</string>
   <string name="morning">AM</string>
@@ -598,7 +641,10 @@ dd.MM"</string>
   <string name="network_exception">"Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite znova."</string>
   <string name="new_resource_price_unit"> Mi</string>
   <string name="night">PM</string>
+     <string name="no_cta_agreed">"GetApps nima CTA dovoljenja"</string>
   <string name="no_data">"Ne morem se povezati na omrežje"</string>
+     <string name="no_install_permission">"Nimate dovoljenj za namestitev tega izdelka"</string>
+     <string name="no_more_notice">"Ne kaži več"</string>
   <string name="no_net_work_connection">Preverite omrežne nastavitve in poskusite ponovno.</string>
   <string name="no_network_desc">"Ne morem se povezati na omrežje"</string>
   <string name="no_network_please_retry">Preverite omrežne nastavitve in poskusite ponovno</string>
@@ -646,6 +692,7 @@ dd.MM"</string>
   <string name="personalize_wallpaper_title">Slike ozadja</string>
   <string name="playing_ringtone">Predvaja se</string>
   <string name="pm">PM</string>
+     <string name="pref_lockscreen_magazine_summary">Ozadje zamenjajte s diaprojekcijami slik iz različnih kategorij</string>
   <string name="pref_privacy_policy">Pravila o zasebnosti</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="present_local_fonts">Moji fonti</string>
@@ -712,6 +759,7 @@ dd.MM"</string>
   <string name="resource_comment_edit_text_second_hint">Vaša povratna informacija nam je zelo pomembna.</string>
   <string name="resource_comment_edit_title">Uredi komentar: %1$s</string>
   <string name="resource_comment_entry_tips">Komentarjev (%1$s)</string>
+     <string name="resource_comment_error_not_bought">Morate uporabiti temo preden lahko pišete komentarje o njej</string>
   <string name="resource_comment_expand_full_text">Razširi vse besedilo▼</string>
   <string name="resource_comment_footer">Prazni komentarji niso prikazani.</string>
   <string name="resource_comment_good_comments">Pozitivni</string>
@@ -728,7 +776,6 @@ dd.MM"</string>
   <string name="resource_comment_score_count">%1$s uporabnikov</string>
   <string name="resource_comment_sending">Pošiljanje komentarja…</string>
   <string name="resource_comment_title">Komentarji: %1$s</string>
-  <string name="resource_comment_error_not_bought">Morate uporabiti temo preden lahko pišete komentarje o njej</string>
   <string name="resource_comment_upload_data_invalid">Komentar ki ste ga vnesli je neveljaven</string>
   <string name="resource_comment_upload_failed">"Ne morem poslati komentarja"</string>
   <string name="resource_comment_upload_hint">Vaš komentar bo prikazan po kratkem pregledu.</string>
@@ -759,7 +806,7 @@ dd.MM"</string>
   <string name="resource_detail_window_title">Podrobnosti %1$s</string>
   <string name="resource_download">Prenos</string>
   <string name="resource_download_notification_title_many">Prenešenih tem: %1$s</string>
-  <string name="resource_download_notification_title_one">Tema prenešena</string>
+  <string name="resource_download_notification_title_one">Tema %1$s prenešena</string>
   <string name="resource_download_trial">Poskusi brezplačno</string>
   <string name="resource_downloaded_title">Prenešene stvari</string>
   <string name="resource_downloading">Prenašam…</string>
@@ -902,6 +949,8 @@ dd.MM"</string>
   <string name="resource_waiting_download">Čakanje…</string>
   <string name="resource_waiting_pause">Premor</string>
   <string name="resource_wallpaper_download">Prenesi sliko ozadja</string>
+     <string name="restore_home_icon_text">Dodajte bližnjico na začetni zaslon</string>
+     <string name="restore_icon_later">V nastavitvah lahko znova dodate bližnjico na začetni zaslon</string>
   <string name="ringtone_set_success">Uspešno nastavljeno</string>
   <string name="s1">Shrani sliko</string>
   <string name="s2">Dovolim oglasu shranjevanje slik v Galerijo?</string>
@@ -932,6 +981,8 @@ dd.MM"</string>
   <string name="server_internal_error">Napaka strežnika. Počakajte trenutek ali dva in poskusite ponovno.</string>
   <string name="set_color_ring_back_tone">Nastavite lastno melodijo zvonenja</string>
   <string name="set_home_wallpaper_failed">"%s. Ne morem nastaviti slike ozadja zač. zaslona."</string>
+     <string name="set_wallpaper_group_success">"%1$s nastavljeno.
+Vsako uro boste videli novo sliko."</string>
   <string name="setting_font_online">Online fonti</string>
   <string name="settings">Nastavitve</string>
   <string name="settings_search_keyword_font_free">Brezplačni fonti</string>
@@ -977,6 +1028,12 @@ dd.MM"</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
   <string name="super_wallpaper">Super Slika ozadja</string>
+     <string name="super_wallpaper_list_label">Super Slike ozadja</string>
+     <string name="super_wallpaper_setting_apply_success_toast">Nastavljeno</string>
+     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Nastavi</string>
+     <string name="super_wallpaper_setting_choose_position_btn_text">Izberi lokacijo</string>
+     <string name="super_wallpaper_setting_coordinate_title">Koordinate</string>
+     <string name="super_wallpaper_setting_view_height_title">Nadmorska višina</string>
   <string name="support_theme_store_des">Dobre teme vedno ustvarijo nadarjeni oblikovalci. Naša aplikacija vsebuje majhno količino oglasov, kar nam omogoča, da podpremo njihovo delo.</string>
   <string name="support_theme_store_supported">Hvala za podporo!</string>
   <string name="support_theme_store_title">Podprite naše dizajnerje</string>
@@ -992,6 +1049,7 @@ dd.MM"</string>
   <string name="system_cta_runtime_perm_desc_storage">Za shranjevanje tem in drugih stvari</string>
   <string name="system_precust">Vnaprej nameščene</string>
   <string name="tag_ad">Oglas</string>
+  <string name="task_already_exist">Naloga že obstaja</string>
   <string name="the_picture_is_not_support">Slika ni podprta</string>
   <string name="the_picture_is_too_small">Slika je premajhna</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
@@ -1014,6 +1072,7 @@ dd.MM"</string>
   <string name="theme_comment_dialog_message">"Ocenite to aplikacijo in nam povejte kaj mislite."</string>
   <string name="theme_comment_dialog_ok">Oceni</string>
   <string name="theme_comment_sub_comment_bar_hint">Delite svoje ideje z našo skupnostjo</string>
+     <string name="theme_community">Skupnost</string>
   <string name="theme_component_aod">AOD</string>
   <string name="theme_component_icon">Ikone</string>
   <string name="theme_component_title_alarm">Alarm</string>
@@ -1041,7 +1100,6 @@ dd.MM"</string>
   <string name="theme_component_title_statusbar">Vrstica stanja</string>
   <string name="theme_component_title_wallpaper">Začetni zaslon</string>
   <string name="theme_component_video_wallpaper">Dinamične slike ozadja</string>
-  <string name="theme_community">Skupnost</string>
   <string name="theme_current_using_has_update">Posodobitev za teme na voljo</string>
   <string name="theme_description_title_customized">Po meri</string>
   <string name="theme_description_title_default">Privzeto</string>
@@ -1147,7 +1205,10 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
   <string name="uid_change_dialog_ok">Razumem</string>
   <string name="uid_change_dialog_title">Ponovni zagon</string>
   <string name="unable_connect_network">"Ne morem se povezati na omrežje"</string>
+     <string name="uninstall_theme">Odstranim \"Teme\" iz zač. zaslona?</string>
+     <string name="uninstall_theme_description">"Teme je sistemska aplikacija. Ponuja ozadja in več možnosti prilagajanja. Po odstranitvi bližnjice na začetnem zaslonu boste še vedno lahko uporabljali Teme v Nastavitvah."</string>
   <string name="up_to_the_end">"To je vse za zdaj. Vrnite se kasneje."</string>
+  <string name="update">Posodobi</string>
   <string name="update_btn">Posodobi zdaj</string>
   <string name="update_check">Preveri posodobitve</string>
   <string name="update_checking">Preverjam posodobitve…</string>
@@ -1188,6 +1249,7 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
   <string name="wallpaper_detail_load_page_no_network">Povežite se na omrežje in poskusite ponovno.</string>
   <string name="wallpaper_download_incall_show">Prenesi video</string>
   <string name="wallpaper_dynamic">Dinamično</string>
+     <string name="wallpaper_group_set_loop">Diaprojekcija na zaklenjenem zaslonu s podobnimi slikami</string>
   <string name="wallpaper_loading_text">Samo trenutek…</string>
   <string name="wallpaper_loop_add_success">Uspešno dodano</string>
   <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Dodaj na diaprojekcijo zač. zaslona</string>
@@ -1227,8 +1289,18 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
   <string name="wallpaper_set_as_incall_show">Nastavi kot profilni video</string>
   <string name="wallpaper_set_as_lockscreen">Nastavi za zaklenjeni zaslon</string>
   <string name="wallpaper_setting_all">Vse slike ozadja</string>
+     <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+     <string name="wallpaper_setting_find_more_text">Več online ozadij</string>
+     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Zač. zaslon</string>
   <string name="wallpaper_setting_library">Knjižnica</string>
   <string name="wallpaper_setting_live">V živo</string>
+     <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Zakl. zaslon</string>
+     <string name="wallpaper_setting_online_wallpaper_actionbar_title">Online ozadja</string>
+     <string name="wallpaper_setting_online_wallpaper_none_title">Odkrijte ozadja</string>
+     <string name="wallpaper_setting_online_wallpaper_title">Online ozadja</string>
+     <string name="wallpaper_setting_super_wallpaper_banner_title">Super ozadja</string>
+     <string name="wallpaper_setting_super_wallpaper_more_button_text">Več</string>
+     <string name="wallpaper_setting_title">Ozadja</string>
   <string name="wallpaper_settings">Nastavitve ozadja</string>
   <string name="wallpaper_settings_change_wallpaper">Spremeni</string>
   <string name="wallpaper_settings_desktop_text">Začetni zaslon</string>
@@ -1240,6 +1312,7 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
   <string name="wallpaper_share_alert">Prišlo je do napake. Počakajte minuto ali dve in poskusite znova.</string>
   <string name="wallpaper_static">Statično</string>
   <string name="wallpaper_subject_version">MI</string>
+     <string name="warning_subscribe_wallpaper_group_content">"Vklopili ste diaprojekcijo na začetnem zaslonu. %1$s bo uporabljeno na vašem začetnem zaslonu."</string>
   <string name="wechat_not_found">Najprej namestite WeChat</string>
   <string name="wednesday">Sreda</string>
   <string name="wednesday_short">Sre</string>
@@ -1252,6 +1325,9 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
   <string name="xiaoai_speech_not_installed_download">Prenesi</string>
   <string name="xiaoai_speech_not_installed_message">Prenesite in namestite Mi AI glasovni pomočnik za nadaljevanje.</string>
   <string name="xiaoai_speech_not_installed_title">"Mi AI glasovni pomočnik ni nameščen."</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">Posodobitev na voljo</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezovanje aplikacije prenos ni uspelo, preverite stanje v upravitelji aplikacij.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verzijo %1$s
 Velikost: %2$s"</string>
