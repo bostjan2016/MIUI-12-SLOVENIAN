@@ -212,10 +212,11 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="miui_failed_solution_1">Odstranite trenutno verzijo te aplikacije in jo ponovno namestite.</string>
   <string name="miui_failed_solution_2">Namestitveni paket je morda poškodovan. Ponovno prenesite aplikacijo.</string>
   <string name="miui_failed_solution_3">Shranite namestitveni paket na drugo mesto.</string>
-  <string name="miui_failed_solution_4">Osvobodite shrambo v Varnost &gt; Čistilec in poskusite ponovno.</string>
+  <string name="miui_failed_solution_4">Osvobodite shrambo v Varnost > Čistilec in poskusite ponovno.</string>
   <string name="miui_failed_solution_5">Poskusite uporabiti kompatibilni namestitveni paket.</string>
-  <string name="miui_failed_solution_6">Odstranite to aplikacijo v Drugem prostoru in poskusite ponovno.</string>
+  <string name="miui_failed_solution_6">Odstranite to aplikacijo in jo ponovno namestite.</string>
   <string name="miui_failed_solution_7">Prenesite najnovejšo verzijo te aplikacije iz GetApps.</string>
+  <string name="miui_failed_solution_8">Prenesite aplikacijo iz GetApps.</string>
   <string name="miui_failed_system_incompatible">Nekompatibilni namestitveni paket</string>
   <string name="miui_failed_update_incompatible">Konflikt s podpisom aplikacij</string>
   <string name="miui_failed_version_downgrade">"Ne morem degradirati aplikacije"</string>
@@ -340,9 +341,9 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="search_menu_title">Išči</string>
   <string name="security_settings_desc">Dovoli da ta aplikacija:</string>
   <string name="settings">Nastavitve</string>
-  <string name="settings_warning_dialog_detail">"Zahtevano bo v naslednjih primerih:
- "&lt;li&gt;Ko aplikacija vsebuje viruse.&lt;/li&gt;"
- "&lt;li&gt;Namestitveni paket izvira iz neznanega vira.&lt;/li&gt;</string>
+    <string name="settings_warning_dialog_detail">"Zahtevano bo v naslednjih primerih:
+ "<li>Ko aplikacija vsebuje viruse.</li>"
+ "<li>Namestitveni paket izvira iz neznanega vira.</li></string>
   <string name="settings_warning_dialog_msg">"Vaš telefon je podvržen varnostnim tveganjem. Če izključite to storitev se od vas ne bo zahtevalo da namestite varne verzije aplikacije. Vseeno izključim? "</string>
   <string name="settings_warning_dialog_title">Pozor</string>
   <string name="spannable_continue_text">Razumem tveganja. Vseeno namesti.</string>

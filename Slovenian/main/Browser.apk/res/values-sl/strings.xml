@@ -394,6 +394,7 @@ Strani ki jih obiščete ne bodo v zgodovini.​"</string>
   <string name="date_picker_dialog_other_button_label">Ostalo</string>
   <string name="date_picker_dialog_set">Nastavi</string>
   <string name="date_picker_dialog_title">Nastavi datum</string>
+     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
   <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
   <string name="delete">Izbriši</string>
   <string name="delete_bookmark">Izbriši</string>
@@ -518,8 +519,49 @@ da nas podprete"</string>
   <string name="exit_browser_confirmation">Tapni ponovno za vrnitev na delovno površino</string>
   <string name="exit_browser_warning">Zaprem brskalnik?</string>
   <string name="exit_fullscreen">Izhod iz celega zaslona</string>
+     <string name="exo_controls_fastforward_description">Hitro naprej</string>
+     <string name="exo_controls_fullscreen_description">Celozaslonski način</string>
+     <string name="exo_controls_hide">Skrij kontrolnike predvajalnika</string>
+     <string name="exo_controls_next_description">Naslednja skladba</string>
+     <string name="exo_controls_pause_description">Premor</string>
+     <string name="exo_controls_play_description">Predvajaj</string>
+     <string name="exo_controls_previous_description">Prejšnja skladba</string>
+     <string name="exo_controls_repeat_all_description">Ponovi vse</string>
+     <string name="exo_controls_repeat_off_description">Ne ponavljaj</string>
+     <string name="exo_controls_repeat_one_description">Ponovi eno</string>
+     <string name="exo_controls_rewind_description">Previjanje nazaj</string>
+     <string name="exo_controls_show">Pokaži kontrolnike predvajalnika</string>
+     <string name="exo_controls_shuffle_off_description">Naključno izklopljeno</string>
+     <string name="exo_controls_shuffle_on_description">Naključno vklopljeno</string>
+     <string name="exo_controls_stop_description">Ustavi</string>
+     <string name="exo_controls_vr_description">VR način</string>
+     <string name="exo_download_completed">Prenos končan</string>
+     <string name="exo_download_description">Prenesi</string>
+     <string name="exo_download_downloading">Prenašam</string>
+     <string name="exo_download_failed">Ni uspelo</string>
+     <string name="exo_download_notification_channel_name">Prenosi</string>
+     <string name="exo_download_removing">Odstranjevanje prenosov</string>
+     <string name="exo_item_list">%1$s, %2$s</string>
+     <string name="exo_track_bitrate">%1$.2f Mbps</string>
+     <string name="exo_track_mono">Mono</string>
+     <string name="exo_track_resolution">%1$d × %2$d</string>
+     <string name="exo_track_role_alternate">Nadomestno</string>
+     <string name="exo_track_role_closed_captions">CC</string>
+     <string name="exo_track_role_commentary">Komentar</string>
+     <string name="exo_track_role_supplementary">Dopolnilno</string>
+     <string name="exo_track_selection_auto">Samodejno</string>
+     <string name="exo_track_selection_none">Nič</string>
+     <string name="exo_track_selection_title_audio">Avdio</string>
+     <string name="exo_track_selection_title_text">Besedilo</string>
+     <string name="exo_track_selection_title_video">Video</string>
+     <string name="exo_track_stereo">Stereo</string>
+     <string name="exo_track_surround">Prostorski zvok</string>
+     <string name="exo_track_surround_5_point_1">5.1 prostorski zvok</string>
+     <string name="exo_track_surround_7_point_1">7.1 prostorski zvok</string>
+     <string name="exo_track_unknown">Neznano</string>
+     <string name="expand_article">Pokaži vse</string>
   <string name="expand_button_title">Napredno</string>
-  <string name="favorite">Dodaj v priljubljene</string>
+  <string name="favorite">Dodaj v priljubljeno</string>
   <string name="feedback_not_interested_response">"Videli boste manj stvari te vrste"</string>
   <string name="file_dir">Spremeni mapo</string>
   <string name="file_name">"Ime: "</string>
@@ -1730,8 +1772,14 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="short_video_net_dialog_title">"Uporabljate mobilne podatke. Uporaba lahko povzroči dodatne stroške operaterja."</string>
   <string name="short_video_network_error">"Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="short_video_tip">Poglej! Zabavni videoposnetek</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Brskalnik se mora normalno povezati s spletom. Za izboljšanje varnosti in prejemanje ustreznih priporočil omogočite brskalniku, da pridobi povezave do spletnih mest, ki jih obiščete, in dostopa do informacij o vaši lokaciji.</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Brskalnik se mora normalno povezati s spletom. Če želite prejemati ustrezna priporočila, dovolite brskalniku, da dobi povezave do spletnih mest, ki jih obiščete, in dostopa do informacij o vaši lokaciji.</string>
+    <string name="show_check_security_url_check_tip_dialog_description">"Vaše osebne podatke bomo zbrali in uporabili, če se odločite za uporabo naših storitev.
+Tu so podatki, ki jih bomo zbrali:
+1. Varni URL: zbrali bomo URL spletnih mest, ki jih obiščete med uporabo naših storitev.
+2. Podatki o lokaciji: Dostopali bomo do vaših podatkov o lokaciji.
+Tako uporabljamo podatke, ki jih zbiramo:
+1. Varnost: vaše podatke uporabljamo da zaščitimo napravo pred goljufijami in virusi, pa tudi zaradi shranjevanja in varnostnih kopij.
+2. Vsebina: Vaši podatki nam pomagajo pri zagotavljanju ustrezne lokalizirane vsebine novic.
+Brskalnik se mora normalno povezati s spletom. Strinjati se morate z %2$s in %1$s za uporabo Brskalnika.​"</string>
   <string name="show_security_tip_dialog_title">Pogoji uporabe</string>
   <string name="show_weather_location_getter_tip_dialog_description">Servisi napovedi potrebujejo informacije o lokaciji da vam ponudijo najnovejše informacije o vremenu v brskalniku. Dovolite to opravilo.</string>
   <string name="sign_and_open">Prijavi se in vključi</string>

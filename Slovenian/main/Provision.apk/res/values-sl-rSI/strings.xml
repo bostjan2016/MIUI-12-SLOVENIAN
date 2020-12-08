@@ -85,8 +85,8 @@
   <string name="locale_picker_other_locale_title">Več regij</string>
   <string name="locale_picker_title">Izberite vašo regijo</string>
   <string name="location_content">V skladu z zakonodajo lahko mobilni operaterji pridobijo informacije o lokaciji mobilnih naprav, da izpolnijo zahteve reševalnih agencij (gasilske službe in policija), ki izvajajo varnostne in reševalne namene.</string>
-  <string name="location_location">Reševalne agencije lahko na zahtevo dobijo vašo trenutno lokacijo</string>
   <string name="location_introduction">Storitve ki temeljijo na lokaciji iščejo proizvode in storitve v vaši bližini.</string>
+     <string name="location_location">Reševalne agencije lahko na zahtevo dobijo vašo trenutno lokacijo</string>
   <string name="lockscreen_introduction">Wallpaper Carousel vam omogoča vsakodnevno dobivanje novih slik ozadja za zakl. zaslon.</string>
   <string name="mint_keyboard_oobe_checkbox">"Prebral sem in se strinam z Pravila o zasebnosti Mint Keyboard"</string>
   <string name="mint_keyboard_oobe_terms">Pravila o zasebnosti Mint Keyboard</string>
@@ -108,8 +108,10 @@
   <string name="next_fingerprint">Naprej</string>
   <string name="note_introduction">Ta aplikacija vam omogoča ustvarjanje, pregled in urejanje beležk.</string>
   <string name="other_settings">Dodatne nastavitve</string>
+  <string name="other_settings_ad_dialog_agree">Vklop</string>
   <string name="other_settings_ad_dialog_content">"Po izklopu ne boste več dobivali prilagojenih oglasov. Še naprej pa boste dobivali oglase ki niso skladni z vašimi interesi. Več o tem v Xiaomi Pravila o zasebnosti.
 Vseeno izključim?"</string>
+<string name="other_settings_ad_dialog_disagree">Izklop</string>
   <string name="other_settings_ad_disable_summary">Vključi prilagojene oglase</string>
   <string name="other_settings_ad_enable">Osebno priporočilo oglasov</string>
   <string name="other_settings_ad_enable_summary">Priporočamo prilagojene oglase na osnovi vaših podatkov obnašanja</string>
@@ -118,7 +120,7 @@ Vseeno izključim?"</string>
   <string name="other_settings_enhanced_lockscreen">Wallpaper Carousel</string>
   <string name="other_settings_enhanced_lockscreen_for_india">Pogled za Mi</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">Pravila o zasebnosti</string>
-  <string name="other_settings_enhanced_lockscreen_summary">Pridobite slike in zgodbe ki se dnevno dostavljajo na vaš zakl. zaslon. Veljajo Pravila in pogoji.</string>
+  <string name="other_settings_enhanced_lockscreen_summary">Pridobite slike in zgodbe ki se dnevno dostavljajo na vaš zakl. zaslon. %1$s in %2$s.</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Pogoji in pravila</string>
   <string name="other_settings_location">Lokacije</string>
   <string name="other_settings_location_summary">Dovoli aplikacijam dostop do vaše lokacije</string>
@@ -271,6 +273,15 @@ Morate se strinjati z Mint Keyboard Pravila o zasebnosti pred uporabo te storitv
 2. Ko poslušate glasbo z izključenim zaslonom."</string>
   <string name="voice_assist_desp">Recite \"Mi AI\" v svoj telefon. Mi AI bo prepoznala vaš glas in lahko urejala telefon.</string>
   <string name="voice_assist_title">Zbudi z glasom</string>
+     <string name="wc_dialog_agree">Strinjam se</string>
+     <string name="wc_dialog_reject">"Ne strinjam se"</string>
+     <string name="wc_dialog_summary">Wallpaper Carousel na zakl. zaslon vsak dan prinaša osupljive slike in vznemirljive zgodbe.</string>
+     <string name="wc_dialog_title">Preoblikovan zakl. zaslon</string>
+     <string name="wc_double_check_agree">Poskusite</string>
+     <string name="wc_double_check_reject">Ne, hvala</string>
+     <string name="wc_double_check_summary">Wallpaper Carousel lahko vklopite in preverite, ali deluje. Ne pozabite, da lahko Wallpaper Carousel vedno vklopite in izklopite v Nastavitve> Zaklenjen zaslon.</string>
+     <string name="wc_double_check_title">Poskusite Wallpaper Carousel</string>
+     <string name="wc_notice_link_announcement_summary">"Preberite in se strinjajte s ponudnikom vsebine tretje osebe &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> in &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> pred uporabo."</string>
   <string name="welcome">Dobrodošli</string>
   <string name="zone_picker_title">Izberite časovni pas</string>
 </resources>

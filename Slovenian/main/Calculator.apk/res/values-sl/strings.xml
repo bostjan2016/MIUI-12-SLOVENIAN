@@ -47,9 +47,11 @@
   <string name="age_label_weeks">Teden</string>
   <string name="allow">Sprejmem</string>
   <string name="am">AM</string>
+  <string name="angle">kot</string>
   <string name="app_name">Kalkulator</string>
   <string name="app_notification_info">Kalkulator dela v ozadju</string>
   <string name="base_rate">Osnovna obrestna mera</string>
+     <string name="birthday">Rojstni dan</string>
   <string name="bmi_error_text">"Ta ITM ni tak kakor bi bilo treba. Preverite ali sta vnešeni višina in teža pravilni."</string>
   <string name="bmi_label_information">Informacije</string>
   <string name="bmi_label_normal">Normalno</string>
@@ -62,7 +64,6 @@
   <string name="btn_float_window_back_to_app">Povečaj kalkulator</string>
   <string name="btn_float_window_close">Zapri zmanjšani kalkulator</string>
   <string name="btn_float_window_resize">Zamenjaj velikost zmanjšanega kalkulatorja</string>
-  <string name="birthday">Rojstni dan</string>
   <string name="cal_convert_to_word_figure">Pretvori v finančne znake</string>
   <string name="cal_copy">Kopiraj</string>
   <string name="cal_edit_mode">Način urejanja</string>
@@ -123,6 +124,9 @@
   <string name="convertion_unit_volume">Pretvarjanje prostornine</string>
   <string name="convertion_unit_weight">Pretvarjanje teže</string>
   <string name="copyright">Avtorske pravice</string>
+     <string name="cos">cos</string>
+     <string name="cosDesc">kosinus</string>
+     <string name="cos_mathematical_value">cos</string>
   <string name="currency_dialog_privacy_content">Pretvorba valut se mora povezati na splet, da dobite najnovejše menjalne tečaje. Preberite in sprejmite naše &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo.</string>
   <string name="currency_update_connect_to_get_data">Tečajno listo ponuja Webull. Povežite se na omrežje da boste dobili najnovejše informacije.</string>
   <string name="currency_update_support">Tečajno listo ponuja Webull.</string>
@@ -134,6 +138,7 @@
   <string name="dateformat">dd.MM.yyyy</string>
   <string name="day">dan</string>
   <string name="degDesc">Kot</string>
+     <string name="del">DEL</string>
   <string name="deleteDesc">Izbriši</string>
   <string name="description_content">Razen osnovnih opravil Kalkulator dela tudi kot večnamenski pretvarjalnik in za izračun hipotek, kreditov in davkov</string>
   <string name="description_title">O Kalkulatorju</string>
@@ -164,6 +169,7 @@
   <string name="extra_deduction_instruction">Podrobnosti o odbitku</string>
   <string name="extra_deduction_tips">Tapnite tipko v zgornjem kotu zaslona da boste videli podrobnosti o odbitku.</string>
   <string name="extra_deduction_title">Dodatni odbitki</string>
+     <string name="factorialDesc">faktorsko</string>
   <string name="float_window_guide_text">Tapnite da boste zmanjšali kalkulator</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
@@ -327,7 +333,13 @@
   <string name="loan_repayment_detail_unit">Podrobnejše odplačilo (CNY)</string>
      <string name="loan_type_title">Standardna obrestna mera</string>
   <string name="loan_unit">×10K</string>
+     <string name="lpr_ok">Razumem</string>
+     <string name="lpr_tips_msg">"Od 8. oktobra 2019 se bo obrestna mera za osebno stanovanjsko posojilo izračunavala po glavni obrestni meri posojila (LPR) namesto po predhodno uveljavljeni referenčni obrestni meri 4,9%. Zdaj bo končna stopnja potrjena z dodajanjem osnovne točke LPR.
+
+Enoletni in petletni LPR bodo objavljeni 20. v mesecu (zamude lahko nastanejo zaradi državnih praznikov) na spletnem mestu Ljudske banke Kitajske. "</string>
+     <string name="lpr_tips_title">LPR (Obrestna mera posojila)</string>
   <string name="medical_treatment">Zdravljenje</string>
+     <string name="menuDesc">Meni</string>
   <string name="midnight">AM</string>
   <string name="menuDesc">Meni</string>
   <string name="monday">Ponedeljek</string>
@@ -508,6 +520,7 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
   <string name="sim_locked">SIM kartica je zaklenjena.</string>
   <string name="sim_not_ready">SIM kartica je v uporabi. Poskusite kasneje.</string>
   <string name="sim_unavailable">SIM kartica je nedostopna.</string>
+     <string name="sinDesc">sinus</string>
   <string name="sip_phone">SIP Telefon</string>
   <string name="size_byte">B</string>
   <string name="size_giga_byte">GB</string>
@@ -539,16 +552,17 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
   <string name="solar_term_white_dews">Bela rosa</string>
   <string name="solar_term_winter_begins">Začetek zime</string>
   <string name="solar_term_winter_solstice">Zimski solsticij</string>
-  <string name="sunday">Nedelja</string>
-  <string name="sunday_short">Ned</string>
-  <string name="sunday_shortest">N</string>
-  <string name="support_elder">Podpora za starejše osebe</string>
+     <string name="sqrtDesc">kvadratni koren</string>
   <string name="statistic_label_balance">Stanje</string>
   <string name="statistic_label_interest">Obresti</string>
   <string name="statistic_label_month">Mesec</string>
   <string name="statistic_label_monthly">Mesečno</string>
   <string name="statistic_label_yearly">Letno</string>
   <string name="statistic_year">Let %d</string>
+     <string name="sunday">Nedelja</string>
+     <string name="sunday_short">Ned</string>
+     <string name="sunday_shortest">N</string>
+     <string name="support_elder">Podpora za starejše osebe</string>
   <string name="switchDesc">Zamenjaj</string>
   <string name="sync_one_time_sync">Sinhronizacija (%1$s)</string>
   <string name="tab_title_calculator">Kalkulator</string>
@@ -557,6 +571,7 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
   <string name="tab_title_life">Življenje</string>
   <string name="tab_title_tax_mortgage">Kredit</string>
   <string name="tab_title_tax_mortgage_global">Kredit</string>
+     <string name="tanDesc">tangens</string>
   <string name="tax_accumulation_fund">Akumulacijska sredstva</string>
   <string name="tax_annual_bonus_hint">Vnesite svoj bonus pred davkom</string>
   <string name="tax_annual_bonus_number">Bonus</string>
@@ -611,6 +626,7 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
   <string name="tax_total_insurance_provident_fund">Zavarovanje &amp; stanovanjski sklad</string>
   <string name="tax_unemployment">Nezaposlen</string>
   <string name="tax_update_time_format">Podatki dobljeni od HeXun (%s)</string>
+     <string name="the_anniversary_of_lifting_martial_law">Obletnica odprave vojaškega stanja</string>
   <string name="the_anti_aggression_day"/>
   <string name="the_arbor_day"/>
   <string name="the_armed_forces_day"/>
@@ -706,6 +722,11 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
   <string name="unit_data_display_length_pm">Pikometer</string>
   <string name="unit_data_display_length_um">Mikrometer</string>
   <string name="unit_data_display_length_yd">Jard</string>
+     <string name="unit_data_display_radix_10">Decimalno</string>
+     <string name="unit_data_display_radix_16">Hexadecimalno</string>
+     <string name="unit_data_display_radix_2">Binarno</string>
+     <string name="unit_data_display_radix_8">Oktalno</string>
+     <string name="unit_data_display_temperature_c">Celzij</string>
   <string name="unit_data_display_time_day">Dan</string>
   <string name="unit_data_display_time_h">Ura</string>
   <string name="unit_data_display_time_min">Minuta</string>

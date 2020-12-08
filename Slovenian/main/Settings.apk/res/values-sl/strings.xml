@@ -9943,6 +9943,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="user_exit_guest_confirm_title">Želite odstraniti gosta?</string>
     <string name="user_exit_guest_dialog_remove">Odstrani</string>
     <string name="user_exit_guest_title">Odstranitev gosta</string>
+    <string name="user_experience_open_url">Izvedite več o Programu Uporabniških izkušenj</string>
   <string name="user_experience_program">Program Uporabniških izkušenj</string>
   <string name="user_experience_program_summary">Pomagajte nam izboljšati naše proizvode in storitve s pošiljanjem podatkov o uporabi</string>
   <string name="user_experience_program_title">Program Uporabniških izkušenj</string>
