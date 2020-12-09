@@ -346,6 +346,8 @@ in za trenutek zapustite pregled"</string>
   <string name="cannot_connect_camera_volte_call">Videoklic poteka, poskusite kasneje.</string>
   <string name="cannot_move_warning_message">Zajemam sliko, napravo držite pri miru.</string>
   <string name="capture_back_pressed_hint">Tapnite ponovno za izhod</string>
+     <string name="capture_shortcut_long">Selfie</string>
+     <string name="capture_shortcut_short">Selfie</string>
   <string name="ccc_temperature_warning_msg">Naprava je prevroča. Kamera se bo zaprla čez %d sek. Vaše fotografije ali videoposnetki bodo samodejno shranjeni.</string>
   <string name="ccc_temperature_warning_title">Naprava je prevroča</string>
   <string name="clear_effects">Počisti efekte</string>
@@ -480,6 +482,8 @@ in za trenutek zapustite pregled"</string>
   <string name="dirty_tip_toast">Leča je umazana. Očistite jo.</string>
   <string name="disable_video_snapshot_hint">Snemanje videa je onemogočeno kadar so vključeni posebni efekti.</string>
   <string name="do_not_remind_me">"Ne kaži več"</string>
+     <string name="doc_shortcut_long">Dokumenti</string>
+     <string name="doc_shortcut_short">Dokumenti</string>
   <string name="document_blackwhite">B&amp;W</string>
   <string name="document_blur_warn">Zamegljeno</string>
   <string name="document_mode_use_hint_text_body">"Poravnaj in izboljšaj
@@ -1541,6 +1545,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="preparing_sd">Pripravljam notranji pomnilnik…</string>
   <string name="preview_back_pressed_hint">Tapnite ponovno za vrnitev na pregled</string>
   <string name="pro_color_mode">Pro barva</string>
+  <string name="professional_shortcut_long">Pro</string>
+  <string name="professional_shortcut_short">Pro</string>
   <string name="qq_details">QQ podrobnosti:</string>
   <string name="qr_code_details">Podrobnosti QQ kode:</string>
   <string name="raw_data_exit_button_text">Izhod iz RAW načina</string>
@@ -1747,6 +1753,8 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</s
   <string name="video_err">"Ne morem predvajati videoposnetek"</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Limit velikosti dosežen.</string>
+  <string name="video_shortcut_long">Video</string>
+  <string name="video_shortcut_short">Video</string>
   <string name="video_snapshot_hint">Posnemite fotografijo med snemanjem videoposnetka z dotikom zaslona za pregled.</string>
   <string name="video_tag_flag_title">Označi</string>
      <string name="video_ultra_clear_tip">4K UHD</string>

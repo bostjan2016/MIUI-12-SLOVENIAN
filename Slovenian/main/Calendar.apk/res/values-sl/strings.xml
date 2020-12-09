@@ -10,6 +10,16 @@
   <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
   <string name="abc_capital_off">IZKLJUČENO</string>
   <string name="abc_capital_on">VKLJUČENO</string>
+     <string name="abc_menu_alt_shortcut_label">Alt+</string>
+     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+     <string name="abc_menu_delete_shortcut_label">delete</string>
+     <string name="abc_menu_enter_shortcut_label">enter</string>
+     <string name="abc_menu_function_shortcut_label">Function+</string>
+     <string name="abc_menu_meta_shortcut_label">Meta+</string>
+     <string name="abc_menu_shift_shortcut_label">Shift+</string>
+     <string name="abc_menu_space_shortcut_label">presledek</string>
+     <string name="abc_menu_sym_shortcut_label">Sym+</string>
+     <string name="abc_prepend_shortcut_label">Menu+</string>
   <string name="abc_search_hint">Preglej…</string>
   <string name="abc_searchview_description_clear">Izbriši zahtevo</string>
   <string name="abc_searchview_description_query">Zahteva za iskanje</string>
@@ -26,6 +36,7 @@
   <string name="accessibility_alarm_remind">Opomniki alarma</string>
   <string name="accessibility_all_day">Celodnevni dogodek</string>
   <string name="accessibility_email_notification">Pošlji e-pošto gostom</string>
+     <string name="accessibility_month_page_selected_prefix">Mesečni prikaz za %2$d od %1$d. Izbrani datum: %4$d/%5$d/%3$d.</string>
   <string name="accessibility_pick_end_date">Datum konca</string>
   <string name="accessibility_pick_end_time">DO</string>
   <string name="accessibility_pick_recurrence">Ponovi</string>
@@ -40,11 +51,8 @@
   <string name="accessibility_remove_reminder">Odstrani opomnik</string>
   <string name="accessibility_repeats">Ponovi</string>
   <string name="accessibility_sync_cal">Sinhroniziraj koledar</string>
-  <string name="accessibility_month_page_selected_prefix">Mesečni prikaz za %2$d od %1$d. Izbrani datum: %4$d/%5$d/%3$d.</string>
   <string name="accessibility_year_item_selected">Izbrani mesec: %d. Tapnite za odpiranje mesečnega prikaza.</string>
   <string name="accessibility_year_page_selected">Letnji prikaz za %d. Podrsajte s prstom levo ali desno da boste premikali med leti, potem pa tapnite za izbiro meseca.</string>
-  <string name="action_bar_cancel">Prekliči</string>
-  <string name="action_bar_confirm">V redu</string>
   <string name="account_and_calendar">Računi</string>
   <string name="account_import_calendar">Uvozi koledar</string>
   <string name="account_manager_delete">Izbriši račun</string>
@@ -68,6 +76,8 @@
   <string name="acessibility_recurrence_choose_end_date_description">zamenjaj datum konca</string>
   <string name="acessibility_selected_marker_description">Izbrani dogodek</string>
   <string name="acessibility_snooze_notification">Odloži obvestilo</string>
+     <string name="action_bar_cancel">Prekliči</string>
+     <string name="action_bar_confirm">V redu</string>
   <string name="action_bar_date_button_title">Izračunaj datum</string>
   <string name="action_bar_more_menu_view_description">Več</string>
   <string name="action_bar_return">Nazaj</string>
@@ -81,6 +91,7 @@
   <string name="add_caldav_account">Dodaj caldav račun</string>
   <string name="add_countdown">Dodaj odštevanje</string>
   <string name="add_event">Dodaj dogodek</string>
+     <string name="address">Naslov</string>
   <string name="afternoon">PM</string>
   <string name="agenda_month_empty_hint">Za danes ni dogodkov</string>
   <string name="agenda_not_today_empty_hint">Še ni dogodkov. Tapnite za izdelavo.</string>
@@ -130,18 +141,22 @@
   <string name="button_month">M</string>
   <string name="button_week">T</string>
   <string name="calculate_result">Rezultat</string>
+     <string name="calendar_account_settings">Nastavitve računa</string>
   <string name="calendar_color_picker_dialog_title">Barva koledarja</string>
+     <string name="calendar_import_source">Pot vira</string>
   <string name="calendar_refresh">Osveži</string>
   <string name="calendar_square_color_picker_description">Izbira barve</string>
-  <string name="call_label">Klic</string>
-  <string name="calendar_account_settings">Nastavitve računa</string>
-  <string name="calendar_import_source">Pot vira</string>
   <string name="calendar_subscription_group_title">Naročila koledarja</string>
+     <string name="call_label">Klic</string>
   <string name="can_not_create_long_event">Ime dogodka je predolgo</string>
   <string name="can_not_modify_allday_event">"Sprememba celodnevnega dogodka ni mogoča"</string>
   <string name="can_not_modify_event">"Dogodka ni mogoče spremeniti"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Ne morem spremeniti dnevnega dogodka"</string>
   <string name="cancel_reminder_later">Odpovej opomnik</string>
+     <string name="card_detail_dialog_message">%1$s se bo posodabljal vsak dan. Naročite se na prejemanje dnevnih posodobitev.</string>
+     <string name="card_detail_dialog_negative">Naročite se kasneje</string>
+     <string name="card_detail_dialog_positive">Naročite se zdaj</string>
+     <string name="card_detail_dialog_title"></string>
   <string name="card_detail_hint">Vsebina bo prikazana na domači strani in posodobljena vsak dan, ko se naročite</string>
   <string name="card_detail_title">Podrobnosti</string>
   <string name="card_title_change">Več</string>
@@ -158,6 +173,8 @@
   <string name="clear_net_mock_success">Net mock uspešno očiščen</string>
   <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
+     <string name="click_for_create_event">Kliknite za ustvarjanje dogodka za %s</string>
+     <string name="click_paste">Kliknite za prilepljenje</string>
   <string name="close_alarm">Izključi</string>
   <string name="color_picker_default_title">Izberite barvo</string>
   <string name="color_swatch_description">Barva %1$d</string>
@@ -171,10 +188,10 @@
   <string name="countdown_notify_title">Število dni: %1$s</string>
   <string name="countdown_secondary_tag">Odštevanje</string>
   <string name="countdown_today">Danes</string>
-  <string name="create_an_account_desc">Koledar dela bolje z Mi Računom.
+     <string name="create_an_account_desc">"Koledar dela bolje z Mi Računom.
 
 • Dostopajte do njega iz kateregakoli brskalnika.
-• Naredite var. kopijo svojih dogodkov.</string>
+• Naredite var. kopijo svojih dogodkov."</string>
   <string name="create_event_dialog_save">Shrani</string>
   <string name="creating_event">Dogodek ustvarjen</string>
   <string name="creating_event_with_guest">Pošiljanje vabila</string>
@@ -208,11 +225,13 @@
   <string name="delete_recurring_event_title">Izbrišem %s?</string>
   <string name="delete_this_event_title">Izbrišem ta dogodek?</string>
   <string name="deleted_key">Izbrisano %1$s</string>
+     <string name="description_calendar">Sistemske aplikacije/Koledar</string>
+     <string name="description_calendar_edit_event">Sistemske aplikacije/Koledar/Dnevni red</string>
   <string name="description_label">Opis:</string>
   <string name="directory_searching_fmt">Iskanje %s…</string>
   <string name="discard_label">Prekini</string>
-  <string name="display_to_calendar">Pokaži v koledarju</string>
   <string name="dismiss_all_label">Zavrzi vse</string>
+     <string name="display_to_calendar">Pokaži v koledarju</string>
   <string name="do_not_check">NE preverjaj -&gt;</string>
   <string name="does_not_repeat">Enkratni dogodek</string>
   <string name="done">Nazaj</string>
@@ -271,7 +290,9 @@
   <string name="empty_event">"Ne morem napraviti prazen dogodek."</string>
   <string name="endByDate">; vse do %s</string>
   <string name="error_icon_content_description">Napaka</string>
+     <string name="evening">Popoldne</string>
   <string name="event_account">Račun</string>
+     <string name="event_action_arrive_station">Cilj</string>
   <string name="event_action_delete">Izbriši</string>
   <string name="event_action_edit">Uredi</string>
   <string name="event_all_day_label">Ves dan </string>
@@ -279,9 +300,9 @@
   <string name="event_color_set_to_default">Nastavi na privzeto barvo koledarja</string>
   <string name="event_create">Nov dogodek</string>
   <string name="event_date_format">dd.MM EEEE</string>
-  <string name="event_full_date_format">dd.MM.yyyy</string>
   <string name="event_delete">Izbriši dogodek</string>
   <string name="event_edit">Uredi dogodek</string>
+  <string name="event_full_date_format">dd.MM.yyyy</string>
   <string name="event_import">Uvoz dogodka</string>
   <string name="event_info_descrip">Opis</string>
   <string name="event_info_end">Konec</string>
@@ -333,6 +354,12 @@
   <string name="horoscope_select_activity_label">Izberite hor. znak</string>
   <string name="hour_picker_description">Krožni kazalec ure</string>
   <string name="icon_content_description">Ikona dialoga</string>
+     <string name="icon_remove_confirm">Odstrani</string>
+     <string name="icon_remove_description_content">"Koledar je sistemska aplikacija. Omogoča vam ustvarjanje dogodkov in upravljanje z njimi. Ko odstranite bližnjico do začetnega zaslona, boste še vedno lahko uporabljali koledar prek pripomočka za začetni zaslon iz menija aplikacij."</string>
+     <string name="icon_remove_description_title">Odstranim \"Koledar\"?</string>
+     <string name="ics_file_not_found">Ni datotek koledarja za uvoz</string>
+     <string name="ics_import_from_local_file">Uvozi datoteke koledarja</string>
+     <string name="ics_import_from_url">Dodajte naročnino na URL</string>
   <string name="import_action">Uvozi</string>
   <string name="import_birthday">Uvozi rojstni dan</string>
   <string name="import_help">Pomoč</string>
@@ -356,6 +383,7 @@
   <string name="load_more_events_default">Pokaži dogodke naslednjega leta</string>
   <string name="load_more_hint">Naloži dogodke od %1$d</string>
   <string name="loading">Nalagam…</string>
+     <string name="loading_ics_files">Iskanje datotek koledarja…</string>
   <string name="local_calendar_display_name">Lokalni koledar</string>
   <string name="local_owner_account_name">Shranjeno na napravo</string>
   <string name="login_caldav">Dodaj</string>
@@ -370,6 +398,7 @@
   <string name="menu_preferences">Nastavitve</string>
   <string name="menu_reminder_preferences">Nastavitve opomnika</string>
   <string name="menu_select_visible_calendars">Koledarji za prikaz</string>
+     <string name="midnight">Noč</string>
   <string name="minute_picker_description">Krožni kazalec minut</string>
   <string name="missing_name">(Brez imena)</string>
   <string name="missing_required_permission">Onemogočili ste potrebna dovoljenja.</string>
@@ -484,6 +513,7 @@
   <string name="more">Več</string>
   <string name="more_string">+%1$d</string>
   <string name="morning">AM</string>
+     <string name="movie_event_delete_successfully">Vstopnica za film je bila uspešno izbrisana</string>
   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Več kot %1$d novih obvestil</string>
@@ -549,13 +579,16 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="pack_up">Skrij</string>
   <string name="palestine_display_name">Palestina</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
+     <string name="path_calendar_settings">Sistemske aplikacije/Koledar/Nastavitve</string>
   <string name="permission_accounts">Za prijavo in urejanje računov sistema in združevanje stvari z njim</string>
   <string name="permission_contacts">Za sinhronizacijo rojstnih dni stikov in pošiljanje opmnikov</string>
   <string name="permission_main_purpose">Pregledovanje in urejanje dogodkov iz koledarja, planiranje poti, sprejem opomnikov in predplačilo storitev</string>
   <string name="permission_storage">Za shranjevanje opomnikov in melodij zvonenja</string>
   <string name="phone_num">Telefon</string>
+     <string name="pm">PM</string>
   <string name="portrait_week_view">Tedenski razpored u pokončnem videzu</string>
   <string name="prefDialogTitle_vibrateWhen">Vibriraj</string>
+     <string name="pref_default_popup_alert_value">nič</string>
   <string name="pref_error_no_ringtone_select">Privzeto zvonjenje</string>
   <string name="pref_reminder_time">Čas opomnika</string>
   <string name="pref_title_alarm_remind">Opomniki alarma</string>
@@ -695,9 +728,9 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="select_synced_calendars_button">Koledarji za sinhronizacijo</string>
   <string name="select_synced_calendars_title">Koledarji za sinhronizacijo</string>
   <string name="select_today_tip">Danes</string>
-  <string name="service_rejected_temporarily">Certifikat je začasno zavrnjen</string>
   <string name="select_visible_calendars_title">Koledarji za prikaz</string>
   <string name="select_year">Izberi leto</string>
+     <string name="service_rejected_temporarily">Certifikat je začasno zavrnjen</string>
   <string name="setting">Nastavitve</string>
   <string name="setting_about_calendar_version">Verzija koledarja: %1$s-%2$s</string>
   <string name="setting_about_imei">IMEI: %1$s</string>
@@ -760,6 +793,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="time_picker_label_minute">M</string>
   <string name="time_zone">Časovni pas</string>
   <string name="timezone_label">Časovni pas</string>
+  <string name="tip_input_calendar_link">Vnesite URL</string>
   <string name="title_confirm_close_chinese_calendar">Izklop kitajskega koledarja</string>
   <string name="title_import_by_caldav">Uvoz preko CalDav računa</string>
   <string name="title_import_by_email">Uvozi preko računa e-pošte</string>

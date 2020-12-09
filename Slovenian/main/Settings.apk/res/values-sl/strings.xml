@@ -191,7 +191,7 @@ Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
     <string name="accessibility_service_action_perform_title">Ogledovanje in izvajanje dejanj</string>
   <string name="accessibility_service_default_description">Ni opisa.</string>
      <string name="accessibility_service_master_open_title">Odpri %1$s</string>
-    <string name="accessibility_service_master_switch_title">Koristi aplikacijo %1$s</string>
+    <string name="accessibility_service_master_switch_title">Uporabi storitev</string>
   <string name="accessibility_service_no_apps_message">TalkBack daje govorne povratne informacije kot pomoč slepim im slabovidnim uporabnikom. Ga želite brezplačno namestiti iz Trg. Play?</string>
   <string name="accessibility_service_no_apps_title">Potrebujete bralnik zaslona?</string>
     <string name="accessibility_service_screen_control_description">Bere lahko vso vsebino na zaslonu ter prikaže vsebino preko drugih aplikacij.</string>
@@ -464,6 +464,8 @@ Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
     <string name="advanced_settings">Dodatne nastavitve</string>
   <string name="advanced_settings_summary">Omogoči več možnosti nastavitev.</string>
   <string name="advanced_text_layout">Omogoči napreden izgled teksta</string>
+     <string name="aggregate_rule_group_disabled">"Ne združuj"</string>
+     <string name="aggregate_rule_group_enabled">Združi</string>
   <string name="aggregate_title">Pravila za skupinska obvestila</string>
   <string name="agps_roaming">A-GPS v gostovanju</string>
   <string name="agps_roaming_dia">"Uporaba A-GPS v gostovanju lahko bistveno poveča uporabo podatkov. Če presežete mesečno kvoto vam vaš operater to lahko zaračuna."</string>
@@ -590,6 +592,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="aod_mode_turn_off">Izključeno</string>
   <string name="aod_mode_turn_on">Vključeno</string>
   <string name="aod_name_wanxiang">Vedno na zaslonu</string>
+     <string name="aod_notification_style">Učinek obveščanja</string>
   <string name="aod_notification_style_animation">Pokaži animacijo</string>
   <string name="aod_notification_style_none">Nič</string>
   <string name="aod_notification_style_screen_on">Vključi zaslon</string>
@@ -3380,6 +3383,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="error_name_empty">Polje z imenom ne sme biti prazno.</string>
   <string name="error_permissions">"Ta aplikacija nima dovoljenja za dostop do koledarja. Pojdite v nastavitve in preverite dovoljenja za nadaljevanje."</string>
   <string name="error_title"/>
+  <string name="error_xcap_not_add">Vrsta APN ne more biti XCAP.</string>
     <string name="estimated_charging_time_left">Do napolnjenosti</string>
     <string name="estimated_time_description">Ocena je odvisna od uporabe in se lahko spremeni.</string>
     <string name="estimated_time_left">Približni preostali čas</string>
@@ -3630,8 +3634,15 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="fluency_mode_confirm_will_normal_mode_text">Omogočene animacije in povečana uporaba RAM-a lahko povzroči počasnost sistema na napravah z 1GB RAM-a.</string>
   <string name="fluency_mode_enabled_name">Optimizirajte zmogljivost</string>
   <string name="fluency_mode_summary">Onemogoči animacijo sistema in tako zmanjšaj porabo RAM-a</string>
+     <string name="fold_rule_default">Priporočeno</string>
+     <string name="fold_rule_important">Važno</string>
+     <string name="fold_rule_unimportant">Ni važno</string>
   <string name="fold_title">Pravila za združena obvestila</string>
   <string name="following_us_title">Spremljajte nas</string>
+     <string name="font_setting_weight_toast">"Trenutna pisava ne podpira prilagajanja vekikosti fontov"</string>
+     <string name="font_settings_jump">Accessibility > Velikost ekrana</string>
+     <string name="font_settings_recommend_title">"Je besedilo premajhno?"</string>
+     <string name="font_settings_summary_cn">Velikost fontov in besedila</string>
   <string name="font_size_exhuge">Extra veliko</string>
   <string name="font_size_huge">Ogromno</string>
   <string name="font_size_kddi">Srednje</string>
@@ -4189,6 +4200,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
   <string name="instruction_privacy_password">To geslo ščiti naslednje stvari</string>
   <string name="instruction_title">Važne varnostne informacije</string>
   <string name="insufficient_storage">Ni dovolj prostora za shranjevanje.</string>
+     <string name="intelligence_suppression_title">Samodejno (priporočeno)</string>
   <string name="intent_sender_account_label">Račun:</string>
   <string name="intent_sender_action_label">Opravilo:</string>
   <string name="intent_sender_data_label">Podatki:</string>
@@ -4200,7 +4212,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
     <string name="interact_across_profiles_consent_dialog_app_data_title">Podatki aplikacij</string>
     <string name="interact_across_profiles_consent_dialog_permissions_summary">Ta aplikacija lahko uporablja dovoljenja osebne aplikacije %1$s, kot je dostop do lokacije, shrambe ali stikov.</string>
     <string name="interact_across_profiles_consent_dialog_permissions_title">Dovoljenja</string>
-    <string name="interact_across_profiles_consent_dialog_summary">Aplikacije povežite samo, če jim zaupate, da osebnih podatkov ne bodo delile s svojim skrbnikom za IT.</string>
+    <string name="interact_across_profiles_consent_dialog_summary">%1$s lahko razkrije vaše osebne podatke vašemu IT skrbniku.</string>
     <string name="interact_across_profiles_consent_dialog_title">Ali želite delovni aplikaciji %1$s zaupati osebne podatke?</string>
     <string name="interact_across_profiles_empty_text">Ni povezanih aplikacij</string>
     <string name="interact_across_profiles_install_app_summary">Dotaknite se za prenos aplikacije</string>
@@ -5151,6 +5163,7 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_in_ear_check">Zaznavanje prisotnosti ušesa</string>
      <string name="miheadset_in_ear_check_summary">Samodejno ustavi in nadaljuj predvajanje, ko namestite ali odstranite slušalke</string>
      <string name="miheadset_last_version">Posodobljeno</string>
+     <string name="miheadset_local_ota">Lokalno</string>
      <string name="miheadset_moreSettingsInAi">Dodatne nastavitve</string>
      <string name="miheadset_next">naprej</string>
      <string name="miheadset_ok_device">V redu</string>
@@ -7339,6 +7352,7 @@ Neuvožene podatke morate ponovno uvoziti."</string>
      <string name="screen_enhance_engine_ai_open">Izboljšajte slike</string>
      <string name="screen_enhance_engine_ai_pic_summary">Prepoznajte predmete (npr. rastline, živali, zgradbe) in dinamično prilagajanje prikaznih učinkov. Ta storitev nekoliko poveča porabo energije.</string>
      <string name="screen_enhance_engine_ai_title">AI izboljšanje slike</string>
+     <string name="screen_enhance_engine_memc_note">"Ko je vklopljena super ločljivost, ne morem izboljšati videoposnetkov. Če vklopite izboljšane videoposnetke, bo izklopljena super ločljivost."</string>
      <string name="screen_enhance_engine_memc_open">MEMC</string>
      <string name="screen_enhance_engine_memc_pic_summary">Videoposnetkom dodajte dodatne okvirje, da bo vsebina videti gladka in prehodna.</string>
      <string name="screen_enhance_engine_memc_title">MEMC</string>
@@ -7347,7 +7361,9 @@ Neuvožene podatke morate ponovno uvoziti."</string>
      <string name="screen_enhance_engine_s2h_title">AI HDR izboljšanje</string>
      <string name="screen_enhance_engine_sr_for_pic">Izboljšajte slike</string>
      <string name="screen_enhance_engine_sr_for_video">Izboljšajte videoposnetke</string>
+     <string name="screen_enhance_engine_sr_for_video_note">"Super ločljivost ne deluje z izboljšanimi videoposnetki. Če vklopite super ločljivost, bodo izboljšani videoposnetki izklopljeni."</string>
      <string name="screen_enhance_engine_sr_pic_summary">Povečajte ločljivost slike ali videa na 1440p. To storitev podpirajo izbrane aplikacije in nekoliko poveča porabo energije.</string>
+     <string name="screen_enhance_engine_sr_pic_summary_video_only">Povečajte ločljivost videoposnetka na 1440p. To storitev podpirajo izbrane aplikacije in nekoliko poveča porabo energije.</string>
      <string name="screen_enhance_engine_sr_title">Super ločljivost</string>
      <string name="screen_enhance_engine_title">AI slikovni mehanizem</string>
      <string name="screen_enhance_status_disable">Izključeno</string>

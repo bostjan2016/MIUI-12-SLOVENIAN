@@ -41,8 +41,8 @@
   <string name="call_button_tools_text">Opravila</string>
   <string name="call_contacts_deny_permission_msg">"Zavrnili ste dovoljenje za branje stikov. Ne morem prikazati informacij o stikih."</string>
   <string name="call_description_recording">Snemanje…</string>
-  <string name="call_not_support_high_frequency_click">"Ne dotikajte se te tipke tako pogosto"</string>
   <string name="call_extension_conference_mode">Konferenca</string>
+     <string name="call_not_support_high_frequency_click">"Ne dotikajte se te tipke tako pogosto"</string>
   <string name="call_record_button_label">Snemanje %s</string>
   <string name="call_record_wait_label">Čakam</string>
   <string name="call_recording_deny_permission_msg">"Zavrnili ste dovoljenje  za snemanje, ne morem snemati."</string>
@@ -100,9 +100,9 @@
   <string name="contacts_icon_label">Stiki</string>
   <string name="crbt_second_hold_prompt">%s je na čakanju…</string>
   <string name="crbt_second_hold_prompt_conference">Konferenčni klic je na čakanju…</string>
-  <string name="crbt_second_hold_prompt_no_name">Prethodni klic je na čakanju…</string>
-  <string name="description_icon_sim_card">SIM %1$d</string>
+  <string name="crbt_second_hold_prompt_no_name">Predhodni klic je na čakanju…</string>
   <string name="default_area_code_setting">Privzeta območna koda</string>
+     <string name="description_icon_sim_card">SIM %1$d</string>
   <string name="description_image_button_answer">Odgovori</string>
   <string name="description_image_button_dialpad">Tipke za izbiranje</string>
   <string name="description_image_button_eight">osem</string>
@@ -123,6 +123,7 @@
   <string name="description_image_button_two">dve</string>
   <string name="description_image_button_video_answer">Videoklic</string>
   <string name="description_image_button_zero">nič</string>
+  <string name="description_incoming_video">Profilni video za dohodne klice</string>
   <string name="description_message_list_title">Seznam hitrih odgovorov</string>
   <string name="description_target_answer">Odgovori</string>
   <string name="dialog_activate_livetalk">Potrdi številko</string>

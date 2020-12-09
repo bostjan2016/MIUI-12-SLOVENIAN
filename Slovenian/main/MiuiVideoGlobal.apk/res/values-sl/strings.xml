@@ -748,6 +748,7 @@ za videoposnetke"</string>
     <string name="notification_recall_desc">Mi Video vas lahko obvesti o popularnih videoposnetkih in vaših naročninah</string>
     <string name="notification_recall_title">Vklopite obvestila</string>
     <string name="notify_apk_installed">Uspešno preneseno</string>
+     <string name="off">[izklj.]</string>
     <string name="off_tip_firework_recommend">Od Fireworka ne boste prejeli prilagojena priporočila vsebine</string>
     <string name="ok">V redu</string>
     <string name="on_tip_firework_recommend">Od Fireworka boste prejeli prilagojena priporočila vsebine</string>

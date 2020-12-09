@@ -26,6 +26,7 @@
   <string name="picker_title">Nadzorna plošča glasbenih učinkov</string>
   <string name="plate">Plate</string>
   <string name="pop">Pop</string>
+     <string name="power_on_prompt">Pritisnite tipko za vklop zgoraj desno.</string>
   <string name="pr_dialog_title">Prednastavljen odmev</string>
   <string name="pr_summary">Dodatni učinki za odmev v prostoru</string>
   <string name="pr_title">Odmev:</string>

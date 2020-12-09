@@ -965,10 +965,13 @@ Izbor"</string>
   <string name="face_unlock_offset_right">Pomaknite se v levo</string>
   <string name="face_unlock_offset_top">Dvignite malo telefon</string>
   <string name="face_unlock_open_eye">Malo bolj odprite oči</string>
+     <string name="face_unlock_password_and_fingerprint">Vnesite geslo ali odklenite s prstnim odtisom</string>
   <string name="face_unlock_passwork">Uporabi geslo</string>
   <string name="face_unlock_passwork_and_fingerprint">Uporabi geslo ali prstni odtis</string>
   <string name="face_unlock_passwork_and_fingerprint_v11">Vnesite geslo ali odklenite s prstnim odtisom</string>
+     <string name="face_unlock_pattern_and_fingerprint">Vnesite vzorec ali odklenite s prstnim odtisom</string>
   <string name="face_unlock_pattern_and_fingerprint_v11">Narišite vzorec ali odklenite s prstnim odtisom</string>
+     <string name="face_unlock_pin_and_fingerprint">Vnesite PIN ali odklenite s prstnim odtisom</string>
   <string name="face_unlock_pin_and_fingerprint_v11">Vnesite PIN ali odklenite s prstnim odtisom</string>
   <string name="face_unlock_quality">"Ne morem jasno videti vašega obraza"</string>
   <string name="face_unlock_reenter_content">Algoritem odklepa z obrazom je posodobljen. Tapnite za ponovno snemanje obraza.</string>
@@ -1148,6 +1151,9 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
   <string name="inline_stop_button">Ustavi obvestila</string>
      <string name="inline_turn_off_notifications">Izključi obvestila</string>
   <string name="inline_undo">Razveljavi</string>
+     <string name="input_lockscreen_password_hint_text">Vnesite zaporku</string>
+     <string name="input_lockscreen_pattern_hint_text">Vnesite vzorec</string>
+     <string name="input_lockscreen_pin_hint_text">Vnesite PIN</string>
   <string name="input_password_after_boot_msg">"Vnesite geslo za odklep"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne morem zamenjati prostore med klicem"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Ne morem spremeniti prostor ko je vključen starševski nadzor"</string>
