@@ -352,6 +352,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
   <string name="app_name">Dovoljenja</string>
   <string name="background_location_access_reminder_notification_content">Ta aplikacija lahko zmeraj dostopa do vaše lokacije. Tapnite za spremembo.</string>
   <string name="background_location_access_reminder_notification_title">%s uporablja vašo lokacijo</string>
+     <string name="blur_location_now_tip">Približna lokacija je vključena</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="clipboard_ai_allow_once">Dovoljeno %1$s samodejni dostop do stvari v odložišču</string>
      <string name="clipboard_data">Stvari v odložišču</string>
@@ -371,6 +372,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="friday_shortest">P</string>
      <string name="go_behavior_record">Zgodovina obnašanja aplikacij</string>
      <string name="go_perm_manager">Urejanje dovoljenj</string>
+     <string name="go_setting">Nastavitve</string>
   <string name="grant_confirm_question">Želite odobriti ta dovoljenja? Omogočen bo dostop:</string>
   <string name="grant_dialog_button_allow">Dovoli</string>
   <string name="grant_dialog_button_allow_always">Dovoli ves čas</string>
@@ -509,6 +511,8 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
   <string name="permission_warning_template_ask">Dovolim %1$s naslednja dovoljenja?</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" nima dovoljenja za %2$s. Dovoljenja aplikacij lahko spreminjate v Aplikacije &gt; Dovoljenja."</string>
   <string name="permisson_reject_notice_toast_text2">"nima dovoljenja za %1$s."</string>
+     <string name="real_location_off">Približna lokacija je vključena</string>
+     <string name="real_location_on">Približna lokacija je izključena</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>

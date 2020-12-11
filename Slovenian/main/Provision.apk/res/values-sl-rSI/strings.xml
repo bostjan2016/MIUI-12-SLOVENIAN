@@ -109,9 +109,8 @@
   <string name="note_introduction">Ta aplikacija vam omogoča ustvarjanje, pregled in urejanje beležk.</string>
   <string name="other_settings">Dodatne nastavitve</string>
   <string name="other_settings_ad_dialog_agree">Vklop</string>
-  <string name="other_settings_ad_dialog_content">"Po izklopu ne boste več dobivali prilagojenih oglasov. Še naprej pa boste dobivali oglase ki niso skladni z vašimi interesi. Več o tem v Xiaomi Pravila o zasebnosti.
-Vseeno izključim?"</string>
-<string name="other_settings_ad_dialog_disagree">Izklop</string>
+  <string name="other_settings_ad_dialog_content">"Ko so priporočila za oglase po meri izklopljena, boste še vedno videli enako količino oglasov kot ob vklopu storitve. Oglasi pa ne bodo več ustrezni, ker ne bodo temeljili na vaših osebnih željah."</string>
+<string name="other_settings_ad_dialog_disagree">Izklopi</string>
   <string name="other_settings_ad_disable_summary">Vključi prilagojene oglase</string>
   <string name="other_settings_ad_enable">Osebno priporočilo oglasov</string>
   <string name="other_settings_ad_enable_summary">Priporočamo prilagojene oglase na osnovi vaših podatkov obnašanja</string>

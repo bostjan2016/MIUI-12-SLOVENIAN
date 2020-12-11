@@ -38,6 +38,7 @@
   <string name="altitude_unit">m</string>
   <string name="app_description_content">"Kompas je sistemska aplikacija. Po odstranitvi je ne boste mogli uporabljati za preverjanje navodil, koordinat, atmosferskega tlaka in trenutne nadmorske višine."</string> 
   <string name="app_description_title">Odstranim Kompas?</string>
+  <string name="app_label">Kompas</string>
   <string name="app_name">Kompas</string>
   <string name="calibrate_failed">Kalibriranje nadmorske višine ni uspelo</string>
   <string name="calibrate_failed_no_location">"Kalibracija ni mogoča"</string>
@@ -53,6 +54,7 @@
   <string name="cta_agree_desc">Dovoli, da se ta aplikacija poveže s spletom in ji daj neobvezna dovoljenja, tako da lahko uporabite vse njene funkcije.</string>
   <string name="cta_v2_app_purpose">prikazovanje smeri, koordinat, zračnega pritiska in trenutne višine</string>
   <string name="dialog_body_no_network">"Povežite se na WiFi ali vključite mobilne podatke."</string>
+  <string name="dialog_body_no_network_china">Povežite se na WiFi ali vključite mobilne podatke.</string>
   <string name="dialog_body_no_network_global">Povežite se na WiFi ali vključite mobilne podatke.</string>
   <string name="dialog_calibrat_altitude">Kalibriranje…</string>
   <string name="dialog_title_no_network">"Ne morem se povezati na omrežje"</string>
@@ -72,6 +74,7 @@
   <string name="first_using_dialog_title">Dovoljenje dostopa</string>
   <string name="getting_location">Kalibriranje...</string>
   <string name="guide_toast">"Za kalibracijo premikajte telefon kot vidite spodaj."</string>
+     <string name="keywords_search_compass">Kompas;Kalibriranje;Pritisk;Nadmorska višina;Zemljepisna širina;Zemljepisna dolžina;Preveri zemljepisno dolžino; Preveri zemljepisno širino;MIUI kompas;Kompas app;MIUI kompas app;Kje je kompas;Prenesi kompas;Zračni pritisk; Preveri nadmorsko višino;Koliko je višina</string>
   <string name="latitude">Zemljepisna širina</string>
   <string name="location_east">V</string>
   <string name="location_enable">Dovoli</string>

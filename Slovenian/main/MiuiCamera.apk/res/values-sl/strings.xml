@@ -485,7 +485,7 @@ in za trenutek zapustite pregled"</string>
      <string name="doc_shortcut_long">Dokumenti</string>
      <string name="doc_shortcut_short">Dokumenti</string>
   <string name="document_blackwhite">B&amp;W</string>
-  <string name="document_blur_warn">Zamegljeno</string>
+  <string name="document_blur_warn">Besedilo je zamegljeno</string>
   <string name="document_mode_use_hint_text_body">"Poravnaj in izboljšaj
 skenirane dokumente samodejno"</string>
   <string name="document_mode_use_hint_text_title">Skeniraj dokumente</string>

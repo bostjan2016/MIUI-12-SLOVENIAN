@@ -152,6 +152,8 @@
   <string name="music_headset_calibrate_volume_up">Povečaj glasnost</string>
   <string name="music_headset_calibrate_wrong_key">"To je napačna tipka"</string>
   <string name="music_headset_control_setting">Kontrole za slušalke</string>
+     <string name="music_headset_effect_harman_kardon">Harman Kardon</string>
+     <string name="music_headset_effect_harman_kardon_summary">Certificirani pro zvok</string>
   <string name="music_headset_effect_settings">Zvočni efekti</string>
   <string name="music_headset_improve_sound">Prilagodite zvok v slušalkah</string>
   <string name="music_headset_is_open">Vključeno</string>

@@ -1780,6 +1780,7 @@ Tako uporabljamo podatke, ki jih zbiramo:
 1. Varnost: vaše podatke uporabljamo da zaščitimo napravo pred goljufijami in virusi, pa tudi zaradi shranjevanja in varnostnih kopij.
 2. Vsebina: Vaši podatki nam pomagajo pri zagotavljanju ustrezne lokalizirane vsebine novic.
 Brskalnik se mora normalno povezati s spletom. Strinjati se morate z %2$s in %1$s za uporabo Brskalnika.​"</string>
+<string name="show_check_security_url_check_tip_dialog_description_international">Brskalnik se mora normalno povezati s spletom. Če želite prejemati ustrezna priporočila, dovolite brskalniku, da dobi povezave do spletnih mest, ki jih obiščete in dostopa do informacij o vaši lokaciji.</string>
   <string name="show_security_tip_dialog_title">Pogoji uporabe</string>
   <string name="show_weather_location_getter_tip_dialog_description">Servisi napovedi potrebujejo informacije o lokaciji da vam ponudijo najnovejše informacije o vremenu v brskalniku. Dovolite to opravilo.</string>
   <string name="sign_and_open">Prijavi se in vključi</string>

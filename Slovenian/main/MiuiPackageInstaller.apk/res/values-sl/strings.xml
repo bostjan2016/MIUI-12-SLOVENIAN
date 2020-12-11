@@ -135,7 +135,7 @@ Vsi obstoječi podatki aplikacije bodo shranjeni."</string>
   <string name="install_confirm_question_update_system">Ali želite namestiti posodobitev za to vgrajeno aplikacijo? Obstoječi podatki ne bodo izgubljeni. Posodobljena aplikacija bo imela dostop do:</string>
   <string name="install_confirm_question_update_system_no_perms">Ali želite namestiti posodobitev te vgrajene aplikacije? Obstoječi podatki ne bodo izgubljeni. Za namestitev ne potrebujete posebnega dostopa.</string>
   <string name="install_confirm_text_gms">To aplikacijo je ustvaril Google. Pred namestitvijo te aplikacije namestite storitve Google Play drugače morda ne bo delovala pravilno.</string>
-  <string name="install_continue">Nadaljuj namestitev</string>
+  <string name="install_continue">Namesti</string>
   <string name="install_control_cancel_install">"Ne namesti"</string>
   <string name="install_control_cancel_vip_account_install">Izhod</string>
   <string name="install_control_continue_install">Vseeno namesti</string>
@@ -220,7 +220,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="miui_failed_system_incompatible">Nekompatibilni namestitveni paket</string>
   <string name="miui_failed_update_incompatible">Konflikt s podpisom aplikacij</string>
   <string name="miui_failed_version_downgrade">"Ne morem degradirati aplikacije"</string>
-  <string name="miui_failed_version_downgrade_space">"Obstaja novejša verzija te aplikacije v Drugem prostoru. Odstranite jo v Drugem prostoru, nato jo namestite tukaj."</string>
+  <string name="miui_failed_version_downgrade_space">"Obstaja novejša verzija te aplikacije v Drugem prostoru ali Otroškem prostoru."</string>
   <string name="miui_help_feedback_label">Pomoč &amp; pov. informacija</string>
   <string name="miui_install_confirm_question">Namestim to aplikacijo?</string>
   <string name="miui_install_confirm_question_update">Prepišem obstoječo aplikacijo?</string>
