@@ -35,6 +35,7 @@
      <string name="about_lasted_version">To je zadnja verzija</string>
   <string name="accessibility_guide_second">Nato kliknite v zgornjem desnem vogalu \"Sprejmi\" za nadaljevanje.</string>
      <string name="account_add_title">Izberite ponudnika pošte</string>
+     <string name="account_cache_provider">Račun ponudnika predpomnilnika</string>
   <string name="account_duplicate_dlg_message_fmt">To uporabniško ime že uporabljate za račun \"%s\".</string>
   <string name="account_duplicate_dlg_title">Podvojeni račun</string>
   <string name="account_failure">Napaka računa</string>
@@ -416,6 +417,7 @@
   <string name="conversation_cert_info_tips">Pošiljatelj je sporočilo podpisal z varnim certifikatom</string>
   <string name="conversation_cert_info_title">Podpisano</string>
   <string name="conversation_cert_trust">Verjemi podpisu</string>
+     <string name="conversation_content_provider">Ponudnik vsebine pogovora</string>
   <string name="conversation_detail_hide">Skrij</string>
   <string name="conversation_detail_show">Podrobnosti</string>
   <string name="conversation_folder_moved">Premaknjen v %1$s</string>
@@ -566,6 +568,13 @@
   <string name="file_save_path_dialog_cancel">Razumem</string>
   <string name="file_save_path_dialog_ok">Zamenjaj zdaj</string>
   <string name="file_save_term">Pogoji shranjevanja datotek</string>
+     <string name="filter_item_all">Vsa pošta</string>
+     <string name="filter_item_cc">"Skrita kopija meni"</string>
+     <string name="filter_item_me">Pošlji meni</string>
+     <string name="filter_item_unread">Neprebrano</string>
+     <string name="filter_title_cc">"%s [Skrita kopija meni]"</string>
+     <string name="filter_title_me">%s [Pošlji meni]</string>
+     <string name="filter_title_unread">%s [Neprebrano]</string>
   <string name="filtered_tag">" [%1$s]%2$s"</string>
   <string name="first_quick_default_reply">Tapnite tipko za pošiljanje \"%s\" vsem osebam v razgovoru</string>
   <string name="float_window_content">Uporabljate poštni nabiralnik, klikni Potrdi da se samodejno popolni 139 račun e-pošte in geslo.</string>
@@ -863,6 +872,7 @@ Potrdite, ali je geslo za aplikacijo vklopljeno. Če je vklopljeno, pojdite na M
   <string name="mibill_privacy_policy_description">Dovoli Mi Wallet analiziranje in urejanje z vašimi računi samodejno. To opravilo je privzeto izključeno za delo z povezanimi naslovi e-pošte.</string>
   <string name="mibill_privacy_policy_link">"Z uporabo te storitve se strinjate z našim" &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Pogoji uporabe&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Urejaj račune samodejno</string>
+     <string name="min_payment_text">Minimalno plačilo</string>
   <string name="modify_contact_address">"Uredite e-poštne naslove stikov"</string> 
   <string name="more_context">Več</string>
   <string name="more_string">+%1$s</string>
@@ -885,6 +895,8 @@ Potrdite, ali je geslo za aplikacijo vklopljeno. Če je vklopljeno, pojdite na M
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">Najdene ni nobene aplikacije ki bi znala odpreti to priponko.</string>
   <string name="no_application_found_title">Odpri priponko.</string>
+     <string name="no_bill_discribe">"Računov ni bilo mogoče najti.
+Poskusite preklopiti na drug e-poštni račun."</string>
   <string name="no_contacts">Ni stikov.</string>
   <string name="no_content_in_body">[Ni sporočila]</string>
   <string name="no_conversations">Ni sporočil.</string>
@@ -918,6 +930,17 @@ Poskusite z ostalo pošto."</string>
   <string name="notify_channel_permission_notice">Opomnik obvestil o dovoljenju</string>
   <string name="notify_channel_send_fail">Obvesti o neuspešni dostavi</string>
   <string name="notify_channel_service">Obvesti o sinhronizaciji v ozadju</string>
+     <string name="ntes_authorization_code_to_login">Prijavite se s to kodo za preverjanje</string>
+     <string name="ntes_copy_and_login">Kopirajte in se prijavite</string>
+     <string name="ntes_do_not_sms_uplink">Pošljite SMS s povezane telefonske številke in tapnite \"Sporočilo poslano\".</string>
+     <string name="ntes_had_send">Sporočilo poslano</string>
+     <string name="ntes_had_send_to_content">"Če ste s povezane telefonske številke že poslali sporočilo SMS, tapnite \"Sporočilo poslano\" to continue."</string>
+     <string name="ntes_login_error_message" formatted="false">"Ne morem dobiti podatkov o računu (Napaka %s). %s."</string>
+     <string name="ntes_password_error_hint">"Če se med vnosom gesla pojavijo napake, zaprite to stran in jo znova odprite."</string>
+     <string name="ntes_phone_send">Pošlji besedilno sporočilo s povezane telefonske številke</string>
+     <string name="ntes_send_to">Pošlji: %s</string>
+     <string name="ntes_send_to_content">Če je vaša trenutna telefonska številka povezana z računom, tapnite \"Pošlji SMS\".</string>
+     <string name="ntes_verification_code">Vnesite kodo: %s</string>
   <string name="oauth_error_description">"Ne morem preveriti avtentičnosti"</string>
   <string name="oauth_gmail_login_notify">"Vnesite svoje uporabniško ime in geslo Google računa na naslednji strani za prijavo"</string>
   <string name="oauth_login_continue">Nadaljuj</string>
@@ -973,6 +996,7 @@ Poskusite z ostalo pošto."</string>
   <string name="overlays_tip_23">Odpri pojavna dovoljenja za Windows in uživaj ob poštnem nabiralniku da samodejno konfiguriraš ekstremno izkušnjo.</string>
   <string name="overlays_title">Odpri pojavno okno dovoljenj</string>
   <string name="parase_setup_data">Pridobivam podatke…</string>
+     <string name="parse_bill_discribe">Obdelava računov na kreditnih karticah…</string>
   <string name="parse_recognize_describe">Analiza e-pošte…</string>
   <string name="password_expire_warning_content_title">Geslo zaslona za zaklep poteče</string>
   <string name="password_expire_warning_dialog_content_fmt">Spremeniti morate PIN zaklepa zaslona ali geslo, drugače boste izgubili podatke za %s. Želite spremeniti zdaj?</string>
@@ -1033,6 +1057,8 @@ Poskusite z ostalo pošto."</string>
   <string name="photo_view_count">%1$d/%2$d</string>
   <string name="pl_select_age">Izberite starost</string>
   <string name="please_fill_in_your_mailbox_information2">Vnesite vaše podatke za račun e-pošte:</string>
+     <string name="pls_parse_bill_discribe">"Analizirajte račune in informacije o potovanju v svoji e-pošti
+da prejmete opomnike o plačilih in potovanjih"</string>
   <string name="policy_app_blacklist">Onemogoči določene aplikacije</string>
   <string name="policy_app_whitelist">Omogoči samo določene aplikacije</string>
   <string name="policy_bluetooth_restricted">Omeji Bluetooth uporabo</string>
@@ -1271,6 +1297,23 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="ser_resp_err_map_serclosed">Strežnik %s je ugasnjen</string>
   <string name="ser_resp_err_map_serclosed_info">Strežnik %s je ugasnjen.</string>
   <string name="ser_resp_err_map_ssl">"Izberite SSL/TLS (Sprejmi vse certifikate) v Vrsta varnosti</string>
+     <string name="server_cet_button">Zaupajte temu potrdilu</string>
+     <string name="server_cet_cert_data">"Obdobje veljavnosti: "</string>
+     <string name="server_cet_cert_issuer">"Izdajatelj certifikata: "</string>
+     <string name="server_cet_data">"Obdobje veljavnosti: "</string>
+     <string name="server_cet_data_exp">"Potrdilo tega strežnika je poteklo."</string>
+     <string name="server_cet_domain">"Domena: "</string>
+     <string name="server_cet_error_sug">"Poskusite tole:
+1. Povežite se z drugim omrežjem ali znova zaženite usmerjevalnik WiFi.
+2. Prepričajte se, da uporabljate veljavna potrdila."</string>
+     <string name="server_cet_error_title_1">"Potrdilo strežnika ne podpira te domene"</string>
+     <string name="server_cet_error_title_2">Potrdilo je poteklo</string>
+     <string name="server_cet_error_title_3">"Izdajatelj potrdila ni zaupanja vredna organizacija."</string>
+     <string name="server_cet_issue_to">"Izdano za "</string>
+     <string name="server_cet_issuer">"Izdal "</string>
+     <string name="server_cet_issuer_no_trust">"Izdajatelj potrdila ni zaupanja vredna organizacija."</string>
+     <string name="server_cet_subject_cn">"Podprta domena: "</string>
+     <string name="server_cet_title">Podrobnosti potrdila</string>
   <string name="service_protocol_discribe">&lt;u&gt;"Prebral sem in se strinjam z WPS Mail Pogoji uporabe"&lt;/u&gt;</string>
   <string name="service_protocol_title">Pogoji uporabe</string>
   <string name="set_network">Nastavi omrežje</string>
@@ -1295,6 +1338,8 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="silent_ringtone">Tiho</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+     <string name="single_new_message_notification_title">%1$s: %2$s</string>
+     <string name="sms_not_found_tip">Sistemske aplikacije SMS ni mogoče zagnati, ročno zaženite aplikacijo SMS in pošljite SMS za preverjanje.</string>
   <string name="sms_tip">Kontrola identitete ni uspela, preverite če je antivirusni program blokiral SMS sporočilo</string>
   <string name="smtp_password_error">Napačno geslo odhodnega strežnika</string>
   <string name="sort_attachment">Razvrsti po</string>
@@ -1437,6 +1482,7 @@ Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizira
   <string name="webview_logout">Ali res odstopate od prijave? Pridite in poskusite ponovno!</string>
   <string name="webview_logout_cancel">"Ne želim več poizkušati"</string>
   <string name="webview_logout_sure">Poizkusi še enkrat</string>
+     <string name="webview_not_found">Strani ni mogoče odpreti, ker komponente WebView ni mogoče najti.</string>
   <string name="webview_sslerror_handle_cancel">Prekini</string>
   <string name="webview_sslerror_handle_continue">Nadaljuj</string>
   <string name="webview_sslerror_handle_hitmessage">Napaka certifikata! Nadaljujem na to spletno stran (ne priporočamo)?</string>

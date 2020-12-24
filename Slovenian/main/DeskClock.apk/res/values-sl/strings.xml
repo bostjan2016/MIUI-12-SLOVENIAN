@@ -374,6 +374,7 @@
   <string name="other_category_title">Ostalo</string>
   <string name="other_settings">Dodatne nastavitve</string>
   <string name="pause">Odmor</string>
+     <string name="percentage_sign">%</string>
   <string name="personal_recommend">Priporočila osebne narave</string>
      <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
@@ -445,10 +446,10 @@
   <string name="sleep_notification_title">Čas je za posteljo</string>
   <string name="sleep_record">Spremljajte spanje</string>
   <string name="sleep_record_desc">Vključite za začetek snemanja podatkov o stanju spanja</string>
-  <string name="sleep_record_desc_detailed">Ponuja Mi Zdravje. Po vklopu Mi Zdravje samodejno beleži vaše spanje na osnovi uporabe telefona, statistike aktivnosti in časa ki ste ga nastavili (kdaj ste zaspali/se zbudili), z orikazom statistike v obliki lestvice. Za točne podatke dovolite aplikaciji samodejni zagon. Vsi povezani podatki bodo shranjeni lokalno v vaši napravi.
-</string>
-  <string name="sleep_record_no_data">Vaša statistika bo prikazana tu
-ko bo Mi Zdravje analiziral dovolj podatkov</string>
+     <string name="sleep_record_desc_detailed">"Ponuja Mi Zdravje. Po vklopu Mi Zdravje samodejno beleži vaše spanje na osnovi uporabe telefona, statistike aktivnosti in časa ki ste ga nastavili (kdaj ste zaspali/se zbudili), z orikazom statistike v obliki lestvice. Za točne podatke dovolite aplikaciji samodejni zagon. Vsi povezani podatki bodo shranjeni lokalno v vaši napravi.
+"</string>
+     <string name="sleep_record_no_data">"Vaša statistika bo prikazana tu
+ko bo Mi Zdravje analiziral dovolj podatkov"</string>
   <string name="sleep_remind">Opomnik za spanje</string>
   <string name="sleep_time">Zaspal/a</string>
   <string name="sleep_wake_time">%1$s-%2$s</string>
@@ -589,5 +590,8 @@ ko bo Mi Zdravje analiziral dovolj podatkov</string>
   <string name="worldcolock_timezone_date">dd.MM</string>
   <string name="worldcolock_timezone_gap">%s H</string>
   <string name="worldcolock_timezone_local">Isto kot lokalni čas</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">Posodobitev na voljo</string>
      <string name="yesterday">Včeraj</string>
 </resources>
