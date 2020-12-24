@@ -35,7 +35,6 @@
      <string name="about_lasted_version">To je zadnja verzija</string>
   <string name="accessibility_guide_second">Nato kliknite v zgornjem desnem vogalu \"Sprejmi\" za nadaljevanje.</string>
      <string name="account_add_title">Izberite ponudnika pošte</string>
-     <string name="account_cache_provider">Račun ponudnika predpomnilnika</string>
   <string name="account_duplicate_dlg_message_fmt">To uporabniško ime že uporabljate za račun \"%s\".</string>
   <string name="account_duplicate_dlg_title">Podvojeni račun</string>
   <string name="account_failure">Napaka računa</string>
@@ -417,7 +416,6 @@
   <string name="conversation_cert_info_tips">Pošiljatelj je sporočilo podpisal z varnim certifikatom</string>
   <string name="conversation_cert_info_title">Podpisano</string>
   <string name="conversation_cert_trust">Verjemi podpisu</string>
-     <string name="conversation_content_provider">Ponudnik vsebine pogovora</string>
   <string name="conversation_detail_hide">Skrij</string>
   <string name="conversation_detail_show">Podrobnosti</string>
   <string name="conversation_folder_moved">Premaknjen v %1$s</string>
@@ -1338,7 +1336,6 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="silent_ringtone">Tiho</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-     <string name="single_new_message_notification_title">%1$s: %2$s</string>
      <string name="sms_not_found_tip">Sistemske aplikacije SMS ni mogoče zagnati, ročno zaženite aplikacijo SMS in pošljite SMS za preverjanje.</string>
   <string name="sms_tip">Kontrola identitete ni uspela, preverite če je antivirusni program blokiral SMS sporočilo</string>
   <string name="smtp_password_error">Napačno geslo odhodnega strežnika</string>
