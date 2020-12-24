@@ -218,7 +218,7 @@
   <string name="permission_imei_disable_desc">Dovolite da se ta aplikacija poveže na splet.</string>
   <string name="permission_imei_enable_desc">Dovolite da se ta aplikacija poveže na splet in odobrite zgoraj navedena obvezna dovoljenja.</string>
   <string name="permission_location_introduce">Za prikaz bližnjih servisnih točk</string>
-    <string name="permission_main_purpose">Prikaz predstavitvenih storitev MIUI, pošiljanje povratnih informacij in prijava na poprodajne storitve.</string>
+    <string name="permission_main_purpose">Prikaz predstavitvenih storitev MIUI, pošiljanje povratnih informacij in prijava na storitve po prodaji.</string>
     <string name="permission_privacy">Pravilnik o zasebnosti (obvezno)</string>
     <string name="permission_region_version_msg">&lt;Data>Pred uporabo \"Storitve in povratne informacije\", morate prebrati in se strinjati z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravilnik o zasebnosti&lt;/a>.&lt;/Data></string>
     <string name="permission_select_all">Izberite vse</string>

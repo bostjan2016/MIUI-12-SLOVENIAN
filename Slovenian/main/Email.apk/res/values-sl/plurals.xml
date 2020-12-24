@@ -130,8 +130,7 @@
      </plurals>
 	 <plurals name="confirm_delete_draft">
         <item quantity="other">Izbrišem skice: %1$d</item>
-	<item quantity="one">Izbrišem %1$d skico?</item>
-     </plurals>
+	    <item quantity="one">Izbrišem %1$d skico?</item>
     </plurals>
     <plurals name="hide_atts_remaining">
         <item quantity="other">Skrij priponke: %1$d</item>
