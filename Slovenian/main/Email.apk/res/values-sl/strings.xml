@@ -1384,7 +1384,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="three_day">3 dni</string>
   <string name="tip_cannot_switchview_in_unread_folder">Ne morem spremeniti način prikaza neprebrane pošte</string>
   <string name="title_activity_about">O aktivnosti</string>
-  <string name="to">Do</string>
+  <string name="to">Za</string>
   <string name="to_heading">"Za:"</string>
   <string name="toast_bar_fail_synchronization">"Ne morem se povezati z omrežjem"</string>
   <string name="toast_bar_insufficient_memory_space">Ni dovolj prostora za shrambo</string>
