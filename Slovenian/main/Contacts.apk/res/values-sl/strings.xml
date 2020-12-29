@@ -92,6 +92,7 @@
      <string name="bh_app_name">Mi storitve operaterja</string>
      <string name="bh_app_name_short">Storitve operaterja</string>
      <string name="bh_b">B</string>
+     <string name="bh_back">Nazaj</string>
      <string name="bh_bill_balance">Stanje</string>
      <string name="bh_bill_charge">Napolnite bon</string>
      <string name="bh_bugreport">Poslovne povratne informacije</string>
@@ -107,6 +108,7 @@
      <string name="bh_charged_phone_number">Številka telefona: %1$s</string>
      <string name="bh_close_traffic_package">Zapri podrobnosti načrta mobilnega operaterja</string>
      <string name="bh_cmcc">China Mobile</string>
+     <string name="bh_confirm">V redu</string>
      <string name="bh_contact_number">%1$s iz vaših stikov</string>
      <string name="bh_ct">China Telecom</string>
      <string name="bh_cu">China Unicom</string>
@@ -1108,7 +1110,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"<
   <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">Ni uspelo</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je za zdaj vse"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>

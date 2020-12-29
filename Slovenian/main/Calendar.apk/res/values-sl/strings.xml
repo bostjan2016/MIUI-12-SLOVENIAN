@@ -516,8 +516,8 @@
   <string name="more_string">+%1$d</string>
   <string name="morning">AM</string>
      <string name="movie_event_delete_successfully">Vstopnica za film je bila uspešno izbrisana</string>
-  <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
-  <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
+  <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
+  <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Več kot %1$d novih obvestil</string>
   <string name="mtrl_picker_a11y_next_month">Zamenjaj na naslednji mesec</string>
   <string name="mtrl_picker_a11y_prev_month">Zamenjaj na prejšnji mesec</string>

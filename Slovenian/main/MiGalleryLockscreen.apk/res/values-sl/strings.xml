@@ -349,7 +349,7 @@ dd.MM"</string>
 dd.MM"</string>  
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ni podatkov</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
@@ -693,7 +693,7 @@ dd.MM"</string>
   <string name="pull_to_refresh_loading_label">Samo trenutek…</string>
   <string name="pull_to_refresh_pull_down_label">Podrsaj dol za osvežitev</string>
   <string name="pull_to_refresh_pull_up_label">Podrsaj gor za osvežitev</string>
-  <string name="pull_to_refresh_refreshing_label">Osvežavanje…</string>
+  <string name="pull_to_refresh_refreshing_label">Osveževanje…</string>
   <string name="pull_to_refresh_release_label">Spusti za osvežitev</string>
   <string name="recommend_switch_desc">Prejem priporočil na osnovi vaših zanimanj</string>
   <string name="recommend_switch_dlg_close">Izključi</string>

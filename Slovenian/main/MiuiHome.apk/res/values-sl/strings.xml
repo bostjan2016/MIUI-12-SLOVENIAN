@@ -337,8 +337,11 @@
   <string name="home_screen_settings">Zač. zaslon</string>
   <string name="home_slide_up_action">Podrsajte gor na zač. zaslonu</string>
   <string name="home_switch_personal_assistant">-1 ZASLON</string>
+     <string name="icon_customize_summary">Izberite stil in prilagodite velikost</string>
+     <string name="icon_form">Ikone</string>
   <string name="icon_reorganize_channel">Razpored ikon</string>
   <string name="icon_size">Velikost ikon</string>
+     <string name="icon_style">Stil</string>
   <string name="image_too_small_message">"Izbrana slika ni dovolj velika"</string>
   <string name="install">Namesti</string>
   <string name="invalid_contact_shortcut">Napačen stik</string>
@@ -402,7 +405,7 @@
   <string name="miui_screen_config_title">Nastavitve zač. zaslona</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ni podatkov</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
@@ -535,6 +538,8 @@
   <string name="recommend_refresh">Osveži</string>
   <string name="recommend_xout">"Ne kaži"</string>
   <string name="refresh">Osveži</string>
+     <string name="remove_dialog_message">Izbrane aplikacije vsebujejo osnovne značilnosti sistema. Odstranite lahko le njihove bližnjice na zač. zaslonu.</string>
+     <string name="remove_dialog_title_format">Odstranim \"%s\" iz zač. zaslona?</string>
   <string name="remove_invalidate_gadget_tips">Eden od uporabljanih pripomočkov ni več na voljo. Lahko dodate kakega drugega.</string>
   <string name="reset_cate_tip_content">Če nadaljujete bodo vrnjene privzete skupine . Nadaljujem?</string>
   <string name="reset_cate_tip_title">Vrni privzete skupine</string>

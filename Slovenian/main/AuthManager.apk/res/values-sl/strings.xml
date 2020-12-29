@@ -354,7 +354,9 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
   <string name="app_name">Dovoljenja</string>
   <string name="background_location_access_reminder_notification_content">Ta aplikacija lahko zmeraj dostopa do vaše lokacije. Tapnite za spremembo.</string>
   <string name="background_location_access_reminder_notification_title">%s uporablja vašo lokacijo</string>
+     <string name="blur_location_is_on_tip">%1$s je začel/a storitev približne lokacije. Želite obdržati storitev približne lokacije vključeno?</string>
      <string name="blur_location_now_tip">Približna lokacija je vključena</string>
+     <string name="blur_location_title">Približna lokacija</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="clipboard_ai_allow_once">Dovoljeno %1$s samodejni dostop do stvari v odložišču</string>
      <string name="clipboard_data">Stvari v odložišču</string>
@@ -376,6 +378,8 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="go_behavior_record">Zgodovina obnašanja aplikacij</string>
      <string name="go_perm_manager">Urejanje dovoljenj</string>
      <string name="go_setting">Nastavitve</string>
+     <string name="gold_master_dialog_reject">Zavrni (%d)</string>
+     <string name="gold_master_dialog_title">%1$s želi prebrati odložišče</string>
   <string name="grant_confirm_question">Želite odobriti ta dovoljenja? Omogočen bo dostop:</string>
   <string name="grant_dialog_button_allow">Dovoli</string>
   <string name="grant_dialog_button_allow_always">Dovoli ves čas</string>
@@ -389,6 +393,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="grant_dialog_storage_category_title">Ta aplikacija zahteva dovoljenja za dostop do Galerije in sporočil v aplikacijah za družabna omrežja</string>
      <string name="grant_dialog_storage_gallery_title">Galerija</string>
      <string name="grant_dialog_storage_sociality_title">Sporočila v aplikacijah za družabna omrežja</string>
+     <string name="keep_blur_location">Obdrži vključeno</string>
      <string name="keep_notice_me">Nadaljuj obveščanje</string>
   <string name="location_settings">Nastavitve lokacije</string>
   <string name="location_warning">%1$s je ponudnik storitve lociranja za to napravo. Dostop do lokacije lahko spremenite v nastavitvah lokacije.</string>
@@ -400,13 +405,16 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="miuix_appcompat_cancel_description">Prekliči</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je za zdaj vse"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>

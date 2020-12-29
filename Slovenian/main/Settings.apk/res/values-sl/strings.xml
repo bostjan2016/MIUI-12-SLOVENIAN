@@ -5320,7 +5320,7 @@ Nadaljujte k dodatnim nastavitvam."</string>
   <string name="miui_wifi_wakeup_summary">WiFi se samodejno vklopi, ko naprava zazna shranjena omrežja v bližini, in se po 15 minutah izklopi, če povezava ni vzpostavljena</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ni podatkov</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>

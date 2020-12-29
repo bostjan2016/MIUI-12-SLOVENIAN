@@ -24,6 +24,10 @@
         <item quantity="other">Opomnikov: %d</item>
         <item quantity="one">Opomnik: %d</item>
     </plurals>
+	<plurals name="dirty_note_count_v2">
+        <item quantity="other">Beležk: %d</item>
+        <item quantity="one">%d beležka</item>
+    </plurals>
     <plurals name="dirty_image_count">
         <item quantity="other">Fotografij: %d</item>
         <item quantity="one">Fotografija: %d</item>

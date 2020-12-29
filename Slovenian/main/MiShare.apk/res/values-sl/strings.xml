@@ -117,7 +117,7 @@ OPPO, vivo, realme in druge znamke pa bodo kmalu podprte z Mi Share. Spisek napr
   <string name="mishare_transefer_channel_desc">Obvesti o poslanih in prejetih izdelkih z Mi Share</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je za zdaj vse"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>

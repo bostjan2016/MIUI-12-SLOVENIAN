@@ -263,7 +263,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="miui_virus_title">Visoko tveganje</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Ni podatkov</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>

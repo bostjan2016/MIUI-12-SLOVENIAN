@@ -323,7 +323,7 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="micloud_space_soundrecorder_title">Avdio posnetki</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je za zdaj vse"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>

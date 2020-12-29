@@ -67,6 +67,10 @@
         <item quantity="other">Izbrano: %1$d</item>
         <item quantity="one">Izbrano: %1$d</item>
     </plurals>
+	     <plurals name="remove_dialog_title_multi_format">
+        <item quantity="other">Odstranim %1$d aplikacij iz zač. zaslona?</item>
+        <item quantity="one">Odstranim %1$d aplikacijo iz zač. zaslona?</item>
+    </plurals>
 	<plurals name="uninstall_dialog_title_multi_format">
         <item quantity="other">Odstranim toliko %1$d aplikacij?</item>
         <item quantity="one">Odstranim %1$d aplikacijo?</item>

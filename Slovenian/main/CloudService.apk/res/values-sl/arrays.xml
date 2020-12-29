@@ -158,4 +158,21 @@
         <item>Izdelajte var. kopije pomembnih nastavitev vključno z WiFi in zaslonom</item>
         <item>"Če je naprava izgubljena jo zaklenite na daljavo"</item>
     </string-array>
+     <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Sinhronizirajte svoje stike, sporočila, beležke, koledar in še več</item>
+        <item>Napravite var. kopije aplikacij, videz zač. zaslona in ozadja</item>
+        <item>Napravite var. kopije važnih stvari, vključno WiFi in zaslon</item>
+        <item>"Napravo zaklenite na daljavo, če jo izgubite"</item>
+     </string-array>
+     <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Sinhronizirajte svoje stike, sporočila, beležke, koledar in še več</item>
+        <item>Napravite var. kopije aplikacij, videz zač. zaslona in ozadja</item>
+        <item>Napravite var. kopije važnih stvari, vključno WiFi in zaslon</item>
+        <item>"Napravo zaklenite na daljavo, če jo izgubite"</item>
+     </string-array>
+     <string-array name="settings_search_notes_v2">
+        <item>Sinhr. beležke z Mi Cloudom</item>
+        <item>Vključi sinhr.</item>
+        <item>Beležke;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
 </resources>
