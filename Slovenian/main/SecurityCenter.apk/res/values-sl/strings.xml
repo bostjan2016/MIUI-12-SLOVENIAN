@@ -241,6 +241,10 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_behavior_about_content_no_link">"MIUI lahko pokaže ko so aplikacije zagnale druge aplikacije, se samod. zagnale, uporabile dovoljenja in vršile občutljiva opravila. Zaradi problemov z kompatibilnostjo verzije Androida morda kateri od zapisov niso točni. Če najdete napako nam jo prijavite preko aplikacije \"Storitve &amp; Povratna inf.\"."</string>
   <string name="app_behavior_about_negative">Prijavite nepravilnosti</string>
   <string name="app_behavior_about_positive">Razumem</string>
+     <string name="app_behavior_access_gallery">%1s je dostopal-a do Galerije</string>
+     <string name="app_behavior_access_gallery_single">Ta aplikacija je dostopala do Galerije</string>
+     <string name="app_behavior_access_sociality">%1s dostopal-a do sporočil v aplikacijah družabnih omrežij</string>
+     <string name="app_behavior_access_sociality_single">Ta aplikacija je dostopala do sporočil v aplikacijah družabnih omrežij</string>
   <string name="app_behavior_allowed">Dovoli</string>
   <string name="app_behavior_audio">%1s je posnel(a) zvok</string>
   <string name="app_behavior_audio_bg">%1s je posnel(a) zvok v ozadju</string>
@@ -274,6 +278,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_behavior_contacts_bg">%1s je dostopal(a) do stikov v ozadju</string>
   <string name="app_behavior_contacts_bg_single">Aplikacija je dostopala do stikov v ozadju</string>
   <string name="app_behavior_contacts_single">Aplikacija je dostopala do stikov v ozadju</string>
+     <string name="app_behavior_delete_pic">%1s je izbrisal-a stvari iz galerije</string>
+     <string name="app_behavior_delete_pic_single">Ta aplikacija je izbrisala stvari iz Galerije</string>
   <string name="app_behavior_denied">Zavrni</string>
   <string name="app_behavior_desc_allow_once">Dovoljeno %1$s</string>
   <string name="app_behavior_desc_deny_once">Zavrnjeno %1$s</string>
@@ -1228,6 +1234,14 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="dialog_roaming_warning_checkbox">"Ne kaži več"</string>
   <string name="dialog_roaming_warning_message">Po vklopu podatkovnega gostovanja vam bo operater morda zaračunal nadomestilo. Vključim vseeno?</string>
   <string name="dialog_roaming_warning_ok">Vključi</string>
+     <string name="dialog_skt_roaming_warning_cancel">Ne strinjam se</string>
+     <string name="dialog_skt_roaming_warning_message">"Spodaj preberite in sprejmite pogoje za podatkovno gostovanje. Lahko se zaračunajo stroški mednarodnega podatkovnega gostovanja. Brez podatkovnega gostovanja lahko za aplikacije, ki se samodejno posodabljajo, na primer za družabno omrežje, e-pošto in vremenske razmere, nastanejo znatni stroški.
+ * Če se ne strinjate s podatkovnim gostovanjem, bo podatkovno gostovanje onemogočeno.
+ * HD Voice se uporablja kot privzeto v podprtih omrežjih.
+ * 5G podatkovno gostovanje je na voljo samo v naših partnerskih omrežjih.
+"</string>
+     <string name="dialog_skt_roaming_warning_ok">Strinjam se</string>
+     <string name="dialog_skt_roaming_warning_title">Pogodba o podatkovnem gostovanju</string>
   <string name="dialog_title_attention">Pozor</string>
   <string name="dialog_title_auto_start_declare">O samodejnem zagonu</string>
   <string name="dialog_title_stop_paysafety_scan">Stop</string>
@@ -1404,6 +1418,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="face_unlock_verity_dialog_summary">Preverite podatke vašega obraza</string>
   <string name="face_unlock_verity_dialog_title_failed">"Ne morem vas prepoznati"</string>
   <string name="face_unlock_verity_dialog_title_succeed">Uspešno preverjeno</string>
+     <string name="file_confirm_start_activity">"%s ne sme imeti dostopa do vaše galerije in aplikacij za družabna omrežja. Ta aplikacija želi dostopati do datotek, shranjenih v tej napravi za skupno rabo stvari. Dovolim?"</string>
   <string name="finger_remind_message">Lahko uporabite prstni odtis za zakl. aplikacij</string>
   <string name="fingerprint_identify_msg">Preverjanje prstnega odtisa…</string>
   <string name="fingerprint_not_identified_msg">Da odklenete napravo vnesite svoje geslo.</string>
@@ -3624,6 +3639,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="protection_category_security_title">Očisti (%d)</string>
   <string name="protocol_exception_title">Diagnostika protokola omrežja</string>
   <string name="protocol_loop_back_exception_summary">Test Lokalne povratne pentlje ni uspel. Da prijavite MIUI-ju to težavo pojdite v aplikacijo Povratne informacije in pošljite poročilo s svoje naprave..</string>
+     <string name="provision_back">Nazaj</string>
+     <string name="provision_next">Naprej</string>
+     <string name="provision_skip_underline">Preskoči</string>
   <string name="qucick_replay_instrument">Uporabite hitre odgovore v obvestilih izbranih aplikacij (npr. WhatsApp, WeChat, QQ)</string>
   <string name="quick_optimize_checking">Preverjanje</string>
   <string name="quick_optimize_no_fix_issue_subtitle">"Ne morem podaljšati dobo trajanja baterije"</string>
@@ -3644,6 +3662,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="reach_daily_limit_value_title">Dosežena omejitev dnevnih podatkov</string>
   <string name="read_all_sms">Preberi vse</string>
   <string name="read_and_write_clipboard">Dostop do stvari in shranjevanje v odložišče</string>
+     <string name="read_clipboard_ai_action_desc">Prejemajte obvestila, kadar koli je dostop dovoljen ali omejen</string>
   <string name="read_clipboard_ai_close_no">Ne zdaj</string>
   <string name="read_clipboard_ai_close_tip">"Ko aplikacije dostopajo do odložišča, ne boste več prejemali obvestil. Namesto tega jim bo dovoljena uporaba tega dovoljenja samo med uporabo aplikacije. Prilagodim dovoljenja?"</string>
   <string name="read_clipboard_ai_close_yes">Prilagodi</string>
@@ -3653,6 +3672,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="read_clipboard_tip_title">Dostop do stvati v odložišču</string>
   <string name="read_number">86 stvari</string>
   <string name="read_unit">" stvari"</string>
+     <string name="real_location_off">Približna lokacija je vključena</string>
+     <string name="real_location_on">Približna lokacija je izključena</string>
   <string name="receive_now">Prejmi</string>
   <string name="recently_reject_message">Zavrnjena namestitev (%1$s) in drugih aplikacij (%2$d)</string>
   <string name="recently_reject_message_one">Zavrnjena (%1$s) zahteva za namestitev</string>

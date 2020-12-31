@@ -723,6 +723,10 @@
      <plurals name="gb_signed_days_sum">
         <item quantity="other">Prijavljeno %d dni zapored</item>
         <item quantity="one">Prijavljeno %d krat</item>
+     </plurals>
+     <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"Poskusite Voice Changeer takoj 
+da boste dobili %d-dnevno brezplačno poskusno obdobje"</item>
 	</plurals>
      <plurals name="gb_voice_changer_trial_gain_fail">
         <item quantity="other">"Ne morem dobiti %d-dnevni brezplačni preizkus"</item>
@@ -757,6 +761,10 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
      <plurals name="image_protect_try_del_tips">
         <item quantity="other">Izbriši %d slik</item>
         <item quantity="one">Izbriši %d sliko</item>
+     </plurals>
+     <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Povežite najmanj %s točk</item>
+        <item quantity="one">Povežite najmanj %s točko</item>
      </plurals>
      <plurals name="power_center_battery_charge_number">
         <item quantity="other">krat</item>
@@ -857,5 +865,13 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
      <plurals name="notification_power_consume_suggest">
         <item quantity="other">Optimizirajte %d stvari za varčevanje baterije</item>
         <item quantity="one">Optimizirajte %d stvar za varčevanje baterije</item>
+     </plurals>
+     <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Povežite najmanj %s točk</item>
+        <item quantity="one">Povežite najmanj %s točko</item>
+     </plurals>
+     <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Vnesite %s številk</item>
+        <item quantity="one">Vnesite %s številko</item>
      </plurals>
 </resources>

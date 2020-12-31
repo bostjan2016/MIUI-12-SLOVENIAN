@@ -113,8 +113,8 @@
   <string name="bind_weibo_description">"Dodaj svoje prijatelje iz Sina Wiebo</string>
   <string name="bind_weixin">Povežite svoj WeChat račun</string>
   <string name="binded">Dodan</string>
-  <string name="binded_description" formatted="false">%s je povezan na vaš Mi Računu.
-Vaš profil je bil posodobljen z informacijami iz vašega %s Računa .</string>
+     <string name="binded_description" formatted="false">"%s je povezan na vaš Mi Računu.
+Vaš profil je bil posodobljen z informacijami iz vašega %s Računa ."</string>
   <string name="button_unbind">Prekini povezavo</string>
   <string name="change_activate_email">Zamenjaj naslov e-pošte</string>
   <string name="change_email_address">Zamenjaj naslov e-pošte</string>
@@ -210,6 +210,7 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa .</string>
   <string name="diagnosis_log_sent_format">"Dnevniki pregledov so poslani.
 ID:%s
 Pošaljite to kodo našemu tehniku."</string>
+     <string name="download_file">Prenos %s…</string>
   <string name="empty_device_list_notice">Ni naprave</string>
   <string name="ep_unsupported">Ne morem se prijaviti v Mi Račun na vaši napravi</string>
   <string name="error_dup_binded_email">Ta naslov e-pošte je že povezan z drugim Mi Računom.</string>
@@ -275,8 +276,8 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="i_agree">V redu</string>
   <string name="i_agree_continue">Nadaljuj</string>
   <string name="identity">Identifikacija</string>
-  <string name="inconsistent_pwd">"Gesla se ne ujemajo"</string>
   <string name="ignore">Ne zdaj</string>
+     <string name="inconsistent_pwd">"Gesla se ne ujemajo"</string>
   <string name="input_email_address_notice">"Ta naslov e-pošte bo uporabljen za potrjevanje vašega računa"</string>
   <string name="input_new_pwd">Vnesite novo geslo</string>
   <string name="io_error_title">Potrdite vaše omrežje</string>
@@ -323,8 +324,8 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"V tem primeru se bodo vsi podatki sinhronizirali na vaš Drugi prostor. Da se ognete temu ne vključujte sinhronizacije z Mi Cloudom"</string>
   <string name="multi_user_not_show_sync_activity_title">"Ne vključujte sinhronizacijo z Mi Cloudom"</string>
   <string name="my_device_title">Trenutna naprava</string>
-  <string name="need_install_wechat">Najprej namestite WeChat</string>
   <string name="my_favorite">Moji priljubljeni</string>
+     <string name="need_install_wechat">Najprej namestite WeChat</string>
   <string name="no_network_btn">Osveži</string>
   <string name="no_network_title">"Ne morem se povezati z omrežjem."</string>
   <string name="no_phone">Ni številke telefona</string>
@@ -464,6 +465,7 @@ ki ste ga prejeli v vaš poštni predal
   <string name="passport_login_instead_reg_with_email">Uporabi ta Email</string>
   <string name="passport_login_notice">Vpisujem se...</string>
   <string name="passport_login_other_account">Drugi račun</string>
+     <string name="passport_login_other_phone">Uporabite drugi račun</string>
   <string name="passport_login_prompt">Vse Mi storitve. En Mi Račun.</string>
   <string name="passport_login_recycle_account_no">Ne</string>
   <string name="passport_login_recycle_account_yes">Da</string>
@@ -484,6 +486,7 @@ ki ste ga prejeli v vaš poštni predal
   <string name="passport_prev">Nazaj</string>
   <string name="passport_privacy_policy">Pravilnik o zasebnosti</string>
   <string name="passport_privacy_policy_required">Pravila o zasebnosti (obvezno)</string>
+     <string name="passport_provision_input_email_register_prompt">Vaši osebni podatki bodo shranjeni v skladu z zakoni in predpisi regije, ki jo izberete.</string>
   <string name="passport_pwd_generate_failure">"Ne morem generirati gesla"</string>
   <string name="passport_pwd_generating">Generiranje…</string>
   <string name="passport_querying_phone_info">Povpraševanje po podatkih o računu…</string>
@@ -523,6 +526,7 @@ ki ste ga prejeli v vaš poštni predal
   <string name="passport_register_restricted_title">"Ne morem uporabiti te številke telefona"</string>
   <string name="passport_register_using_other_ways">Ostali načini registriranja</string>
   <string name="passport_registered_phone_num">Telefon: %s</string>
+     <string name="passport_registered_phone_num_v2">Številka telefona</string>
   <string name="passport_registered_phone_user_ID">ID uporabnika: %s</string>
   <string name="passport_registered_phone_user_name">Uporabniško ime: %s</string>
   <string name="passport_reject_recycle_account">Ne</string>
@@ -558,6 +562,10 @@ ki ste ga prejeli v vaš poštni predal
   <string name="passport_sms_verification_code_login_or_register">Prijavite se ali napravite račun s pomočjo SMS-a</string>
   <string name="passport_sync_account_data">Sinhr. podrobnosti računa…</string>
   <string name="passport_sync_account_data_failed_warning">Podatki o računu se trenutno sinhronizirajo, lahko se prijavite s pomočjo svojega ID Mi Računa. Če se želite prijaviti preko telefona ali e-pošte, počakajte da se informacije pololnoma sinhronizirajo.</string>
+     <string name="passport_talkback_image_captcha">Slikovna kontrolna koda</string>
+     <string name="passport_talkback_switch_image_captcha">Preklopite na slikovno kontrolno kodo</string>
+     <string name="passport_talkback_switch_voice_captcha">Preklopite na glasovno kontrolno kodo</string>
+     <string name="passport_talkback_voice_captcha">Predvajaj glasovno kontrolno kodo</string>
   <string name="passport_ticket_login_select_sim_card">Izberite SIM kartico</string>
   <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
   <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
@@ -607,6 +615,9 @@ ki ste ga prejeli v vaš poštni predal
   <string name="phone_num_use_for">Telefonska številka se uporablja za:</string>
   <string name="photoPickerNotFoundText">Ni dostopnih fotografij.</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
+     <string name="provision_back">Nazaj</string>
+     <string name="provision_next">Naprej</string>
+     <string name="provision_skip_underline">Preskoči</string>
   <string name="push_notification_content">Pridobite kodo</string>
   <string name="push_notification_title">Prijavili ste se na svoj Mi Račun iz neznane naprave</string>
   <string name="push_notify_dialog_message">"Neznana naprava se poskuša prijaviti na vaš Mi Račun. Vnesite kontrolno kodo v napravi. Če to niste bili vi, takoj zamenjajte geslo Mi Računa. Kontrolno kodo ne zaupajte nikomur."</string>

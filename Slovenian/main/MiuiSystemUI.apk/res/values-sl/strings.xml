@@ -1299,9 +1299,9 @@ prednostno"</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Kartica SIM je trajno onemogočena.
  Obrnite se na operaterja za drugo."</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Neuporabna kartica SIM.</string>
-    <string name="keyguard_plugged_in">Polnjenje</string>
-    <string name="keyguard_plugged_in_charging_fast">Hitro polnjenje</string>
-    <string name="keyguard_plugged_in_charging_slowly">Počasno polnjenje</string>
+    <string name="keyguard_plugged_in">%s • Polnjenje</string>
+    <string name="keyguard_plugged_in_charging_fast">%s • Hitro polnjenje</string>
+    <string name="keyguard_plugged_in_charging_slowly">%s • Počasno polnjenje</string>
      <string name="keyguard_plugged_in_wireless">%s • brezžično polnjenje</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Hitro polnjenje. Tapnite za podrobnosti.</string>
     <string name="keyguard_retry">Podrsajte navzgor za vnovičen poskus</string>
@@ -1663,6 +1663,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="no_sim_card">Ni SIM kartice</string>
   <string name="no_tiles_add">Ni ploščic za dodajanje</string>
   <string name="no_weather_description">Pridobivanje podatkov o vremenu &gt;</string>
+     <string name="not_default_data_content_description">Ni nastavljeno za uporabo podatkov</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="not_support_multi_window">"Trenutna aplikacija ne podpira deljenega zaslona"</string>
   <string name="notch_sos_status_bar_title">SOS</string>

@@ -265,7 +265,6 @@ Pošljite to kodo nadzorniku."</string>
   <string name="file_too_large">Datoteka je prevelika za prenos.</string>
   <string name="file_upload_dialog_cancel">Prekliči</string>
   <string name="file_upload_dialog_title">Izberi kategorijo</string>
-  <string name="h5_ppt_to_pdf_introduce_title">O pretvarjanju diapozitivov v PDF</string>
   <string name="files">Datoteke</string>
   <string name="find_psw">Pozabljeno geslo</string>
   <string name="finished">Končano</string>
@@ -280,6 +279,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="get_phone_verifycode_exceed_limit">Na to številko je bilo poslanih preveč potrditvenih kod. Počakajte 24 ur in poskusite znova.</string>
   <string name="gigabyteShort">GB</string>
   <string name="goto_sign_up">Napravi račun</string>
+     <string name="h5_ppt_to_pdf_introduce_title">O pretvarjanju diapozitivov v PDF</string>
   <string name="i_know">Razumem</string>
   <string name="identity">Identifikacija</string>
   <string name="image_loading_error">"Ne morem prenesti slike"</string>
@@ -408,11 +408,11 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="operation_pause_all">Zaustavi vse</string>
   <string name="operation_refresh">Osveži</string>
   <string name="operation_rename">Preimenuj</string>
-  <string name="operation_save">Shrani</string>
   <string name="operation_rename_message">Preimenuj mapo</string>
   <string name="operation_renaming">Preimenovanje…</string>
   <string name="operation_resume">Začni</string>
   <string name="operation_resume_all">Nastavi vse</string>
+     <string name="operation_save">Shrani</string>
   <string name="operation_send">Pošlji</string>
   <string name="operation_sure_to_delete">Izbrišem zdaj?</string>
   <string name="operation_task_manage">Pokaži prenose</string>
@@ -697,6 +697,9 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="warning_bar_title_cloud_space_full">"Shranjevanje v oblaku je polno. Ne morem sinhronizirati fotografije, zgodovino klicev ali druge stvari."</string>
   <string name="xiaomi_drive_description_content">Mi Drive je orodje za spletno shranjevanje ki omogoča shranjevanje datotek na spletu in sprostitev prostora na vaši napravi. Ali prekinem z uporabo Mi Drive?</string>
   <string name="xiaomi_drive_description_title">O Mi Drive aplikaciji</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">Na voljo je posodobitev</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yesterday">Včeraj</string>
 </resources>
