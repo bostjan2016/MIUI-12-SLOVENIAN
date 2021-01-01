@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="acc_category_color_description">
+        <item>Bela</item>
+        <item>Temno modra</item>
+        <item>Svetlo modra</item>
+        <item>Rdeča</item>
+        <item>Zelena</item>
+        <item>Pink</item>
+        <item>Rjava</item>
+        <item>Siva</item>
+     </string-array>
+     <string-array name="acc_magic_matting_background_description">
+        <item>Izberite sliko</item>
+        <item>Prozorno ozadje</item>
+     </string-array>
     <string-array name="activities_title">
         <item>Poseben dan</item>
         <item>Dan za zapomnit</item>
@@ -23,7 +37,129 @@
         <item>Zadnji četrtek</item>
         <item>Zadnji petek</item>
      </string-array>
-	  <string-array name="holiday_last_year">
+	<string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Prosti čas</item>
+        <item>Morski vetrič</item>
+        <item>Sanje</item>
+        <item>Oblaki</item>
+        <item>Misli</item>
+        <item>Popki</item>
+        <item>Metamorfoza</item>
+        <item>Globina</item>
+        <item>Razmišljanja</item>
+        <item>Minimalistično</item>
+        <item>Uganka</item>
+        <item>Megla</item>
+     </string-array>
+	 <string-array name="magic_effects_description">
+        <item>Ozadja spremenite v skice</item>
+        <item>Ozadja v stilu akvarela</item>
+        <item>Cyberpunk retro</item>
+        <item>Napačno postavljeni vertikalni segmenti</item>
+        <item>Nejasna zamegljenost</item>
+        <item>Futuristični občutek</item>
+     </string-array>
+	 <string-array name="magic_effects_title">
+        <item>Skica</item>
+        <item>Akvarel</item>
+        <item>RGB</item>
+        <item>Rolete</item>
+        <item>Megleno okno</item>
+        <item>Tech</item>
+     </string-array>
+     <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Obarvani obris</item>
+        <item>Neprekinjen obris</item>
+        <item>Fluorescenten obris</item>
+        <item>Senca v barvi</item>
+        <item>Električni val</item>
+        <item>Trenutno</item>
+        <item>Besedilo</item>
+        <item>Krila</item>
+     </string-array>
+     <string-array name="magic_idp_size_category">
+        <item>Splošno</item>
+        <item>Potovanje</item>
+        <item>Delo</item>
+        <item>Dokumenti</item>
+        <item>Izobraževanje</item>
+        <item>Izpiti</item>
+     </string-array>
+     <string-array name="magic_idp_size_category_certificates">
+        <item>Socialna varnost</item>
+        <item>Izjava o zdravju</item>
+        <item>Zdravstveno Zavarovanje</item>
+        <item>ID</item>
+        <item>Dovoljenje za bivanje</item>
+     </string-array>
+     <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>En cun</item>
+        <item>Dva cuna</item>
+        <item>Manjši en cun</item>
+        <item>Manjša dva cuna</item>
+     </string-array>
+     <string-array name="magic_idp_size_category_education">
+        <item>Prijava za sprejem</item>
+        <item>Mreža učencev</item>
+        <item>Mreža učencev za osnovne šole</item>
+        <item>Profil študentske mreže</item>
+        <item>Vpis na univerzo</item>
+        <item>NCEE</item>
+        <item>Nadaljuj</item>
+     </string-array>
+     <string-array name="magic_idp_size_category_examination">
+        <item>Preizkus angleškega jezika 1</item>
+        <item>Preizkus angleškega jezika 2</item>
+        <item>Preizkus angleškega jezika 3</item>
+        <item>Preskus usposobljenosti za klic PU 1</item>
+        <item>Preskus usposobljenosti za klic PU 2</item>
+        <item>Stopnja angleškega testa</item>
+        <item>PET za fakultete</item>
+        <item>PET Stopnja 3</item>
+        <item>Državni računalniški izpit 1</item>
+        <item>Državni računalniški izpit 2</item>
+     </string-array>
+     <string-array name="magic_idp_size_category_profession">
+        <item>Potrdilo učitelja za osnovno in srednjo šolo</item>
+        <item>Certifikat učiteljev</item>
+        <item>"Vozniško dovoljenje"</item>
+        <item>Dovoljenje za vodiča</item>
+        <item>Dovoljenje za elektronski vodnik</item>
+        <item>Državni sodni izpit</item>
+        <item>Elektronsko prvovrstno potrdilo konstruktorja</item>
+        <item>Potrdilo drugorazrednega konstruktorja</item>
+        <item>Izpit za mladi računovodski naslov</item>
+        <item>Certificiran javni računovodja</item>
+        <item>Dovoljenje vodiča za Peking</item>
+        <item>Srednji knjigovodski izpit</item>
+        <item>Izpit za naziv višjega računovodstva</item>
+        <item>Potrdilo o računovodski usposobljenosti</item>
+        <item>Izpit za pooblaščenega računovodjo</item>
+     </string-array>
+     <string-array name="magic_idp_size_category_visa">
+        <item>ZDA</item>
+        <item>Vietnam</item>
+        <item>Japonska</item>
+        <item>Hong Kong in Macau</item>
+        <item>Južna Koreja</item>
+        <item>Tajska (turist)</item>
+        <item>Tajska (ob prihodu)</item>
+        <item>Indija</item>
+        <item>Izrael</item>
+        <item>Tajvan</item>
+        <item>Malezija</item>
+        <item>Nova Zelandija</item>
+        <item>Italija</item>
+        <item>Argentina</item>
+        <item>Brazilija</item>
+        <item>Islandija</item>
+        <item>Kenija</item>
+     </string-array>
+	<string-array name="holiday_last_year">
         <item>"Zadnje Novo leto"</item>
         <item>"Zadnje Valentinovo"</item>
         <item>Zadnji Dan dela</item>

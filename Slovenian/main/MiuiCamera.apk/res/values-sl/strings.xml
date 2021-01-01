@@ -1448,6 +1448,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_grp_capture_settings">Nastavitve snemanja</string>
   <string name="pref_grp_picture_settings">Nastavitve slike</string>
   <string name="pref_grp_restore_settings">Obnovi nastavitve</string>
+     <string name="pref_hdr10_hdr10plus_video_mode_description">Optimizirajte barve za videoposnetke 4K (HDR10 +) in 8K (HDR10). Ta storitev deluje samo na napravah, združljivih s HDR10 + / HDR10.</string>
   <string name="pref_hdr10_video_mode_description">Samodejno optimizira barvo in kontrast za videoposnetke 4K in 8K. Optimizirane videoposnetke je mogoče predvajati samo v napravah, združljivih z HDR10</string>
   <string name="pref_hdr10_video_mode_title">HDR10</string>
   <string name="pref_hdr10plus_video_mode_description">Optimizira barvo in kontrast za videoposnetke 4K in 8K. Deluje samo v napravah, združljivih z HDR10 +.</string>

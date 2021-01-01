@@ -63,6 +63,7 @@
     <string name="error_ap_or_screen_already_hosting">Pošiljanje v druge naprave ni možno med predvajanjem ali uporabo hotspota.</string>
     <string name="error_device_lost">Druga naprava ni na voljo. Počakajte minuto ali dve in poskusite ponovno.</string>
   <string name="error_has_occurred">Napaka</string>
+     <string name="error_mirror_working">"Med skupno rabo zaslona stvari ni mogoče dati v skupno rabo"</string>
     <string name="error_msg_network_error">Omrežna napaka. Poskusite ponovno.</string>
     <string name="error_receive_file_cannot_read">Ne morem sprejeti datoteko</string>
     <string name="error_receive_file_changed">Ne morem sprejeti. Stvar se je zamenjala.</string>
@@ -73,6 +74,7 @@
     <string name="error_receive_user_interrupted">Druga oseba je odpovedala prenos</string>
     <string name="error_refuse_receive">Prenos je odpovedan</string>
     <string name="error_remote_busy">Druga naprava je zasedena. Počakajte minuto ali dve in poskusite ponovno.</string>
+     <string name="error_remote_mirror_working">"Druga naprava med skupno rabo zaslona ne more sprejemati stvari"</string>
     <string name="error_self_busy">Naprava je zasedena. Počakajte minuto ali dve in poskusite ponovno.</string>
     <string name="error_send_file_cannot_read">Ne morem poslati datoteko. Poskusite ponovno.</string>
     <string name="error_send_file_no_enough_space">Ne morem poslati. V drugi napravi ni dovolj prostora.</string>
@@ -98,7 +100,9 @@
     <string name="functions_are_being_developed">Ta storitev bo na voljo kmalu. Ostanite v stiku!</string>
   <string name="go_to_settings">Nastavitve</string>
   <string name="guide_summary_1">Druga oseba se lahko dotakne preklopnika v plošči za obvestila</string>
+     <string name="guide_summary_2">"Izberite napravo, v katero želite poslati predmete, in tapnite njeno ikono"</string>
   <string name="guide_title_1">Vključite Mi Share na obeh napravah</string>
+     <string name="guide_title_2">Izberite napravo za skupno rabo</string>
   <string name="help">"Ne najdete naprav?"</string>
   <string name="help_content">"Če ne najdete naprave, ki jo potrebujete, prosite drugo osebo, da vklopi Mi Share."</string>
     <string name="hide">Skrij</string>
@@ -149,6 +153,7 @@ Pred uporabo Mi Share morate odobriti naslednja dovoljenja in omogočiti zbiranj
     <string name="scanning_only_xiaomi_device">To lahko pošljete samo na Xiaomi ali Black Shark napravo</string>
   <string name="search_menu_title">Iskanje</string>
     <string name="send_file">POŠLJI DATOTEKO</string>
+     <string name="send_files_by">Delite datoteke preko</string>
     <string name="send_files_to">Pošljite stvari na</string>
     <string name="send_files_to_remote_success">Pošiljanje na  %1$s uspešno</string>
   <string name="send_files_to_remote_success_title">Uspešno poslano</string>
@@ -166,6 +171,9 @@ Pred uporabo Mi Share morate odobriti naslednja dovoljenja in omogočiti zbiranj
     <string name="support_device_type">Podprte naprave</string>
     <string name="throwing_print">Tiskanje</string>
     <string name="throwing_screen">Predvajaj</string>
+     <string name="tile_state_active">Vključeno</string>
+     <string name="tile_state_inactive">Izključeno</string>
+     <string name="tile_state_unavailable">Ni na voljo</string>
     <string name="tips_prompt_enable_midrop">Delite datoteke z napravami v bližini</string>
   <string name="to_feedback">Povratna inf.</string>
     <string name="transfer_intercept_to_remote">Ne morem poslati: %1$s</string>

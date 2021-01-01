@@ -24,7 +24,11 @@
   <string name="change_passwork_dialog_title">Posodobim gesla?</string>
   <string name="delete">Izbriši</string>
   <string name="invalid_package_signature">Podpis aplikacije ni veljaven</string>
+     <string name="login_mi_account_alert">Povpraševanje</string>
+     <string name="login_mi_account_summary">Če želite omogočiti upravitelja gesel, se morate prijaviti v Moj račun, se boste prijavili zdaj?</string>
   <string name="ok">V redu</string>
+     <string name="password_manager">Upravitelj gesel</string>
+     <string name="password_manager_summary">Upravitelj gesel v oblaku, varnostna kopija na Mi račun</string>
   <string name="save_content_tip">"Shranjene bodo naslednje stvari: "</string>
   <string name="search">Išči</string>
   <string name="settings_clear_data_confirmation_description">"Če zdaj izbrišete gesla jih boste morali ročno vnesti naslednjič ko se prijavite.
