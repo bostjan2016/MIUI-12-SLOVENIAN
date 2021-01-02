@@ -33,6 +33,7 @@
   <string name="action_mode_switcher_grid_description">Mreža</string>
   <string name="action_mode_switcher_list_description">Seznam</string>
   <string name="action_settings_description">Nastavitve</string>
+     <string name="action_to_link">Odpri URL</string>
   <string name="actionbar_button_up_description">Nazaj</string>
   <string name="actionbar_close_description">Zapri</string>
   <string name="actionbar_home_description">Nazaj</string>
@@ -43,6 +44,7 @@
   <string name="alert_edit_action_delete">Odstrani</string>
   <string name="alert_edit_action_update">Spremeni</string>
   <string name="alert_message_delete">Izbrišem %1$s?</string>
+     <string name="alert_message_delete_excerpt">Želite izbrisati to beležko? Tudi izvleček bo izbrisan.</string>
   <string name="alert_message_delete_note">Izbrišem to beležko?</string>
   <string name="alert_message_edit_anyway">Če urejate to beležko se lahko nekatere njene vsebine izgubijo.</string>
   <string name="alert_message_restore">"Te beležke ne morem odpreti. Za urejanje jo morate obnoviti."</string>
@@ -120,6 +122,8 @@
   <string name="cloud_trash_bin_title">Izbriši beležke v Mi Cloudu</string>
   <string name="confirm_cancel">"Ne strinjam se"</string>
   <string name="confirm_ok">Strinjam se</string>
+     <string name="continuous_default_hint">Kopirajte besedilo, shranjujte slike in posnetke zaslona kot izvlečke</string>
+     <string name="continuous_new_excerpt_title">Nov izvleček</string>
   <string name="copy">Kopiraj</string>
   <string name="cta_agree_desc">Dovoli, da se ta aplikacija poveže na splet in dajte neobvezna dovoljenja, tako da lahko uporablja vse svoje funkcije.</string>
   <string name="cta_confirm_cancel">"Prekliči"</string>
@@ -145,6 +149,12 @@
   <string name="db_downgrade_clear_date_reminder">"Prehod na drugo MIUI verzijo zahteva brisanje podatkov aplikacije za beležko. Preden to naredite preverite ali ste napravili var. kopijo beležk na Mi Cloud."</string>
   <string name="default_folder_name">"Neimenovana mapa"</string>
   <string name="delete_folder_dialog_tile">Izbriši mapo</string>
+     <string name="dialog_button_cancel">Prekliči</string>
+     <string name="dialog_button_close">Zapri</string>
+     <string name="dialog_button_confirm">V redu</string>
+     <string name="dialog_button_confirm_delete">Izbriši</string>
+     <string name="dialog_button_continue_work">Nadaljuj</string>
+     <string name="dialog_button_move">Premesti</string>
   <string name="dialog_privacy_revoke_tips">"Po preklicu avtorizacije bo aplikacija prenehala zbirati podatke in vsi zbrani podatki bodo izbrisani s strežnika. To lahko povzroči da je aplikacija praktično neuporabna. Vseeno prekličem avtorizacijo? Da zavarujete varnost računa se prijavite na i.mi.com preden prekličete avtorizacijo za storitve Mi Cloud."</string>
   <string name="dialog_share_as_pic">Deli beležko kot sliko</string>
   <string name="dialog_share_as_text">Deli beležko kot tekst</string>
@@ -179,6 +189,8 @@
   <string name="doodle_action_exit_immersion_mode">Interaktivni način je izključen</string>
   <string name="doodle_action_hide_tool_panel">Skrij orodja</string>
   <string name="doodle_action_show_tool_panel">Pokaži orodja</string>
+     <string name="doodle_background_dot">Pikasto</string>
+     <string name="doodle_background_white">Belo</string>
   <string name="doodle_brush_config_alpha">Neprozornost potez</string>
   <string name="doodle_brush_config_width_level">Širina potez</string>
   <string name="doodle_brush_markpen">Marker</string>
@@ -186,6 +198,11 @@
   <string name="doodle_brush_pencil">Kemični svenčnik</string>
   <string name="doodle_brush_watercolor">Flomaster</string>
   <string name="doodle_feature">Doodles</string>
+     <string name="doodle_guide_brush_config_hint">Ponovno tapnite, da prilagodite širino potez in motnost</string>
+     <string name="doodle_guide_dialog_confirm">V redu</string>
+     <string name="doodle_guide_dialog_skip">Preskoči</string>
+     <string name="doodle_guide_dialog_title">Skiciranje</string>
+     <string name="doodle_guide_quick_shape_hint" formatted="false">Pritisnite in držite skico %d–%d sek. za samodejno nastavljanje potez</string>
   <string name="doodle_palette">Paleta barv</string>
   <string name="doodle_save_progress_text">Shranjevanje…</string>
      <string name="doodle_saving">Shranjevanje</string>
@@ -222,8 +239,16 @@ Tapnite + da napravite mapo"</string>
   <string name="error_widget_exist_for_send_to_desktop">Ta beležka je že na vašem začetnem zaslonu</string>
      <string name="evening">Popoldne</string>
   <string name="exceed_todo_text_limitation">Opis naloge je predolg.</string>
+     <string name="excerpt">Naredite izvleček</string>
+     <string name="excerpt_bubble_tips">Kopirano besedilo in shranjene slike se shranijo v Beležke</string>
+     <string name="excerpt_link_bubble_tips">Tapnite za shranjevanje v Beležke</string>
+     <string name="excerpt_note">Moji izvlečki</string>
+     <string name="excerpted_to_note">Izvleček shranjen v Beležke</string>
+     <string name="excerpting">Izdelava izvlečka…</string>
   <string name="expand_button_title">Napredno</string>
   <string name="first_enter_custom_folder_hint">Tu lahko preimenujete ali brišete mape</string>
+     <string name="float_note_empty">Tu ni ničesar</string>
+     <string name="float_note_title">Beležke</string>
   <string name="float_todo_guide_cancel">Prekliči</string>
   <string name="float_todo_guide_message">Bližnjica zač. zaslona omogoča da povlečete z roba zaslona, ​​da si ogledate in ustvarite naloge. Ustvarim bližnjico zdaj?</string>
   <string name="float_todo_guide_message_v2">Bližnjica s potezami vam omogoča predogled in ustvarjanje nalog s povlekom z roba zaslona. To funkcijo lahko vklopite in izklopite v nastavitvah.</string>
@@ -289,6 +314,7 @@ Tapnite + da napravite mapo"</string>
   <string name="force_touch_menu_add">Dodaj beležko</string>
   <string name="format_move_note_out_folder">Beležka je premeščena</string>
   <string name="format_move_note_to_folder">Premeščeno v %1$s</string>
+     <string name="frequently_click_tips">Prehitro! Počakajte minuto ali dve in poskusite znova.</string>
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -310,6 +336,7 @@ Tapnite + da napravite mapo"</string>
   <string name="image_annotation_edit_hint">Opis slike</string>
   <string name="image_annotation_edit_length_warning">Opis slike lahko vsebuje do %d znakov</string>
   <string name="info_note_enter_desktop">Dodano na začetni zaslon</string>
+     <string name="last_excerpt_unfinish_hint">Zadnji izvleček je nepopoln</string>
   <string name="loading_text">Nalaganje…</string>
   <string name="login_sync">Prijavi se &amp; sinhr.</string>
   <string name="lunar_day">Lunar %1$s</string>
@@ -344,6 +371,7 @@ Tapnite + da napravite mapo"</string>
   <string name="menu_unstick">Odpni</string>
   <string name="merge_to_folder">Izradi mapu</string>
   <string name="midnight">AM</string>
+     <string name="mind_note_first_enter_guide">Dotaknite se, da ustvarite miselno mapo</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
@@ -411,10 +439,12 @@ Tapnite + da napravite mapo"</string>
   <string name="month_september_shortest">S</string>
   <string name="more">Več</string>
   <string name="morning">AM</string>
+     <string name="new_app_name">Mi Beležke</string>
   <string name="new_audio_create_cancel_talkback_des">Odpovedano</string>
   <string name="new_audio_create_done_talkback_des">Napravljeno</string>
   <string name="new_audio_create_guide_tip">Pritisnite in držite za ustvarjanje zvočne beležke</string>
   <string name="new_audio_create_talkback_des">Pritisnite za ustvarinje tekstne beležke. Pritisnite in držite za ustvarjanje zvočne beležke. Spustite tipko da ustavite snemanje in napravite beležko ali podrajte gor da prekličete.</string>
+     <string name="new_data_empty_note">Tu ni ničesar</string>
   <string name="night">PM</string>
   <string name="noon">PM</string>
   <string name="not_now">Ne zdaj</string>
@@ -422,10 +452,13 @@ Tapnite + da napravite mapo"</string>
   <string name="note_alert_expired">Pretečeno</string>
   <string name="note_description_content">Aplikacija beležke je izvrstno orodje za snemanje vaših idej. Ima vgrajene opmnike in sinhronizira vaše stvari v Mi Cloud tako da lahko dostopite do njih kadarkoli in kjerkoli.</string>
   <string name="note_description_title">O Beležkah</string>
+     <string name="note_dual_screen_dialog_content">"Videti je, da zdaj urejate Beležke v računalniku. Če se želite izogniti nasprotujočim si urejanjem, zaprite Beležke v računalniku."</string>
+     <string name="note_dual_screen_dialog_title">Uporaba Combo zaslona…</string>
   <string name="note_gesture_guide_step1">Pritisnite in držite plus za zvočno beležko</string>
   <string name="note_gesture_guide_step2">Pritisnite in držite beležko in jo premaknite nad drugo, da napravite mapo</string>
   <string name="note_gesture_guide_step3">Pritisnite in držite beležko in jo premaknite nad mapo, da jo dodate v mapo</string> 
-     <string name="note_invalid_mindnote_hint">"Zemljevidi misli niso na voljo v tej različici. Posodobite aplikacijo, če želite uporabljati to funkcijo."</string>
+     <string name="note_header_first_enter_guide">Podrsajte dol da pokažete več</string>
+     <string name="note_invalid_mindnote_hint">"Mape misli niso na voljo v tej različici. Posodobite aplikacijo, če želite uporabljati to funkcijo."</string>
   <string name="note_link_email">"Nova e-pošta"</string>
   <string name="note_link_other">Odpri s pomočjo aplikacije Karte</string>
   <string name="note_link_select">Izberi besedilo</string>
@@ -441,6 +474,40 @@ Tapnite + da napravite mapo"</string>
      <string name="notes_description_title">Odstranim Beležke?</string>
   <string name="notification_content_add_todo_from_other_app">Dodali ste novo nalogo. Tapnite za prikaz.</string>
   <string name="notify_alarm_title">Opomnik za beležke</string>
+     <string name="option_menu_delete">Izbriši</string>
+     <string name="option_menu_multi_choice">Izberi</string>
+     <string name="option_menu_new">Napravi</string>
+     <string name="option_menu_rename">Preimenuj</string>
+     <string name="option_menu_restore_note">Vrni</string>
+     <string name="option_menu_save_as">Shrani kot</string>
+     <string name="pc_action_create_new_folder">Mapa</string>
+     <string name="pc_action_create_new_mind_note">Mapa misli</string>
+     <string name="pc_action_create_new_normal_note">Beležka</string>
+     <string name="pc_action_create_new_note">Napravi beležko</string>
+     <string name="pc_action_search_notes_hint">Išči beležke</string>
+     <string name="pc_action_search_todo_hint">Išči naloge</string>
+     <string name="pc_all_folder_name">Vse</string>
+     <string name="pc_date_time_picker_set_date">Nastavi datum</string>
+     <string name="pc_date_time_picker_set_time">Nastavi čas</string>
+     <string name="pc_module_notes_name">Beležke</string>
+     <string name="pc_module_todo_name">Naloge</string>
+     <string name="pc_note_dual_screen_dialog_content">"Zdi se, da zdaj urejate Beležke v telefonu. Če se želite izogniti nasprotujočim si urejanjem, zaprite Beležke v telefonu."</string>
+     <string name="pc_note_edit_blank_view_tips">Povlecite sliko sem, da napravite beležko</string>
+     <string name="pc_note_edit_create_time">"Narejeno: "</string>
+     <string name="pc_note_edit_insert_doodle_by_phone">Naredite risbo na telefonu</string>
+     <string name="pc_note_edit_insert_picture_from_pc">Izberite sliko iz računalnika</string>
+     <string name="pc_note_edit_insert_picture_from_phone">Izberite sliko iz mobilne naprave</string>
+     <string name="pc_note_edit_last_modified_time">"Zadnje urejanje: "</string>
+     <string name="pc_note_edit_lock_dialog_doodle_by_phone">Izdelava risbe na telefonu…</string>
+     <string name="pc_note_edit_lock_dialog_take_photo_by_phone">Snemanje fotografije s telefonom…</string>
+     <string name="pc_note_edit_take_photo_by_phone">Posnemite fotografijo s telefonom</string>
+     <string name="pc_note_edit_text_format_body">Telo</string>
+     <string name="pc_note_edit_text_format_des">Nastavite velikost besedila</string>
+     <string name="pc_note_edit_text_format_title_level1">Naslov</string>
+     <string name="pc_note_edit_text_format_title_level2">Glava</string>
+     <string name="pc_note_trash_folder_remind">Ta beležka je bila izbrisana. Vrnite se za urejanje.</string>
+     <string name="pc_todo_fast_create_hint">Vnesite besedilo in pritisnite \"Vhod\" za dodajanje nedokončanih nalog</string>
+     <string name="pc_todo_set_remind_time_hint">Nastavite čas</string>
   <string name="permdesc_accessNote">Zlonamerne aplikacije lahko to uporabijo za dostop do vaših osebnih podatkov.</string>
   <string name="permission_get_account_desc">Sinhroniziranje beležk z Mi Cloudom</string>
   <string name="permission_intro_contact">Za označevanje beležk posnetih med pogovorom</string>
@@ -452,12 +519,16 @@ Tapnite + da napravite mapo"</string>
   <string name="permission_phone_state_desc">Za ustavljanje snemanja glasovnih beležk med klicem</string>
   <string name="permission_read_contact_desc">Povezovanje beležk o klicih </string>
   <string name="permission_storage_desc">Za shranjevanje beležk kot slik</string>
+     <string name="permission_storage_desc_v12">Za dodajanje slik v beležke in shranjevanje beležk kot slike</string>
   <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI bo zbral vaše zvočne posnetke in ID naprave da prepiše zvok in napravi zvočne beležke. Izvedite več v Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="permlab_accessNote">Dostop do beležk</string>
   <string name="pm">PM</string>
+     <string name="pref_category_title_quick_func">Hitre funkcije</string>
   <string name="pref_desc_alarm_when_silent">Alarmi opomnikov bodo še vedno slišni če bo zvonjenje na tiho.</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne sprašuj za potrditev ob brisanju beležke z uporabo giba"</string>
   <string name="pref_desc_todo_float_mode">Podrsajte s prstom od roba zaslona da odprete okvir orodja z nalogami</string>
+     <string name="pref_excerpt_link_float">Prejmite opomnik, da ustvarite izvleček kadar koli se URL kopira</string>
+     <string name="pref_quick_note_desc">Uporabite bližnjico na robu zaslona za ustvarjanje zapiskov in opravil ter za shranjevanje kopiranih URL-jev, besedila in slik v Beležke.</string>
   <string name="pref_remind_type_summary">Predvajaj zvok opomnika v tihem načinu dela</string>
   <string name="pref_remind_type_summary_new">Ignoriraj Tihi način in nadaljuj s predvajanjem zvoka, dokler se alarm ne izklopi</string>
   <string name="pref_remind_type_title">Zanemari tihi način</string>
@@ -465,8 +536,10 @@ Tapnite + da napravite mapo"</string>
   <string name="pref_title_alarm_when_silent">"Ne utišaj opomnikov"</string>
   <string name="pref_title_cloud_trash_bin">Izbriši beležke v Mi Cloudu</string>
   <string name="pref_title_common">Dodatne nastavitve</string>
+     <string name="pref_title_excerpt_remind">Opomniki izvlečkov</string>
   <string name="pref_title_font_size">Velikost pisave</string>
   <string name="pref_title_note_style">Stil</string>
+     <string name="pref_title_quick_note">Hitre beležke</string>
   <string name="pref_title_recover_help">Obnovi beležke</string>
   <string name="pref_title_show_root_folder_in_homepage">Pokaži samo hitre beležke na začetnem zaslonu</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Hitro brisanje</string>
@@ -478,6 +551,8 @@ Tapnite + da napravite mapo"</string>
   <string name="privacy_notes_fragment_title">Skrite beležke</string>
   <string name="private_entry_available">Spusti za odpiranje zasebne mape</string>
   <string name="private_entry_default">Podrsaj dol za odpiranje zasebne mape</string>
+     <string name="quick_note_link_default_text">URL</string>
+     <string name="quick_note_new_user_guide">Hitre beležke vam omogočajo ustvarjanje beležk in izvlečkov</string>
   <string name="recover_notes_hint">Prišlo je do napake, pojdite na i.mi.com da vrnete beležke.</string>
   <string name="redo">Ponovi</string>
   <string name="refuse_to_open_as_pic_because_of_loading">Počakajte da se beležka naloži in poskusite ponovno.</string>
@@ -520,6 +595,7 @@ Tapnite + da napravite mapo"</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>
+     <string name="save_single_excerpt">Shrani</string>
   <string name="save_to_gallery_failure_message">"Ne morem shraniti v Galerijo"</string>
   <string name="save_to_gallery_icon_name">Shrani v Galerijo</string>
   <string name="save_to_gallery_success_message">Uspešno shranjeno</string>
@@ -540,6 +616,8 @@ Tapnite + da napravite mapo"</string>
   <string name="sina_share_success">Poslano</string>
   <string name="sina_token_expired_warning">Weibo je potekel: Obnovite račun</string>
   <string name="sina_token_invalid_warning">Weibo račun je neveljaven: Obnovite račun</string>
+     <string name="single_link_excerpt_saving">Snranjevanje…</string>
+     <string name="single_new_excerpt_title">Izvlečki</string>
   <string name="snippet_audio_stub">Glasovna beležka</string>
   <string name="snippet_image_stub">[Slika]</string>
   <string name="snippet_image_template">[Slika %1$s]</string>
@@ -594,6 +672,10 @@ Tapnite + da napravite mapo"</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
   <string name="toast_cancel_to_insert_image">"Ne morem dodati sliko."</string>
+     <string name="toast_excerpt_end">Izvleček uspešno narejen</string>
+     <string name="toast_excerpt_no_content">Tu ni ničesar</string>
+     <string name="toast_excerpt_open_note">Odprta beležka z izvlečkom</string>
+     <string name="toast_excerpt_saved">Shranjevanje izsečka v beležke…</string>
   <string name="toast_folder_privacy_mode">"Ne morem spremeniti mape v načinu za goste"</string>
   <string name="toast_mark_privacy_notes">Uspešno skrito</string>
   <string name="toast_mark_privacy_notes_count">%1$s uspešno skrito</string>
@@ -621,6 +703,7 @@ Dovolite aplikaciji Beležke branje vsebine SD kartice."</string>
 Dovolite aplikaciji Beležke branje statusa in identitete telefona."</string>
   <string name="toast_refuse_to_use_record_audio">"Dovoljenja za mikrofon so omejena.
 Dovolite aplikaciji Beležke snemanje zvoka."</string>
+     <string name="toast_refuse_to_use_storage_in_excerpt">Omogočite Beležkam dostop do shrambe, tako da lahko beležkam dodate slike</string>
   <string name="toast_unmark_privacy_notes">Uspešno odkrito</string>
   <string name="toast_unmark_privacy_notes_count">%1$s uspešno odkrito</string>
   <string name="today">Danes</string>
@@ -709,6 +792,7 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
   <string name="unknown_source">Neznan vir</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
+     <string name="view_all_notes">Pokaži vse</string>
   <string name="wednesday">Sreda</string>
   <string name="wednesday_short">Sre</string>
   <string name="wednesday_shortest">S</string>
