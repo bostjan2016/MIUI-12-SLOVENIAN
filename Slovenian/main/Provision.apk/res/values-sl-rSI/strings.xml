@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
+    <string name="abc_action_bar_up_description">Pomik navzgor</string>
+    <string name="abc_action_menu_overflow_description">Več možnosti</string>
+    <string name="abc_action_mode_done">Končano</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
+    <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+    <string name="abc_capital_off">IZKLOP</string>
+    <string name="abc_capital_on">VKLOP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meni+</string>
+    <string name="abc_search_hint">Iskanje …</string>
+    <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
+    <string name="abc_searchview_description_query">Iskalna poizvedba</string>
+    <string name="abc_searchview_description_search">Iskanje</string>
+    <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
+    <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+    <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
+    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="accessibility_enabled">Dostopnost je omogočena.</string>
   <string name="agree">Strinjam se</string>
   <string name="agree_and_next">Strinjam se</string>
@@ -20,6 +47,8 @@
   <string name="application_permissions">Dovoljenja aplikacije</string>
   <string name="back">Nazaj</string>
   <string name="backup_introduction">S to aplikacijo lahko varnostno kopirate in obnovite stvari v napravi.</string>
+     <string name="boot_video_replay">Predvajaj ponovno</string>
+     <string name="boot_video_skip">Preskoči</string>
   <string name="calculator_introduction">Aplikacijo lahko uporabite za računanje, pretvaranje enot in valut in oceno odplačila kredita.</string>
   <string name="camera_introduction">Kamero uporabite za snemanje fotografij in videoposnetkov.</string>
   <string name="carrier_introduction">"Za izboljšanje storitev lahko vaša naprava občasno pošilja informacije o verziji naprave, identifikacijske podatke naprave (vključno IMEI/IMSI/MSISDN/MAC naslov, MEID/ICCID) in približne informacije o lokaciji (vključno ID bazne postaje) mobilnemu operaterju preko WiFi-ja, mobilnih omrežij ali brezplačnega SMS-a. Operater obljublja da bo analiziral podatke samo zaradi izboljšanja kvalitete storitev ali nudenja prilagojenih storitev ali tehnologij in jih ne bo dal na vpogled tretjim osebam. Specifična izjava operaterja mora držati. Posvetujte se z operaterjem glede stroškov te storitve."</string>
@@ -78,6 +107,7 @@
   <string name="install_preinstall_app">Branje aplikacij…</string>
   <string name="item_fingerprint">Prstni odtis</string>
   <string name="item_lock_screen_password">Samo zakl. zaslona</string>
+     <string name="item_lock_screen_password_only">Zakl. zaslon</string>
   <string name="ktposition_header">Skupna raba informacij o lokaciji z reševalnimi agencijami</string>
   <string name="language_picker_other_languages_title">Več jezikov</string>
   <string name="language_picker_popular_languages_title">Izberi jezik</string>
@@ -98,6 +128,8 @@
   <string name="move_data_dialog_cancel">Prekliči</string>
   <string name="move_data_dialog_title">Mobilno podatkovno povezavo lahko v nastavitvah omejite pozneje</string>
   <string name="move_data_dialog_use">Uporabi</string>
+     <string name="msim_setting_default_data">Podatkovna SIM</string>
+     <string name="msim_setting_default_voice">Privzeta SIM za klice</string>
   <string name="multisim_settings_category">Nastavitve izbrane SIM kartice</string>
   <string name="multisim_settings_title">Najdeni 2 SIM kartici</string>
   <string name="navigation_picker_gesture_guide">Vodič za gibe</string>
@@ -183,13 +215,17 @@
   <string name="pref_title_voice_slot">Izbrana SIM kartica za klice</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="protect_persoanl_info_statement">Zaščitili bomo vaše osebne podatke v skladu z zakoni, predpisi in pravili o zasebnosti.</string>
+     <string name="provision_back">Nazaj</string>
   <string name="provision_inputmethod_policy_description">"
 Pokaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="provision_inputmethod_policy_description1">Pravila o zasebnosti</string>
+     <string name="provision_next">Naprej</string>
+     <string name="provision_skip_underline">Preskoči</string>
   <string name="recorder_introduction">Aplikacijo lahko uporabite za snemanje zvoka in shranjevanje posnetkov na Mi Cloud.</string>
   <string name="require_authority_statement">Da vam lahko ponudimo osnovne storitve morate odobriti naslednja dovoljenja za zbiranje vaših osebnih podatkov:</string>
   <string name="require_network_authority_statement">a vam lahko ponudimo osnovne storitve se morate povezati na splet in odobriti naslednja dovoljenja za zbiranje vaših osebnih podatkov:</string>
   <string name="screen_recording_introduction">"Ta aplikacija vam omogoča snemanje tistega, kar se dogaja na vašem zaslonu."</string>
+     <string name="search_menu_title">Išči</string>
   <string name="security_introduction">S to aplikacijo lahko očistite smeti iz naprave, najdete in onemogočite viruse, optimizirate zmogljivost iger, varčujete z baterijo, urejate aplikacije, dovoljenja in še več.</string>
   <string name="security_mobile_account_introduction">Za prijavo in upravljanje sistemskih računov</string>
   <string name="service_agreement">"Prebral sem in se strinjam."</string>
@@ -217,6 +253,7 @@ Pokaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="service_policy">&lt;Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a >.&lt;/Data</string>
   <string name="service_policy_download">&lt;Data&gt;Pred uporabo preberite in se strinjajte z &amp;lt;a href=%1$s&amp;gt;Xunlei Pravila o zasebnosti&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
   <string name="service_privacy_index">Pravila o zasebnosti</string>
+     <string name="service_security_over_r"><Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a > pred uporabo Varnosti.&lt;br/>&lt;br/>V skladu s standardi Android 11 bo enkratno dovoljenje umaknjeno v 5 sekundah po prenehanju delovanja ustrezne aplikacije. Če aplikacijo odprete v tem kratkem času, bo dovoljenje takrat umaknjeno.</Data></string>
   <string name="servicestate_title">Izjava o osnovnih storitvah</string>
   <string name="setting_locale">Nastavljanje regije…</string>
   <string name="shut_down">Izklop</string>

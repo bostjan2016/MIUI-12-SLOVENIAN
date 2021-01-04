@@ -69,7 +69,7 @@
   <string name="config_mode_title">Nastavitve ozadja</string>
   <string name="config_no_restrict_description">"Varčevanje z baterijo ne omejuje aktivnosti aplikacij"</string>
   <string name="config_no_restrict_title">Ni omejitev</string>
-  <string name="config_restrict_function_description">"Nekatere stvari (npr., push obvestila) so lahko omejene zaradi tega, a aplikacije se ne bodo zaprle"</string>
+  <string name="config_restrict_function_description">"Zaprite aplikacije po 10 minutah dejavnosti v ozadju"</string>
   <string name="config_restrict_function_title">Omeji aplikacije v ozadju</string>
   <string name="config_restrict_running_description">Aplikacije bodo zaprte za prihranek energije</string>
   <string name="config_restrict_running_title">Omeji aktivnosti v ozadju</string>

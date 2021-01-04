@@ -32,12 +32,14 @@
   <string name="com_miui_huanji">Mi Mover</string>
   <string name="com_miui_notes">Beležke</string>
   <string name="com_miui_screenrecorder">Snemalec zaslona</string>
+  <string name="com_miui_virtualsim">Mi Roaming</string>
   <string name="com_miui_weather2">Vreme</string>
   <string name="com_xiaomi_drivemode">Pribor za avto</string>
   <string name="com_xiaomi_gamecenter">Igre</string>
   <string name="com_xiaomi_jr">Mi Finance</string>
   <string name="com_xiaomi_scanner">Skener</string>
   <string name="com_xiaomi_shop">Mi Store</string>
+  <string name="com_xiaomi_vipaccount">Mi Community</string>
   <string name="com_xiaomi_youpin">Youpin</string>
   <string name="confirm_description">Potrdi</string>
   <string name="copyright">Avtorske pravice</string>
@@ -60,6 +62,7 @@
   <string name="error_not_acceptable">Sinhronizacija je izključena</string>
   <string name="error_title">"Ne morem sinhronizirati"</string>
   <string name="error_unauthorized">Sinhronizacija je izključena zaradi prevelikega števila poskusov prijave.</string>
+  <string name="experience_new_system_app">Poglejte nove storitve!</string>
   <string name="evening">PM</string>
   <string name="fmt_chinese_date"/>
   <string name="fmt_date_long_month">MMMM</string>
@@ -209,6 +212,7 @@ pojdite na: %s."</string>
   <string name="system_app_restore_failed">Napaka</string>
   <string name="system_app_restore_failed_detail">"Sistemskih elementov ni mogoče obnoviti. Preverite omrežne nastavitve in ne zaženite znova ali izklopite naprave dokler stvari ne bodo v celoti obnovljene. Če želite poskusiti znova, se dotaknite spodnjega gumba."</string>
   <string name="system_restore">Vrni stvari</string>
+  <string name="tap_to_update_system_app">Dotaknite se, če želite posodobiti sistemske programe</string>
   <string name="sync_one_time_sync">Sinhronizacija (%1$s)</string>
   <string name="the_anniversary_of_lifting_martial_law"/>
   <string name="the_anti_aggression_day"/>
@@ -264,6 +268,7 @@ pojdite na: %s."</string>
   <string name="user_agreement">Pogoji uporabe</string>
   <string name="user_experience_program">Program uporabniških izkušenj</string>
   <string name="user_manual">Navodila</string>
+  <string name="wait_for_wlan_china">Počakaj na WiFi</string>
   <string name="web_sso_login_fail">Morate se ponovno prijaviti</string>
   <string name="web_sso_login_message">Prijava…</string>
   <string name="website">Spletna stran</string>

@@ -536,6 +536,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
   <string name="screen_overlay_message">Za spremembo nastavitev dovoljenj morate najprej izključiti Prekrivanje zaslona v Nastavitve &gt; Aplikacije</string>
   <string name="screen_overlay_title">Odkrito Prekrivanje zaslona</string>
      <string name="search_menu_title">Išči</string>
+     <string name="stop_blur_location">Izključi</string>
      <string name="storage_policy_notify_both_title">"%1$s nima dovoljenja za dostop do galerije in sporočil v aplikacijah za družabna omrežja"</string>
      <string name="storage_policy_notify_content">Dotaknite se, da prilagodite dovoljenja</string>
      <string name="storage_policy_notify_gallery_title">"%1$s nima dovoljenja za dostop do galerije"</string>
