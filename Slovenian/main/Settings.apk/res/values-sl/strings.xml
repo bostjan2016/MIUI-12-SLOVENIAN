@@ -4264,6 +4264,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
   <string name="instruction_title">Važne varnostne informacije</string>
   <string name="insufficient_storage">Ni dovolj prostora za shranjevanje.</string>
      <string name="intelligence_suppression_title">Samodejno (priporočeno)</string>
+  <string name="intelligence_suppression_summary">Dinamično prilagodite velikost območja ob robovih, kjer se nenamerni dotiki ne bodo upoštevali glede na vaš oprijem</string>
   <string name="intent_sender_account_label">Račun:</string>
   <string name="intent_sender_action_label">Opravilo:</string>
   <string name="intent_sender_data_label">Podatki:</string>
@@ -5235,6 +5236,11 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_enhence_high">povečaj visoko</string>
      <string name="miheadset_enhence_low">povečaj nizko frek</string>
      <string name="miheadset_equalizer">Izenačevalnik</string>
+	<string name="miheadset_fitness_check">fitnes kontrola</string>
+    <string name="miheadset_fitness_check_result_not_ok">fitnes slabo</string>
+    <string name="miheadset_fitness_check_result_ok">fitnes dobro</string>
+    <string name="miheadset_fitness_check_result_unkown">fitnes neznano</string>
+    <string name="miheadset_fitness_check_start">fitnes kontrola začeta, počakajte</string>
      <string name="miheadset_formal">ostani</string>
      <string name="miheadset_game_mode">Način igranja</string>
      <string name="miheadset_game_mode_summary">Zmanjšaj zakasnitev zvoka med igranjem iger</string>
@@ -7870,6 +7876,7 @@ Za uporabo pripenjanja aplikacije: \u0009
   <string name="search_tether">Deljenje povezave &amp; prenosna dostopna točka;Dostopna točka;Osebna dostopna točka;Deli;Deljenje;Deli splet;WiFi dostopna točka;Wifi dostopna točka;WiFi dostopna točka</string>
   <string name="search_tether_settings_title_bluetooth">Deljenje povezave z Bluetoothom;Deli;Deljenje</string>
   <string name="search_tether_settings_title_usb">USB tetherdeljenje;Deli;deljenje;USB</string>
+  <string name="search_title_font_settings">velikost pisave;širina pisave;stil pisave</string>
   <string name="search_theme_settings">Teme;Tema;Personalizacija;Personaliziraj</string>
   <string name="search_theme_settings_title">Teme;Tema;Personalizacija;Personaliziraj</string>
   <string name="search_toggle_position">Položaj bližnjic;Bližnjice;bližnjica;spremeni bližnjice</string>
@@ -9530,6 +9537,8 @@ Vam je všeč Mi Mover?"</string>
   <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">Slo prevod</string>
     <string name="trigger_carrier_provisioning">Sproži omogočanje uporabe operaterja</string>
+	<string name="truetone_summary">Barve prilagodi svetlobi okolice</string>
+    <string name="truetone_title">Prilagodljive barve</string>
   <string name="trust_agent_disabled_device_admin">Onemogočil skrbnik</string>
     <string name="trust_agents_extend_unlock_summary">Če je ta možnost omogočena, posredniki zaupanja poskrbijo, da naprava ostane odklenjena dalj časa, vendar ne more več odkleniti zaklenjene naprave.</string>
     <string name="trust_agents_extend_unlock_title">Posredniki zaupanja le podaljšajo čas odklenjenosti</string>
@@ -10321,7 +10330,8 @@ Ne zapirajte stran pred vzpostavljanjem povezave."</string>
   <string name="wake_suppression_title">Majhno področje</string>
   <string name="wakeup_and_sleep_settings_category_name">Nastavitve zakl. zaslona</string>
   <string name="wakeup_for_keyguard_notification_title">Vključi zakl. zaslon pri obvestilih</string>
-     <string name="wallet_reset">Bančne kartice Mi Pay, transportne kartice in kartice s ključi Mi Pay lahko odstranite samo v Mi denarnici. Odprem Mi denarnico zdaj?</string>
+  <string name="wallet_header_title">Denarnica &amp; plačila</string>
+     <string name="wallet_reset">Bančne kartice Mi Pay, vozovnice in kartice s ključi Mi Pay lahko odstranite samo v Mi denarnici. Odprem Mi denarnico zdaj?</string>
      <string name="wallet_reset_cancel_btn">Preskoči</string>
      <string name="wallet_reset_ok_btn">Odpri</string>
      <string name="wallet_reset_title">Odstrani kartice iz Mi denarnice</string>

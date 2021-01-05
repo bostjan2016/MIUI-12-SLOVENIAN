@@ -651,6 +651,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="no_block_button_msg">"Ne blokiraj"</string>
   <string name="no_conversations">Ni pogovorov</string>
   <string name="no_delivery_report">Ni potrdila o dostavi</string>
+  <string name="no_dialogue_yet">Izberite pogovor</string>
   <string name="no_longer_recommend">"Ne kaži več "</string>
   <string name="no_network_description">"Povezovanje na omrežje ni uspelo. Preverite nastavitve omrežja in poskusite ponovno."</string>
   <string name="no_subject">(Ni stvari)</string>

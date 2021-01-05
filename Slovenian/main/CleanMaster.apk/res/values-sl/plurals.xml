@@ -183,4 +183,16 @@
         <item quantity="other">&lt;Data>Najdeno &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> glasovnih sporočil&lt;/Data></item>
         <item quantity="one">&lt;Data>Najdeno &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> glasovno sporočilo&lt;/Data></item>
     </plurals>
+	<plurals name="rs_clean_size_hint_image">
+        <item quantity="other">Dovolj za %d fotografij</item>
+        <item quantity="one">Dovolj za %d fotografijo</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+        <item quantity="other">Dovolj za %d pesmi</item>
+        <item quantity="one">Dovolj za %d pesem</item>
+    </plurals>
+	<plurals name="video_clean_scan_app_result">
+        <item quantity="other">%d aplikacij z predpomnjenimi videoposnetki</item>
+        <item quantity="one">%d aplikacija z predpomnjenimi videoposnetki</item>
+    </plurals>
 </resources>

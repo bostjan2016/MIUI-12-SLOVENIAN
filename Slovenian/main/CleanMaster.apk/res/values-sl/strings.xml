@@ -477,6 +477,7 @@
   <string name="hints_quick_cleanning">Čiščenje…</string>
   <string name="hints_quick_cleanuping">Čiščenje…</string>
   <string name="hints_quick_deep_clean">Očisti zdaj</string>
+  <string name="hints_quick_deep_clean2">Očisti %s</string>
   <string name="hints_quick_deep_scanning">Preverjanje</string>
   <string name="hints_quick_deep_uninstall">Izbriši zdaj</string>
   <string name="hints_quick_prepare">Priprava…</string>
@@ -663,6 +664,19 @@
   <string name="petabyteShort">PB</string>
   <string name="phone_search">Google Iskanje</string>
   <string name="positive_confirm">V redu</string>
+     <string name="powerful_acceleration">Defragmentacija</string>
+    <string name="powerful_acceleration_after">Prej</string>
+    <string name="powerful_acceleration_before">Pozneje</string>
+    <string name="powerful_acceleration_enable_summary">"Defragmentacija se izvede samodejno, medtem ko naprave ne uporabljate"</string>
+    <string name="powerful_acceleration_enable_title">Izvedi defragmentacijo v ozadju</string>
+    <string name="powerful_acceleration_item_button">Vključi</string>
+    <string name="powerful_acceleration_item_tip_normal">Vaša shramba izgleda dobro!</string>
+    <string name="powerful_acceleration_notification_summary">Dotaknite se, da sprostite več prostora</string>
+    <string name="powerful_acceleration_notification_title">Defragmentacija končana</string>
+    <string name="powerful_acceleration_tip">Notranji pomnilnik trpi zaradi razdrobljenosti, ki lahko znatno upočasni delovanje vaše naprave. Defragmentacija vaše datoteke fizično organizira v najmanjše število drobcev, kar izboljša delovanje.</string>
+    <string name="powerful_acceleration_tip_high"><Data>Vaša shramba je &lt;font color=#ff0000 >hudo&lt;/font> fragmentirana. Defragmentacija lahko reši težavo.</Data></string>
+    <string name="powerful_acceleration_tip_middle"><Data>Vaša shramba je &lt;font color=#ff0000 >malce&lt;/font> fragmentirana. Defragmentacija lahko reši težavo.</Data></string>
+    <string name="powerful_acceleration_toast">"Defragmentacija bo izvedena, ko naprave ne uporabljate"</string>
   <string name="pref_about_privacy_title">Pravila o Zasebnosti</string>
   <string name="pref_category_title_auto_clean_config_settings">Samodejno čiščenje</string>
   <string name="pref_category_title_auto_clean_settings">Opozori za čiščenje</string>
@@ -738,6 +752,9 @@
   <string name="resutl_function_deep_clean_summary">"&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; se lahko izbriše še nekaj datotek. Sprostite več prostora.&lt;/Data&gt;"</string>
   <string name="resutl_function_qq_clean_summary">"&lt;Data&gt;Lahko očistite &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; predpomnilnika ki ga generira QQ&lt;/Data&gt;"</string>
   <string name="resutl_function_wechat_clean_summary">"&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; WeChat predpomnilnika. Sprostite več prostora.&lt;/Data&gt;"</string>
+   <string name="rs_clean_size_free_space">Očisti %s</string>
+   <string name="rs_clean_size_storage_size">Zasedeno %1$s/%2$s</string>
+   <string name="rs_clean_size_storage_title">Shramba</string>
   <string name="safety_check_detail">%1$d krat, dobljeno %2$d točk</string>
   <string name="safety_rank">Pred %d%% MIUI uporabniki glede varnosti</string>
   <string name="sc_allow_network_dialog_button">Dovoli</string>
@@ -863,6 +880,26 @@
   <string name="update_date_format">dd. MMM. yyyy</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
+    <string name="video_clean">Počisti predpomnjene videoposnetke</string>
+    <string name="video_clean_auto_clean">Počisti samodejno</string>
+    <string name="video_clean_auto_clean_summary">Po skeniranju samodejno počisti predpomnjene videoposnetke</string>
+    <string name="video_clean_cache_tip">Izbrisane videoposnetke lahko nato naložite znova</string>
+    <string name="video_clean_create_desktop_icon">Bližnjica na začetnem zaslonu</string>
+    <string name="video_clean_create_desktop_icon_summary">Dodajte bližnjico na začetni zaslon, da z enim dotikom počistite predpomnjene videoposnetke</string>
+    <string name="video_clean_desktop_icon_created">Uspešno dodana bližnjica na začetni zaslon</string>
+    <string name="video_clean_garbage">Predpomnjeni videoposnetki</string>
+    <string name="video_clean_garbage_cleared">Uspešno izbrisani predpomnjeni videoposnetki</string>
+    <string name="video_clean_notification_summary">Počistite videoposnetke, ki jih shranjujejo aplikacije</string>
+    <string name="video_clean_notification_title">Očisti %s</string>
+    <string name="video_clean_personal_settings_title">Dodatne nastavitve</string>
+    <string name="video_clean_qq_clean_summary">Počistite smeti, da sprostite prostor za shranjevanje</string>
+    <string name="video_clean_qq_clean_title">QQ čistilec</string>
+    <string name="video_clean_remind_settings_title">Opomni za čiščenje</string>
+    <string name="video_clean_scan_app_tip">Pregled aplikacij %1$d/%2$d</string>
+    <string name="video_clean_video_manager_summary">Upravljajte vse videoposnetke, shranjene v vaši napravi</string>
+    <string name="video_clean_video_manager_title">Upravitelj videoposnetkov</string>
+    <string name="video_clean_wechat_clean_summary">Za pospeševanje hitrosti počistite smeti</string>
+    <string name="video_clean_wechat_clean_title">WeChat čistilec</string>
   <string name="virus_scan">Preverjanje</string>
      <string name="wechat_chat_data_type_cache">WeChat odložišče</string>
      <string name="wechat_chat_data_type_cache_desc">"Te datoteke boste lahko obnovili, ko se povežete na splet."</string>
