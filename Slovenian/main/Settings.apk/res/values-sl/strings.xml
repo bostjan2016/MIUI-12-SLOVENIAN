@@ -7187,7 +7187,9 @@ Vmesnik UT: %5$s"</string>
   <string name="recommend_item_3">Mobilni polnilec</string>
   <string name="recommend_item_4">Slušalke</string>
   <string name="recommend_item_title">Priporočeno</string>
+     <string name="recommend_text_wakeup_xiaoai">Nastavitve</string>
   <string name="recommend_tip">Potrebujete druge nastavitve?</string>
+     <string name="recommend_tip_wakeup_xiaoai">Za uporabo tipk za interakcijo z Mi AI je treba izklopiti kretnje na celem zaslonu in izbrati tipke kot navigacijski način.</string>
     <string name="recompute_size">Preračunavanje velikosti…</string>
   <string name="reconnect">Ponovno poveži</string>
   <string name="record_anr_in_background">Posnemi ANR dogodke v ozadju</string>
@@ -11149,6 +11151,10 @@ Shramba poverilnic morda ne bo omogočena"</string>
   <string name="write_tag">Zapiši</string>
     <string name="wrong_pin_code_one">Napačna koda PIN kartice SIM. Na voljo imate še en poskus. Nato se boste morali za odklepanje naprave obrniti na operaterja.</string>
     <string name="wrong_pin_code_pukked">Napačna koda PIN kartice SIM. Zdaj se boste morali za odklenitev naprave obrniti na operaterja.</string>
+     <string name="xiaoai_global_shortcut">Splošno</string>
+     <string name="xiaoai_key_shortcut">Tipke</string>
+     <string name="xiaoai_other_shortcut">Ostale metode</string>
+     <string name="xiaoai_shortcut_settings_title">Zaženite Mi AI s tipkami in gibi</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_cloud_find_device">Najdi napravo</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>

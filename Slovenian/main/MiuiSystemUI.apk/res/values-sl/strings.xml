@@ -1089,6 +1089,7 @@ Izbor"</string>
   <string name="gxzw_use_password_to_unlock">Vnesite geslo</string>
     <string name="hdcp_checking_dialog_title">Nastavi preverjanje HDCP</string>
     <string name="hdcp_checking_title">Preverjanje HDCP</string>
+     <string name="heads_up_snooze_toast">"Obvestila te aplikacije se ne bodo pojavila, dokler naprave znova ne odklenete"</string>
   <string name="headset">Slušalke</string>
   <string name="headset_settings">Slušalke priključene</string>
   <string name="heap_dump_tile_name">Izdvoji sp. SysUI-a</string>
@@ -2817,6 +2818,10 @@ Shramba certifikatov mogoče ni omogočena"</string>
   <string name="zen_mode_forever">Dokler ne izključite</string>
   <string name="zen_mode_settings_summary_off">Nikoli</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Vključi Ne moti</string>
+     <string name="zen_mode_warnings_all_time_content">Obvestila in klici bodo utišani</string>
+     <string name="zen_mode_warnings_keyguard_content">Ko je naprava zaklenjena, bodo obvestila in klici utišana</string>
+     <string name="zen_mode_warnings_quit_immediately">Izključi</string>
+     <string name="zen_mode_warnings_title">Ne moti je vključeno</string>
   <string name="zen_priority_customize_button">Prilagodi</string>
   <string name="zen_priority_introduction">Ne bodo vas motili zvoki ali vibriranje, razen v primeru alarmov, opomnikov, dogodkov in klicateljev, ki jih določite. Še vedno pa boste slišali vse, kar se boste odločili predvajati, vključno z glasbo, videoposnetki in igrami.</string>
   <string name="zen_silence_introduction">S tem so blokirani VSI zvoki in vibriranje – tudi od alarmov, glasbe, videoposnetkov in iger.</string>

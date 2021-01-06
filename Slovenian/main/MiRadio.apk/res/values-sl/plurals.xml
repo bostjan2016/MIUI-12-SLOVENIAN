@@ -6,7 +6,6 @@
     </plurals>
     <plurals name="Nalbum_total_songs">
         <item quantity="other">Skupaj %d pesmi</item>
-        <item quantity="zero">Skupaj %d pesmi</item>
         <item quantity="one">Skupaj %d pesem</item>
     </plurals>
     <plurals name="Nbackup_songs">
@@ -35,7 +34,6 @@
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">Napravljeno %1$s | skupaj %2$d pesmi</item>
-        <item quantity="zero">Napravljeno %1$s | skupaj %2$d pesmi</item>
         <item quantity="one">Napravljeno %1$s | skupaj %2$d pesem</item>
     </plurals>
     <plurals name="Nstop_backup_songs_message">

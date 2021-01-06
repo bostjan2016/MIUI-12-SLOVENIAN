@@ -466,6 +466,7 @@ ki ste ga prejeli v vaš poštni predal
   <string name="passport_login_notice">Vpisujem se...</string>
   <string name="passport_login_other_account">Drugi račun</string>
      <string name="passport_login_other_phone">Uporabite drugi račun</string>
+     <string name="passport_login_other_way">Drugi načini za prijavo</string>
   <string name="passport_login_prompt">Vse Mi storitve. En Mi Račun.</string>
   <string name="passport_login_recycle_account_no">Ne</string>
   <string name="passport_login_recycle_account_yes">Da</string>
