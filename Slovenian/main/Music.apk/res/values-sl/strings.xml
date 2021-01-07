@@ -537,6 +537,8 @@ predvsem nudi Ultimate Inc."</string>
   <string name="err_media_handle">Na žalost nismo uspeli dobiti medija. Poskusite ponovno.</string>
   <string name="err_offline_on_playback">Na žalost morate biti na omrežju za predvajanje tega medija.</string>
   <string name="error_forbidden">Sinhronizacija je bila izključena zaradi problemov z vašim računom.</string>
+    <string name="error_message_no_internet_connection">Ne morem se povezati na omrežje. Preverite povezavo in spet poskusite.</string>
+    <string name="error_message_something_went_wrong">Nekaj je šlo narobe, poskusite znova.</string>
   <string name="error_not_acceptable">Sinhronizacija je izklopljena.</string>
      <string name="error_not_support">Ni podprto</string>
   <string name="error_title">"Ne morem sinhronizirati z Mi Računom"</string>
@@ -715,6 +717,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="impunity_declaration_summary">Pokaži "Pogoji uporabe" vsakič kadar se zažene aplikacija "Glasba"</string>
   <string name="impunity_declaration_title">Pogoji uporabe</string>
   <string name="in_searching_please_wait">Iščem...</string>
+  <string name="invalid_number">Število je žal neveljavno</string>
   <string name="individuation_card_login_button">Prijavi se</string>
   <string name="individuation_card_login_message">"Prijavite se da najdete pesmi, ki so vam všeč"</string>
   <string name="individuation_card_title">Za vas</string>
@@ -761,6 +764,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="list_item_play_all_tracks">Dotakni se za predvajanje vseh skladb</string>
   <string name="load_shuffle">Nalaganje…</string>
   <string name="loadercontainer_loading">Nalaganje…</string>
+  <string name="loading">Nalaganje</string>
   <string name="loading_hint">Nalaganje</string>
   <string name="loading_reached_the_bottom">"To je za zdaj vse."</string>
   <string name="local_header_title">Lokalna glasba</string>
@@ -847,6 +851,12 @@ predvsem nudi Ultimate Inc."</string>
   <string name="modify_progress_helper">Podrsajte navzgor ali navzdol za prilagoditev napredka besedila.</string>
   <string name="modify_song_info">Uredi</string>
   <string name="modify_song_info_success">Informacije o skladbi so posodobljene</string>
+    <string name="moe_inbox_name">Center za obveščanje</string>
+    <string name="moe_message_to_register">Kliknite gumb za registracijo, da se registrirate za preverjanje integracije.</string>
+    <string name="moe_message_to_unregister">Naprava je registrirana za preverjanje integracije. Za odjavo kliknite gumb</string>
+    <string name="moe_notification_center_empty">Center za obveščanje prazno</string>
+    <string name="moe_register">PRIJAVITE SE</string>
+    <string name="moe_unregister">ODJAVITE SE</string>
      <string name="monday">Ponedeljek</string>
      <string name="monday_short">Pon</string>
      <string name="monday_shortest">P</string>
