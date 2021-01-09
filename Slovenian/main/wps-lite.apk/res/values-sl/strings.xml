@@ -123,7 +123,7 @@
     <string name="feedback_other_subject">Drugi problemi</string>
     <string name="feedback_save_subject">Izguba podatkov</string>
     <string name="feedback_subject">Povratne informacije uporabnikov</string>
-    <string name="feedback_suggestion_subject">Predlogi za funkcije</string>
+    <string name="feedback_suggestion_subject">Predlogi za storitve</string>
     <string name="filter">Filter</string>
     <string name="func_extract_sheet">Razširi</string>
     <string name="func_output_as_pic">Slika</string>
@@ -272,7 +272,7 @@
     <string name="public_selectText">Izberi</string>
     <string name="public_sensor_ratation_land_tip">Pokrajina</string>
     <string name="public_sensor_ratation_port_tip">Portret</string>
-    <string name="public_service_disable_error_tips">"Te funkcije ni mogoče uporabiti, ker je povezana storitev onemogočena."</string>
+    <string name="public_service_disable_error_tips">"Te storitve ni mogoče uporabiti, ker je povezana storitev onemogočena."</string>
     <string name="public_share_no_network">"Ne morem se povezati na omrežje"</string>
     <string name="public_share_retry">Poskusite ponovno</string>
     <string name="public_shareplay_connect_fail">Preverite omrežno povezavo</string>

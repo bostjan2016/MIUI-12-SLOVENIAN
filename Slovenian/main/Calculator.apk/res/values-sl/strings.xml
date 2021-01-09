@@ -158,6 +158,7 @@
   <string name="dont_allow">"Ne sprejmem"</string>
   <string name="eDesc">"Eulerjevo število"</string>
   <string name="email">E-pošta</string>
+  <string name="equalDesc">je enako</string>
   <string name="error">Napaka</string>
   <string name="error_fomrat">Napaka formata</string>
   <string name="error_forbidden">Sinhronizacija je izključena zaradi težav z Mi Računom.</string>
@@ -415,6 +416,7 @@ Enoletni in petletni LPR bodo objavljeni 20. v mesecu (zamude lahko nastanejo za
   <string name="mortgage_tab_combining_loan">Kombinirano</string>
   <string name="mortgage_tab_commercial_loan">Komercialno</string>
   <string name="mortgage_years_amount">Trajanje kredita</string>
+  <string name="mulDesc">krat</string>
   <string name="mt_max">Vneseni znesek je prevelik</string>
   <string name="name">Ime</string>
   <string name="name_amount">Znesek</string>
@@ -445,6 +447,7 @@ Enoletni in petletni LPR bodo objavljeni 20. v mesecu (zamude lahko nastanejo za
   <string name="note">Beležka</string>
   <string name="ok">V redu</string>
   <string name="organization">Organizacija</string>
+  <string name="powerDesc">vklop</string>
   <string name="percentDesc">odstotek</string>
   <string name="perm_payment_dspt">Dovolite aplikaciji plačilo z uporabo Mi Plačilne storitve</string>
   <string name="perm_payment_lab">Mi Plačilne storitve</string>

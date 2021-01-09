@@ -125,7 +125,7 @@
      <string name="continuous_default_hint">Kopirajte besedilo, shranjujte slike in posnetke zaslona kot izvlečke</string>
      <string name="continuous_new_excerpt_title">Nov izvleček</string>
   <string name="copy">Kopiraj</string>
-  <string name="cta_agree_desc">Dovoli, da se ta aplikacija poveže na splet in dajte neobvezna dovoljenja, tako da lahko uporablja vse svoje funkcije.</string>
+  <string name="cta_agree_desc">Dovoli, da se ta aplikacija poveže na splet in dajte neobvezna dovoljenja, tako da lahko uporablja vse svoje storitve.</string>
   <string name="cta_confirm_cancel">"Prekliči"</string>
   <string name="cta_confirm_ok">Dovoli</string>
   <string name="cta_dialog_message">Aplikacija beležke potrebuje povezavo s spletom, snemanje zvoka in dostop do vaših stikov za normalno delovanje. Dovolim?</string>
@@ -523,7 +523,7 @@ Tapnite + da napravite mapo"</string>
   <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI bo zbral vaše zvočne posnetke in ID naprave da prepiše zvok in napravi zvočne beležke. Izvedite več v Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="permlab_accessNote">Dostop do beležk</string>
   <string name="pm">PM</string>
-     <string name="pref_category_title_quick_func">Hitre funkcije</string>
+     <string name="pref_category_title_quick_func">Hitre storitve</string>
   <string name="pref_desc_alarm_when_silent">Alarmi opomnikov bodo še vedno slišni če bo zvonjenje na tiho.</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne sprašuj za potrditev ob brisanju beležke z uporabo giba"</string>
   <string name="pref_desc_todo_float_mode">Podrsajte s prstom od roba zaslona da odprete okvir orodja z nalogami</string>

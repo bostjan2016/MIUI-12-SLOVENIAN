@@ -338,7 +338,7 @@
      <string name="moose">Los</string>
   <string name="more">Več</string>
   <string name="more_ringtone">Vsa zvonenja</string>
-     <string name="more_ringtones">Još melodija zvona</string>
+     <string name="more_ringtones">Več melodij zvonenja</string>
   <string name="more_settings">Nastavitve</string>
   <string name="morning">AM</string>
   <string name="most_unlock_week_day">"Največ odklepov: "</string>
@@ -604,7 +604,7 @@ Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje nasl
   <string name="usage_runtime_per_des_title">"Dodajanje in brisanje datotek v notranjem pomnilniku naprave"</string>
   <string name="usage_runtime_summary">Ta dovoljenja so potrebna za omogočanje osnovnih funkcij in storitev te aplikacije.</string>
   <string name="usage_runtime_title">Obvezna dovoljenja</string>
-  <string name="usage_special_feature">Posebne funkcije</string>
+  <string name="usage_special_feature">Posebne storitve</string>
   <string name="usage_state_accurate_date">dd.MM.yyyy</string>
   <string name="usage_state_add_up_count">Seje</string>
   <string name="usage_state_add_up_days">Dnevi</string>

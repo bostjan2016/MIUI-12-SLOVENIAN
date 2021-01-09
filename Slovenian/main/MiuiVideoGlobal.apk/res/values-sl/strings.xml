@@ -449,7 +449,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="galleryplus_online_cta_disagree">Ne strinjam se</string>
     <string name="galleryplus_online_cta_title">Pogoji in določila</string>
     <string name="galleryplus_online_video_loading">Samo trenutek…</string>
-    <string name="galleryplus_permission_content">Dodelite aplikaciji Mi Video zahtevana dovoljenja, za uporabo te funkcije.</string>
+    <string name="galleryplus_permission_content">Dodelite aplikaciji Mi Video zahtevana dovoljenja, za uporabo te storitve.</string>
     <string name="galleryplus_permission_content2">"Za uporabo te storitve pojdite na Nastavitve > Aplikacije > Mi Video > Dovoljenja aplikacij ter aplikaciji Mi Video dovolite:
 
 1. Dostop do pomnilnika
@@ -832,7 +832,7 @@ Najprej posodobite Mi Video na najnovejšo različico."</string>
     <string name="ovp_setting_clear_cache_text">Počistite predpomnilnik datotek shranjenih na vaši napravi</string>
     <string name="ovp_setting_clear_cache_title">Počisti predpomnilnik</string>
     <string name="ovp_setting_privacy_policy_title">Pravila o zasebnosti</string>
-    <string name="ovp_setting_privacy_switch_tips">Če prekličete dovoljenje, nekatere funkcije ne bodo na voljo</string>
+    <string name="ovp_setting_privacy_switch_tips">Če prekličete dovoljenje, nekatere storitve ne bodo na voljo</string>
     <string name="ovp_setting_privacy_switch_title">Pooblastilo in preklic</string>
   <string name="ovp_setting_user_agreement_title">Pogoji uporabe</string>
     <string name="ovp_setting_version_info_title">Različica</string>
@@ -1256,7 +1256,7 @@ Izboljša varnost vašega računa."</string>
     <string name="ticket_sign_in">Prijavite se s SMSom</string>
     <string name="tip_auth_again">Ker se predhodno niste strinjali s pogoji ustreznega Pravilnika o zasebnosti tretjega ponudnika vsebine, trenutno ne moremo prikazati video vsebin. Dotaknite se spodnjega gumba, da se strinjate s Pravili o zasebnosti in dostopate do te storitve.</string>
     <string name="tip_author_click">Tapnite za ogled več videoposnetkov iz tega računa</string>
-    <string name="tip_pop"><Data>Vsebino funkcije Trenutki vam zagotavlja Firework. Da bi izboljšali vašo izkušnjo gledalca, ter da bi prejeli več ustreznih priporočil vsebin omogočite Fireworku zbiranje, obdelavo in uporabo vaših osebnih podatkov, glede na Pravila o zasebnosti. Preberite in se strinjajte z &lt;a href=\"%1$s\">Firework Pravila o zasebnosti&lt;/a> pred uporabo aplikacije.</Data></string>
+    <string name="tip_pop"><Data>Vsebino storitve Trenutki vam zagotavlja Firework. Da bi izboljšali vašo izkušnjo gledalca, ter da bi prejeli več ustreznih priporočil vsebin omogočite Fireworku zbiranje, obdelavo in uporabo vaših osebnih podatkov, glede na Pravila o zasebnosti. Preberite in se strinjajte z &lt;a href=\"%1$s\">Firework Pravila o zasebnosti&lt;/a> pred uporabo aplikacije.</Data></string>
     <string name="tip_topic_click">Tapnite, da boste našli več videoposnetkov iste teme</string>
     <string name="title_firework_recommend">Firework priporočila</string>
     <string name="title_publisher">Ustvarjalci</string>

@@ -112,7 +112,7 @@
   <string name="msglist_continue_to_pull_for_more">Povlecite dol da boste videli več</string>
   <string name="msglist_more_refreshing">Osvežujem…</string>
   <string name="msglist_no_more_to_refresh">Vse je osveženo</string>
-  <string name="msglist_release_to_more">Odpustite da boste videli več</string>
+  <string name="msglist_release_to_more">Spustite da boste videli več</string>
   <string name="mx_auto_resend_mms">Pošlji kot MMS</string>
   <string name="mx_auto_resend_mms_summary">Pošlji multimedijska sporočila kot MMS s pomočjo mobilne podatkovne povezave kadar niste povezani na WiFi. Stroški so lahko veliki.</string>
   <string name="mx_auto_resend_sms">Pošlji kot SMS sporočilo</string>

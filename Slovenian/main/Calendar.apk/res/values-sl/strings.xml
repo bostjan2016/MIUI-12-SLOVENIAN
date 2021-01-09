@@ -198,6 +198,7 @@
      <string name="credit_detail_sms_content">SMS vsebina</string>
   <string name="custom">"Prilagojeno (ni možno na tablici)"</string>
   <string name="daily">Dnevno</string>
+  <string name="date_picker_lunar">Tradicionalni kitajski koledar</string>
   <string name="date_calculate">Izračunaj rezultat</string>
   <string name="date_calculate_days">Vnesite število dni</string>
   <string name="date_calculate_description">Izvedite kateri datum je pred ali za izbranim dnem</string>
@@ -392,6 +393,7 @@
   <string name="login_failed_toast">"Ne morem se prijaviti, osvežite in poskusite ponovno"</string>
   <string name="logining_caldav_account">Dodajanje…</string>
   <string name="lunar_date">Lunin koledar</string>
+  <string name="lunar_date_content_desc">Datum po tradicionalnem kitajskem koledarju</string>
   <string name="lunar_to_solar_chinese_calendar">Kitajski v Gregorijanski</string>
   <string name="map_label">Map</string>
   <string name="match_select_activity_label">Izberi ujemanja</string>

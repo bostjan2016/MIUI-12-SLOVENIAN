@@ -361,7 +361,7 @@
   <string name="photo_count">%d skupno</string>
   <string name="pull_to_refresh_pull_label">Povleci za osvežitev…</string>
   <string name="pull_to_refresh_refreshing_label">Samo trenutek…</string>
-  <string name="pull_to_refresh_release_label">Odpusti za osvežitev…</string>
+  <string name="pull_to_refresh_release_label">Spusti za osvežitev…</string>
   <string name="quick_yellow_page_tab_call_log">Dnevnik klicev</string>
   <string name="quick_yellow_page_tab_phones">Telefon</string>
   <string name="recharge_actual_price">Cena:</string>

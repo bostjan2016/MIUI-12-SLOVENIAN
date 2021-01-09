@@ -216,7 +216,7 @@ Izbor"</string>
     <string name="clear_saved_traces">Izbriši shranjene sledi</string>
     <string name="clear_saved_traces_question">Želite izbrisati shranjene sledi?</string>
   <string name="clear_saved_traces_summary">Sledi bodo izbrisane čez en mesec</string>
-    <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev, funkcije za zaščito naprave v tej napravi ne bodo delovale.</string>
+    <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev, storitve za zaščito naprave v tej napravi ne bodo delovale.</string>
     <string name="confirm_enable_oem_unlock_title">Želite omogočiti odklepanje OEM?</string>
     <string name="connected_via_app">Povezava vzpostavljena preko omrežja %1$s</string>
     <string name="connected_via_carrier">Vzpostavljena povezava preko: %1$s</string>

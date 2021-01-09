@@ -207,7 +207,7 @@
   <string name="general_error">"Ne morem prepoznati"</string>
   <string name="general_feedback">Prijavi napačen rezultat</string>
   <string name="general_location">Dovolite optičnemu bralniku dostop do vaše lokacije za pridobitev lokacijskih storitev</string>
-  <string name="general_location_dialog">Nekatere funkcije prepoznavanja predmetov ponuja Dianping. Če želite prepoznati predmete v trgovinah, mora Dianping uporabiti fotografije, ki jih posnamete med uporabo te funkcije, skupaj z informacijami o njihovi lokaciji, da vam zagotovi ustrezne rezultate.</string>
+  <string name="general_location_dialog">Nekatere storitve prepoznavanja predmetov ponuja Dianping. Če želite prepoznati predmete v trgovinah, mora Dianping uporabiti fotografije, ki jih posnamete med uporabo te storitve, skupaj z informacijami o njihovi lokaciji, da vam zagotovi ustrezne rezultate.</string>
   <string name="general_location_prompt">Dostop do lokacije</string>
   <string name="general_no">"Ne najdem rezultatov"</string>
   <string name="general_no_found">Poglejte te izdelke</string>

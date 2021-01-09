@@ -160,8 +160,8 @@
   <string name="accessibility_button_prompt_text">Izberite storitev, ki jo želite uporabljati ko tapnete gumb Dostopnost:</string>
     <string name="accessibility_dialog_button_allow">Dovoli</string>
     <string name="accessibility_dialog_button_deny">Zavrni</string>
-    <string name="accessibility_edit_shortcut_menu_button_title">Izberite funkcije, ki jih želite uporabljati z gumbom za funkcije za ljudi s posebnimi potrebami</string>
-    <string name="accessibility_edit_shortcut_menu_volume_title">Izberite funkcije, ki jih želite uporabljati z bližnjico na tipki za glasnost</string>
+    <string name="accessibility_edit_shortcut_menu_button_title">Izberite storitve, ki jih želite uporabljati z gumbom za storitve za ljudi s posebnimi potrebami</string>
+    <string name="accessibility_edit_shortcut_menu_volume_title">Izberite storitve, ki jih želite uporabljati z bližnjico na tipki za glasnost</string>
     <string name="accessibility_enable_service_encryption_warning">Če vklopite storitev %1$s, vaša naprava ne bo uporabljala zaklepanja zaslona za izboljšanje šifriranja podatkov.</string>
     <string name="accessibility_enable_service_title">Ali storitvi %1$s dovolite popoln nadzor nad svojo napravo?</string>
   <string name="accessibility_enabled">Dostopnost je omogočena.</string>
@@ -183,17 +183,17 @@
     <string name="accessibility_shortcut_menu_item_status_on">VKLOPLJENO</string>
     <string name="accessibility_shortcut_multiple_service_list">"\u0009• %1$s
 "</string>
-    <string name="accessibility_shortcut_multiple_service_warning">"Če za nekaj sekund pridržite obe tipki za glasnost, boste vklopili funkcije za ljudi s posebnimi potrebami. To lahko spremeni način delovanja naprave.
+    <string name="accessibility_shortcut_multiple_service_warning">"Če za nekaj sekund pridržite obe tipki za glasnost, boste vklopili storitve za ljudi s posebnimi potrebami. To lahko spremeni način delovanja naprave.
 
-Trenutne funkcije:
+Trenutne storitve:
 %1$s
-Izbrane funkcije lahko spremenite v meniju »Nastavitve« > »Funkcije za ljudi s posebnimi potrebami«."</string>
-    <string name="accessibility_shortcut_multiple_service_warning_title">Želite vklopiti funkcije za ljudi s posebnimi potrebami?</string>
+Izbrane storitve lahko spremenite v meniju »Nastavitve« > »Storitve za ljudi s posebnimi potrebami«."</string>
+    <string name="accessibility_shortcut_multiple_service_warning_title">Želite vklopiti storitve za ljudi s posebnimi potrebami?</string>
     <string name="accessibility_shortcut_off">Ne vklopi</string>
     <string name="accessibility_shortcut_on">Vklopi</string>
     <string name="accessibility_shortcut_single_service_warning">"Če za nekaj sekund pridržite obe tipki za glasnost, boste vklopili storitev %1$s, ki je funkcija za ljudi s posebnimi potrebami. To lahko spremeni način delovanja naprave.
 
-To bližnjico lahko v meniju »Nastavitve« > »Funkcije za ljudi s posebnimi potrebami« spremenite, da bo uporabljena za drugo funkcijo."</string>
+To bližnjico lahko v meniju »Nastavitve« > »Storitve za ljudi s posebnimi potrebami« spremenite, da bo uporabljena za drugo funkcijo."</string>
     <string name="accessibility_shortcut_single_service_warning_title">Želite vklopiti storitev %1$s?</string>
     <string name="accessibility_shortcut_spoken_feedback">Za uporabo storitve %1$s pritisnite obe tipki za glasnost in ju pridržite tri sekunde</string>
   <string name="accessibility_shortcut_toogle_warning">"Ko je bližnjica vključena se bo z pritiskom na obe tipke za glasnost 3 sekunde zagnala storitev dostopnosti.
@@ -342,13 +342,13 @@ To bližnjico lahko v meniju »Nastavitve« > »Funkcije za ljudi s posebnimi po
   <string name="back_button_label">Nazaj</string>
   <string name="badPin">Vneseni stari PIN ni pravilen.</string>
   <string name="badPuk">Vneseni PUK ni pravilen.</string>
-    <string name="battery_saver_charged_notification_summary">Baterija v telefonu je dovolj napolnjena. Funkcije niso več omejene.</string>
+    <string name="battery_saver_charged_notification_summary">Baterija v telefonu je dovolj napolnjena. Storitve niso več omejene.</string>
     <string name="battery_saver_charged_notification_title">Napolnjenost telefona: %1$s</string>
-    <string name="battery_saver_description">Varčevanje z energijo akumulatorja izklopi ali omeji dejavnost v ozadju, nekatere vizualne učinke in druge funkcije z visoko porabo energije, da podaljša čas delovanja akumulatorja.</string>
-    <string name="battery_saver_description_with_learn_more">Varčevanje z energijo akumulatorja izklopi ali omeji dejavnost v ozadju, nekatere vizualne učinke in druge funkcije z visoko porabo energije, da podaljša čas delovanja akumulatorja. <annotation id="url">Več o tem</annotation></string>
+    <string name="battery_saver_description">Varčevanje z energijo akumulatorja izklopi ali omeji dejavnost v ozadju, nekatere vizualne učinke in druge storitve z visoko porabo energije, da podaljša čas delovanja akumulatorja.</string>
+    <string name="battery_saver_description_with_learn_more">Varčevanje z energijo akumulatorja izklopi ali omeji dejavnost v ozadju, nekatere vizualne učinke in druge storitve z visoko porabo energije, da podaljša čas delovanja akumulatorja. <annotation id="url">Več o tem</annotation></string>
     <string name="battery_saver_notification_channel_name">Varčevanje z energijo akumulatorja</string>
-    <string name="battery_saver_off_alternative_notification_summary">Varčevanje z energijo akumulatorja je izklopljeno. Funkcije niso več omejene.</string>
-    <string name="battery_saver_off_notification_summary">Varčevanje z energijo akumulatorja je izklopljeno. Funkcije niso več omejene.</string>
+    <string name="battery_saver_off_alternative_notification_summary">Varčevanje z energijo akumulatorja je izklopljeno. Storitve niso več omejene.</string>
+    <string name="battery_saver_off_notification_summary">Varčevanje z energijo akumulatorja je izklopljeno. Storitve niso več omejene.</string>
   <string name="battery_saver_off_notification_title">Varčevanje z energijo baterije je izklopljeno</string>
     <string name="battery_saver_sticky_disabled_notification_summary">Akumulator je dovolj napolnjen. Varčevanje z energijo akumulatorja se ne bo znova aktiviralo, dokler akumulator ne bo znova skoraj prazen.</string>
     <string name="battery_saver_sticky_disabled_notification_title">Varčevanje z energijo akumulatorja se ne bo znova aktiviralo, dokler akumulator ne bo znova skoraj prazen</string>
@@ -2032,7 +2032,7 @@ Preostalo poskusov :"</string>
     <string name="private_dns_broken_detailed">Do zasebnega strežnika DNS ni mogoče dostopati</string>
   <string name="profile_encrypted_detail">Delovni profil je zaklenjen</string>
   <string name="profile_encrypted_message">Dotaknite se za odkl. del. pr.</string>
-    <string name="profile_encrypted_title">Nekatere funkcije bodo morda omejene</string>
+    <string name="profile_encrypted_title">Nekatere storitve bodo morda omejene</string>
   <string name="progress_erasing">Brisanje pomnilnika USB ...</string>
   <string name="progress_nomediapresent">Ni prenosnega medija …</string>
   <string name="progress_unmounting">Izpenjanje pomnilnika USB ...</string>

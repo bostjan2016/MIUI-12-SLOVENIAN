@@ -80,7 +80,7 @@
   <string name="disagreement_donnot_use_product">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati tega proizvoda. Lahko se odločite da ne boste uporabljali proizvoda."</string>
   <string name="disagreement_donnot_use_service">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati te storitve. Lahko se odločite da ne boste uporabljali storitve."</string>
   <string name="disagreement_exit_app">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati aplikacije. Lahko se odjavite ali ji omejite dovoljenja."</string>
-  <string name="disagreement_function">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati te funkcije. Lahko se odločite da je ne boste uporabljali."</string>
+  <string name="disagreement_function">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati te storitve. Lahko se odločite da je ne boste uporabljali."</string>
   <string name="disagreement_location_service">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati te storitve."</string>
   <string name="disagreement_terminate_service">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati te storitve. Lahko jo odstranite, se odjavite ali ji omejite dovoljenja v Nastavitvah."</string>
   <string name="download_introduction">Ta aplikacija upravlja vaše prenose, vključno tiste v GetAppsu, Mi Video, Posodabljanju, Temah in Brskalniku.</string>

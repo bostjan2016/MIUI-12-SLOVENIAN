@@ -24,7 +24,7 @@
   <string name="bluetooth_disconnected">Ni seznanjeno</string>
   <string name="bluetooth_disconnecting">Prekinitev povezave…</string>
   <string name="bluetooth_in_airplane_mode">Pri Načinu za letalo</string>
-  <string name="bluetooth_map_remote_advance_feature_support">Podprte so funkcije dostopa do naprednih sporočil</string>
+  <string name="bluetooth_map_remote_advance_feature_support">Podprte so storitve dostopa do naprednih sporočil</string>
   <string name="bluetooth_map_remote_message_access_feature_downgrade">Zmanjšaj možnost dostopa do oddaljenih sporočil</string>
   <string name="bluetooth_map_repair_for_adv_message_access_feature">Znova seznanite za funkcijo dostopa do naprednih sporočil</string>
   <string name="bluetooth_map_repair_for_message_access_version_comp">Znova seznanite za združljivost različice dostopa do sporočil</string>

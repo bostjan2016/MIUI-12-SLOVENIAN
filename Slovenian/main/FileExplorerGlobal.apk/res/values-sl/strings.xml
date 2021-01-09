@@ -190,7 +190,7 @@
     <string name="deepclean_video_content">Izbriši že ogledane ali nepotrebne videoposnetke</string>
     <string name="deepclean_video_summary_empty">Vse zgleda vredu</string>
     <string name="default_cache_type">Podatkovne datoteke</string>
-    <string name="default_change_log">Posodobite aplikacijo, da preverite nove funkcije.</string>
+    <string name="default_change_log">Posodobite aplikacijo, da preverite nove storitve.</string>
     <string name="delete_dialog_button">Izbriši</string>
     <string name="delete_error">Brisanje datotek ni uspelo, poskusite ponovno</string>
     <string name="delete_file">Izbrišem to datoteko?</string>

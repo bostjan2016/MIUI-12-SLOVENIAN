@@ -222,7 +222,7 @@
     <string name="speed_bump_lockout_message">Glejte na cesto</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="system_warning">Če zavrnete to dovoljenje, osnovne funkcije naprave morda ne bodo več delovale, kot bi morale.</string>
+    <string name="system_warning">Če zavrnete to dovoljenje, osnovne storitve naprave morda ne bodo več delovale, kot bi morale.</string>
     <string name="uninstall_app">Odmesti</string>
     <string name="v7_preference_off">IZKLOPLJENO</string>
     <string name="v7_preference_on">VKLOPLJENO</string>

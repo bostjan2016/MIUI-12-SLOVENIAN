@@ -359,7 +359,7 @@ Mi zdravje vas bo obvestil samo o pomembnih stvareh."</string>
   <string name="dialog_sleep_record_auto_start">Za točnejšo spremljavo spanja dovolite Mi zdravje samodejni zagon.</string>
   <string name="dialog_sure">V redu</string>
     <string name="dialog_user_agreement_purpose">Dobrodošli v Mi zdravje! Z aplikacijo lahko štejete korake, spremljate spanje, menstruacijo in težo ter prejemate zdravstvene nasvete.</string>
-  <string name="dialog_user_agreement_purpose2">Dobrodošli v Mi zdravje. S pomočjo te aplikacije lahko štejete korake, spremljate spanje, menstruacijo, težo, storitev Mi zdravje Cloud in druge funkcije.</string>
+  <string name="dialog_user_agreement_purpose2">Dobrodošli v Mi zdravje. S pomočjo te aplikacije lahko štejete korake, spremljate spanje, menstruacijo, težo, storitev Mi zdravje Cloud in druge storitve.</string>
   <string name="diastolic_pressure">Diastolični</string>
   <string name="disable">Izključeno</string>
   <string name="drag_sort">Preuredi</string>
@@ -446,7 +446,7 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
      <string name="exercise_strokes">Število zamahov</string>
   <string name="exercise_sum">Poročilo o vadbi</string>
   <string name="exercise_time">Trajanje</string>
-  <string name="exercise_walk_description">Po prehranskih smernicah za prebivalce Kitajske naj bi aktivna telesna aktivnost trajala vsaj 40 minut na dan, kar je enako hoji 6000 korakov. Tu so povzet opravila, ki jih izvajate vsak dan - hoja, tek in vzpon.</string>
+  <string name="exercise_walk_description">Po prehranskih smernicah za prebivalce Kitajske naj bi aktivna telesna aktivnost trajala vsaj 40 minut na dan, kar je enako hoji 6000 korakov. Tu so povzeta opravila, ki jih izvajate vsak dan - hoja, tek in vzpon.</string>
   <string name="exit_running_tips_cancel">Da</string>
   <string name="exit_running_tips_confirm">Ne</string>
   <string name="exit_running_tips_desc">"Kaže, da še niste začeli telovaditi. Končam s to vadbo?"</string>
@@ -1172,7 +1172,7 @@ podatkov o spanju"</string>
   <string name="sleep_snore_audio_file_mamagement_title">Samodejno izbriši posnetke</string>
   <string name="sleep_snore_audio_file_saved">Posnetki se shranjujejo samodejno</string>
   <string name="sleep_snore_audio_file_saved_desc">Za odkrivanje smrčanja in govora se uporablja algoritem brez povezave. Vsi posnetki bodo shranjeni lokalno v tej napravi, ne da bi razkrili vaše zasebne podatke.</string>
-  <string name="sleep_snore_audio_hight_power_desc">"Upoštevajte, da uporaba te funkcije porabi veliko energije. Dobro je, da polnilnik med spanjem vključite v vtičnico, da se izognete nepričakovanim prekinitvam."</string>
+  <string name="sleep_snore_audio_hight_power_desc">"Upoštevajte, da uporaba te storitve porabi veliko energije. Dobro je, da polnilnik med spanjem vključite v vtičnico, da se izognete nepričakovanim prekinitvam."</string>
   <string name="sleep_snore_detection">Odkrijte smrčanje in govorjenje če želite izvedeti več o spanju</string>
   <string name="sleep_snore_detection_desc">Spremljajte svoje spanje</string>
   <string name="sleep_sober">Budnost</string>

@@ -6,7 +6,7 @@
         <item>Screen Combo;Multiscreen;Predvajanje zaslona;PC;Računalnik</item>
     </string-array>
     <string-array name="settings_tips_message">
-        <item>"1. Pred uporabo funkcije Screen Combo izklopite prenosno dostopno točko, Mi Share ali oddajanje v mobilni napravi.
+        <item>"1. Pred uporabo storitve Screen Combo izklopite prenosno dostopno točko, Mi Share ali oddajanje v mobilni napravi.
 2. Izključite WiFi na mobilni napravi in računalniku.
 3. Preverite ali je vaša mobilna naprava blizu računalnikaa."</item>
         <item>Vaš računalnik uporablja Bluetooth za zaznavanje prej povezanih mobilnih naprav. Prepričajte se, da je v mobilni napravi vklopljen Bluetooth.</item>

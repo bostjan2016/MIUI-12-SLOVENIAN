@@ -2858,7 +2858,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="permission_send_sms_descx">Pošlji SMS in MMS sporočila neposredno</string>
   <string name="permission_upgrade_more">Več funkcij zaščite zasebnosti</string>
   <string name="permission_upgrade_privacy_title">"Dovoljenja za snemanje zvoka in dostop do stikov zdaj omogočajo dodelitev takšnih dovoljenj samo med uporabo ustreznih aplikacij. Za varovanje zasebnosti vaših osebnih podatkov aplikacije ne bodo izvajale teh ukrepov v ozadju."</string>
-  <string name="permission_upgrade_runtime">"Dovoljenja za dostop do vaše lokacije ali fotografiranje imajo zdaj možnost, da takšna dovoljenja lahko odobrite samo enkrat. Zaradi varovanja zasebnosti vaših osebnih podatkov se ta dejanja ne bodo izvajala po izhodu iz aplikacije. Ko boste naslednjič uporabili povezane funkcije, boste spet vprašani za dovoljenje."</string>
+  <string name="permission_upgrade_runtime">"Dovoljenja za dostop do vaše lokacije ali fotografiranje imajo zdaj možnost, da takšna dovoljenja lahko odobrite samo enkrat. Zaradi varovanja zasebnosti vaših osebnih podatkov se ta dejanja ne bodo izvajala po izhodu iz aplikacije. Ko boste naslednjič uporabili povezane storitve, boste spet vprašani za dovoljenje."</string>
   <string name="permission_upgrade_title">Posodobljena dovoljenja</string>
   <string name="permission_upgrade_virtual">"Če ne želite aplikacijam dovoliti dostopa do vaših stikov ali zgodovine klicev, lahko izberete \ "Vrni prazno sporočilo \" ko daste dovoljenje."</string>
   <string name="permission_with_SMS_and_MMS">Dovoljenja za SMS in MMS</string>
@@ -3472,7 +3472,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_dialog_camera_message">"Za zaščito vaše zasebnosti MIUI ne dovoljuje aplikacijam, da uporabljajo vašo kamero v ozadju."</string>
   <string name="privacy_dialog_camera_title">Omeji uporabo kamere v ozadju</string>
      <string name="privacy_dialog_content_part1">Dobrodošli v Varnost! Ta aplikacija preverja, ali so v vaši napravi smeti in virusi, omogoča pa tudi upravljanje aplikacij, nadzor nad porabo mobilnih podatkov, blokiranje klicev in sporočil ter drugo.</string>
-     <string name="privacy_dialog_content_part2"><Data>Varnost mora zbrati potrebne osebne podatke, da vam nudi svoje storitve in lahko izboljša svoje funkcije. Naučite se, kako ravnamo s podatki, ki jih zbiramo v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. V nastavitvah lahko kadarkoli prekličete soglasje za Pravila o zasebnosti.</Data></string>
+     <string name="privacy_dialog_content_part2"><Data>Varnost mora zbrati potrebne osebne podatke, da vam nudi svoje storitve in lahko izboljša svoje storitve. Naučite se, kako ravnamo s podatki, ki jih zbiramo v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. V nastavitvah lahko kadarkoli prekličete soglasje za Pravila o zasebnosti.</Data></string>
      <string name="privacy_dialog_content_part3"><Data>"Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> pred uporabo aplikacije. Če se ne strinjate z uporabo zgoraj omenjenih storitev, nekaterih funkcij te aplikacije ne boste mogli uporabljati; vendar vam bo osnovna funkcionalnost še vedno na voljo."</Data></string>
   <string name="privacy_dialog_danger_mission_message">Android ima več dovoljenj z visokim tveganjem (npr. Dovoljenje za potisno obveščanje). Za zaščito vaše zasebnosti vas bo MIUI vprašal, če dopuščate takšno vedenje in določite omejitve.</string>
   <string name="privacy_dialog_danger_mission_title">Dovoljenja visokega tveganja</string>
@@ -4217,7 +4217,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="storage_app_list_desc">Zasedeni prostor: %s</string>
   <string name="storage_app_manager_clear_dlg_title">Izbriši podatke</string>
   <string name="storage_app_manager_clear_failed_dlg_message">"Ne morem izbrisati podatke aplikacije"</string>
-  <string name="storage_app_manager_disable_dlg_text">Če onemogočite to aplikacijo, lahko nekatere funkcije ne delujejo pravilno.</string>
+  <string name="storage_app_manager_disable_dlg_text">Če onemogočite to aplikacijo, lahko nekatere storitve ne delujejo pravilno.</string>
   <string name="storage_app_manager_disable_dlg_title">Onemogočim vnaprej nameščeno aplikacijo?</string>
   <string name="storage_app_manager_disable_text">Onemogoči</string>
   <string name="storage_app_manager_factory_reset_dlg_msg">Vse posodobitve te sistemske aplikacije Android bodo odstranjene.</string>

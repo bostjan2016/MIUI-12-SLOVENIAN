@@ -49,7 +49,7 @@
      <string name="account_security_verification">Preverjanje računa</string>
   <string name="account_set_up_change_type_note">Če želite preklopiti med nastavitvami POP3 in IMAP izbrišite svoj račun in ustvarite novega z željenimi nastavitvami.</string>
   <string name="account_setting">Računi</string>
-     <string name="account_setting_general_summry">Nastavite e-poštne funkcije</string>
+     <string name="account_setting_general_summry">Nastavite e-poštne storitve</string>
      <string name="account_setting_general_title">Nastavitve funkcij</string>
   <string name="account_setting_keywords">Računi;e-pošta</string>
   <string name="account_setting_message_body_load_complete">Celo sporočilo</string>

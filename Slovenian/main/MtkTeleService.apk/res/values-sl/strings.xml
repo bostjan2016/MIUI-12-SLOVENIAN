@@ -907,7 +907,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="hac_mode_title">Slušni aparat</string>
   <string name="handon_ringer_summary">Zmanjšajte glasnost zvonjenja za dohodni klic ko se dvigne telefon. To opravilo ne deluje ko je vibracija za dohodne klice vklopljena.</string>
   <string name="handon_ringer_title">Ustavi vibracijo ko je dvignjen</string>
-  <string name="hd_voice_switch_summary">Pred vključitvijo tega menija morate storitev VoLTE aktivirati pri vašem operaterju, sicer lahko to vpliva na običajne funkcije klica</string>
+  <string name="hd_voice_switch_summary">Pred vključitvijo tega menija morate storitev VoLTE aktivirati pri vašem operaterju, sicer lahko to vpliva na običajne storitve klica</string>
   <string name="hd_voice_switch_title">VoLTE klici</string>
   <string name="hdcp_checking_dialog_title">Nastavitve HDCP preverjanja</string>
   <string name="hdcp_checking_title">HDCP preverjanje</string>
@@ -1947,7 +1947,7 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="wfc_internet_connection_lost">Spletna povezava je izgubljena</string>
   <string name="wfc_internet_lost_summary">"Opa! Vaš WiFi je povezan, spletne povezave pa ni.
  
-Preverite internetno povezavo na usmerjevalniku WiFi in se poskusite znova povezati."</string>
+Preverite spletno povezavo na usmerjevalniku WiFi in se poskusite znova povezati."</string>
   <string name="wfc_no_network">Na voljo ni kvalificiranega mobilnega omrežja</string>
   <string name="wfc_volte_switch_title">VoLTE</string>
   <string name="wfc_wifi_call_drop">Klici WiFi niso možni</string>

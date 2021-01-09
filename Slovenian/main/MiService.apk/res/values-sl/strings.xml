@@ -41,7 +41,7 @@
     <string name="miservice_notification_boot_content">Izvedite več o tem kaj MIUI lahko naredi</string>
   <string name="miservice_notification_huanji_content">Pošljite z uporabo Mi Mover</string>
   <string name="miservice_notification_huanji_title">Imate važne stvari v starem telefonu?</string>
-    <string name="miservice_notification_open_feedback_content">Vse funkcije povratnih informacij bodo prestavljene v novo aplikacijo</string>
+    <string name="miservice_notification_open_feedback_content">Vse storitve povratnih informacij bodo prestavljene v novo aplikacijo</string>
     <string name="miservice_notification_open_feedback_title">Predstavljanje »Storitve in povratne informacije«</string>
   <string name="miservice_notification_scan_content">Uporabite Skener za prevajanje besed in izrazov</string>
   <string name="miservice_notification_scan_title">Prevedite v trenutku</string>
