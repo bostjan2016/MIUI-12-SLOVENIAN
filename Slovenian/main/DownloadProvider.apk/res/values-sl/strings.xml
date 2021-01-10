@@ -34,7 +34,6 @@
   <string name="download_no_application_title">Ne morem odpreti datoteke</string>
   <string name="download_percent">%d%%</string>
   <string name="download_running">V teku</string>
-  <string name="download_running_percent">V teku, %d%%</string>
   <string name="download_queued">V čakalni vrsti</string>
   <string name="download_remaining">Še %s</string>
   <string name="download_unknown_title">Brez naslova</string>
