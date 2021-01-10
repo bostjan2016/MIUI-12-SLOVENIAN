@@ -243,7 +243,6 @@
 	<plurals name="step_num_format">
         <item quantity="other">%1$d korakov</item>
         <item quantity="one">%1$d korak</item>
-        <item quantity="few">%1$d koraki</item>
     </plurals>
     <plurals name="subtitle_add_record">
         <item quantity="other">"Niste beležili %1$d dni. Zabeležite svoja obdobja da boste dobili natančnejša predvidevanja."</item>

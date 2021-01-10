@@ -11,6 +11,10 @@
         <item>Jahanje na prostem</item>
 	<item>Trening</item>
     </string-array>
+	<string-array name="ShareTabTitle">
+        <item>Slika</item>
+        <item>Pot</item>
+        <item>Kartica</item>
     <string-array name="arr_prompt_label">
         <item>Razumno</item>
         <item>Dolgo</item>

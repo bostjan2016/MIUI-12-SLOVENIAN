@@ -31,6 +31,8 @@
   <string name="autofill_save_sub_message">"Shranjena gesla lahko urejate v Nastavitve &gt; Gesla &amp; Varnost &gt; %s"</string>
   <string name="autofill_save_title">Samodejno shrani gesla</string>
   <string name="autofill_service_name">Urejanje gesel</string>
+     <string name="back_double_tap">nič</string>
+     <string name="back_triple_tap">nič</string>
   <string name="bluetooth_close">Ta aplikacija je izključila Bluetooth</string>
   <string name="bluetooth_disable_notification_content">%s je izključil-a Bluetooth</string>
   <string name="bluetooth_disable_notification_title">Bluetooth je izključen</string>
@@ -62,11 +64,13 @@
   <string name="content_description_translate">Prevedi</string>
   <string name="content_description_web_url">Preglej</string>
   <string name="copy">Kopiraj</string>
+     <string name="customer_location_judgment">Kitajska</string>
   <string name="cut">Izreži</string>
   <string name="data_usage_context">Če WiFi ni vključen se bo naprava povezala na mobilno omrežje kar vam morda lahko povzroči dodatne stroške</string>
   <string name="default_device_name">Neznana naprava</string>
   <string name="default_name">Privzeto</string>
   <string name="description_title">Tihi način</string>
+     <string name="device_name_with_ellipsize">%1$s…</string>
   <string name="device_status_failed">"Ne morem poslati"</string>
   <string name="device_status_sending">Pošiljanje…</string>
   <string name="device_status_success">Uspešno poslano</string>
@@ -74,6 +78,7 @@
   <string name="device_type_pc">Računalnik</string>
      <string name="disable_nfc">Izključen NFC za brezžično polnjenje</string>
      <string name="disable_nfc_reverse">Izključen NFC za obratno brezžično polnjenje</string>
+     <string name="double_knock">nič</string>
   <string name="eighthours">8 ur</string>
   <string name="enable_livetalk_summary">Prihranite 70% pri vaših klicih</string>
   <string name="enable_livetalk_title">Vključi paket doplačila</string>
@@ -141,6 +146,9 @@
   <string name="international_livetalk_enable">Uporabite doplačilo paketa za mednarodne klice</string>
   <string name="key_btn_ok">V redu</string>
   <string name="key_btn_space">Presledek</string>
+     <string name="knock_gesture_v">nič</string>
+     <string name="knock_long_press_horizontal_slid">nič</string>
+     <string name="knock_slide_shape">nič</string>
   <string name="livetalk_not_enable">Paket doplačila izključen</string>
   <string name="location_usage_restricted_body">Dotaknite se za odpravo omejitev.</string>
   <string name="location_usage_restricted_title">Lokacija v ozadju je omejena</string>
@@ -151,7 +159,7 @@
      <string name="magic_window_toast">Aplikacija Multiplier je omogočena.</string>
   <string name="maml_component_customization_title">Nastavitve</string>
   <string name="memory_clear_nothing_result">Uporaba pomnilnika je že optimizirana.</string>
-  <string name="memory_clear_result">"Izbrisano: %1$sB Na voljo: %2$sB"</string>
+  <string name="memory_clear_result">"%1$sB očiščeno</string>
   <string name="mi_9t">Mi 9T</string>
   <string name="mi_9t_pro">Mi 9T Pro</string>
   <string name="mi_a3">Mi A3</string>
@@ -169,6 +177,8 @@
   <string name="miui_warning_button_cancel">Prekliči</string>
   <string name="miui_warning_button_ok">V redu</string>
   <string name="miui_warning_tip_info">Prišlo je do napake v %1$s. Zaprem aplikacijo?</string>
+     <string name="multi_file_name">%1$s，%2$s</string>
+     <string name="name_with_ellipsize">%1$s…%2$s</string>
   <string name="notification_channel_hotspot">Hotspot obvestilo</string>
   <string name="onehour">30 minut</string>
   <string name="open_close_tip_action">Razumem</string>
@@ -249,6 +259,7 @@
   <string name="send_files_by">Delite datoteke preko</string>
   <string name="send_files_to">Pošlji stvari na</string>
   <string name="serviceEnabled">Storitev je omogočena.</string>
+     <string name="service_not_subscribed">BREZ PRIJAVE NA STORITEV -33-</string>
   <string name="set_password_action">Nastavite geslo</string>
   <string name="set_password_message">Nastavite geslo</string>
   <string name="set_password_title">Nastavite geslo</string>
@@ -306,6 +317,7 @@
   <string name="status_bar_toggle_wifi">WiFi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="stop_operate_camera_frequently">"Kaže da prevečkrat menjate kamere."</string>
+     <string name="subinfo_default_name">SIM %d</string>
   <string name="sunlight_notification_content">Samodejno prilagodi svetlost močne ambientalne svetlobe</string>
   <string name="sunlight_notification_title">Vključi način dela sončne svetlobe</string>
   <string name="super_resolution_maintain_tips">"Super ločljivost še ni na voljo."</string>
@@ -330,6 +342,7 @@
   <string name="unknown_caller">Neznana številka</string>
   <string name="unrecognized_manufacture">Neznano</string>
   <string name="unrecognized_model">Neznana naprava</string>
+     <string name="user_authentication_failed">NAPAKA AVTENTIFIKACIJE -29-</string>
   <string name="user_switching_dialog_switch_into_kid_space">Menjava v otroški prostor…</string>
   <string name="user_switching_dialog_switch_out_kid_space">Izhod iz otroškega prostora…</string>
   <string name="user_switching_dialog_text">Sprememba…</string>

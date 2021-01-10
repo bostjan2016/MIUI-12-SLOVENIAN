@@ -118,6 +118,7 @@
     <string name="error_wifi">Ni bilo mogoče vzpostaviti povezave z omrežjem WiFi</string>
     <string name="expand">Razširi</string>
     <string name="expand_button_title">Dodatno</string>
+     <string name="financed_device_screen_header">Ta naprava je bila kupljena na kredit pri %1$s</string>
   <string name="for_help_contact_admin">Če potrebujete pomoč se obrnite na administratorja</string>
   <string name="frp_clear_progress_text">Počakajte…</string>
   <string name="frp_clear_progress_title">Brisanje</string>
@@ -214,6 +215,7 @@
   <string name="sud_back_button_label">Nazaj</string>
   <string name="sud_more_button_label">Več</string>
   <string name="sud_next_button_label">Naprej</string>
+     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sure_you_want_to_delete_profile">Če nadaljujete bodo izbrisane vse aplikacije in podatki v tem profilu.</string>
   <string name="suw_back_button_label">Nazaj</string>
   <string name="suw_more_button_label">Več</string>

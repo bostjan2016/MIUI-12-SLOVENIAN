@@ -6,6 +6,7 @@
   <string name="app_version_which_call">Verzija: %s</string>
   <string name="autoconnect">Samod. poveži</string>
   <string name="ime_privacy_policy">Izberi tipkovnico</string>
+  <string name="legal_written_offer">Ponudba pisanja</string>
   <string name="license_host_unreachable">"Ne morem se povezati z omrežjem. Za pregled te informacije
   pojdite na %s"</string>
   <string name="loading">Branje…</string>

@@ -43,12 +43,14 @@
   <string name="add_private_files">Dodaj datoteke</string>
   <string name="add_task">Dodaj opravila</string>
   <string name="adding_upload_tasks">Dodajam opravila</string>
+     <string name="afternoon">Popoldne</string>
   <string name="aggree_desc">Dovolite, da se ta aplikacija poveže s spletom in ji dajte zgoraj navedena obvezna dovoljenja.</string>
   <string name="album_creator">Izdelal %s</string>
   <string name="album_name">Dnevni izbor: %s</string>
   <string name="all_topic">Vse teme</string>
   <string name="already_liked">"To ste že označili"</string>
   <string name="already_signin_description">"Danes ste se že vpisali".</string>
+     <string name="am">AM</string>
   <string name="apk_installing">Nameščanje…</string>
   <string name="app_all_purpose">Dobrodošli v raziskovalcu! S to aplikacijo lahko urejate datoteke, shranjene v vaši napravi.</string>
   <string name="app_function">Urejanje datotek v vaši napravi</string>
@@ -216,6 +218,7 @@
   <string name="data_consumption_message">Ta aplikacija potrebuje povezavo s spletom preko WiFi za normalno delovanje.</string>
   <string name="data_consumption_message1">Aplikacija Raziskovalec mora biti povezana s spletom za pregled popularnih nalepk in videoposnetkov.</string>
   <string name="data_consumption_title">Povezovanje s spletom</string>
+     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavite datum in čas</string>
   <string name="decompress_cancel">Prekliči</string>
   <string name="decompress_confirm">Razširi</string>
@@ -284,6 +287,7 @@
   <string name="drag_not_support_with_dir">"Ne morem preurediti ali poslati map"</string>
   <string name="drive_closed">Niste prijavljeni</string>
   <string name="drive_opened">Prijavljeni ste</string>
+     <string name="early_morning">Jutro</string>
   <string name="editor_commend">Uredi</string>
   <string name="email_platform">E-pošta</string>
   <string name="empty_comment">Komentar ne more biti prazen</string>
@@ -311,6 +315,7 @@
   <string name="error_invalid_path">Napačna pot</string>
   <string name="error_not_support">Ni podprto</string>
   <string name="error_open_file_failed_no_app_found">Najdena ni bila nobena aplikacija za izvedbo te naloge.</string>
+     <string name="evening">Večer</string>
   <string name="exo_controls_fastforward_description">Hitro naprej</string>
   <string name="exo_controls_next_description">Naslednja pesem</string>
   <string name="exo_controls_pause_description">Premor</string>
@@ -518,6 +523,7 @@
   <string name="message_title">Moja sporočila</string>
   <string name="mi_router_label">Router</string>
   <string name="mi_share">MiShare</string>
+     <string name="midnight">Noč</string>
   <string name="midrive_network_connect_confirm">Mi drive potrebuje povezavo s spletom za normalno delo.</string>
   <string name="midrive_space_full">Ni dovolj prostora na Mi Cloudu.</string>
   <string name="midrive_welcome_message">Vaši Kuaipan podatki uspešno premeščeni. Vi pa ste dobili tri mesece članstva Mi Cloud kot darilo. Mi Cloud in cloud storitve bodo delili prostor za shranjevanje. Do svijega Mi Cloud prostora za shranjevanje dostopite  na i.mi.com.</string>
@@ -569,10 +575,13 @@
      <string name="miuix_appcompat_cancel_description">Prekliči</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
    <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -630,6 +639,7 @@
      <string name="month_september_short">Sep</string>
      <string name="month_september_shortest">S</string>
      <string name="more">Več</string>
+     <string name="morning">Jutro</string>
   <string name="move_failed">Ne morem premestiti</string>
   <string name="move_failed_retry">"Ne morem izrezati, poskusite ponovno čez %1$s"</string>
   <string name="move_icon_to_desktop_hint">Napravi bližnjico aplik. Raziskovalec na zač. zaslonu za učinkovitejše urejanje datotek.</string>
@@ -641,9 +651,12 @@
   <string name="mtp_label">MTP</string>
   <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
+     <string name="mtrl_exceed_max_badge_number_content_description">Več kot %1$d novih obvestil</string>
+     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
   <string name="mtrl_picker_a11y_next_month">Zamenjaj na naslednji mesec</string>
   <string name="mtrl_picker_a11y_prev_month">Zamenjaj na prejšnji mesec</string>
   <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
+     <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Izberite datum</string>
   <string name="mtrl_picker_date_header_unselected">Izberite datum</string>
   <string name="mtrl_picker_day_of_week_column_header">Kolona dni: %1$s</string>
@@ -718,8 +731,9 @@ Prenesite jih kadarkoli
 in ne spreglejte novih cool nalepk!"</string>
   <string name="new_function_title_str">O WeChat nalepkah</string>
   <string name="next_time">Ne zdaj</string>
+     <string name="night">Večer</string>
   <string name="no">Ne</string>
-  <string name="no_apk">Pritisni za sprejem aplikacij.</string>
+  <string name="no_apk">Pritisni za sprejem aplikacij</string>
   <string name="no_app_tags">Prazno</string>
   <string name="no_comment">Ni komentarjev</string>
   <string name="no_content">Ponovno odprite aplik. Raziskovalec da vidite popularne videoposnetke</string>
@@ -747,6 +761,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="no_videos">Tu ni nič. Preverite tiste spodaj!</string>
   <string name="no_wifi">Ni dostopnih WiFi omrežij</string>
   <string name="no_wifi_hint">Ni dostopnih omrežij</string>
+     <string name="noon">Poldne</string>
   <string name="not_installed_documentsui">"Nimate nameščene DocumentsUI aplikacije"</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="not_support_documentui">"Aplikacija DocumentUI ni podprta na tej napravi"</string>
@@ -906,6 +921,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="phone_valid_code_tip">Koda je danes vnešena prevečkrat, poskusite dobiti novo</string>
   <string name="pick_file">Izberite datoteko</string>
   <string name="pick_folder">Izberite mapo</string>
+     <string name="pm">PM</string>
   <string name="popup_msg_qq">Delite ta video z vašimi QQ prijatelji.</string>
   <string name="popup_msg_wb">Cool videoposnetek? Delite ga z vašimi Weibo prijatelji!</string>
   <string name="popup_msg_wx">Delite ta video z vašimi WeChat prijatelji.</string>
@@ -927,6 +943,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="prize_result_tip2">Dragulji gredo v vašo blagajno</string>
   <string name="promot_enctypt_password">Vnesite geslo za odklepanje naprave ali za izklop Načina za otroke</string>
   <string name="pull_to_enter_private">Podrsajte navzdol za odpiranje zasebne mape</string>
+     <string name="pull_to_refresh">Podrsajte navzdol za osvežitev</string>
   <string name="pull_to_signin">Podrsajte navzdol za prijavo.</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>
@@ -1106,6 +1123,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="shortcut_msg">Dodaj bližnjico na začetni zaslon za popularne videoposnetke</string>
   <string name="show_message">Preden odprete to datoteko jo morate prenesti.</string>
   <string name="sign_description">Vpisujem...</string>
+     <string name="sign_percent">%</string>
   <string name="signin_error">Ne morem se povezati s strežnikom. Preverite vašo povezavo.</string>
   <string name="signin_success">"Prijavljeni ste!
   Dodano %1$s brezplačnega prostora"</string>
@@ -1141,6 +1159,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="storage_usb_description">USB pomnilnik</string>
   <string name="storage_warning">Zunanjega pomnilnika ni mogoče uporabiti</string>
   <string name="subtitle_report_video">Pošilja %1$s</string>
+     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
@@ -1185,6 +1204,8 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
   <string name="tip">Pozor</string>
   <string name="title_album">Albumi</string>
   <string name="title_app_tags">Aplik.</string>
