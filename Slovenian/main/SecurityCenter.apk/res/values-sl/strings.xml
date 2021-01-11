@@ -114,6 +114,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="action_button_text_80_100">Optimiziraj</string>
   <string name="action_source_call_title">Blokirani klici</string>
   <string name="action_source_sms_title">Blokirani SMS-i</string>
+     <string name="actionbar_button_up_description">Nazaj</string>
   <string name="activate_fingerprint_dialog_message">"Ta prstni odtis ni aktiven. Vnesite geslo da boste aktivirali ta prstni odtis."</string>
   <string name="activate_fingerprint_dialog_title">Vnesite geslo</string>
   <string name="activity_title_antispam">AntiSpam</string>
@@ -149,6 +150,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="activity_title_virus_settings">Nastavitve</string>
   <string name="activity_title_white_list">Izjeme</string>
   <string name="ad_btn_default_text">Izvedite več</string>
+     <string name="ad_floating_window_title">Za odklepanje zaprite plavajoče okno</string>
   <string name="ad_split_screen_title">Za odklep zaslona izidite iz celega zaslona</string>
   <string name="ad_update_time">Zadnja posodobitev %s</string>
   <string name="ad_update_time_unKnown">Zadnja posodobitev neznana</string>
@@ -178,6 +180,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Posodobljeno včeraj ob %s</string>
   <string name="adjust_traffic_data">Nastavite porabo podatkov</string>
   <string name="after_the_lock_screen">"Zakleni aplikacije skupaj z zaslonom."</string>
+     <string name="afternoon">Popoldne</string>
   <string name="ai_allow_all">Obvesti, ko se dovoljenje uporablja za vse</string>
   <string name="alert_back_diving_mode_summary">Izključim Interaktivni način?</string>
   <string name="alert_back_diving_mode_title">Interaktivni način</string>
@@ -186,6 +189,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="all_address_choose_hint">Vse številke v tej pokrajini</string>
      <string name="allow_all">Dovoli vse</string>
   <string name="already_close_gamebooster">Pohitritev hitrosti igranja je izključeno</string>
+     <string name="am">AM</string>
   <string name="anim_gamebooster_text">Samo trenutek…</string>
   <string name="anti_disturb_msg_detail">Izključi vsa obvestila, razen za dohodne klice</string>
   <string name="anti_disturb_msg_title">DND</string>
@@ -1032,6 +1036,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="clear_bigfiles">Izbriši velike datoteke, dvojnike fotografij in druge nepotrebne stvari</string>
   <string name="clear_garbage">Izbrišite Smeti in sprostite prostor</string>
   <string name="clear_immediately">Očisti zdaj</string>
+     <string name="clearable_edittext_clear_description">Očisti</string>
   <string name="close">Zapri</string>
   <string name="close_callwait">Izključeno</string>
   <string name="cmcc_app_check_dialog_message">Ponovno zaženite napravo za dokončanje.</string>
@@ -1168,6 +1173,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="datausage_purchase_title_order">Doplačilo</string>
   <string name="datausage_purchase_title_pkglist">Doplačilo</string>
   <string name="datausage_purchase_view_detail">Pokaži podrobnosti</string>
+     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
   <string name="day_overflow_tips">Opozorilo o dnevni uporabi podatkov</string>
   <string name="debug_open_final_tip">Želite omogočiti odpravljanje napak preko USB?</string>
   <string name="debug_open_title">Ta funkcija je namenjena razvijalcem in morda ni primerna za splošne uporabnike. Z vklopom razhroščevanja USB lahko pride do naslednjih sprememb:</string>
@@ -1282,6 +1288,10 @@ Dodana bo v izjeme, toda predhodno blokirane stvari ne bodo vidne v zgodovini kl
 Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v zgodovini klicev."</string>
      <string name="dlg_not_block_sms">"Deblokiram izbrane številke?
 Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih obvestilih."</string>
+     <string name="dlg_onlie_service_summary">Če izklopite spletne storitve, nekatere storitve aplikacije ne bodo več na voljo. Vseeno izklopim?</string>
+     <string name="dlg_open_online_service_pos_text">Vključi</string>
+     <string name="dlg_open_online_service_summary">"Nekatere storitve ne bodo na voljo, ko so spletne storitve izklopljene. Vklopim spletne storitve zdaj?"</string>
+     <string name="dlg_open_online_service_title">Online storitve</string>
   <string name="dlg_remove_address_blacklist">Odstranim to lokacijo s seznama blokiranih?</string>
   <string name="dlg_remove_address_whitelist">Odstranim to lokacijo iz izjem?</string>
   <string name="dlg_remove_blacklist">Ostranim to številko s seznama blokiranih?</string>
@@ -1321,6 +1331,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="doze_optimization_title">Optimizirano urejanje dotika</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
+     <string name="early_morning">Jutro</string>
   <string name="email">E-pošta</string>
   <string name="empty_activity_title">" "</string>
   <string name="empty_app">Ni aplikacij</string>
@@ -1337,6 +1348,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="empty_title_virus_list">Ni virusov</string>
   <string name="enable_extreme_power_save_mode">Ekstremno varčevanje baterije</string>
   <string name="enable_network">Najprej vključite omrežno povezavo</string>
+     <string name="evening">Večer</string>
   <string name="every_day">Vsak dan</string>
   <string name="examination_score_100">Vse zgleda odlično!</string>
   <string name="examination_score_100_with_recommend">Toliko stvari(%d) se lahko optimizira</string>
@@ -1396,10 +1408,10 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="expand_button_title">Napredno</string>
   <string name="extreme_add_white_list_summary">Dodajte do 4 aplikacije</string>
   <string name="extreme_add_white_list_title">Izjeme ozadjaa</string>
-  <string name="extreme_power_save_description">&lt;li&gt;"Ekstremno varčevanje baterije ustavlja vse dejavnosti aplikacij v ozadju ko jih zapustite in se vrnete na začetni zaslon. Ta aplikacija vam ne bo pošiljala obvestil in prejemala posodobitev."&lt;/li&gt;"
+     <string name="extreme_power_save_description">"&lt;li&gt;"Ekstremno varčevanje baterije ustavlja vse dejavnosti aplikacij v ozadju ko jih zapustite in se vrnete na začetni zaslon. Ta aplikacija vam ne bo pošiljala obvestil in prejemala posodobitev."&lt;/li&gt;"
 "&lt;li&gt;Če želite da se aplikacija izvaja v ozadju, jo zaklenite je u Nedavno ali je dodajte v izjeme v nadaljevanju. V ozadju se lahko zažene do 4 aplikacije če je vključeno ekstremno varčevanje.&lt;/li&gt;"
 "&lt;li&gt;Ekstremno varčevanje baterije privzeto izključi NFC. To lahko spremenite v nastavitvah.&lt;/li&gt;"
-"&lt;li&gt;Da boste sigurni da lahko normalno uporabljate vse storitve vaše naprave, se bo ekstremno varčevanje baterije samodejno izklopilo ko se baterija napolni na 30%.&lt;/li&gt;</string>
+"&lt;li&gt;Da boste sigurni da lahko normalno uporabljate vse storitve vaše naprave, se bo ekstremno varčevanje baterije samodejno izklopilo ko se baterija napolni na 30%.&lt;/li&gt;"</string>
   <string name="extreme_power_save_mode_card_summary">Vključi ekstremno varčevanje baterije kadar je baterija slaba.</string>
   <string name="extreme_power_save_mode_summary">Ekstremno varčevanje baterije omejuje aktivnost v ozadju, ustavlja sinhronizacijo in zmanjšuje barve zaslona.</string>
   <string name="extreme_power_save_mode_title">Ekstremno varčevanje baterije</string>
@@ -1547,6 +1559,9 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="free_time_traffic_settings">Izklj. maks. omejitev podatkov</string>
   <string name="free_time_traffic_title">Vnesite Izklj. maks. omejitev podatkov</string>
   <string name="free_traffic_settings">Nastavitve Izklj. maks. omejitve</string>
+     <string name="friday">Petek</string>
+     <string name="friday_short">Pet</string>
+     <string name="friday_shortest">P</string>
   <string name="full_fill_oprator_and_location">Navedite podatke o vašem operaterju in lokacijo</string>
   <string name="full_fill_sim_location">Najprej nastavite lokacijo</string>
      <string name="fully_informed_privacy">Zavedanje o zasebnosti</string>
@@ -1959,6 +1974,8 @@ vašega igranja"</string>
      <string name="image_protect_recover_success">Obnovljeno</string>
      <string name="image_protect_tips_title">Brisanje fotografij</string>
      <string name="image_protect_total_activity_label">Prejemajte obvestila o izbrisanih fotografijah</string>
+     <string name="in_delete">Brisanje…</string>
+     <string name="in_recover">Obnavljanje…</string>
   <string name="info_and_call">Klici in sporočila</string>
   <string name="info_antispam_close">AntiSpam je izključen</string>
   <string name="info_antispam_current_mode">%s</string>
@@ -2290,6 +2307,7 @@ Vaša naprava je zdaj %d%% hitrejša."</string>
   <string name="menu_text_license_manager">Dovoljenje</string>
   <string name="menu_text_networkassistants">Poraba podatkov</string>
   <string name="menu_text_networkassistants_danger">%s preseženo</string>
+     <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s preostalo</string>
   <string name="menu_text_networkassistants_unit_b">B</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2298,16 +2316,33 @@ Vaša naprava je zdaj %d%% hitrejša."</string>
   <string name="menu_text_optimize_manage">Povečaj hitrost</string>
   <string name="menu_text_optimize_manage_1">Povečaj hitrost</string>
   <string name="menu_text_power_manager">Baterija</string>
+     <string name="menu_text_power_percent">%s</string>
+     <string name="menu_text_power_percent_title">%s</string>
   <string name="menu_wh_remove">Odstrani iz izjem</string>
   <string name="menu_white">Dodaj v izjeme</string>
   <string name="mi_service_app_detail">Podrobnosti storitve porabe podatkov</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirne podrobnosti</string>
   <string name="mian_page_primary_txt">Mednarodno gostovanje</string>
+     <string name="midnight">Noč</string>
   <string name="midrop_post_notification_contentText">Prenesite datoteke s hitrostjo do 50 Mbps z Mi Drop-om</string>
   <string name="midrop_post_notification_contentTitle">Morate prenesti datoteke?</string>
   <string name="miui_optimization_close_final_tip">Izključim MIUI optimizacijo?</string>
   <string name="miui_optimization_close_title">Ta storitev je namenjena razvijalcem in morda ni primerna za splošne uporabnike. Če izklopite optimizacijo MIUI, lahko spremenite naslednje:</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
+     <string name="miuix_appcompat_cancel_description">Prekliči</string>
+     <string name="miuix_appcompat_confirm_description">Potrdi</string>
+     <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči</string>
+     <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
+     <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -2326,13 +2361,54 @@ Vaša naprava je zdaj %d%% hitrejša."</string>
   <string name="modify_cellular_type">Tapnite za izbiro plana</string>
   <string name="modify_password_mode">Spremeni vrsto gesla</string>
   <string name="modifypassword">Spremeni vrsto gesla</string>
+     <string name="monday">Ponedeljek</string>
+     <string name="monday_short">Pon</string>
+     <string name="monday_shortest">P</string>
   <string name="monitor_app_add">Dodaj</string>
   <string name="monitor_app_more">Več</string>
   <string name="monitor_requests_from_pc">Urejanje namestitve aplikacij preko USB</string>
+     <string name="month_april">April</string>
+     <string name="month_april_short">Apr</string>
+     <string name="month_april_shortest">A</string>
+     <string name="month_august">Avgust</string>
+     <string name="month_august_short">Avg</string>
+     <string name="month_august_shortest">A</string>
+     <string name="month_december">December</string>
+     <string name="month_december_short">Dec</string>
+     <string name="month_december_shortest">D</string>
+     <string name="month_february">Februar</string>
+     <string name="month_february_short">Feb</string>
+     <string name="month_february_shortest">F</string>
+     <string name="month_january">Januar</string>
+     <string name="month_january_short">Jan</string>
+     <string name="month_january_shortest">J</string>
+     <string name="month_july">Julij</string>
+     <string name="month_july_short">Jul</string>
+     <string name="month_july_shortest">J</string>
+     <string name="month_june">Junij</string>
+     <string name="month_june_short">Jun</string>
+     <string name="month_june_shortest">J</string>
+     <string name="month_march">Marec</string>
+     <string name="month_march_short">Mar</string>
+     <string name="month_march_shortest">M</string>
+     <string name="month_may">Maj</string>
+     <string name="month_may_short">Maj</string>
+     <string name="month_may_shortest">M</string>
+     <string name="month_november">November</string>
+     <string name="month_november_short">Nov</string>
+     <string name="month_november_shortest">N</string>
+     <string name="month_october">Oktober</string>
+     <string name="month_october_short">Okt</string>
+     <string name="month_october_shortest">O</string>
   <string name="month_report_month_report_switch">Pokaži mesečne prijave</string>
+     <string name="month_september">September</string>
+     <string name="month_september_short">Sep</string>
+     <string name="month_september_shortest">S</string>
+     <string name="more">Več</string>
   <string name="more_game">Več iger</string>
   <string name="more_lock">Več</string>
   <string name="more_settings">Več</string>
+     <string name="morning">Jutro</string>
   <string name="msg_update_error_code_success">Končano</string>
   <string name="msg_update_up">Skrij</string>
   <string name="mtp_ptp_mode_summary">MTP ali PTP je aktiven</string>
@@ -2425,11 +2501,13 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="news_change">Spremeni</string>
   <string name="next_step_button">Naprej</string>
   <string name="nickname">Vzdevek</string>
+     <string name="night">Noč</string>
   <string name="no_game">"Ne morem najti iger"</string>
   <string name="no_network">"Ne morem se povezati na omrežje, poskusite ponovno kasneje"</string>
   <string name="no_network_btn">Poskusi ponovno</string>
      <string name="no_open">Ne zdaj</string>
   <string name="none_mi_service_app_detail">Prazno</string>
+     <string name="noon">Poldne</string>
   <string name="not_limited_brand">Neomejeno</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="not_settled">Ni nastavljeno</string>
@@ -2570,6 +2648,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="om_media_scan_timeout_proc_detail">Medijski server deluje v ozadju. Lahko omejite njegovo aktivnost.</string>
   <string name="om_media_scan_timeout_proc_name">Medijski server</string>
   <string name="om_memory_clean_cleaning_text">Povečanje hitrosti…</string>
+     <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
   <string name="om_not_finish_speedboost">Potrebno je povečanje hitrosti</string>
   <string name="om_notify_cpu_load_too_high_summary">Omeji aktivnosti v ozadju za povečanje hitrosti</string>
   <string name="om_notify_cpu_load_too_high_title">Upotreba CPU od %s je previsoka</string>
@@ -2880,6 +2959,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="phone_manage_system_tool_title">Orodja</string>
   <string name="pkg_traffic">Nastavi omejitev porabe podatkov</string>
   <string name="please_continue_keep">Obdrži</string>
+     <string name="pm">PM</string>
   <string name="pm_auto_start_basic_services_lock">Zakleni</string>
   <string name="pm_auto_start_basic_services_unlock">Odkleni</string>
   <string name="pm_auto_start_by_basic_services">Osnovne storitve</string>
@@ -2941,6 +3021,11 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_dialog_msg_top">Ko je vključeno varčevanje baterije, bo MIUI napravil naslednje optimizacije:</string>
   <string name="power_center_hints_scan_danger_result">Zdaj lahko rešite probleme baterije</string>
   <string name="power_center_list_item_auto_brightness">Samodejno nastavite svetlost zaslona</string>
+     <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+     <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+     <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+     <string name="power_center_list_item_battery_status_capacity">mAh</string>
+     <string name="power_center_list_item_battery_status_temperature">℃</string>
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_list_item_close_bluetooth">Izključi Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Dodatne nastavitve</string>
@@ -3351,6 +3436,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_normal_traffic_limit">Kadar presežete plan podatkov</string>
   <string name="pref_open_adjust_traffic">"Posodobi porabo podatkov vsakodnevno z uporabo statistike mobilnega operaterja"</string>
   <string name="pref_operator_not_set">"Operater ni nastavljen"</string>
+     <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_over_traffic_limit">Ko presežete omejitev podatkov</string>
      <string name="pref_package_traffic_leisure">"%1$s 
   Izkl.maks.: %2$s"</string>
@@ -3629,6 +3715,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_using_record">Snemanje zvoka</string>
   <string name="privacyapp_number_masked_text">Vsebina obvestil je skrita</string>
   <string name="privacyapp_number_unmasked_text">Vsebina obvestil ni skrita</string>
+     <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Medijski strežnik</string>
   <string name="process_vpnsdkmanager_label">Game Turbo</string>
   <string name="promotion">Oglas</string>
@@ -3786,6 +3873,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="safepay_alert_dialog_button_unknown">Preveri ponovno</string>
   <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Najdeno tveganje! Prekini trenutno plačilo!&lt;/font&gt;</string>
   <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;Ne morem preveriti varnost plačila. Povežite se na splet in poskusite ponovno.&lt;/font&gt;"</string>
+     <string name="saturday">Sobota</string>
+     <string name="saturday_short">Sob</string>
+     <string name="saturday_shortest">S</string>
   <string name="save_mode_btn_ok">Razumem</string>
   <string name="saving_conflict_dialog_cancel">Prekini</string>
   <string name="saving_conflict_dialog_ok">V redu</string>
@@ -3852,6 +3942,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="set_traffic_tips">Nastavite svoj podatkovni paket za upravljanje uporabe mobilnih podatkov in se izognite dodatnim stroškom mobilnega operaterja</string>
   <string name="seton_immediately">Vključi</string>
   <string name="setting">Nastavitve</string>
+     <string name="setting_online_service">Online storitve</string>
   <string name="setting_privacy_password">Nastavite geslo za zaščito zasebnosti</string>
   <string name="setting_traffic_pkg">Nastavite paket podatkov</string>
   <string name="settings">Nastavitve porabe podatkov</string>
@@ -4330,6 +4421,9 @@ Z formatiranjem bo izbrisana vsebina ^2. Če želite preprečiti izgubo vsebine,
   <string name="summary_virus_cloudscan">Posodobite podrobnosti in imena aplikacij katera uporabljajo spletne informacije o virusih</string>
   <string name="summary_virus_update">Samodejno posodobite informacije virusov ko je vzpostavljena povezava z WiFi</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB za mobilne podatke v gostovanju.</string>
+     <string name="sunday">Nedelja</string>
+     <string name="sunday_short">Ned</string>
+     <string name="sunday_shortest">N</string>
   <string name="superpower_dialog_button_disable_dialog">"Ne kaži več"</string>
   <string name="superpower_dialog_button_ok">V redu</string>
   <string name="superpower_dialog_massage">"Ultra varčevanje baterije omejuje največje porabnike energije in zmanjšuje zmogljivost naprave da so osnovne storitve (npr. klici, SMS in povezovanje na omrežje) na voljo kolikor je mogoče. Vključim Ultra varčevanje baterije?"</string>
@@ -4524,6 +4618,12 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="third_desktop_dialog_ok">Razumem</string>
   <string name="third_desktop_dialog_title">Napaka</string>
   <string name="three_percent_total_pkg">%s (3%% od mes. podatkov)</string>
+     <string name="thursday">Četrtek</string>
+     <string name="thursday_short">Čet</string>
+     <string name="thursday_shortest">Č</string>
+     <string name="time_picker_dialog_title">Nastavi čas</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>
   <string name="timeshow_h_m">%1$dh %2$dmin</string>
@@ -4639,6 +4739,8 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="toast_update_success">Uspešno posodobljeno</string>
   <string name="toast_virus_cloudscan">Preverjanje virusov bo uporabljalo online definicije</string>
   <string name="toast_virus_in_cloud_scanning">"Ne morem ustaviti cloud preverjanja"</string>
+     <string name="today">Danes</string>
+     <string name="tomorrow">Včeraj</string>
   <string name="top_game">Najboljše igre</string>
   <string name="top_load_fail_detail">Ne morem naložiti, tapni za ponovni poskus</string>
   <string name="top_no_network_detial">Ne morem naložiti, preverite omrežno povezavo in poskusite ponovno</string>
@@ -4788,6 +4890,9 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="traffic_warning_purchase_title">Opozorilo porabe podatkov</string>
   <string name="try_game">Poskusi</string>
   <string name="try_recommended_function">Zavarujte svojo napravo s pomočjo novega opravila Varnost</string>
+     <string name="tuesday">Torek</string>
+     <string name="tuesday_short">Tor</string>
+     <string name="tuesday_shortest">T</string>
   <string name="two_address_choose_hint">%1$s in %2$s</string>
   <string name="unable_connect_internet">"Ne morem se povezati na omrežje"</string>
   <string name="uninstall_app_dialog_msg">Odstranitev aplikacije bo odstranila vse podatke aplikacije.</string>
@@ -4897,6 +5002,7 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="videobox_settings_switch_desc">Posebni efekti in storitve za predvajanje videoposnetkov</string>
   <string name="videobox_settings_switch_title">Orodja za videoposnetke</string>
   <string name="videobox_settings_title">Orodja za videoposnetke</string>
+     <string name="view_traffic_detail">Pokaži podrobnosti</string>
   <string name="virus_ad_icon_text">Oglas</string>
   <string name="virus_already_update">Definicije so posodobljene</string>
   <string name="virus_auto_update_engine">Samod. posodobi: %s</string>
@@ -4973,6 +5079,9 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="warningcenter_smarthome">Mi Home</string>
   <string name="warningcenter_title">MIUI Center za opozarjanje</string>
   <string name="website">Spletna stran</string>
+     <string name="wednesday">Sreda</string>
+     <string name="wednesday_short">Sre</string>
+     <string name="wednesday_shortest">S</string>
   <string name="white_list_risk_app_header">Nevarne aplik.: %d</string>
   <string name="white_list_trojan_header">Trojanci: %d</string>
   <string name="whitelist_prefix_add_hint">Dodaj vse številke s predštevilko v izjeme</string>
@@ -5030,6 +5139,7 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="xunyou_net_booster_detail">Uporabi Xunyou storitev povečanja hitrosti za igranje</string>
   <string name="xunyou_pay_webview">Xunyou storitve</string>
   <string name="xunyou_server_expired">Seja je potekla.</string>
+     <string name="yesterday">Včeraj</string>
      <string name="yuan">CNY</string>
      <string name="zhifubao_not_found">Različica aplikacije je prenizka ali ni nameščena</string>
 </resources>

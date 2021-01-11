@@ -4550,6 +4550,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
     <string name="launch_wifi_text">Ogled podrobnosti</string>
   <string name="launcher_auto_fill_empty_title">Samodejno popolni prazna mesta</string>
   <string name="launcher_icon">Ikone</string>
+  <string name="launcher_icon_management">Upravljanje bližnjic na začetnem zaslonu</string>
   <string name="launcher_settings_title">MIUI zaganjalnik</string>
   <string name="launcher_title">Zač. zaslon &amp; Nedavno</string>
   <string name="launching_cit">Zaganjam CIT…</string>

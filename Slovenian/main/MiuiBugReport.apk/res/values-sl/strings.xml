@@ -125,6 +125,7 @@
   <string name="choose_to_signin">Da</string>
     <string name="choose_to_signup">Ne, ga bom ustvaril</string>
      <string name="clearable_edittext_clear_description">Očisti</string>
+     <string name="close">Zapri</string>
     <string name="close_feedback_main">Skrij</string>
   <string name="collect_diagnosis_log">Zberi poročila</string>
     <string name="confirm_activate_email">Potrjeno</string>
@@ -140,6 +141,8 @@
     <string name="customer_service_apply">Zahtevajte Službo za uporabnike</string>
     <string name="customer_service_complain">Poročajte Službi za uporabnike</string>
     <string name="customer_service_station">Storitve lokacij</string>
+     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavite datum in uro</string>
     <string name="description">Opišite težavo</string>
   <string name="diagnosis_log_send_failed">Ne morem poslati zapise diagnoze.</string>
     <string name="diagnosis_log_sent_format">"Poročila so bila uspešno poslana.
@@ -198,7 +201,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="feedback_delete_images">Izbrišite slike</string>
     <string name="feedback_description">Opis</string>
     <string name="feedback_description_bugreport_hint">Včasih (…) se moj telefon čudno obnaša (…).</string>
-    <string name="feedback_description_hint">Opišite težavo na katero ste naleteli.
+     <string name="feedback_description_hint">"Opišite težavo na katero ste naleteli.
 %1$d. V kateri aplikaciji ali na kateri strani ste našli problem?
 %2$d. Po katerih opravilih se je pojavil problem?
 %3$d. Dajte nam dodatne informacije ki nam lahko pomagajo da rešimo problem."</string>
@@ -353,10 +356,13 @@ Pošljite to kodo nadzorniku."</string>
      <string name="miuix_appcompat_cancel_description">Prekliči</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -583,6 +589,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="section_err_type">Vrsta napake</string>
     <string name="section_screenshot">Posnetek zaslona</string>
     <string name="select_system_app_tag">Izberite težavo</string>
+     <string name="send">Pošlji</string>
     <string name="send_diagnosis_log">Pošlji poročila</string>
     <string name="send_email_activate_message">Poročilo za potrditev je bilo uspešno poslano</string>
     <string name="sending">Pošiljanje…</string>
@@ -696,6 +703,7 @@ Velikost: %2$s"</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
+     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezovanje datotek ni uspelo, preverite stanje v aplikaciji.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo različico %1$s
 Velikost: %2$s"</string>

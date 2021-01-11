@@ -84,6 +84,8 @@
   <string name="accessibility_clear_all">Izbriši vsa obvestila.</string>
   <string name="accessibility_compatibility_zoom_button">Gumb za kompatibilnost zumiranja.</string>
   <string name="accessibility_compatibility_zoom_example">Zumiranje manjšega zaslona na večjega.</string>
+     <string name="accessibility_control_change_favorite">priljubljeno</string>
+     <string name="accessibility_control_change_unfavorite">nepriljubljeno</string>
      <string name="accessibility_control_favorite">Označeno</string>
      <string name="accessibility_control_favorite_position">Označeno, položaj %d</string>
      <string name="accessibility_control_move">Premaknite na položaj %d</string>
@@ -404,7 +406,7 @@
   <string name="auto_saver_enabled_text">Varčevanje baterije se vključi samodejno ko nivo baterije pade pod %d%%.</string>
   <string name="auto_saver_enabled_title">Vključen je razpored varčevanja baterije</string>
   <string name="auto_saver_okay_action">Razumem</string>
-  <string name="auto_saver_text">Vključi se samodejno ko nivo baterije na %d%%</string>
+  <string name="auto_saver_text">Vključi, ko se bo baterija izpraznila</string>
   <string name="auto_saver_title">Tapnite za nastavitev varčevanja baterije</string>
     <string name="available_via_app">Na voljo prek aplikacije %1$s</string>
   <string name="available_via_carrier">Na voljo preko %1$s</string>
@@ -427,7 +429,7 @@
   <string name="battery_info_status_unknown">Neznano</string>  
   <string name="battery_low_button_not_open_power_save">Ne zdaj</string>
   <string name="battery_low_button_open_power_save">Vključi</string>
-  <string name="battery_low_percent_format">ostalo %d%%</string>
+  <string name="battery_low_percent_format">%s ostalo</string>
   <string name="battery_low_percent_format_hybrid" formatted="false">Ostalo je %s, še približno %s na osnovi vaše porabe</string>
   <string name="battery_low_percent_format_hybrid_short" formatted="false">Ostalo je %s, še približno %s</string>
   <string name="battery_low_percent_format_save_mode_closed">Ostalo je manj kot %d%% baterije. Priključite polnilec.</string>
@@ -492,14 +494,14 @@ Poskusite znova čez %d s."</string>
   <string name="bluetooth_active_no_battery_level">Aktivno</string>
   <string name="bluetooth_battery_level">baterija %1$s</string>
   <string name="bluetooth_battery_level_untethered">L: baterija %1$s, D: baterija %2$s</string>
-  <string name="bluetooth_connected">Povezano %1$s</string>
-  <string name="bluetooth_connected_battery_level">Povezano| Baterija: %1$s</string>
-  <string name="bluetooth_connected_no_a2dp">Povezano (brez predstavnosti)</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (brez predstavnosti)| Baterija %1$s</string>
-  <string name="bluetooth_connected_no_headset">Povezano (brez telefona)</string>
-  <string name="bluetooth_connected_no_headset_battery_level">Povezano (brez telefona)| Baterija: %1$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (brez telefona ali predstavnosti)</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Povezano (brez telefona ali predstavnosti)| Baterija %1$s</string>
+     <string name="bluetooth_connected">Povezano %1$s</string>
+    <string name="bluetooth_connected_battery_level">Povezano | Baterija %1$s %2$s</string>
+    <string name="bluetooth_connected_no_a2dp">Povezano (brez predstavnosti) %1$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (brez predstavnosti) | Baterija %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset">Povezano (brez telefona)%1$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Povezano (brez telefona) | Baterija %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (brez telefona ali predstavnosti) %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level"> (brez telefona ali predstavnosti) | Baterija %1$s %2$s</string>
   <string name="bluetooth_connected_no_map">Povezano (brez dostopa do sporočil)</string>
   <string name="bluetooth_connecting">Povezovanje…</string>
   <string name="bluetooth_disable_absolute_volume">Onemogoči absolutno glasnost</string>
@@ -1264,12 +1266,14 @@ prednostno"</string>
   <string name="keyguard_enter_your_password">Vnesite geslo</string>
   <string name="keyguard_enter_your_pattern">Vnesite vzorec</string>
   <string name="keyguard_enter_your_pin">Vnesite PIN</string>
-    <string name="keyguard_indication_charging_time">Polnjenje (%s do napolnjenosti)</string>
-    <string name="keyguard_indication_charging_time_fast">Hitro polnjenje (%s do napolnjenosti)</string>
-    <string name="keyguard_indication_charging_time_slowly">Počasno polnjenje (%s do napolnjenosti)</string>
+    <string name="keyguard_indication_charging_time">%2$s • Polnjenje (%1$s do napolnjenosti)</string>
+    <string name="keyguard_indication_charging_time_fast"> %2$s • Hitro polnjenje (%s do napolnjenosti)</string>
+    <string name="keyguard_indication_charging_time_slowly"> %2$s • Počasno polnjenje (%s do napolnjenosti)</string>
      <string name="keyguard_indication_charging_time_wireless">%2$s • brezžično polnjenje (%1$s do napolnjenosti)</string>
     <string name="keyguard_indication_trust_disabled">Naprava bo ostala zaklenjena, dokler je ročno ne odklenete.</string>
      <string name="keyguard_indication_trust_unlocked">Z Smart Lock naprava ostane odklenjena</string>
+     <string name="keyguard_indication_trust_unlocked_plugged_in">"%1$s
+%2$s"</string>
   <string name="keyguard_instructions_when_pattern_disabled">Pritisnite meni za odklep.</string>
   <string name="keyguard_left_bankcard">Kalkulator</string>
   <string name="keyguard_left_buscard">Beležke</string>
@@ -1498,9 +1502,11 @@ posnetka zaslona"</string>
      <string name="media_seamless_remote_device">Naprava</string>
   <string name="media_transfer_this_device_name">Zvočnik telefona</string>
      <string name="media_transfer_wired_device_name">Žična avdionaprava</string>
+     <string name="media_transfer_wired_usb_device_name">Žične slušalke</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="memory_clear_result_giga">%1$sGB očiščeno</string>
   <string name="memory_clear_result_mega">%1$sMB očiščeno</string>
+     <string name="memory_leak">Pomanjkanje prostora</string>
     <string name="menu_ime">Preklopnik tipkovnice</string>
      <string name="mic_active">Mikrofon aktiven</string>
   <string name="miui_guide_dialog_button_negative_text">Nastavitve</string>
@@ -1542,6 +1548,7 @@ posnetka zaslona"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ne morem naložiti</string>
   <string name="mland">Marshmallow Land</string>
+     <string name="mobile_carrier_text_format">%1$s, %2$s</string>
     <string name="mobile_data">Mobilni podatki</string>
     <string name="mobile_data_always_on">Prenos podatkov v mobilnem omrežju je vedno aktiven</string>
     <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava  (za hiter preklop med omrežji).</string>
@@ -1672,7 +1679,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="notification_aggregate_text">Označi obvestila od %1$s kot nevažna</string>
      <string name="notification_alert_title">Privzeto</string>
   <string name="notification_all_categories">Vse kategorije</string>
-  <string name="notification_app_settings">Nastavite: %1$s</string>
+  <string name="notification_app_settings">Prilagodi</string>
   <string name="notification_appops_ok">V redu</string>
   <string name="notification_appops_settings">Nastavitve</string>
      <string name="notification_bubble_title">Oblaček</string>
@@ -1769,6 +1776,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="notification_section_header_incoming">Novo</string>
      <string name="notification_silence_title">Tiho</string>
   <string name="notification_storage_float">Zunanji pomnilnik</string>
+     <string name="notification_summary_message_format">%1$s: %2$s</string>
   <string name="notification_tap_again">Tapni ponovno za odpiranje</string>
   <string name="notification_template_text">Novo obvestilo. Dotaknite se za ogled.</string>
      <string name="notification_unblockable_desc">Teh obvestil ni mogoče spremeniti.</string>
@@ -1839,6 +1847,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="plugins">Dodaci</string>
   <string name="pointer_location">Mesto kazalca</string>
   <string name="pointer_location_summary">Na zaslonu se prikazujejo podatki o dotikih.</string>
+     <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s do polne baterije</string>
     <string name="power_discharge_by">Naprava bi morala delovati do približno %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Naprava bi morala glede na način uporabe (%2$s) delovati do približno %1$s</string>
@@ -1910,6 +1919,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="private_dns_mode_provider">Ime hosta ponudnika zasebnega DNS-a</string>
   <string name="private_dns_mode_provider_failure">Povezovanje ni možno</string>
   <string name="private_dns_mode_provider_hostname_hint">Vnesite ime DNS ponudnika</string>
+     <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Težava pri povezovanju. Napravo izklopite in znova vklopite.</string>
     <string name="profile_info_settings_title">Podatki za profil</string>
     <string name="profile_owned_footer">Profil je morda nadziran</string>
@@ -2565,8 +2575,8 @@ Ko bo znova varno uporabljati vrata USB, boste obveščeni."</string>
     <string name="usb_device_confirm_prompt">Želite, da se odpre %1$s zaradi upravljanja %2$s?</string>
      <string name="usb_device_confirm_prompt_warn">"Želite urejati napravo %2$s preko aplikacije %1$s?
 Ta aplikacija nima dovoljenja za snemanje, lahko pa prejema zvok prek te naprave USB."</string>
-    <string name="usb_device_permission_prompt">Želite aplikaciji %1$s dovoliti dostop do naprave USB?</string>
-     <string name="usb_device_permission_prompt_warn">"Ali želite dovoliti aplikaciji %1$s dostop do naprave %2$s?
+    <string name="usb_device_permission_prompt">Dovolim %1$s dostop do %2$s?</string>
+     <string name="usb_device_permission_prompt_warn">"Ali želite dovoliti aplikaciji %1$s dostop do %2$s?
 Ta aplikacija nima dovoljenja za snemanje, lahko pa prejema zvok prek te naprave USB."</string>
      <string name="usb_disable_contaminant_detection">Omogoči USB</string>
   <string name="usb_function_charging_text">Povezano v načinu polnjenja</string>

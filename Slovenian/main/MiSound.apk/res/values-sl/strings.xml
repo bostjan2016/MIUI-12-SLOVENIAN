@@ -219,6 +219,7 @@
      <string name="sound_transmission_dialog_message">Zvočni asistent</string>
      <string name="sound_transmission_dialog_title">Vključi Bluetooth</string>
      <string name="sound_transmission_end">Konec</string>
+     <string name="sound_transmission_function_generalize">"Prenesite zvok iz mikrofona telefona na zunanjo napravo Bluetooth"</string>
      <string name="sound_transmission_processing">Mikrofon</string>
      <string name="sound_transmission_prompt">Dovolite tej storitvi da vključi Bluetooth da bo lahko uporabil brezžični mikrofon.</string>
      <string name="sound_transmission_scenes">Scena</string>
@@ -226,6 +227,7 @@
      <string name="sound_transmission_stop">Premor</string>
      <string name="sound_transmission_title">Brezžični mikrofon</string>
   <string name="start_test_sound">Začni test</string>
+     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sure_give_up_test">"Če ustavite test boste morali začeti znova. Vseeno ustavim?"</string>
   <string name="sure_to_back">Zavržem spremembe?</string>
   <string name="switch_audio_device_bt">Bluetooth</string>
