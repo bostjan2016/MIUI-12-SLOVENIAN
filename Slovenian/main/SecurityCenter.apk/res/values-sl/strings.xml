@@ -2307,7 +2307,6 @@ Vaša naprava je zdaj %d%% hitrejša."</string>
   <string name="menu_text_license_manager">Dovoljenje</string>
   <string name="menu_text_networkassistants">Poraba podatkov</string>
   <string name="menu_text_networkassistants_danger">%s preseženo</string>
-     <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s preostalo</string>
   <string name="menu_text_networkassistants_unit_b">B</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2317,7 +2316,6 @@ Vaša naprava je zdaj %d%% hitrejša."</string>
   <string name="menu_text_optimize_manage_1">Povečaj hitrost</string>
   <string name="menu_text_power_manager">Baterija</string>
      <string name="menu_text_power_percent">%s</string>
-     <string name="menu_text_power_percent_title">%s</string>
   <string name="menu_wh_remove">Odstrani iz izjem</string>
   <string name="menu_white">Dodaj v izjeme</string>
   <string name="mi_service_app_detail">Podrobnosti storitve porabe podatkov</string>
@@ -3021,11 +3019,6 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_dialog_msg_top">Ko je vključeno varčevanje baterije, bo MIUI napravil naslednje optimizacije:</string>
   <string name="power_center_hints_scan_danger_result">Zdaj lahko rešite probleme baterije</string>
   <string name="power_center_list_item_auto_brightness">Samodejno nastavite svetlost zaslona</string>
-     <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-     <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-     <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-     <string name="power_center_list_item_battery_status_capacity">mAh</string>
-     <string name="power_center_list_item_battery_status_temperature">℃</string>
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_list_item_close_bluetooth">Izključi Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Dodatne nastavitve</string>
@@ -3436,7 +3429,6 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_normal_traffic_limit">Kadar presežete plan podatkov</string>
   <string name="pref_open_adjust_traffic">"Posodobi porabo podatkov vsakodnevno z uporabo statistike mobilnega operaterja"</string>
   <string name="pref_operator_not_set">"Operater ni nastavljen"</string>
-     <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_over_traffic_limit">Ko presežete omejitev podatkov</string>
      <string name="pref_package_traffic_leisure">"%1$s 
   Izkl.maks.: %2$s"</string>
@@ -3715,7 +3707,6 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_using_record">Snemanje zvoka</string>
   <string name="privacyapp_number_masked_text">Vsebina obvestil je skrita</string>
   <string name="privacyapp_number_unmasked_text">Vsebina obvestil ni skrita</string>
-     <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Medijski strežnik</string>
   <string name="process_vpnsdkmanager_label">Game Turbo</string>
   <string name="promotion">Oglas</string>
