@@ -723,6 +723,8 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
   <string name="reading_status_failure">"Ne morem odčitati statusa."</string>
   <string name="remind_later">Kasneje</string>
   <string name="restoreSync">Sinhroniziraj zdaj</string>
+     <string name="retain_data_high_quality_photo_waring_message">Visokokakovostne slike bodo po odjavi izbrisane iz vaše galerije. Ustrezne izvirne datoteke bodo še vedno shranjene v oblaku. Izvirne datoteke lahko prenesete tudi pred odjavo.</string>
+     <string name="retain_data_high_quality_photo_waring_title">"Visokokakovostne slike ne bodo na voljo"</string>
   <string name="search_cloudbackup_pref">Cloud var. kopija</string>
   <string name="search_cloudbackup_pref_desc">Vklj/Izklj. Cloud var. kopijo</string>
   <string name="search_cloudbackup_pref_key_words">cloudbackup, cloud var. kopija</string>
@@ -749,6 +751,7 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
      <string name="share_location_guide3_title">Ostanite varni</string>
      <string name="share_location_guide_action_btn_text">Vključi</string>
      <string name="share_location_guide_extra_btn_text">Preskoči</string>
+     <string name="share_location_menu_create_shortcut">Bližnjica zač. zaslona</string>
      <string name="share_location_menu_finddevice_settings">Nastavitve Najdi napravo</string>
      <string name="share_location_menu_help">Pomoč in povratne informacije</string>
      <string name="share_location_menu_messages">Zgodovina sporočil</string>

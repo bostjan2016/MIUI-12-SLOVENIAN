@@ -355,6 +355,8 @@
   <string name="garbage_clean_detail">Podrobnosti</string>
   <string name="garbage_cleanup_detail">%1$d krat, očiščeno %2$s</string>
   <string name="garbage_month">Očiščeno %s ta mesec</string>
+     <string name="gb_global_icon_ad_card_btn">PRIDOBI</string>
+     <string name="gb_global_icon_ad_card_title">Predlagano za vas</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_wa_audio">Avdio</string>
   <string name="global_wa_audio_item_title">Glasovna sporočila</string>
@@ -889,10 +891,12 @@
     <string name="video_clean_desktop_icon_created">Uspešno dodana bližnjica na začetni zaslon</string>
     <string name="video_clean_garbage">Predpomnjeni videoposnetki</string>
     <string name="video_clean_garbage_cleared">Uspešno izbrisani predpomnjeni videoposnetki</string>
-    <string name="video_clean_notification_summary">Počistite videoposnetke, ki jih shranjujejo aplikacije</string>
+     <string name="video_clean_image_clean_summary">Izbrišite podvojene fotografije, da sprostite prostor za shranjevanje</string>
+     <string name="video_clean_image_clean_title">Izbrišite podvojene fotografije</string>
+    <string name="video_clean_notification_summary">Izbrišite videoposnetke, ki jih shranjujejo aplikacije</string>
     <string name="video_clean_notification_title">Očisti %s</string>
     <string name="video_clean_personal_settings_title">Dodatne nastavitve</string>
-    <string name="video_clean_qq_clean_summary">Počistite smeti, da sprostite prostor za shranjevanje</string>
+    <string name="video_clean_qq_clean_summary">Izbrišite smeti, da sprostite prostor za shranjevanje</string>
     <string name="video_clean_qq_clean_title">QQ čistilec</string>
     <string name="video_clean_remind_settings_title">Opomni za čiščenje</string>
     <string name="video_clean_scan_app_tip">Pregled aplikacij %1$d/%2$d</string>
@@ -958,7 +962,7 @@
   <string name="whatsapp_group_wallpaper">Slika ozadja</string>
   <string name="whatsapp_title">Očisti WhatsApp</string>
   <string name="white_list_ad_header">Stare datoteke: %d</string>
-  <string name="white_list_apk_header">Instal. aplik.: %d</string>
+  <string name="white_list_apk_header">Nameščene aplik.: %d</string>
   <string name="white_list_cache_header">Predpomnilnik: %d</string>
   <string name="white_list_large_file_header">Vel. datoteke in videoposnetki: %d</string>
   <string name="white_list_residual_header">Ostanki: %d</string>
@@ -971,7 +975,7 @@
   <string name="wqfile_group_chat_file">Datoteke poslane od pošiljatelja</string>
   <string name="wqfile_group_chat_pic">Slike od pošiljatelja</string>
   <string name="wqfile_group_chat_video">Videoposnetki od pošiljatelja</string>
-  <string name="wqfile_group_chat_voice">Voice messages</string>
+  <string name="wqfile_group_chat_voice">Glasovna sporočila</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yesterday">Včeraj</string>
 </resources>

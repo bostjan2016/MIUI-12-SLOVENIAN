@@ -689,7 +689,7 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="user_avatar_update_title">Zamenjaj sliko profila</string>
   <string name="user_avatar_uploading">Samo trenutek…</string>
   <string name="user_id_hint">E-pošta/Št. telefona/ID Mi Računa</string>
-  <string name="user_protocol_and_privacy_protocol">"Prebral sem in se strinjam z Pogoji uporabe in Pravilnikom o zasebnosti."</string>
+  <string name="user_protocol_and_privacy_protocol"><Data>"Prebral sem in se strinjam z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>."</Data></string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
   <string name="v_code_title">Vnesite kontrolno kodo</string>

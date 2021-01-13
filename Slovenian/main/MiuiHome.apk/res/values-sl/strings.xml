@@ -51,10 +51,10 @@
   <string name="add_custom_category">Prilagodi</string>
   <string name="add_screen">Dodaj zaslon</string>
   <string name="added_all_category">Vse aplikacije uspešno dodane</string>
+     <string name="additional_settings">Dodatne nastavitve</string>
   <string name="alexa_notification_add">Dodaj</string>
   <string name="alexa_notification_cancel">Ne zdaj</string>
   <string name="alexa_notification_content">Dodam Alexa bližnjico v Center za kontrolo?</string>
-     <string name="additional_settings">Dodatne nastavitve</string>
   <string name="all_app_category_all">Vse</string>
   <string name="all_app_category_communication">Komunikacija</string>
   <string name="all_app_category_default">Kategorija</string>
@@ -191,6 +191,7 @@
   <string name="children_mode_tips_title">Izberite aplikacije</string>
   <string name="choose_wallpaper">Izberi sliko za ozadje</string>
   <string name="chooser_wallpaper">Izberi ozadje iz</string>
+     <string name="clearable_edittext_clear_description">Očisti</string>
   <string name="cloud_app_restore_title">Na čakanju</string>
   <string name="common_home_search_delete">Brisanje iskalne vrstice na zač. zaslonu</string>
   <string name="common_home_search_delete_cancle">Prekliči</string>
@@ -201,12 +202,12 @@
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Dvojne aplikacije bodo odstranjene skupaj s temi.</string>
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">Dvojna aplikacija bo odstranjena skupaj s to.</string>
   <string name="confirm_uninstall_dialog_title">Dvojne aplikacije bodo odstranjene.</string>
-  <string name="content_description_for_shortcut_icon_checked">%1$s, preverjeno</string>
-  <string name="content_description_shortcut_icon_unchecked">%1$s, ni preverjeno</string>
-  <string name="content_description_workspace_thumbnail_item">Pregled zaslona, stran %1$s</string>
   <string name="content_description_button_add">Tapnite za dodajanje trenutnim aplikacijam</string>
   <string name="content_description_button_disable">"Ne morem dodati več trenutnih aplikacij"</string>
   <string name="content_description_button_remove">Dotaknite se za odstranitev iz trenutnih aplikacij</string>
+     <string name="content_description_for_shortcut_icon_checked">%1$s, preverjeno</string>
+     <string name="content_description_shortcut_icon_unchecked">%1$s, ni preverjeno</string>
+     <string name="content_description_workspace_thumbnail_item">Pregled zaslona, stran %1$s</string>
   <string name="copy">Kopiraj</string>
   <string name="current_preview">Pregled</string>
   <string name="current_wallpaper">Trenutno</string>
@@ -551,6 +552,8 @@
   <string name="reset_fail">"Ne morem povrniti"</string>
   <string name="reset_scene_prompt">Zaslon bo ponovno nastavljen na privzeto nastavitev</string>
   <string name="reset_title">Povrni</string>
+     <string name="resource_canary_leak_tip">spušča!</string>
+     <string name="resource_canary_wait_for_heapdump_message">Posnetek kopice dampinga...</string>
   <string name="restore_icon_successful">Uspešno dodano</string>
   <string name="screen_cells_config_title">Razpored zač. zaslona</string>
   <string name="screen_locked_toast">Razporeditev zač. zaslona je zaklenjena</string>

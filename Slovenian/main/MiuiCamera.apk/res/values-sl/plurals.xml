@@ -48,4 +48,12 @@
         <item quantity="other">Izbrišem osnutke: %1$d?</item>
         <item quantity="one">Izbrišem %1$d osnutek?</item>
      </plurals>
+     <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Snemanje %d sekund</item>
+        <item quantity="one">Snemanje %d sekundo</item>
+     </plurals>
+     <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Lahko snemate video posnetke z zamrznitvijo do največ %d objektov.</item>
+        <item quantity="one">Lahko snemate video posnetke z zamrznitvijo samo za %d objekt.</item>
+     </plurals>
 </resources>

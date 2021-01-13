@@ -9084,6 +9084,9 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="switchNetworkToast">Povezava z mobilnimi omrežji lahko povzroči dodatne stroške</string>
   <string name="switch_access_service_on">Menjava dostopa</string>
      <string name="switch_bootup_sound">Zagonski zvok</string>
+     <string name="switch_headset_anti_lost">Manjka opozorilo slušalk</string>
+     <string name="switch_headset_anti_lost_summary">Prejmite opozorilo, kadar je katera od vaših slušalk oddaljena od ušesa ali ohišja za polnjenje dlje kot minuto</string>
+     <string name="switch_headset_anti_lost_title">Manjka opozorilo slušalk</string>
   <string name="switch_off_text">Izklopljeno</string>
   <string name="switch_on_text">Vklopljeno</string>
   <string name="switch_screen_button_order">Zamenjaj tipke</string>
@@ -10684,6 +10687,8 @@ To lahko izključite v Nastavitve &gt; WiFi &gt; Dodatne nastavitve."</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Prestavi na podatkovno povezavo ko WiFi nima dostopa do spleta.</string>
   <string name="wifi_enable_hs2_title">Passpoint vključen</string>
   <string name="wifi_enable_watchdog_service_summary">Izogni se slabi povezavi</string>
+     <string name="wifi_enhanced_handover">Izboljšana predaja</string>
+     <string name="wifi_enhanced_handover_summary">Hitro preklapljajte med dostopnimi točkami z istim načinom šifriranja</string>
      <string name="wifi_enhanced_mac_randomization">Naključen naslov MAC s podporo WiFi-ja</string>
      <string name="wifi_enhanced_mac_randomization_summary">Ko je ta način omogočen, se lahko naslov MAC te naprave spremeni vsakič, ko se poveže z omrežjem, ki ima omogočeno naključno izbiro MAC..</string>
   <string name="wifi_error">Napaka</string>

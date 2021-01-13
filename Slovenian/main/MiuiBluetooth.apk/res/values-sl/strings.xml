@@ -363,6 +363,8 @@ Ta storitev je v fazi razvoja, zato morda ne bo delovala pravilno.
      <string name="headset_fw_error_failed">ni uspelo</string>
      <string name="headset_fw_file_position_failed">ni uspelo</string>
      <string name="headset_fw_file_readfailed">ni uspelo</string>
+     <string name="headset_loss_notify_summary">Kaže, da vsaj ena od vaših slušalk ni v ohišju za polnjenje. Poglejte naokoli!</string>
+     <string name="headset_loss_notify_title">Manjka opozorilo slušalk</string>
      <string name="headset_read_fw_state">ni uspelo</string>
      <string name="headset_update_failed">ni uspelo</string>
      <string name="headset_update_ok">v redu</string>
