@@ -1267,8 +1267,8 @@ prednostno"</string>
   <string name="keyguard_enter_your_pattern">Vnesite vzorec</string>
   <string name="keyguard_enter_your_pin">Vnesite PIN</string>
     <string name="keyguard_indication_charging_time">%2$s • Polnjenje (%1$s do napolnjenosti)</string>
-    <string name="keyguard_indication_charging_time_fast"> %2$s • Hitro polnjenje (%s do napolnjenosti)</string>
-    <string name="keyguard_indication_charging_time_slowly"> %2$s • Počasno polnjenje (%s do napolnjenosti)</string>
+    <string name="keyguard_indication_charging_time_fast"> %2$s • Hitro polnjenje (%1$s do napolnjenosti)</string>
+    <string name="keyguard_indication_charging_time_slowly"> %2$s • Počasno polnjenje (%1$s do napolnjenosti)</string>
      <string name="keyguard_indication_charging_time_wireless">%2$s • brezžično polnjenje (%1$s do napolnjenosti)</string>
     <string name="keyguard_indication_trust_disabled">Naprava bo ostala zaklenjena, dokler je ročno ne odklenete.</string>
      <string name="keyguard_indication_trust_unlocked">Z Smart Lock naprava ostane odklenjena</string>
@@ -1299,7 +1299,7 @@ prednostno"</string>
     <string name="keyguard_password_enter_pin_prompt">Nova koda PIN kartice SIM</string>
     <string name="keyguard_password_enter_puk_code">Vnesite kodo PUK in novo kodo PIN kartice SIM</string>
     <string name="keyguard_password_enter_puk_prompt">Koda PUK kartice SIM</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dotaknite se za vnos gesla&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">Dotaknite se za vnos gesla</string>
     <string name="keyguard_password_wrong_pin_code">Napačna koda PIN.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Kartica SIM je trajno onemogočena.
  Obrnite se na operaterja za drugo."</string>
