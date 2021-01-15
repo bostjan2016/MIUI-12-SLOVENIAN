@@ -87,7 +87,10 @@
   <string name="controls_seeding_in_progress">Nalaganje priporočil</string>
   <string name="controls_structure_tooltip">Povlecite, če želite videti več</string>
   <string name="copy">Kopiraj</string>
+     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
   <string name="disabled">Onemogočeno</string>
+     <string name="dnd_popup_close_message">Razumem</string>
+     <string name="dnd_popup_message">Način Ne moti lahko vklopite, da utišate klice in obvestila, ne da bi izklopili zvoke predstavnosti.</string>
   <string name="early_morning">Jutro</string>
      <string name="error_icon_content_description">Napaka</string>
   <string name="expand_button_title">Napredno</string>
@@ -115,14 +118,15 @@
      <string name="miui_ringer_status_open">Vključeno</string>
      <string name="miui_ringer_total">Ne moti</string>
      <string name="miui_ringer_total_description">Utišaj zvoke in izklopi vibracije za vse stvari, razen za budilko</string>
-     <string name="miui_toast_zen_dnd_to_off">Ne moti je izklopljen. Zvoki in vibracije so ponovno vklopljeni.</string>
+     <string name="miui_toast_zen_dnd_to_off">Klici in obvestila ne bodo več utišani.</string>
      <string name="miui_toast_zen_dnd_to_off_version_R">Ne moti je izklopljen. Zvoki obvestil in vibracije so ponovno vklopljeni.</string>
-     <string name="miui_toast_zen_standard_to_off">Ne moti je izklopljen. Melodije zvonjenja in vibracije so ponovno vklopljene.</string>
+     <string name="miui_toast_zen_standard_to_off">Tihi način je izklopljen.</string>
      <string name="miui_toast_zen_standard_to_off_when_shield_media">Tiho je izklopljeno. Predvajali se bodo melodije zvonjenja ter obvestila in zvoki predstavnosti.</string>
      <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Tiho je izklopljeno. Obvestila, zvoki medijev in vibracije so ponovno vklopljeni.</string>
-     <string name="miui_toast_zen_to_dnd">Ne moti je vključeno. Zvoki so utišani in vibracije so izključene.</string>
+     <string name="miui_toast_zen_to_dnd">Klici in obvestila bodo utišani.</string>
      <string name="miui_toast_zen_to_dnd_version_R">Ne moti je vključeno. Obvestila so izključena in vibracije so izključene.</string>
-     <string name="miui_toast_zen_to_standard">Ne moti je vključeno. Melodije zvonjenja za klice in obvestila so izklopljene</string>
+     <string name="miui_toast_zen_to_dnd_when_lock">Klici in obvestila bodo utišani, ko bo naprava zaklenjena</string>
+     <string name="miui_toast_zen_to_standard">Vklopljen je tihi način</string>
      <string name="miui_toast_zen_to_standard_when_shield_media">Ne moti je vključeno. Melodije zvonjenja ter zvoki obvestil in predstavnosti so izklopljene.</string>
      <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Tiho je vključeno. Obvestila in mediji so utišani in vibracije so izključene.</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
@@ -286,7 +290,8 @@ Dolgotrajno poslušanje visoke glasnosti lahko poškoduje vaš sluh."</string>
      <string name="wireless_charging_saver_message">Varčevanje z energijo je zdaj vklopljeno. Ali želite obdržati povratno brezžično polnjenje?</string>
      <string name="wireless_charging_saver_ok">Obdrži</string>
      <string name="wireless_charging_tips_disable">"Ne kaži več"</string>
-     <string name="wireless_charging_tips_message">Na hrbtno stran naprave namestite naprave, ki podpirajo brezžično polnjenje Qi (telefoni, dodatki itd.).</string>
+     <string name="wireless_charging_tips_message">Napravo, ki jo želite brezžično polniti (npr. telefon, pametno uro, slušalke), položite na hrbtno stran telefona. Pred uporabo povratnega brezžičnega polnjenja se prepričajte, da je ta telefon vsaj %d%% napolnjen.</string>
+     <string name="wireless_charging_tips_sub_message">Druga naprava mora podpirati standard brezžičnega polnjenja Qi.</string>
      <string name="wireless_charging_tips_title">Povratno brezžično polnjenje</string>
   <string name="yesterday">Včeraj</string>
 </resources>

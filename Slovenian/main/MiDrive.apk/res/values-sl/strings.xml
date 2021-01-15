@@ -107,6 +107,15 @@
   <string name="change_activate_email">Zamenjaj naslov e-pošte</string>
   <string name="change_mobile_network_message">Prestavljeno na mobilne podatke. Nadaljevanje prenosa datotek bo porabilo veliko podatkov, ali ste prepričani da želite nadaljevati?</string>
   <string name="change_password">Zamenjaj geslo</string>
+     <string name="channel_pc_edit">Urejeno v računalniku</string>
+     <string name="channel_pc_upload">Naloženo iz računalnika</string>
+     <string name="channel_pc_view">Ogledano v računalniku</string>
+     <string name="channel_phone_edit">Urejeno v telefonu</string>
+     <string name="channel_phone_upload">Naloženo iz telefona</string>
+     <string name="channel_phone_view">Ogledano v telefonu</string>
+     <string name="channel_web_edit">Urejeno v brskalniku</string>
+     <string name="channel_web_upload">Naloženo v brskalnik</string>
+     <string name="channel_web_view">Ogledano v brskalniku</string>
   <string name="character_counter_content_description">Vnešeno znakov %1$d od %2$d</string>
   <string name="choose_to_signin">Da</string>
   <string name="choose_to_signup">"Ne, napravil bom račun"</string>
@@ -151,7 +160,9 @@
   <string name="delete_files">Izbrišem (%1$d) datotek?</string>
   <string name="delete_folder">Izbrišem to datoteko?</string>
   <string name="delete_folders">Izbrišem (%1$d) map?</string>
-  <string name="delete_record_only">"Stvari na katere se nanašajo izbrani zapisi, ne bodo izbrisane."</string>
+     <string name="delete_operation_record">Izbrišem ta posnetek?</string>
+     <string name="delete_operation_record_timeout">"Posnetka ni bilo mogoče izbrisati. Počakajte minuto ali dve in poskusite znova."</string>
+  <string name="delete_record_only">"Stvari, na katere se nanašajo izbrani posnetki, ne bodo izbrisane."</string>
   <string name="delete_success">Datoteka izbrisana</string>
      <string name="detail_download_path">"Lokacija: "</string>
      <string name="detail_download_time">"Prenešeno: "</string>
@@ -297,6 +308,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="input_email_address_notice">"Ta e-poštni naslov bo uporabljen za preverjanje vašega računa"</string>
   <string name="input_new_pwd">Vnesite novo geslo</string>
   <string name="isornot_your_mi_account">Je to vaš Mi Račun?</string>
+     <string name="jump_to_directory">Odpri mapo</string>
   <string name="just_a_second">Samo trenutek…</string>
   <string name="just_now">Ravno zdaj</string>
   <string name="kilobyteShort">KB</string>
@@ -367,6 +379,7 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="no_more_space">Ni dovolj prostora.</string>
   <string name="no_network">"Ne morem se povezati na omrežje. Preverite omrežno povezavo in poskusite znova."</string>
   <string name="no_phone">Ni številke telefona</string>
+     <string name="no_recent_activity">Tu ni ničesar</string>
   <string name="no_tasks">Ni nalog.</string>
   <string name="not_set">Ni nastavljeno</string>
      <string name="not_support_upload_file_for_overseas_users">"Nalaganje ni na voljo zunaj celinske Kitajske"</string>
@@ -400,6 +413,7 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="operation_dialog_copy_message">Kopiranje…</string>
   <string name="operation_dialog_create_folder_message">Izdelava mape…</string>
   <string name="operation_dialog_delete_message">Brisanje…</string>
+     <string name="operation_dialog_jump_message">Odpiranje mape…</string>
   <string name="operation_dialog_move_message">Premeščanje…</string>
   <string name="operation_dialog_rename_message">Preimenovanje…</string>
   <string name="operation_download">Prenesi</string>
@@ -423,6 +437,7 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="operation_task_manage">Pokaži prenose</string>
   <string name="operation_transport_success">Uspešno dodano v prenose</string>
   <string name="operation_upload">Naloži</string>
+     <string name="operation_will_not_show_after_delete">Posnetek ne bo več prikazan tukaj, če ga izbrišete.</string>
   <string name="passport_access_denied">Dostop zavrnjen</string>
   <string name="passport_account_label">Mi Račun</string>
   <string name="passport_account_name">Račun: %1$s</string>
@@ -544,6 +559,8 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
      <string name="psw_sign_in">Prijavite se z geslom</string>
      <string name="ptp_ai_recommend_empty_page">Tu ni samodejno ustvarjenih datotek PDF</string>
      <string name="quota_info">Mi Drive: %1$s na voljo, %2$s skupno</string>
+     <string name="recent_file">Nedavno</string>
+     <string name="recent_jump_to_privacy_fail_notice">Ta datoteka je zasebna. Vrnite se na začetno stran in povlecite navzdol za ogled.</string>
   <string name="refresh_label_pull_to_refresh">Povleci dol za osvežitev</string>
   <string name="refresh_label_refreshed">Uspešno osveženo</string>
   <string name="refresh_label_refreshing">Osveževanje…</string>

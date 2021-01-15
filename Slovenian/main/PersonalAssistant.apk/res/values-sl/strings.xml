@@ -90,6 +90,23 @@
      <string name="am">AM</string>
   <string name="announce_for_drag">Poteg ene stvari</string>
     <string name="app_agenda_i_known">Razumem</string>
+     <string name="app_auth_router_dialog_loading">Dodajanje računa…</string>
+     <string name="app_auth_setting_bind">Dodaj</string>
+     <string name="app_auth_setting_bind_fail">"Računa ni bilo mogoče dodati"</string>
+     <string name="app_auth_setting_bind_fail_uninstall">"Računa ni bilo mogoče dodati. Najprej namestite %s."</string>
+     <string name="app_auth_setting_bind_success_title">Trenutni %s račun</string>
+     <string name="app_auth_setting_bind_summry">Mi račun: %s</string>
+     <string name="app_auth_setting_bind_title">Dodaj %s račun</string>
+     <string name="app_auth_setting_login">Vpišite se</string>
+     <string name="app_auth_setting_login_summry">Prijavite se in dodajte svoj račun Alipay, da boste lahko uporabljali priljubljene storitve</string>
+     <string name="app_auth_setting_login_title">Vpišite se v Mi račun</string>
+     <string name="app_auth_setting_service_title">Priljubljene storitve</string>
+     <string name="app_auth_setting_unbind">Odstrani</string>
+     <string name="app_auth_setting_unbind_dialog_positive">Odstrani</string>
+     <string name="app_auth_setting_unbind_dialog_title">Odstrani %s račun</string>
+     <string name="app_auth_setting_unbing_dialog_message">"Po odstranitvi računa ne boste mogli uporabljati priljubljenih storitev %s."</string>
+     <string name="app_auth_setting_unbing_dialog_negative">Obdrži</string>
+     <string name="app_bluetooth_device_battery">%1$d%%</string>
     <string name="app_bluetooth_device_type">Naprava Bluetooth</string>
      <string name="app_commute_correction_button">Popravi</string>
      <string name="app_commute_correction_text">Je \"%1$s\" vaš %2$s naslov?</string>
@@ -138,6 +155,8 @@
      <string name="app_pa_search">Išči</string>
 	<string name="app_pa_setting_bugreport">Povratne informacije</string>
     <string name="app_pa_setting_global_display">Zaslon</string>
+     <string name="app_pa_setting_global_display_backdrop_blur_option">Zameglitev ozadij kartic</string>
+     <string name="app_pa_setting_global_display_backdrop_blur_summary">Uporabite Gaussovo zameglitev na ozadja kart. Ta funkcija lahko upočasni odziv s potegom.</string>
     <string name="app_pa_setting_global_display_blur_option">Zameglitev ozadja</string>
     <string name="app_pa_setting_global_display_blur_summary">Zameglitev ozadja upočasni odziv s potegom</string>
     <string name="app_pa_setting_head_bg_img">Ozadje</string>
@@ -334,6 +353,7 @@
   <string name="clock_alarm">Alarm</string>
   <string name="clock_parent">Ura</string>
   <string name="closed">Izključeno</string>
+     <string name="collect_diagnosis_log">Zberite poročila diagnoze</string>
   <string name="common_google_play_services_unknown_issue">%1$s ima težave s storitvami Google Play. Če težava še naprej obstaja kontaktirajte razvojnega programerja.</string>
   <string name="commute">Predlogi zemljevida</string>
   <string name="commute_open">Pokaži kartico za predloge zemljevida</string>
@@ -383,6 +403,10 @@
   <string name="detail_action_settings">Odpri nastavitve</string>
   <string name="detail_action_share">Deli</string>
   <string name="detail_title">Priljubljeno</string>
+     <string name="diagnosis_log_send_failed">Pošiljanje poročila diagnoze ni uspel.</string>
+     <string name="diagnosis_log_sent_format">"Poročila diagnoze so bila poslana.
+ID:%s
+Prosimo, pošljite to kodo tehnikom."</string>
   <string name="dialog_cancel_like">Oznaka uspešno izbrisana</string>
   <string name="dialog_delete_cancel">Prekliči</string>
   <string name="dialog_delete_delete">Izbriši</string>
@@ -469,6 +493,7 @@
   <string name="flow_setting_brief">Oglejte si informacije o porabi podatkov (dodajte svoj podatkovni načrt v Varnost &gt; poraba podatkov).</string>
   <string name="focus">Status spremljanja</string>
   <string name="focus_stocks">Moja podjetja</string>
+     <string name="for_diagnosis_usage_only">Te informacije uporabi samo za diagnozo.</string>
     <string name="friday">Petek</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
@@ -778,6 +803,7 @@
   <string name="notification_express_content">Sledite naročilom z uporabo shrambe za aplikacije</string>
   <string name="notification_express_title">Vklopite kartice nakupovalnih aplikacij</string>
   <string name="notification_title">Dodano med priljubljene</string>
+     <string name="ok">V REDU</string>
   <string name="ola_micro">Micro</string>
   <string name="ola_mini">Mini</string>
   <string name="ola_prime">Prime</string>
@@ -785,6 +811,9 @@
   <string name="ola_trip_content">Izračunajte voznino in pokličite ola</string>
   <string name="ola_trip_content_detail">Izračunajte približno voznino in pokličite ola.</string>
   <string name="opened">Vključeno</string>
+     <string name="passport_oauth_actionbar_title">Mi račun</string>
+     <string name="passport_oauth_sucess_tip">Avtorizacija uspešna</string>
+     <string name="password_toggle_content_description">Preklopi vidnost gesla</string>
   <string name="pay_card_pack">Mi Pay</string>
   <string name="paycode_parent">Alipay</string>
   <string name="paycode_sdk_parent">Bližnjica za plačilo (aplikacija ni potrebna)</string>
@@ -829,6 +858,7 @@
      <string name="save">Shrani</string>
   <string name="save_edit">Uredi</string>
      <string name="save_to_note">Shrani v beležke</string>
+     <string name="save_to_note_new">Shrani v beležke</string>
   <string name="scan">Skeniraj</string>
   <string name="scan_app">Skener</string>
   <string name="scan_card">Vizitka</string>
@@ -853,6 +883,9 @@
   <string name="security">Varnost</string>
   <string name="selected_shortcuts_title">Storitve</string>
   <string name="send_action_title">Dodaj med priljubljene</string>
+     <string name="send_diagnosis_log">Pošlji poročila diagnoze</string>
+     <string name="send_express">Hitra dostava</string>
+     <string name="sending">Pošiljanje…</string>
   <string name="service_unavailiable">Povežite se na omrežje in poskusite ponovno.</string>
   <string name="setting_address">Dodaj pogosta mesta</string>
   <string name="setting_authorization_canceled_dialog_cancel">Prekliči</string>
@@ -872,6 +905,8 @@
   <string name="setting_cards_all_added">Vse kartice dodane</string>
   <string name="setting_cards_more">Več kartic</string>
   <string name="setting_common_private">Varnost &amp; zasebnost</string>
+     <string name="setting_commute_brief">Prilagodite svojo dnevno vožnjo trenutnemu prometu</string>
+     <string name="setting_commute_label">Dnevno potovanje</string>
   <string name="setting_cricket_match">Kriket</string>
   <string name="setting_cricket_match_brief">Pridobite vse rezultate tekem in razpored tekem</string>
   <string name="setting_cricket_match_detail">Nikoli ne zamudite nobene tekme!</string>
@@ -995,6 +1030,7 @@
   <string name="taxi">Taksi</string>
   <string name="taxi_open">Pokaži kartico za taksi</string>
   <string name="taxi_setting_brief">Dobite taksi z enim samim pritiskom.</string>
+     <string name="temporary_not_available">trenutno ni na voljo</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>
@@ -1007,7 +1043,8 @@
      <string name="timeline_headline">Prihajajoče</string>
   <string name="toast_function_add_limit">Dodate lahko do %d bližnjic</string> 
   <string name="toast_function_remove_not_allowed">Dodaj vsaj eno bližnjico</string>
-     <string name="toast_reach_text_limit_truncate">Vaša opomba je predolga. Presežna vsebina je bila okrnjena.</string>
+     <string name="toast_reach_text_limit_truncate">Vaša beležka je predolga. Presežena vsebina je bila okrnjena.</string>
+     <string name="toast_reach_text_limit_truncate_new">Vaša beležka je predolga. Presežena vsebina je bila okrnjena.</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
   <string name="total_month_desc_text">Ta mesec</string>

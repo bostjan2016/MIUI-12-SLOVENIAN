@@ -231,6 +231,17 @@
         <item>Hitrost animacije 5 x</item>
         <item>Hitrost animacije 10 x</item>
      </string-array>
+	 <string-array name="tts_rate_entries">
+        <item>Zelo počasi</item>
+        <item>Počasi</item>
+        <item>Normalno</item>
+        <item>Hitro</item>
+        <item>Hitreje</item>
+        <item>Precej hitro</item>
+        <item>Brzina</item>
+        <item>Velika brzina</item>
+        <item>Najhitreje</item>
+     </string-array>
      <string-array name="usb_configuration_titles">
         <item>Polnjenje</item>
         <item>MTP (protokol za prenos predstavnosti)</item>

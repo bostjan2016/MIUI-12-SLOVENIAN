@@ -502,7 +502,7 @@ Poskusite znova čez %d s."</string>
     <string name="bluetooth_connected_no_headset_battery_level">Povezano (brez telefona) | Baterija %1$s %2$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (brez telefona ali predstavnosti) %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level"> (brez telefona ali predstavnosti) | Baterija %1$s %2$s</string>
-  <string name="bluetooth_connected_no_map">Povezano (brez dostopa do sporočil)</string>
+  <string name="bluetooth_connected_no_map">Povezano (brez dostopa do sporočil) %1$s</string>
   <string name="bluetooth_connecting">Povezovanje…</string>
   <string name="bluetooth_disable_absolute_volume">Onemogoči absolutno glasnost</string>
   <string name="bluetooth_disable_absolute_volume_summary">Onemogoča Bluetoothovo opravilo absolutne glasnosti če imajo oddaljene naprave težave z zvokom, naprimer nesprejemljiva glasnost ali neobstoječi kontrolniki.</string>
@@ -514,6 +514,8 @@ Poskusite znova čez %d s."</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Omogoči sklad funkcij Bluetooth Gabeldorsche.</string>
   <string name="bluetooth_enable_inband_ringing">Omogoči zvok zvonenja znotraj pasovne širine</string>
   <string name="bluetooth_enable_inband_ringing_summary">Omogoči predvajanje melodije zvonenja preko Bluetooth slušalk</string>
+     <string name="bluetooth_enable_page_scan">omogoči iskanje strani Bluetooth</string>
+     <string name="bluetooth_enable_page_scan_summary">onemogoči / omogoči iskanje strani za preskus Bluetooth</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezano s telefonskim zvokom</string>
   <string name="bluetooth_headset_profile_summary_use_for">Uporablja za telefonski zvok</string>
   <string name="bluetooth_hearing_aid_profile_summary_connected">Povezano s slušnim aparatom</string>
@@ -707,7 +709,7 @@ Izbor"</string>
      <string name="controls_error_retryable">Napaka, poskusimo znova…</string>
      <string name="controls_error_timeout">Neaktivno, preverite aplik.</string>
      <string name="controls_favorite_default_title">Kontrole</string>
-     <string name="controls_favorite_load_error">Seznam vsek kontrol se ni naložil.</string>
+     <string name="controls_favorite_load_error">Seznam vseh kontrol se ni naložil. Preverite aplikacijo %s in se prepričajte, da se nastavitve aplikacije niso spremenile</string>
      <string name="controls_favorite_load_none">Kompatibilne kontrole niso na voljo</string>
      <string name="controls_favorite_other_zone_header">Drugo</string>
      <string name="controls_favorite_rearrange">Pridržite in povlecite, da spremenite razpored kontrol</string>
@@ -859,7 +861,7 @@ Izbor"</string>
      <string name="doze_pickup_subtype_performs_proximity_check" />
   <string name="drag_to_add_tiles">Pritisnite in držite da boste dodali ali zamenjali razpored stvari</string>
      <string name="drag_to_rearrange_tiles">Zadržite i povucite da biste premjestili pločice</string>
-  <string name="drag_to_remove_disabled">Potrebno je vsaj 6 ploščic</string>
+  <string name="drag_to_remove_disabled">Potrebno je vsaj %1$d ploščic</string>
   <string name="drag_to_remove_tiles">Podrsajte tu za odstranitev</string>
   <string name="drive_mode_tip">"Ste v načinu avta"</string>
   <string name="drive_mode_tip_idle">Tapnite za izhod iz načina avto</string>
@@ -1037,6 +1039,7 @@ Izbor"</string>
   <string name="fs_gesture_switch_recents_summary">Podrsaj navzgor in počakaj sekundo</string>
   <string name="fsg_demo_back">Nazaj</string>
   <string name="fsg_demo_go_on">Gremo naprej</string>
+     <string name="garbage_count">Tu je %1$s starih primerov</string>
      <string name="global_action_lock_message">Odklenite telefon za več možnosti</string>
   <string name="global_action_screenshot">Posnetek zaslona</string>
     <string name="go_to_web">Odpri brskalnik</string>
@@ -2652,6 +2655,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="user_switch_to_user">Preklop na račun %s</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
+     <string name="velocity_tracker_impl">platforma</string>
     <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije, nameščene preko ADB/ADT, škodljive.</string>
     <string name="verify_apps_over_usb_title">Preveri aplikacije preko USB</string>
     <string name="voice_assist_label">odpri glasovnega pomočnika</string>
