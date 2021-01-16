@@ -330,7 +330,11 @@ Ta storitev je v fazi razvoja, zato morda ne bo delovala pravilno.
   <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
   <string name="fast_connect_nzbt_reset">Držite pritisnjeno zgornjo tipko %1$s sek. med izklopom</string>
   <string name="fast_connect_reset_common">Ponastavite to napravo za seznanitev</string>
+     <string name="fast_connect_same_account_content">Prijavite se v svoj Mi Račun, slušalke se samodejno shranijo v Mi Cloud, druge naprave, prijavljene v ta račun, pa lahko preskočijo postopek seznanjanja in se neposredno povežejo s slušalkami.</string>
+     <string name="fast_connect_same_accout_devices_connecting">Povezovanje preko Mi Cloud…</string>
      <string name="fast_connect_same_accout_devices_title">To je vaša druga priključena naprava: %1$s</string>
+     <string name="fast_connect_sound_normalizer_content">"HD glasovni klic.
+Protokol za prenos velike propustnosti."</string>
   <string name="fast_connect_wbs_name">Mi Wireless polnilec za zvočnik</string>
   <string name="fast_connect_wbs_reset">Držite pritisnjeno zgornjo tipko %1$s sek. med izklopom</string>
   <string name="feiyu_vlog_name">Feiyu VLOG pocket</string>

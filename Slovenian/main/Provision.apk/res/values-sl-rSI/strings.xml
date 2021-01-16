@@ -47,6 +47,7 @@
   <string name="application_permissions">Dovoljenja aplikacije</string>
   <string name="back">Nazaj</string>
   <string name="backup_introduction">S to aplikacijo lahko varnostno kopirate in obnovite stvari v napravi.</string>
+     <string name="boot_video_desc">Poglejte svet v 2K</string>
      <string name="boot_video_replay">Predvajaj ponovno</string>
      <string name="boot_video_skip">Preskoči</string>
   <string name="calculator_introduction">Aplikacijo lahko uporabite za računanje, pretvaranje enot in valut in oceno odplačila kredita.</string>

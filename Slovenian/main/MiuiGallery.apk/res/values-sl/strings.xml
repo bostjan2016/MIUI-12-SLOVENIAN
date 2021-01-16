@@ -1787,6 +1787,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="photo_editor_talkback_doodle_rectangle">Pravokotnik</string>
   <string name="photo_editor_talkback_effect">%d efekt</string>
   <string name="photo_editor_talkback_eraser">Izbriši</string>
+     <string name="photo_editor_talkback_random_icon">Filter naključnega neba</string>
   <string name="photo_editor_talkback_recently">Nedavo uporabljeno</string>
   <string name="photo_editor_talkback_redo">Povrni</string>
   <string name="photo_editor_talkback_undo">Razveljavi</string>

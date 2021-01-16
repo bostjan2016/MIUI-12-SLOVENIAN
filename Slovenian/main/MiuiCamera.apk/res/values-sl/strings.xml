@@ -1651,6 +1651,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="recommend_soft_light_tip">Uporabite bliskavico v načinu mehke svetlobe</string>
   <string name="recommend_super_night">Poskusite Nočni način</string>
   <string name="record_back_pressed_hint">Ponovno se dotakni za prenehanje snemanja</string>
+     <string name="reset_manual_picture_style_toast">Parametri so bili uspešno ponastavljeni</string>
   <string name="reset_manually_parameter_confirmed">V redu</string>
   <string name="reset_manually_parameter_hint">Vrni</string>
   <string name="resume_playing_message">Nadaljujem z predvajanjem od %s?</string>

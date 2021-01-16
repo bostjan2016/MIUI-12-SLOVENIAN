@@ -1786,9 +1786,11 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="button_disconnect_network">Izključi iz omrežja</string>
   <string name="button_finish">V redu</string>
   <string name="button_got_it">V redu</string>
+     <string name="button_height_text">Splošna potrditvena tipka (npr. \"V redu\", \"Končano\")</string>
   <string name="button_import">Uvozi</string>
   <string name="button_light_timeout">Nastavitve svetilnosti tipke</string>
   <string name="button_next">Naslednje</string>
+     <string name="button_normal_text">Regularna tipka</string>
   <string name="button_ok">V redu</string>
   <string name="button_quit">Izhod</string>
   <string name="button_return">Nazaj</string>
@@ -1972,6 +1974,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="check_importance_dialog_cancel">Prekini</string>
   <string name="check_update">Preveri posodobitve</string>
   <string name="checkbox_notification_same_as_incoming_call">Za obvestila uporabljaj glasnost dohodnih klicev</string>
+     <string name="checkbox_text">Zamenjaj</string>
   <string name="checking_decryption">Preverjanje…</string>
   <string name="checking_find_device_status">Preverjanje statusa Najdi napravo…</string>
   <string name="checking_for_updates">Preverjanje za posodobitve…</string>
@@ -2401,6 +2404,7 @@ Začnite z napolnjeno baterijo in telefon mora biti priključen ves čas.
   <string name="custom_gesture_title">Lastni gibi</string>
   <string name="custom_wifi_name_title">Uredi ime WiFi-ja</string>
   <string name="customize_function">Vzorci na voljo</string>
+     <string name="customize_knock_gesture">Prilagojene kretnje za sklepe prstov</string>
   <string name="cutout_mode_always">Zmeraj pokaži</string>
   <string name="cutout_mode_default">Samod.</string>
   <string name="cutout_mode_settings_title">Nekatere aplikacije se lahko prikažejo napačno če prilagodite način prikaza zoba.</string>
@@ -3845,6 +3849,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="game_mode_settings">Način za igre</string>
   <string name="game_mode_summary">Izboljšajte zmogljivost za igre z omejitvijo sinhronizacije in povezave v ozadju za druge aplikacije.</string>
   <string name="game_storage_settings">Igre</string>
+     <string name="general_text">Polje za besedilo</string>
+     <string name="general_time">"Čas: %1$d:%2$d. Dolge vibracije predstavljajo ure, kratke vibracije pa minute. Med urami in minutami bo krajši odmor. Dvakrat tapnite, da poskusite."</string>
     <string name="gentle_notifications_also_display">Prikaz tudi na teh mestih</string>
     <string name="gentle_notifications_display_lock">Zaklenjen zaslon</string>
     <string name="gentle_notifications_display_status">Vrstica stanja</string>
@@ -3968,6 +3974,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="handy_mode_tips_full_screen">"Kadar uporabljate gibe na celem zaslonu, lahko vključite Delo z eno roko s pomočjo menija bližnjic. Lahko uporabite tudi tipke namesto gibov celega zaslona."</string>
      <string name="haptic_agent_completion_01_content_description">Naloga je končana</string>
      <string name="haptic_cursor_movement_07_content_description">Nastavitev svetlosti</string>
+     <string name="haptic_experience">Demo</string>
+     <string name="haptic_experience_details">Haptična povratna inf. &amp; dostopnost</string>
   <string name="haptic_feedback_enable_title">Vibracija na dotik</string>
   <string name="haptic_feedback_level">Nivo vibracije</string>
   <string name="haptic_feedback_progress">Nivo hap. pov. informacije</string>
@@ -3985,6 +3993,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="haptic_return_gesture_05_content_description">Nazaj</string>
      <string name="haptic_shutdown_menu_06_content_description">Meni izklopa</string>
      <string name="haptic_single_selection_02_content_description">Izbrana stvar</string>
+     <string name="haptic_switch_summary">Prejmite haptične povratne informacije o izbranih stvareh ko je Snemalec zaslona vključen</string>
+     <string name="haptic_switch_title">Haptična povratna inf.</string>
      <string name="haptic_text_edit_popup_13_content_description">Pop-up meni</string>
      <string name="haptic_upper_right_menu_15_content_description">Padajoči meni</string>
      <string name="haptic_volume_adjustment_14_content_description">Nastavljanje glasnosti</string>
@@ -4026,6 +4036,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="headset_unsaved_devices">ne shrani, povežite se na svoj računu v drugem telefonu</string>
   <string name="hearing_aids_category">Slušna pomožna orodja</string>
   <string name="heavy_weight_stop_description">Aplikacije ni mogoče varno ustaviti. Če jo ustavite boste morda izgubili nekaj svojega trenutnega dela.</string>
+     <string name="height_light_list_text">Seznam važnih stvari</string>
   <string name="help_and_feedback_title">Pomoč in povratne inf.</string>
     <string name="help_feedback_label">Pomoč in povratne informacije</string>
   <string name="help_label">Pomoč in povr. inf.</string>
@@ -4245,6 +4256,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
   <string name="input_password_hint_text">Vnesite geslo</string>
   <string name="input_pattern_hint_text">Narišite vzorec odklepanja</string>
   <string name="input_settings">Nastavitve vnosa</string>
+     <string name="input_text">Okno za vnos besedila</string>
     <string name="install_all_warning">Neznane aplikacije lažje napadejo telefon in osebne podatke v njem. Če namestite aplikacije iz tega vira, se strinjate, da ste sami odgovorni za morebitno škodo, nastalo v telefonu, ali izgubo podatkov, ki je lahko posledica uporabe teh aplikacij.</string>
   <string name="install_applications">Neznani viri</string>
   <string name="install_applications_title">Dovoli vse vire aplikacij</string>
@@ -4507,6 +4519,17 @@ morate najprej napraviti iCloud var. kopijo"</string>
   <string name="kid_space_settings">Otroški prostor</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">KB/s</string>
+     <string name="knock_edge_area_invalid">"Ta kretnja ne deluje blizu robov zaslona"</string>
+     <string name="knock_guide_dialog_title">Izberite dejanje za to kretnjo. Kasneje ga lahko spremenite v Nastavitve &gt; Dodatne nastavitve &gt; Bližnjice kretenj.</string>
+     <string name="knock_guide_drive_desc">Med vožnjo posnemite posnetke zaslona</string>
+     <string name="knock_guide_launch_desc">Zaženite Mi AI ko vaš telefon leži na mizi</string>
+     <string name="knock_guide_set_screenshot">Posnetek zaslona</string>
+     <string name="knock_guide_set_voiceassist">Mi AI</string>
+     <string name="knock_guide_sub_title">Mi AI lahko zaženete ali posnamete posnetke zaslona, ​​tako da se z členkom prstom dotaknete zaslona</string>
+     <string name="knock_guide_title">Dvojni dotik z členkom prstom</string>
+     <string name="knock_long_press_horizontal_slid">Pritisnite in povlecite z členkom prstom vodoravno</string>
+     <string name="knock_slide_shape">Narišite krog z členkom prstom</string>
+     <string name="knock_slide_v">Narišite V z členkom prstom</string>
   <string name="lab_functions_title">Beta opravila</string>
     <string name="label_available">Razpoložljiva omrežja</string>
   <string name="label_global_roaming_settings">Nastavitve za gostovanje</string>
@@ -6608,6 +6631,7 @@ Pred uporabo preberite in sprejmite %s."</string>
   <string name="photo_data">Fotografije in videoposnetki</string>
   <string name="physical_keyboard_title">Fizična tipkovnica</string>
   <string name="pick_up_gesture_wakeup_title">Dvignite napravo da jo vključite</string>
+     <string name="picker_text">Časovnik</string>
   <string name="pico_installed">Nameščeno</string>
   <string name="pico_languages_and_voices">Jeziki in glasovi</string>
   <string name="pico_not_installed">Ni nameščeno</string>
@@ -8131,6 +8155,7 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
   <string name="see_less">Pokaži manj</string>
   <string name="see_more">Pokaži več</string>
   <string name="seek_bar_info">Prilagodite velikost</string>
+     <string name="seekbar_text">Drsnik</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_application">Izberite aplikacijo</string>
     <string name="select_automatically">Samodejno izberi omrežje</string>
@@ -9149,6 +9174,7 @@ Googlov pristop k sinhroniziranju podatkov, s katerim lahko dostopate do stikov,
   <string name="systemui_theme_dark">Temno</string>
   <string name="systemui_theme_light">Svetlo</string>
   <string name="systemui_theme_wallpaper">Samodejno (na podlagi ozadja)</string>
+     <string name="tab_text">Zavihek</string>
     <string name="take_call_on_title">Sprejemanje klicev je vklopljeno</string>
     <string name="talkback_summary">Bralnik zaslona je predvsem za slepe in slabovidne</string>
   <string name="talkback_title">TalkBack</string>
