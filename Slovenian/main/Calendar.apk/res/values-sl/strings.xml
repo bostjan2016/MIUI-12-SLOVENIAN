@@ -198,7 +198,6 @@
      <string name="credit_detail_sms_content">SMS vsebina</string>
   <string name="custom">"Prilagojeno (ni možno na tablici)"</string>
   <string name="daily">Dnevno</string>
-  <string name="date_picker_lunar">Tradicionalni kitajski koledar</string>
   <string name="date_calculate">Izračunaj rezultat</string>
   <string name="date_calculate_days">Vnesite število dni</string>
   <string name="date_calculate_description">Izvedite kateri datum je pred ali za izbranim dnem</string>
@@ -216,6 +215,7 @@
   <string name="date_interval_text_to">Do %1$s</string>
   <string name="date_jump_hint">Skoči naravnost na določeni dan</string>
   <string name="date_jump_title">Skoči na datum</string>
+     <string name="date_picker_lunar">Tradicionalni kitajski koledar</string>
   <string name="date_today">" (danes) "</string>
   <string name="day_picker_description">Mesečni izbirnik dni</string>
   <string name="day_view">Dan</string>
@@ -773,6 +773,17 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="solar_lunar_convert_tab">Spremeni</string>
   <string name="solar_to_lunar_chinese_calendar">Gregorijanski v kitajski</string>
   <string name="start_date_calculate">Izračunaj</string>
+     <string name="subscribe_card">Naročite se zdaj</string>
+     <string name="subscribe_card_success">Naročeni uspešno! Podrobnosti preverite na domači strani.</string>
+     <string name="subscribe_card_success_for_homepage">Naročeni na “%1$s” uspešno</string>
+     <string name="subscribe_channel_subscribe">Naročite se</string>
+     <string name="subscribe_channel_subscribing">Naročeno</string>
+     <string name="subscribe_text">Dodaj</string>
+     <string name="subscribing_card">Naročeni</string>
+     <string name="summary_import_by_caldav">Podpiramo CalDAV račune od Feishu in iCloud</string>
+     <string name="summary_import_by_email">Podpiramo corporate Exchange račune, QQ Mail in Outlook</string>
+     <string name="summary_import_by_local">Podpiramo ICS datoteke</string>
+     <string name="summary_import_by_url">Dodajte naročnino na URL</string>
   <string name="sunday">Nedelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
@@ -869,6 +880,9 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="txt_caldav_account_info_not_found">"Ne morem dobiti podatke o računu caldav"</string>
   <string name="txt_password">Geslo</string>
   <string name="txt_server_url">Strežnik</string>
+     <string name="unsubscribe_card">Odjava</string>
+     <string name="unsubscribe_card_success">Odjava od “%1$s” uspešna</string>
+     <string name="unsubscribing_card">Odjavljeno</string>
   <string name="user_notice_button_exit">Izhod</string>
   <string name="user_notice_button_ok">V redu</string>
   <string name="user_notice_message">"Z uporabo tega proizvoda se strinjate z Xiaomi %1$s in %2$s. Nekatera opravila potrebujejo povezavo s spletom, dostop do lokacije in stikov za normalno delovanje."</string>
