@@ -215,7 +215,16 @@
         <item>Dobri časi</item>
         <item>Skladno</item>
     </string-array>	 
-<string-array name="recent_group_people">
+	<string-array name="relation_with_me_value">
+        <item>jaz</item>
+        <item>otrok</item>
+        <item>družina</item>
+        <item>sodelavci</item>
+        <item>sošolci</item>
+        <item>prijatelji</item>
+        <item>neznano</item>
+     </string-array>
+    <string-array name="recent_group_people">
         <item>Skupaj</item>
         <item>Povezave</item>
     </string-array>	

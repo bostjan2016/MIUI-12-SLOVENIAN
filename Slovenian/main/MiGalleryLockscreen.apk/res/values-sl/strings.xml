@@ -10,6 +10,16 @@
   <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
   <string name="abc_capital_off">IZKLOPLJENO</string>
   <string name="abc_capital_on">VKLOPLJENO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meni+</string>
   <string name="abc_search_hint">Iskanje…</string>
   <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
   <string name="abc_searchview_description_query">Iskalna poizvedba</string>
@@ -299,10 +309,10 @@ Pošljite to kodo nadzorniku."</string>
   <string name="llks_setting_view_title">Dodatni zaslon</string>
   <string name="llks_simple_mode">Lite način</string>
   <string name="llks_simple_mode_desc">Poenostavljeni videz in dodatne bližnjice</string>
-  <string name="llks_subscribe">Naročite se</string>
-  <string name="llks_subscribe_sucess">Uspešno ste se naročili</string>
   <string name="llks_standard_mode">Privzeto</string>
   <string name="llks_standard_mode_desc">Ozadja, zgodbe in dnevna priporočila</string>
+     <string name="llks_subscribe">Naročite se</string>
+     <string name="llks_subscribe_sucess">Uspešno ste se naročili</string>
   <string name="llks_tools_gallery_name">Wallpaper Carousel</string>
   <string name="llks_tools_mipay_wallet_name">Mi Wallet</string>
   <string name="llks_tools_nfc_data">%s CNY</string>
@@ -324,8 +334,8 @@ Pošljite to kodo nadzorniku."</string>
   <string name="lockscreen_magazine_system_title">Izvenmrežno</string>
   <string name="lockscreen_magazine_title">Dnevna ozadja zakl. zaslona</string>
   <string name="lockscreen_wallpaper_changed">Slika ozadja zamenjana</string>
-  <string name="look_str">Popularno</string>
   <string name="logout_account">Odjava</string>
+     <string name="look_str">Popularno</string>
   <string name="main_fragment_title_discover">Odkrijte</string>
   <string name="main_fragment_title_home">Priporočila</string>
   <string name="main_fragment_title_search">Najboljše</string>
@@ -346,7 +356,11 @@ dd.MMMM"</string>
      <string name="miui_lock_screen_large_date">"EEE
 dd.MM"</string>
      <string name="miui_lock_screen_large_date_12">"EEE
-dd.MM"</string>  
+dd.MM"</string>
+     <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+     <string name="miui_vertical_time_format_24">"HH
+mm"</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -431,16 +445,16 @@ dd.MM"</string>
   <string name="open_unable">"Wallpaper Carousel deluje samo z MIUI privzetimi zakl. zasloni."</string>
   <string name="opened">Vključeno</string>
   <string name="pager_load_hd">Pokaži originalno sliko</string>
+     <string name="passport_access_denied">Dostop zavrnjen</string>
   <string name="passport_account_hint_text">Email/Telefonska številka/ID Mi računa</string>
   <string name="passport_account_identity_title">Potrdite svojo identiteto</string>
+     <string name="passport_account_label">Mi Račun</string>
+     <string name="passport_account_name">"Račun: %1$s "</string>
   <string name="passport_account_not_activated">"Račun ni aktiviran"</string>
   <string name="passport_account_not_actived">"Vaš račun ni aktiviran"</string>
   <string name="passport_account_set_password">Nastavi geslo</string>
   <string name="passport_account_set_password_prompt">Nastavi geslo za svoj račun da se lahko naslednjič prijaviš.</string>
   <string name="passport_account_set_password_title">Nastavi geslo</string>
-  <string name="passport_access_denied">Dostop zavrnjen</string>
-  <string name="passport_account_label">Mi Račun</string>
-  <string name="passport_account_name">"Račun: %1$s "</string>
   <string name="passport_activate_token_expired">Kontrolna koda je potekla. Poskusite ponovno.</string>
   <string name="passport_active_email_visit">Preverite svojo pošto na %s</string>
   <string name="passport_activing_account">Aktivacija…</string>
@@ -479,32 +493,30 @@ dd.MM"</string>
   <string name="passport_email_reg_success_summary">%1$s je bil povezan z vašim računom. Lahko ga uporabite da se prijavite ali za ponastavitev gesla.</string>
     <string name="passport_empty_password">"Polje za geslo ne sme biti prazno"</string>
     <string name="passport_empty_user_name">"Uporabniško ime ne sme biti prazno"</string>
-  <string name="passport_error_empty_captcha_code">Vnesite captcha</string>
-  <string name="passport_error_empty_email">Vnesite naslov e-pošte</string>
-  <string name="passport_error_empty_pwd">"Polje gesla ne sme biti prazno"</string>
-  <string name="passport_error_empty_vcode">Vnesite kontrolno kodo</string>
-  <string name="passport_error_empty_voice_code">Vnesite captcha</string>
-  <string name="passport_error_illegal_pwd">Napačno geslo</string>
-  <string name="passport_error_no_password_user">"Niste še nastavili gesla. Prijavite se z SMS-om."</string>
   <string name="passport_error_auth_fail">Seja je potekla. Prijavite se ponovno kasneje</string>
   <string name="passport_error_device_id">"Ne morem dobiti ID naprave"</string>
   <string name="passport_error_dup_email">Naslov e-pošte je povezan z drugim računom.</string>
   <string name="passport_error_email">Naslov e-pošte ni veljaven</string>
+     <string name="passport_error_empty_captcha_code">Vnesite captcha</string>
+     <string name="passport_error_empty_email">Vnesite naslov e-pošte</string>
   <string name="passport_error_empty_phone_num">Vnesite številko telefona</string>
+     <string name="passport_error_empty_pwd">"Polje gesla ne sme biti prazno"</string>
   <string name="passport_error_empty_username">Vnesite ID vašega računa</string>
+     <string name="passport_error_empty_vcode">Vnesite kontrolno kodo</string>
+     <string name="passport_error_empty_voice_code">Vnesite captcha</string>
+     <string name="passport_error_illegal_pwd">Napačno geslo</string>
   <string name="passport_error_invalid_dev_id">"Neveljavna ID naprave."</string>
   <string name="passport_error_invalid_phone_num">Neveljavna telefonska številka</string>
-  <string name="passport_error_unknown">Neznana napaka</string>
-  <string name="passport_error_user_agreement_error">Najprej se strinjajte z pravili in pogoji</string>
-  <string name="passport_error_user_name">Uporabniško ime ni veljavno</string>
-  <string name="passport_getting_verify_code">Samo trenutek…</string>
-  <string name="passport_input_voice_hint">Vnesite glasovno kodo</string>
   <string name="passport_error_login">"Ne morem se prijaviti"</string>
   <string name="passport_error_network">"Ne morem se povezati na omrežje"</string>
+     <string name="passport_error_no_password_user">"Niste še nastavili gesla. Prijavite se z SMS-om."</string>
     <string name="passport_error_phone_error">Neveljavna telefonska številka</string>
     <string name="passport_error_server">Napaka na strežniku</string>
   <string name="passport_error_sim_not_ready">"Ne najdem SIM kartice"</string>
   <string name="passport_error_ssl_hand_shake">"Ne rem se povezati na strežnik"</string>
+     <string name="passport_error_unknown">Neznana napaka</string>
+     <string name="passport_error_user_agreement_error">Najprej se strinjajte z pravili in pogoji</string>
+     <string name="passport_error_user_name">Uporabniško ime ni veljavno</string>
   <string name="passport_error_verify_activator_phone_message">Preverite ali je storitev SIM kartice aktivirana in da je naprava povezana z omrežjem.</string>
   <string name="passport_error_verify_activator_phone_title">"Ne morem preveriti telefonske številke"</string>
   <string name="passport_extra_gdpr_license">Z izdelavo Mi Računa se strinjate da bo Xiaomi uporabljal vaše osebne podatke. Preberite naša Pravila o zasebnosti da vidite kako obdelujemo in uporabljamo osebne podatke.</string>
@@ -519,6 +531,7 @@ dd.MM"</string>
   <string name="passport_get_innetdate_title">Preverite ko je številka online</string>
   <string name="passport_get_verify_code">Pridobi kodo</string>
   <string name="passport_getting_activator_phone">Sprejem podatkov o SIM kartici telefona…</string>
+     <string name="passport_getting_verify_code">Samo trenutek…</string>
   <string name="passport_i_know">Razumem</string>
   <string name="passport_identification_expired">Koda za potrditev je potekla, začnite znova</string>
   <string name="passport_imei_permission_denied_message">"Prosimo za dovoljenje za pridobitev IMEI vaše naprave. Mi Račun uporablja IMEI za identitifikacijo naprave na kateri ste se prijavili/prijavljate, da obdržite Mi Račun varen."</string>
@@ -529,6 +542,7 @@ dd.MM"</string>
   <string name="passport_input_phone_hint">Vnesi telefonsko številko</string>
   <string name="passport_input_vcode_hint">Vnesite kodo za preverjanje</string>
   <string name="passport_input_voice_captcha_hint">Vnesite glasovno kodo za preveritev</string>
+     <string name="passport_input_voice_hint">Vnesite glasovno kodo</string>
   <string name="passport_international_phone_password_login_tip">(Za uporabnike izven Kitajske: vnesite številko mobilnega telefona v tem formatu: + številka države, primer: +91 817282982)</string>
   <string name="passport_license_host_unreachable">"Ne morem se povezati na omrežje. To stran si lahko ogledate na %s."</string>
   <string name="passport_loading">Nalaganje...</string>
@@ -645,13 +659,13 @@ dd.MM"</string>
   <string name="passport_use_generated_pwd_message">Poskrbite da si boste zapomnili svoje geslo. Lahko ga uporabite za prijavo na druge Mi storitve.</string>
   <string name="passport_use_generated_pwd_title">Zapomnite si vaše geslo!</string>
   <string name="passport_user_agreement">Pogoji uporabe</string>
+     <string name="passport_user_agreement_link">&lt;Data>Prebral sem in se strinjam z Xiaomi&lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>.&lt;/Data></string>
+     <string name="passport_user_agreement_link_more">&lt;Data>Prebral sem in se strinjam z naslednjimi dokumenti: Xiaomi&lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
   <string name="passport_user_agreement_p1">Strinjam se z</string>
   <string name="passport_user_agreement_p2">Pogoji uporabe</string>
   <string name="passport_user_agreement_p3"> in </string>
   <string name="passport_user_agreement_p4">Pravila o zasebnosti</string>
   <string name="passport_user_agreement_prefix">Strinjam se z </string>
-  <string name="passport_user_agreement_link">&lt;Data>Prebral sem in se strinjam z Xiaomi&lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>.&lt;/Data></string>
-  <string name="passport_user_agreement_link_more">&lt;Data>Prebral sem in se strinjam z naslednjimi dokumenti: Xiaomi&lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
   <string name="passport_user_id_intro">Vnesite geslo %1$s</string>
   <string name="passport_user_id_notice">Vaša ID Mi Računa je %s.</string>
   <string name="passport_user_reg_region">Država/Regija</string>
@@ -676,8 +690,8 @@ dd.MM"</string>
   <string name="permission_storage_tip">Shraniti stvari v vašo napravo</string>
   <string name="phone_bind_too_many">Ta telefon je povezan z več Mi Računi v kratkem časovnem obdobju. Poskusite uporabiti drugo telefonsko številko.</string>
   <string name="phone_hint">Številka telefona</string>
-  <string name="phone_number">Številka telefona</string>
   <string name="phone_num_use_for">Številka telefona se uporablja za:</string>
+     <string name="phone_number">Številka telefona</string>
   <string name="photoPickerNotFoundText">Ni fotografij na voljo.</string>
   <string name="platform_unavailable_qq">Namesti QQ</string>
   <string name="platform_unavailable_qzone">Namesti Qzone</string>
@@ -708,11 +722,11 @@ dd.MM"</string>
   <string name="resend_email_reach_limit_message">Zahtevali ste preveč preverjanj po e-pošti. Prepričajte se, da e-poštno sporočilo ni v mapi »Neželena pošta«.</string>
   <string name="resend_email_reach_limit_title">Preveč poskusov</string>
   <string name="resend_email_success">Uspešno poslano</string>
+     <string name="resource_apply">Nastavi</string>
+     <string name="resource_no_network_text">"Ne morem se povezati na omrežje."</string>
   <string name="restart_action">Začni znova</string>
   <string name="restart_phone_bind_message">Nekaj ​​časa traja, da prejmete SMS. Začnem znova?</string>
   <string name="restart_phone_bind_title">Spremenite telefon za obnovitev</string>
-  <string name="resource_apply">Nastavi</string>
-  <string name="resource_no_network_text">"Ne morem se povezati na omrežje."</string>
   <string name="rv_with_footer_empty">Tu ni nič</string>
   <string name="rv_with_footer_loading">" "Samo trenutek…" "</string>
   <string name="rv_with_footer_pull_load_more">Povleci dol za prikaz več</string>
@@ -730,15 +744,15 @@ dd.MM"</string>
   <string name="see_detail">Pokaži</string>
   <string name="see_more">Pokaži več</string>
   <string name="see_more_content">Pokaži več</string>
+     <string name="select_package">Izberi verzijo</string>
+     <string name="select_photo_album">Izberi album</string>
+     <string name="select_picture">Izberi slike</string>
+     <string name="select_picture_des">Dodajte svoje fotografije in omrežne slike v miks da se bodo samodejno prikazale v predstavitvi.</string>
   <string name="send_diagnosis_log">Pošlji zapis</string>
   <string name="send_email_activate_message">Uspešno poslana e-pošta za potrditev</string>
   <string name="sending">Pošiljanje…</string>
   <string name="service_error">Napaka strežnika</string>
   <string name="set_success">Zamenjava uspešna</string>
-  <string name="select_package">Izberi verzijo</string>
-  <string name="select_photo_album">Izberi album</string>
-  <string name="select_picture">Izberi slike</string>
-  <string name="select_picture_des">Dodajte svoje fotografije in omrežne slike v miks da se bodo samodejno prikazale v predstavitvi.</string>
   <string name="setting_about_item_des">Verzija</string>
   <string name="setting_about_item_title">O Wallpaper Carousel</string>
   <string name="setting_des">Diaprojekcijo lahko nastavite v u Nastavitve &gt; Zakl. zaslon &amp; geslo &gt; Wallpaper Carousel</string>
@@ -837,7 +851,6 @@ dd.MM"</string>
   <string name="sst_wifi_only_title">Posodobi slike ozadja z uporabo mobilnih podatkov</string>
   <string name="status_wallpaper_loop_not_start">Izkl.</string>
   <string name="status_wallpaper_loop_start">Vklj.</string>
-  <string name="system_default">Privzeto</string>
   <string name="subscribe_apply_wp">Ozadje zakl. zaslona nastavljeno</string>
   <string name="subscribe_dlg_btn">Začni</string>
   <string name="subscribe_dlg_btn_txt">Naročite se</string>
@@ -860,6 +873,7 @@ dd.MM"</string>
   <string name="summary_international">"Z uporabo te storitve se strinjate z &lt;a href ='%1$s'&gt;Pogoji uporabe&lt;/a&gt; in &lt;a href='%2$s'&gt;Pravila o zasebnosti&lt;/a&gt;. Imeti morate spletno povezavo.​"</string>
   <string name="sure_close_gallery">Izklučim Wallpaper Carousel?</string>
   <string name="sure_close_gallery_des">"Ne boste dobivali novih slik za ozadje za začetni in zakl. zaslon če izključite Wallpaper Carousel. Vseeno izključim?"</string>
+     <string name="system_default">Privzeto</string>
   <string name="tab_user_title_bar_text">Nastavitve</string>
   <string name="tb_collapse_desc">Skrij meni \"Skupna raba\"</string>
   <string name="temporary_not_available">Ta storitev še ni na voljo</string>
@@ -902,10 +916,10 @@ dd.MM"</string>
   <string name="update_find_new_version">Posodobitev na voljo</string>
   <string name="update_phone_notice">Zamenjaj nastavitve varnosti</string>
   <string name="upload_error_log">Pošlji dnevnik</string>
-  <string name="user_avatar_update_title">Zamenjaj sliko profila</string>
-  <string name="user_avatar_uploading">Samo trenutek…</string>
   <string name="user_ac_click_to_login">Tapni za prijavo</string>
   <string name="user_ac_not_login">Niste prijavljeni</string>
+     <string name="user_avatar_update_title">Zamenjaj sliko profila</string>
+     <string name="user_avatar_uploading">Samo trenutek…</string>
   <string name="user_id_hint">E-pošta/Št. telefona</string>
   <string name="v_code_title">Vnesite kontrolno kodo v 2 korakih</string>
   <string name="view_privacy_policy">Pravila o zasebnosti</string>

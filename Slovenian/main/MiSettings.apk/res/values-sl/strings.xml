@@ -32,8 +32,10 @@
      <string name="africa_introduction">"V Afriki uspeva flora in favna, kjer živijo številne najbolj znane živali na svetu."</string>
      <string name="african_bush_elephant">Afriški grmovni slon</string>
      <string name="africans_white_backed_vulture">Beloglavi jastreb</string>
+     <string name="afternoon">Večer</string>
      <string name="all_ringtone">Več</string>
      <string name="all_ringtone_summary">Izberite melodije zvonenja online</string>
+     <string name="am">AM</string>
      <string name="amazon_introduction">Najbolj raznolika regija na našem planetu se pogosto imenuje \"pljuča Zemlje\".</string>
      <string name="animal_branch">Družina</string>
      <string name="animal_class">Vrsta</string>
@@ -82,6 +84,7 @@
      <string name="branch_platypus">Ornithorhynchidae</string>
      <string name="branch_quollidae">Dasyuridae</string>
      <string name="branch_raccoon">Procyonidae</string>
+     <string name="branch_ramphastos">Ramphastidae</string>
      <string name="branch_rhinoceros">Rhinocerotidae</string>
      <string name="branch_seal">Phocidae</string>
      <string name="branch_toucan">Toucans</string>
@@ -116,6 +119,7 @@
      <string name="crowned_hornbill">Okronani rogač</string>
   <string name="cu_confirm">Nastavi</string>
      <string name="dall_sheep">Dolga ovca</string>
+     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
   <string name="dc_light_hint_enable_title">Pozor</string>
   <string name="dc_light_hint_normal">DC zatemnitev lahko vpliva na način prikaza posameznih stvari.</string>
   <string name="dc_light_hint_other">DC zatemnitev lahko vpliva na hitrost osveževanja in način prikazovanja posameznih stvari.</string>
@@ -124,6 +128,7 @@
   <string name="display_description">Večje ikone, veliko besedilo, manjši vidni nered</string>
   <string name="display_title">Večje stvari</string>
      <string name="dynamic_ringtone_desc">"Raziskovali smo različne ekosisteme in ustvarjali njihove različne zvoke. Začnite z nami raziskovati zvoke narave!"</string>
+     <string name="early_morning">Jutro</string>
      <string name="eastern_grey_kangaroo">Sivi kenguru</string>
      <string name="eastern_grey_kangaroo_info">Kenguruji imajo velike, močne zadnje noge in velika stopala, prilagojena za skakanje.</string>
      <string name="egyptian_goose">Egipčanska goska</string>
@@ -239,6 +244,7 @@
      <string name="item_chick">Galliformes</string>
      <string name="item_crane_form">Gruiformes</string>
      <string name="item_hayabusa">Falconidae</string>
+     <string name="item_liebird">Piciformes</string>
      <string name="item_long_nose">Proboscidea</string>
      <string name="item_marsupial">Marsupials</string>
      <string name="item_meat">Carnivora</string>

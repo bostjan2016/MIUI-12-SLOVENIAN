@@ -75,6 +75,7 @@ poškodbe vaše naprave po nesreči"</string>
   <string name="cs_buy_privacy_content">Xiaomi bo poslal Cashify aktivacijo v vašo napravo za večjo varnost. Storitev ponuja Cashify. Kontaktirajte Cashify če imate vprašanja.</string>
   <string name="cs_buy_privacy_description">Strinjate se z Pravili in pogoji od &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;Xiaomi&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href="https://www.cashify.in/privacy-policy"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;Cashify&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;.</string>
   <string name="cs_buy_unsupport_content">Nepodprta ali rootana naprava.</string>
+     <string name="cs_go_check_order">Pokaži v Cashify</string>
   <string name="customer_care">Pomoč strankam</string>
   <string name="customer_order_pick_confirmation">Strokovnjak bo pobral vašo napravo in uredil plačilo.</string>
   <string name="default_error_msg">Nekaj je bilo narobe!</string>
@@ -82,6 +83,8 @@ poškodbe vaše naprave po nesreči"</string>
   <string name="device_processor">Procesor</string>
   <string name="device_resolution">Resolucija</string>
   <string name="dialog_button_update">Posodobi</string>
+     <string name="dialog_content_cs">"Storitve recikliranja niso več na voljo. Če ste tukaj ustvarili naročila, se obrnite na OneAssist pred 31. avgustom. Če niste zaprosili za storitve recikliranja, lahko to sporočilo prezrete."</string>
+     <string name="dialog_content_oa">"Storitve razširjene garancije niso več na voljo. Če ste tukaj ustvarili naročila, se obrnite na Cashify pred 31. avgustom. Če niste zaprosili za podaljšanje garancije, lahko to sporočilo prezrete."</string>
   <string name="dialog_content_stop">"Ustavim test strojne opreme pred koncem?"</string>
   <string name="dialog_content_update">Poskusite ponovno po posodobitvi.</string>
    <string name="dialog_title_attention">Pozor</string>
@@ -161,6 +164,7 @@ poškodovano napravo na vratih doma"</string>
   <string name="oa_buy_privacy_content">Xiaomi bo poslal Cashify aktivacijo v vašo napravo za večjo varnost. Storitev ponuja OneAssist. Kontaktirajte OneAssist če imate vprašanja.</string>
   <string name="oa_buy_privacy_description">Strinjate se z Pravili in pogoji od &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;Xiaomi&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href="https://oneassist.in/privacypolicy/"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;OneAssist&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;.</string>
   <string name="oa_buy_unsupport_content">Naprava je presegla veljavni datum nakupa ali nepodprt tip telefona.</string>
+     <string name="oa_go_check_order">Pokaži v OneAssist</string>
   <string name="oainfo_buynow">Kupi zdaj</string>
   <string name="oainfo_guard">Garantirano</string>
   <string name="oainfo_wait_activation">Čakanje aktivacije</string>

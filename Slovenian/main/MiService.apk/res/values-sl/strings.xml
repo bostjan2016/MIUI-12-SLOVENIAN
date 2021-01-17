@@ -28,7 +28,11 @@
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="actionbar_button_up_description">Nazaj</string>
+     <string name="afternoon">Popoldne</string>
   <string name="clearable_edittext_clear_description">Očisti</string>
+     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="early_morning">Jutro</string>
+     <string name="evening">Večer</string>
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -37,6 +41,7 @@
   <string name="icon_remove_description_content">"\"Storitve &amp; Povratne inf.\" je sistemska aplikacija. Lahko jo boste še vedno uporabljali v Nastavitvah, če izbrišete bližnjico na zač. zaslonu."</string>
   <string name="icon_remove_description_title">Izbrišem \"Storitve &amp; Povratne inf.\" iz zač. zaslona?</string>
     <string name="mi_service_app_name">Storitve in povratne informacije</string>
+     <string name="midnight">Noč</string>
     <string name="miservice_channel_update_notification_info">\"Storitve in povratne informacije\" zahteva spletne podatke…</string>
     <string name="miservice_notification_boot_content">Izvedite več o tem kaj MIUI lahko naredi</string>
   <string name="miservice_notification_huanji_content">Pošljite z uporabo Mi Mover</string>

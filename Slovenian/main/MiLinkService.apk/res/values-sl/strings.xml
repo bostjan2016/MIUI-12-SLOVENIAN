@@ -29,6 +29,8 @@
     <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="account_other">Ostalo</string>
   <string name="actionbar_button_up_description">Nazaj</string>  
+     <string name="afternoon">Popoldne</string>
+     <string name="am">AM</string>
   <string name="casting_tips">Predvajanje…</string>
   <string name="clearable_edittext_clear_description">Očisti</string>
   <string name="close_hotspot_hint">Izključite prenosni hotspot pred predvajanjem</string>
@@ -72,7 +74,9 @@ Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="dialog_select_tv">Izberite napravo (%d)</string>
   <string name="dialog_show_help">Pomoč</string>
   <string name="disconnect">Ustavi predvajanje</string>
+     <string name="early_morning">Jutro</string>
   <string name="enable_screen_projection_summary">Predvajaj vsebino zaslona na zunanji monitor</string>
+     <string name="evening">Večer</string>
      <string name="expand_button_title">Napredno</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
@@ -157,6 +161,7 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
   <string name="help_page_text_55_global">"Če se ne morete povezati na omrežje preverite ali vaš zunanji monitor podpira Miracast storitev in ali je vključena. Pri različnih modelih se to lahko imenuje brezžični zaslon, predvajanje zaslona ali večkratni zaslon.</string> 
   <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
   <string name="keyguard_security_setting_privacy_policy">Pravila o zasebnosti</string>
+     <string name="midnight">Noč</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
   <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
@@ -212,7 +217,10 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
      <string name="month_september_short">Sep</string>
      <string name="month_september_shortest">S</string>
      <string name="more">Več</string>
+     <string name="morning">Jutro</string>
   <string name="nfc_connect_failed_toast">"Ne morem predvajati. Poskusite ponovno."</string>
+     <string name="night">Zvečer</string>
+     <string name="noon">Poldne</string>
      <string name="normal_device_desc">"Naprave, s katerimi ste se povezali, vendar jih niste označili kot zanesljive"</string>
      <string name="normal_device_desc_limit">"Naprave, s katerimi ste se povezali, vendar jih niste označili kot zanesljive"</string>
      <string name="normal_device_none">Tu ni predhodno povezanih naprav</string>
@@ -231,6 +239,7 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
      <string name="path_setting_cast_demo_game">Povezava &amp; deljenje/Predvajanje/Demo/Igre</string>
      <string name="path_setting_cast_feature">Povezava &amp; deljenje/Predvajanje/Posebne storitve</string>
      <string name="path_setting_cast_help">Povezava &amp; deljenje/Predvajanje/Pomoč</string>
+     <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="privacy_agree">Strinjam se</string>
   <string name="privacy_detail">&lt;Data&gt;Ta aplikacija se mora povezati s spletom in zbrati potrebne osebne podatke, da lahko normalno deluje. Če želite v celoti razumeti svoje pravice kot uporabnika in načine uporabe vaših podatkov, preberite in se strinjate z &amp;lt;a href=%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
@@ -251,15 +260,16 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
   <string name="privacy_permission_wlan_china">Vklop in izklop WiFi-ja</string>
   <string name="privacy_permission_wlan_desc">Iskanje naprav v bližini</string>
   <string name="privacy_permission_wlan_desc_china">Iskanje naprav v bližini</string>
-  <string name="privacy_positive">SlStrinjamažem se</string>
-  <string name="privacy_text_1">　　Dobrodošli k uporabi storitve predvajanja zaslona. Storitev predvajanja zaslonov ponuja Milian, nekatere storitve predvajanja zaslona pa podpirajo televizijski ekrani drugih proizvajalcev. Če želite zagotoviti svojo zasebnost, ne pozabite prebrati&lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
-  <string name="privacy_text_2">　　S klikom Strinjam se strinjate z navedeno&lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;vsebino in dodeljenim privilegijem.</string>
-  <string name="privacy_text_pemission">"　　• Omrežna dovoljenja WIFI se uporabljajo za odkrivanje in povezovanje naprav.
-　　•Bluetooth se uporablja za odkrivanje in povezovanje naprav.
-　　•Branje pomnilnika telefona. Po branju vsebine vsebino predvajajte v napravo z velikim zaslonom.
-　　•Pridobite podatke o telefonu. Preberite IMEI, Android_id, verzijo in posnetke poročil v telefonu.
-　　•Po branju zvoka oddajte zvok napravi z velikim zaslonom.
-　　•Dovoljenja ciljanja. Poiščite in odkrivajte okoliške naprave."</string>
+  <string name="privacy_positive">Strinjam se</string>
+ <string name="privacy_text_1"><Data>"Dobrodošli v Storitve predvajanja zaslona! Storitve predvajanja zaslona omogoča projeciranje stvari iz zaslona telefona na večji zunanji monitor.
+Vaše osebne podatke bomo zaščitili v skladu z ustreznimi zakoni, predpisi in politiko zasebnosti. Nekatere storitve ponuja neodvisni ponudnik storitev HappyCast. Pred uporabo te storitve preberite in se strinjajte z &lt;a href=%2$s>HappyCast Pogoji uporabe&lt;/a> in &lt;a href=%1$s>HappyCast Pravila o zasebnosti&lt;/a>.
+Za normalno delovanje se mora ta aplikacija povezati na splet in za zbiranje vaših osebnih podatkov zahteva naslednja dovoljenja:"</Data></string>
+    <string name="privacy_text_2"><Data>"Če se ne strinjate s temi dovoljenji ali nočete deliti in naložiti svojih osebnih podatkov, te aplikacije ne boste mogli uporabljati. V takih primerih lahko v nastavitvah odstranite to aplikacijo, se odjavite ali omejite dovoljenja.
+Preberite in se strinjajte z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> pred uporabo."</Data></string>
+    <string name="privacy_text_pemission">"　　•Dostop do slik in shranjevanje v napravi, da jih lahko projicirate na zunanje monitorje
+　　•Snemanje klicev in zvoka, da predvajate zvok na zunanje naprave
+　　•Dostop do telefonske številke, IMEI in IMSI, da prepoznate svojo napravo
+　　•Dostopanje do lokacije za iskanje naprav v bližini"</string>
   <string name="privacy_title">Pozor</string>
   <string name="private_protect">Varujte zasebnost</string>
   <string name="san_wait_msg_1">Ciljna naprava mora vključiti brezžično predvajanje</string>
