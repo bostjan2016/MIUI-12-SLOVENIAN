@@ -237,6 +237,7 @@ Open WeChat and go to Me > Settings > General > Var. kopija &amp; premakni pogov
     <string name="host_memory_insuff_confirm">Ponovno izberite</string>
     <string name="host_memory_insuff_summary">Na novi napravi ni dovolj prostora za shranjevanje, da bi se prenos začel.</string>
     <string name="host_memory_insuff_title">Ni dovolj prostora za shranjevanje</string>
+     <string name="host_new_device_hint">Ta naprava</string>
     <string name="hsa_code_null">Koda za preverjanje ne sme biti prazna</string>
     <string name="hsa_input_tip">Vaš Apple ID uporablja dvonivojsko avtentikacijo. Vnesite kodo za preverjanje.</string>
     <string name="hsa_send_again">Pošlji ponovno</string>

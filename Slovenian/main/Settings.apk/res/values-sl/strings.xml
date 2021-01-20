@@ -90,12 +90,14 @@
      <string name="accessibility_autoclick_short_summary">0,2 sekunde</string>
      <string name="accessibility_autoclick_short_title">Kratko</string>
     <string name="accessibility_autoclick_shorter_desc">Krajše</string>
+     <string name="accessibility_back">Nazaj</string>
     <string name="accessibility_caption_master_switch_summary">Samo pri podprtih aplikacijah</string>
     <string name="accessibility_caption_master_switch_title">Uporaba napisov</string>
     <string name="accessibility_caption_preference_summary">Vse aplikacije ne podpirajo teh nastavitev podnapisov</string>
     <string name="accessibility_captioning_title">Nastavitve podnapisov</string>
   <string name="accessibility_category_personal">Računi za osebne profile</string>
   <string name="accessibility_category_work">Računi za delovne profile – %s</string>
+     <string name="accessibility_clear">Očisti</string>
   <string name="accessibility_close_tab">Zapri trenutni zavihek</string>
   <string name="accessibility_control_timeout_preference_summary">"Izberite kako dolgo se bodo prikazovala sporočila ki zahtevajo, da nekaj naredite, vidna pa so samo začasno.
 
@@ -5263,10 +5265,22 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_enhence_low">povečaj nizko frek</string>
      <string name="miheadset_equalizer">Izenačevalnik</string>
 	<string name="miheadset_fitness_check">fitnes kontrola</string>
+     <string name="miheadset_fitness_check_checking">Odkrivanje</string>
+     <string name="miheadset_fitness_check_continue">Nadaljuj</string>
+     <string name="miheadset_fitness_check_done">Končano</string>
+     <string name="miheadset_fitness_check_restart">Ponovi odkrivanje</string>
+     <string name="miheadset_fitness_check_result_dialog1">Slušalke vstavite v obe ušesi in se prepričajte, da se prilegajo.</string>
+     <string name="miheadset_fitness_check_result_dialog2">Najprej končajte klic in nato opravite test.</string>
+     <string name="miheadset_fitness_check_result_dialog_title">Nasveti</string>
     <string name="miheadset_fitness_check_result_not_ok">fitnes slabo</string>
     <string name="miheadset_fitness_check_result_ok">fitnes dobro</string>
+     <string name="miheadset_fitness_check_result_summary1">Slušalke, ki jih trenutno nosite, se dobro prilegajo</string>
+     <string name="miheadset_fitness_check_result_summary2">Pred preskusom prilagodite položaj čepov ali jih zamenjajte z drugimi velikostmi</string>
     <string name="miheadset_fitness_check_result_unkown">fitnes neznano</string>
     <string name="miheadset_fitness_check_start">fitnes kontrola začeta, počakajte</string>
+     <string name="miheadset_fitness_check_summary1">Odkrijte, kateri čepki zagotavljajo udobno nošenje in najboljšo akustiko</string>
+     <string name="miheadset_fitness_check_summary2">Vstavite slušalke v obe ušesi in kliknite začni odkrivanje</string>
+     <string name="miheadset_fitness_check_summary3">Ne snemajte slušalk</string>
      <string name="miheadset_formal">ostani</string>
      <string name="miheadset_game_mode">Način igranja</string>
      <string name="miheadset_game_mode_summary">Zmanjšaj zakasnitev zvoka med igranjem iger</string>
@@ -5693,6 +5707,7 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="music_unsupport_effect_summary">Nepodprte USB slušalke</string>
   <string name="musicfx_title">Glasbeni učinki</string>
   <string name="mute">Tiho</string>
+     <string name="mute_media_sound_summary">Igre, glasba, videoposnetki in druge aplikacije</string>
   <string name="mute_media_sound_title">Utišaj zvoke predstavnosti</string>
   <string name="mute_music_stream">Utišaj zvoke predstavnosti</string>
   <string name="mute_voiceassist_stream">Utišaj glasovnega pomočnika</string>
@@ -7242,7 +7257,7 @@ Vmesnik UT: %5$s"</string>
   <string name="remove_managed_profile_label">Odstrani delovni profil</string>
   <string name="repeat">Ponovi</string>
   <string name="repeat_call">Obvestila o ponovljenih klicih</string>
-  <string name="repeat_call_info">Dovoli zvok za ponovljene klice znotraj 15 minut v tihem načinu</string>
+  <string name="repeat_call_info">Dovoli zvok za ponovljene klice znotraj %d minut v tihem načinu</string>
      <string name="repeat_days_in_week">Ponovi</string>
      <string name="repeat_never">Nikoli</string>
   <string name="repeat_title">Ponovitev</string>
@@ -7905,9 +7920,9 @@ Za uporabo pripenjanja aplikacije: \u0009
   <string name="search_tether">Deljenje povezave &amp; prenosna dostopna točka;Dostopna točka;Osebna dostopna točka;Deli;Deljenje;Deli splet;WiFi dostopna točka;Wifi dostopna točka;WiFi dostopna točka</string>
   <string name="search_tether_settings_title_bluetooth">Deljenje povezave z Bluetoothom;Deli;Deljenje</string>
   <string name="search_tether_settings_title_usb">USB tetherdeljenje;Deli;deljenje;USB</string>
-  <string name="search_title_font_settings">velikost pisave;širina pisave;stil pisave</string>
   <string name="search_theme_settings">Teme;Tema;Personalizacija;Personaliziraj</string>
   <string name="search_theme_settings_title">Teme;Tema;Personalizacija;Personaliziraj</string>
+     <string name="search_title_font_settings">velikost pisave;širina pisave;stil pisave</string>
   <string name="search_toggle_position">Položaj bližnjic;Bližnjice;bližnjica;spremeni bližnjice</string>
   <string name="search_touch_assistant">Meni bližnjic;Asistent dotikov</string>
   <string name="search_touch_sensitive_title">Način dela v rokavicah;rokavice;rokavica</string>
@@ -9273,7 +9288,7 @@ Googlov pristop k sinhroniziranju podatkov, s katerim lahko dostopate do stikov,
     <string name="tethering_hardware_offload">Strojno pospeševanje za spletno povezavo preko mobilnega telefona</string>
     <string name="tethering_hardware_offload_summary">Uporabi strojno pospeševanje za spletno povezavo preko mobilnega telefona, če je na voljo</string>
   <string name="tethering_help_button_text">Pomoč</string>
-     <string name="tethering_help_dialog_text">&lt;b&gt;Deljenje povezave USB-om&lt;/b&gt;" 
+     <string name="tethering_help_dialog_text">"&lt;b&gt;Deljenje povezave USB-om&lt;/b&gt;" 
  Lahko delite povezavo vaše Android naprave z računalnikom preko USB kabla. 
 
 1.USB deljenje povezave deluje z Windows Vista, Windows 7, Windows 8, Windows 8.1 in Linuxom. 

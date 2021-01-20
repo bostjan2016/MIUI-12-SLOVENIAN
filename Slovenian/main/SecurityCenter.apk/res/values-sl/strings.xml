@@ -84,6 +84,7 @@
   <string name="ac_firstUseApplock_subTitle">Uporabite boljša varnostna orodja na nivoju sistema</string>
   <string name="ac_firstUseApplock_title">Nastavite geslo za zaščito vaše aplikacije</string>
   <string name="ac_mask_all_apps">Skrij za vse</string>
+     <string name="ac_notification_action_text">Vključi</string>
   <string name="ac_notification_contentText">Tapnite za vklop</string>
   <string name="ac_notification_contentTitle">Zaščitite aplikacije z zakl. aplikacij</string>
   <string name="ac_post_notification_contentText">Nabavite zaščito na nivoju sistema</string>
@@ -247,8 +248,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_behavior_about_positive">Razumem</string>
      <string name="app_behavior_access_gallery">%1s je dostopal-a do Galerije</string>
      <string name="app_behavior_access_gallery_single">Ta aplikacija je dostopala do Galerije</string>
-     <string name="app_behavior_access_sociality">%1s dostopal-a do sporočil v aplikacijah družabnih omrežij</string>
-     <string name="app_behavior_access_sociality_single">Ta aplikacija je dostopala do sporočil v aplikacijah družabnih omrežij</string>
+     <string name="app_behavior_access_sociality">%1s dostopal-a do aplikacij družabnih omrežij</string>
+     <string name="app_behavior_access_sociality_single">Ta aplikacija je dostopala do aplikacij družabnih omrežij</string>
   <string name="app_behavior_allowed">Dovoli</string>
   <string name="app_behavior_audio">%1s je posnel(a) zvok</string>
   <string name="app_behavior_audio_bg">%1s je posnel(a) zvok v ozadju</string>
@@ -1658,6 +1659,19 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="gb_ad_game_size">MB</string>
   <string name="gb_add_game_hint">Dodajte stvari iz seznama aplikacij</string>
   <string name="gb_add_game_loading_tips">Samo trenutek…</string>
+     <string name="gb_adv_touch_adv_title">Klasični način dela (privzeto)</string>
+     <string name="gb_adv_touch_custom1">Odziv podrsanja</string>
+     <string name="gb_adv_touch_custom2">Občutljivost na neprekonjene dotike</string>
+     <string name="gb_adv_touch_custom3">Natančnost ciljanja</string>
+     <string name="gb_adv_touch_custom4">Stabilnost dotika</string>
+     <string name="gb_adv_touch_custom_tip1">Višji odziv s potegom poveča hitrost odziva na to gesto, medtem ko nižji odziv s potezo naredi gesto bolj stabilno.</string>
+     <string name="gb_adv_touch_custom_tip2">Višja občutljivost na neprekinjene dotike poveča hitrost reakcije na to gesto, manjša občutljivost pa kretnjo bolj stabilno.</string>
+     <string name="gb_adv_touch_custom_tip3">Z večjo natančnostjo ciljanja so manjši podrsi natančnejši, z nižjo natančnostjo ciljanja pa je ta gesta bolj stabilna.</string>
+     <string name="gb_adv_touch_custom_tip4">Večja stabilnost na dotik naredi dotike bolj stabilne, manjša stabilnost pa poveča natančnost manjših potez.</string>
+     <string name="gb_adv_touch_custom_title">Prilagojeno</string>
+     <string name="gb_adv_touch_mode_pro_tips">*Ta način je namenjen profesionalnim igralcem. Običajnim igralcem se ta način delovanja lahko zdi neprijeten.</string>
+     <string name="gb_adv_touch_mode_select_title">Geste</string>
+     <string name="gb_adv_touch_pro_title">Pro način</string>
   <string name="gb_advance_settings_edge_gear1">Nič</string>
   <string name="gb_advance_settings_edge_gear2">Malo</string>
   <string name="gb_advance_settings_edge_gear3">Srednje</string>
@@ -1875,6 +1889,8 @@ vašega igranja"</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Povečajte hitrost povezave za 10% -20%, ko ste povezani z usmerjevalniki Mi / Redmi</string>
   <string name="gtb_setting_item_title_smart_5g">5G omrežna optimizacija</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Mi WiFi povečanje hitrosti</string>
+     <string name="gtb_spring_festival_back_game">Nazaj v igro</string>
+     <string name="gtb_spring_festival_goto_gameturbo">Pregled</string>
   <string name="gtb_wlan_speed_tips">Uporaba Mi WiFi-ja…</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Napačen operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
@@ -2301,7 +2317,7 @@ Vaša naprava je zdaj %d%% hitrejša."</string>
   <string name="menu_summary_power_manager_4">%s do konca polnjenja</string>
   <string name="menu_text_antispam">Seznam blokad</string>
   <string name="menu_text_antivirus">Varnost</string>
-  <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s zasedeno</string>
+  <string name="menu_text_deepclean_summary">%1$s/%2$s zasedeno</string>
   <string name="menu_text_garbage_cleanup">Čiščenje</string>
   <string name="menu_text_garbage_cleanup_danger">%s smeti</string>
   <string name="menu_text_license_manager">Dovoljenje</string>
@@ -2520,6 +2536,8 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
      <string name="notification_abnormal_consume_app_title">%s porablja baterijo</string>
      <string name="notification_abnormal_consume_cpu">CPU viri so zlorabljeni v ozadju</string>
      <string name="notification_abnormal_consume_wakelock">Sistem ostaja buden v ozadju</string>
+     <string name="notification_antivirus_button_text">Preglej</string>
+     <string name="notification_antivirus_message">Preglejte takoj da zmanjšate tveganja</string>
   <string name="notification_battery_consume_abnormal_title">Baterija se prazni prehitro</string>
   <string name="notification_battery_over_heat_summary">Poiščite, kaj povzroča segrevanje in ohladite napravo.</string>
   <string name="notification_battery_over_heat_title">Trenutna temperatura je %d℃</string>
@@ -2546,6 +2564,15 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_garbage_cleanup_summary">Očistite smeti (%s) da pohitrite napravo</string>
   <string name="notification_garbage_cleanup_title">Očistite datoteke smeti</string>
   <string name="notification_item">Zaštitite izbrane aplikacije z zakl. aplikacij</string>
+     <string name="notification_link_cleaner_2001">Očisti %s smeti</string>
+     <string name="notification_link_cleaner_2002">Za pospešitev naprave počistite smeti</string>
+     <string name="notification_link_cleaner_2003">Ostalo je manj kot %s prostora za shranjevanje. Osvobodite prostor za shranjevanje.</string>
+     <string name="notification_link_cleaner_2004">Ostalo je samo %s prostora za shranjevanje. Osvobodite prostor za shranjevanje.</string>
+     <string name="notification_link_cleaner_2005">Izbrišite pomnilnik, da pospešite svojo napravo</string>
+     <string name="notification_link_cleaner_3001">Očistite WeChat smeti da pospešite svojo napravo</string>
+     <string name="notification_link_cleaner_3002">Očistite WeChat smeti</string>
+     <string name="notification_link_cleaner_4000">Očistite QQ smeti</string>
+     <string name="notification_link_optimizemanage_1011">%d%% pomnilnika je zasedeno. Očistite ga.</string>
   <string name="notification_low_battery_action_btn">Vključi</string>
   <string name="notification_low_battery_need_charge">Napolnite svojo napravo</string>
   <string name="notification_low_battery_open_save_mode">Vključi varčevanje baterije</string>
@@ -2561,6 +2588,9 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_masked_item">Kako skriti vsebino obvestil?</string>
   <string name="notification_masked_subtitle">Uporabite Zakl. aplikacij da skrijete vsebino obvestil za izbrane aplikacije</string>
   <string name="notification_open_extreme_mode_text">Ekstremno varčevanje baterije je vključeno</string>
+     <string name="notification_optimize_button_text">Očisti</string>
+     <string name="notification_optimize_message">Izbrišite pomnilnik za povečanje hitrosti</string>
+     <string name="notification_optimize_title">%d%% pomnilnika je zasedeno</string>
   <string name="notification_power_consume_issue_summary">Velika poraba energije</string>
   <string name="notification_power_consume_suggest_summary">Popravite probleme glede varčevanja baterije</string>
      <string name="notification_qq_clean_hint">Smeti upočasnijo vašo napravo</string>
@@ -4398,6 +4428,7 @@ Z formatiranjem bo izbrisana vsebina ^2. Če želite preprečiti izgubo vsebine,
   <string name="summary_mms">Izloči nezaželena sporočila (oglase, prodajna sporočila itd.)</string>
   <string name="summary_network_switch">Dovoli aplikaciji Varnost povezovanje na splet</string>
   <string name="summary_never_flow_verify">"Ta številka ni potrjena od vašega operaterja"</string>
+     <string name="summary_password_manager">Urejevalec gesel vam omogoča šifriranje gesel in njihovo shranjevanje v oblaku</string>
   <string name="summary_payment_risk">"Kaže da plačilo ni varno"</string>
   <string name="summary_permission">Zaščitite svojo zasebnost pred potencialno škodljivimi aplikacijami tretjih oseb</string>
   <string name="summary_permission_root">Vaša naprava in osebni podatki so bolj ranljivi za napad od aplikacij ki imajo root dostop</string>
@@ -4679,6 +4710,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_of_auto_launch_manage">Samod. zagon</string>
   <string name="title_of_operators_set">Nastavitve ponudnika storitve</string>
   <string name="title_of_package_set">Nastavitev načrta prenosa podatkov</string>
+     <string name="title_password_manager">Vključi Upravljalca gesel</string>
   <string name="title_payment_protection">Plačilo je varno</string>
   <string name="title_payment_risk">Najdena plačilna tveganja</string>
   <string name="title_permission_no">Upravitelj dovoljenj je izklopljen</string>
@@ -4981,6 +5013,15 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="vb_video_effects_settings_liquid">Jasnost</string>
   <string name="vb_video_effects_settings_stereo">Glasnost</string>
   <string name="vb_video_effects_srs_premium_sound">Zvok</string>
+     <string name="vb_video_super_division">Povečaj</string>
+     <string name="vb_video_super_division_desc">"Samodejno povečaj ločljivost, ko je ≤720p.
+
+Uporaba te funkcije poveča porabo energije.
+
+Ta funkcija ne deluje pri glajenju gibov.
+Če vklopite eno funkcijo, se izklopi druga."</string>
+     <string name="vb_video_super_division_tips">"Ni dovolj jasno?
+Poskusite povečati ločljivost!"</string>
   <string name="video_repeat">Predvajaj ponovno</string>
   <string name="videobox_hangup_tips_content">Ta storitev omogoča aplikaciji zagon v ozadju ko je zaslon izključen. Vključim?</string>
   <string name="videobox_hangup_tips_title">Pozor</string>
@@ -4992,6 +5033,8 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="videobox_settings_manager_apps">Urejajte aplikacije videoposnetkov</string>
   <string name="videobox_settings_switch_desc">Posebni efekti in storitve za predvajanje videoposnetkov</string>
   <string name="videobox_settings_switch_title">Orodja za videoposnetke</string>
+     <string name="videobox_settings_timing">Opozorilo o pretiravanju</string>
+     <string name="videobox_settings_timing_desc">Prejmite opozorilo o pretiravanju na uro da vas opomni na počitek</string>
   <string name="videobox_settings_title">Orodja za videoposnetke</string>
      <string name="view_traffic_detail">Pokaži podrobnosti</string>
   <string name="virus_ad_icon_text">Oglas</string>

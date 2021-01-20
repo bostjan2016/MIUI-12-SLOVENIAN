@@ -96,6 +96,10 @@
      <string name="bh_bill_balance">Stanje</string>
      <string name="bh_bill_charge">Napolnite bon</string>
      <string name="bh_bugreport">Poslovne povratne informacije</string>
+     <string name="bh_business_hall_is_here">Tu so storitve operaterjev</string>
+     <string name="bh_business_style">Izberite vmesnik</string>
+     <string name="bh_business_style_new">Novo</string>
+     <string name="bh_business_style_old">Staro</string>
      <string name="bh_button_finish">Končano</string>
      <string name="bh_buy_now">Kupi</string>
      <string name="bh_call_used">Iskoriščene minute</string>
@@ -183,6 +187,8 @@
      <string name="bh_should_login_to_buy">Prijavite se v Mi račun če želite kupiti minute klicev in mobilne podatke</string>
      <string name="bh_sim">SIM %1$d</string>
      <string name="bh_similar_number_hint">Ta številka je podobna %1$s. Vseeno napolnim?</string>
+     <string name="bh_system_recommend">Sistemska priporočila</string>
+     <string name="bh_system_recommend_des">Dovolite nam, da analiziramo vaš promet in na podlagi rezultatov priporočimo digitalne izdelke</string>
      <string name="bh_tag">*%1$s</string>
      <string name="bh_tag_phones">Pogosto uporabljene telefonske številke</string>
      <string name="bh_tags_number_exceed">"Ne morem shraniti več telefonskih številk"</string>
@@ -485,6 +491,15 @@ Vizitke stikov so izključene"</string>
   <string name="contacts_default_notification_channel">Obvestila</string>
   <string name="contacts_hybrid_activity_label">Obnovi stike</string>
   <string name="contacts_setting_title">Nastavitve stika</string>
+     <string name="contacts_trash_activity_hint">Izberite stike za vračanje</string>
+     <string name="contacts_trash_activity_title">Nedavno izbrisani stiki</string>
+     <string name="contacts_trash_delete">Izbriši</string>
+     <string name="contacts_trash_delete_dialog_continue">Izbriši</string>
+     <string name="contacts_trash_delete_dialog_hint">"Tega ne boste mogli vrniti."</string>
+     <string name="contacts_trash_delete_dialog_loading">Brisanje…</string>
+     <string name="contacts_trash_delete_dialog_title">Želite izbrisati izbrane stike?</string>
+     <string name="contacts_trash_restore">Vrni</string>
+     <string name="contacts_trash_restore_loading">Vračanje…</string>
   <string name="contacts_unavailable_add_account">Vpiši se v račun</string>
   <string name="contacts_unavailable_create_contact">Ustvari nov stik</string>
   <string name="contacts_unavailable_import_contacts">Uvozi stike iz datoteke</string>
@@ -515,8 +530,8 @@ Mi gostovanje se mora za normalno delovanje povezati s spletom in dostopati do i
   <string name="data_unit_gb">GB</string>
   <string name="data_unit_mb">MB</string>
   <string name="date_picker_label">Spomni me 3 dni prej in na ta dan</string>
-  <string name="date_time_set">Nastavi</string>
   <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_set">Nastavi</string>
   <string name="date_year_toggle">Preklopi leto</string>
   <string name="default_ringtone">"Privzeta melodija zvonjenja"</string>
   <string name="deleteCloudConfirmationDetail">Izbrišem podatke o stiku %s iz Mi Clouda in te naprave?</string>
@@ -689,6 +704,7 @@ Mi gostovanje se mora za normalno delovanje povezati s spletom in dostopati do i
   <string name="emergency_number_label">Klic v sili</string>
   <string name="emptyGroup">Ni ljudi v tej skupini</string>
   <string name="empty_divider_title"/>
+     <string name="ensure">V redu</string>
   <string name="enter_contact_name">Vpiši ime osebe</string>
      <string name="err_dont_install_mipay">Namestite Mi Pay za dokončanje plačila.</string>
      <string name="evening">Večer</string>

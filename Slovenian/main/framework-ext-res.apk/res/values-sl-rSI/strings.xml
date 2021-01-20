@@ -179,6 +179,7 @@
   <string name="miui_warning_tip_info">Prišlo je do napake v %1$s. Zaprem aplikacijo?</string>
      <string name="multi_file_name">%1$s，%2$s</string>
      <string name="name_with_ellipsize">%1$s…%2$s</string>
+     <string name="nearby_share">Bluetooth</string>
   <string name="notification_channel_hotspot">Hotspot obvestilo</string>
   <string name="onehour">30 minut</string>
   <string name="open_close_tip_action">Razumem</string>
@@ -338,6 +339,7 @@
   <string name="translation_query_error">"Ne morem najti rezultatov"</string>
   <string name="translation_query_error_network">"Ne morem se povezati na omrežje. Preverite nastavitve in poskusite znova"</string>
   <string name="turn_off">Izključi</string>
+     <string name="turn_on_work_profile">Vključi</string>
   <string name="twohours">1 ura</string>
   <string name="unknown_caller">Neznana številka</string>
   <string name="unrecognized_manufacture">Neznano</string>

@@ -1285,7 +1285,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
   <string name="pref_camera_hfr_entry_off">Izklop</string>
   <string name="pref_camera_hfr_title">Visoka hitrost okvirja (upočasnjeno gibanje)</string>
-     <string name="pref_camera_high_quality_preferred_description">Izboljšajte kakovost slike s pametnim algoritmom. Ko je ta storitev vklopljena, se lahko hitrost zajema slike zmanjša.</string>
+     <string name="pref_camera_high_quality_preferred_description">Izboljšajte kakovost slike s pametnim algoritmom. Ko je ta storitev vklopljena, se lahko hitrost zajema slike zmanjša. Nočni način se samodejno vklopi, ko zazna razmere šibke svetlobe</string>
      <string name="pref_camera_high_quality_preferred_title">Izboljšajte kakovost slike</string>
   <string name="pref_camera_histogram_entry_disable">Onemogoči</string>
   <string name="pref_camera_histogram_entry_enable">Omogoči</string>
@@ -1584,6 +1584,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_skin_beautify_slim_title">Slim</string>
   <string name="pref_skin_beautify_smooth_title">Koža</string>
      <string name="pref_smart_guide_title">Pametni predlogi</string>
+     <string name="pref_super_night_se_summary">Zaznaj pogoje šibke svetlobe in samodejno izboljšaj kakovost slike</string>
+     <string name="pref_super_night_se_title">Samod. nočni način dela</string>
   <string name="pref_userdefine_watermark_title">Lastna oznaka</string>
   <string name="pref_video_captrue_ability_title">Snemanje fotografij med snemanjem</string>
   <string name="pref_video_denoise_off">Izklj.</string>

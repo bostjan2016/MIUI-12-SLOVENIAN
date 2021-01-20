@@ -373,6 +373,7 @@ Mi zdravje vas bo obvestil samo o pomembnih stvareh."</string>
   <string name="dialog_keep">Zadrži</string>
   <string name="dialog_known">Razumem</string>
     <string name="dialog_menstruation_purpose">Dobrodošli v Mi zdravje! \"Menstruacija\" vam omogoča beleženje menstruacij, določitev predvidenih datumov prihajajočih menstruacij in sprejemanje opomnikov. Vsi povezani podatki bodo shranjeni lokalno v vaši napravi, kar vam omogoča enostavno upravljanje.</string>
+     <string name="dialog_new_version_title">Na voljo je posodobitev</string>
     <string name="dialog_no_more_prompt">Ne kaži več</string>
   <string name="dialog_ok">V redu</string>
     <string name="dialog_open">Dovoli</string>
@@ -392,6 +393,7 @@ Mi zdravje vas bo obvestil samo o pomembnih stvareh."</string>
   <string name="dialog_user_agreement_purpose2">Dobrodošli v Mi zdravje. S pomočjo te aplikacije lahko štejete korake, spremljate spanje, menstruacijo, težo, storitev Mi zdravje Cloud in druge storitve.</string>
   <string name="diastolic_pressure">Diastolični</string>
   <string name="disable">Izključeno</string>
+     <string name="discard_update">Ne, hvala</string>
   <string name="drag_sort">Preuredi</string>
   <string name="dream_talk">Razgovor z %1$s</string>
   <string name="dream_talk_record">Posneti ste med govorom med spanjem</string>
@@ -504,6 +506,7 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
   <string name="feedback_need_permission_msg">Dovolite Mi zdravje zapise v zunanji pomnilnik da bo lahko generiral zapisnike ki se uporabljajo za povratne informacije.</string>
   <string name="feedback_permission_denied_msg">"Mi zdravje ne more shranjevati zapisnikov v zunanji pomnilnik. Dajte mu potrebna dovoljenja v nastavitvah Mi zdravje."</string>
   <string name="fewer">Malo</string>
+     <string name="find_new_verision">Verzija %s je na voljo</string>
   <string name="finish">Končano</string>
   <string name="finish_stand">Da</string>
   <string name="finish_stand2">Stanje</string>
@@ -655,6 +658,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
   <string name="hr_strength_lowest">Najnižje</string>
   <string name="hr_strength_mid">Srednje</string>
   <string name="icon_content_description">Ikona dialoga</string>
+     <string name="immediately_experience">Posodobi</string>
   <string name="improve_step_target">Prepogosto dosežete svoj cilj. Nastavite višjega.</string>
   <string name="improve_your_health_default_tips">Vadite in dovolj spite da boste ostali zdravi.</string>
   <string name="inactivated">Ni aktivirano</string>
@@ -714,6 +718,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
   <string name="light_sleep_time_normal_description">Imate dovolj rahlega spanja</string>
   <string name="load_failed">"Ne morem naložiti. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="loading">Samo trenutek…</string>
+     <string name="location_perm_description">Za sledenje treningov na prostem in snemanje poti</string>
   <string name="location_permission_dialog_content">Dovolite Xiaomi Zdravje dostop do vaše lokacije v \"Xiaomi Zdravje\" > \"Urejanje dovoljenj\" da boste spremljali vaše vaje na prostem.</string>
   <string name="location_permission_dialog_negative">Ne zdaj</string>
   <string name="location_permission_dialog_positive">Dovoli</string>
@@ -1810,6 +1815,9 @@ Posodobim?"</string>
   <string name="welcome_start_use">Začetek</string>
   <string name="well">Dobro</string>
   <string name="write_strorage_perm_description">Zabeležite si težave, s katerimi ste se srečali med uporabo</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">Na voljo je posodobitev</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezovanje aplikacije Prenosi ni uspelo, preverite stanje v urejanju aplikacij.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verzijo %1$s

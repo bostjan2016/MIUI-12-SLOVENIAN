@@ -930,4 +930,18 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">Vnesite %s številk</item>
         <item quantity="one">Vnesite %s številko</item>
      </plurals>
+     <plurals name="notification_antivirus_title">
+        <item quantity="other">%d dni brez varnostnega pregleda</item>
+        <item quantity="one">%d dan brez varnostnega pregleda</item>
+     </plurals>
+     <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Izbriši %d preostalih aplikacij</item>
+        <item quantity="one">Izbriši %d preostalo aplikacijo</item>
+     </plurals>
+     <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Videoposnetke gledate že %d ur.
+Ustavite se!"</item>
+        <item quantity="one">"Videoposnetke gledate že %d uro.
+Ustavite se!"</item>
+     </plurals>
 </resources>

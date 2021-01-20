@@ -131,6 +131,7 @@
   <string name="accessibility_display_daltonizer_preference_title">Popravek barve</string>
   <string name="accessibility_divider">Razdelilnik deljenega zaslona</string>
   <string name="accessibility_drag_hint_message">Potegnite stvari na vrh zaslona</string>
+     <string name="accessibility_enter_lock_setting">Tapni za odpiranje Wallpaper Carousel nastavitve</string>
   <string name="accessibility_enter_lock_wallpaper">Tapni za odpiranje Wallpaper Carousel</string>
   <string name="accessibility_ethernet_connected">Vzpostavljena je povezava z ethernetom.</string>
   <string name="accessibility_ethernet_disconnected">Prekinjena je povezava z ethernetom.</string>
@@ -144,6 +145,14 @@
   <string name="accessibility_home">Domov</string>
   <string name="accessibility_ime_switch_button">Zamenjaj tipko za način vnosa</string>
   <string name="accessibility_key">Prilagojene navigacijske tipke</string>
+     <string name="accessibility_keyboard_delete_button">Izbriši</string>
+     <string name="accessibility_keyboard_letter_board_caps_lock_button">Velike črke</string>
+     <string name="accessibility_keyboard_letter_board_shift2number_button">Številke</string>
+     <string name="accessibility_keyboard_letter_board_shift2symbol_button">Simboli</string>
+     <string name="accessibility_keyboard_ok_button">Enter</string>
+     <string name="accessibility_keyboard_symbol_board_shift2letter_button">Črke</string>
+     <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Zaklep simbolov</string>
+     <string name="accessibility_keyguard_face_unlock_view">Odklepanje z obrazom</string>
   <string name="accessibility_left_control_center_button">Bližnjica</string>
   <string name="accessibility_left_lock_screen_magazine_button">Glasba</string>
   <string name="accessibility_location_active">Zahteve za lokacijo so aktivne</string>
@@ -694,6 +703,7 @@ Izbor"</string>
   <string name="connected_via_passpoint">Povezano preko %1$s</string>
   <string name="connected_via_wfa">Povezano preko WiFi pomočnika</string>
   <string name="content_description_menu_button">Meni</string>
+     <string name="control_quick_settings_tiles_super_save">gps,nfc,posnetek zaslona,vibriraj</string>
      <string name="controls_added_tooltip">Pridržite gumb za vklop / izklop, da prikažete nove kontrolnike</string>
      <string name="controls_confirmation_confirming">Ratifikacija…</string>
      <string name="controls_confirmation_message">Potrdite spremembo za napravo %s</string>
@@ -1526,6 +1536,8 @@ posnetka zaslona"</string>
      <string name="miui_notification_menu_setting_success">Končano</string>
      <string name="miui_notification_menu_snooze">Odloži</string>
      <string name="miui_notification_menu_title_not_allow">Omeji</string>
+     <string name="miui_quick_settings_tiles_default">vowifi1,vowifi2,omrežje,wifi,bliskavica,utišaj,posnetek zaslona,bt,samosvetlost,letalo,zaklep zaslona,gps,rotacija,papirnati način,noč,tiho,varčevanje baterije,extremno varčevanje baterije,po meri(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),po meri(com.milink.service/com.milink.ui.service.MiLinkTileService),po meri(com.miui.mishare.connectivity/.tile.MiShareTileService),moč,po meri(com.miui.screenrecorder/.service.QuickService),vibriraj,hotspot,sinh.,posnetek zaslona,brezžično,nfc,uredi</string>
+     <string name="miui_quick_settings_tiles_stock">vowifi1,vowifi2,omrežje,wifi,bliskavica,utišaj,posnetek zaslona,bt,samosvetlost,letalo,zaklep zaslona,gps,rotacija,papirnati način,noč,tiho,varčevanje baterije,extremno varčevanje baterije,moč,vibriraj,hotspot,sinh.,gumb zaslona,brezžično,nfc,uredi,vožnja,delovni način</string>
   <string name="miui_ringer_count_down">Odštevanje</string>
   <string name="miui_ringer_standard">Tiho</string>
   <string name="miui_ringer_standard_description">Utišaj melodije zvonenja za dohodne klice in obvestila</string>

@@ -295,6 +295,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="gigabyteShort">GB</string>
   <string name="goto_sign_up">Napravi račun</string>
      <string name="h5_ppt_to_pdf_introduce_title">O pretvarjanju diapozitivov v PDF</string>
+     <string name="home_action_up">Nazaj</string>
   <string name="i_know">Razumem</string>
   <string name="identity">Identifikacija</string>
   <string name="image_loading_error">"Ne morem prenesti slike"</string>

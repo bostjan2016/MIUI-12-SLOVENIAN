@@ -33,6 +33,7 @@
      <string name="am">AM</string>
   <string name="casting_tips">Predvajanje…</string>
   <string name="clearable_edittext_clear_description">Očisti</string>
+     <string name="close">Zapri</string>
   <string name="close_hotspot_hint">Izključite prenosni hotspot pred predvajanjem</string>
   <string name="close_slave_wifi_hint">Odklopite se z pomožnega WiFi omrežja pred predvajanjem</string>
   <string name="close_slave_wifi_hint_china">Odklopite se z pomožnega WiFi omrežja pred predvajanjem</string>
@@ -41,6 +42,8 @@
   <string name="console_guide_subtitle_private">"Ne predvajaj lebdečih obvestil, obvestil o dohodnih klicih in druge stvari ki lahko vsebujejo osebne podatke"</string>
   <string name="console_guide_subtitle_small_window">Zmanjšaj predvajalno okno da boste lahko uporabljali druge storitve telefona med predvajanjem</string>
      <string name="copy">Kopiraj</string>
+     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="device_desc_trust">Zaupanja vredne naprave</string>
   <string name="dialog_can_not_find_device">"Ne morem najti naprav v bližini"</string>
   <string name="dialog_cancle">Prekliči</string>
@@ -81,6 +84,14 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
+     <string name="global_privacy">Pogoji in pravila</string>
+     <string name="global_privacy_detail"><Data>"Preberite in se strinjajte z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> pred uporabo aplikacije.&lt;br>Če se ne strinjate z uporabo zgoraj omenjenih storitev, nekaterih funkcij te aplikacije ne boste mogli uporabljati; vendar pa vam bo osnovna funkcionalnost še vedno na voljo."</Data></string>
+     <string name="global_privacy_explain">Dobrodošli v Predvajanje! Ta aplikacija vam ponuja:</string>
+     <string name="global_privacy_feature">Uporabite pomanjšana okna, oddajajte z izklopljenim zaslonom in skrijte zasebne predmete.</string>
+     <string name="global_privacy_main">"Predmete predvajajte z zaslona telefona na večji zunanji zaslon."</string>
+     <string name="global_privacy_negative">"Ne strinjam se"</string>
+     <string name="global_privacy_positive">Strinjam se</string>
+     <string name="global_privacy_tip"><Data>Zbrati moramo potrebne osebne podatke, da vam zagotovimo osnovne storitve in optimiziramo postopek oddajanja. Izvedite, kako ravnamo s podatki, ki jih zbiramo v &lt;a href=%1$s>Pravila o zasebnosti&lt;/a>. Soglasje za pravilnik o zasebnosti lahko kadar koli umaknete v Nastavitvah.</Data></string>
   <string name="hang_up">Predvajaj ko je ekran izključen</string>
   <string name="hang_up_alert_dialog_content">"Predvajanje se ne bo prekinilo ko se zaslon vašega telefona izključi. Pritisnite tipko za vklop na telefonu da boste ponovno vključili zaslon."</string>
   <string name="hang_up_alert_dialog_neg">Prekliči</string>
@@ -158,13 +169,27 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
   <string name="help_page_text_53">LeTV pomoč uporabnikom: 10109000</string>
    <string name="help_page_text_55">"Če ni WiFi-ja na voljo preverite če zunanji zaslon (npr. TV) podpira storitev Miracast. Ime te storitve je različno na različnih napravah. Če želite izvedeti več glejte spodnje podatke o Miracastu na različnih napravah.
 4. V primeru drugih težav uporabite aplikacijo Povratne informacije."</string>
-  <string name="help_page_text_55_global">"Če se ne morete povezati na omrežje preverite ali vaš zunanji monitor podpira Miracast storitev in ali je vključena. Pri različnih modelih se to lahko imenuje brezžični zaslon, predvajanje zaslona ali večkratni zaslon.</string> 
+     <string name="help_page_text_55_global">"Če se ne morete povezati na omrežje preverite ali vaš zunanji monitor podpira Miracast storitev in ali je vključena. Pri različnih modelih se to lahko imenuje brezžični zaslon, predvajanje zaslona ali večkratni zaslon.</string>
   <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
   <string name="keyguard_security_setting_privacy_policy">Pravila o zasebnosti</string>
      <string name="midnight">Noč</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
+     <string name="miuix_appcompat_cancel_description">Prekliči</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
   <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
+ <string name="miuix_appcompat_confirm_description">Potrdi</string>
+  <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
+  <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
+  <string name="miuix_appcompat_search_input_description">Išči</string>
+  <string name="miuix_appcompat_select_all">Izberi vse</string>
+  <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+  <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -261,7 +286,7 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
   <string name="privacy_permission_wlan_desc">Iskanje naprav v bližini</string>
   <string name="privacy_permission_wlan_desc_china">Iskanje naprav v bližini</string>
   <string name="privacy_positive">Strinjam se</string>
- <string name="privacy_text_1"><Data>"Dobrodošli v Storitve predvajanja zaslona! Storitve predvajanja zaslona omogoča projeciranje stvari iz zaslona telefona na večji zunanji monitor.
+ <string name="privacy_text_1"><Data>"Dobrodošli v Predvajanje zaslona! Predvajanje omogoča predvajanje stvari iz zaslona telefona na večji zunanji monitor.
 Vaše osebne podatke bomo zaščitili v skladu z ustreznimi zakoni, predpisi in politiko zasebnosti. Nekatere storitve ponuja neodvisni ponudnik storitev HappyCast. Pred uporabo te storitve preberite in se strinjajte z &lt;a href=%2$s>HappyCast Pogoji uporabe&lt;/a> in &lt;a href=%1$s>HappyCast Pravila o zasebnosti&lt;/a>.
 Za normalno delovanje se mora ta aplikacija povezati na splet in za zbiranje vaših osebnih podatkov zahteva naslednja dovoljenja:"</Data></string>
     <string name="privacy_text_2"><Data>"Če se ne strinjate s temi dovoljenji ali nočete deliti in naložiti svojih osebnih podatkov, te aplikacije ne boste mogli uporabljati. V takih primerih lahko v nastavitvah odstranite to aplikacijo, se odjavite ali omejite dovoljenja.
@@ -298,6 +323,7 @@ Preberite in se strinjajte z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href
   <string name="screen_projection_sample_title">Demo</string>
   <string name="screen_projection_title">Predvajaj</string>
   <string name="search_menu_title">Išči</string>
+     <string name="send">Pošlji</string>
      <string name="service_name">UniPlay storitev</string>
   <string name="small_window">Zmanjšaj okno</string>
   <string name="small_window_not_supported">"Ne morete zmanjšati te aplikacije dokler se predvaja"</string>
@@ -313,6 +339,8 @@ Preberite in se strinjajte z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href
      <string name="thursday_shortest">Č</string>
   <string name="tile_label">Predvajanje</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
   <string name="toast_guide_show_more">Izvedite več</string>
   <string name="toast_guide_title">Raziščite nove storitve</string>
   <string name="toast_msg_for_multi_window">Ta storitev ni na voljo v načinu z deljenim zaslonom</string>
