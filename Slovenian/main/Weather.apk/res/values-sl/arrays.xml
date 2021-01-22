@@ -25,6 +25,8 @@
         <item>Kocevje</item>
         <item>Vrhnika</item>
         <item>Slovenj Gradec</item>
+		<item>Zgornje Jezersko</item>
+		<item>Izlake</item>
     </string-array>
 	<string-array name="aqi_detail_title">
          <item>Dobro</item>
@@ -34,6 +36,15 @@
          <item>Zelo nezdravo</item>
          <item>Tvegano</item>
     </string-array>
+	<string-array name="aqi_value">
+        <item>Dobro</item>
+        <item>Še v redu</item>
+        <item>Zmerno onesnaženo</item>
+        <item>Slabo</item>
+        <item>Zelo slabo</item>
+        <item>Hudo</item>
+        <item>Preko indeksa</item>
+     </string-array>
     <string-array name="weather_type">
         <item>Jasno</item>
         <item>Oblačno</item>

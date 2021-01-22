@@ -1817,6 +1817,9 @@ vašega igranja"</string>
   <string name="gb_wonderful_video_goto_box">Odpri Game Turbo</string>
   <string name="gb_wonderful_video_header_title">Danes</string>
   <string name="gb_wonderful_video_save_suc">Uspešno shranjeno</string>
+     <string name="gb_xunyou_gift_type_one">Xunyou 1-dan pospeševanje</string>
+     <string name="gb_xunyou_gift_type_three">Xunyou 3-dni pospeševanje</string>
+     <string name="gb_xunyou_gift_type_two">Xunyou 2-dni pospeševanje</string>
   <string name="gdpr_msg">"&lt;Data&gt;"Da bi zaznali varnostna tveganja in zaščitili vaše podatke, moramo zbrati potrebno količino informacij o vaši napravi. Preberite in se strinjajte z &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo naših storitev. V primeru, da nam ne dovolite zbiranja takšnih podatkov, boste to aplikacijo še vedno lahko uporabljali, vendar vam nekatere storitve ne bodo na voljo. "&lt;/Data&gt;</string>
   <string name="get_detail_by_click">Tapnite za prikaz posrobnosti</string>
   <string name="get_sys_info">Dobivanje informacij…</string>
@@ -3026,6 +3029,8 @@ To skrajšuje trajanje baterije."</string>
      <string name="power_center_battery_duration_format">%1$s %2$s</string>
   <string name="power_center_battery_full">"Baterija je napolnjena "</string>
      <string name="power_center_battery_hardware">Strojna oprema %s</string>
+     <string name="power_center_battery_health_poor_tip">Kaže, da je stanje baterije slabo. Baterijo preverite v pooblaščenem servisnem centru</string>
+     <string name="power_center_battery_health_summary">Napravo popolnoma napolnite in izpraznite %1$d-%2$d krat za izboljšanje natančnosti statistik stanja baterije</string>
   <string name="power_center_battery_last">%s ostalo</string>
      <string name="power_center_battery_level">%s napolnjeno</string>
      <string name="power_center_battery_level_general">Normalno</string>

@@ -335,6 +335,7 @@ Za podrobnosti glejte Nastavitve."</string>
      <string name="fast_connect_same_account_content">Naprave Bluetooth lahko sinhronizirate z vašim računom Mi in jih povežete brez seznanjanja z drugimi napravami.</string>
      <string name="fast_connect_same_accout_devices_connecting">Povezovanje preko Mi Cloud…</string>
      <string name="fast_connect_same_accout_devices_title">Povezali ste %1$s na druge naprave</string>
+     <string name="fast_connect_same_accout_ok">Razumem</string>
      <string name="fast_connect_sound_normalizer_content">"Boljši zvok pri glasovnih klicih.
 Hitrejši protokol povezave."</string>
   <string name="fast_connect_wbs_name">Mi Wireless polnilec za zvočnik</string>

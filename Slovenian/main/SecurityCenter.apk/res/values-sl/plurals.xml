@@ -806,6 +806,10 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">Dobite %d-dnevni brezplačni preizkus</item>
         <item quantity="one">Dobite %d-dnevni brezplačni preizkus</item>
      </plurals>
+     <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Čestitke! Odklenili ste %s Easter eggs."</item>
+        <item quantity="one">"Čestitke! Odklenili ste %s Easter egg."</item>
+     </plurals>
      <plurals name="image_protect_del_tips">
         <item quantity="other">Trajno izbrišem %d slik?</item>
         <item quantity="one">Trajno izbrišem %d sliko?</item>

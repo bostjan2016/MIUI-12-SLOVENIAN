@@ -230,6 +230,8 @@
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
   <string name="time_picker_dialog_title">Nastavi čas</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
   <string name="tip_connect_fail_for_hotspot">"Ne morem se povezati. Izključite prenosni hotspot in poskusite ponovno."</string>
   <string name="today">Danes</string>
   <string name="tomorrow">Jutri</string>

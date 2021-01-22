@@ -10,6 +10,16 @@
     <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
     <string name="abc_capital_off">IZKLJUČENO</string>
     <string name="abc_capital_on">VKLJUČENO</string>
+     <string name="abc_menu_alt_shortcut_label">Alt+</string>
+     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+     <string name="abc_menu_delete_shortcut_label">izbriši</string>
+     <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+     <string name="abc_menu_meta_shortcut_label">Meta+</string>
+     <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+     <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meni+</string>
     <string name="abc_search_hint">Preišči</string>
     <string name="abc_searchview_description_clear">Izbriši povpraševanje</string>
     <string name="abc_searchview_description_query">Povpraševanje za iskanje</string>
@@ -300,6 +310,8 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="logout_failed">Ne morem se vpisati</string>
   <string name="mi_account_identity_title">Potrdite svojo identiteto</string>
   <string name="mi_family">Mi Home</string>
+     <string name="mi_finance">Moje finance</string>
+     <string name="mi_finance_info">Bonusi za nove uporabnike</string>
   <string name="mi_health">Mi zdravje</string>
   <string name="mi_insurance">Mi zavarovanje</string>
   <string name="mi_pass">Mi Pass</string>
@@ -308,7 +320,15 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="micloud_account_name">Mi Račun</string>
   <string name="micloud_space_info">%s na voljo</string>
   <string name="mili_center">Mi krediti</string>
+     <string name="mipay">Denarnica</string>
+     <string name="mipay_balance">Ravnovesje</string>
+     <string name="mipay_bank_card">Bančna kartica</string>
   <string name="mipay_center">Mi Denarnica</string>
+     <string name="mipay_identitiy_no">Ni preverjeno</string>
+     <string name="mipay_identity">ID preverjanje</string>
+     <string name="mipay_indentity_done">Preverjeno</string>
+     <string name="mipay_others">Drugo</string>
+     <string name="mipay_transit_card">Vozovnica</string>
   <string name="miui_provision_find_status_text">"Ta naprava je povezana z obstoječim Mi Računom (%1$s), vnesite geslo za kontrolo naprave.
 (Št. odklepanj: %2$s)"</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
@@ -608,6 +628,8 @@ ki ste ga prejeli v vaš poštni predal
   <string name="passport_wx_bind_account_limit">"Ne morem izdelati račun. Poskusite druge načine prijave."</string>
   <string name="passport_yes">Da</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
+     <string name="password_view_hide_password">Skrij geslo</string>
+     <string name="password_view_show_password">Pokaži geslo</string>
   <string name="permission_group_contacts">Stiki</string>
   <string name="permission_group_phone">Telefon</string>
   <string name="permission_group_sms">SMS</string>
@@ -682,8 +704,8 @@ ki ste ga prejeli v vaš poštni predal
   <string name="security_question_notice_title">Poveži Telefon</string>
   <string name="security_question_prompt">"Varnostna vprašanja vam pomagajo kadar zamenjate ali izbrišete geslo.
  Poskrbite da boste vedeli odgovore!"</string>
-  <string name="select_location_title">Izberite vašo lokacijo</string>
   <string name="select_all">Izberi vse</string>
+     <string name="select_location_title">Izberite vašo lokacijo</string>
   <string name="send_diagnosis_log">Pošlji dnevnik pregleda</string>
   <string name="send_email_activate_message">E-pošta za preverbo poslana</string>
   <string name="sending">Pošiljanje…</string>
@@ -746,6 +768,7 @@ ki ste ga prejeli v vaš poštni predal
   <string name="vip_more_info">Več Vip Info</string>
   <string name="vip_settings_info">VIP nastavitve</string>
   <string name="weixin">WeChat</string>
+     <string name="weixin_login">Prijavite se z WeChat</string>
   <string name="wipe_data_dialog_msg">%s bo izbrisano če nadaljujete.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Nekatere stvari niso bile sinhronizirane"</string>
