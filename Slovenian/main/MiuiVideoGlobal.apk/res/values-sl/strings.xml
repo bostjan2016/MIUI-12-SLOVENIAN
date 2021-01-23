@@ -31,6 +31,7 @@
     <string name="abc_shareactionprovider_share_with">Deljenje z</string>
     <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
+     <string name="access_denied_info">Preveč poskusov. Počakajte minuto ali dve in poskusite znova.</string>
     <string name="account_bind_secure_email_title">Dodajte obnovitveni elektronski naslov</string>
     <string name="account_bind_secure_phone_title">Dodaj obnovitveno telefonsko številko</string>
     <string name="account_crop_user_avatar">Obreži sliko</string>
@@ -69,6 +70,9 @@
   <string name="action_update_phone">Zamenjaj številko telefona</string>
   <string name="activate_email_notice">Poskrbite za aktivacijo uporabniškega računa v roku 24 ur</string>
   <string name="activity_not_found_notice">"Ne morem najti aplikacije"</string>
+     <string name="ad">Ad</string>
+     <string name="ad_bar_notification_setting_sub_title">Pokaži dogodke v plošči obvestil</string>
+     <string name="ad_bar_notification_setting_title">Dogodki</string>
     <string name="ad_buy">Nakup</string>
     <string name="ad_download">Prenos</string>
     <string name="ad_join">Pridružitev skupnosti</string>
@@ -449,6 +453,8 @@ Pošljite to kodo nadzorniku."</string>
     <string name="galleryplus_online_cta_disagree">Ne strinjam se</string>
     <string name="galleryplus_online_cta_title">Pogoji in določila</string>
     <string name="galleryplus_online_video_loading">Samo trenutek…</string>
+     <string name="galleryplus_orientation_lock">Postavitev zaslona je uspešno zaklenjena</string>
+     <string name="galleryplus_orientation_unlock">Postavitev zaslona je odklenjena</string>
     <string name="galleryplus_permission_content">Dodelite aplikaciji Mi Video zahtevana dovoljenja, za uporabo te storitve.</string>
     <string name="galleryplus_permission_content2">"Za uporabo te storitve pojdite na Nastavitve > Aplikacije > Mi Video > Dovoljenja aplikacij ter aplikaciji Mi Video dovolite:
 
@@ -505,6 +511,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="history_local_video">Lokalno</string>
     <string name="history_online_video">Na spletu</string>
      <string name="hot">Popularno</string>
+     <string name="i_know">Razumem</string>
      <string name="id_namespace">hungama</string>
   <string name="identity">Identifikacija</string>
     <string name="inconsistent_pwd">Gesli se ne ujemata</string>
@@ -718,7 +725,9 @@ za videoposnetke"</string>
     <string name="my_feedback_title">Moje povratne informacije</string>
     <string name="need_update_app">Posodobite Mi Video za uporabo vseh njegovih funkcij</string>
     <string name="network_connect_info">Povezava z omrežjem ni uspela. Preverite omrežne nastavitve in poskusite ponovno.</string>
+     <string name="network_error_info">Prišlo je do napake v omrežju. Preverite omrežne nastavitve in poskusite znova.</string>
     <string name="network_failed">Povezava z omrežjem ni uspela</string>
+     <string name="network_timeout_info">Povezave z omrežjem ni bilo mogoče vzpostaviti. Poskusite ponovno."</string>
   <string name="neverthink_player_loading">Nalaganje Neverthink videoposnetkov…</string>
     <string name="new_channel_tip">Poglejte nove kanale!</string>
     <string name="next">Naprej</string>
@@ -752,6 +761,8 @@ za videoposnetke"</string>
     <string name="off_tip_firework_recommend">Od Fireworka ne boste prejeli prilagojena priporočila vsebine</string>
     <string name="ok">V redu</string>
     <string name="on_tip_firework_recommend">Od Fireworka boste prejeli prilagojena priporočila vsebine</string>
+     <string name="open_settings">Nastavitve</string>
+     <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Nedavne naročnine</string>
     <string name="order_recently_updated">Nedavno posodobljeno</string>
     <string name="ovp_alert_dialog_download_install_task">Prenašanje HD vtičnika…</string>
@@ -996,6 +1007,7 @@ Izboljša varnost vašega računa."</string>
     <string name="plus_menu_delete_popup_text">Izbrišem zdaj?</string>
     <string name="plus_menu_properties">Lastnosti</string>
     <string name="plus_menu_rename">Preimenuj</string>
+     <string name="plus_menu_rename_cant_empty">"Ime datoteke ne sme biti prazno"</string>
      <string name="plus_menu_rename_fail">"Ime datoteke ne more vsebovati \"/\""</string>
     <string name="plus_menu_share">Skupna raba</string>
     <string name="plus_mine_gallery">Moji albumi</string>
@@ -1091,6 +1103,7 @@ Izboljša varnost vašega računa."</string>
     <string name="plus_sort_type_time">Času</string>
     <string name="plus_tab_gallery">Mape</string>
     <string name="plus_tab_time">Časovnica</string>
+     <string name="progressbar_title">Preverjanje varnostnih težav…</string>
     <string name="psw_hint">Geslo</string>
     <string name="psw_sign_in">Prijavite se z geslom</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Povlecite navzgor za osvežitev…</string>
@@ -1128,6 +1141,7 @@ Izboljša varnost vašega računa."</string>
     <string name="report_content_violence">Sovražni govor</string>
     <string name="report_fail">Ne morem prijaviti. Poskusite ponovno.</string>
     <string name="report_success">Uspešno sporočeno</string>
+     <string name="request_camera_permission_message">"Vaše osebne podatke bomo zaščitili v skladu z ustreznimi zakoni in predpisi. Za normalno delovanje te aplikacije potrebujejo naslednja dovoljenja:&lt;br>&lt;br>&lt;b>Uporaba kamere (za nastavitev fotografije profila)&lt;/b>&lt;br>&lt;br>Če se ne strinjate s temi dovoljenji, nekaterih funkcij te aplikacije ne boste mogli uporabljati; osnovna funkcionalnost pa vam bo še vedno na voljo. V nastavitvah lahko vedno omejite dovoljenja ali prekličete pooblastilo."</string>
     <string name="resend_active_email">Ponovno pošlji</string>
     <string name="resend_email_reach_limit_message">Zahtevali ste preveč preverjanj po e-pošti. Poglejte ali e-pošta za preverjanje ni mogoče v mapi Vsiljena pošta.</string>
     <string name="resend_email_reach_limit_title">Preveč poskusov</string>
@@ -1224,6 +1238,7 @@ Izboljša varnost vašega računa."</string>
     <string name="sync_favorites_limit">V priljubljenih imate več kot 500 videoposnetkov. Nekatere od starejših videoposnetkov moramo izbrisati, da se lahko sinhronizacija nadaljuje.</string>
     <string name="sync_favorites_message">Želite sinhronizirati priljubljene iz te naprave z vašim računom? Stvari, ki niso več na voljo bodo odstranjene.</string>
     <string name="sync_favorites_title">Sinhronizacija priljubljenih</string>
+     <string name="system_error_info">Sistem je zaseden. Počakajte minuto ali dve in poskusite znova.</string>
     <string name="t_check_hide_file">Izberite stvari, ki jih želite skriti</string>
     <string name="t_check_unhide_file">Izberite stvari, ki jih želite odkriti</string>
     <string name="t_downloading">Prenašanje:</string>
@@ -1279,6 +1294,7 @@ Izboljša varnost vašega računa."</string>
     <string name="ugc_no_net">Povezava z omrežjem ni uspela. Preverite svoje omrežne nastavitve in poskusite ponovno.</string>
     <string name="ui_log_tip">Tapnite to območje za skrivanje, pritisnite in držite za izbris starih zapisov. Ročno povlecite zapise.</string>
     <string name="unknow">Neznano</string>
+     <string name="unknown_error_info">Neznana napaka</string>
     <string name="update">Posodobitev</string>
     <string name="update_email_address_dialog_message">Pred posodobitvijo obnovitvenega e-naslova morate potrditi svojo identiteto.</string>
     <string name="update_email_address_dialog_title">Posodobite obnovitveni elektronski naslov</string>
