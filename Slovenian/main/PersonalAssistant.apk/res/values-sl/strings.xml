@@ -127,6 +127,16 @@
     <string name="app_display_setting_title">Zamenjaj naslov</string>
     <string name="app_health_card_completion">Cilj</string>
     <string name="app_health_card_step">"Današnji koraki:"</string>
+     <string name="app_health_setting_music_name_fire">Ogenj</string>
+     <string name="app_health_setting_music_name_forest">Gozd</string>
+     <string name="app_health_setting_music_name_night">Noč</string>
+     <string name="app_health_setting_music_name_ocean">Ocean</string>
+     <string name="app_health_setting_music_name_rain">Dež</string>
+     <string name="app_health_setting_text_default_duration">Trajanje</string>
+     <string name="app_health_setting_text_download_alert_message">Kaže, da niste povezani na WiFi. Za prenos stvari uporabite %1$s mobilnih podatkov</string>
+     <string name="app_health_setting_text_select_duration_dialog_title">Izberite čas predvajanja</string>
+     <string name="app_health_setting_text_sleep_aid_settings">Spanje</string>
+     <string name="app_health_setting_text_title">Zdravje</string>
     <string name="app_label">Osebni asistent</string>
     <string name="app_memory_free">Na voljo</string>
     <string name="app_memory_title">Spomin</string>
@@ -148,6 +158,7 @@
     <string name="app_miot_start">Dodaj</string>
     <string name="app_miot_title">Pametne naprave</string>
     <string name="app_miot_to_start">Dodaj</string>
+     <string name="app_name">sdk</string>
     <string name="app_news_default_title">Novice</string>
     <string name="app_note_add">Dodaj</string>
     <string name="app_note_title_empty">Beležke</string>
@@ -243,11 +254,13 @@
      <string name="app_sleep_sleeping">Trdno spanje</string>
      <string name="app_sleep_too_long">Preveč</string>
      <string name="app_sleep_too_short">Premalo</string>
+ <string name="app_sports_fav_cancel_multi_league_content" formatted="false">"Urnik kluba %s in %s vam ne bo več dostavljen"</string>
      <string name="app_suggest_detail_setting_summary">Predlogi za aplikacije bodo temeljili na vaših podatkih o uporabi</string>
      <string name="app_suggest_detail_setting_title">Dovoli dostop do stanja aplikacije</string>
      <string name="app_suggest_setting_brief">"Prejemajte predloge aplikacij in funkcij, ki jih boste najverjetneje uporabljali"</string>
      <string name="app_suggest_setting_brief_detail">"Prejemajte predloge aplikacij in funkcij, ki jih boste najverjetneje uporabljali."</string>
      <string name="app_suggest_setting_title">Pametni predlogi</string>
+     <string name="app_travel_card_none">Ni podatkov</string>
   <string name="app_version_name">"Verzija aplikacije: "</string>
   <string name="apps">Predlogi aplikacij</string>
   <string name="apps_label">Aplikacije</string>

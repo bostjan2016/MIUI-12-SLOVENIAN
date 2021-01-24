@@ -79,6 +79,7 @@
   <string name="ad_setting">Dodatne nastavitve</string>
   <string name="add_music">Dodaj skladbe</string>
   <string name="add_to_last_of_playlist">Dodaj na konec seznama pesmi.</string>
+     <string name="add_to_playlist">Dodaj v čakalno vrsto</string>
   <string name="add_to_playlist_successful">Uspešno dodano</string>
   <string name="added_next_play">Dodano za naslednje predvajanje</string>
      <string name="afternoon">PM</string>
@@ -194,6 +195,7 @@
   <string name="btn_earlier_items_progress">Branje nedavnih sporočil…</string>
   <string name="btn_more_items">Preberi več sporočil</string>
   <string name="btn_more_items_progress">Branje več sporočil…</string>
+     <string name="btn_text_edit">Uredi</string>
   <string name="buffering">Nalagam...</string>
   <string name="button_add">Dodaj</string>
   <string name="button_cancel_download">Prekini</string>
@@ -363,6 +365,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="dialog_insufficient_space_on_cache">Ne morem dokončati prenosa. Ni dovolj prostora v notranjem pomnilniku.</string>
   <string name="dialog_insufficient_space_on_external">Ne morem dokončati prenosa. Ni dovolj prostora v zunanjem pomnilniku.</string>
   <string name="dialog_media_not_found">Ne morem prenesti. Zunanji medij ni dostopen.</string>
+     <string name="dialog_message_unfollow">Prekličem sledenje te osebe?</string>
   <string name="dialog_my_playlist_online_changed_merge">Obdrži</string>
   <string name="dialog_my_playlist_online_changed_message">Kaže da se je seznam predvajanja spremenil. Lahko ga zamenjate z novo verzijo ali obdržite staro.</string>
   <string name="dialog_my_playlist_online_changed_replace">Zamenjaj</string>
@@ -390,6 +393,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="dialog_song_view_type_artist">Po izvajalcu</string>
   <string name="dialog_song_view_type_folder">Po mapi</string>
   <string name="dialog_song_view_type_song">Po pesmi</string>
+     <string name="dialog_subtitle_make_playlist_public">Javni seznami predvajanja so na voljo drugim. Zasebni seznami predvajanja so vidni samo v vseh sinhroniziranih napravah.</string>
   <string name="dialog_title_add_playlist">Dodaj seznam predvajanja</string>
   <string name="dialog_title_clearlist_tracks">Odstrani iz čakalne vrste</string>
   <string name="dialog_title_delete_playlist">Izbriši seznam predvajanja</string>
@@ -498,6 +502,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="downloading_empty">Prazno</string>
   <string name="downloading_pause_apk">Zaustavljeno… Nadaljujte prenos v plošči obvestil.</string>
   <string name="downloads_operating">Obdelava…</string>
+     <string name="early_morning">AM</string>
   <string name="edit_playlist_info">Uredi informacije o seznamu predvajanja</string>
   <string name="editmode_menu_delete">Izbriši</string>
   <string name="editmode_menu_share">Deli</string>
@@ -513,6 +518,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="english_female">Ženski izvajalci (US/Europe)</string>
   <string name="english_group">Skupine (US/Europe)</string>
   <string name="english_male">Moški izvajalci (US/Europe)</string>
+     <string name="enjoy_hungama_pro">Uživajte Hungama PRO</string>
   <string name="enter_garbage_clean">Očistite notranji pomnilnik.</string>
   <string name="eq_auto">Po izbiri</string>
   <string name="eq_blues">Blues</string>
@@ -594,11 +600,13 @@ predvsem nudi Ultimate Inc."</string>
   <string name="fail_to_play">Ne morem predvajati skladbe</string>
   <string name="failed_not_access_sd_card">Najprej odobrite dostop do SD kartice</string>
   <string name="failed_obtain_permissions">"Ne morem dobiti dovoljenja"</string>
+     <string name="fans">Sledilci</string>
   <string name="fav_login_msg">Prijavite se na svoj Mi Račun za prenos pesmi</string>
   <string name="favorite_canceled">Odstranjeno iz priljubljenih</string>
   <string name="favorite_playlist">Priljubljeno</string>
   <string name="favorite_singer">Priljubljeni pevci</string>
   <string name="favorite_succeed">Dodano med priljubljene</string>
+     <string name="favorite_to_playlist">Dodaj na seznam predvajanja</string>
   <string name="favorite_tracks">Priljubljeno</string>
   <string name="favorites">Priljubljeni</string>
   <string name="favourite_music_left_half">Za dodajanje glasbe na ta seznam predvajanja tapni</string>
@@ -700,8 +708,14 @@ predvsem nudi Ultimate Inc."</string>
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="hungama_batch_download_alert_summary">Samo člani PRO lahko prenesejo več pesmi. Želite pridobiti članstvo za PRO?</string>
   <string name="hungama_batch_download_alert_summary_toast">Naročite se za prenos celega seznama predvajanja.</string>
+     <string name="hungama_category_chart">Lestvice</string>
+     <string name="hungama_category_playlist">Seznam predvajanja</string>
+     <string name="hungama_category_radio">Radio</string>
+     <string name="hungama_category_video">Video</string>
+     <string name="hungama_category_vip">Pro</string>
   <string name="hungama_free_download_out_summary">Ne morete prenesti več brezplačnih pesmi. Želite pridobiti članstvo v programu PRO za neomejen prenos?</string>
   <string name="hungama_free_download_out_summary_toast">Prenesli ste že %d pesmi. Naročite se za prenos več.</string>
+     <string name="hungama_playlist_category">Kategorije seznama predvajanja</string>
   <string name="hungama_privacy_desc">Pravila o zasebnosti za Hungama (izbirno)</string>
   <string name="hungama_privacy_tips_content">Da dobite dostop do online vsebine se morate strinjati z &lt;a href="/link/click"&gt;Pravila o zasebnosti za Hungama&lt;/a&gt;.</string>
   <string name="hungama_privacy_tips_title">Pravila o zasebnosti za Hungama</string>
@@ -717,7 +731,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="impunity_declaration_summary">Pokaži "Pogoji uporabe" vsakič kadar se zažene aplikacija "Glasba"</string>
   <string name="impunity_declaration_title">Pogoji uporabe</string>
   <string name="in_searching_please_wait">Iščem...</string>
-  <string name="invalid_number">Število je žal neveljavno</string>
+     <string name="include_sensitive_extra">napačno</string>
   <string name="individuation_card_login_button">Prijavi se</string>
   <string name="individuation_card_login_message">"Prijavite se da najdete pesmi, ki so vam všeč"</string>
   <string name="individuation_card_title">Za vas</string>
@@ -738,6 +752,7 @@ predvsem nudi Ultimate Inc."</string>
    <string name="installing_apk">Nameščanje…</string>
   <string name="insufficient_space">"Ni dovolj prostora v notranjem pomnilniku vaše naprave"</string>
   <string name="intelligent_recognize">Ovitek albuma in tekst</string>
+     <string name="invalid_number">Število je žal neveljavno</string>
   <string name="is_latest_version">Glasba je posodobljena.</string>
   <string name="is_loading_data">Nalaganje pesmi. Počakaj minuto ali dve in poskusite znova.</string>
   <string name="is_scanning">Preverjam prostor za shranjevanje…</string>
@@ -940,8 +955,10 @@ predvsem nudi Ultimate Inc."</string>
   <string name="no_artist_info">Ni podrobnosti o izvajalcu</string>
   <string name="no_downloads">Ni prenosa</string>
   <string name="no_enough_info">Premalo podrobnosti o pesmi</string>
+     <string name="no_fans_empty_title">"Nimate še nobenega sledilca"</string>
   <string name="no_favorites_songs">Prazno</string>
   <string name="no_file_picker_find">Raziskovalec ni nameščen na tej napravi</string>
+     <string name="no_follow_empty_title">"Še nikogar ne sledite"</string>
   <string name="no_introduction">Ni povzetka</string>
   <string name="no_local_songs">Prazno</string>
   <string name="no_local_songs_selected">Ne morem poslati skladb ker niso bile prenešene</string>
@@ -1115,9 +1132,10 @@ predvsem nudi Ultimate Inc."</string>
   <string name="privacy_notif_content">Pritisnite za pregled podrobnosti.</string>
   <string name="privacy_notif_title">Xunlei Download Accelerator je vključen</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
-     <string name="privacy_request_desc"><Data>"Mi glasba mora zbrati potrebne osebne podatke za zagotavljanje spletnih storitev pretakanja. Izvedite, kako ravnamo s podatki, ki jih zbiramo v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. V nastavitvah lahko kadar koli umaknete svoje soglasje k Pravilih o zasebnosti Mi glasbbe.
-Preberite in se strinjajte z našimi &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> pred uporabe Glasbe.
-Če se ne strinjate z uporabo zgoraj omenjenih storitev, nekaterih možnosti te aplikacije ne boste mogli uporabljati; osnovna funkcionalnost pa vam bo še vedno na voljo."</Data></string>
+     <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
+ <string name="privacy_request_desc"><Data>"Mi Glasba mora zbrati potrebne osebne podatke, da vam omogoči spletne storitve pretakanja. Izvedite, kako ravnamo s podatki, ki jih zbiramo v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. V nastavitvah lahko kadar koli umaknete svoje soglasje k Pravilom o zasebnosti Mi Glasbe.
+Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> pred uporabo.
+Če se ne strinjate z uporabo zgoraj omenjenih storitev, nekaterih funkcij te aplikacije ne boste mogli uporabljati; osnovna funkcionalnost pa vam bo še vedno na voljo."</Data></string>
      <string name="privacy_request_subtitle">"Dobrodošli v Mi glasbo! Ta aplikacija ponuja naslednje storitve:
 
 - Lokalni predvajalnik zvoka
@@ -1293,6 +1311,7 @@ Bodite Happy"</string>
   <string name="share_end_note">Od Mi Glasbe</string>
   <string name="share_failed">"Ne morem deliti"</string>
   <string name="share_image_error">"Ne morem deliti slike zaradi napake pri prenosu slike"</string>
+     <string name="share_song">Deli</string>
   <string name="share_text_list">"Seznam pesmi od Mi Glasba: "</string>
   <string name="share_text_song">"Pesem v Mi Glasba: "</string>
   <string name="show_float_first_hint">Zmanjšaj player</string>
@@ -1310,6 +1329,7 @@ Bodite Happy"</string>
   <string name="sleep_mode_canceled">Časovnik izključen</string>
   <string name="sleep_mode_summary">Zaustavi predvajanje po določenem času</string>
   <string name="sleep_mode_title">Časovnik</string>
+     <string name="sliding_pro_center">PRO center</string>
   <string name="song_already_in_playlist">Ta pesem je že na seznamu čakanja</string>
   <string name="song_exist_in_playlist">Ta pesem je že na seznamu pesmi</string>
   <string name="song_info">Podrobnosti pesmi</string>
@@ -1428,11 +1448,14 @@ Bodite Happy"</string>
   <string name="to_mi_pay">Mi Krediti</string>
   <string name="toast_cancel_download">Prenos odpovedan</string>
   <string name="toast_cancel_play">Predvajanje prekinjeno</string>
+     <string name="toast_cant_collect_mine_playlist">"Svojega seznama predvajanja ni mogoče dodati med priljubljene"</string>
      <string name="toast_cant_commit_without_title">Vnesite naslov pesmi</string>
   <string name="toast_download_error_by_count_limit">"Dosegli ste omejitev prenosov za ta mesec."</string>
   <string name="toast_download_error_by_not_login">Prijavite se v Mi Račun in poskusite ponovno.</string>
   <string name="toast_download_error_by_vip_required">Kupite Premium naročnino za prenos te pesmi.</string>
   <string name="toast_download_in_process">Prenos poteka</string>
+     <string name="toast_favorite_has_been_added">Uspešno dodano na seznam predvajanja</string>
+     <string name="toast_follow_success">Sledeno uspešno</string>
   <string name="toast_is_pro">Ste že PRO član.</string>
   <string name="toast_my_playlist_illegal_name">Naslov seznama predvajanja ni veljaven. Preimenujte ga.</string>
   <string name="toast_my_playlist_set_to_private">Seznam predvajanja je zaseben. Drugi ljudje ga ne morejo videti.</string>
@@ -1443,6 +1466,9 @@ Bodite Happy"</string>
   <string name="toast_normal_songs_for_download">Kvaliteta prenosov je nastavljena na standardno</string>
   <string name="toast_normal_songs_for_stream">Kvaliteta streama je nastavljena na standardno</string>
   <string name="toast_not_pro">Storitev je na voljo samo PRO članom.</string>
+     <string name="toast_playlist_has_been_added">Uspešno dodano v čakalno vrsto</string>
+     <string name="toast_playlist_has_been_private">Ta seznam predvajanja je zaseben</string>
+     <string name="toast_playlist_has_been_public">Ta seznam predvajanja je javen</string>
      <string name="toast_playmode_loop_playback">Trenutni seznam predvajanja je ponavljajoč</string>
      <string name="toast_playmode_shuffle_play">Predvajanje je naključno</string>
      <string name="toast_playmode_single_cycle">Trenutna pesem je ponavljajoča se</string>
@@ -1505,11 +1531,15 @@ Bodite Happy"</string>
      <string name="upload_playlist_to_hungama_title">Sinhronizirajte spletne pesmi z Hungamo, da boste lahko dostopali do njih v drugih napravah, kjer uporabljate svoj Mi račun.</string>
      <string name="upload_playlist_to_hungama_toast">Spletne pesmi bodo sinhronizirane z Hungamo</string>
   <string name="user_agreement">Pogoji uporabe</string>
+     <string name="user_playlist_plaza">Seznam predvajanja</string>
      <string name="user_privacy_dialog_negative_text">Prekliči</string>
      <string name="user_privacy_dialog_positive_count_down_text">Preklic (%ss)</string>
      <string name="user_privacy_dialog_positive_text">Preklic</string>
      <string name="user_privacy_setting_group_title">Preklic soglasja</string>
      <string name="user_privacy_setting_title">Z izklopom stikala umaknete soglasje k Pravilom o zasebnosti Mi glasbe.</string>
+     <string name="user_profile_created_playlist_title">Seznami predvajanja po meri</string>
+     <string name="user_profile_fans_count">Sledilci: %s</string>
+     <string name="user_profile_follow_count">Sledim: %s</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
   <string name="valid_period">"Veljavno do: "</string>

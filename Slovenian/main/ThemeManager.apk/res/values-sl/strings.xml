@@ -127,6 +127,8 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="both_all_apply_success">Ozadje nastavljeno</string>
   <string name="browser_local_resource">Lokalni viri</string>
   <string name="can_not_apply">Ne morem nastaviti</string>
+   <string name="can_not_apply_error">"Ta video format ni podprt"</string>
+    <string name="can_not_apply_size_invalid">Ta video je prevelik</string>
      <string name="cancel_download">Prenos preklican</string>
   <string name="card_data_request_error">Prišlo je do napake. Počakajte trenutek ali dva in poskusite ponovno.</string>
   <string name="card_loading">Samo trenutek…</string>
@@ -347,9 +349,17 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="find_more_wallpapers">Najdi več</string>
   <string name="first_page_recommend">Priporočeno</string>
   <string name="float_wallpaper_is_here">Transparentna slika ozadja</string>
-     <string name="font_trial_end_purchase">Kupi font</string>
-     <string name="forbid_transparent_wallpaper_by_second_space">Najprej uporabite prozorna ozadja v prvem prostoru.</string>
-     <string name="forbid_video_wallpaper_by_second_space">Najprej uporabite dinamična ozadja v prvem prostoru.</string>
+  <string name="font_compat_dialog_buy_confirm">Kupi</string>
+  <string name="font_compat_dialog_buy_content">Nekatere aplikacije morda ne podpirajo pisav drugih proizvajalcev. To težavo z združljivostjo bo odpravila prihajajoča posodobitev sistema. Vseeno kupim to pisavo?</string>
+  <string name="font_compat_dialog_cancel">Prekliči</string>
+  <string name="font_compat_dialog_download_confirm">Prenesi</string>
+  <string name="font_compat_dialog_download_content">Nekatere aplikacije morda ne podpirajo pisav drugih proizvajalcev. To težavo z združljivostjo bo odpravila prihajajoča posodobitev sistema. Vseeno prenesem to pisavo?</string>
+  <string name="font_compat_dialog_title">Težave z združljivostjo</string>
+  <string name="font_compat_dialog_trial_confirm">Poskusi</string>
+  <string name="font_compat_dialog_trial_content">Nekatere aplikacije morda ne podpirajo pisav drugih proizvajalcev. To težavo z združljivostjo bo odpravila prihajajoča posodobitev sistema. Vseeno poskusim s to pisavo?</string>
+  <string name="font_trial_end_purchase">Kupi pisavo</string>
+  <string name="forbid_transparent_wallpaper_by_second_space">Najprej uporabite prozorna ozadja v prvem prostoru.</string>
+   <string name="forbid_video_wallpaper_by_second_space">Najprej uporabite dinamična ozadja v prvem prostoru.</string>
   <string name="forcetouch_featured">Izpostavljeni</string>
   <string name="forcetouch_free_themes">Brezplačne teme</string>
   <string name="forcetouch_offline">Izvenmrežno</string>
@@ -417,6 +427,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="hide_pull_down_message">Skrijem?</string>
   <string name="hide_pull_down_negative">"Ne skrivaj"</string>
   <string name="hide_pull_down_positive">Skrij</string>
+  <string name="hide_retract_button">Skrij</string>
   <string name="home_apply_failured">"Ne morem nastaviti ozadje zač. zaslona"</string>
   <string name="home_apply_success">Ozadje zač. zaslona nastavljeno</string>
   <string name="home_daily">Dnevno ozadje</string>
@@ -962,6 +973,8 @@ mm"</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>
+  <string name="scrollable_wallpaper_close">Izklopljeno podrsanje</string>
+  <string name="scrollable_wallpaper_open">Vklopljeno podrsanje</string>
   <string name="sdcard_not_mounted_dialog_message">"SD kartica ni na voljo, 
   vstavite jo"</string>
   <string name="sdcard_not_mounted_dialog_title">Odkrita ni nobena SD kartica</string>
@@ -979,6 +992,7 @@ mm"</string>
   <string name="search_sort_top">Najprej popularno</string>
   <string name="selected_resource_file_invalid">"Ne morem uporabljati izbrano datoteko virov"</string>
   <string name="server_internal_error">Napaka strežnika. Počakajte trenutek ali dva in poskusite ponovno.</string>
+  <string name="set_as_colorring">Nastavi kot ton zvonjenja po meri</string>
   <string name="set_color_ring_back_tone">Nastavite lastno melodijo zvonenja</string>
   <string name="set_home_wallpaper_failed">"%s. Ne morem nastaviti slike ozadja zač. zaslona."</string>
      <string name="set_wallpaper_group_success">"%1$s nastavljeno.

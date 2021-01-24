@@ -252,6 +252,14 @@ Ali želite, da jo pomagamo obnoviti?"</item>
      <plurals name="less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
      </plurals>
+     <plurals name="list_header_fans_count">
+        <item quantity="other">%d sledilcev</item>
+        <item quantity="one">%d sledilec</item>
+     </plurals>
+     <plurals name="list_header_follow_count">
+        <item quantity="other">Sledim %d osebam</item>
+        <item quantity="one">Sledim %d osebi</item>
+     </plurals>
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d minut</item>
         <item quantity="one">pred 1 minuto</item>
