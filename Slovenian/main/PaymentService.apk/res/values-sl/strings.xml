@@ -190,7 +190,6 @@ povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto
   <string name="passport_license_host_unreachable">"Ne morem se povezati na omrežje. Lahko vidite to stran na %s."</string>
   <string name="passport_loading">Nalaganje…</string>
   <string name="passport_login">Prijavite se</string>
-  <string name="login_check_find_device">Dobivanje informacij o varnosti naprave…</string>
   <string name="passport_login_check_find_device_failed_title">Ne morem preveriti podatkov o varnosti naprave.</string>
   <string name="passport_login_failed">"Ne morem se prijaviti"</string>
   <string name="passport_login_find_device_bind">Ta naprava je povezana z obstoječim ID Mi Računa (%s).</string>
