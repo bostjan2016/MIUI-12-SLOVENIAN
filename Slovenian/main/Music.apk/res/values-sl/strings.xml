@@ -731,7 +731,6 @@ predvsem nudi Ultimate Inc."</string>
   <string name="impunity_declaration_summary">Pokaži "Pogoji uporabe" vsakič kadar se zažene aplikacija "Glasba"</string>
   <string name="impunity_declaration_title">Pogoji uporabe</string>
   <string name="in_searching_please_wait">Iščem...</string>
-     <string name="include_sensitive_extra">napačno</string>
   <string name="individuation_card_login_button">Prijavi se</string>
   <string name="individuation_card_login_message">"Prijavite se da najdete pesmi, ki so vam všeč"</string>
   <string name="individuation_card_title">Za vas</string>
@@ -1132,7 +1131,6 @@ predvsem nudi Ultimate Inc."</string>
   <string name="privacy_notif_content">Pritisnite za pregled podrobnosti.</string>
   <string name="privacy_notif_title">Xunlei Download Accelerator je vključen</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
-     <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
  <string name="privacy_request_desc"><Data>"Mi Glasba mora zbrati potrebne osebne podatke, da vam omogoči spletne storitve pretakanja. Izvedite, kako ravnamo s podatki, ki jih zbiramo v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. V nastavitvah lahko kadar koli umaknete svoje soglasje k Pravilom o zasebnosti Mi Glasbe.
 Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> pred uporabo.
 Če se ne strinjate z uporabo zgoraj omenjenih storitev, nekaterih funkcij te aplikacije ne boste mogli uporabljati; osnovna funkcionalnost pa vam bo še vedno na voljo."</Data></string>
