@@ -31,9 +31,11 @@
     <string name="account_bind_prompt">"Prestavljam podatke uporabnika… 
     To lahko traja nekaj minut"</string>
   <string name="account_login_title">Račun</string>
+  <string name="access_limit">Omejitve dostopa</string>
+  <string name="access_tips">"Do stvari ni mogoče dostopati. Poskusite uporabiti Android Storage Access Framework."</string>
   <string name="action_mode_deselect_all">Prekliči izbrano</string>
   <string name="action_mode_select_all">Izberi vse</string>
-     <string name="actionbar_button_up_description">Nazaj</string>
+  <string name="actionbar_button_up_description">Nazaj</string>
   <string name="activity_parse_video_title">Prilepi povezavo</string>
   <string name="activity_rule">Pravila</string>
   <string name="ad_download">Prenesi</string>
@@ -203,6 +205,7 @@
   <string name="copy_text">Kopiraj besedilo</string>
   <string name="copy_to">Kopiraj v…</string>
   <string name="count_down">Odštevanje: %1$s</string>
+  <string name="close">Zapri</string>
   <string name="create_folder">Nova mapa</string>
   <string name="create_kuaipan_shortcut_pref">Napravi bližnjico na začetnem zaslonu</string>
   <string name="create_new_folder_desctiption">Izdelava mape…</string>
@@ -393,6 +396,7 @@
   <string name="get_user_info_err">"Ne morem dobiti informacije o uporabniku"</string>
   <string name="get_verification_code_fail">"Ne morem dobiti kode za preverjanje"</string>
   <string name="gigabyteShort">GB</string>
+  <string name="go_ahead">Odpri</string>
   <string name="good_tip">Bravo!</string>
   <string name="grid_mode">Mreža</string>
   <string name="group_title">%2$s od %1$s</string>
@@ -552,6 +556,9 @@
      <string name="mirror_can_not_drag_mask">Povlecite, da uporabite Mi Share</string>
      <string name="mirror_new_name">Napravi mapo (%s)</string>
      <string name="mirror_new_name_first">Napravi mapo</string>
+	 <string name="mirror_no_recommended_app">Ni priporočenih aplikacij</string>
+    <string name="mirror_open_mode_error">"Ne morem naložiti"</string>
+    <string name="mirror_open_mode_loading">Delam…</string>
      <string name="mirror_paste_no_file">"Datoteka ne obstaja"</string>
      <string name="mirror_progress_copy">Kopiranje…</string>
      <string name="mirror_side_bar_tab_app_name">Aplikacije</string>
@@ -829,6 +836,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="operation_moving_detail">Premikam (%1$d/%2$d)</string>
   <string name="operation_new_folder">Napravi mapo</string>
   <string name="operation_open">Odpri</string>
+  <string name="operation_open_mode">Odpri z</string>
   <string name="operation_other_apps">Odpri v drugi aplikaciji</string>
   <string name="operation_paste">Prilepi</string>
   <string name="operation_paste_to_folder">Prilepi v mapo</string>
@@ -947,6 +955,8 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="pull_to_signin">Podrsajte navzdol za prijavo.</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>
+  <string name="qq_msg">"Zaradi omejitev Android 11 Raziskovalec ne more dostopati do dokumentov QQ in jih prikazati."</string>
+  <string name="qq_title">"Nimam dostopa do QQ dokumentov"</string>
   <string name="qq_not_installed">"QQ ni nameščen"</string>
   <string name="qq_platform">QQ</string>
   <string name="quota_info">MiDrive: %1$s na voljo, %2$s skupaj</string>
@@ -1063,6 +1073,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="select_music">Glasba</string>
   <string name="select_video">Videoposnetki</string>
   <string name="select_volume">Izberi glasnost</string>
+  <string name="send">Pošlji</string>
   <string name="send_comment">Pošlji</string>
   <string name="send_error">"Ne morem dodati komentar"</string>
   <string name="send_sticker">Pošlji nalepko</string>
@@ -1433,11 +1444,13 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">WeChat</string>
   <string name="wechat_login_btn_str">WeChat</string>
+  <string name="wechat_msg">"Zaradi omejitev Android 11 Raziskovalec ne more dostopati do dokumentov, predogledanih v WeChatu, in jih prikazati. Odprite in shranite dokumente v WeChat, da bodo prikazani tukaj."</string>
+  <string name="wechat_title">"Nimam dostopa do WeChat dokumentov"</string>
   <string name="wechat_platform">WeChat</string>
   <string name="wechat_video">Video na %s</string>
-     <string name="wednesday">Sreda</string>
-     <string name="wednesday_short">Sre</string>
-     <string name="wednesday_shortest">S</string>
+  <string name="wednesday">Sreda</string>
+  <string name="wednesday_short">Sre</string>
+  <string name="wednesday_shortest">S</string>
   <string name="weibo_login_btn_str">Weibo</string>
   <string name="weibo_share_success">Uspešno deljeno</string>
   <string name="weibo_str">Weibo</string>

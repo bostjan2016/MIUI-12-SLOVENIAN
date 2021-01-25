@@ -562,6 +562,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
   <string name="vibrate_pref_summary">Vibriraj ko se oglasi alarm</string>
   <string name="vibrate_when_ringing">Vibriraj pri klicih</string>
   <string name="view_type">Prikaz</string>
+  <string name="voice_add_alarm">Dodajte alarm z glasovnim ukazom</string>
   <string name="volume_button_setting_desc">Dodelite storitve za tipke Vklop in Glasnost +/-</string>
   <string name="volume_button_setting_summary">Nastavi opravilo tipk za glasnost med bujenjem</string>
   <string name="volume_button_setting_title">Tipke za glasnost</string>

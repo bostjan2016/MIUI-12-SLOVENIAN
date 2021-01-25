@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="preferred_network_mode_choices">
-         <item>GSM/WCDMA prednostno</item>
+        <item>GSM/WCDMA prednostno</item>
         <item>GSM samo</item>
         <item>WCDMA samo</item>
-        <item>GSM/WCDMA samodejno</item>
-        <item>CDMA/EvDo samodejno</item>
-        <item>CDMA w/o EvDo</item>
+        <item>GSM/WCDMA samod.</item>
+        <item>CDMA/EvDo samod.</item>
+        <item>CDMA brez EvDo</item>
         <item>EvDo samo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>CDMA + LTE/EvDo</item>
@@ -24,7 +24,34 @@
         <item>LTE/TDSCDMA/GSM/WCDMA</item>
         <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
         <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>NR samo</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
     </string-array>
+	<string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+     </string-array>
+     <string-array name="bluetooth_map_version_values">
+        <item>map12</item>
+        <item>map13</item>
+        <item>map14</item>
+     </string-array>
+     <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Privzeto)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+     </string-array>
     <string-array name="ims_call_cap_types">
         <item>Zvok</item>
         <item>Video</item>
@@ -299,26 +326,22 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-	<item>Qualcomm® aptX™ Adaptivni audio</item>
-	<item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>Omogočanje izbirnih kodekov</item>
-        <item>Onemogočanje izbirnih kodekov</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Izbira sistema (privzeto)</item>
+        <item>Izbira sistema (privzeto</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-	<item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>		
-        <item>Omogočanje izbirnih kodekov</item>
-        <item>Onemogočanje izbirnih kodekov</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
      </string-array>
      <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (privzeto)</item>
-	<item>AVRCP 1.3</item>
+	    <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
      </string-array>

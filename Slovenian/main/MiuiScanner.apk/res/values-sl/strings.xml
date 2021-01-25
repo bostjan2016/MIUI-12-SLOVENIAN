@@ -271,6 +271,13 @@
   <string name="language_entry_russian">Russian</string>
   <string name="language_entry_spanish">Spanish</string>
   <string name="language_entry_swedish">Swedish</string>
+     <string name="language_value_chinese_cn">chinese_cn</string>
+     <string name="language_value_english">english</string>
+     <string name="language_value_french">french</string>
+     <string name="language_value_german">german</string>
+     <string name="language_value_japanese">japanese</string>
+     <string name="language_value_korean">korean</string>
+     <string name="language_value_spanish">spanish</string>
   <string name="limit_exceeded">Izberite do %d znakov</string>
   <string name="local_ocr_recognition">Lokalno OCR prepoznavanje</string>
   <string name="local_ocr_recognition_str">Preklopljeno na prevajanje brez povezave</string>
@@ -512,6 +519,7 @@
      <string name="ucrop_label_edit_photo">Uredi fotografijo</string>
      <string name="ucrop_label_original">Original</string>
      <string name="ucrop_menu_crop">Obreži</string>
+     <string name="ucrop_mutate_exception_hint">Zato v aplikaciji preglasite barvni vir (ucrop_color_toolbar_widget), da bo deloval v napravah pred L</string>
      <string name="ucrop_rotate">Zavrti</string>
      <string name="ucrop_scale">Skaliraj</string>
   <string name="uninstall_prompt">Če se med namestitvijo pojavijo problemi, pojdite na Nastavitve&gt; Aplikacije &gt; Informacije o aplikaciji &gt; Skener, tapnite \"Odstrani\", in poskusite ponovno namestiti aplikacijo.</string>
@@ -523,8 +531,10 @@
   <string name="v7_preference_on">VKLJUČENO</string>
   <string name="vender_info_translation_kingsoft">Podprto od Kingsoft</string>
   <string name="view_study_report">Pokaži poročilo</string>
+     <string name="visit">Obišči</string>
      <string name="waybill_num">"Naročilo: "</string>
   <string name="web">Spletna stran:</string>
+     <string name="web_url">URL</string>
   <string name="website_details">Spletna stran:</string>
      <string name="wechatcode_auto_processing_function_requires_permissions">Funkcija samodejne obdelave kode WeChat zahteva, da ima WeChat dovoljenja za kamere in dovoljenja za shranjevanje.</string>
   <string name="weixin_code_tip">Uporabite WeChat za skeniranje te QR kode</string>

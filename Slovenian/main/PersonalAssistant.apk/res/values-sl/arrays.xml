@@ -17,6 +17,15 @@
         <item>30 minut</item>
         <item>60 minut</item>
      </string-array>
+	 <string-array name="day_time_space">
+        <item>Noč</item>
+        <item>Jutro</item>
+        <item>Dopoldne</item>
+        <item>Poldne</item>
+        <item>Popoldne</item>
+        <item>Pozno popoldne</item>
+        <item>Večer</item>
+     </string-array>
 	<string-array name="detail_font_size">
       <item>Majhen</item>
       <item>Normalen</item>

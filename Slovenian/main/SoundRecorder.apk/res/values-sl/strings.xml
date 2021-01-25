@@ -92,12 +92,16 @@
   <string name="korea_permission_storage_desc">Za shranjevanje posnetkov</string>
   <string name="loading_more">Samo trenutek…</string>
   <string name="loading_order_list">Samo trenutek…</string>
+     <string name="loading_order_list_empty">Tu ni ničesar.</string>
   <string name="low_battery_error">"Preostalo je manj kot 5% baterije. Zaustavite snemanje in shranite posnetek da ga ne izgubite."</string>
   <string name="low_battery_error_confirm">V redu</string>
   <string name="low_battery_error_title">Prazna baterija</string>
   <string name="mark_point_list_title">Označi</string>
   <string name="menu">Meni</string>
   <string name="message_file_size_error">Snemanje je doseglo največjo dolžino, ki je podprta s strani %s</string>
+     <string name="mi_account_msg">Prijavite se z računom Mi, če želite prepisovati datoteke v oblaku in dobiti prvih 60 minut brezplačno.</string>
+     <string name="mi_account_ok">Prijavite se</string>
+     <string name="mi_account_title">Prijavite se z Mi računom</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>

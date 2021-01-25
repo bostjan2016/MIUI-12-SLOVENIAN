@@ -226,10 +226,8 @@
         <item>Qualcomm® aptX™ avdio</item>
         <item>Qualcomm® aptX™ HD avdio</item>
         <item>LDAC</item>
-	<item>Qualcomm® aptX™ Adaptivni audio</item>
-	<item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>Omogočanje izbirnih kodekov</item>
-        <item>Onemogočanje izbirnih kodekov</item>
+        <item>Qualcomm® aptX™ Adaptive avdio</item>
+        <item>Qualcomm® aptX™ TWS+ avdio</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
         <item>Izbira sistema (privzeto)</item>
@@ -238,14 +236,12 @@
         <item>Qualcomm® aptX™ avdio</item>
         <item>Qualcomm® aptX™ HD avdio</item>
         <item>LDAC</item>
-	<item>Qualcomm® aptX™ Adaptivni audio</item>
-	<item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>Omogočanje izbirnih kodekov</item>
-        <item>Onemogočanje izbirnih kodekov</item>
+        <item>Qualcomm® aptX™ Adaptive avdio</item>
+        <item>Qualcomm® aptX™ TWS+ avdio</item>
      </string-array>
      <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (privzeto)</item>
-	<item>AVRCP 1.3</item>
+	    <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
      </string-array>
@@ -266,4 +262,20 @@
         <item>OpenGL (privzeto)</item>
         <item>OpenGL (Skia)</item>
      </string-array>
+	 <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+     </string-array>
+     <string-array name="bluetooth_map_version_values">
+        <item>map12</item>
+        <item>map13</item>
+        <item>map14</item>
+     </string-array>
+     <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Privzeto)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
 </resources>
