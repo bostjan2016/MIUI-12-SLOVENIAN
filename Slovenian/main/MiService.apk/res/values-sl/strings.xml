@@ -29,10 +29,13 @@
   <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
+     <string name="am">AM</string>
   <string name="clearable_edittext_clear_description">Očisti</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavite datum in uro</string>
      <string name="early_morning">Jutro</string>
      <string name="evening">Večer</string>
+     <string name="expand_button_title">Napredno</string>
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -181,9 +184,23 @@
     <string name="miui_main_update_success_title">Življenje postane lažje</string>
      <string name="miui_main_update_success_title_12">Samo tvoj</string>
      <string name="miui_main_update_success_title_12_5">Dobrodošli v MIUI 12.5</string>
+ <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
+     <string name="miuix_appcompat_cancel_description">Prekliči</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
   <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
+ <string name="miuix_appcompat_confirm_description">Potrdi</string>
+  <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
+  <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
+  <string name="miuix_appcompat_search_input_description">Išči</string>
+  <string name="miuix_appcompat_select_all">Izberi vse</string>
+  <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -239,6 +256,7 @@
   <string name="morning">Jutro</string>
   <string name="night">Noč</string>
   <string name="noon">Poldne</string>
+     <string name="not_set">Ni nastavljeno</string>
     <string name="permission_agree">Strinjam se</string>
     <string name="permission_china_version_msg">&lt;Data>Pred uporabo \"Storitve in povratne informacije\", morate prebrati in se strinjati z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravilnik o zasebnosti&lt;/a>. Ta aplikacija za normalno delovanje tudi potrebuje povezavo na omrežje.&lt;/Data></string>
     <string name="permission_complete">Končano</string>
@@ -260,6 +278,7 @@
     <string name="permission_storage_introduce">Za shranjevanje predmetov na vaši napravi</string>
     <string name="permission_user_protocol">Pogoji uporabe (obvezno)</string>
   <string name="pm">PM</string>
+     <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
     <string name="public_loading_text">Samo trenutek…</string>
     <string name="public_net_error_retry">Poskusite ponovno</string>
     <string name="public_net_error_sub_title">Preverite omrežne nastavitve in poskusite ponovno</string>
@@ -292,6 +311,8 @@
   <string name="tuesday">Torek</string>
   <string name="tuesday_short">Tor</string>
   <string name="tuesday_shortest">T</string>
+     <string name="v7_preference_off">IZKLJUČENO</string>
+     <string name="v7_preference_on">VKLJUČENO</string>
    <string name="wednesday">Sreda</string>
   <string name="wednesday_short">Sre</string>
   <string name="wednesday_shortest">S</string>

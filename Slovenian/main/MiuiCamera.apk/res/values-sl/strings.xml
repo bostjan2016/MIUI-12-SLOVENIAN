@@ -388,6 +388,8 @@ in za trenutek zapustite pregled"</string>
   <string name="clone_video_mode">Videoposnetek</string>
   <string name="close_back_flash_toast">"Naprava je prevroča. Ne morem uporabiti bliskavice."</string>
   <string name="close_front_flash_toast">"Naprava je prevroča. Ne morem uporabiti bliskavice."</string>
+     <string name="close_night_algo_toast_low_power">Napolnite napravo, da bo lahko nastavila osvetlitev</string>
+     <string name="close_night_algo_toast_thermal">Ohladite napravo, da lahko nastavite osvetlitev</string>
   <string name="cloud_album_details">Podrobnosti Cloud albuma:</string>
   <string name="color_effect_entry_berry">Sadje</string>
      <string name="color_effect_entry_blackgold">Zlate vibracije</string>
@@ -1379,6 +1381,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_portrait_mode_entry_on">Portretni način dela vključen</string>
   <string name="pref_camera_portrait_mode_title">Portretni način</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Olepšanje v portretnem načinu dela</string>
+     <string name="pref_camera_predictive_shutter_description">Sledite gibanju, da zmanjšate zamegljenost fotografij otrok, hišnih ljubljenčkov in drugih aktivnih motivov</string>
+     <string name="pref_camera_predictive_shutter_title">Sledite gibanju</string>
   <string name="pref_camera_proximity_lock_summary">Zakleni dejanja dotika kadar se pospravi v žep</string>
   <string name="pref_camera_proximity_lock_title">Žepni način dela</string>
   <string name="pref_camera_quick_settings">Hitre nastavitve</string>

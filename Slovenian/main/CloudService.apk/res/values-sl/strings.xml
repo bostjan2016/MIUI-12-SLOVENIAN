@@ -124,6 +124,14 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="data_protection_title">Zaščita podatkov</string>
   <string name="deskclock_backup">Napravi var. kopijo ure</string>
   <string name="detect_sim_card">Poišči SIM kartico</string>
+     <string name="device_activation_card_cannot_get_yet">"Informacij ni bilo mogoče dobiti. Poskusite znova čez 3-5 dni."</string>
+     <string name="device_activation_card_description">"Prvo aktiviranje se registrira, ko se naprava prvič poveže z omrežjem (vključno z WiFi in mobilnimi omrežji, vendar ne omejeno nanje). Običajno traja nekaj časa, da registrirate prvo aktivacijo, zato je bolje, da počakate 3-5 dni po vzpostavitvi povezave z omrežjem, preden preverite stanje aktivacije.&lt;br>&lt;br>Aktivacija naprave je glavni dejavnik pri določanju obdobja veljavnosti naše podaljšane garancije. Preverite &lt;a href=%1$s>Pravilnik o vračilu, zamenjavi in popravilu&lt;/a> za več podrobnosti.&lt;br>&lt;br>Če imate kakršna koli vprašanja, pokličite našo telefonsko številko za podporo strankam: 400-100-5678."</string>
+     <string name="device_activation_card_description_china">"Prvo aktiviranje se registrira, ko se naprava prvič poveže z omrežjem (vključno z WiFi in mobilnimi omrežji, vendar ne omejeno nanje). Običajno traja nekaj časa, da registrirate prvo aktivacijo, zato je bolje, da počakate 3-5 dni po vzpostavitvi povezave z omrežjem, preden preverite stanje aktivacije.&lt;br>&lt;br> Preglejte &lt;a href=%1$s>Pravilnik o vračilu, zamenjavi in popravilu&lt;/a> za podrobnosti.&lt;br>&lt;br>Če imate kakršna koli vprašanja, pokličite našo telefonsko številko za podporo strankam: 400-100-5678."</string>
+     <string name="device_activation_card_device_not_support">Ni podprto v tej napravi</string>
+     <string name="device_activation_card_local_service_error">"Informacij ni bilo mogoče dobiti. Počakajte minuto ali dve in poskusite znova."</string>
+     <string name="device_activation_card_no_network_error">"Povezave z omrežjem ni bilo mogoče vzpostaviti. Preverite omrežne nastavitve in poskusite znova."</string>
+     <string name="device_activation_card_title">Prva aktivacija</string>
+     <string name="device_activation_page_title">Aktiviranje naprave</string>
   <string name="disable_find_device_error">"Ne morem izklopiti opravila Najdi napravo. %1$s"</string>
   <string name="disable_find_device_success">"Najdi napravo" je izključeno.</string>
   <string name="do_not_merge">Prekliči</string>
@@ -719,8 +727,16 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
      <string name="provision_next">Naprej</string>
      <string name="provision_skip_underline">Preskoči</string>
   <string name="provision_sync_items_loading">Priprava za sinhronizacijo stvari</string>
+     <string name="quick_service_after_sale_policy_title">Pravila</string>
+     <string name="quick_service_after_sale_service_title">Storitve</string>
+     <string name="quick_service_authenticity_check_title">Preverjanje pristnosti</string>
+     <string name="quick_service_maintenance_price_title">Popravila</string>
+     <string name="quick_service_title">Hitre storitve</string>
   <string name="reading_status">Odčitavanje statusa…</string>
   <string name="reading_status_failure">"Ne morem odčitati statusa."</string>
+     <string name="recommend_service_cloudservice_description">Sinhroniziraj sistemske podatke aplikacije, varnostne kopije nastavitev, postavitev začetnega zaslona in še več</string>
+     <string name="recommend_service_sharelocation_description">Poišči, zakleni in izbriši podatke na manjkajočih napravah ter delite lokacijo s prijatelji in družino</string>
+     <string name="recommend_service_title">Priporočene storitve</string>
   <string name="remind_later">Kasneje</string>
   <string name="restoreSync">Sinhroniziraj zdaj</string>
      <string name="retain_data_high_quality_photo_waring_message">Visokokakovostne slike bodo po odjavi izbrisane iz vaše galerije. Ustrezne izvirne datoteke bodo še vedno shranjene v oblaku. Izvirne datoteke lahko prenesete tudi pred odjavo.</string>
@@ -909,7 +925,12 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
      <string name="sync_off_confirm_content">"Po izklopu upravitelja gesel ne boste mogli sinhronizirati novih gesel."</string>
      <string name="sync_off_confirm_title">Pozor</string>
   <string name="sync_on">Vklop</string>
+     <string name="sync_page_autofill_login">Prijavite se v Mi račun, če želite uporabljati upravitelja gesel</string>
      <string name="sync_page_autofill_title">Upravitelj gesel</string>
+     <string name="sync_page_route_message">Upravitelj gesel vam omogoča šifriranje gesel in njihovo shranjevanje v oblaku. Vklopim upravitelja gesel zdaj?</string>
+     <string name="sync_page_route_not_now">Ne, hvala</string>
+     <string name="sync_page_route_ok">Vklopi</string>
+     <string name="sync_page_route_remember">"Ne kaži več"</string>
   <string name="sync_resend_sms_dspt_provision">" Če zamenjate SIM kartico, vam bo operater zaračunal SMS uporabljen za ponovno aktiviranje te storitve."</string>
   <string name="sync_setting_title">Nastavitve sinhronizacije</string>
   <string name="sync_sub_1_intl_sms">Mednarodni in domač SMS bo poslan za povezavo vaših SIM kartic s tem računom. Vaš operater vam bo to zaračunal.</string>

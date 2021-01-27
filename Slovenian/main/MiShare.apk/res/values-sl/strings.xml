@@ -65,6 +65,7 @@
   <string name="error_has_occurred">Napaka</string>
      <string name="error_mirror_working">"Med skupno rabo zaslona stvari ni mogoče dati v skupno rabo"</string>
     <string name="error_msg_network_error">Omrežna napaka. Poskusite ponovno.</string>
+     <string name="error_permission_denied">Če želite uporabljati to storitev, v nastavitvah podelite Mi Share vsa potrebna dovoljenja.</string>
     <string name="error_receive_file_cannot_read">Ne morem sprejeti datoteko</string>
     <string name="error_receive_file_changed">Ne morem sprejeti. Stvar se je zamenjala.</string>
   <string name="error_receive_file_file_opened">"Ne morem sprejeti to stvar. Kaže da je zdaj v uporabi."</string>
@@ -129,6 +130,7 @@ OPPO, vivo, realme in druge znamke pa bodo kmalu podprte z Mi Share. Spisek napr
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne morem naložiti"</string>
     <string name="multi_file_name">%1$s, %2$s</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
+     <string name="nearby_share">Skupna raba v bližini</string>
     <string name="no_longer_prompt">Blokiraj</string>
     <string name="no_longer_receive">Blokiram to napravo? Ne boste več mogli dobivate datotek iz nje.</string>
   <string name="not_set">Ni nastavljeno</string>

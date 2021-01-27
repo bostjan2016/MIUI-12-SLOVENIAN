@@ -1175,6 +1175,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="datausage_purchase_title_pkglist">Doplačilo</string>
   <string name="datausage_purchase_view_detail">Pokaži podrobnosti</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavite datum in uro</string>
   <string name="day_overflow_tips">Opozorilo o dnevni uporabi podatkov</string>
   <string name="debug_open_final_tip">Želite omogočiti odpravljanje napak preko USB?</string>
   <string name="debug_open_title">Ta funkcija je namenjena razvijalcem in morda ni primerna za splošne uporabnike. Z vklopom razhroščevanja USB lahko pride do naslednjih sprememb:</string>
@@ -3955,6 +3956,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="see_more_content">Posodobite igre da boste videli več</string>
      <string name="select_pattern">Izberi vzorec</string>
   <string name="select_province_and_city">Izberite lokacijo</string>
+     <string name="send">Pošlji</string>
   <string name="send_msg_to_query">Pošljite SMS za preverbo</string>
   <string name="set_applock_password">Nastavite geslo</string>
      <string name="set_complete">Uspešno nastavljeno</string>
