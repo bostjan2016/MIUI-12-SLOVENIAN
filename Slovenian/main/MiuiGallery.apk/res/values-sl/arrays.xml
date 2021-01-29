@@ -70,15 +70,18 @@
         <item>Tech</item>
      </string-array>
      <string-array name="magic_effects_video_titles">
-        <item></item>
-        <item>Obarvani obris</item>
-        <item>Neprekinjen obris</item>
-        <item>Fluorescenten obris</item>
-        <item>Senca v barvi</item>
+       <item></item>
+        <item>Barvni obris</item>
+        <item>Črtkani obris</item>
+        <item>Fluorescentni obris</item>
+        <item>Colored shadow</item>
         <item>Električni val</item>
         <item>Trenutno</item>
+        <item>Valovi</item>
+        <item>Delci</item>
         <item>Besedilo</item>
         <item>Krila</item>
+        <item>Angel</item>
      </string-array>
      <string-array name="magic_idp_size_category">
         <item>Splošno</item>

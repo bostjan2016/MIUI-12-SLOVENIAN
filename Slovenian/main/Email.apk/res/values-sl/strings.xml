@@ -35,6 +35,7 @@
      <string name="about_lasted_version">To je zadnja verzija</string>
   <string name="accessibility_guide_second">Nato kliknite v zgornjem desnem vogalu \"Sprejmi\" za nadaljevanje.</string>
      <string name="account_add_title">Izberite ponudnika pošte</string>
+     <string name="account_cache_provider">Ponudnik predpomnilnika računa</string>
   <string name="account_duplicate_dlg_message_fmt">To uporabniško ime že uporabljate za račun \"%s\".</string>
   <string name="account_duplicate_dlg_title">Podvojeni račun</string>
   <string name="account_failure">Napaka računa</string>
@@ -337,6 +338,7 @@
   <string name="chat_view_title">Pokaži pogovor</string>
   <string name="check_setup_data">Potrjevanje nastavitve strežnika…</string>
      <string name="choose_an_office365_international">Mednarodna izdaja</string>
+     <string name="choose_an_office365_provider">Izberite ponudnika storitev office365</string>
      <string name="choose_an_office365_sj">21Vianet izdaja</string>
   <string name="choosertitle_sharevia">Deli preko</string>
   <string name="clear">Počisti</string>
@@ -416,6 +418,7 @@
   <string name="conversation_cert_info_tips">Pošiljatelj je sporočilo podpisal z varnim certifikatom</string>
   <string name="conversation_cert_info_title">Podpisano</string>
   <string name="conversation_cert_trust">Verjemi podpisu</string>
+     <string name="conversation_content_provider">Ponudnik vsebine pogovora</string>
   <string name="conversation_detail_hide">Skrij</string>
   <string name="conversation_detail_show">Podrobnosti</string>
   <string name="conversation_folder_moved">Premaknjen v %1$s</string>
@@ -429,6 +432,7 @@
   <string name="conversation_quick_button_disapprove">Prekini</string>
   <string name="conversation_quick_button_received">Prejeto</string>
      <string name="conversation_report_spam">Prijavi spam</string>
+     <string name="conversation_report_un_spam">Ni spam</string>
      <string name="conversation_spam_dig_msg">Označim kot spam? Sporočilo bo premaknjeno v mapo\"Spam\" in njegov pošiljatelj bo dodan na seznam blokiranih.</string>
      <string name="conversation_spam_tips">Označim kot spam?</string>
   <string name="conversation_view">Prikaz pogovora</string>
@@ -516,6 +520,7 @@
   <string name="email_address">Naslov e-pošte</string>
   <string name="email_feedback_uri"/>
   <string name="email_netease">NetEase Mail</string>
+     <string name="email_no_snippet">[To sporočilo nima osnovnega besedila]</string>
   <string name="email_qq">QQ Mail</string>
   <string name="email_setting">Nastavitve E-pošte</string>
   <string name="email_setting_keywords">Računi;Dodaj račun;računi E-pošte;Dodaj račun E-pošte;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
@@ -655,6 +660,8 @@
   <string name="general_preference_text_zoom_normal">Normalno</string>
   <string name="general_preference_text_zoom_small">Majhno</string>
   <string name="general_preference_text_zoom_tiny">Najmanjše</string>
+     <string name="general_preference_trash_contact">Preverjanje neželjene pošte</string>
+     <string name="general_preference_trash_contact_sum">Ravnanje s pismi pošiljateljev, o katerih so poročali v velikem številu</string>
   <string name="generic_attachment_problem">"Datoteke ni mogoče pripeti."</string>
   <string name="get_database_exception">"Izbrišite podatke te aplikacije v Nastavitve &gt; Aplikacije sistema in poskusite ponovno."</string>
   <string name="get_oauth_code">Dobi kodo</string>
@@ -1476,6 +1483,7 @@ Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizira
   <string name="wait_for_sync_title">Čakaj na sinhr.</string>
   <string name="wait_help_context">Na čakanju</string>
   <string name="wait_while_update_db">Počakajte trenutek med nadgradnjo baze podatkov!</string>
+     <string name="web_view_load_error_tip">Prišlo je do nekaterih težav in telesa tega e-poštnega sporočila ni mogoče pravilno prikazati. Če naletite na to težavo, dodajte skupino QQ 952315061, da nam pošljete povratne informacije.</string>
   <string name="webview_logout">Ali res odstopate od prijave? Pridite in poskusite ponovno!</string>
   <string name="webview_logout_cancel">"Ne želim več poizkušati"</string>
   <string name="webview_logout_sure">Poizkusi še enkrat</string>
