@@ -1116,7 +1116,6 @@ za fotografije"</string>
   <string name="gigabyteShort">GB</string>
   <string name="grain">Zrnatost filma</string>
   <string name="grant_permission_go_and_set">Nastavi</string>
-     <string name="grant_permission_item">\"%s\"</string>
      <string name="grant_permission_text">"Galerija za normalno delo potrebuje dostop do 
 %s
  za delovanje, pritisni \"Nastavi\" za dostop do dovoljenj."</string>
