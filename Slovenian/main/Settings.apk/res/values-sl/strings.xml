@@ -10179,6 +10179,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="users_summary">Prijavljeni ste kot %1$s</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
+  <string name="var_font_switch_title">Sistemsko spremenljiva pisava</string>
   <string name="verify_applications">Potrdi aplikacije</string>
   <string name="verify_applications_summary">Onemogoči namestitev zlonamernih aplikacij ali opozori na njih</string>
     <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije nameščene preko ADB/ADT škodljive.</string>

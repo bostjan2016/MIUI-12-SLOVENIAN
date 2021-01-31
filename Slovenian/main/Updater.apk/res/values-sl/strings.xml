@@ -12,6 +12,7 @@
   <string name="btn_pause">Premor</string>
   <string name="btn_share">Skupna raba</string>
   <string name="btn_stop">Ustavi</string>
+     <string name="btn_wrong_md5">Napaka MD5, kliknite da odstranite ROM!</string>
      <string name="btn_yes">Da</string>
   <string name="channel_downloading">Napredek prenosov</string>
   <string name="channel_service">Storitev v ozadju</string>

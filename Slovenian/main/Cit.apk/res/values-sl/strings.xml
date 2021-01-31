@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+     <string name="ANT_set_title">nastavi ANT</string>
+     <string name="DSI_configuration_set">nastavi DSI</string>
+     <string name="DSI_setting">DSI</string>
+     <string name="DSI_value_get">dobite DSI</string>
   <string name="FpTest">Zaženi FpTest</string>
   <string name="FpTest_result">FpTest rezultat:</string>
   <string name="SDCard">SD Kartica</string>
@@ -19,6 +23,16 @@
   <string name="abc_activitychooserview_choose_application">Izberi aplikacijo</string>
   <string name="abc_capital_off">IZKLJUČENO</string>
   <string name="abc_capital_on">VKLJUČENO</string>
+     <string name="abc_menu_alt_shortcut_label">Alt+</string>
+     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+     <string name="abc_menu_delete_shortcut_label">delete</string>
+     <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+     <string name="abc_menu_meta_shortcut_label">Meta+</string>
+     <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+     <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meni+</string>
   <string name="abc_search_hint">Preišči…</string>
   <string name="abc_searchview_description_clear">Izbriši zahtevo</string>
   <string name="abc_searchview_description_query">Zahteva za iskanje</string>
@@ -30,37 +44,75 @@
   <string name="abc_toolbar_collapse_description">Stisni</string>
   <string name="action_example">Primer opravila</string>
   <string name="action_nothing">Čakaj na test</string>
+     <string name="add">Dodaj</string>
   <string name="add_fingerprint">Dodaj prstni odtis</string>
+     <string name="afdcalibration_test">PRESKUS KALIBRACIJE AFD</string>
+     <string name="afdcalibrationrubberstamp_test">PRESKUS AFD KALIBRACIJE GUME</string>
+     <string name="afdrubberstamp_test">PRESKUS AFD GUME</string>
+     <string name="allow_gpu_maxfreq_summary">Preizkusni način GPU-ja lahko povzroči težave z napajanjem ali celo resnejše težave. Ko jih izklopite, bodo obnovljeni. Vklopite način GPU maxfreq?</string>
+     <string name="ant_setting">ant</string>
+     <string name="app_name">CIT</string>
+     <string name="audio_rule">Audio xml parser</string>
   <string name="audio_spk_cal_wait">Kalibriranje, počakajte…</string>
   <string name="audio_spk_def">Kalibriranje zvočnika</string>
+     <string name="back_mic_check_record_tip">Snemanje, prosim nekaj povejte v MIC na zadnji strani telefona</string>
+     <string name="band_config_setting">BAND</string>
   <string name="baterry_percent">"Napolnjenost baterije: "</string>
   <string name="baterry_temperature">"Temperatura baterije: "</string>
+     <string name="battery_dual_connector">Drugi priključek baterije</string>
+     <string name="battery_id">Baterija ID:</string>
   <string name="battery_info">Povezane informacije o polnjenju baterije</string>
+     <string name="battery_plug_wirelee_summary">Brezžični polnilnik vsake povezave, izključite enkrat</string>
+     <string name="battery_plug_wirelee_title">Preskus brezžičnega polnjenja</string>
+     <string name="battery_plugin_wirelee">Priključeno je brezžično polnjenje</string>
+     <string name="battery_plugout_wirelee">Priključite brezžično polnjenje</string>
+     <string name="battery_reverse_wireless_charge_success">povratno brezžično polnjenje uspešno</string>
+     <string name="battery_reverse_wireless_charge_summary">povratno brezžično polnjenje test</string>
+     <string name="battery_reverse_wireless_charge_time_out">povratno brezžično polnjenje čas potekel</string>
+     <string name="battery_reverse_wireless_charge_title">povratno brezžično polnjenje</string>
+     <string name="battery_value">Elektrika</string>
   <string name="begin_to_save_finger_data">Začetek shranjevanja prstnega odtisa</string>
+     <string name="bt_address">Naslov:</string>
+     <string name="bt_name">Ime:</string>
   <string name="button_cancel">Prekliči</string>
   <string name="button_ok">V redu</string>
   <string name="camera_capture">Snemaj</string>
   <string name="camera_done">Končano</string>
+     <string name="camera_error">"Naprava ne podpira Camera2 API."</string>
+     <string name="camera_not_support_raw10">Kamera ne podpira raw10 formata!</string>
+     <string name="camera_preview">predogled</string>
+     <string name="camera_projector">- Projektor -</string>
   <string name="camera_zoom">Zoom</string>
   <string name="camerainfo">Informacije o Kameri</string>
+     <string name="can_not_get_numbers_of_keys">ne morem dobiti številk tipk</string>
+     <string name="cancel">Prekliči</string>
   <string name="cancel_test">TEST PREKLICAN</string>
   <string name="capacitance_test">TEST KAPACITETE</string>
+     <string name="charger_test_end">"
+Konec preizkusa polnilnika, izklopite polnilnik"</string>
   <string name="checkerboard_test">TEST TABELE</string>
+     <string name="cit_OTG_plug_check_summary">Med preskusom vstavite in obrnite vtič v napravi USB_OTG</string>
+     <string name="cit_OTG_plug_check_title">OTG</string>
   <string name="cit_OTG_plugin_check_summary">Ko je vstavljena OTG naprava, bi moral tekst \"USB OTG naprava najdena\" biti prikazan v nadaljevanju.</string>
   <string name="cit_OTG_plugin_check_title">OTG (preverjanje)</string>
   <string name="cit_OTG_plugout_check_summary">Ko je odstranjena OTG naprava, bi moral tekst \"USB OTG naprava odstranjena\" biti prikazan v nadaljevanju .</string>
   <string name="cit_OTG_plugout_check_title">OTG (odstranjevanje)</string>
   <string name="cit_OTG_waiting_in">Vstavite USB OTG napravo</string>
+     <string name="cit_OTG_waiting_in_charge">Povežite napravo USB OTG zdaj</string>
   <string name="cit_OTG_waiting_out">Odstranite USB OTG napravo</string>
+     <string name="cit_Reserse_charge_check_title">Preskus povratnega polnjenja</string>
+     <string name="cit_SAR_TEST_TOOL">SAR TEST ZAČETEK</string>
   <string name="cit_abnormal_reboot_summary">Počakajte…Branje podatkov o stabilnosti na tej napravi.</string>
   <string name="cit_abnormal_reboot_title">Podatki o stabilnosti naprave</string>
   <string name="cit_ac_charger_in">AC Polnilec je priključen</string>
   <string name="cit_ac_charger_out">AC Polnilec je izključen</string>
+     <string name="cit_accdata_second_sensor_check_title">Drugi merilnik pospeška</string>
   <string name="cit_accdata_sensor_check_summary">V nadaljevanju bi se morale prikazati vrednosti koordinat X, Y, Z</string>
-  <string name="cit_accdata_sensor_check_title">Accelerometer</string>
+  <string name="cit_accdata_sensor_check_title">Merilnik pospeška</string>
   <string name="cit_accelermeter_sensor_check_summary">"Napravo hitro premikajte v eni smeri. X，Y，Z koordinatne vrednosti se prikažejo v nadaljevanju. (ko se telefon premika: X predstavlja levo/desno, y predstavlja pred/za, z predstavlja gor in dol).
 Pred kalibracijo naprave jo položite na ravno površino."</string>
   <string name="cit_accelermeter_sensor_check_title">Merilnik pospeška</string>
+     <string name="cit_analog_headset_plug_hint">Priključite analogne slušalke zdaj</string>
   <string name="cit_apk_signature_failed">Podpis aplikacije NEUSPEŠNO</string>
   <string name="cit_apk_signature_passed">Podpis aplikacije USPEŠNO</string>
   <string name="cit_aud_current_state">Trenutno stanje:</string>
@@ -72,11 +124,13 @@ Pred kalibracijo naprave jo položite na ravno površino."</string>
   <string name="cit_audio_cali_TEMP">Temp:</string>
   <string name="cit_audio_cali_done">Kalibriranje končano!</string>
   <string name="cit_audio_cali_failed">Kalibriranje ni uspelo, poskusite ponovno!</string>
+     <string name="cit_audio_cali_fast_test_title">Hiter test kalibracije ojačevalnika zvočnika</string>
   <string name="cit_audio_cali_file_existed">Glasbena datoteka ne obstaja, ne morem kalibrirati!</string>
   <string name="cit_audio_cali_playing">Preverite kalibrirane podatke</string>
   <string name="cit_audio_cali_q">Q:</string>
   <string name="cit_audio_cali_summary">Kalibriranje PA zvočnika</string>
   <string name="cit_audio_cali_t0">T0:</string>
+     <string name="cit_audio_cali_test_summary">Pred kalibracijo zvočnika se prepričajte, da zvočnik ne predvaja</string>
   <string name="cit_audio_cali_title">Test kalibriranja PA zvočnika</string>
   <string name="cit_audio_calibrating">Kalibriranje poteka…</string>
   <string name="cit_audio_check_summary">Audio Info.</string>
@@ -107,7 +161,7 @@ Obrnite, govorite v zgornji mikrofon, morali bi slišati glas v zvočniku"</stri
 "</string>
   <string name="cit_audio_left_calfail">Levo PA kalibriranje ni uspelo!</string>
   <string name="cit_audio_loopback_check_one_title">Testiranje mikrofona za poslušanje</string>
-  <string name="cit_audio_loopback_check_summary_first">Testiranje se bo izvršilo s povratno zanko glavnega mikrofona
+  <string name="cit_audio_loopback_check_summary_first">"Testiranje se bo izvršilo s povratno zanko glavnega mikrofona
 
 Držite telefon kot da kličete, govorite v glavni mikrofon in morali bi slišati glas iz sprejemnika."</string>
   <string name="cit_audio_loopback_check_summary_second">"Testiranje drugega zvočnika mikrofona.
@@ -133,6 +187,11 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
 1. Pritisni tipko Zoom da vstopite v meni Kamere
 2. Pritisni tipko zumiranja na pogledu Kamere, okvir za pogled se bo približal
 3. Pritisni ikono Končano."</string>
+     <string name="cit_aux_camera_check_summary_no_zoom">"Navodila za preizkus:
+
+1.Pritisnite spodnji gumb Predogled, da vstopite v vmesnik kamere
+2.Počakajte konec predogleda, samodejna vrnitev."</string>
+     <string name="cit_back_light_sensor_check_title">Senzor zadnje luči</string>
   <string name="cit_back_pointer_location_title">Zadnji senzor dotika</string>
   <string name="cit_battery_check_summary">Statistika baterije naprave</string>
   <string name="cit_battery_check_title">Podatki o bateriji</string>
@@ -173,12 +232,35 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
   <string name="cit_camera_fast_check_title">Hitro testiranje kamere</string>
   <string name="cit_camera_rearsub">Poteka preverjanje zadnje sekundarne kamere, počakajte…</string>
   <string name="cit_camera_sdcard_error">"Ne morem posneti fotografije. SD kartica je polna."</string>
+     <string name="cit_camerasfr_test">Razčlenjevanje slike, počakajte....</string>
+     <string name="cit_charge_usb_dcp">Polnjenje：USB_DCP</string>
+     <string name="cit_charge_usb_hvdcp">Polnjenje：USB_HVDCP</string>
+     <string name="cit_charge_usb_pd">Polnjenje：USB_PD</string>
+     <string name="cit_charger_check_title">Test polnilnika</string>
+     <string name="cit_charger_in">Polnilnik priključen</string>
+     <string name="cit_charger_in_check_title">Preskus vstavljanja polnilnika</string>
   <string name="cit_charger_plugin_check_summary">Kadar je USB polnilec priključen bi se moral pokazati tekst\"Polnjenje preko USB/AC\" .</string>
   <string name="cit_charger_plugin_check_title">Polnilec (priključite)</string>
   <string name="cit_charger_plugout_check_summary">Kadar USB polnilec ni priključen bi se moral pokazati tekst \"USB/AC polnilec ni priključen\" .</string>
   <string name="cit_charger_plugout_check_title">Polnilec (ni priključen)</string>
+     <string name="cit_charger_test_summary">"Med preizkusom polnilnika prosimo, da naprej priključite polnilnik
+in obrnite polnilnikr"</string>
+     <string name="cit_charger_test_tips_electric">Trenutni projekt mora preizkusiti trenutno polnilno vrednost večjo od 1A</string>
+     <string name="cit_charger_test_tips_hvdcp">Trenutni projekt mora preizkusiti USB_HVDCP</string>
+     <string name="cit_charger_test_tips_pd">Trenutni projekt mora preizkusiti USB_PD</string>
   <string name="cit_charger_waiting_in">Priključite polnilec</string>
   <string name="cit_charger_waiting_out">Izključite polnilec</string>
+     <string name="cit_def_torch_on_one">Vklopite prvo bliskavico</string>
+     <string name="cit_def_torch_on_three">Vklopite tretjo bliskavico</string>
+     <string name="cit_def_torch_on_two">Vklopite drugo bliskavico</string>
+     <string name="cit_depth_camera_check_title">Globinska kamera</string>
+     <string name="cit_diag_chaging_summary">Kopirajte datoteke poročil polnjenja na sd kartico</string>
+     <string name="cit_diag_chaging_title">Pokaži poročila polnjenja</string>
+     <string name="cit_diag_chaging_wait">Počakajte ... Kopiranje datotek</string>
+     <string name="cit_diag_jank_summary">Kopiraj smeti datotek poročil na sd card</string>
+     <string name="cit_diag_jank_title">Pokaži smeti datotek poročil</string>
+     <string name="cit_diag_signal_summary">Kopirajte datoteke zapisovalnika stabilnosti signala na sd card</string>
+     <string name="cit_diag_signal_title">Pokaži zapisovalnik stabilnosti signala</string>
   <string name="cit_dial_emergencycall">Kliči 112</string>
   <string name="cit_display_check_summary">Preverite ali je potrebna BMP datoteka na SD kartici. Potrdite da se barve dosledno prikazujejo čez cel zaslon. Prepričajte se se da ni nepravilnih svetlih točk in temnih madežev.</string>
   <string name="cit_display_check_title">Zaslon</string>
