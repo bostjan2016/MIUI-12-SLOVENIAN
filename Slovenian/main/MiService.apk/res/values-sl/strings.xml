@@ -31,6 +31,7 @@
      <string name="afternoon">Popoldne</string>
      <string name="am">AM</string>
   <string name="clearable_edittext_clear_description">Očisti</string>
+     <string name="copy">Kopiraj</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavite datum in uro</string>
      <string name="early_morning">Jutro</string>

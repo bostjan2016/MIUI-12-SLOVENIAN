@@ -43,6 +43,7 @@
   <string name="Setting_lock">Nastavitve</string>
   <string name="Settings_title_anti_spam">Nastavitve seznama blokad</string>
   <string name="Settings_title_anti_virus">Nastavitve Varnostnega preverjanja</string>
+     <string name="Settings_title_anti_virus_kddi">Nastavitve Varnostnega preverjanja</string>
   <string name="Settings_title_garbage_cleanup">Nastavitve čiščenja</string>
   <string name="Settings_title_network_assistants">Nastavitve porabe podatkov</string>
   <string name="Settings_title_power_center">Nastavitve optimizacije baterije</string>
@@ -120,6 +121,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="activate_fingerprint_dialog_title">Vnesite geslo</string>
   <string name="activity_title_antispam">AntiSpam</string>
   <string name="activity_title_antivirus">Varnost</string>
+     <string name="activity_title_antivirus_kddi">Varnostni pregled</string>
   <string name="activity_title_apps_manager">Aplikacije</string>
   <string name="activity_title_auto_start_manager">Samodejni zagon</string>
   <string name="activity_title_create_shortcut">Uredi bližnjice</string>
@@ -226,10 +228,13 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">"Za učinkovitejše odkrivanje in nevtralizacijo virusov bomo prenesli imena in lastnosti aplikacijskih paketov, da jih skeniramo z uporabo mehanizma v oblaku."</string>
   <string name="antivirus_privacy_dialog_ok">V redu</string>
   <string name="antivirus_privacy_dialog_summary"><Data>To storitev poganja neodvisni protivirusni mehanizem. Če želite izvedeti več, preberite &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> ki jih ponuja tretja oseba.</Data></string>
+     <string name="antivirus_privacy_dialog_summary_kddi"><Data>"Ko izvedete varnostni pregled, se model vaše naprave in rezultati pregleda prenesejo v %1$s strežnike in se uporabljajo skladno z &lt;a href=\"%2$s\">Pogoji in pravila&lt;/a>.&lt;br/>&lt;br/>Preberite in se strinjajte z %3$s pogoji pred pregledom.&lt;br/>&lt;br/>Če se ne strinjate z nalaganjem podatkov na %4$s strežnike, definicije virusov lahko še vedno uporabljate lokalno, shranjene v vaši napravi."</Data></string>
   <string name="antivirus_privacy_dialog_summary_link">Prikaz Pravil o zasebnosti</string>
   <string name="antivirus_privacy_dialog_title">Pravila o zasebnosti</string>
+     <string name="antivirus_privacy_dialog_title_kddi">Pogoji in pravila</string>
   <string name="antivirus_sec_network_unavailable">"Aplikacija Varnost ne more posodobiti ker ste omejili spletno povezavo. Dovolim aplikaciji povezavo na splet?"</string>
   <string name="antivirus_sec_support">Ponujeno od %s</string>
+     <string name="antivirus_third_privacy_title">Pravila o zasebnosti drugih proizvajalcev</string>
   <string name="antivirus_toast_already_update">Vse je posodobljeno</string>
   <string name="antivirus_toast_network_unavailable">Ne morem se povezati na omrežje</string>
   <string name="antivirus_toast_update_failed">Ne morem posodobiti</string>
@@ -2321,6 +2326,7 @@ Vaša naprava je zdaj %d%% hitrejša."</string>
   <string name="menu_summary_power_manager_4">%s do konca polnjenja</string>
   <string name="menu_text_antispam">Seznam blokad</string>
   <string name="menu_text_antivirus">Varnost</string>
+     <string name="menu_text_antivirus_kddi">Varnostni pregled</string>
   <string name="menu_text_deepclean_summary">%1$s/%2$s zasedeno</string>
   <string name="menu_text_garbage_cleanup">Čiščenje</string>
   <string name="menu_text_garbage_cleanup_danger">%s smeti</string>

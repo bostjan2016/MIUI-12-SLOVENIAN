@@ -703,6 +703,7 @@ Izbor"</string>
   <string name="connected_via_passpoint">Povezano preko %1$s</string>
   <string name="connected_via_wfa">Povezano preko WiFi pomočnika</string>
   <string name="content_description_menu_button">Meni</string>
+     <string name="control_center_notification_switch_guide">Povlecite za preklop med Centrom za kontrolo in Ploščo obvestil</string>
      <string name="control_quick_settings_tiles_super_save">gps,nfc,posnetek zaslona,vibriraj</string>
      <string name="controls_added_tooltip">Pridržite gumb za vklop / izklop, da prikažete nove kontrolnike</string>
      <string name="controls_confirmation_confirming">Ratifikacija…</string>

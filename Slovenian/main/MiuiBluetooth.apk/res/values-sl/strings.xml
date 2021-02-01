@@ -774,6 +774,7 @@ Shramba poverilnic mogoče ni omogočena"</string>
   <string name="wifi_wapi_user_certificate">Uporabniški certifikat</string>
   <string name="wifi_whitelist_roaming_summary">Omogoči gostovanje med različnimi SSID WPA/WPA2‑PSK AP-i z istim MAC naslovom</string>
     <string name="window_animation_scale_title">Merilo animacije okna</string>
+     <string name="xiaomi_account_bt_sync_name">Bluetooth</string>
     <string name="zen_alarm_warning">Naslednjega alarma ob %1$s ne boste slišali</string>
     <string name="zen_alarm_warning_indef">Naslednjega alarma ob %1$s ne boste slišali, razen če prej izklopite to nastavitev</string>
     <string name="zen_alarms_introduction">Ne bodo vas motili zvoki ali vibriranje, razen v primeru alarmov. Še vedno pa boste slišali vse, kar se boste odločili predvajati, vključno z glasbo, videoposnetki in igrami.</string>

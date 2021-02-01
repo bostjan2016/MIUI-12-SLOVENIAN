@@ -28,11 +28,11 @@
     <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
+     <string name="access_limit">Omejitve dostopa</string>
+     <string name="access_tips">"Do stvari ni mogoče dostopati. Poskusite uporabiti Android Storage Access Framework."</string>
     <string name="account_bind_prompt">"Prestavljam podatke uporabnika… 
     To lahko traja nekaj minut"</string>
   <string name="account_login_title">Račun</string>
-  <string name="access_limit">Omejitve dostopa</string>
-  <string name="access_tips">"Do stvari ni mogoče dostopati. Poskusite uporabiti Android Storage Access Framework."</string>
   <string name="action_mode_deselect_all">Prekliči izbrano</string>
   <string name="action_mode_select_all">Izberi vse</string>
   <string name="actionbar_button_up_description">Nazaj</string>
@@ -135,6 +135,8 @@
   <string name="category_type_other">Ostalo</string>
   <string name="category_video">Videoposnetki</string>
   <string name="category_zip">Arhivi</string>
+     <string name="cdd_message">"Zaradi omejitev Androida 11 v aplikaciji Raziskovalec ne boste mogli videti nekaterih datotek, ustvarjenih v aplikacijah drugih proizvajalcev.."</string>
+     <string name="cdd_title">Pozor</string>
   <string name="change_mobile_network_message">Prestavljeno na mobilne podatke. Nadaljevanje prenosa datotek bo porabilo veliko podatkov, ali ste prepričani da želite nadaljevati?</string>
   <string name="change_sticker">Izberite drugo nalepko</string>
      <string name="character_counter_content_description">Vnešeno znakov %1$d od %2$d</string>
@@ -553,6 +555,7 @@
   <string name="migrate_update_msg">Kuaipan je posodobljen v MI drive, da vam nudi boljšo izkušnjo.</string>
   <string name="migrate_update_title">Kuaipan je posodobljen v MI drive</string>
      <string name="mirror_can_not_drag_mask">Povlecite, da uporabite Mi Share</string>
+     <string name="mirror_can_not_drag_mask_new">Povlecite stvari v %s</string>
      <string name="mirror_new_name">Napravi mapo (%s)</string>
      <string name="mirror_new_name_first">Napravi mapo</string>
 	 <string name="mirror_no_recommended_app">Ni priporočenih aplikacij</string>
@@ -564,6 +567,7 @@
      <string name="mirror_side_bar_tab_mine_name">Mi Share</string>
      <string name="mirror_side_bar_tab_phone_name">Shramba mobilnega telefona</string>
      <string name="mirror_side_bar_tab_recent_name">Nedavno</string>
+     <string name="mirror_side_bar_tab_tranfer_name">Premiki &amp; prenosi</string>
      <string name="mirror_side_bar_tab_type_name">Datoteke</string>
      <string name="mirror_storage_internal_desc">Shramba mobilnega telefona</string>
      <string name="mirror_tip_add_file">Napravi mapo</string>
@@ -955,9 +959,9 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>
   <string name="qq_msg">"Zaradi omejitev Android 11 Raziskovalec ne more dostopati do dokumentov QQ in jih prikazati."</string>
-  <string name="qq_title">"Nimam dostopa do QQ dokumentov"</string>
   <string name="qq_not_installed">"QQ ni nameščen"</string>
   <string name="qq_platform">QQ</string>
+     <string name="qq_title">"Nimam dostopa do QQ dokumentov"</string>
   <string name="quota_info">MiDrive: %1$s na voljo, %2$s skupaj</string>
   <string name="qzone_platform">Qzone</string>
   <string name="recent_show">Nedavno</string>
@@ -1237,8 +1241,10 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="topic_winners">Dosedanji dobitniki</string>
   <string name="trans_mobile_network_message">Uporaba mobilnih podatkov za prenos datotek bo porabila veliko podatkov, ali ste prepričani da želite nadaljevati?</string>
   <string name="trans_task">Omrežni prenos</string>
+     <string name="transfer">Premiki &amp; prenosi</string>
   <string name="transfer_done">Datoteke uspešno premeščene.</string>
   <string name="transfer_private_data">Premeščanje skritih datotek iz SD kartice…</string>
+     <string name="transfer_summary">Prenosi in stvari, naložene preko Mi Share</string>
   <string name="transing">Pošiljam</string>
   <string name="trash_box_capacity">Koš %1$s</string>
   <string name="trash_box_link">Za izpraznitev koša obiščite &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
@@ -1444,8 +1450,8 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="wechat_btn_str">WeChat</string>
   <string name="wechat_login_btn_str">WeChat</string>
   <string name="wechat_msg">"Zaradi omejitev Android 11 Raziskovalec ne more dostopati do dokumentov, predogledanih v WeChatu, in jih prikazati. Odprite in shranite dokumente v WeChat, da bodo prikazani tukaj."</string>
-  <string name="wechat_title">"Nimam dostopa do WeChat dokumentov"</string>
   <string name="wechat_platform">WeChat</string>
+     <string name="wechat_title">"Nimam dostopa do WeChat dokumentov"</string>
   <string name="wechat_video">Video na %s</string>
   <string name="wednesday">Sreda</string>
   <string name="wednesday_short">Sre</string>

@@ -4001,6 +4001,7 @@ Ko vklju훾ite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="haptic_switch_title">Hapti훾na povratna inf.</string>
      <string name="haptic_text_edit_popup_13_content_description">Pop-up meni</string>
      <string name="haptic_upper_right_menu_15_content_description">Padajo훾i meni</string>
+     <string name="haptic_video_content_description">Demo video o hapti훾nih povratnih informacijah</string>
      <string name="haptic_volume_adjustment_14_content_description">Nastavljanje glasnosti</string>
   <string name="hardkeyboard_category">Nastavitve fizi훾ne tipkovnice</string>
     <string name="hardware_info">Model in strojna oprema</string>
@@ -5018,6 +5019,7 @@ kot PIN za Prvi prostor"</string>
   <string name="lte_ram_dump_off">Izklopi izpis RAM-a za LTE</string>
   <string name="lte_ram_dump_on">Vklopi izpis RAM-a za LTE</string>
   <string name="macaddr_label">MAC naslov:</string>
+     <string name="magic_window_name">Razdeljeno okno</string>
   <string name="mah">%d mAh</string>
   <string name="main_netcheck_summary">Testiraj omre탑je za te탑ave s povezovanjem</string>
   <string name="main_running_process_description">Glavni proces je v uporabi.</string>
@@ -11164,6 +11166,7 @@ Shramba poverilnic morda ne bo omogo훾ena"</string>
   <string name="wizard_back">Nazaj</string>
   <string name="wizard_finish">Dokon훾aj</string>
   <string name="wizard_next">Naprej</string>
+     <string name="wlan_scanner_unresizeble">"Ne morem prikazati WiFi nastavitve v Deljenem zaslonu"</string>
   <string name="wlan_to_cellular_hint_title">WiFi-&gt;Mobilni nasvet</string>
   <string name="words_title">Besedilo</string>
     <string name="work_alarm_ringtone_title">Privzeti delovni zvok alarma</string>
