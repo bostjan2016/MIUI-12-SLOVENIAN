@@ -186,6 +186,8 @@
     <string name="app_pa_setting_private_policy">Pravila o zasebnosti</string>
     <string name="app_pa_setting_service_commute">Vožnja</string>
     <string name="app_pa_setting_service_commute_summary">Za gradnjo navigacijskih poti in zagotavljanje avtomobilskih storitev</string>
+     <string name="app_pa_setting_service_covid">COVID-19 informacije</string>
+     <string name="app_pa_setting_service_covid_summry">Oglejte si najnovejše informacije o COVID-19</string>
     <string name="app_pa_setting_service_forecast">Pametni predlogi</string>
     <string name="app_pa_setting_service_forecast_summary">"Prejemajte predloge aplikacij in funkcij, ki jih boste najverjetneje uporabljali"</string>
     <string name="app_pa_setting_service_management">Urejaj storitve</string>

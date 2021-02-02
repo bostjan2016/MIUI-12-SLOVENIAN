@@ -48,9 +48,9 @@
   <string name="bluetooth_sap_notif_message">Želite nastaviti zahtevo klientu da naj prekine povezavo?</string>
   <string name="bluetooth_sap_notif_ticker">Pristop SIM-u z Bluetoothom</string>
   <string name="bluetooth_sap_notif_title">Pristop SIM-u z Bluetoothom</string>
+     <string name="bluetooth_search_for_devices">Išči naprave</string>
   <string name="bt_audio_share_notification_content">Tapnite za prikaz možnosti</string>
   <string name="bt_audio_share_notification_title">Deljenje zvoka</string>
-  <string name="bluetooth_search_for_devices">Išči naprave</string>
   <string name="bt_enable_cancel">Prekliči</string>
   <string name="bt_enable_line1">Za uporabo Bluetootha ga najprej vklopite.</string>
   <string name="bt_enable_line2">Vklopim Bluetooth?</string>
@@ -135,8 +135,8 @@
   <string name="not_exist_file">Ni datotek</string>
   <string name="not_exist_file_desc">"Datoteka ne obstaja.
 "</string>
-  <string name="notice_audio_share_disconnected">Zvok se ne deli več zaradi prekinjene povezave</string>
   <string name="noti_caption">%1$s uspešno, %2$s neuspešno.</string>
+     <string name="notice_audio_share_disconnected">Zvok se ne deli več zaradi prekinjene povezave</string>
   <string name="notification_received">Bluetooth deljenje: Prejeto %1$s</string>
   <string name="notification_received_fail">Bluetooth deljenje: Datoteka %1$s ni prejeta</string>
   <string name="notification_receiving">Bluetooth deljenje: Prejemanje %1$s</string>
@@ -174,6 +174,7 @@
   <string name="repair_for_phonebook_access_version_comp">Ponovno seznanite za združljivost verzije dostopa do stikov</string>
   <string name="reset_function_msg">Ponastavitev te nastavitve lahko prepreči normalno delo %1$s.</string>
   <string name="sharedUserId"/>
+     <string name="snapdragon_sound_notification_content">Ta naprava podpira Qualcomm® Snapdragon Sound™ tehnologijo</string>
   <string name="some_app_taking">(%1$s že uporablja to opravilo…)</string>
   <string name="start_server">Zaženi TCP server</string>
   <string name="status_canceled">Prenos preklican s strani uporabnika.</string>

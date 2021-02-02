@@ -28,11 +28,13 @@
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
      <string name="actionbar_button_up_description">Nazaj</string>
+     <string name="afternoon">Popoldne</string>
   <string name="agree_description">Dovolite aplikaciji da se poveže na splet da lahko uporabite vse njene možnosti.</string>
   <string name="alert_message_clear_records">Izbrišem izbrane posnetke?</string>
   <string name="alert_message_delete_local_record">Izbrišem ta posnetek?</string>
   <string name="alert_message_delete_record">Brisanje posnetka z vaše naprave bo izbrisal ta posnetek v Mi Cloudu. Izbrišem zdaj?</string>
   <string name="alert_message_delete_record_title">Izbriši posnetek</string>
+     <string name="am">AM</string>
   <string name="app_name">Snemanje</string>
   <string name="app_record">Posnetki aplikacij</string>
   <string name="app_record_preference_title">Posnetki aplikacij</string>
@@ -48,6 +50,7 @@
      <string name="clear_data_dialog_title">Želite takoj izbrisati podatke?</string>
   <string name="clear_records">Izbriši sinhronizirane zapise</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
+     <string name="close">Zapri</string>
   <string name="cloud_record">Sinhronizirano %d</string>
   <string name="cloud_record_open">Sinhr. posnetkov</string>
   <string name="cloud_record_tip">Sinhr. posnetkov z Mi Cloudom.</string>
@@ -60,6 +63,7 @@
   <string name="data_connection_body">Z uporabo mobilne podatkovne povezave in prenosom se bo povečala uporaba podatkov. Če greste čez mejo uporabe podatkov vašega zakupa lahko vaš ponudnik zaračuna dodaten strošek.</string>
   <string name="data_connection_button_text">V redu</string>
   <string name="data_connection_title">Opozorilo uporabe podatkov</string>
+     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
   <string name="delete">Izbriši</string>
   <string name="delete_cloud_data_at_same_time">Izbriši tudi iz Mi Clouda</string>
@@ -73,6 +77,7 @@
   <string name="duration_format_hour">%sh</string>
   <string name="duration_format_minute">%sm</string>
   <string name="duration_format_second">%ss</string>
+     <string name="early_morning">Jutro</string>
   <string name="empty_recognition_tip">Prazno</string>
   <string name="error_app_internal">Preverite če druga aplikacija trenutno uporablja opravilo snemanja.</string>
   <string name="error_app_internal_title">Napaka na zvočnem snemanju</string>
@@ -81,6 +86,7 @@
   <string name="error_filename_too_long">Ime datoteke je predolgo.</string>
   <string name="error_sdcard_access">Ne morem dostopati do pomnilnika</string>
   <string name="error_sdcard_unmounted">Vstavite SD kartico </string>
+     <string name="evening">Večer</string>
   <string name="expand_button_title">Napredno</string>
   <string name="export_to_note">Izvozi v Beležko</string>
      <string name="friday">Petek</string>
@@ -108,6 +114,7 @@
   <string name="mi_account_msg">Prijavite se z računom Mi, če želite prepisovati datoteke v oblaku in dobiti prvih 60 minut brezplačno.</string>
   <string name="mi_account_ok">Prijavite se</string>
   <string name="mi_account_title">Prijavite se z Mi računom</string>
+     <string name="midnight">Noč</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
   <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
   <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
@@ -177,14 +184,17 @@
   <string name="month_september_short">Sep</string>
   <string name="month_september_shortest">S</string>
   <string name="more">Več</string>
+     <string name="morning">Jutro</string>
   <string name="network_tip_dialog_cancel">Prekini</string>
   <string name="network_tip_dialog_content">Program za prepoznavanje govora potrebuje spletno povezavo za normalno delo.</string>
   <string name="network_tip_dialog_ok">Dovoli</string>
   <string name="network_tip_dialog_title">Potrebna je spletna povezava</string>
   <string name="network_unavailable_tip">Povežite se na omrežje in poskusite znova.</string>
   <string name="new_record_name">Nov posnetek</string>
+     <string name="night">Večer</string>
   <string name="no_file">Prazno</string>
   <string name="no_network">"Ne morem se povezati na omrežje"</string>
+     <string name="noon">Poldne</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="notification_message_all_paused">Čakam na povezavo WiFi.</string>
   <string name="notification_playback">Predvajanje...</string>
@@ -196,12 +206,15 @@
   <string name="pause">Odmor</string>
   <string name="playback_delete_records">Izbriši posnetek</string>
   <string name="playback_share_records">Deli posnetek</string>
+     <string name="pm">PM</string>
      <string name="preference_clear_data">Izbriši</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="preference_enable_earpiece_summary">Uporabi zvočnik za zunanje predvajanje</string>
   <string name="preference_enable_earpiece_title">Uporabi zvočnik za predvajanje avdia</string>
   <string name="preference_led_indicator">Obvestila na zaklenjem zaslonu</string>
   <string name="preference_led_indicator_prompt">Med snemanjem kaži bližnjico v obvestilni vrstici stanja ter utripajočo lučko.</string>
+     <string name="preference_online_orders">Spletna naročila</string>
+     <string name="preference_recog_faqs">Pogosta vprašanja o spletnem prepisovanju</string>
      <string name="preference_recog_terms">Pogoji uporabe</string>
      <string name="preference_record_desktop_indicator_summary">Pokaži modri indikator na zač. zaslonu ko snemalec dela v ozadju</string>
      <string name="preference_record_desktop_indicator_title">Indikator zač. zaslona</string>
@@ -320,6 +333,7 @@
   <string name="search_scenes">Vrsta snemanja</string>
   <string name="search_silent_mode">Izključi zvok zvonjenja med snemanjem</string>
   <string name="search_tip_rename">Ročno poimenuj posnetek</string>
+     <string name="send">Pošlji</string>
      <string name="service_instructions">O iflyrec.com</string>
   <string name="share">Deli</string>
   <string name="share_dialog_title">Deli z uporabo</string>
@@ -357,6 +371,8 @@
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s lahko snemam za toliko %2$s</string>

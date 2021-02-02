@@ -2358,6 +2358,9 @@ Vaša naprava je zdaj %d%% hitrejša."</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
      <string name="miuix_appcompat_cancel_description">Prekliči</string>
+     <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
+     <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
+     <string name="miuix_appcompat_cloud_state_syncing">Sinhronizacija z Cloudom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči</string>
@@ -2391,6 +2394,7 @@ Vaša naprava je zdaj %d%% hitrejša."</string>
   <string name="monitor_app_add">Dodaj</string>
   <string name="monitor_app_more">Več</string>
   <string name="monitor_requests_from_pc">Urejanje namestitve aplikacij preko USB</string>
+     <string name="month">Mesec</string>
      <string name="month_april">April</string>
      <string name="month_april_short">Apr</string>
      <string name="month_april_shortest">A</string>
@@ -2418,6 +2422,9 @@ Vaša naprava je zdaj %d%% hitrejša."</string>
      <string name="month_may">Maj</string>
      <string name="month_may_short">Maj</string>
      <string name="month_may_shortest">M</string>
+     <string name="month_medium_april">Apr</string>
+     <string name="month_medium_august">Avg</string>
+     <string name="month_medium_december">Dec</string>
      <string name="month_november">November</string>
      <string name="month_november_short">Nov</string>
      <string name="month_november_shortest">N</string>
