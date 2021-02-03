@@ -7518,9 +7518,8 @@ Neuvožene podatke morate ponovno uvoziti."</string>
      <string name="screen_enhance_engine_ai_open">Izboljšajte slike</string>
      <string name="screen_enhance_engine_ai_pic_summary">Prepoznajte predmete (npr. rastline, živali, zgradbe) in dinamično prilagajanje prikaznih učinkov. Ta storitev nekoliko poveča porabo energije.</string>
      <string name="screen_enhance_engine_ai_title">AI izboljšanje slike</string>
-     <string name="screen_enhance_engine_memc_note">"Ko je vklopljena super ločljivost, ne morem izboljšati videoposnetkov. Če vklopite izboljšane videoposnetke, bo izklopljena super ločljivost."</string>
-     <string name="screen_enhance_engine_memc_note_1">Ta storitev rahlo poveča porabo energije.</string>
-     <string name="screen_enhance_engine_memc_note_2">Ta storitev deluje samo, če je orodje za video posnetke vklopljeno.</string>
+     <string name="screen_enhance_engine_memc_note_1">%d. Ta storitev rahlo poveča porabo energije.</string>
+     <string name="screen_enhance_engine_memc_note_2">%d. Ta storitev deluje samo, če je orodje za video posnetke vklopljeno.</string>
      <string name="screen_enhance_engine_memc_open">MEMC</string>
      <string name="screen_enhance_engine_memc_pic_summary">Videoposnetkom dodajte dodatne okvirje, da bo vsebina videti gladka in prehodna.</string>
      <string name="screen_enhance_engine_memc_title">MEMC</string>
