@@ -657,6 +657,8 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_tool_enable_3A_log">Omogoči zapis 3A Switch</string>
   <string name="cit_tool_enable_display_3A_log">Omogoči Display 3A log</string>
   <string name="cit_tool_exit_modem_mbn">Vrni na samod. MBN</string>
+     <string name="cit_tool_getting_expired">Potek veljavnosti!</string>
+     <string name="cit_tool_getting_wait">Pridobivam! Počakajte</string>
   <string name="cit_tool_log">Zapisi</string>
   <string name="cit_tool_log_bugreport">Poročilo o napakah</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -669,16 +671,49 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_tool_log_ril">RIL zapis</string>
   <string name="cit_tool_log_toast">Zapis shranjen v %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">Pripravljanje poročila o napakah… (lahko traja okoli 1 min.)</string>
+     <string name="cit_tool_mbn_default_notfiy">privzeti MBN</string>
+     <string name="cit_tool_mbn_no_default_notfiy">Ni privzetega MBN</string>
+     <string name="cit_tool_mbn_opt_help">"Navodila za uporabo:
+1. Koraki za aktiviranje MBN:
+Step 1: Izberite režo MBN za aktiviranje, ki je običajno prednostna pri dveh karticah, privzeto pa je dve kartice.
+Step 2: Za aktiviranje morate izbrati ime MBN. MBN, ki se pogosto uporablja, je vnaprej pripravljen na spustnem seznamu. Če ga ne najdete, lahko v iskalno polje vnesete ključno besedo imena MBN, ki se aktivira, in poiščete MBN, ki ga morate aktivirati.
+Step 3: Kliknite gumb Aktiviraj, da naložite izbrani MBN.
+2. Privzeti MBN sistema za obnovitev lahko dosežete s klikom na gumb Obnovi privzeti MBN.
+3. Prikaže lahko podatke MBN, naložene v trenutnem modemu.
+Prva vrstica prikazuje, ali je MBN, ki ga naloži trenutni modem, privzeti MBN sistema. (Nekateri izdelki morda niso integrirani v ustrezen vmesnik, v tej vrstici bo prikazano: Ni podprto)
+Druga vrstica prikazuje ime in številko različice privzetih MBN in Carrier MBN, ki sta trenutno naloženi v modemu. Naš po meri naložen MBN je Carrier MBN, SUB0 je kartica 1, SUB1 je kartica 2."</string>
+     <string name="cit_tool_mbn_path_select_hit">izberite celotno pot mbn:</string>
+     <string name="cit_tool_mbn_path_select_notice">ne najdete zgoraj? iščem tukaj? Kar zadeva mcfg, ct, eps ... itd</string>
+     <string name="cit_tool_mbn_recovery_default">Privzeti MBN za obnovitev</string>
   <string name="cit_tool_modem">Testno orodje MODEMA</string>
   <string name="cit_tool_modem_bugreport">MODEM Coredump</string>
+     <string name="cit_tool_modem_clear_empty">očisti</string>
   <string name="cit_tool_modem_cu_volte">China Union VoLTE</string>
   <string name="cit_tool_modem_cu_volte_no">Onemogoči CU VoLTE</string>
   <string name="cit_tool_modem_cu_volte_no_confirm">Onemogoči CU VoLTE, ponovno zaženite napravo.</string>
   <string name="cit_tool_modem_cu_volte_yes">Omogoči CU VoLTE</string>
   <string name="cit_tool_modem_cu_volte_yes_confirm">Omogoči CU VoLTE, ponovno zaženite napravo.</string>
+     <string name="cit_tool_modem_deactive_mbn">deaktivno</string>
   <string name="cit_tool_modem_exit_ftm">Zapri FTM</string>
+     <string name="cit_tool_modem_feature_config_cust">trenutna konfiguracija funkcije, kot sledi</string>
+     <string name="cit_tool_modem_feature_config_default">trenutna konfiguracija funkcije je privzeta</string>
   <string name="cit_tool_modem_mbn">Sprememba konfig. Modema</string>
+     <string name="cit_tool_modem_mbn_config_load_and_active">Orodje za nalaganje in aktiviranje konfiguracije MBN</string>
+     <string name="cit_tool_modem_mbn_opt_fail_notfiy">ni uspelo, znova zaženite telefon, da poskusite znova</string>
   <string name="cit_tool_modem_offline_log">Odpri/Zapri Offline Log</string>
+     <string name="cit_tool_modem_rf_ant_test">Testna nastavitev modema RF</string>
+     <string name="cit_tool_modem_test_clr">nastavite privzeto vrednost kode</string>
+     <string name="cit_tool_modem_test_device_value_set">spremeni stanje naprave</string>
+     <string name="cit_tool_modem_test_get">posodobi</string>
+     <string name="cit_tool_modem_test_mode">Nastavitev modemskega preskusnega načina</string>
+     <string name="cit_tool_modem_test_mode_closed">testni način zaprt</string>
+     <string name="cit_tool_modem_test_mode_mismatch">preskusni način se ne ujema</string>
+     <string name="cit_tool_modem_test_mode_opened">testni način odprt</string>
+     <string name="cit_tool_modem_test_mode_select">Izberite Testni Način:</string>
+     <string name="cit_tool_modem_test_mode_set">Potrdite nastavitev</string>
+     <string name="cit_tool_modem_test_rf_ant">RF Ant</string>
+     <string name="cit_tool_modem_test_set">potrdite</string>
+     <string name="cit_tool_modem_test_will_set">bo odprl testni način in znova zagnal</string>
   <string name="cit_tool_nfc">NFC Testiranje</string>
   <string name="cit_tool_nfc_ce_disable">Onemogoči Ce</string>
   <string name="cit_tool_nfc_ce_enable">Omogoči Ce</string>
