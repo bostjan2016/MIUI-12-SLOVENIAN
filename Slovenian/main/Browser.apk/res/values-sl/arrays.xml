@@ -91,6 +91,10 @@
          <item>Izbriši</item>
          <item>Ne hvala</item>
      </string-array>
+	  <string-array name="suggestion_topic_tips">
+        <item>Poglej Fokus</item>
+        <item>Centralna težava</item>
+     </string-array>
 	   <string-array name="suggestion_weather_condition_message">
     <item>Vedro</item>
     <item>Rahla oblačnost</item>

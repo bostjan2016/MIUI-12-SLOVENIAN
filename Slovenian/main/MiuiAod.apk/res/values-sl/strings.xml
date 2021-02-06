@@ -36,6 +36,12 @@
   <string name="add_custom_image">Lastna slika</string>
   <string name="add_from_album">Dodaj iz Galerije</string>
   <string name="afternoon">PM</string>
+     <string name="align_center_horizontally">Vodoravno in poravnano</string>
+     <string name="align_center_vertically">Navpično in poravnano</string>
+     <string name="align_left_horizontally">Vodoravno in poravnano levo</string>
+     <string name="align_left_vertically">Navpično in poravnano levo</string>
+     <string name="align_right_horizontally">Vodoravno in poravnano desno</string>
+     <string name="align_right_vertically">Navpično in poravnano desno</string>
   <string name="align_type">Poravnaj</string>
   <string name="always_style">Zmeraj</string>
   <string name="always_style_symmary">Porabi več energije</string>

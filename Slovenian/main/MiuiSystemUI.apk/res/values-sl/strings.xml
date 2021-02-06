@@ -1839,7 +1839,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="phone_locked_foget_password_method_next">Naprej</string>
   <string name="phone_locked_foget_password_ok">Razumem</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">Izključite napravo, pritisnite in držite &lt;font color="#a5220e"&gt;tipko za vklop&lt;/font&gt; in &lt;font color="#a5220e"&gt;Glasnost +&lt;/font&gt;istočasno dokler ne vidite Mi logo.</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">Izberite &lt;font color="#a5220e"&gt;\"Izbriši &amp;amp; ponastavi\"&lt;/font&gt; in počakajte ponovni zagon.</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">Izberite &lt;font color="#a5220e"&gt;\"Izbriši &amp;amp; prekliči\"&lt;/font&gt; in počakajte ponovni zagon.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kako izbrisati podatke?</string>
   <string name="phone_locked_string">Telefon je zaklenjen</string>
     <string name="picture_color_mode">Način barv slike</string>

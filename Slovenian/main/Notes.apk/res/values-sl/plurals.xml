@@ -81,6 +81,10 @@
          <item quantity="other">čez %d min</item>
          <item quantity="one">čez 1 minuto</item>
     </plurals>
+     <plurals name="item_terms">
+        <item quantity="other">%1$s stvari</item>
+        <item quantity="one">%1$s stvar</item>
+     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Prav zdaj</item>
     </plurals>

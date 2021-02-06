@@ -2859,7 +2859,7 @@ Težavo lahko odpravite tako, da izklopite ugotavljanje lokacije za to aplikacij
   <string name="dialog_restrict_positive">Prekini</string>
   <string name="dialog_speaker_auto_clean_button">Razumem</string>
   <string name="dialog_speaker_auto_clean_content">"Čiščenje traja 30 sekund. Ne zapuščajte strani. Maksimalno povečajte glasnost zvoka za najboljši učinek."</string>
-  <string name="dialog_speaker_auto_clean_title">Pažnja</string>
+  <string name="dialog_speaker_auto_clean_title">Pozor</string>
     <string name="dialog_stop_message">"Telefon ne more ustrezno upravljati porabe energije akumulatorja, ker aplikacija %1$s ohranja telefon prebujen.
 
 Težavo lahko poskusite rešiti tako da zaustavite aplikacijo.
@@ -7518,6 +7518,7 @@ Neuvožene podatke morate ponovno uvoziti."</string>
      <string name="screen_enhance_engine_ai_open">Izboljšajte slike</string>
      <string name="screen_enhance_engine_ai_pic_summary">Prepoznajte predmete (npr. rastline, živali, zgradbe) in dinamično prilagajanje prikaznih učinkov. Ta storitev nekoliko poveča porabo energije.</string>
      <string name="screen_enhance_engine_ai_title">AI izboljšanje slike</string>
+     <string name="screen_enhance_engine_memc_note">"Ko je vklopljena super ločljivost, ne morem izboljšati videoposnetkov. Če vklopite izboljšane videoposnetke, bo izklopljena super ločljivost."</string>
      <string name="screen_enhance_engine_memc_note_1">%d. Ta storitev rahlo poveča porabo energije.</string>
      <string name="screen_enhance_engine_memc_note_2">%d. Ta storitev deluje samo, če je orodje za video posnetke vklopljeno.</string>
      <string name="screen_enhance_engine_memc_open">MEMC</string>

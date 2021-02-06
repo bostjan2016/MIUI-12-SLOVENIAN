@@ -2,6 +2,7 @@
 <resources>
   <string name="Approval">Odobritev</string>
   <string name="Enhance">Izboljšano</string>
+     <string name="Fullmask_mode">Maskirano</string>
      <string name="WeChatqr_code_auto_processing">Odpri WeChat</string>
   <string name="Xiaomi_account_pending_approval">Pregled prijave</string>
   <string name="abc_action_bar_home_description">Pojdi na začetno</string>
@@ -38,6 +39,7 @@
   <string name="access_sd_fail">"Ne morem dostopiti do SD kartice"</string>
   <string name="accessibility_shutter_button">Sprožilec</string>
   <string name="action_search">Išči</string>
+     <string name="actionbar_button_up_description">Nazaj</string>
   <string name="add">Dodaj</string>
   <string name="address">Naslov:</string>
      <string name="adjustment_area">Prilagodi</string>
@@ -78,9 +80,12 @@
   <string name="cars_suitability">"Ujemanje: "</string>
   <string name="cars_title">Skenirajte avtomobil ali del avtomobila</string>
   <string name="carshome_data">Tehnično podporo ponuja Autohome Inc.</string>
+     <string name="change_phone_number">Zamenjajte številko telefona</string>
+     <string name="change_wifi_info">Zamenjajte omrežne podrobnosti</string>
   <string name="character_counter_content_description">Presežena je omejitev števila znakov %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Presežena je omejitev števila znakov %1$d od %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
+     <string name="check_WI_FI">Najdeno WiFi omrežje</string>
   <string name="check_for_updates">Preveri za Beta posodobitve</string>
   <string name="choose_open_code_app">Izberite aplikacijo</string>
   <string name="choose_pay_title">Odaberi način plačanja</string>
@@ -99,14 +104,20 @@
   <string name="classes_titlt">Razpored ur</string>
   <string name="classes_topTitle">Skenirajte razpored svojega razreda</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
+     <string name="close">Zapri</string>
   <string name="close_hotspot_when_connecting_to_wifi">Hotspot je vključen. Vključite WiFi.</string>
+     <string name="code_always">Zapomni si</string>
+     <string name="code_determine">V redu</string>
+     <string name="code_result">Rezultati</string>
   <string name="common_retake_picture">Posnemi ponovno</string>
   <string name="common_retry">Poskusi ponovno</string>
   <string name="common_save">Shrani</string>
   <string name="company">Podjetje:</string>
   <string name="confirm">V redu</string>
+     <string name="connect_to_wifi">Poveži se na to omrežje</string>
   <string name="connect_wifi">Poveži se na to omrežje</string>
   <string name="contact_details">QR koda:</string>
+     <string name="content_desktop_uninstall">"Skener je sistemska aplikacija. Po odstranitvi aplikacije ne boste mogli uporabljati sorodnih storitev v brskalniku Mi, Kameri, Mi AI, Stikih in drugih sistemskih storitvah."</string>
   <string name="continue_access_web_url">Pojdi na spletno stran</string>
   <string name="continue_to_website">Pojdi na spletno stran</string>
   <string name="continue_waiting">Čakaj</string>
@@ -126,6 +137,7 @@
   <string name="crop__wait">Počakajte…</string>
   <string name="crop_cancel_description">Prekliči</string>
   <string name="crop_done_description">Končano</string>
+     <string name="crop_frame_you_selected_cannot_crop_this_picture">Rezalni štirikotnik ne more biti vdolbljen in največji kot ne sme biti večji od 140 stopinj</string>
   <string name="crop_title_study">Obreži fotografijo</string>
   <string name="crop_title_translation">Izberite besedilo za prevod</string>
   <string name="cropping">Obrezovanje…</string>
@@ -228,6 +240,7 @@
   <string name="general_plant">Morda iščete tole:</string>
   <string name="general_recognized">"Rezultat: "</string>
   <string name="general_title">Fotografirajte objekt za prepoznavanje</string>
+     <string name="general_wifi_data_wrong_data">Vnesite SSID in geslo</string>
   <string name="got_it">Razumem</string>
   <string name="gps">Navigacija</string>
   <string name="grant_permission">Odobrite dovoljenje</string>
@@ -238,7 +251,7 @@
   <string name="history">Zgodovina</string>
   <string name="history_empty">Prazno</string>
   <string name="hold_down">Pridržite, da sprejmete besedo</string>
-     <string name="identify_the_results">Prepoznaj rezultate</string>
+     <string name="identify_the_results">Rezultat</string>
   <string name="if_open_result">Pokaži rezultat skeniranja po vrnitvi v aplikacijo</string>
   <string name="if_to_open_milogo_scanning">Prepoznaj Xiaomi logo</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
@@ -279,6 +292,7 @@
      <string name="language_value_korean">korean</string>
      <string name="language_value_spanish">spanish</string>
   <string name="limit_exceeded">Izberite do %d znakov</string>
+     <string name="link_to_network">Poveži</string>
   <string name="local_ocr_recognition">Lokalno OCR prepoznavanje</string>
   <string name="local_ocr_recognition_str">Preklopljeno na prevajanje brez povezave</string>
      <string name="logistics">Expresna dostava</string>
@@ -299,6 +313,23 @@
   <string name="miracast_switch_off">Brezžični zaslon je izključen</string>
   <string name="miracast_switch_tip">Vključite brezžični zaslon za uporabo te storitve</string>
   <string name="mishop">Mi Store</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+  <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
+  <string name="miuix_appcompat_cancel_description">Prekliči</string>
+  <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
+  <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Sinhronizacija z Cloudom…</string>
+  <string name="miuix_appcompat_confirm_description">Potrdi</string>
+  <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
+  <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
+  <string name="miuix_appcompat_search_input_description">Išči</string>
+  <string name="miuix_appcompat_select_all">Izberi vse</string>
+  <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+  <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -491,7 +522,8 @@
   <string name="translate_text_compare">Primerjava</string>
   <string name="translate_text_compare_copy">Kopiraj</string>
   <string name="translate_text_compare_save">Shrani</string>
-  <string name="translate_try_again">Tapni za ponovni poskus</string>
+  <string name="translate_try_again">Prepričajte se, da je besedilo jasno vidno</string>
+     <string name="translate_try_agains">"Ne morem prepoznati sliko"</string>
   <string name="translate_type_take_pic">Fotografija</string>
   <string name="translation_language_chinese">Chinese</string>
   <string name="translation_language_english">English</string>
@@ -542,7 +574,7 @@
      <string name="wifi">WIFI</string>
   <string name="wifi_details">WiFi:</string>
   <string name="wifi_exist_fail">WiFi hotspot \"%1$s\" že obstaja. Izbrišite ga in poskusite ponovno.</string>
-     <string name="wifi_low_version_prompt">wifi zahteva</string>
+  <string name="wifi_low_version_prompt">WiFi je treba vključiti ročno</string>
   <string name="wifi_open_fail">"Ne morem vključiti WiFi"</string>
   <string name="wifi_psd_toolong">Geslo je predolgo. Vnesite ga ročno.</string>
   <string name="wifi_pwd">Geslo:</string>
@@ -555,6 +587,7 @@
   <string name="xiaoai_dialog">"Poskusite reči Mi AI
 kaj želite skenirati"</string>
   <string name="xiaoai_text">Tipka</string>
+     <string name="yesterday">Včeraj</string>
   <string name="you_have_permission_to_download">Tapnite za prenos beta verzije</string>
   <string name="you_id">"Vaša ID: "</string>
   <string name="your_application_is_under_review">" (Vaša prijava se pregleduje.)"</string>

@@ -722,10 +722,10 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
   <string name="todo_edit_btn_today">Danes</string>
   <string name="todo_edit_btn_tomorrow">Jutri</string>
   <string name="todo_edit_text_hint">Vnesite opis naloge</string>
-  <string name="todo_event_description_a_week_ago">Pred 1 tednom</string>
-  <string name="todo_event_description_a_week_later">Čez 1 teden</string>
-  <string name="todo_event_description_day_after_tomorrow">Čez 2 dni</string>
-  <string name="todo_event_description_day_before_yesterday">Pred 2 dnevoma</string>
+  <string name="todo_event_description_a_week_ago">Pred %1$d tednom</string>
+  <string name="todo_event_description_a_week_later">Čez %1$d teden</string>
+  <string name="todo_event_description_day_after_tomorrow">Čez %1$d dni</string>
+  <string name="todo_event_description_day_before_yesterday">Pred %1$d dnevoma</string>
   <string name="todo_event_description_today">Danes</string>
   <string name="todo_event_description_tomorrow">Jutri</string>
   <string name="todo_event_description_yesterday">Včeraj</string>
@@ -786,7 +786,7 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
   <string name="toolbar_undo_description">Razveljavi</string>
   <string name="toolbar_voice_description">Glas</string>
   <string name="trash_folder_name">Smeti</string>
-  <string name="trash_folder_reminder">Izbrisane beležke bodo trajno odstranjene čez 30 dni.</string>
+  <string name="trash_folder_reminder">Izbrisane beležke bodo trajno odstranjene čez %1$d dni.</string>
   <string name="trash_folder_reminder_new">Beležke se hranijo v košu %d dni, preden se trajno izbrišejo</string>
   <string name="tuesday">Torek</string>
   <string name="tuesday_short">Tor</string>
