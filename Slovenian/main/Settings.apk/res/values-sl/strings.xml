@@ -4320,7 +4320,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
     <string name="interact_across_profiles_number_of_connected_apps_none">Ni povezanih aplikacij</string>
     <string name="interact_across_profiles_summary_1">Povezane aplikacije si delijo dovoljenja in imajo dostop do podatkov povezanih aplikacij.</string>
     <string name="interact_across_profiles_summary_2">Povežite samo aplikacije, ki jim lahko zaupate osebne podatke. Delovne aplikacije lahko vaše osebne podatke prikažejo skrbniku za IT.</string>
-     <string name="interact_across_profiles_summary_3">U bilo kojem trenutku možete prekinuti vezu aplikacija u postavkama privatnosti uređaja.</string>
+     <string name="interact_across_profiles_summary_3">Kadarkoli lahko prekinete povezavo aplikacij v nastavitvah zasebnosti naprave.</string>
      <string name="interact_across_profiles_summary_allowed">Povezano</string>
      <string name="interact_across_profiles_summary_not_allowed">Nije povezano</string>
      <string name="interact_across_profiles_switch_disabled">Poveži aplikacije</string>
@@ -11203,7 +11203,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
     <string name="work_ringtone_title">Delovni ton zvonjenja</string>
   <string name="work_sim_title">Delovna kartica SIM</string>
   <string name="work_sound_permission_dialog_button_text_known">Razumem</string>
-  <string name="work_sound_permission_dialog_message">"Ne možete uporabiti Teme v Enterprise načinu. Obrnite se nadzorniku za dostop."</string>
+  <string name="work_sound_permission_dialog_message">"Ne morete uporabiti Teme v Enterprise načinu. Obrnite se nadzorniku za dostop."</string>
   <string name="work_sound_permission_dialog_title">Omejitve Enterprise načina</string>
     <string name="work_sound_same_as_personal">Kot v osebnem profilu</string>
   <string name="work_space_delete">Izbriši delovni prostor</string>

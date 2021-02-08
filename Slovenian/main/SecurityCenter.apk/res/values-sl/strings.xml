@@ -3923,7 +3923,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="saving_conflict_restrictbackground_msg">""Ne morem uporabljati varčevanje podatkov ko so podatki v ozadju omejeni. Dovolim podatke v ozadju in vključim Varčevanje podatkov?"</string>
   <string name="sc_allow_network_dialog_message">Omejili ste omrežno povezavo in dostop do lokacije za aplikacijo Varnost. Dajte aplikaciji potrebna dovoljenja za uporabo te storitve.</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne morem uporabljati te storitve"</string>
-  <string name="sc_system_risk_fix_info_xspace">To se ne može rešiti v Drugem prostoru. Poskusite ponovno v Prvem prostoru.</string>
+  <string name="sc_system_risk_fix_info_xspace">To se ne more rešiti v Drugem prostoru. Poskusite ponovno v Prvem prostoru.</string>
   <string name="sc_warning_updater_not_found">"Aplikacija Posodobitev ni najdena."</string>
   <string name="scan_installed_games">Preverjanje nameščenih iger…</string>
   <string name="scan_status_risk">Tvegano</string>
@@ -4391,7 +4391,7 @@ Za uporabo ^1 v tej napravi ga morate najprej vpeti."</string>
   <string name="storage_mount_failure">"Ne morem vpeti %1$s"</string>
   <string name="storage_mount_success">%1$s vpet</string>
   <string name="storage_space_release_hint">Rabite več prostora za shranjevanje?</string>
-  <string name="storage_unmount_failure">"Ne mogu izpeti %1$s"</string>
+  <string name="storage_unmount_failure">"Ne morem izpeti %1$s"</string>
   <string name="storage_unmount_success"> %1$s izpet</string>
   <string name="storage_wizard_format_confirm_v2_action">Formatiraj ^1</string>
   <string name="storage_wizard_format_confirm_v2_body">"Ta ^1 je treba formatirati za shranjevanje aplikacij, datotek in predstavnosti.

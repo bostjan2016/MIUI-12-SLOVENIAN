@@ -32,7 +32,7 @@
      <string name="activate_phone_failed_notif_title_sim">"Ne morem aktivirati %2$s s pomočjo SIM %1$d"</string>
      <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Mi Račun napravljen z uporabo SIM %d</string>
      <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">"Ne rem napraviti Mi Račun z uporabo SIM %d"</string>
-     <string name="activate_phone_server_failed_notif_title">"Ne mogu aktivirati %s"</string>
+     <string name="activate_phone_server_failed_notif_title">"Ne morem aktivirati %s"</string>
      <string name="activate_phone_server_success_notif_title">%s uspješno aktiviran</string>
   <string name="activate_phone_success_notif_title">SIM kartica aktivirana</string>
   <string name="activate_phone_success_notif_title_msim">SIM kartica %d aktivirana</string>

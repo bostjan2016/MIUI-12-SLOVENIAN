@@ -83,7 +83,7 @@
   <string name="copy">Kopiraj</string>
   <string name="copying_certs">Nastavljanje digitalnih potrdil</string>
   <string name="couldnt_set_up_device">Nastavljanje naprave ni uspelo. Kontaktirajte skrbnika.</string>
-  <string name="creditor_capabilities_header">%1$s može:</string>
+  <string name="creditor_capabilities_header">%1$s lahko:</string>
   <string name="default_first_meat_user_name">Primarni uporabnik</string>
   <string name="default_managed_profile_name">Delovni profil</string>
   <string name="default_owned_device_username">Uporabnik delovne naprave</string>

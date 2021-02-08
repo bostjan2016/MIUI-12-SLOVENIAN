@@ -38,7 +38,7 @@
   <string name="act_find_city_hot_attractions_title">Popularna mesta</string>
   <string name="act_find_city_hot_city_title">Popularna mesta</string>
   <string name="act_find_city_hot_title">Dodaj</string>
-  <string name="act_location_error_to_find_city">"Ne morem dobiti podatke o lokaciji. Možete dodati grad ručno."</string>
+  <string name="act_location_error_to_find_city">"Ne morem dobiti podatke o lokaciji. Dodajte mesto ročno."</string>
   <string name="act_set_city_find_side">Lociranje…</string>
   <string name="act_set_city_find_side_error">"Ne morem najti naprave"</string>
   <string name="act_weather_find_city_added">Dodano</string>

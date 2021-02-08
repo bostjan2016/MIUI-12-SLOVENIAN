@@ -301,7 +301,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="error_msg_no_network">Ni omrežne povezave. Preverite ali ste povezani na omrežje in poskusite ponovno.</string>
   <string name="error_msg_server_error">Strežnik trenutno ni dostopen. Poskusite ponovno kasneje.</string>
   <string name="error_msg_socket_timeout">Čas je potekel. Poskusite ponovno kasneje.</string>
-  <string name="error_msg_video_play_time_out">"Na žalost trenutno ne možemo predvajati ta videoposnetek. Poskusite ponovno kasneje."</string>
+  <string name="error_msg_video_play_time_out">"Na žalost trenutno ne moremo predvajati ta videoposnetek. Poskusite ponovno kasneje."</string>
   <string name="error_msg_video_play_time_out_title">Čas je potekel</string>
   <string name="error_no_content">Ni vsebine.</string>
   <string name="error_title">Info</string>
@@ -537,7 +537,7 @@ za videoposnetke"</string>
   <string name="lbl_connection_failed_alert_title">Ne morem se povezati</string>
   <string name="lbl_player_local_video_deleted_alert_dialog_text">Ne morem predvajati posnetka.</string>
   <string name="lbl_player_no_network">Ni omrežne povezave. Preverite ali povezani na omrežje in poskusite ponovno.</string>
-  <string name="lbl_player_response_failed_alert_dialog_text">"Žal nam je, vaša zahteva trenuto ne može biti končana. Poskusite ponovno kasneje."</string>
+  <string name="lbl_player_response_failed_alert_dialog_text">"Žal nam je, vaša zahteva trenuto ne more biti končana. Poskusite ponovno kasneje."</string>
   <string name="lbl_setting_playback_streaming_auto">Samod.</string>
   <string name="lbl_url_alert">Info</string>
   <string name="library_roundedimageview_libraryDescription">Hitri ImageView ki podpira zaobljene kote (in ovale ali kroge) na osnovi originalnega primera Romaina Guya.</string>
