@@ -38,4 +38,15 @@
         <item>EUR</item>
         <item>JPY</item>
      </string-array>
+	  <string-array name="unit_data_order_time_">
+        <item>let</item>
+        <item>teden</item>
+        <item>dan</item>
+        <item>h</item>
+        <item>min</item>
+        <item>s</item>
+        <item>ms</item>
+        <item>us</item>
+        <item>ps</item>
+     </string-array>
 </resources>
