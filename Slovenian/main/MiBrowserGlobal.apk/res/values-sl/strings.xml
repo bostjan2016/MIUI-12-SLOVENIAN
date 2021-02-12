@@ -1580,7 +1580,6 @@ Crash ID: http://crash/%1$s"</string>
     <string name="pref_content_night_read_mode">Nočni način</string>
     <string name="pref_content_search_engine">Iskalnik v statusni vrstici</string>
     <string name="pref_content_search_engine_summary">Izberi brskalnik</string>
-    <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
     <string name="pref_data_preload_value_always">ALWAYS</string>
     <string name="pref_data_preload_value_never">NEVER</string>
     <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
@@ -1606,14 +1605,12 @@ Crash ID: http://crash/%1$s"</string>
     <string name="pref_force_userscalable">Vsiljena povečava</string>
     <string name="pref_force_userscalable_summary">Zavrni zahtevo spletnega mesta za nadzor nad povečavo besedila</string>
     <string name="pref_general_title">Splošno</string>
-    <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
     <string name="pref_images_preload_value_always">2</string>
     <string name="pref_images_preload_value_never">0</string>
     <string name="pref_images_preload_value_wifi_only">1</string>
     <string name="pref_js_downloader">Prenesi slike in videe</string>
     <string name="pref_js_downloader_detail">Prikaži gumb za prenos na slikah in videoposnetkih s spletnih mest družbenih medijev</string>
     <string name="pref_key_gesture_title">Tipke &amp; kretnje</string>
-    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
     <string name="pref_link_prefetch_value_always">ALWAYS</string>
     <string name="pref_link_prefetch_value_never">NEVER</string>
     <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
@@ -1725,7 +1722,6 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
     <string name="pref_title_dns_prefetch">DNS prednastavitev</string>
     <string name="pref_ua_string">Niz uporabniškega agenta</string>
     <string name="pref_version_info">Podatki o različici</string>
-    <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
     <string name="pref_video_preload_value_always">ALWAYS</string>
     <string name="pref_video_preload_value_never">NEVER</string>
     <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
