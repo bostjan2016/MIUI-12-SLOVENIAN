@@ -1060,7 +1060,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="mw_common_google_play_services_update_button">Posodobi</string>
   <string name="mw_common_google_play_services_update_text">%1$s ne bo deloval če ne posodobite Google Play.</string>
   <string name="mw_common_google_play_services_update_title">Posodabljanje Google Playa</string>
-  <string name="mw_common_google_play_services_updating_text">%1$s ne bo deloval brez Google Playa koje se trenutačno ažuriraju.</string>
+  <string name="mw_common_google_play_services_updating_text">%1$s ne bo deloval brez Google Playa ki se trenutno posodablja.</string>
   <string name="mw_common_google_play_services_wear_update_text">Potrebna je nova verzija Google Playa.</string>
   <string name="mw_common_open_on_phone">Odpri na telefonu</string>
   <string name="mw_common_signin_button_text">Prijava</string>
