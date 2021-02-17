@@ -1342,7 +1342,7 @@ za fotografije"</string>
      <string name="magic_zidiyi">Po meri</string>
   <string name="main_discard_confirm_message">Imate neshranjene spremembe</string>
   <string name="main_discard_negative_btn">Zavrzi</string>
-  <string name="main_discard_positive_btn">Shrani &amp; Izidi</string>
+  <string name="main_discard_positive_btn">Shrani &amp; Izhod</string>
   <string name="main_save_cancel">Prekliči</string>
   <string name="main_save_compress">Stisni in shrani</string>
   <string name="main_save_error_msg">Ne morem shraniti zaradi napake</string>
