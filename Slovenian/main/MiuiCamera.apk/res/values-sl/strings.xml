@@ -314,11 +314,6 @@ in samodejno prilagodi nastavitve"</string>
   <string name="beauty_fragment_tab_name_beauty">Olepšaj</string>
   <string name="beauty_fragment_tab_name_makeup">Napredno</string>
      <string name="beauty_fragment_tab_name_makeups">Makeup</string>
-     <string name="beauty_level_1">1</string>
-     <string name="beauty_level_2">2</string>
-     <string name="beauty_level_3">3</string>
-     <string name="beauty_level_4">4</string>
-     <string name="beauty_level_5">5</string>
      <string name="beauty_makeups_bluefemale">Zmrzal</string>
      <string name="beauty_makeups_gentleman">Srebro</string>
      <string name="beauty_makeups_nude">Nudisti</string>
