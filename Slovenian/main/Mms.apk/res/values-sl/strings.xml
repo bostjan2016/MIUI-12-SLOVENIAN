@@ -867,6 +867,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
      <string name="rcs_chat_bot_subject">Lastnik: %1$s</string>
      <string name="rcs_chatbot_a2p_message">Prejeli ste sporočilo A2P. Dotaknite se za ogled podrobnosti.</string>
      <string name="rcs_chatbot_audio_message">Prejeli ste zvočno sporočilo. Dotaknite se za ogled podrobnosti.</string>
+     <string name="rcs_chatbot_blocked_tip">"Ta mini aplikacija je bila blokirana. Pogovora ni mogoče začeti."</string>
      <string name="rcs_chatbot_card_message">Prejeli ste vizitko. Dotaknite se za ogled podrobnosti.</string>
      <string name="rcs_chatbot_file_message">Prejeli ste datoteko. Dotaknite se za ogled podrobnosti.</string>
      <string name="rcs_chatbot_geo_message">Prejeli ste sporočilo z informacijami o lokaciji. Dotaknite se za ogled podrobnosti.</string>

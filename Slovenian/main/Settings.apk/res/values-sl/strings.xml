@@ -1453,6 +1453,8 @@ Možne napake:
     <string name="bluetooth_is_discoverable">Vidno vsem napravam Bluetooth v bližini (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">Vključeno: Vidno vsem napravam Bluetooth v bližini</string>
     <string name="bluetooth_is_visible_message">Naprava %1$s je vidna napravam v bližini, ko so odprte nastavitve za Bluetooth.</string>
+     <string name="bluetooth_le_audio_profile_summary_connected">Povezano z LE_AUDIO</string>
+     <string name="bluetooth_le_audio_profile_summary_use_for">Uporabi za LE_AUDIO</string>
   <string name="bluetooth_left_name">Levo</string>
     <string name="bluetooth_lock_voice_dialing">Zakleni glasovno klicanje</string>
     <string name="bluetooth_lock_voice_dialing_summary">Prepreči uporabo telefona Bluetooth, kadar je zaslon zaklenjen</string>
@@ -1682,7 +1684,7 @@ Avdio"</string>
   <string name="bootloader_status_locked">Zaklenjeno</string>
   <string name="bootloader_status_locked_info">Naprava je zaklenjena</string>
   <string name="bootloader_status_locked_summary">Telefon je zavarovan</string>
-  <string name="bootloader_status_privacy_dialog_message">Mi Unlock potrebuje dostop do Mi Računa, CPU ID-ju, IMEI, IMSI-u za normalno delovanje. Vaše podatke zbiramo in obdelujemo skladno z našim %s. Se strinate?</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock potrebuje dostop do vašega računa Mi, ID-ja CPU-ja in IMSI-ja za normalno delovanje. Preberite in se strinjajte z &lt;a href=\"%1$s\">Pravila o zasbnosti&lt;/a>. Se strinjate?</Data></string>
   <string name="bootloader_status_privacy_dialog_no">Prekliči</string>
   <string name="bootloader_status_privacy_dialog_title">Potrebno je dovoljenje</string>
   <string name="bootloader_status_privacy_dialog_url_text">Pravila o zasebnosti</string>
@@ -2083,19 +2085,19 @@ Ko napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dv
   <string name="color_calibration_srgb">sRGB</string>
     <string name="color_cyan">Cian</string>
      <string name="color_game_led_applications_title">Izberite aplikacije</string>
-     <string name="color_game_led_applications_title_summary">Za nekatere aplikacije lahko omejite uporabo LED luči</string>
+     <string name="color_game_led_applications_title_summary">Izberite posamezne aplikacije, ki bodo delovale z LED lučko</string>
      <string name="color_game_led_battery_title">Imejte vključeno med polnjenjem</string>
-     <string name="color_game_led_charging_summary">Izključilo se bo ko se baterija napolni</string>
-     <string name="color_game_led_end_time">Čas zaključka</string>
+     <string name="color_game_led_charging_summary">LED lučka bo izključena ko se baterija napolni</string>
+     <string name="color_game_led_end_time">Konec</string>
      <string name="color_game_led_game_mode_summary">Pokaži efekte za igre ko je Game Turbo vključen</string>
      <string name="color_game_led_game_mode_title">Uporabi za Game Turbo</string>
      <string name="color_game_led_incall_pulse_title">Uporabi za dohodne klice</string>
-     <string name="color_game_led_notification_pulse_title">Utripaj za obvestila, ko je zaslon izklopljen</string>
-     <string name="color_game_led_remind_title">Učinki opomnika</string>
+     <string name="color_game_led_notification_pulse_title">Utripaj za obvestila, ko je zaslon v načinu Vedno na zaslonu</string>
+     <string name="color_game_led_remind_title">Učinki</string>
      <string name="color_game_led_special_scene_title">Specialni učinki</string>
      <string name="color_game_led_start_time">Čas začetka</string>
      <string name="color_game_led_summary">"Ne dela v DND načinu"</string>
-     <string name="color_game_led_time_title">Čas vklopa LED svetlobe</string>
+     <string name="color_game_led_time_title">Razporedite pravočasno</string>
      <string name="color_game_led_title">LED svetloba</string>
   <string name="color_gray">Siva</string>
   <string name="color_green">Zelena</string>
@@ -2837,8 +2839,8 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s in prepreči
   <string name="dialog_check_button_negative">Poskusi ponovno</string>
   <string name="dialog_check_button_positive">Poveži se na WiFi</string>
   <string name="dialog_check_context">"Vaša naprava se zdaj ne more povezati na splet.
-1. Tapnite \"Poveži se na WiFi\" za izbiro omrežja na voljo.
-2. Če želite uporabiti mobilne podatke, tapnite \"Poskusi ponovno\" ali odstranite in ponovno vstavite SIM kartico."</string>
+. Tapnite \"Poveži se na WiFi\" za izbiro omrežja na voljo.
+. Če želite uporabiti mobilne podatke, tapnite \"Poskusi ponovno\" ali odstranite in ponovno vstavite SIM kartico."</string>
   <string name="dialog_check_title">"Ne morem se povezati na omrežje"</string>
   <string name="dialog_chose_item">Izberite stvar za prikaz</string>
   <string name="dialog_content_login">Se želite prijaviti v svoj Mi račun za posodobitve?</string>
@@ -3103,7 +3105,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
      <string name="dpp_cannot_connect_target">"Ne morem se povezati s ciljnim omrežjem"</string>
      <string name="dpp_connect_success">Povezano</string>
      <string name="dpp_not_support">"Ne morem deliti tega omrežja"</string>
-     <string name="dpp_qr_code_summary">Povežite se z WiFi s skeniranjem te QR kode.</string>
+     <string name="dpp_qr_code_summary">Prosite drugo osebo, naj skenira to kodo QR s pomočjo optičnega bralnika v nastavitvah Wi-Fi.</string>
      <string name="dpp_qrcode_generator_summary">Skenirajte to QR kodo z napravo ki podpira Easy Connect</string>
      <string name="dpp_scanner_summary">Postavite QR kodo znotraj okvira</string>
      <string name="dpp_shared_fail">"Ne morem deliti WiFi omrežja"</string>
@@ -3452,6 +3454,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="experience_optimization_category">Optimizacija</string>
   <string name="experimental_category_title">Poskusno</string>
   <string name="experimental_preference">(Poskusno)</string>
+     <string name="expert_detail_content_description">Pokaži podrobnosti</string>
   <string name="extended_power_menu">Razširjeni meni Vklop</string>
   <string name="exterior">Shema barv</string>
     <string name="external_code_size_label">Aplikacija na pogonu USB</string>
@@ -4572,6 +4575,8 @@ morate najprej napraviti iCloud var. kopijo"</string>
   <string name="later">Kasneje</string>
   <string name="lattice_smartcover_title">Rešetkasti sprednji pokrov</string>
   <string name="launch_ai_shortcut">Mi AI bližnjica</string>
+     <string name="launch_alipay_health_code">Zdravstvena koda Alipay</string>
+     <string name="launch_alipay_health_code_auto_close">Bližnjica do zdravstvene kode Alipay ni več na voljo. Lahko preklopite na drugo bližnjico.</string>
   <string name="launch_alipay_payment_code">Alipay koda plačila</string>
   <string name="launch_alipay_scanner">Alipay skener</string>
   <string name="launch_by_default">Privzeto odpiranje</string>
@@ -4590,6 +4595,8 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="launch_notification_center">Plošča obvestil</string>
   <string name="launch_recents">Zaženi Nedavno</string>
   <string name="launch_voice_assistant">Zaženi glasovni pomočnik</string>
+     <string name="launch_wechat_health_code">Zdravstvena koda WeChat</string>
+     <string name="launch_wechat_health_code_auto_close">Bližnjica do zdravstvene kode WeChat ni več na voljo. Lahko preklopite na drugo bližnjico.</string>
   <string name="launch_wechat_payment_code">WeChat koda plačila</string>
   <string name="launch_wechat_scanner">WeChat skener</string>
     <string name="launch_wifi_text">Ogled podrobnosti</string>

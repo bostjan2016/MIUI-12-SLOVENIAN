@@ -9,6 +9,15 @@
         <item>Merilo animacije: 5 x</item>
         <item>Merilo animacije: 10 x</item>
     </string-array>
+     <string-array name="animator_duration_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standardna omejitev</item>
         <item>Ni postopkov v ozadju</item>
@@ -17,6 +26,18 @@
         <item>Največ 3 postopki</item>
         <item>Največ 4 postopki</item>
     </string-array>
+     <string-array name="app_process_limit_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+     </string-array>
+     <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     <string-array name="battery_options">
          <item>Zmeraj pokaži odstotek</item>
 	     <item>Pokaži odstotek med polnjenjem (privzeto)</item>

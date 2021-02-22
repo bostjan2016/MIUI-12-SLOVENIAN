@@ -6,8 +6,10 @@
   <string name="all_call_livetalk_remain_mins">Preostalo minut: %1$s domači | %2$s mednarodni</string>
   <string name="always">Vedno</string>
   <string name="alwaysUsePrompt">"Zapomni si izbrano"</string>
+    <string name="application_cannot_open_alipay_health_code">"Zdravstvene kode Alipay ni bilo mogoče odpreti"</string>
   <string name="application_cannot_open_alipay_payment_code">"Ne morem odpreti kode za plačilo Alipay"</string>
   <string name="application_cannot_open_alipay_scanner">"Ne morem odpreti Alipay skener"</string>
+    <string name="application_cannot_open_weixin_health_code">"Zdravstvene kode WeChat ni bilo mogoče odpreti"</string>
   <string name="application_cannot_open_weixin_payment_code">"Ne morem odpreti kode za plačilo WeChat"</string>
   <string name="application_cannot_open_weixin_scanner">"Ne morem odpreti WeChat skener"</string>
   <string name="application_not_install_content">"Kaže, da aplikacija ki izvaja to dejanje, ni nameščena v vaši napravi. To aplikacijo lahko namestite ali dodelite drugo opravilo tej kretnji."</string>

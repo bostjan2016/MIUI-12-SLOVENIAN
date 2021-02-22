@@ -371,7 +371,7 @@ Tapnite + da napravite mapo"</string>
   <string name="menu_unhide">Odkrij</string>
   <string name="menu_unmark_privacy">Odkrij</string>
   <string name="menu_unstick">Odpni</string>
-  <string name="merge_to_folder">Izradi mapu</string>
+  <string name="merge_to_folder">Napravi mapo</string>
   <string name="midnight">AM</string>
      <string name="mind_note_first_enter_guide">Dotaknite se, da ustvarite miselno mapo</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
@@ -645,6 +645,10 @@ Tapnite + da napravite mapo"</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
      <string name="sync_all_terms">%1$s, %2$s, in %3$s</string>
+     <string name="sync_desc_state_complete">Sinhronizirano z oblakom</string>
+     <string name="sync_desc_state_complete_china">Vse %1$s sinhronizirano</string>
+     <string name="sync_desc_state_disable">Vklopite sinhronizacijo z oblakom</string>
+     <string name="sync_desc_state_running">Sinhronizacija z oblakom</string>
      <string name="sync_folder_todo">%1$s in %2$s</string>
      <string name="sync_note_folder">%1$s in %2$s</string>
      <string name="sync_note_todo">%1$s in %2$s</string>

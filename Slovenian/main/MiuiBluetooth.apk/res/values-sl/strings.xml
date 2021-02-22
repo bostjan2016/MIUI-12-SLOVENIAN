@@ -143,6 +143,8 @@
     <string name="bluetooth_hearingaid_right_pairing_message">Seznanjanje z desnim slušnim pripomočkom …</string>
     <string name="bluetooth_hid_profile_summary_connected">Povezava z vnosno napravo je vzpostavljena</string>
     <string name="bluetooth_hid_profile_summary_use_for">Uporabi za vnos</string>
+     <string name="bluetooth_le_audio_profile_summary_connected">Povezano z LE_AUDIO</string>
+     <string name="bluetooth_le_audio_profile_summary_use_for">Uporabi za LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Povezava je vzpostavljena z zemljevidom</string>
     <string name="bluetooth_map_profile_summary_use_for">Uporabi za zemljevid</string>
     <string name="bluetooth_opp_profile_summary_connected">Povezava s strežnikom za prenos datotek je vzpostavljena</string>
@@ -171,6 +173,7 @@
     <string name="bluetooth_profile_headset">Telefonski klici</string>
     <string name="bluetooth_profile_hearing_aid">Slušni pripomočki</string>
     <string name="bluetooth_profile_hid">Vnosna naprava</string>
+     <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">Sporočila SMS</string>
     <string name="bluetooth_profile_opp">Prenos datoteke</string>
     <string name="bluetooth_profile_pan">Spletni dostop</string>

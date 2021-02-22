@@ -557,6 +557,7 @@ Najdite in zaklenite napravo, če se izgubi."</string>
   <string name="micloud_request_permission_title">Mi Cloud potrebuje dovoljenje</string>
   <string name="micloud_request_sync_too_frequent">Preveč zahtev. Počakajte minuto ali dve in poskusite ponovno.</string>
   <string name="micloud_setting_antispam_summary">Izjeme in blokirane številke telefona.</string>
+     <string name="micloud_setting_bluetooth_summary">Sinhroniziraj podatke o seznanjenih napravah z oblakom</string>
   <string name="micloud_setting_browser_summary">Oznake, zgodovina in zavihki</string>
   <string name="micloud_setting_calendar_summary">Dogodki</string>
   <string name="micloud_setting_calllog_summary">Zgodovina klicev</string>
