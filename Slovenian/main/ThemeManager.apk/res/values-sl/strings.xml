@@ -342,6 +342,10 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="exo_download_notification_channel_name">Prenosi</string>
   <string name="exo_download_removing">Odstranitev prenosova</string>
   <string name="exo_track_mono">Mono</string>
+     <string name="exo_track_role_alternate">Alternativno</string>
+     <string name="exo_track_role_closed_captions">CC</string>
+     <string name="exo_track_role_commentary">Komentarji</string>
+     <string name="exo_track_role_supplementary">Dodatno</string>
   <string name="exo_track_selection_auto">Samodejno</string>
   <string name="exo_track_selection_none">Nič</string>
   <string name="exo_track_selection_title_audio">Zvok</string>

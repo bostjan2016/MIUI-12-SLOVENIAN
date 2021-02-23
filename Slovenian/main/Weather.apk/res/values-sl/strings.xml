@@ -326,6 +326,9 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
   <string name="miuix_appcompat_cancel_description">Prekliči</string>
+     <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
+     <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
+     <string name="miuix_appcompat_cloud_state_syncing">Sinhronizacija z Cloudom…</string>
   <string name="miuix_appcompat_confirm_description">Potrdi</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
   <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
@@ -346,6 +349,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="monday">Ponedeljek</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
+     <string name="month">Mesec</string>
   <string name="month_april">April</string>
   <string name="month_april_short">Apr</string>
   <string name="month_april_shortest">A</string>
@@ -373,6 +377,18 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="month_may">Maj</string>
   <string name="month_may_short">Maj</string>
   <string name="month_may_shortest">M</string>
+     <string name="month_medium_april">Apr</string>
+     <string name="month_medium_august">Kol</string>
+     <string name="month_medium_december">Dec</string>
+     <string name="month_medium_february">Feb</string>
+     <string name="month_medium_january">Jan</string>
+     <string name="month_medium_july">Jul</string>
+     <string name="month_medium_june">Jun</string>
+     <string name="month_medium_march">Mar</string>
+     <string name="month_medium_may">Maj</string>
+     <string name="month_medium_november">Nov</string>
+     <string name="month_medium_october">Okt</string>
+     <string name="month_medium_september">Sep</string>
      <string name="month_november">November</string>
      <string name="month_november_short">Nov</string>
   <string name="month_november_shortest">N</string>
@@ -483,6 +499,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="settings_atmospheric_pressure_mbar">Millibar (mbar)</string>
   <string name="settings_atmospheric_pressure_mmhg">Milimeter živega srebra (mmHg)</string>
   <string name="settings_atmospheric_pressure_title">Enote atmosferskega pritiska</string>
+     <string name="settings_trusted_tips">Samodejno se poveži z izbranimi napravami v bližini, ko sta vklopljena Bluetooth in WiFi</string>
   <string name="share">Deli</string>
   <string name="share_btn_cancel">Prekini</string>
   <string name="share_btn_confirm">Deli</string>
@@ -528,6 +545,10 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="sunset">Sončni zahod</string>
   <string name="temperature_normal_unit">%1$s°</string>
   <string name="thanku_for_feedback">Hvala za povratne informacije, lahko ponovno odprete vremenski video na strani z nastavitvami</string>
+     <string name="thursday">Četrtek</string>
+     <string name="thursday_short">Čet</string>
+     <string name="thursday_shortest">Č</string>
+     <string name="time_picker_dialog_title">Nastavi čas</string>
   <string name="title_share_link">Deli URL</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>

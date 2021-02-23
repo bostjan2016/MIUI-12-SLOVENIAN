@@ -162,6 +162,7 @@
   <string name="privacy_describe_location">Za iskanje računalnikov v bližini in prenos datotek</string>
   <string name="privacy_describe_record_audio">Za preusmeritev predvajanja zvoka v računalnik</string>
   <string name="privacy_describe_storage">Za pošiljanje in prejemanje datotek</string>
+     <string name="privacy_grant_or_revoke_settings">Preklic dovoljenja</string>
   <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
      <string name="relay_msg_photo_text">Uspešno shranjeno v galerijo</string>
      <string name="relay_msg_photo_title">Nova slika</string>

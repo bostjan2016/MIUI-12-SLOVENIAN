@@ -2080,6 +2080,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="preference_auto_ip_summary_disable">Izključeno</string>
     <string name="preference_category_ringtone">Zvonjenje in vibriranje</string>
     <string name="preference_copied">»%1$s« je bilo kopirano v odložišče.</string>
+     <string name="preference_countrycode_title">Koda države</string>
   <string name="preference_data_usage_summary">Nastavite vaš podatkovni plan za kontrolo uporabe mobilnih podatkov</string>
   <string name="preference_data_usage_title">Nastavite podatkovni plan</string>
   <string name="preference_dial_pad_touch_tone_default">Privzeto</string>
@@ -2463,6 +2464,8 @@ Vmesnik UT: %5$s"</string>
   <string name="send_button">Pošlji</string>
   <string name="send_keepalive_title">Pošlji ohranjanje povezave</string>
   <string name="send_order_failed">"Ne morem poslati naročila"</string>
+     <string name="sensor_answer_summary">Če želite samodejno sprejeti dohodni klic, telefon približajte ušesu</string>
+     <string name="sensor_answer_title">Dvignite da odgovorite</string>
   <string name="set_primary_summary">Uporabi za izhodne klice</string>
   <string name="set_primary_title">Nastavi kot primarni račun</string>
   <string name="set_smsc_address_error">"Ne morem nastaviti številke"</string>
@@ -2617,6 +2620,7 @@ Vmesnik UT: %5$s"</string>
     <string name="stk_cc_ss_to_dial_video_error">Zahteva SS je spremenjena v videoklic</string>
     <string name="stk_cc_ss_to_ss_error">Spremenjeno v novo zahtevo SS</string>
     <string name="stk_cc_ss_to_ussd_error">Zahteva SS je spremenjena v zahtevo USSD</string>
+     <string name="stk_name">USIM orodje</string>
   <string name="stock_quotes_disable">Borzni tečaji so izklopljeni</string>
   <string name="stock_quotes_enable">Borzni tečaji so vklopljeni</string>
     <string name="storage_category">Shramba</string>
@@ -2941,6 +2945,8 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="volte_switch_title">Uporabi VoLTE</string>
   <string name="volte_switch_title_ct">VoLTE</string>
   <string name="volte_tips_when_turn_on">Storitve China Telecom VoLTE so na voljo samo v področjih pokritih z LTE omrežjem.</string>
+     <string name="vonr_switch_summary">Uporabite VoNR za izboljšanje kvalitete glasovnih klicev</string>
+     <string name="vonr_switch_title">Uporabite VoNR</string>
   <string name="vowifi_emergency_notification_channel">WiFi klici opozorila v sili</string>
   <string name="vowifi_emergency_notification_content">Nujni klisi so na voljo samo v postajni pokritosti.</string>
   <string name="vowifi_emergency_notification_title">Vodafone WiFi povezovanje</string>

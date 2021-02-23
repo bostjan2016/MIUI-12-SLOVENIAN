@@ -4,6 +4,7 @@
     <string name="abc_action_bar_up_description">Gor</string>
     <string name="abc_action_menu_overflow_description">Več</string>
     <string name="abc_action_mode_done">Končano</string>
+     <string name="abc_action_mode_select_all">Izberi vse</string>
     <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
     <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
     <string name="abc_capital_off">IZKLOP</string>
@@ -90,6 +91,7 @@
     <string name="action_menu_text_snapshot">Shrani stran</string>
     <string name="action_menu_text_speed_test">Preveri omrežje</string>
     <string name="action_menu_text_video">Video</string>
+     <string name="action_menu_text_video_collection">Priljubljeni videi</string>
     <string name="action_menu_text_video_download">Prenesi videoposnetke</string>
     <string name="action_menu_text_web_mode">Namizni način</string>
     <string name="action_menu_toolbox">Orodja</string>
@@ -167,6 +169,7 @@
     <string name="autologin_bar_hide_text">Skrij</string>
     <string name="autologin_bar_login_text">Vpišite se</string>
     <string name="autologin_bar_text">Vpišite se kot</string>
+     <string name="back_button_label">Nazaj</string>
     <string name="back_description">Nazaj</string>
     <string name="back_home">Domača stran</string>
     <string name="batch_download_tip">Kaže, da se več stvari prenaša ob istem času. Želite ustaviti te prenose?</string>
@@ -307,6 +310,7 @@ Preklopite za ustavitev sinhronizacije."</string>
     <string name="com_facebook_device_auth_instructions">Obiščite &lt;b>facebook.com/device&lt;/b> in vnesite zgoraj prikazano kodo.</string>
     <string name="com_facebook_image_download_unknown_error">Nepričakovana napaka med prenosom slike.</string>
     <string name="com_facebook_internet_permission_error_message">Za prijavo v WebView je potrebno dovoljenje SPLET</string>
+     <string name="com_facebook_internet_permission_error_title">Napaka AndroidManifest</string>
     <string name="com_facebook_like_button_liked">Všeč mi je</string>
     <string name="com_facebook_like_button_not_liked">Všeč mi je</string>
     <string name="com_facebook_loading">Nalagam…</string>
@@ -921,6 +925,9 @@ Pošljite to kodo nadzorniku."</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
      <string name="miuix_appcompat_cancel_description">Prekliči</string>
+     <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
+     <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
+     <string name="miuix_appcompat_cloud_state_syncing">Sinhronizacija z Cloudom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
@@ -1218,6 +1225,13 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
     <string name="mw_miuichromium_error_page_wlan">Vklopi WiFi</string>
     <string name="mw_month_picker_dialog_title">Nastavi mesec</string>
     <string name="mw_no_matches">Ni ujemanj</string>
+     <string name="mw_notification_category_browser">Brskalnik</string>
+     <string name="mw_notification_category_downloads">Prenosi</string>
+     <string name="mw_notification_category_group_general">Splošno</string>
+     <string name="mw_notification_category_incognito">Anonimno</string>
+     <string name="mw_notification_category_media">Predstavnosti</string>
+     <string name="mw_notification_category_sites">Web strani</string>
+     <string name="mw_notification_hidden_text">Skrita vsebina</string>
     <string name="mw_older">Starejše</string>
     <string name="mw_opening_file_error">Izbrane datoteke ni mogoče odpreti</string>
     <string name="mw_permission_alert_window">Za uporabo te storitve dovolite prikaz pojavnih oken.</string>
@@ -1275,6 +1289,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
     <string name="news_loading">Nalaganje…</string>
     <string name="news_native_see_all">Celoten članek</string>
     <string name="next">Naprej</string>
+     <string name="next_button_label">Naprej</string>
     <string name="nf_choose_reason">Opišite težavo</string>
     <string name="nf_content_gif_label">GIF</string>
     <string name="nf_content_promo_label">ПРОМО</string>
@@ -2156,6 +2171,7 @@ Kadarkoli se lahko izpišete iz programa v Nastavitve > Zasebnost in varnost."</
     <string name="video_collect_cancel">Odstrani iz priljubljenih</string>
     <string name="video_collect_success">Dodano med priljubljene</string>
     <string name="video_collection_click_view">Videoposnetki, ki ste jih dodali med priljubljene so tukaj</string>
+     <string name="video_collection_done">Uspešno dodano. Lahko pogledate v \"Priljubljeni videi\".</string>
     <string name="video_collection_empty">Tukaj še ni videoposnetkov</string>
     <string name="video_collection_known">Razumem</string>
     <string name="video_collection_view">Prikaži</string>

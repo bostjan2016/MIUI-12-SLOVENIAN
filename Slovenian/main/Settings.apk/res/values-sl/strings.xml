@@ -1536,6 +1536,7 @@ Možne napake:
     <string name="bluetooth_profile_headset">Telefonski klici</string>
     <string name="bluetooth_profile_hearing_aid">Slušni pripomočki</string>
     <string name="bluetooth_profile_hid">Vnosna naprava</string>
+     <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
   <string name="bluetooth_profile_map">Uporablja se za dostop do sporočil</string>
   <string name="bluetooth_profile_opp">Prenos datoteke</string>
   <string name="bluetooth_profile_pan">Spletni dostop</string>
@@ -10589,6 +10590,10 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
   <string name="wifi_assistant_on">Vključeno</string>
   <string name="wifi_assistant_open_app">ODPRI APLIKACIJO</string>
   <string name="wifi_assistant_permission_accepted">“Google WiFi Asistentu” ste dali dovoljenje da vzpostavi VPN povezavo. To pomeni da aplikacija lahko nadzira omrežni promet.</string>
+     <string name="wifi_assistant_prompt">Ostani povezan</string>
+     <string name="wifi_assistant_prompt_button">Razumem</string>
+     <string name="wifi_assistant_prompt_checkbox">Prosi za dovoljenje za uporabo mobilnih podatkov</string>
+     <string name="wifi_assistant_prompt_summary">"Naprava se bo povezala z drugimi razpoložljivimi omrežji WiFi ali uporabila mobilne podatke, ko se trenutno omrežje WiFi ne more povezati na splet."</string>
   <string name="wifi_assistant_setting_summary">Google WiFi Asistent</string>
   <string name="wifi_assistant_setting_title">WiFi Asistent</string>
   <string name="wifi_assistant_setup">NASTAVI</string>
