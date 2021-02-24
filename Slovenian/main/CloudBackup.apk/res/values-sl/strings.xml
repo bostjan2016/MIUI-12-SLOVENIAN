@@ -238,8 +238,6 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="open_wifi_setting">WiFi nastavitve</string>
   <string name="other_device_main_space">Prvi prostor</string>
   <string name="other_device_second_space">Drugi prostor</string>
-     <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-     <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="process_whole_recovery">Obnavljam %s</string>
      <string name="provision_back">Nazaj</string>
