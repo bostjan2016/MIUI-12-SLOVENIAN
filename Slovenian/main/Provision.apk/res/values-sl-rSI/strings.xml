@@ -164,6 +164,7 @@
   <string name="other_settings_user_experience_summary">Pomagajte nam izboljšati proizvode in storitve s pošiljanjem podatkov o uporabi</string>
   <string name="other_settings_user_experience_summary1">Pokaži Pravila o zasebnosti</string>
   <string name="other_settings_user_experience_summary_index">Podrobnosti</string>
+  <string name="permission_MIUIDaemon_introduction">MIUI Daemon vam omogoča prenos podatkov iz naprave, ko je njen zaslon poškodovan.</string>
   <string name="permission_account">Dostop do računov v napravi:</string>
   <string name="permission_account_introduction">Za prijavo z uporabo Mi Računa</string>
   <string name="permission_application_package_introduction">Za dostop do shrambe zaradi analize in pregleda namestitvenih paketov</string>
@@ -196,6 +197,10 @@
   <string name="permission_picture_introduction">Za shranjevanje, urejanje in sinhronizacijo fotografij in videoposnetkov</string>
   <string name="permission_read_call_records">Urejanje zgodovine klicev:</string>
   <string name="permission_read_call_records_introduction">Za dodajanje stvari v zgodovino in brisanje blokiranih klicev</string>
+     <string name="permission_read_contacts">Dostop do stikov</string>
+     <string name="permission_read_contacts_introduction">Za preverjanje vaše identitete</string>
+     <string name="permission_read_message">Dostop do besedilnih sporočil</string>
+     <string name="permission_read_message_introduction">Za preverjanje lastništva vaše naprave</string>
   <string name="permission_read_note_introduction">Za dostop do beležk in priponk</string>
   <string name="permission_read_write_file">Dostop in shranjevanje datotek in fotografij v napravo:</string>
   <string name="permission_read_write_file_introduction">Za dostop, shranjevanje in predpomnjenje stvari v napravi</string>
@@ -233,6 +238,7 @@
   <string name="security_introduction">S to aplikacijo lahko očistite smeti iz naprave, najdete in onemogočite viruse, optimizirate zmogljivost iger, varčujete z baterijo, urejate aplikacije, dovoljenja in še več.</string>
   <string name="security_mobile_account_introduction">Za prijavo in upravljanje sistemskih računov</string>
   <string name="service_agreement">"Prebral sem in se strinjam."</string>
+  <string name="service_name_MIUIDaemon">MIUI Daemon</string>
   <string name="service_name_album">Galerija</string>
   <string name="service_name_application_package">Orodje za namestitev paketa</string>
   <string name="service_name_backup">Var. kopije</string>
@@ -281,7 +287,9 @@
   <string name="system_navigation_mode">Način navigacije s sistemom</string>
   <string name="terms_of_use">Pogoji in pravila</string>
   <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTMLViewer</string>
-  <string name="terms_of_use_label">"Vaša zasebnost je za nas zelo pomembna. Preberite naše Pogoje uporabe in Pravila o zasebnosti da boste razumeli katere informacije zbiramo in kako jih bomo uporabili in kakšno izbiro imate.\r\n\r\n\nMorate se strinjati s Pogoji uporabe in Pravili o zasebnosti pred uporabo MIUI. Ob aktiviranju Mi Storitve, Mi SIM storitve aktivacije, Mi Cloud, Najdi napravo, moduli Začetnega zaslona, Game center, spletne aplikacije, hitre kartice, statistike, pametne kartice, MiLink in komponente Mi Računa se bodo povezale na splet in pridobile vašo lokacijo."</string>
+    <string name="terms_of_use_label">"Preberite naše Pogoje uporabe in Pravila o zasebnosti, da boste razumeli katere podatke zbiramo, kako jih uporabljamo in kakšne možnosti so vam na voljo.
+Pred uporabo MIUI se morate strinjati z Pogoji uporabe in Pravila o zasebnosti.
+%s in komponente Mi računa se bodo povezale s spletom in pridobile vašo lokacijo."</string>
   <string name="terms_of_use_label_Mistore">, Mi Store sistemski dodatek</string>
   <string name="terms_of_use_label_mab">, MAB</string>
   <string name="terms_of_use_label_package">, Orodje za namestitev paketa</string>
