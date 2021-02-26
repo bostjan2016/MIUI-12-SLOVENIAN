@@ -464,10 +464,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="download_paused">Prenos začasno zaustavljen</string>
   <string name="download_paused_in_power_save_mode">Naprava je v varčevalnem načinu dela, prenos zaustavljen</string>
   <string name="download_pending">Prenos na čakanju</string>
-     <string name="download_percent">%d%%</string>
   <string name="download_processing">Prenašam...</string>
-     <string name="download_progress">%d%%</string>
-     <string name="download_progress_detail" formatted="false">%.1fM/%.1fM</string>
   <string name="download_quality">Kvaliteta prenosa</string>
   <string name="download_quality_summary">Dodatne nastavitve za skladbe, ki ste jih prenesli</string>
   <string name="download_queued">Na čakanju</string>
@@ -583,9 +580,7 @@ predvsem nudi Ultimate Inc."</string>
      <string name="exo_media_action_repeat_all_description">Ponovi vse</string>
      <string name="exo_media_action_repeat_off_description">Ne ponavljaj</string>
      <string name="exo_media_action_repeat_one_description">Ponovi eno</string>
-     <string name="exo_track_bitrate">%1$.2f Mbps</string>
      <string name="exo_track_mono">Mono</string>
-     <string name="exo_track_resolution">%1$d × %2$d</string>
      <string name="exo_track_role_alternate">Nadomestno</string>
      <string name="exo_track_role_closed_captions">podnapisi</string>
      <string name="exo_track_role_commentary">Komentar</string>
@@ -1197,7 +1192,6 @@ predvsem nudi Ultimate Inc."</string>
   <string name="privacy_notif_content">Pritisnite za pregled podrobnosti.</string>
   <string name="privacy_notif_title">Xunlei Download Accelerator je vključen</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
-     <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
  <string name="privacy_request_desc">"<Data>"Mi Glasba mora zbrati potrebne osebne podatke, da vam omogoči spletne storitve pretakanja. Izvedite, kako ravnamo s podatki, ki jih zbiramo v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. V nastavitvah lahko kadar koli umaknete svoje soglasje k Pravilom o zasebnosti Mi Glasbe.
 Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> pred uporabo.
 Če se ne strinjate z uporabo zgoraj omenjenih storitev, nekaterih funkcij te aplikacije ne boste mogli uporabljati; osnovna funkcionalnost pa vam bo še vedno na voljo."</Data>"</string>
