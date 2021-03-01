@@ -352,10 +352,6 @@
         <item quantity="other">%1$d let</item>
         <item quantity="one">%1$d leto</item>
     </plurals>
-	     <plurals name="cousume_unit_format">
-        <item quantity="other">%1$d Cal</item>
-        <item quantity="one">%1$d Cal</item>
-     </plurals>
      <plurals name="duration_unit_hour_format">
         <item quantity="other">%1$d ur</item>
         <item quantity="one">%1$d ura</item>
