@@ -10,6 +10,16 @@
     <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
     <string name="abc_capital_off">IZKLOPLJENO</string>
     <string name="abc_capital_on">VKLOPLJENO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+     <string name="abc_prepend_shortcut_label">Meni+</string>
     <string name="abc_search_hint">Iskanje …</string>
     <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
     <string name="abc_searchview_description_query">Iskalna poizvedba</string>
@@ -60,6 +70,7 @@
      <string name="bind_sign_in_title">Dodajte Mi račun</string>
   <string name="change_activate_email">Zamenjajte naslov e-pošte</string>
      <string name="change_password">Spremenite geslo</string>
+     <string name="character_counter_content_description">Omejitev znakov je presežena %1$d od %2$d</string>
      <string name="character_counter_pattern">%1$d / %2$d</string>
      <string name="choose_to_signin">Da</string>
      <string name="choose_to_signup">"Ne, ustvaril ga bom"</string>
@@ -98,6 +109,13 @@ Pošljite to kodo nadzorniku."</string>
      <string name="mibi_all_license_message">"Uporabljali boste Mi Coin, ki je storitev, ki jo ponuja Xiaomi Inc. Preden lahko začnete uporabljati to storitev, se morate strinjati s pogoji storitve. Dotaknite se V redu, če se strinjate s pogoji in določili, opisanimi v %1$s in %2$s. Če želite uporabljati Mi Coin, se morate povezati s spletom in poiskati svojo napravo."</string>
   <string name="mibi_app_name">Mi Kredit</string>
   <string name="mibi_applock_config">"Ne morem nastaviti zakl. aplikacije med uporabo deljenega zaslona."</string>
+     <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
+     <string name="nick_name">Vzdevek</string>
+     <string name="no_account">Ni računa</string>
+     <string name="no_network">"Ne morem se povezati na omrežje"</string>
+     <string name="no_phone">Ni tel. številke</string>
+     <string name="ok">V redu</string>
+     <string name="open_settings">Odpri nastavitve</string>
   <string name="passport_access_denied">Dostop zavrnjen</string>
   <string name="passport_account_hint_text">Naslov E-pošte ali ID Mi Računa</string>
   <string name="passport_account_identity_title">Potrdite vašo identiteto</string>
@@ -313,7 +331,7 @@ povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto
   <string name="passport_wrong_phone_number_format">Format tel.številke ki ste jo vnesli ni veljaven</string>
   <string name="passport_wrong_vcode">Vnešena koda ni pravilna</string>
      <string name="passport_wrong_voice">Vnešena koda ni pravilna</string>
-     <string name="password_toggle_content_description">Preklopi vidnost gesla</string>
+     <string name="password_toggle_content_description">Pokaži geslo</string>
      <string name="phone_bind_too_many">Ta telefon je bil v kratkem času povezan z več računi Mi. Poskusite uporabiti drugo telefonsko številko.</string>
      <string name="phone_hint">Telefonska številka</string>
      <string name="phone_num_use_for">Telefonska številka se uporablja za:</string>

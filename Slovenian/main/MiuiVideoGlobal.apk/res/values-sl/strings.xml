@@ -101,6 +101,8 @@
     <string name="alert_dialog_download_prepare">Pripravljanje za prenos…</string>
     <string name="alert_dialog_download_progress">"Prenašanje aplikacije: "</string>
   <string name="all">Pokaži vse</string>
+     <string name="app_description_content">"Mi Video je sistemska aplikacija, ki vsebuje lokalni video predvajalnik. Ko odstranite bližnjico na začetnem zaslonu, boste še vedno lahko predvajali video datoteke."</string>
+     <string name="app_description_title">Odstranim \"Mi Video\" iz zač. zaslona?</string>
     <string name="app_name">Mi Video</string>
     <string name="auth_again">Strinjam se</string>
   <string name="auth_fail_warning">Čas potekel. Ponovno se prijavite.</string>
@@ -266,6 +268,13 @@ ID:%s
 Pošljite to kodo nadzorniku."</string>
     <string name="dialog_privacy_info_new2">Za uporabo storitev se morate strinjati s tem, da bo aplikacija %1$s zbirala, obdelovala in uporabljala vaše osebne informacije. Potrjujete, da ste prebrali in razumete &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> s pritiskom na spodnji gumb \"Strinjam se\".</string>
     <string name="dialog_privacy_info_new3">Če želite uporabljati to storitev morate dovoliti aplikaciji %1$s zbiranje, obdelavo in uporabo vaših osebnih podatkov, glede na Pravila o zasebnosti. S pritiskom na gumb Strinjam se spodaj, se strinjajte s &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in &lt;a href=%3$s>Pogoji uporabe&lt;/a>. &lt;br/>&lt;br/>Pritisk na \"Strinjam se\" bo tudi omogočil aplikaciji Mi Video dostop do seznama aplikacij, ki so nameščene na vaši napravi. S tem dovoljenjem bo aplikacija Mi Video tudi lahko delila predmete, razumela, ali je aplikacija nameščena na vaši napravi, katera različica aplikacije je nameščena ter ali je aplikacija varna ali ne.</string>
+     <string name="dialog_privacy_revoke_cancel">Prekliči</string>
+     <string name="dialog_privacy_revoke_count_down">Preklic soglasja (%1$ds)</string>
+     <string name="dialog_privacy_revoke_description">Z izklopom stikala umaknete soglasje k Pravilniku o zasebnosti Mi Video. Nehali bomo zbirati vaše osebne podatke. Že zbrani in hranjeni osebni podatki bodo izbrisani v določenem roku, kot to zahteva veljavna zakonodaja. Vaš umik soglasja s politiko zasebnosti bo zavrnil sprejemanje spletnih storitev na podlagi zbranih osebnih podatkov.</string>
+     <string name="dialog_privacy_revoke_fail">Vaša naprava se mora povezati z omrežjem, da boste lahko umaknili soglasje. Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="dialog_privacy_revoke_ok">Preklic soglasja</string>
+     <string name="dialog_privacy_revoke_success">Preklic soglasja uspešen</string>
+     <string name="dialog_privacy_revoking">Preklic soglasja…</string>
     <string name="dialog_privacy_title">Dovoljenje</string>
     <string name="dialog_revoke_privacy_info_new2">Ko prekličete dovoljenje bo aplikacija prenehala zbirati podatke, vsi povezani podatki pa bodo izbrisani iz naših strežnikov. Zaradi tega je lahko aplikacija tako rekoč neuporabna. Želite vseeno preklicati dovoljenje?</string>
     <string name="dialog_revoke_privacy_title">Preklic dovoljenja</string>
@@ -734,6 +743,7 @@ za videoposnetke"</string>
     <string name="next_step">Naprej</string>
     <string name="nick_name">Ime</string>
   <string name="no_account">Niste prijavljeni</string>
+     <string name="no_history">Tu ni ničesar</string>
   <string name="no_longer_prompt">"Ne kaži več"</string>
   <string name="no_more_content">"To je za zdaj vse"</string>
     <string name="no_network_tips">Trenutno ni mogoče uporabiti te storitve. Dostop do omrežja je omejen.</string>
@@ -762,6 +772,7 @@ za videoposnetke"</string>
     <string name="ok">V redu</string>
     <string name="on_tip_firework_recommend">Od Fireworka boste prejeli prilagojena priporočila vsebine</string>
      <string name="open_settings">Nastavitve</string>
+     <string name="order_alphabet">A-Ž</string>
     <string name="order_recently_subscribe">Nedavne naročnine</string>
     <string name="order_recently_updated">Nedavno posodobljeno</string>
     <string name="ovp_alert_dialog_download_install_task">Prenašanje HD vtičnika…</string>
@@ -1102,6 +1113,8 @@ Izboljša varnost vašega računa."</string>
     <string name="plus_sort_type_time">Času</string>
     <string name="plus_tab_gallery">Mape</string>
     <string name="plus_tab_time">Časovnica</string>
+     <string name="privacy_revoke_setting">Z izklopom stikala umaknete soglasje k Pravilniku o zasebnosti Mi Video.</string>
+     <string name="privacy_revoke_title">Preklic soglasja</string>
      <string name="progressbar_title">Preverjanje varnostnih težav…</string>
     <string name="psw_hint">Geslo</string>
     <string name="psw_sign_in">Prijavite se z geslom</string>
@@ -1167,6 +1180,7 @@ Izboljša varnost vašega računa."</string>
     <string name="screenrecord_cancel">Težave z združljivostjo</string>
     <string name="screenrecord_nosupport_record">Snemalnik zaslona trenutno ni podprt na tej napravi.</string>
     <string name="search">Iskanje</string>
+     <string name="search_bar_hint">Išči videoposnetke</string>
     <string name="search_choose_language">Izberite jezik</string>
     <string name="search_choose_voice_language">Izberite jezik za glasovno iskanje</string>
     <string name="search_hot_words">Popularno</string>
@@ -1357,4 +1371,12 @@ Velikost Delta posodobitve: %2$s"</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
   <string name="year">leto</string>
   <string name="yesterday">Včeraj</string>
+     <string name="ytb_account">Računi</string>
+     <string name="ytb_author_video">Videoposnetki</string>
+     <string name="ytb_login">Vpišite se</string>
+     <string name="ytb_login_btn">Vpišite se</string>
+     <string name="ytb_login_hint">Vpišite se za prikaz vaših YouTube naročnin</string>
+     <string name="ytb_logout">Odjava</string>
+     <string name="ytb_play_next">Naprej</string>
+     <string name="ytb_subscribed">Naročnine</string>
 </resources>

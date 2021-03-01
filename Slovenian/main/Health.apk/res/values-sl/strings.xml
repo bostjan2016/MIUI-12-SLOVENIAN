@@ -292,6 +292,7 @@ Te stvari bomo obdelali, preden jih bomo delili, da preprečimo, da bi vas neodv
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Lunarni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
   <string name="date_week_index">"'T'ww yyyy"</string>
   <string name="day">Dan</string>
   <string name="deep_light_detection_open_prompt">Vaš cikel spanja bo analiziran naslednjič, ko greste spat</string>
@@ -857,10 +858,13 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
   <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -1133,6 +1137,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
   <string name="select_recog_question">Izberite opravilo</string>
   <string name="select_swim_posture">Izberite stil</string>
   <string name="select_target">Izberi cilj</string>
+     <string name="send">Pošlji</string>
   <string name="send_diagnosis_log">Pošlji poročilo</string>
   <string name="sending">Pošiljanje…</string>
   <string name="set_emergency_contact">Stik v sili</string>

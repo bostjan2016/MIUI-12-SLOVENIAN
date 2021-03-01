@@ -553,18 +553,25 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Odstrani</string>
   <string name="app_manager_support_uninstall">Te aplikacije lahko odstranite</string>
   <string name="app_manager_system_mobile_disable">Izključi podatke</string>
+     <string name="app_manager_tab_app">Aplikacije</string>
+     <string name="app_manager_tab_manager">Urejanje</string>
   <string name="app_manager_thumbnail_blur_summary">Zameglite pregled aplikacij v nedavno</string>
   <string name="app_manager_thumbnail_blur_title">Zamegleni pregledi aplikacij</string>
   <string name="app_manager_title">Aplikacije</string>
+     <string name="app_manager_to_appstore">Odkrijte več aplikacij</string>
   <string name="app_manager_total_size">Skupaj</string>
   <string name="app_manager_uninstall">Odstrani</string>
+     <string name="app_manager_uninstall_button_text">Odstrani</string>
+     <string name="app_manager_uninstall_notify_title">Odstranite redko uporabljene aplikacije</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Odstranitev sistemskih aplikacij lahko prepreči MIUI normalno delovanje. Vseeno odstranim?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Odstranitev sistemskih aplikacij</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Ustrezne  dvojne aplikacije bodo odstranjene skupaj s podatki aplikacij.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Odstranitev dvojne aplikacije bo odstranila tudi vse podatke aplikacije.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Odstranim dvojno aplikacijo?</string>
   <string name="app_manager_unstall_application">Odstrani</string>
+     <string name="app_manager_update">Posodobi</string>
   <string name="app_manager_update_label_text">Novo</string>
+     <string name="app_manager_updater_notify_message">Posodobite aplikacije za dostop do novih storitev</string>
   <string name="app_manager_usage_record_title">Uporaba aplikacije</string>
   <string name="app_manager_wake_path_card_title">Zgodovina verižnega zagona (2 dni)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Razumem</string>
@@ -720,6 +727,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_edit_choose_new_operation">Dodaj opravilo</string>
   <string name="auto_task_edit_choose_operation_title">Izberite opravilo</string>
   <string name="auto_task_edit_condition_summary">Na primer, \"Ob 23:00\"</string>
+     <string name="auto_task_edit_condition_summary_new">Na primer, \"Ob %s\"</string>
   <string name="auto_task_edit_condition_title">Dodaj stanje</string>
   <string name="auto_task_edit_my_custom_task">Ime</string>
   <string name="auto_task_edit_operation_summary">Na primer, \"Vključi način Letalo\"</string>
@@ -735,6 +743,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_notify_do_task_title">Samod. opravilo se je pričelo</string>
   <string name="auto_task_notify_exit_task_title">Samod. opravilo je končano</string>
   <string name="auto_task_notify_task_cancel_count_down">Samod. opravilo bo odpovedano čez 5 sekund</string>
+     <string name="auto_task_notify_task_cancel_count_down_new">Samodejno opravilo bo preklicano v %d sekundah</string>
   <string name="auto_task_notify_task_cancel_do">Odpovej opravilo</string>
   <string name="auto_task_notify_task_canceled_summary">Lahko kličete in sprejemate klice</string>
   <string name="auto_task_notify_task_canceled_summary2">"Kaže da igrate neko igro."</string>
@@ -743,6 +752,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_notify_task_canceled_title">Opravilo odpovedano</string>
   <string name="auto_task_notify_task_continue_do">Začni opravilo</string>
   <string name="auto_task_notify_task_count_down">Samod. opravilo se začne čez 5 sekund</string>
+     <string name="auto_task_notify_task_count_down_new">Samodejno opravilo se bo začelo čez %d sekund</string>
   <string name="auto_task_notify_task_exit_task">Opusti nalogo</string>
   <string name="auto_task_operation_airplane_mode">Način Letalo</string>
   <string name="auto_task_operation_auto_brightness">Samod. osvetlitev</string>
@@ -1009,6 +1019,9 @@ ali vnesite geslo za zaščito zasebnosti"</string>
  3. Vaš mobilni operater morda ne podpira pošiljanje tekstnih sporočil z ostalimi podatki in stanjem računa. Obrnite se na mobilnrga operaterja za več informacij.
  4. Morda je napaka v podatkih operaterja. Poskusite z diagnostiko operaterja rešiti ta problem.
  5. Kaže da nič ne pomaga? Tapni "Prijavi preko SMS-a" da pošljete povratno informacijo Xiaomi-ju v SMS sporočilu."</string>
+     <string name="card_uninstall_button_text">Urejaj</string>
+     <string name="card_uninstall_summary">Odstranite redko uporabljene aplikacije, da sprostite prostor za shranjevanje</string>
+     <string name="card_uninstall_title_1">Odstranite redko uporabljene aplikacije</string>
   <string name="cd_back">Nazaj</string>
   <string name="celcius_symbol">℃</string>
   <string name="cellular_data_auto_check">Samodejno preveri</string>
@@ -1191,6 +1204,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="deep_power_save_item_summary_auto_brightness">Samodejno prilagodite svetlost zaslona da boste prihranili baterijo</string>
   <string name="deep_power_save_item_summary_bluetooth">Izključite Bluetooth da boste prihranili baterijo</string>
   <string name="deep_power_save_item_summary_lock_screen_time">Izključi zaslon v mirovanje čez 15 sekund neaktivnosti da boste prihranili baterijo</string>
+     <string name="deep_power_save_item_summary_lock_screen_time_new">Nastavite zaslo na spanje po %d sekundah nedejavnosti, da prihranite baterijo</string>
   <string name="deep_power_save_item_title_auto_brightness">Vključi samodejno svetlost</string>
   <string name="deep_power_save_item_title_bluetooth">Izključi Bluetooth</string>
   <string name="deep_power_save_item_title_lock_screen_time">Izključi zaslon</string>
@@ -1644,6 +1658,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="gamebox_immersion_tips_content">Interaktivni način omejuje vse funkcionalnosti SIM kartice, razen mobilne podatkovne povezave. Ne boste moteni s klici ali obvestili o njih. Storitve SIM kartice bodo povrnjene po izklopu interaktivnega načina. Vključim Interaktivni način?</string>
   <string name="gamebox_immersion_tips_title">Pozor</string>
   <string name="gamebox_immerson_open">"Vklop interaktivnega načina, ne menjajte omrežja…"</string>
+     <string name="gamebox_macro">Combo</string>
   <string name="gamebox_manual_record">Posnemi</string>
   <string name="gamebox_milink">Predvajanje</string>
   <string name="gamebox_positive_button_text">V redu (%1$ds)</string>
@@ -1732,6 +1747,9 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="gb_first_window_summary">Povečajte hitrost in zmogljivost na nivoju sistema</string>
   <string name="gb_first_window_title">Game Turbo</string>
   <string name="gb_game_end_toast">Ponovno poglejte ključne trenutke svojih iger</string>
+     <string name="gb_game_macro_bubble_tips">Poskusite combo</string>
+     <string name="gb_game_macro_toast_tips">"Poskusite combo!
+Posnemite zaporedja in jih kadar koli uporabite!"</string>
   <string name="gb_game_video_bottom_tips">Poglejte ključne trenutke svojih sej v Game Turbo. Videoposnetki se tam privzeto hranijo 7 dni.</string>
   <string name="gb_game_video_item_tag">Ključni trenutek</string>
   <string name="gb_game_video_page_delete_success">Uspešno izbrisano</string>
@@ -1761,6 +1779,20 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="gb_new_feature">Novo opravilo</string>
      <string name="gb_operat_frequently">Ne tako hitro!</string>
   <string name="gb_shortcut_pref_title">Bližnjica zač. zaslona</string>
+     <string name="gb_shoulder_key">Virtualne tipke</string>
+     <string name="gb_shoulder_key_add_show_btn">Pokaži virtualne tipke med igranjem</string>
+     <string name="gb_shoulder_key_add_tips">Premakni [L] in [D] tipko v poljuben funkcijski položaj in jih uporabite prek virtualnih gumbov</string>
+     <string name="gb_shoulder_key_btn_cancel">Prekliči</string>
+     <string name="gb_shoulder_key_btn_save_exit">Shrani</string>
+     <string name="gb_shoulder_key_circle_left">L</string>
+     <string name="gb_shoulder_key_circle_right">D</string>
+     <string name="gb_shoulder_key_dialog_txt">Game Turbo lahko vklopite z virtualnimi gumbi.</string>
+     <string name="gb_shoulder_key_guide_btn_done">Razumem</string>
+     <string name="gb_shoulder_key_guide_btn_next">Naprej</string>
+     <string name="gb_shoulder_key_guide_tips">Konfigurirajte virtualne tipke za igranje kot profesionalci!</string>
+     <string name="gb_shoulder_key_guide_tips1">Odprite orodja in konfigurirajte virtualne tipke</string>
+     <string name="gb_shoulder_key_settings_guide_tips1">Premakni [L] in [D] tipko v poljuben funkcijski položaj za dokončanje</string>
+     <string name="gb_shoulder_key_settings_guide_tips2">Uporabite virtualne tipke za funkcije, ki ste jim jih dodelili med igrami</string>
      <string name="gb_sign_gift">Prijavite se, če želite dobiti nagrade</string>
      <string name="gb_sign_gift_button_text">Prejmi</string>
      <string name="gb_sign_notification_summary">Igrajte igre brez zamud v omrežju</string>
@@ -1899,7 +1931,19 @@ vašega igranja"</string>
   <string name="gtb_setting_item_title_smart_5g">5G omrežna optimizacija</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Mi WiFi povečanje hitrosti</string>
      <string name="gtb_spring_festival_back_game">Nazaj v igro</string>
+     <string name="gtb_spring_festival_egg_obtain_fail">"Povezave z omrežjem ni bilo mogoče vzpostaviti"</string>
      <string name="gtb_spring_festival_goto_gameturbo">Pregled</string>
+     <string name="gtb_spring_festival_guide">"Preklopite v ležeči način
+da se pridružite našemu lovu na jajca!"</string>
+     <string name="gtb_spring_festival_guide_know">Razumem</string>
+     <string name="gtb_spring_festival_push_active_desc">Osvojite telefone, pametne naprave in kupone</string>
+     <string name="gtb_spring_festival_push_active_title">Lov na velikonočna jajca je v teku!</string>
+     <string name="gtb_spring_festival_push_desc">Pridružite se našemu lovu na jajca in osvojite nagrade</string>
+     <string name="gtb_spring_festival_push_egg_title">Prejeli ste velikonočno jajce!</string>
+     <string name="gtb_spring_festival_push_gift_title">Prihajajo nagrade za lov na jajca!</string>
+     <string name="gtb_spring_festival_push_join">Pridružite se</string>
+     <string name="gtb_spring_festival_push_see">Pokaži</string>
+     <string name="gtb_spring_festival_shortcut_create">Ustvarite bližnjico na začetni zaslon</string>
   <string name="gtb_wlan_speed_tips">Uporaba Mi WiFi-ja…</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Napačen operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
@@ -2529,6 +2573,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="networkchanged_exception_summary">Omrežna povezava se je spremenila. Testirajte ponovno.</string>
   <string name="networkchanged_exception_title">Način povezovanja se je spremenil</string>
   <string name="never">Nikoli</string>
+  <string name="never_new">%d krat</string>
   <string name="news_change">Spremeni</string>
   <string name="next_step_button">Naprej</string>
   <string name="nickname">Vzdevek</string>
@@ -3075,6 +3120,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="power_center_list_item_haptic_feedback_summary">"Poteze in nadzor nad sistemom ne bodo spremljali povratne informacije"</string>
   <string name="power_center_list_item_set_lockscreen_time">Postavite zaslon v stanje mirovanja čez 30 sek. neaktivnosti</string>
   <string name="power_center_list_item_set_lockscreen_time_holder">Zakleni napravo po %d sek. neaktivnosti</string>
+     <string name="power_center_list_item_set_lockscreen_time_new">Nastavite zaslo na spanje čez %d sekund neaktivnosti</string>
      <string name="power_center_list_item_set_lockscreen_time_summary">Hitrejše zaklepanje naprave prihrani baterijo</string>
   <string name="power_center_list_item_wake_notification">"Ne zbudi zaslona za obvestila"</string>
      <string name="power_center_list_item_wake_notification_summary">Dohodna obvestila bodo prikazana šele ko vklopite zaslon</string>
@@ -3271,6 +3317,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_save_low_battery_title">Varčevanje z baterijo</string>
   <string name="power_save_mode">Varčevanje baterije</string>
   <string name="power_save_mode_auto_exit_summary">Izključi ko je baterija napolnjena 60% ali popolnoma napolnjena​</string>
+     <string name="power_save_mode_auto_exit_summary_new">Izključi ko je baterija napolnjena %s ali popolnoma napolnjena​</string>
   <string name="power_save_mode_auto_exit_title">Izključi ko je baterija napolnjena​</string>
   <string name="power_save_mode_close_aod_display_summary">Izključite Vedno na zaslonu ko je vključeno varčevanje baterije</string>
   <string name="power_save_mode_close_aod_display_title">Izključite Vedno na zaslonu</string>
@@ -4413,6 +4460,7 @@ Z formatiranjem bo izbrisana vsebina ^2. Če želite preprečiti izgubo vsebine,
   <string name="suggest_app_tolock_unmasked">Obvestila vidna</string>
   <string name="suggest_scan_again">Za zagotovitev varnosti predlagamo popolno preverjanje.</string>
   <string name="summary_app_lock_disable">Zaklenite aplikacije da zaščitite svojo zasebnost</string>
+     <string name="summary_app_update_new">Posodobite aplikacije za dostop do novih funkcij</string>
   <string name="summary_auto_update">MIUI bo izbral najugodnejši čas za prenos in namestitev posodobitve.</string>
   <string name="summary_background_connection">Omejili ste povezavo v ozadju za to aplikacijo.</string>
   <string name="summary_block_calls_from_cantacts">"Klici sikov so blokirani."</string>
@@ -4476,6 +4524,7 @@ Z formatiranjem bo izbrisana vsebina ^2. Če želite preprečiti izgubo vsebine,
   <string name="superpower_notification_time_12">EEEE, dd.MM</string>
   <string name="superpower_notification_time_24">EEEE, dd.MM</string>
   <string name="superpower_notification_title">Ostalo je manj od 10% baterije</string>
+     <string name="superpower_notification_title_new">Ostalo je manj kot %s baterije</string>
   <string name="superpower_progress_content">Vklop Ultra varčevanje baterije…</string>
   <string name="superpower_progress_left_time">%1$dh %2$dm</string>
   <string name="superpower_progress_switch_home">Menjava na temno temo</string>
@@ -4490,8 +4539,10 @@ Z formatiranjem bo izbrisana vsebina ^2. Če želite preprečiti izgubo vsebine,
   <string name="superpower_savemode_limit4">Dovoli izbranim aplikacijam normalno delovanje</string>
   <string name="superpower_settings">Ultra varčevanje baterije</string>
   <string name="superpower_settins_autoenter_summary">Vključi Ultra varčevanje baterije samodejno ko je baterija samo še 10%</string>
+     <string name="superpower_settins_autoenter_summary_new">Vključi Ultra varčevanje baterije samodejno ko je baterija samo še %s</string>
   <string name="superpower_settins_autoenter_title">Vključi samodejno</string>
   <string name="superpower_settins_autoleave_summary">Izključi Ultra varčevanje baterije samodejno ko je baterija napolnjena 50%</string>
+     <string name="superpower_settins_autoleave_summary_new">Izključi Ultra varčevanje baterije samodejno ko je baterija napolnjena %s</string>
   <string name="superpower_settins_autoleave_title">Izključi samodejno</string>
   <string name="superpower_settins_other">Dodatne nastavitve</string>
   <string name="superpower_settins_switch_summary">Omejuje največje porabnike energije da so osnovne storitve (npr. klici, SMS in povezovanje na omrežje) na voljo kolikor je mogoče</string>
@@ -4615,6 +4666,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tc_sms_report_get_success_notify_title">Prejeto SMS poročilo porabe podatkov</string>
   <string name="tc_sms_report_geting_sms">Sprejemanje poročila SMS-a…</string>
   <string name="tc_sms_report_notify_correction_body">Pojdi v-&gt; Varnost-&gt; Poraba podatkov in poskusite ponovno ročno.</string>
+     <string name="tc_sms_report_notify_correction_business_hall">Ponovno kalibrirajte v Carrier Services</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Ne morem posodobiti podrobnosti porabe podatkov"</string>
      <string name="tc_sms_report_notify_get_failure_body">"Ne morem poslati poročila o porabi podatkov. Preverite če ste priključeni
    na mobilno omrežje."</string>
@@ -4927,6 +4979,7 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="traffic_setting_fragment_title_guide">Mob. operaterji in plani pdatkov</string>
      <string name="traffic_setting_open">Vključeno</string>
      <string name="traffic_setting_step_num">Nastavitve porabe</string>
+     <string name="traffic_to_limit_warning">"Porabili ste %s omejitve podatkov"</string>
   <string name="traffic_usage_warning_body">"Porabili ste %s mobilnih podatkov ta mesec."</string>
   <string name="traffic_usage_warning_limit">Opzorilo porabe podatkov</string>
   <string name="traffic_usage_warning_title">Opzorilo porabe podatkov</string>
@@ -5015,6 +5068,11 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="vb_ve_settings_pic_border_stronger">Izboljšani obrisi</string>
   <string name="vb_ve_settings_picture_stronger">Izboljšane animacije</string>
   <string name="vb_video_effects_display_style">Stil</string>
+     <string name="vb_video_effects_dolby">Dolby Atmos</string>
+     <string name="vb_video_effects_dolby_dialog_enhancer">Okrepljen dialog</string>
+     <string name="vb_video_effects_dolby_headset">" (Samo slušalke)"</string>
+     <string name="vb_video_effects_dolby_open">Dolby Atmos vklj.</string>
+     <string name="vb_video_effects_dolby_stereo_expansion">Razširjeni stereo</string>
   <string name="vb_video_effects_setting_black_white">Č&amp;B</string>
   <string name="vb_video_effects_setting_cinema">Cinema</string>
   <string name="vb_video_effects_setting_girl">Blush</string>
@@ -5057,6 +5115,7 @@ Poskusite povečati ločljivost!"</string>
      <string name="videobox_settings_timing_desc">Prejmite opozorilo o pretiravanju na uro da vas opomni na počitek</string>
   <string name="videobox_settings_title">Orodja za videoposnetke</string>
      <string name="view_traffic_detail">Pokaži podrobnosti</string>
+     <string name="view_traffic_details">Pokaži podrobnosti porabe podatkov</string>
   <string name="virus_ad_icon_text">Oglas</string>
   <string name="virus_already_update">Definicije so posodobljene</string>
   <string name="virus_auto_update_engine">Samod. posodobi: %s</string>

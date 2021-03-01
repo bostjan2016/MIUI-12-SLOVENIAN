@@ -760,6 +760,14 @@
         <item quantity="other">%1$s:</item>
         <item quantity="one">%1$s:</item>
      </plurals>
+     <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Odstrani %d aplikacij</item>
+        <item quantity="one">Odstrani %d aplikacijo</item>
+     </plurals>
+     <plurals name="app_manager_updater_notify_title">
+        <item quantity="other">Posodobitev za %d aplikacij na voljo</item>
+        <item quantity="one">Posodobitev za %d aplikacijo na voljo</item>
+     </plurals>
 	 <plurals name="applock_app_suggest_lock">
         <item quantity="other">Lahko uporabite Zakl. aplikacij z %1$s aplikacijami</item>
         <item quantity="one">Lahko uporabite Zakl. aplikacij z %1$s aplikacijo</item>
@@ -767,6 +775,10 @@
      <plurals name="applock_one_key_lock">
         <item quantity="other">%s aplikacij bo zaščiteno z Zakl. aplikacij</item>
         <item quantity="one">%s aplikacija bo zaščitena z Zakl. aplikacij</item>
+     </plurals>
+     <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>Lahko odstranite &lt;font color=#F22424>%d&lt;/font> aplikacij&lt;/Data></item>
+        <item quantity="one">&lt;Data>Lahko odstranite &lt;font color=#F22424>%d&lt;/font> aplikacijo&lt;/Data></item>
      </plurals>
      <plurals name="ew_concern_date">
         <item quantity="other">pred %d dni</item>
@@ -925,6 +937,10 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
      <plurals name="notification_power_consume_suggest">
         <item quantity="other">Optimizirajte %d stvari za varčevanje baterije</item>
         <item quantity="one">Optimizirajte %d stvar za varčevanje baterije</item>
+     </plurals>
+     <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>Posodobi &lt;font color=#F22424>%d&lt;/font> aplikacij&lt;/Data></item>
+        <item quantity="one">&lt;Data>Posodobi &lt;font color=#F22424>%d&lt;/font> aplikacijo&lt;/Data></item>
      </plurals>
      <plurals name="unlock_set_unlock_pattern_summary_new">
         <item quantity="other">Povežite najmanj %s točk</item>
