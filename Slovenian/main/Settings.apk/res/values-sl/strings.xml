@@ -5267,6 +5267,10 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_LeftEar">Levo</string>
      <string name="miheadset_RightEar">Desno</string>
      <string name="miheadset_active">močno</string>
+     <string name="miheadset_ancClosed">Izklj.</string>
+     <string name="miheadset_ancHigh">Visoko</string>
+     <string name="miheadset_ancLow">Nizko</string>
+     <string name="miheadset_ancMedium">Srednje</string>
      <string name="miheadset_anc_indicate">Priključite in seznanite slušalke</string>
      <string name="miheadset_audio_mode">Kakovost zvoka</string>
      <string name="miheadset_audio_mode_high">Visoko</string>
@@ -5290,6 +5294,7 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_double_click_key_mode_summary">Zamenjaj dvojni način dela tipke</string>
      <string name="miheadset_double_click_left">Dvakrat tapnite levo slušalko</string>
      <string name="miheadset_double_click_right">Dvakrat tapnite desno slušalko</string>
+     <string name="miheadset_enhanceVoice">Izboljšajte zvok</string>
      <string name="miheadset_enhence_high">povečaj visoko</string>
      <string name="miheadset_enhence_low">povečaj nizko frek</string>
      <string name="miheadset_equalizer">Izenačevalnik</string>
@@ -5346,6 +5351,7 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_rename_device">Preimenuj</string>
      <string name="miheadset_soft">mehko</string>
      <string name="miheadset_transparent">Preglednost</string>
+     <string name="miheadset_transparentMode">Preglednost</string>
      <string name="miheadset_triple_click_key_mode">Trojni tap</string>
      <string name="miheadset_triple_click_key_mode_summary">Zamenjaj trojni način dela tipke</string>
      <string name="miheadset_unpair_device">Prekličem seznanjanje?</string>
@@ -9400,6 +9406,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="title_local_resource">Lokalni viri</string>
   <string name="title_miui_music_mute_by_user">Tiho</string>
   <string name="title_of_auto_launch_manage">Samod. zagon</string>
+     <string name="title_special_features_health_global">Srčni utrip</string>
   <string name="title_system_resource">Viri sistema</string>
   <string name="to_close">Izključi</string>
      <string name="toast_apply_font_fail">"Ne morem nastaviti fonte"</string>

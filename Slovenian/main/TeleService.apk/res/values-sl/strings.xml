@@ -2442,6 +2442,7 @@ Vmesnik UT: %5$s"</string>
     <string name="search_menu_title">Iskanje</string>
   <string name="search_networks">Preišči omrežja</string>
     <string name="selectContact">izbira stika</string>
+     <string name="select_apn_list_title">Izberite privzet APN: za kartico%1$s</string>
     <string name="select_application">Izberite aplikacijo</string>
     <string name="select_automatically">Samodejno izberi omrežje</string>
   <string name="select_cancel">Prekini</string>
