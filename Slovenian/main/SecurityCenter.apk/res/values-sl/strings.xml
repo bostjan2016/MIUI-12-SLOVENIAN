@@ -5189,6 +5189,22 @@ Poskusite povečati ločljivost!"</string>
   <string name="warningcenter_mijia_page_title">Opozorila</string>
   <string name="warningcenter_mijia_search_keywords">Mi Home opozorila</string>
   <string name="warningcenter_mijia_title">Opozorila pametnih hišnih naprav</string>
+     <string name="warningcenter_policeassist_charge_tips">*Za odhodna besedilna sporočila vam bo morda zaračunano. Če želite izvedeti več o cenah, se obrnite na mobilnega operaterja.</string>
+     <string name="warningcenter_policeassist_close_btn">Izključi</string>
+     <string name="warningcenter_policeassist_flow_locating">Pridobivanje informacij…</string>
+     <string name="warningcenter_policeassist_flow_locfailed">"Ne morem deliti lokacije"</string>
+     <string name="warningcenter_policeassist_flow_privacy">Pravila o zasebnosti</string>
+     <string name="warningcenter_policeassist_flow_send">Lokacija deljena z policijo</string>
+     <string name="warningcenter_policeassist_flow_tips">Delite svojo lokacijo</string>
+     <string name="warningcenter_policeassist_noti_content">Samodejno pošljite besedilno sporočilo s svojo lokacijo</string>
+     <string name="warningcenter_policeassist_noti_privacy">Dotaknite se, da preverite Pravila o zasebnosti</string>
+     <string name="warningcenter_policeassist_noti_send">Lokacija deljena z policijo</string>
+     <string name="warningcenter_policeassist_noti_title">Delite svojo lokacijo med klici v sili</string>
+     <string name="warningcenter_policeassist_open_btn">Vključi</string>
+     <string name="warningcenter_policeassist_open_content">"Podatke o lokaciji samodejno pošljite policiji s pomočjo SMS-ov ali mobilnih podatkov med klicanjem 110, 120, 119, 122 ili 12122."</string>
+     <string name="warningcenter_policeassist_open_title">Med klicem v sili delite svojo lokacijo s policijo</string>
+     <string name="warningcenter_policeassist_privacy"><Data>"Prebral sem in se strinjam z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="warningcenter_policeassist_title">Lokacija za nujne slučaje</string>
   <string name="warningcenter_smarthome">Mi Home</string>
   <string name="warningcenter_title">MIUI Center za opozarjanje</string>
   <string name="website">Spletna stran</string>

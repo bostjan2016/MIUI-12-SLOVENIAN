@@ -158,6 +158,8 @@
   <string name="aqi_quality_index_light_pollution">Previdno</string>
   <string name="aqi_quality_index_moderate">Zmerno</string>
   <string name="aqi_quality_index_unhealthy">Nezdravo</string>
+     <string name="assistant_edge_gesture_summary">Povlecite navzgor od spodnjega levega ali desnega kota, da zbudite Google pomočnika</string>
+     <string name="assistant_edge_gesture_title">Povlecite navzgor iz kota za Google pomočnika</string>
   <string name="auto_add_app_shortcut">Dodaj nove aplikacije na zač. zaslon</string>
   <string name="auto_delete_category_dialog_content">Trenutne aplikacije bodo odstranjene iz te kategorije, kategorija pa bo izbrisana. Izbrišem kategorijo?</string>
   <string name="auto_delete_category_dialog_title">Brisanje kategorije</string>

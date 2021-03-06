@@ -1360,7 +1360,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="kddi_sim_lock_status_default_code">-</string>
   <string name="kddi_sim_lock_status_no_sim">Ni SIM kartice</string>
   <string name="kddi_sim_lock_status_not_allowed">Ni dovoljeno</string>
-  <string name="kddi_sim_lock_status_open_wifi_warning">Potrebna je Wi-Fi povezava</string>
+  <string name="kddi_sim_lock_status_open_wifi_warning">Potrebna je WiFi povezava</string>
   <string name="kddi_sim_lock_status_status">Status</string>
   <string name="kddi_sim_lock_status_title">Status SIM kartice</string>
   <string name="kddi_sim_lock_status_update">Posodabljanje statusa SIM kartice</string>

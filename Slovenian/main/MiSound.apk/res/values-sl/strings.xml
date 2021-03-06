@@ -40,7 +40,12 @@
   <string name="customization_continue">Nadaljuj</string>
   <string name="customization_pause_tip">Ustavim testiranje? Za nadaljevanje priključite slušalke.</string>
   <string name="customization_quit">Izhod</string>
-     <string name="end_wireless_transmission">Stop</string>
+     <string name="dolby_dax_geq_select_title">Prednastavitve</string>
+     <string name="dolby_dax_geq_title">Grafični equalizer</string>
+     <string name="dolby_dax_profile_dynamic">Dinamično</string>
+     <string name="dolby_dax_setting">Dolby efekti</string>
+     <string name="dolby_dax_title">Prostorski zvok</string>
+     <string name="end_wireless_transmission">Ustavi</string>
   <string name="eq_auto">Lastno</string>
   <string name="eq_blues">Blues</string>
   <string name="eq_cancel">Prekliči</string>
@@ -76,6 +81,7 @@
   <string name="input_hint_prefix">Vhod v %1$s</string>
   <string name="keep_sound">Shrani zvok</string>
   <string name="low_pitch">Nizek ton</string>
+     <string name="misound_effect_setting">Mi zvok</string>
    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>

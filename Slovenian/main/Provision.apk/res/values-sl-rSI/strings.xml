@@ -106,9 +106,13 @@
   <string name="input_method_category">"Izberite privzeto tipkovnico za pisanje sporočil e-pošte, beležk in ostalega. Kasneje lahko namestite druge tipkovnice."</string>
   <string name="input_method_setting">Izberite privzeto tipkovnico</string>
   <string name="install_preinstall_app">Branje aplikacij…</string>
+     <string name="item_contents_wwarning">"Če napravo izgubite drugim ljudem ne boste mogli preprečiti, da bi jo uporabljali in dostopali do vaših podatkov, če ne nastavite zaklepanja zaslona. Vseeno preskočim?"</string>
   <string name="item_fingerprint">Prstni odtis</string>
   <string name="item_lock_screen_password">Samo zakl. zaslona</string>
      <string name="item_lock_screen_password_only">Zakl. zaslon</string>
+     <string name="item_return">Nastavi</string>
+     <string name="item_skip">Preskoči</string>
+     <string name="ktlocation_U">(KT Service Agent)</string>
   <string name="ktposition_header">Skupna raba informacij o lokaciji z reševalnimi agencijami</string>
   <string name="language_picker_other_languages_title">Več jezikov</string>
   <string name="language_picker_popular_languages_title">Izberi jezik</string>
@@ -311,6 +315,7 @@ Morate se strinjati z Mint Keyboard Pravila o zasebnosti pred uporabo te storitv
   <string name="terms_privacy_policy_input_method_facemoji">Facemoji Pravila o zasebnosti</string>
   <string name="terms_privacy_policy_input_method_kika">Kika Pravila o zasebnosti</string>
   <string name="title_fingerprint">Dodajte svoj prstni odtis</string>
+     <string name="title_set_fingerprint">Zaklepanje zaslona</string>
   <string name="two_dimensional_code_scan">Skeniraj QR kodo</string>
   <string name="user_agreement">Pogoji uporabe</string>
   <string name="user_agreement_declare">Pred uporabo MIUI-ja morate prebrati in se strinjati z Pogoji uporabe in Pravila o zasebnosti. Ob aktivaciji se bodo storitve omrežne aktivacije Mi SIM, Najdi napravo, Začetni zaslon, Pogosti izrazi, Prevajalska služba, MIUI Daemon, HTML brskalnik in Posodabljanje povezale s spletom. Pametne storitve rabijo splet in lokacijo.</string>

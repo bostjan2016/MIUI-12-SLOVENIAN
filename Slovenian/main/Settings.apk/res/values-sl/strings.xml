@@ -2747,6 +2747,7 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
   <string name="development_settings_summary">Nastavi možnosti za razvoj aplikacij</string>
   <string name="development_settings_title">Možnosti za razvijalce</string>
   <string name="device_actionbar_title">Vse specifikacije</string>
+     <string name="device_activation_info">Aktiviranje naprave</string>
   <string name="device_additional_status">Dodatne informacije statusa</string>
   <string name="device_additional_status_summary">Številka telefona, signal, IMEI, itd.</string>
   <string name="device_admin_add_title">Skrbnik naprave</string>
@@ -4054,7 +4055,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="headset_calibrate">Nastavljanje tipk</string>
      <string name="headset_connectiong">Povezovanje...</string>
      <string name="headset_remove_message">Ali želite odstraniti to napravo iz vašega računa?</string>
-     <string name="headset_remove_message_indicate">Vse naprave, povezane z računom Xiaomi, bodo odstranjene</string>
+     <string name="headset_remove_message_indicate">%1$s bo razdružen iz vseh naprav, povezanih s tem Mi računom</string>
   <string name="headset_settings_title">Zvočni efekti</string>
      <string name="headset_unsaved_device">Odstrani napravo</string>
      <string name="headset_unsaved_devices">ne shrani, povežite se na svoj računu v drugem telefonu</string>
@@ -5267,8 +5268,11 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_LeftEar">Levo</string>
      <string name="miheadset_RightEar">Desno</string>
      <string name="miheadset_active">močno</string>
+     <string name="miheadset_ancBalance">Srednje</string>
      <string name="miheadset_ancClosed">Izklj.</string>
+     <string name="miheadset_ancDecrease">Nizko</string>
      <string name="miheadset_ancHigh">Visoko</string>
+     <string name="miheadset_ancIncrease">Visoko</string>
      <string name="miheadset_ancLow">Nizko</string>
      <string name="miheadset_ancMedium">Srednje</string>
      <string name="miheadset_anc_indicate">Priključite in seznanite slušalke</string>
@@ -5356,6 +5360,7 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_triple_click_key_mode_summary">Zamenjaj trojni način dela tipke</string>
      <string name="miheadset_unpair_device">Prekličem seznanjanje?</string>
      <string name="miheadset_unpair_device_text">%1$s bo odstranil-a vse naprave povezane s tem Mi Računom</string>
+     <string name="miheadset_voiceIncrease">Povečajte glasnost</string>
   <string name="miliao_account_guide">Uporabite svoj Mi račun da se prijavite v Mi Cloud, MIUI Teme in druge storitve Mi.</string>
   <string name="miliao_account_login">Prijavi se v Mi Talk</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
@@ -5481,6 +5486,9 @@ Nadaljujte k dodatnim nastavitvam."</string>
   <string name="miui_sos_menu_add">Dodaj</string>
   <string name="miui_sos_menu_edit">Uredi</string>
   <string name="miui_sos_msg_call_log_prefix">"Moja zgodovina klicev za zadnjo uro:"</string>
+     <string name="miui_sos_pa_title">Lokacija v sili</string>
+     <string name="miui_sos_pa_turn_off">Izklj.</string>
+     <string name="miui_sos_pa_turn_on">Vklj.</string>
   <string name="miui_sos_play_voice">Predvajaj SOS sporočilo</string>
   <string name="miui_sos_remind_add">Dodaj</string>
   <string name="miui_sos_remind_close">Nujni SOS je vključen. Ali ga izklopim skupaj z vsemi povezanimi funkcijami?</string>
@@ -8166,7 +8174,7 @@ Prav tako lahko telefon odklene nekdo, ki vam je zelo podoben, na primer vaš en
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Ime</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">V redu</string>
     <string name="security_settings_fingerprint_enroll_disclaimer">Funkcijo Pixel Imprint lahko razen za odklepanje telefona uporabljate tudi za odobritev nakupov in dostop do aplikacij. <annotation id="url">Več o tem</annotation></string>
-    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" Možnost zaklepanja zaslona je onemogočena. Če želite izvedeti več, se obrnite na skrbnika vaše organizacije. "<annotation id="admin_details">Več o tem</annotation>"
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" Možnost zaklepanja zaslona je onemogočena. Če želite izvedeti več, se obrnite na skrbnika vaše organizacije. "<annotation id="admin_details">Podrobnosti</annotation>"
 
 S svojim prstnim odtisom lahko še vedno odobrite nakupe in dostop do aplikacij. "<annotation id="url">Izvedite več</annotation></string>
   <string name="security_settings_fingerprint_enroll_done">Končano</string>
