@@ -1203,8 +1203,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="deep_clean_never_memory_clean">Nikoli</string>
   <string name="deep_power_save_item_summary_auto_brightness">Samodejno prilagodite svetlost zaslona da boste prihranili baterijo</string>
   <string name="deep_power_save_item_summary_bluetooth">Izključite Bluetooth da boste prihranili baterijo</string>
-  <string name="deep_power_save_item_summary_lock_screen_time">Izključi zaslon v mirovanje čez 15 sekund neaktivnosti da boste prihranili baterijo</string>
-     <string name="deep_power_save_item_summary_lock_screen_time_new">Nastavite zaslo na spanje po %d sekundah nedejavnosti, da prihranite baterijo</string>
+  <string name="deep_power_save_item_summary_lock_screen_time_new">Izključi zaslon po %d sek. neaktivnosti za prihranek baterije</string>
   <string name="deep_power_save_item_title_auto_brightness">Vključi samodejno svetlost</string>
   <string name="deep_power_save_item_title_bluetooth">Izključi Bluetooth</string>
   <string name="deep_power_save_item_title_lock_screen_time">Izključi zaslon</string>
