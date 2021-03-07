@@ -2118,13 +2118,13 @@ Ko napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dv
   <string name="color_led_game_mode_title">Game Turbo</string>
   <string name="color_led_hint">Izberite scenarije kadar je treba uporabiti LED lučko. LED lučka bo zasvetila ko bo zaslon obrnjen dol in Ne moti izključeno.</string>
   <string name="color_led_incall_pulse_title">Uporabi bliskavico za dohodne klice</string>
-  <string name="color_led_lucky_dialog_message">Ta storitev zahteva uporabo pomočnika Red envelope. Ga vključim?</string>
-  <string name="color_led_lucky_dialog_title">Vključi Red envelope pomočnika</string>
+  <string name="color_led_lucky_dialog_message">Ta storitev zahteva uporabo pomočnika Rdeči ovitki. Ga vključim?</string>
+  <string name="color_led_lucky_dialog_title">Vključi Rdeči ovitki pomočnika</string>
   <string name="color_led_music_mode_summary">"Pokaži ritmične svetlobne efekte pri predvajanju glasbe."</string>
   <string name="color_led_music_mode_title">Uporabi za glasbo</string>
   <string name="color_led_notification_pulse_title">Pulziraj za obvestila</string>
   <string name="color_led_red_more_feature">Specialni efekti</string>
-  <string name="color_led_red_package_title">Red envelope</string>
+  <string name="color_led_red_package_title">Rdeči ovitki</string>
   <string name="color_led_red_packets_summary">Pokaži efekte za rdeče ovitke od WeChat-a in QQ-ja ko je vključen pomočnik Rdeči ovitki</string>
   <string name="color_led_special_scene_title">Specialni učinki</string>
   <string name="color_led_start_time">Čas začetka</string>

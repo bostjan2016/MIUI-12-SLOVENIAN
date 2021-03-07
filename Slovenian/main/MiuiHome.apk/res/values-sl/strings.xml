@@ -352,7 +352,7 @@
   <string name="invalid_contact_shortcut">Napačen stik</string>
   <string name="is_setting_wallpaper_message">Nastavljam sliko za ozadje…</string>
   <string name="is_system_wallpaper_message">"Ne morem izbrisati sistemskih ozadij"</string>
-  <string name="key_shortcut_settings_title">Bližnjice tipk tipki</string>
+  <string name="key_shortcut_settings_title">Bližnjice tipk</string>
      <string name="launcher_auto_fill_empty_title">Samod. izpolni prazna mesta</string>
   <string name="launcher_global_search_mode_title">Globalno iskanje</string>
   <string name="launcher_global_search_provider_title">Globalna usluga iskanja</string>
