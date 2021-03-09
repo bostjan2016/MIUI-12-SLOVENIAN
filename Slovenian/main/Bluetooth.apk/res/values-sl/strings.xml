@@ -165,7 +165,6 @@
   <string name="mi_key_summary_open_camera">2x klik Mi Key za zagon kamere</string>
   <string name="mi_key_summary_take_photo">1x klik Mi Key za snemanje fotografije</string>
   <string name="mi_key_take_photo">Posnemi fotografijo</string>
-     <string name="polnoč">Night</string>
   <string name="miui_transfer_history_title">Bluetooth prenosi</string>
   <string name="miui_transfer_inbound_title">Vhodni</string>
   <string name="miui_transfer_outbound_title">Izhodni</string>
@@ -194,6 +193,7 @@
      <string name="monday">Ponedeljek</string>
      <string name="monday_short">Pon</string>
      <string name="monday_shortest">P</string>
+     <string name="month">Mesec</string>
      <string name="month_april">April</string>
      <string name="month_april_short">Apr</string>
      <string name="month_april_shortest">A</string>
@@ -221,6 +221,9 @@
      <string name="month_may">Maj</string>
      <string name="month_may_short">Maj</string>
      <string name="month_may_shortest">M</string>
+     <string name="month_medium_april">Apr</string>
+     <string name="month_medium_august">Avg</string>
+     <string name="month_medium_december">Dec</string>
      <string name="month_november">November</string>
      <string name="month_november_short">Nov</string>
      <string name="month_november_shortest">N</string>
@@ -317,6 +320,14 @@
   <string name="switch_audio_dialog_title">Izberite avdio izhod</string>
   <string name="switch_audio_notification_content">Trenutna avdio izhodna naprava:</string>
   <string name="switch_audio_notification_title">Povezovanje naprave</string>
+     <string name="thursday">Četrtek</string>
+     <string name="thursday_short">Čet</string>
+     <string name="thursday_shortest">Č</string>
+     <string name="time_picker_dialog_title">Nastavi čas</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
+     <string name="today">Danes</string>
+     <string name="tomorrow">Jutri</string>
   <string name="transfer_clear_dlg_msg">Iz seznama bodo izbrisane vse stvari.</string>
   <string name="transfer_clear_dlg_title">Izbriši</string>
   <string name="transfer_menu_clear">Izbriši iz seznama</string>
@@ -350,5 +361,6 @@
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
+     <string name="yes">Da</string>
      <string name="yesterday">Včeraj</string>
 </resources>

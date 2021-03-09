@@ -9193,8 +9193,8 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="switchNetworkToast">Povezava z mobilnimi omrežji lahko povzroči dodatne stroške</string>
   <string name="switch_access_service_on">Menjava dostopa</string>
      <string name="switch_bootup_sound">Zagonski zvok</string>
-     <string name="switch_headset_anti_lost">Manjka opozorilo slušalk</string>     <string name="switch_headset_anti_lost_title">Manjka opozorilo slušalk</string>
-     <string name="switch_headset_anti_lost_title">Manjka opozorilo slušalk</string>
+  <string name="switch_headset_anti_lost">Opozorilo: manjka slušalka</string>
+  <string name="switch_headset_anti_lost_title">Opozorilo: manjka slušalka</string>
   <string name="switch_off_text">Izklopljeno</string>
   <string name="switch_on_text">Vklopljeno</string>
   <string name="switch_screen_button_order">Zamenjaj tipke</string>
