@@ -79,6 +79,7 @@ Poskusite ponovno"</string>
   <string name="btn_retry">Ponovno preveri</string>
   <string name="btn_skip">Preskoči ta korak</string>
   <string name="button_cancel">Prekini</string>
+     <string name="button_confirm">Razumem</string>
   <string name="button_delete">Izbriši</string>
   <string name="button_next">Naprej</string>
   <string name="can_not_backup_in_lite_mode">"Ne morem napraviti var. kopije v Lite načinu"</string>
@@ -238,6 +239,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="open_wifi_setting">WiFi nastavitve</string>
   <string name="other_device_main_space">Prvi prostor</string>
   <string name="other_device_second_space">Drugi prostor</string>
+     <string name="pc_mode_not_support_restore_warning">"V načinu PC ni mogoče obnoviti elementov. Izklopite način računalnika in poskusite znova."</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="process_whole_recovery">Obnavljam %s</string>
      <string name="provision_back">Nazaj</string>

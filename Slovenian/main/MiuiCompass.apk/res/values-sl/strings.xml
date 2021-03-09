@@ -85,6 +85,7 @@
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
   <string name="getting_location">Kalibriranje...</string>
+     <string name="gradienter_title">Raven</string>
   <string name="guide_toast">"Za kalibracijo premikajte telefon kot vidite spodaj."</string>
      <string name="keywords_search_compass">Kompas;Kalibriranje;Pritisk;Nadmorska višina;Zemljepisna širina;Zemljepisna dolžina;Preveri zemljepisno dolžino; Preveri zemljepisno širino;MIUI kompas;Kompas app;MIUI kompas app;Kje je kompas;Prenesi kompas;Zračni pritisk; Preveri nadmorsko višino;Koliko je višina</string>
   <string name="latitude">Zemljepisna širina</string>

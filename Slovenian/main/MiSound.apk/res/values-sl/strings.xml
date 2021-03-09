@@ -40,6 +40,7 @@
   <string name="customization_continue">Nadaljuj</string>
   <string name="customization_pause_tip">Ustavim testiranje? Za nadaljevanje priključite slušalke.</string>
   <string name="customization_quit">Izhod</string>
+     <string name="dolby_atoms">Dolby Atmos</string>
      <string name="dolby_dax_geq_select_title">Prednastavitve</string>
      <string name="dolby_dax_geq_title">Grafični equalizer</string>
      <string name="dolby_dax_profile_dynamic">Dinamično</string>

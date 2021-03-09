@@ -4,6 +4,7 @@
   <string name="add_vm_number_str">Dodaj številko</string>
   <string name="ai_assistant">AI Pomočnik klicev</string>
   <string name="ai_assistant_not_installed">Najprej namestite AI Pomočnik klicev</string>
+     <string name="ai_dial">AI klic</string>
      <string name="ai_mode_auto">Samodejno</string>
      <string name="ai_mode_manual">Ročno</string>
      <string name="ai_mode_subtitles">Naslovi</string>
@@ -101,8 +102,8 @@
   <string name="crbt_second_hold_prompt">%s je na čakanju…</string>
   <string name="crbt_second_hold_prompt_conference">Konferenčni klic je na čakanju…</string>
   <string name="crbt_second_hold_prompt_no_name">Predhodni klic je na čakanju…</string>
+     <string name="default_area_code_setting">Privzeta koda območja</string>
      <string name="description_icon_sim_card">SIM %1$d</string>
-  <string name="default_area_code_setting">Privzeta koda območja</string>
   <string name="description_image_button_answer">Odgovori</string>
   <string name="description_image_button_dialpad">Tipke za izbiranje</string>
   <string name="description_image_button_eight">osem</string>
@@ -187,8 +188,8 @@
   <string name="keep_wait_call_back">Čakaj</string>
   <string name="livetalk_dial">Uporaba paketa doplačila</string>
   <string name="livetalk_hangup">Prekini klic</string>
-  <string name="manager_conference_done">Končano</string>
   <string name="manageConferenceLabel">Urejaj konferenčne klice</string>
+     <string name="manager_conference_done">Končano</string>
   <string name="miprofile_stranger_card">Neznano</string>
   <string name="modify_call_failure_str">"Posodobitev klicev ni uspela
 "</string>
@@ -199,6 +200,7 @@
   <string name="modify_call_option_vt_tx">Oddajanje videa</string>
   <string name="modify_call_prompt_no">Ne</string>
   <string name="modify_call_prompt_yes">Da</string>
+     <string name="msim_select_default_time_left">(%d s)</string>
   <string name="network_error_message">Trenutno omrežje je nestabilno. Sprememba na redni klic ki ga operater lahko zaračuna.</string>
   <string name="network_error_title">Nestabilno omrežje</string>
   <string name="no_balance_message">Za to nimate dovolj sredstev na računu. Namesto tega uporabite redni klic ki ga operater zaračuna.</string>
@@ -265,8 +267,8 @@
   <string name="select_audio_dialog_title">Izberite način odgovora</string>
   <string name="select_one_sim_title">Uporabim lahko le SIM %1$d</string>
   <string name="select_one_sim_title_for_heduohao">Uporabim lahko le SIM %1$d Sub %2$d</string>
-  <string name="select_sim_hint_for_heduohao">"Ne morem uporabiti druge dokler je SIM %1$d Sub %2$d v uporabi."</string>
   <string name="select_sim_hint">"Ne morem uporabljati SIM %2$d, dokler je SIM %1$d v uporabi."</string>
+     <string name="select_sim_hint_for_heduohao">"Ne morem uporabiti druge dokler je SIM %1$d Sub %2$d v uporabi."</string>
   <string name="select_voice_call_sim">Izberi SIM kartico</string>
   <string name="separate_from_conference">Odvoji klic</string>
   <string name="sip_call_not_support_record">"Ne morem posneti SIP klicev"</string>

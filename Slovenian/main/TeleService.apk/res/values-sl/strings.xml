@@ -1404,6 +1404,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="label_cdp">Odklepanje SIM kartice s PIN številko</string>
   <string name="label_ndp">PIN za odklepanje omrežja kartice SIM</string>
   <string name="label_nsdp">SIM omrežje za odklep PIN</string>
+     <string name="label_phoneid">Perso Zaklenjeno za</string>
   <string name="label_puk">Vnesi PUK</string>
   <string name="label_puk2_code">Vtipkaj PUK2 kodo</string>
   <string name="label_rcdp">RUIM korporativni PIN odklepa</string>
@@ -1534,7 +1535,10 @@ za uporabo doplačila"</string>
   <string name="lodgings_disable">Nastanitve onemogočene</string>
   <string name="lodgings_enable">Nastanitve omogočene</string>
   <string name="login_account_button_text">Prijavite se</string>
+     <string name="lte_band_sel_setting">seznam pasov</string>
+     <string name="lte_band_set_status">nastavitev lte pasu</string>
   <string name="lte_checkbox_text">Nastavite mobilne podatke za izbrano SIM kartico enkrat kot privzeto kadar je 4G/3G SIM kartica zamenjana</string>
+     <string name="lte_freq_set_button">nastavi frekvenco in pci</string>
   <string name="lte_recognition_title">Prepoznavanje SIM kartice</string>
   <string name="lte_recognize_summary">Najdeni sta dve 4G/3G SIM kartici, morate izbrati privzeto 4G/3G SIM kartico:</string>
   <string name="lte_select_summary">Izbrana kartica bo prepoznana kot 4G/3G kartica, druga pa kot 2G kartica.</string>
@@ -1574,14 +1578,19 @@ za uporabo doplačila"</string>
 Številka v primeru nedostopnosti"</string>
   <string name="messageCFNRy">Številka v primeru če ni odgovora</string>
   <string name="messageCFU">Zmeraj uporabi to številko</string>
+     <string name="messageCFU_kr">Omrežna storitev, ki preusmeri vse dohodne klice in besedilna sporočila na določeno številko. Na to storitev se morate naročiti. Zaračunali vam bomo mesečno naročnino. Če se želite naročiti ali odjaviti od te storitve, se obrnite na center za stranke (114+ [Pošlji]). Vnesite %1$s+[številka za preusmeritev klicev] [Pošlji] da omogočite, ali %2$s [Pošlji] da onemogočite.</string>
   <string name="messageCFU_kr_kt">"Omrežna storitev, ki preusmerja vse dohodne klice in SMS-e na določeno številko. Morate se naročiti (in mesečno plačevati) na to storitev. Obrnite se na Uporabniški center (114+[Pošlji]) za naročanje ali odjavo. Vnesite *71+[številka za posredovanje klicev][Pošlji] da boste omogočili ali *710[Pošlji] da boste onemogočili.
 
 Zmeraj uporabi to številko"</string>
+     <string name="messageCW_kr">A free network service that allows you to answer a second call during a call, placing the first call on hold. Enter %1$s[Send] to enable, or %2$s[Send] to disable.</string>
   <string name="messageCW_kr_kt">Brezplačna omrežna storitev, ki omogoča odgovor na drugi klic med pogovorom in postavljanje prvega klica na čakanje. Vnesite *40+[Pošlji] da boste omogočili ali *400+[Pošlji] da boste onemogočili.</string>
   <string name="messageCallBarring">Vnesite geslo</string>
   <string name="message_decode_error">Napaka pri dekodiranju sporočila.</string>
   <string name="mhh_disable">Zdravstvo, Zdravje in Bolnišnica je izklopljeno</string>
   <string name="mhh_enable">Zdravstvo, Zdravje in Bolnišnica je vklopljeno</string>
+     <string name="mi_mobile_sim_activate_message">Aktivirajte SIM %d da lahko uporabljate Mi Mobile. To lahko traja do 5 minut.</string>
+     <string name="mi_mobile_sim_activate_ok">Aktiviraj</string>
+     <string name="mi_mobile_sim_activate_title">Dobrodošli v Mi Mobile!</string>
   <string name="mi_sim_settings_summary">Uporabite mobilne podatke brez SIM kartice</string>
   <string name="mi_sim_settings_title">Mi SIM</string>
   <string name="mismatchPin">Kodi PIN ki ste ju vnesli se ne ujemata. Poskusite znova.</string>

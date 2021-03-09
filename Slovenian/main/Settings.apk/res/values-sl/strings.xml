@@ -1739,6 +1739,10 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="bt_ldac_property">Lastnosti</string>
   <string name="bt_ldac_remember_choice">Zapomni si izbrano</string>
   <string name="bt_ldac_settings">Nastavitve</string>
+  <string name="bt_leaudio_open_dialog_summary">"Ko je LC3 vklopljen, na slušalke ne boste mogli povezati več naprav. Če vklopite to storitev, bodo druge povezane naprave prekinjene. Vseeno vklopim LC3?"</string>
+  <string name="bt_leaudio_open_dialog_title">Pozor</string>
+  <string name="bt_leaudio_pre_title">LC3</string>
+  <string name="bt_leaudio_summary">Kakovostna zvočna izkušnja</string>
   <string name="bt_lhdc_declaration">Če Bluetooth naprava podpira LHDC bo povezana po privzetih nastavitvah. LHDC ponuja visoko kvalitetno avdio izkušnjo, porablja pa energijo. Zaradi omejitev Bluetooth strojne opreme lahko pride do napak..</string>
   <string name="bt_lhdc_dialog_summary">"LHDC ponuja visoko kvalitetno avdio izkušnjo, porablja pa energijo. Storitev lahko izključite v nastavitvah"</string>
   <string name="bt_lhdc_dialog_title">Trenutna naprava podpira LHDC, ki je povezan po standardnem:</string>
@@ -9189,8 +9193,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="switchNetworkToast">Povezava z mobilnimi omrežji lahko povzroči dodatne stroške</string>
   <string name="switch_access_service_on">Menjava dostopa</string>
      <string name="switch_bootup_sound">Zagonski zvok</string>
-     <string name="switch_headset_anti_lost">Manjka opozorilo slušalk</string>
-     <string name="switch_headset_anti_lost_summary">Prejmite opozorilo, kadar je katera od vaših slušalk oddaljena od ušesa ali ohišja za polnjenje dlje kot minuto</string>
+     <string name="switch_headset_anti_lost">Manjka opozorilo slušalk</string>     <string name="switch_headset_anti_lost_title">Manjka opozorilo slušalk</string>
      <string name="switch_headset_anti_lost_title">Manjka opozorilo slušalk</string>
   <string name="switch_off_text">Izklopljeno</string>
   <string name="switch_on_text">Vklopljeno</string>
