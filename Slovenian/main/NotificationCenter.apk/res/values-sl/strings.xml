@@ -199,6 +199,11 @@
   <string name="notification_aggregate_title">Skupinska obvestila</string>
   <string name="notification_display_setting">Plošča obvestil</string>
   <string name="notification_display_style">Stil obvestil</string>
+     <string name="notification_fold_description1">Mapa z obvestili je bila predstavljena v MIUI 9. Ta funkcija filtrira nepomembna obvestila in jih postavi v posebno mapo.</string>
+     <string name="notification_fold_description2">MIUI si bo zapomnil, katerih obvestil se dotaknete, in nato z več merili ugotovil, ali so pomembna.</string>
+     <string name="notification_fold_description3">"Če obvestila, ki se vam zdijo pomembna, še vedno gredo v mapo Obvestila, nam o teh težavah prijavite. Hvaležni bomo za vaše povratne informacije."</string>
+     <string name="notification_fold_footer_icon_summary">Pokaži ikone aplikacij, ko so nepomembna obvestila razvrščena v skupine</string>
+     <string name="notification_fold_footer_icon_title">Pokaži ikone aplikacij</string>
   <string name="notification_fold_summary">Vsa nevažna obvestila se bodo pojavila v zasebni mapi</string>
   <string name="notification_fold_title">Mapa obvestil</string>
   <string name="notification_keyguard_hide_content">Pokaži obvestila a skrij vsebino</string>

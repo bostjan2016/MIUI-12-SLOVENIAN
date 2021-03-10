@@ -540,6 +540,7 @@ Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
   <string name="allow_usage_access_title">Ali dovolite dostop?</string>
   <string name="allow_vibrate_title">Dovoli vibracijo</string>
   <string name="alpha_build">Alpha</string>
+     <string name="already_delete_system_app">Odstranjene sistemske aplikacije</string>
   <string name="already_enable_encrypt">Šifriranje je že vključeno</string>
   <string name="always">Zmeraj</string>
   <string name="always_allow_bind_appwidgets_text">Aplikaciji dovolite da ustvari pripomočke in dostopa do njihovih podatkov.</string>
@@ -2082,6 +2083,7 @@ Ko napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dv
   <string name="cmcc_hardware_version">Verzija HW</string>
   <string name="codec_low_latency_summary">Zmanjšaj latenco med sinhronizacijo zvoka in videa v igri</string>
   <string name="codec_low_latency_title">Nizka latenca</string>
+     <string name="codec_low_latency_video_summary">Zagotovite zvočno izkušnjo z nizko zakasnitvijo za igre in videoposnetke, tako da bo sinhronizacija zvoka in slike bolj naravna.</string>
   <string name="collect_diagnostics_summary">Zberi diagnostične podatke za rešitev problema</string>
   <string name="collect_diagnostics_title">Zberi diagnostiko</string>
   <string name="color_black">Črna</string>
@@ -3482,6 +3484,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="face_data_input_ok_title">Uspešno dodano</string>
   <string name="face_data_input_structure_title">3D obraz</string>
   <string name="face_data_input_title">Dodaj obraz</string>
+  <string name="face_data_introduction_add">Začni</string>
   <string name="face_data_introduction_msg">Obraz lahko uporabite za odklepanje naprave ali preverjanje identitete. Preden dodate podatke o obrazu, dodajte geslo zakl. zaslona.</string>
   <string name="face_data_introduction_next">Naprej</string>
   <string name="face_data_introduction_title">Prepoznavanje obraza</string>
@@ -4058,6 +4061,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="heads_up_enabled_title">Pojavno za visoko prioriteto</string>
   <string name="headset_calibrate">Nastavljanje tipk</string>
      <string name="headset_connectiong">Povezovanje...</string>
+     <string name="headset_notification_switch_summary">Prikaži stanje v pomočniku za obvestila, ko so priključene slušalke</string>
+     <string name="headset_notification_switch_title">Pomočnik za obvestila</string>
      <string name="headset_remove_message">Ali želite odstraniti to napravo iz vašega računa?</string>
      <string name="headset_remove_message_indicate">%1$s bo razdružen iz vseh naprav, povezanih s tem Mi računom</string>
   <string name="headset_settings_title">Zvočni efekti</string>
@@ -4396,6 +4401,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
   <string name="keyboard_settings_title">Tipkovnica Android</string>
     <string name="keyboard_shortcuts_helper">Pomočnik za bližnjične tipke</string>
   <string name="keyboard_shortcuts_helper_summary">Prikaz dostopnih bližnjic</string>
+  <string name="keyboard_skin_follow_system_enable">Preklopite v temni način skupaj s sistemom</string>
   <string name="keyguard_advance_setting_title">Dodatne nastavitve</string>
   <string name="keyguard_double_tap_to_sleep_title">Dvakrat tapni zaslon za mirovanje</string>
   <string name="keyguard_left_function_chooser_hint_text">Leva bližnjica spremenjena v %s</string>
@@ -5410,6 +5416,8 @@ Tega dejanja ne moreš preklicati!"</string>
   <string name="miui_disturb_title">Ne moti</string>
   <string name="miui_enable_service_title">Storitev bo opravljala:</string>
   <string name="miui_experience_optimization">Vključi MIUI optimizacijo</string>
+     <string name="miui_face_enroll_risk_warning_btn_cancel">Prekliči</string>
+     <string name="miui_face_enroll_risk_warning_title_text">Pozor</string>
   <string name="miui_face_enroll_success">"Zdaj lahko to napravo odklenete s svojim obrazom.
 Nadaljujte k dodatnim nastavitvam."</string>
   <string name="miui_ime_xiaoai_voice_hint">Hitrejši in bolj praktičen način vnosa besedila</string>
