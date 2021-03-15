@@ -31,6 +31,7 @@
      <string name="afternoon">Popoldne</string>
      <string name="am">AM</string>
   <string name="clearable_edittext_clear_description">Očisti</string>
+     <string name="close">Zapri</string>
      <string name="copy">Kopiraj</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavite datum in uro</string>
@@ -290,6 +291,7 @@
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>
     <string name="search_menu_title">Iskanje</string>
+     <string name="send">Pošlji</string>
   <string name="share_cancel">Deljenje preklicano</string>
   <string name="share_failed">"Ne morem deliti"</string>
   <string name="share_no_network">"Ne morem se povezati na omrežje"</string>
@@ -297,6 +299,9 @@
   <string name="share_not_install_weibo">Najprej namestite Weibo</string>
   <string name="share_success">Uspešno deljeno</string>
   <string name="share_title">Skupna raba</string>
+     <string name="share_wechat_timeline_title">WeChat Trenutki</string>
+     <string name="share_wechat_title">WeChat</string>
+     <string name="share_weibo_title">Weibo</string>
   <string name="sunday">Nedelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>

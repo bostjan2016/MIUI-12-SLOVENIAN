@@ -154,6 +154,7 @@
   <string name="accessibility_preview_effect_button">Efekt pregleda</string>
      <string name="accessibility_preview_expand">Približaj</string>
      <string name="accessibility_preview_front">Predogled sprednje kamere</string>
+     <string name="accessibility_preview_remote">Predogled snemanja z dvojnim telefonom</string>
      <string name="accessibility_preview_select_tip">Položaj %1$d</string>
      <string name="accessibility_preview_selected">Izbrano</string>
      <string name="accessibility_preview_shrink">Oddalji</string>
@@ -286,7 +287,8 @@ in samodejno prilagodi nastavitve"</string>
   <string name="aperture">Zaslonka</string>
   <string name="app_details">Podrobnosti:</string>
      <string name="app_name">Prednost</string>
-  <string name="audio_focus_exit_button_text">Iključi Audio fokus</string>
+  <string name="audio_focus_exit_button_text">Izključi Audio fokus</string>
+     <string name="audio_map_summary_tip">Spremljajte glasnost levega in desnega kanala v realnem času in jo prilagodite z drsnikom</string>
   <string name="auto">Samod.</string>
      <string name="auto_hibernation_enter_tip">O izklopu zaslona…</string>
   <string name="autozoom_click_hint">"Tapnite objekt da ga zadržite v fokusu ko se premika. Ostanite oddaljeni najmanj 3 metre za najboljši učinek."</string>
@@ -533,6 +535,15 @@ in za trenutek zapustite pregled"</string>
   <string name="details_title">%1$d od %2$d stvari:</string>
   <string name="device_48m_watermark_default_text">48MP DVOJNA KAMERA</string>
   <string name="device_watermark_default_text">AI DVOJNA KAMERA</string>
+     <string name="dialog_button_accept">Sprejmem</string>
+     <string name="dialog_button_back">Nazaj</string>
+     <string name="dialog_button_cancel">Prekliči</string>
+     <string name="dialog_button_connect">Poveži</string>
+     <string name="dialog_button_disconnect">Izhod</string>
+     <string name="dialog_button_exit">Izključi</string>
+     <string name="dialog_button_ok">V redu</string>
+     <string name="dialog_button_reject">Zavrni</string>
+     <string name="dialog_button_scan">Išči naprave</string>
   <string name="dialog_google_lens_option_0">Google Leče (priporočeno)</string>
   <string name="dialog_ok">V redu</string>
   <string name="dialog_ok_time">V redu (%ds)</string>
@@ -735,6 +746,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
      <string name="hint_slow_motion">Videoposnetek ki ga snemate se bo predvajal počasneje.</string>
   <string name="hint_subtitle">"Diktirajte podnapise med snemanjem videoposnetkov"</string>
   <string name="hint_subtitle_prompt">Zdaj lahko diktirate podnapise</string>
+     <string name="histogram_summary_tip">Pokaži povratne informacije o izpostavljenosti v realnem času</string>
   <string name="hunt_dual_water_mark">Oznaka Dvojna kamera bo dodana samodejno.</string>
   <string name="id_card_mode_hint_back">Skenirajte zadnjo stran izkaznice</string>
   <string name="id_card_mode_hint_front">Skenirajte sprednjo stran izkaznice</string>
@@ -916,6 +928,7 @@ zgledali večji na fotografijah"</string>
   <string name="mimoji_eyebrow_shape">Oblika obrvi</string>
   <string name="mimoji_eyeglass">Očala</string>
   <string name="mimoji_eyelash">Trepalnice</string>
+     <string name="mimoji_eyelid">Veke</string>
   <string name="mimoji_featured_face">Obraz</string>
   <string name="mimoji_fragment_tab_name">Avatarji nalepk</string>
   <string name="mimoji_freckle">Pege</string>
@@ -1005,6 +1018,12 @@ zgledali večji na fotografijah"</string>
   <string name="network_access_user_notice_message_sticker">"Kamera se mora povezati na splet za ponujanje nalepk za to storitev.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Z dotikom na \"Strinjam se\", se strinjate z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in dovolite kameri povezovanje na splet."</string>
   <string name="network_access_user_notice_message_voice_caption">"Kamera se mora povezati na splet za storitev govor v tekst.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Z dotikom na \"Strinjam se\", se strinjate z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in dovolite kameri povezovanje na splet."</string>
   <string name="network_access_user_notice_title">Povezovanje na splet</string>
+     <string name="network_connection_failed">"Povezave ni bilo mogoče vzpostaviti"</string>
+     <string name="network_connection_ongoing">Povezovanje…</string>
+     <string name="network_connection_prerequisites">Vklopite Bluetooth in WiFi, če želite uporabljati snemanje z dvojnim telefonom.</string>
+     <string name="network_connection_prerequisites_china">Vklopite Bluetooth in WiFi, če želite uporabljati snemanje z dvojnim telefonom.</string>
+     <string name="network_connection_rejected">Zavrnjeno</string>
+     <string name="network_connection_timed_out">Povezava potekla</string>
   <string name="no_save">"Ne shrani"</string>
   <string name="no_storage">Pred uporabo kamere vstavite SD kartico.</string>
   <string name="no_thumbnail">Ni miniatur</string>
@@ -1533,6 +1552,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_custom_feature_layout_title">Razpored storitev</string>
   <string name="pref_custom_shutter_sound_title">Zvok</string>
   <string name="pref_custom_tint_title">Barve</string>
+     <string name="pref_customization_style">Slog po meri</string>
   <string name="pref_customization_title">Prilagodi</string>
   <string name="pref_document_mode">Dokumenti</string>
   <string name="pref_dual_camera_video">Sprednja &amp; zadnja</string>
@@ -1577,6 +1597,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_module_settings">Načini</string>
   <string name="pref_more_mode_style_title">Načini kamere</string>
   <string name="pref_multi_camera_dual_video_front">Sprednja kamera</string>
+     <string name="pref_multi_camera_dual_video_remote">Snemanje z dvema telefonoma</string>
      <string name="pref_n_s_a">Nastavitve glasnosti</string>
      <string name="pref_n_s_o_l">Vkl</string>
      <string name="pref_n_s_o_m">Izklj</string>
@@ -1614,6 +1635,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_super_night_se_title">Samod. nočni način dela</string>
   <string name="pref_userdefine_watermark_title">Lastna oznaka</string>
   <string name="pref_video_captrue_ability_title">Snemanje fotografij med snemanjem</string>
+     <string name="pref_video_cast_setting_summary">Vklopite, če želite snemati en video z več napravami</string>
+     <string name="pref_video_cast_setting_title">Snemanje z dvema telefonoma</string>
   <string name="pref_video_denoise_off">Izklj.</string>
   <string name="pref_video_denoise_on">Vklj.</string>
   <string name="pref_video_denoise_title">Filter hrupa</string>
@@ -1679,6 +1702,19 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="recommend_soft_light_tip">Uporabite bliskavico v načinu mehke svetlobe</string>
   <string name="recommend_super_night">Poskusite Nočni način</string>
   <string name="record_back_pressed_hint">Ponovno se dotakni za prenehanje snemanja</string>
+     <string name="remote_online_connecting">Izberite napravo za povezavo</string>
+     <string name="remote_online_disconnect_confirmation">Prekličem povezavo z %1$s?</string>
+     <string name="remote_online_exit_confirmation">Izklopim snemanje z dvema telefonoma?</string>
+     <string name="remote_online_exit_connecting">Prekličem povezavo in izklopim snemanje z dvema telefonoma?</string>
+     <string name="remote_online_guide">Vklopite snemanje z dvema telefonoma na drugi napravi u uporabo centra za kontrolo.</string>
+     <string name="remote_online_interrupted">Povezava prekinjena. Ponovno se povežite za nadaljevanje.</string>
+     <string name="remote_online_introduction_i">"Snemanje z dvema telefonoma omogoča kombiniranje virov iz dveh različnih naprav v en video. V tej napravi boste lahko predogledali vire in končni video. Upoštevajte, da bo zvok snemala samo ta naprava."</string>
+     <string name="remote_online_introduction_ii">Da ta funkcija deluje, mora druga naprava Mi ali Redmi podpirati snemanje z dvema telefonoma. Vklopite ga lahko v Centru za kontrolo.</string>
+     <string name="remote_online_searching">Iskanje naprav…</string>
+     <string name="remote_online_service_name">Snemanje z dvema telefonoma</string>
+     <string name="remote_online_unavailable">"Ne najdem naprav"</string>
+     <string name="remote_online_waiting">Čakam na povezavo…</string>
+     <string name="remote_online_whats">Kako deluje Snemanje z dvema telefonoma?</string>
      <string name="reset_manual_picture_style_toast">Parametri so bili uspešno ponastavljeni</string>
   <string name="reset_manually_parameter_confirmed">V redu</string>
   <string name="reset_manually_parameter_hint">Vrni</string>
@@ -1811,6 +1847,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="timer_burst_manu_param_interval">Interval brez ekspozicije</string>
   <string name="timer_burst_param_interval">Interval</string>
   <string name="timer_burst_param_total_count">Št. fotografij</string>
+     <string name="timerburst_pressed_hint">Tapnite znova za zaustavitev</string>
   <string name="times">X</string>
   <string name="title">Naslov</string>
   <string name="title_snap_double_confirm">Potrdi ponovno</string>
@@ -1876,6 +1913,16 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</s
   <string name="video_bokeh_zoom_in">Zoom in</string>
   <string name="video_bokeh_zoom_out">Zoom out</string>
   <string name="video_camera_label">Videokamera</string>
+     <string name="video_cast_connecting">Povezovanje…</string>
+     <string name="video_cast_exit_confirmation">Izhod zdaj?</string>
+     <string name="video_cast_exit_warning">"Vaš vir ne bo na voljo drugi napravi."</string>
+     <string name="video_cast_inviting">%1$s želi uporabiti Snemanje z dvema telefonoma z to napravo.</string>
+     <string name="video_cast_notification_content">Tapnite za ustavitev</string>
+     <string name="video_cast_notification_title">Uporaba več kamer v ozadju…</string>
+     <string name="video_cast_service_error">"Ne morem vključiti Snemanje z dvema telefonoma v ozadju"</string>
+     <string name="video_cast_service_name">Dva telefona</string>
+     <string name="video_cast_state_exited">Končano Snemanje z dvema telefonoma</string>
+     <string name="video_cast_state_paused">Premor</string>
   <string name="video_effect_entry_blackwhite">B&amp;W</string>
   <string name="video_effect_entry_bygone">Bygone</string>
   <string name="video_effect_entry_central">Central</string>

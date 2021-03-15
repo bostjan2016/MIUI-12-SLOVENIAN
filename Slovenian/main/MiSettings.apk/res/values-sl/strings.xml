@@ -328,6 +328,9 @@
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
      <string name="miuix_appcompat_cancel_description">Prekliči</string>
+     <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
+     <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
+     <string name="miuix_appcompat_cloud_state_syncing">Sinhronizacija z Cloudom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>

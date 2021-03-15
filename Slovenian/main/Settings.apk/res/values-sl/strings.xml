@@ -5335,6 +5335,7 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_ignore">Izbriši to napravo</string>
      <string name="miheadset_in_ear_check">Zaznavanje prisotnosti ušesa</string>
      <string name="miheadset_in_ear_check_summary">Samodejno ustavi in nadaljuj predvajanje, ko namestite ali odstranite slušalke</string>
+     <string name="miheadset_key_config_ANC_list_title">Kontrola hrupa</string>
      <string name="miheadset_key_config_call_ai">Glasovni asistent</string>
      <string name="miheadset_key_config_close">Izključi</string>
      <string name="miheadset_key_config_close_summary">Izklopi odpravljanje hrupa in preglednost</string>

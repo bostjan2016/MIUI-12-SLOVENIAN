@@ -200,6 +200,7 @@
   <string name="notification_playback">Predvajanje...</string>
   <string name="notification_recording">Snemam...</string>
   <string name="notification_recording_ticker">Telefon utišan.</string>
+     <string name="notification_save_as_complete">Uspešno shranjeno</string>
   <string name="notification_stopped">Snemanje končano</string>
   <string name="notification_title_all_paused">Nalaganje začasno ustavljeno</string>
   <string name="path_soundrecorder_setting">Sistemske aplikacije/Snemanje</string>
@@ -321,6 +322,7 @@
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>
+     <string name="save_as">Shrani kot</string>
   <string name="save_record_dialog_title">Shrani posnetek</string>
   <string name="search_app">Snemanje</string>
   <string name="search_empty">"Ne najdem rezultatov"</string>

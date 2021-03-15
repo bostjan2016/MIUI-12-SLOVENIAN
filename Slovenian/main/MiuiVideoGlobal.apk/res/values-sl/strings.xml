@@ -266,8 +266,13 @@
     <string name="diagnosis_log_sent_format">"Poročila so bila uspešno poslana.
 ID:%s
 Pošljite to kodo nadzorniku."</string>
+     <string name="dialog_disagree_privacychange_info">"Če se ne strinjate z našo politiko zasebnosti, ne boste mogli uporabljati spletnih storitev pretakanja Mi Video. Dotaknite se \ "Prekliči \", če se želite vrniti, ali \ "Ne strinjam se \", če želite nadaljevati, in uporabite Mi Video samo kot lokalni predvajalnik."</string>
+     <string name="dialog_disagree_privacychange_title">"Se ne strinjate?"</string>
+     <string name="dialog_privacy_change_info">"Zaradi prilagoditev storitev, ki jih ponujamo, smo posodobili Pravilnik o zasebnosti Mi Video. Če želite v celoti razumeti svoje pravice kot uporabnik in načine, kako uporabljamo vaše podatke, preberite in se strinjate z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> pred uporabo."</string>
+     <string name="dialog_privacy_change_title">Posodobitev Pravil o zasebnosti</string>
     <string name="dialog_privacy_info_new2">Za uporabo storitev se morate strinjati s tem, da bo aplikacija %1$s zbirala, obdelovala in uporabljala vaše osebne informacije. Potrjujete, da ste prebrali in razumete &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> s pritiskom na spodnji gumb \"Strinjam se\".</string>
     <string name="dialog_privacy_info_new3">Če želite uporabljati to storitev morate dovoliti aplikaciji %1$s zbiranje, obdelavo in uporabo vaših osebnih podatkov, glede na Pravila o zasebnosti. S pritiskom na gumb Strinjam se spodaj, se strinjajte s &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in &lt;a href=%3$s>Pogoji uporabe&lt;/a>. &lt;br/>&lt;br/>Pritisk na \"Strinjam se\" bo tudi omogočil aplikaciji Mi Video dostop do seznama aplikacij, ki so nameščene na vaši napravi. S tem dovoljenjem bo aplikacija Mi Video tudi lahko delila predmete, razumela, ali je aplikacija nameščena na vaši napravi, katera različica aplikacije je nameščena ter ali je aplikacija varna ali ne.</string>
+     <string name="dialog_privacy_info_new4">"Dobrodošli v Mi Video! Ta aplikacija ponuja naslednje storitve:&lt;br>&lt;/br> - Spletne storitve pretakanja&lt;br>&lt;/br>- Lokalni video predvajalnik&lt;br>&lt;/br>Mi Video mora zbrati potrebne osebne podatke, da vam omogoči osnovne storitve. Kako ravnamo s podatki, ki jih zbiramo, lahko izveste v našem pravilniku o zasebnosti. Povezane nastavitve boste lahko spremenili v Nastavitve> Gesla &amp;amp; varmost.&lt;br>&lt;/br>Preberite in se strinjajte z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> pred uporabo Mi Video."</string>
      <string name="dialog_privacy_revoke_cancel">Prekliči</string>
      <string name="dialog_privacy_revoke_count_down">Preklic soglasja (%1$ds)</string>
      <string name="dialog_privacy_revoke_description">Z izklopom stikala umaknete soglasje k Pravilniku o zasebnosti Mi Video. Nehali bomo zbirati vaše osebne podatke. Že zbrani in hranjeni osebni podatki bodo izbrisani v določenem roku, kot to zahteva veljavna zakonodaja. Vaš umik soglasja s politiko zasebnosti bo zavrnil sprejemanje spletnih storitev na podlagi zbranih osebnih podatkov.</string>
@@ -278,6 +283,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="dialog_privacy_title">Dovoljenje</string>
     <string name="dialog_revoke_privacy_info_new2">Ko prekličete dovoljenje bo aplikacija prenehala zbirati podatke, vsi povezani podatki pa bodo izbrisani iz naših strežnikov. Zaradi tega je lahko aplikacija tako rekoč neuporabna. Želite vseeno preklicati dovoljenje?</string>
     <string name="dialog_revoke_privacy_title">Preklic dovoljenja</string>
+     <string name="disagree">"Ne strinjam se"</string>
     <string name="diy_channels_tips">Zdaj si lahko prilagodite seznam kanalov.</string>
     <string name="do_not_show_again">Ne kaži več</string>
   <string name="download">Prenos</string>
@@ -772,6 +778,7 @@ za videoposnetke"</string>
     <string name="ok">V redu</string>
     <string name="on_tip_firework_recommend">Od Fireworka boste prejeli prilagojena priporočila vsebine</string>
      <string name="open_settings">Nastavitve</string>
+     <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Nedavne naročnine</string>
     <string name="order_recently_updated">Nedavno posodobljeno</string>
     <string name="ovp_alert_dialog_download_install_task">Prenašanje HD vtičnika…</string>

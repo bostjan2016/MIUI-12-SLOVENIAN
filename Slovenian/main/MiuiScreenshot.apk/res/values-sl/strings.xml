@@ -124,6 +124,7 @@ drsni posnetek zaslona"</string>
      <string name="monday">Ponedeljek</string>
      <string name="monday_short">Pon</string>
      <string name="monday_shortest">P</string>
+     <string name="month">Mesec</string>
     <string name="month_april">April</string>
     <string name="month_april_short">Apr</string>
      <string name="month_april_shortest">A</string>
@@ -151,6 +152,9 @@ drsni posnetek zaslona"</string>
      <string name="month_may">Maj</string>
      <string name="month_may_short">Maj</string>
      <string name="month_may_shortest">M</string>
+     <string name="month_medium_april">Apr</string>
+     <string name="month_medium_august">Avg</string>
+     <string name="month_medium_december">Dec</string>
     <string name="month_november">November</string>
     <string name="month_november_short">Nov</string>
      <string name="month_november_shortest">N</string>
@@ -265,5 +269,6 @@ drsni posnetek zaslona"</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
+     <string name="yes">Da</string>
      <string name="yesterday">Včeraj</string>
 </resources>
