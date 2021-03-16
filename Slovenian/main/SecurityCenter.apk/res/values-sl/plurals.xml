@@ -845,6 +845,7 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
      <plurals name="lockpattern_recording_intro_header_new">
         <item quantity="other">Povežite najmanj %s točk</item>
         <item quantity="one">Povežite najmanj %s točko</item>
+     </plurals>
      <plurals name="power_20s_shutdown">
         <item quantity="other">Naprava se bo izključila čez %d sekund</item>
         <item quantity="one">Naprava se bo izključila čez %d sekund</item>
