@@ -49,6 +49,7 @@
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="confirm">V redu</string>
   <string name="copy">Kopiraj</string>
+     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
   <string name="default_list_type">Razporedi po času prejema</string>
   <string name="disable_float_notification">"Plavajoča obvestila niso dovoljena"</string>
   <string name="disable_lockscreen_notification">"Obvestila zakl. zaslona niso dovoljena"</string>
@@ -68,6 +69,8 @@
   <string name="feedback_tip_cancel">"Podatki obvestil se ne bodo zbirali."</string>
   <string name="feedback_tip_msg">Da bomo natančneje združili obvestila moramo zbrati ime aplikacije, naslov in opis obvestila ter čas obvestila. Pošljem povratne informacije?</string>
   <string name="feedback_tip_title">Povratne informacije o kategorijah obvestil</string>
+     <string name="float_notification_snooze_strategy">Začasno skrij</string>
+     <string name="float_notification_snooze_summary">Povlecite navzgor po plavajočem obvestilu, da začasno skrijete prihajajoča</string>
   <string name="float_notifications">Plavajoča obvestila</string>
   <string name="float_notifications_short">Plavajoče</string>
      <string name="fold_importance_default">Priporočeno</string>
@@ -98,6 +101,10 @@
   <string name="menu_setting_toast_show_in_home">"Obvestila od %s ne bodo združena"</string>
   <string name="menu_setting_unfold">Važno</string>
   <string name="midnight">Polnoč</string>
+     <string name="miui_snooze_always_float">"Ne skrivaj"</string>
+     <string name="miui_snooze_cancel">Prekliči</string>
+     <string name="miui_snooze_default_time">Za %d minut</string>
+     <string name="miui_snooze_until_unlock_screen">Dokler se ne zaklene</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
   <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>

@@ -784,6 +784,14 @@
         <item quantity="other">pred %d dni</item>
         <item quantity="one">pred %d dan</item>
      </plurals>
+     <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Hitro naprej %d sekund</item>
+        <item quantity="one">Hitro naprej %d sekund</item>
+     </plurals>
+     <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Nazaj %d sekund</item>
+        <item quantity="one">Nazaj %d sekundo</item>
+     </plurals>
      <plurals name="game_booster_incoming_call_duration_p2">
         <item quantity="other">%1$s</item>
         <item quantity="one">%1$s</item>
@@ -837,6 +845,9 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
      <plurals name="lockpattern_recording_intro_header_new">
         <item quantity="other">Povežite najmanj %s točk</item>
         <item quantity="one">Povežite najmanj %s točko</item>
+     <plurals name="power_20s_shutdown">
+        <item quantity="other">Naprava se bo izključila čez %d sekund</item>
+        <item quantity="one">Naprava se bo izključila čez %d sekund</item>
      </plurals>
      <plurals name="power_center_battery_charge_number">
         <item quantity="other">krat</item>
