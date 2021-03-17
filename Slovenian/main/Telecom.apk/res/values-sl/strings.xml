@@ -155,8 +155,8 @@
   <string name="bluetooth_dun_profile_summary_use_for">Uporabi za dial-up dostop do omrežja</string>
   <string name="bluetooth_enable_gabeldorsche">Omogoči  Gabeldorsche</string>
   <string name="bluetooth_enable_gabeldorsche_summary">Omogoča nize funkcij Gabeldorsche Bluetooth.</string>
-  <string name="bluetooth_enable_inband_ringing">Omogoči zvonenje znotraj pasovne širine</string>
-  <string name="bluetooth_enable_inband_ringing_summary">Omogoči predvajanje zvonenja telefona preko Bluetooth slušalk</string>
+  <string name="bluetooth_enable_inband_ringing">Omogoči zvonjenje znotraj pasovne širine</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Omogoči predvajanje zvonjenja telefona preko Bluetooth slušalk</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezano z telefonskim zvokom</string>
   <string name="bluetooth_headset_profile_summary_use_for">Uporabi za zvok telefona</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Povezava s slušnimi pripomočki je vzpostavljena</string>

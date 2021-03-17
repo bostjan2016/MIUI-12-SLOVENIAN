@@ -983,13 +983,13 @@ Pošljite to kodo nadzorniku."</string>
   <string name="server_error">Prišlo je do napake, počakajte minuto ali dve in poskusite znova.</string>
   <string name="service_and_settings">Storitev in nastavitve</string>
   <string name="service_error">Napaka na strežniku</string>
-  <string name="set_as_ring">Nastavi za zvonenje</string>
+  <string name="set_as_ring">Nastavi za zvonjenje</string>
   <string name="set_id3_failed">"Ne morem shraniti"</string>
   <string name="set_id3_not_have_read_or_write_permission">"Nimate dovoljenj za urejanje te datoteke."</string>
   <string name="set_id3_not_support_format">"Tega formata datoteke ni mogoče urediti"</string>
   <string name="set_id3_successful">Uspešno shranjeno</string>
-  <string name="set_ringtones_failed">"Ne morem nastaviti za zvonenje"</string>
-  <string name="set_ringtones_successful">%s nastavljeno za zvonenje</string>
+  <string name="set_ringtones_failed">"Ne morem nastaviti za zvonjenje"</string>
+  <string name="set_ringtones_successful">%s nastavljeno za zvonjenje</string>
   <string name="set_success">Uspešno zamenjano</string>
   <string name="setting_feature_setting">Nastavitve storitve</string>
   <string name="setting_login_tips">Prijavite se za sinhronizacijo priljubljenih</string>

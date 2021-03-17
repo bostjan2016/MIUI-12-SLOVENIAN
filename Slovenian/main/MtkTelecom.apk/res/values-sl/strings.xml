@@ -116,8 +116,8 @@
     <string name="bluetooth_disconnecting">Prekinjanje povezave ...</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na DUN strežnik</string>
   <string name="bluetooth_dun_profile_summary_use_for">Uporabi se za dial-up dostop do omrežja</string>
-  <string name="bluetooth_enable_inband_ringing">Omogoči zvonenje znotraj pasovne širine</string>
-  <string name="bluetooth_enable_inband_ringing_summary">Omogoči predvajanje zvonenja telefona preko Bluetooth slušalk</string>
+  <string name="bluetooth_enable_inband_ringing">Omogoči zvonjenje znotraj pasovne širine</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Omogoči predvajanje zvonjenja telefona preko Bluetooth slušalk</string>
     <string name="bluetooth_headset_profile_summary_connected">Povezava s profilom za zvok telefona vzpostavljena</string>
     <string name="bluetooth_headset_profile_summary_use_for">Uporabi za zvok telefona</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Povezava s slušnimi pripomočki je vzpostavljena</string>

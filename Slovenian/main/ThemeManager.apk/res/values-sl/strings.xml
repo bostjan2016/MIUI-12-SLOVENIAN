@@ -103,7 +103,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="apply_succeed">Nastavljeno</string>
   <string name="apply_success_not_enable_aod">Najprej vključite Vedno na zaslonu v nastavitvah</string>
   <string name="apply_success_not_support_aod">"Ne morem kombinirati Vedno na zaslonu s temami v tej napravi. Ostali deli te teme so uspešno nastavljeni."</string>
-  <string name="apply_theme_with_ringtones">Uporabite melodijo zvonenja teme</string>
+  <string name="apply_theme_with_ringtones">Uporabite melodijo zvonjenja teme</string>
   <string name="audio_duration_minutes_format">%1$d min.</string>
   <string name="audio_duration_seconds_format">%1$d sek.</string>
   <string name="audition_ringtone">Predvajaj</string>
@@ -191,7 +191,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="component_backup_preference_title">Napravi var.kopijo tem</string>
   <string name="component_category_finest_title">SPLOŠNO</string>
   <string name="component_category_more_title">NAPREDNO</string>
-  <string name="component_title_ringtone">Melodija zvonenja</string>
+  <string name="component_title_ringtone">Melodija zvonjenja</string>
   <string name="component_title_settings_video_wallpaper">Slike ozadja s posebnimi efekti</string>
   <string name="component_title_video_wallpaper">Filmi</string>
   <string name="component_title_wallpaper">Slika za ozadje</string>
@@ -458,7 +458,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="incall_show_apply_fail">"Ne morem nastaviti"</string>
   <string name="incall_show_apply_success">"Uspešno nastavljeno. Da boste to storitev izključili,
 pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposnetek."</string>
-  <string name="incall_show_apply_success_without_ringtone">"Uspešno nastavljeno. Ta videoposnetek nima zvoka. Uporabljen bo originalni zvok zvonenja.
+  <string name="incall_show_apply_success_without_ringtone">"Uspešno nastavljeno. Ta videoposnetek nima zvoka. Uporabljen bo originalni zvok zvonjenja.
 Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposnetek."</string>
   <string name="incall_show_find_more">Najdi več</string>
   <string name="incall_show_not_set">Ni profilnega videposnetka</string>
@@ -477,7 +477,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="item_resource_audio_optional_alarm_ring">Alarmi</string>
   <string name="item_resource_audio_optional_color_ring">Zvok povratnega signala</string>
   <string name="item_resource_audio_optional_notification_ring">Obvestila</string>
-  <string name="item_resource_audio_optional_phone_ring">Melodija zvonenja</string>
+  <string name="item_resource_audio_optional_phone_ring">Melodija zvonjenja</string>
   <string name="item_view_role_description">Kartica</string>
   <string name="kuyin_user_agreement_content">Naročnine za melodije zvonjenja po meri zagotavlja iFlytek. Preden začnete uporabljati naročnine na melodije zvonjenja, se morate strinjati z %s. Se strinjate ?</string>
   <string name="kuyin_user_agreement_content_href">iFlytek Pravila o zasebnosti</string>
@@ -661,8 +661,8 @@ mm"</string>
   <string name="mtrl_picker_toggle_to_day_selection">Tapnite za prehod na izbiro dni</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Prestavite na način vnosa teksta</string>
   <string name="mtrl_picker_toggle_to_year_selection">Tapnite za prehod na izbiro leta</string>
-  <string name="multi_sim_mms_ringtone_settings_dialog_message">Ta melodija zvonenja bo nastavljena za obe SIM kartici.</string>
-  <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvonenja je nastavljena za obe SIM kartici.</string>
+  <string name="multi_sim_mms_ringtone_settings_dialog_message">Ta melodija zvonjenja bo nastavljena za obe SIM kartici.</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvonjenja je nastavljena za obe SIM kartici.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Razumem</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"Ne kaži več"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Težave s kompatibilnostjo</string>
@@ -713,7 +713,7 @@ mm"</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
   <string name="personalize_alarm_ringtone_title">Alarmi</string>
   <string name="personalize_aod_title">AOD</string>
-  <string name="personalize_call_ringtone_title">Melodije zvonenja</string>
+  <string name="personalize_call_ringtone_title">Melodije zvonjenja</string>
   <string name="personalize_charge_style_title">Polnjenje</string>
   <string name="personalize_default_font">Privzeti font</string>
   <string name="personalize_fingerprint_style_title">Prstni odtis</string>
@@ -887,7 +887,7 @@ mm"</string>
   <string name="resource_is_off_shelf">Ni na voljo</string>
   <string name="resource_is_off_shelf_can_not_share">"Ne morem deliti. Ta stvar ni več na voljo."</string>
   <string name="resource_list_title">Zadnje izbrano</string>
-  <string name="resource_local_picker">Izberi melodijo zvonenja</string>
+  <string name="resource_local_picker">Izberi melodijo zvonjenja</string>
   <string name="resource_menu_refresh">Osveži</string>
   <string name="resource_mute">Brez</string>
   <string name="resource_my">Lokalno</string>
@@ -920,9 +920,9 @@ mm"</string>
   <string name="resource_restore">Vrni</string>
   <string name="resource_restore_fail">"Ne morem vrniti"</string>
   <string name="resource_restore_succ">Uspešno vrnjeno</string>
-  <string name="resource_ringtone_default">Zvonenje</string>
+  <string name="resource_ringtone_default">Zvonjenje</string>
   <string name="resource_ringtone_playing_error">Napaka v predvajanju</string>
-  <string name="resource_ringtone_volume_mute">Vaše zvonenje je utišano</string>
+  <string name="resource_ringtone_volume_mute">Vaše zvonjenje je utišano</string>
   <string name="resource_save_to_note">Shrani v beležko</string>
   <string name="resource_search_color_hint_blue">Modra</string>
   <string name="resource_search_color_hint_green">Zelena</string>
@@ -937,8 +937,8 @@ mm"</string>
   <string name="resource_select_audio_confirm_picker">Izberem ta zvok?</string>
   <string name="resource_select_boot_audio_confirm">Izberem ta zagonski zvok?</string>
   <string name="resource_select_notification_audio_confirm">Izberem ta zvok za alarm?</string>
-  <string name="resource_select_ringtone_audio_confirm">Izberem ta zvok za zvonenje?</string>
-  <string name="resource_select_ringtone_confirm">Izberem ta zvok za zvonenje?</string>
+  <string name="resource_select_ringtone_audio_confirm">Izberem ta zvok za zvonjenje?</string>
+  <string name="resource_select_ringtone_confirm">Izberem ta zvok za zvonjenje?</string>
   <string name="resource_selected">Priporočeno</string>
   <string name="resource_send">Pošlji</string>
   <string name="resource_server_alert_dialog_title">"Takoj bomo nazaj…"</string>
@@ -955,7 +955,7 @@ mm"</string>
   <string name="resource_title_hot_subject">Popularno</string>
   <string name="resource_title_local">Izvenmrežno</string>
   <string name="resource_title_rank">Najlepše</string>
-  <string name="resource_title_select_ringtone">Izberi zvonenje</string>
+  <string name="resource_title_select_ringtone">Izberi zvonjenje</string>
   <string name="resource_title_subject">Priporočeno</string>
   <string name="resource_trial_15_days_end_title">Poskusno obdobje 15 dni je poteklo</string>
   <string name="resource_trial_15_days_immediately">Poskusite 15 dni takoj</string>
@@ -984,8 +984,10 @@ mm"</string>
   <string name="resource_waiting_download">Čakanje…</string>
   <string name="resource_waiting_pause">Premor</string>
   <string name="resource_wallpaper_download">Prenesi sliko ozadja</string>
-     <string name="restore_home_icon_text">Dodajte bližnjico na začetni zaslon</string>
-     <string name="restore_icon_later">V nastavitvah lahko znova dodate bližnjico na začetni zaslon</string>
+  <string name="restore_home_icon_text">Dodajte bližnjico na začetni zaslon</string>
+  <string name="restore_icon_later">V nastavitvah lahko znova dodate bližnjico na začetni zaslon</string>
+  <string name="ringtone_confirm_dialog_message">"To zvonjenje je dokaj dolgo. Ga uporabim?"</string>
+  <string name="ringtone_confirm_dialog_title">Pozor</string>
   <string name="ringtone_set_success">Uspešno nastavljeno</string>
   <string name="s1">Shrani sliko</string>
   <string name="s2">Dovolim oglasu shranjevanje slik v Galerijo?</string>
@@ -1017,10 +1019,9 @@ mm"</string>
   <string name="selected_resource_file_invalid">"Ne morem uporabljati izbrano datoteko virov"</string>
   <string name="server_internal_error">Napaka strežnika. Počakajte trenutek ali dva in poskusite ponovno.</string>
   <string name="set_as_colorring">Nastavi kot ton zvonjenja po meri</string>
-  <string name="set_color_ring_back_tone">Nastavite lastno melodijo zvonenja</string>
+  <string name="set_color_ring_back_tone">Nastavite lastno melodijo zvonjenja</string>
   <string name="set_home_wallpaper_failed">"%s. Ne morem nastaviti slike ozadja zač. zaslona."</string>
-     <string name="set_wallpaper_group_success">"%1$s nastavljeno.
-Vsako uro boste videli novo sliko."</string>
+     <string name="set_wallpaper_group_success">"Uspešno nastavljeno \"%1$s\" ozadje</string>
   <string name="setting_font_online">Online fonti</string>
   <string name="settings">Nastavitve</string>
   <string name="settings_search_keyword_font_free">Brezplačni fonti</string>
@@ -1092,7 +1093,7 @@ Vsako uro boste videli novo sliko."</string>
   <string name="the_picture_is_not_support">Slika ni podprta</string>
   <string name="the_picture_is_too_small">Slika je premajhna</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
-  <string name="theme_apply_audio_dialog_item_color_ring_back_tone">Lastna melodija zvonenja</string>
+  <string name="theme_apply_audio_dialog_item_color_ring_back_tone">Lastna melodija zvonjenja</string>
   <string name="theme_apply_audio_dialog_item_mms">Melodija SMS sporočila</string>
   <string name="theme_apply_audio_dialog_item_notification">Obvestila</string>
   <string name="theme_apply_audio_dialog_item_ringtone">Melodija zvonjenja</string>
@@ -1135,7 +1136,7 @@ Vsako uro boste videli novo sliko."</string>
   <string name="theme_component_title_notification">Obvestila</string>
   <string name="theme_component_title_others">Drugo</string>
   <string name="theme_component_title_photo_frame">Okvir slike</string>
-  <string name="theme_component_title_ringtone">Zvonenje</string>
+  <string name="theme_component_title_ringtone">Zvonjenje</string>
   <string name="theme_component_title_statusbar">Vrstica stanja</string>
   <string name="theme_component_title_wallpaper">Začetni zaslon</string>
   <string name="theme_component_video_wallpaper">Dinamične slike ozadja</string>
@@ -1195,7 +1196,7 @@ Vsako uro boste videli novo sliko."</string>
   <string name="time_picker_label_minute">M</string>
   <string name="tips_theme_gate_transfer_fail">"Ne morem odpreti te strani. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="title_component">Prilagodite temo</string>
-  <string name="title_my_audio_resource">Moje melodije zvonenja</string>
+  <string name="title_my_audio_resource">Moje melodije zvonjenja</string>
   <string name="title_my_miwallpaper_desktop_effects">Efekti zač. zaslona</string>
   <string name="title_my_miwallpaper_resource">Moja animirana ozadja</string>
   <string name="title_my_miwallpaper_video_file_resource">Moja video ozadja</string>
@@ -1203,7 +1204,7 @@ Vsako uro boste videli novo sliko."</string>
   <string name="title_my_wallpaper_resource">Moje slike za ozadje</string>
   <string name="title_system_audio_alarm_resource">Alarmi sistema</string>
   <string name="title_system_audio_notification_resource">Obvestila sistema</string>
-  <string name="title_system_audio_resource">Sistemske melodije zvonenja</string>
+  <string name="title_system_audio_resource">Sistemske melodije zvonjenja</string>
   <string name="title_system_wallpaper_resource">Sistemske slike za ozadje</string>
   <string name="to_activate_the_account">Aktivirajte zdaj svoj Mi Račun</string>
   <string name="today">Danes</string>

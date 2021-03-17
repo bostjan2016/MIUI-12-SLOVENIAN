@@ -1019,7 +1019,7 @@ Kliknite tipko Push kamere da boste ugotovili ali se je kamera vključila"</stri
      <string name="radio_info_phone_idle">Nedejavno</string>
      <string name="radio_info_phone_number_label">Številka telefona:</string>
      <string name="radio_info_phone_offhook">KLic poteka</string>
-     <string name="radio_info_phone_ringing">Zvonenje</string>
+     <string name="radio_info_phone_ringing">Zvonjenje</string>
      <string name="radio_info_radio_power">Moč celičnega radia</string>
      <string name="radio_info_roaming_in">Gostovanje</string>
      <string name="radio_info_roaming_label">Gostovanje:</string>

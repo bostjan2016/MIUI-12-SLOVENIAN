@@ -4787,7 +4787,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_dev_no">Možnost za razvijalce je vklopljena</string>
   <string name="title_dev_yes">Možnost za razvijalce je izklopljena</string>
   <string name="title_device_not_root">"ROOT dostop ni odobren"</string>
-  <string name="title_do_not_disturb">"Ne slišite zvonenja?"</string>
+  <string name="title_do_not_disturb">"Ne slišite zvonjenja?"</string>
   <string name="title_eye_shield">"Barva zaslona ni vredu?"</string>
   <string name="title_find_device">Najdi napravo</string>
   <string name="title_first_aid_kit">Popravite težave</string>

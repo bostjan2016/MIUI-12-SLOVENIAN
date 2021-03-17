@@ -2,7 +2,7 @@
 <resources>
   <string name="add_alarm_text">Dodaj alarm</string>
   <string name="add_notification_text">Dodaj obvestilo</string>
-  <string name="add_ringtone_text">Dodaj melodijo zvonenja</string>
+  <string name="add_ringtone_text">Dodaj melodijo zvonjenja</string>
   <string name="alarm_sound_default">Privzeti zvok alarma</string>
   <string name="app_label">Prostor za shranjevanje</string>
   <string name="artist_label">Izvajalec</string>
@@ -30,7 +30,7 @@
   <string name="sound_name_wag">Mahanje</string>
   <string name="storage_description">Lokalna shramba</string>
   <string name="uid_label">Medij</string>
-  <string name="unable_to_add_ringtone">Dodajanje prilagojene melodije zvonenja ni mogoče</string>
-  <string name="unable_to_delete_ringtone">Brisanje prilagojene melodije zvonenja ni mogoče</string>
+  <string name="unable_to_add_ringtone">Dodajanje prilagojene melodije zvonjenja ni mogoče</string>
+  <string name="unable_to_delete_ringtone">Brisanje prilagojene melodije zvonjenja ni mogoče</string>
   <string name="upgrade_msg">Nadgradnja baze podatkov medija.</string>
 </resources>

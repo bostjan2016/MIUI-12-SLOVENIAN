@@ -5223,7 +5223,7 @@ Tega dejanja ne moreš preklicati!"</string>
   <string name="memory_media_cache_usage">Predpomnjeni podatki</string>
   <string name="memory_media_misc_usage">Druge datoteke</string>
   <string name="memory_media_usage">Predstavnost</string>
-  <string name="memory_music_usage">Zvok (glasba, melodije zvonenja, podcasti ipd.)</string>
+  <string name="memory_music_usage">Zvok (glasba, melodije zvonjenja, podcasti ipd.)</string>
     <string name="memory_performance">Izvajanje</string>
   <string name="memory_rightvalue">Skupaj: %s</string>
   <string name="memory_settings_title">Pomnilnik</string>
@@ -6587,8 +6587,8 @@ Pred uporabo preberite in sprejmite %s."</string>
   <string name="path_preferred_network_type_settings">Nastavitve/Nastavitve mobilnega omrežja/Željeni tip omrežja</string>
   <string name="path_privacy_policy">Nastavitve/O napravi/Pravne informacije/Pravila o zasebnosti</string>
   <string name="path_privacy_settings">Nastavitve/Dodatne nastavitve/Var. kopija &amp; prekliči</string>
-  <string name="path_ringer_volume_settings">Nastavitve/Zvok &amp; vibracija/Glasnost/Melodija zvonenja &amp; obvestila</string>
-  <string name="path_ringtone_settings">Nastavitve/Zvok &amp; vibracija/Melodija zvonenja</string>
+  <string name="path_ringer_volume_settings">Nastavitve/Zvok &amp; vibracija/Glasnost/Melodija zvonjenja &amp; obvestila</string>
+  <string name="path_ringtone_settings">Nastavitve/Zvok &amp; vibracija/Melodija zvonjenja</string>
   <string name="path_safe_result_header_title_system">Nastavitve/Dodatne nastavitve/Varnost sistema</string>
   <string name="path_screen_effect_settings">Nastavitve/Zaslon/Barve &amp; saturacija</string>
   <string name="path_screen_key_long_press_timeout">Nastavitve/Dodatne nastavitve/Tipke/Nastavi čas dolgega pritiska</string>
@@ -7210,7 +7210,7 @@ Pred uporabo preberite in sprejmite %s."</string>
   <string name="radioInfo_menu_viewSDN">Pokaži številke za klicanje storitev</string>
   <string name="radioInfo_phone_idle">Nedejaven</string>
     <string name="radioInfo_phone_offhook">Aktivni klic</string>
-  <string name="radioInfo_phone_ringing">Zvonenje</string>
+  <string name="radioInfo_phone_ringing">Zvonjenje</string>
   <string name="radioInfo_roaming_in">Gostovanje</string>
   <string name="radioInfo_roaming_not">Ni gostovanja</string>
   <string name="radioInfo_service_emergency">Samo klici v sili</string>
@@ -7393,7 +7393,7 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="resolution_qhd_summary" formatted="false">%d×%d (doda jasnost)</string>
   <string name="resolution_sub_title">MIUI lahko med preklapljanjem ločljivosti zapre aplikacije, ki se izvajajo v ozadju</string>
   <string name="resolver_settings_label">Razvrsti</string>
-  <string name="resource_ringtone_volume_mute">Vaše zvonenje je trenutno utišano</string>
+  <string name="resource_ringtone_volume_mute">Vaše zvonjenje je trenutno utišano</string>
   <string name="restore">Vrni</string>
   <string name="restore_backup">Vrni</string>
   <string name="restore_contact">Obnovi stike</string>
@@ -7944,10 +7944,10 @@ Za uporabo pripenjanja aplikacije: \u0009
   <string name="search_restriction_nfc_enable_title">NFC</string>
   <string name="search_results_label">Rezultati</string>
   <string name="search_results_title">Nastavitve</string>
-  <string name="search_ring_volume">Glasnost;Glasnosti;Melodija zvonenja &amp; obvestila;Melodija zvonenja;Melodije zvonenja;Alarm;Glasba</string>
-  <string name="search_ring_volume_option_title">Glasnosti;glasnost;Melodija zvonenja &amp; obvestila;melodija zvonenja;melodije zvonenja;Alarm;Glasba</string>
-  <string name="search_ringtone">Melodija zvonenja;Melodija zvonenja;Melodije zvonenja</string>
-  <string name="search_ringtone_title">Melodija zvonenja;melodija zvonenja;melodije zvonenja</string>
+  <string name="search_ring_volume">Glasnost;Glasnosti;Melodija zvonjenja &amp; obvestila;Melodija zvonjenja;Melodije zvonjenja;Alarm;Glasba</string>
+  <string name="search_ring_volume_option_title">Glasnosti;glasnost;Melodija zvonjenja &amp; obvestila;melodija zvonjenja;melodije zvonjenja;Alarm;Glasba</string>
+  <string name="search_ringtone">Melodija zvonjenja;Melodija zvonjenja;Melodije zvonjenja</string>
+  <string name="search_ringtone_title">Melodija zvonjenja;melodija zvonjenja;melodije zvonjenja</string>
   <string name="search_safe_result_header_title_system">Zasebnost:Varnost:Neznani viri;Pokaži geslo;Podpis aplikacije;Podpisi aplikacije;Očisti certifikate;Očisti certifikat</string>
   <string name="search_screen_effect">Barve &amp; saturacija;Barve &amp; kontrast;Barva;Barve;Saturacija;Kontrast</string>
   <string name="search_screen_key_long_press_timeout">Nastavi čas dolgega pritiska;Dolgi pritisk;Pritisni;Dotakni in zadrži</string>
@@ -7974,7 +7974,7 @@ Za uporabo pripenjanja aplikacije: \u0009
   <string name="search_sms_received">Prejeto sporočilo;Melodija sporočila;Sprejeto sporočilo;Melodija sporočila</string>
   <string name="search_sms_received_sound_title">Sporočilo prejeto;melodija sporočila;sporočilo prejeto;melodija sporočila</string>
   <string name="search_sound_effects_enable_title">Zvoki dotika;Vključi zvoke dotikov</string>
-  <string name="search_sound_settings">Zvok;Glasnost;Glasnost;Tiho;Tiho;Tišina;Alarm;Glasba;Vibracija;vibriraj;melodija zvonenja;Melodija zvonenja;Privzeti zvok obvestil;zvok obvestil;zvoki obvestil;Prejeto sporočilo;Prejeto sporočilo;Sporočilo dostavljeno;Sporočilo dostavljeno;Dotik;Zvoki dotika;Zvoki;Zvok Zakl. zaslona;Nastavitve zvoka;Zvok;Omejitev hrupa okolice;hrup;Utišanje;Utišanje hrupa</string>
+  <string name="search_sound_settings">Zvok;Glasnost;Glasnost;Tiho;Tiho;Tišina;Alarm;Glasba;Vibracija;vibriraj;melodija zvonjenja;Melodija zvonjenja;Privzeti zvok obvestil;zvok obvestil;zvoki obvestil;Prejeto sporočilo;Prejeto sporočilo;Sporočilo dostavljeno;Sporočilo dostavljeno;Dotik;Zvoki dotika;Zvoki;Zvok Zakl. zaslona;Nastavitve zvoka;Zvok;Omejitev hrupa okolice;hrup;Utišanje;Utišanje hrupa</string>
   <string name="search_status_bar">Obvestila &amp;Statusna vrstica;Obvestila;Statusna vrstica;status;Obvestila aplikacij;Položaji bližnjic;Bližnjica;Bližnjice;Hitrost povezave;Ime operaterja;Operater;Obvestilo posnetka zaslona;posnetek zaslona;Zakl. zaslona</string>
   <string name="search_status_bar_settings">Obvestila &amp; vrstica obvestil;Obvestila;vrstica obvestil</string>
   <string name="search_status_bar_settings_custom_carrier">Uredi ime operaterja;Ime operaterja</string>

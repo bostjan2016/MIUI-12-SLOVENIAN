@@ -995,8 +995,8 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"<
   <string name="menu_bar_group_batch_remove">Izbriši skupino</string>
   <string name="menu_bar_group_delete">Izbriši</string>
   <string name="menu_bar_group_rename">Preimenuj</string>
-  <string name="menu_bar_group_ringtone">Skupinsko zvonenje</string>
-  <string name="menu_bar_group_ringtone_largeui">Zvonenje</string>
+  <string name="menu_bar_group_ringtone">Skupinsko zvonjenje</string>
+  <string name="menu_bar_group_ringtone_largeui">Zvonjenje</string>
   <string name="menu_bar_group_sms">Skupinski SMS</string>
   <string name="menu_call">Pokliči stik</string>
   <string name="menu_callNumber">Kliči %s</string>
@@ -1034,7 +1034,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"<
   <string name="menu_select_none">Odznači vse</string>
   <string name="menu_sendSMS">Pošlji stiku sporočilo</string>
   <string name="menu_sendTextMessage">Pošlji SMS sporočilo</string>
-  <string name="menu_set_ring_tone">Nastavi melodijo zvonenja</string>
+  <string name="menu_set_ring_tone">Nastavi melodijo zvonjenja</string>
   <string name="menu_settings">Nastavitve</string>
   <string name="menu_share">Deli</string>
   <string name="menu_share_qrcode">QR koda</string>
@@ -1542,7 +1542,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="return_call_calling">Klic poteka</string>
   <string name="return_call_dialing">Klicanje</string>
   <string name="return_call_incoming">Dohodni klic</string>
-  <string name="ringLabelsGroup">"Melodija zvonenja"</string>
+  <string name="ringLabelsGroup">"Melodija zvonjenja"</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>

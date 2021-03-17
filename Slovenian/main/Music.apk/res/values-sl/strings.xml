@@ -49,7 +49,7 @@
   <string name="action_item_add_to_current_playlist">Čakalna vrsta</string>
   <string name="action_item_add_to_favorite_playlist">Priljubljeno</string>
   <string name="action_item_add_to_new_playlist">Novo</string>
-  <string name="action_item_as_ring">Nastavi za zvok zvonenja</string>
+  <string name="action_item_as_ring">Nastavi za zvok zvonjenja</string>
   <string name="action_item_cancel">Prekliči</string>
   <string name="action_item_delete">Izbriši</string>
   <string name="action_item_download">Prenesi</string>
@@ -1271,12 +1271,12 @@ Bodite Happy"</string>
   <string name="retry_after_network_available">"Ne morem se povezati na omrežje. Preverite svojo podatkovno povezavo in poskusite ponovno."</string>
   <string name="retry_download">Poskusi ponovno</string>
      <string name="revoke_upload_playlist_to_hungama_toast">"Spletne pesmi ne bodo sinhronizirane s Hungama"</string>
-  <string name="ringtone_editing">Urejanje melodij zvonenja</string>
+  <string name="ringtone_editing">Urejanje melodij zvonjenja</string>
   <string name="ringtone_not_support">"Format te pesmi ni podprt."</string>
   <string name="ringtone_selected">Izbrano</string>
   <string name="ringtones_play">Predvajaj</string>
   <string name="ringtones_stop">Stop</string>
-  <string name="ringtones_successful">Melodija zvonenja uspešno nastavljena</string>
+  <string name="ringtones_successful">Melodija zvonjenja uspešno nastavljena</string>
   <string name="root_downloads">Prenosi</string>
   <string name="s1">Shrani sliko</string>
   <string name="s2">Dovolim Ad da shrani slike v Galerijo?</string>

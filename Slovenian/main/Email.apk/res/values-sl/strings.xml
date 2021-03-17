@@ -35,6 +35,7 @@
      <string name="about_lasted_version">To je zadnja verzija</string>
   <string name="accessibility_guide_second">Nato kliknite v zgornjem desnem vogalu \"Sprejmi\" za nadaljevanje.</string>
      <string name="account_add_title">Izberite ponudnika pošte</string>
+     <string name="account_cache_provider">Ponudnik predpomnilnika računa</string>
   <string name="account_duplicate_dlg_message_fmt">To uporabniško ime že uporabljate za račun \"%s\".</string>
   <string name="account_duplicate_dlg_title">Podvojeni račun</string>
   <string name="account_failure">Napaka računa</string>
@@ -83,7 +84,7 @@
   <string name="account_settings_notifications">Nastavitve obvestil</string>
   <string name="account_settings_notify_label">Obvestila E-pošte</string>
   <string name="account_settings_notify_summary">Pošlji obvestilo ko prispe E-pošta</string>
-     <string name="account_settings_only_notify_inbox">Samo potisni nabiralnik</string>
+     <string name="account_settings_only_notify_inbox">Samo pošta z nabiralnikom za opomnike</string>
   <string name="account_settings_param">Nastavitve računa</string>
   <string name="account_settings_policies">Varnostna pravila</string>
   <string name="account_settings_preference_add_account">Dodaj račun</string>
@@ -105,7 +106,7 @@
   <string name="account_settings_unsupported_label">Nepodprta pravila</string>
   <string name="account_settings_unsupported_summary">Nič</string>
   <string name="account_settings_user_usage">Nastavitve računa</string>
-  <string name="account_settings_using_ringtone">Melodija zvonenja</string>
+  <string name="account_settings_using_ringtone">Melodija zvonjenja</string>
   <string name="account_settings_vibrate_when_label">Vibriraj</string>
   <string name="account_setup_account_type_instructions">Kateri tip računa je to?</string>
   <string name="account_setup_account_type_title">Nastavitev računa</string>
@@ -290,12 +291,15 @@
      <string name="b_contacts_remove">Odstrani iz seznama blokad</string>
      <string name="b_contacts_remove_tips">Odstranim ta naslov iz seznama blokad?</string>
   <string name="back">Nazaj</string>
+     <string name="bank_card_detail">Podrobnosti o kreditni kartici</string>
   <string name="battery_saver">Varčevanje baterije</string>
   <string name="battery_saver_keywords">Varčevanje baterije;mail battery</string>
   <string name="bcc">Bcc</string>
   <string name="bill_center_setting">Nastavitve plačila</string>
   <string name="bill_center_setting_head">Uvozi podatke iz teh računov</string>
   <string name="bill_cycle_text">Cikel plačila</string>
+     <string name="bill_remind">Opomnik za odplačilo</string>
+     <string name="bill_remind_due">Odplačilo zapade na dan %s, tapnite za prikaz</string>
   <string name="blank_feedback_toast">Napisati morate povratno informacijo</string>
   <string name="body_forward_email_text">[Posreduj]</string>
   <string name="body_hint">Sestavi E-pošto</string>
@@ -306,7 +310,7 @@
   <string name="bottom_bar_more_share">Skupna raba</string>
   <string name="bottom_bar_no_quickreply_toast">Brez hitrega odziva</string>
   <string name="bytes">%s B</string>
-  <string name="calendar_remind_dialog_title">Opomnik</string>
+  <string name="calendar_remind_dialog_title">Dodaj v koledar</string>
   <string name="calendar_remind_gridview_pick_date">Izberi datum</string>
   <string name="calendar_skip_no_account_alert">Ta račun ni najden</string>
   <string name="cancel">Prekliči</string>
@@ -505,12 +509,19 @@
   <string name="download_confirm_title">Prenesi priponko</string>
   <string name="download_message_failed_for_too_large">Sporočilo je preveliko.</string>
   <string name="draft_count_format"> (%1$s)</string>
+     <string name="drawer_bank_bill">Bančni izpiski</string>
   <string name="drawer_classification">Kategorije</string>
   <string name="drawer_close">Zapri predal za navigacijo</string>
   <string name="drawer_contacts">Stiki</string>
   <string name="drawer_open">Odpri predal za navigacijo</string>
+     <string name="drive_card_button_tips">Kopirajte kodo in dobite skupno vsebino</string>
+     <string name="drive_card_code">Koda je:</string>
+     <string name="drive_card_tips">Našel povezavo do skupne rabe netdiska od %s</string>
+     <string name="drive_card_title">Netdisk povezava</string>
   <string name="dtend">Konec</string>
   <string name="dtstart">Začetek</string>
+     <string name="due">Due</string>
+     <string name="due_date_text">Končno odplačilo</string>
   <string name="edit_quick_response_dialog">Hitri odziv</string>
   <string name="edit_signature">Uredi podpis</string>
   <string name="editor_max_length_limit_hint">Vnešeno sporočilo je predolgo</string>
@@ -658,8 +669,8 @@
   <string name="general_preference_text_zoom_normal">Normalno</string>
   <string name="general_preference_text_zoom_small">Majhno</string>
   <string name="general_preference_text_zoom_tiny">Najmanjše</string>
-     <string name="general_preference_trash_contact">Preverjanje neželjene pošte</string>
-     <string name="general_preference_trash_contact_sum">Ravnanje s pismi pošiljateljev, o katerih so poročali v velikem številu</string>
+     <string name="general_preference_trash_contact">Filtriraj spam</string>
+     <string name="general_preference_trash_contact_sum">Filtriraj pošto pošiljateljev, o katerih so poročali v velikem številu</string>
   <string name="generic_attachment_problem">"Datoteke ni mogoče pripeti."</string>
   <string name="get_database_exception">"Izbrišite podatke te aplikacije v Nastavitve &gt; Aplikacije sistema in poskusite ponovno."</string>
   <string name="get_oauth_code">Dobi kodo</string>
@@ -698,6 +709,13 @@
   <string name="interact_with_server_error">"Povezovanje s strežnikom ni uspelo"</string>
   <string name="invalid_recipient">Naslov %s ni pravilen.</string>
   <string name="invalid_recipient_title">Napaka prejemnika</string>
+     <string name="invoice_card_amount">Skupni zaračunani znesek</string>
+     <string name="invoice_card_buyer">Kupec</string>
+     <string name="invoice_card_date">datum</string>
+     <string name="invoice_card_open">Odpri račun</string>
+     <string name="invoice_card_save">Shrani račun</string>
+     <string name="invoice_card_seller">Prodajalec</string>
+     <string name="invoice_card_title">Electronski račun</string>
   <string name="kilobytes">%s KB</string>
   <string name="list_empty_to_fresh">Ni e-pošte, povlecite dol da boste osvežili.</string>
   <string name="load_from_remote">Nadaljuj iskanje na strežniku</string>
@@ -870,6 +888,7 @@ Potrdite, ali je geslo za aplikacijo vklopljeno. Če je vklopljeno, pojdite na M
   <string name="message_view_attachment_background_load">Ena ali več priponk ki ste jih posredovali se bodo prenesle za pošiljanje.</string>
   <string name="mi_sync_erroe_toast">"Omrežna napaka: "</string>
   <string name="mi_sync_erroe_toast_other">"Napaka strežnika: "</string>
+     <string name="mi_sync_erroe_toast_other_details">-ERR:neznana napaka</string>
   <string name="mibill_privacy_policy_button1">Kasneje</string>
   <string name="mibill_privacy_policy_button2">Strinjam se</string>
   <string name="mibill_privacy_policy_description">Dovoli Mi Wallet analiziranje in urejanje z vašimi računi samodejno. To opravilo je privzeto izključeno za delo z povezanimi naslovi e-pošte.</string>
@@ -938,6 +957,7 @@ Poskusite z ostalo pošto."</string>
      <string name="ntes_do_not_sms_uplink">Pošljite SMS s povezane telefonske številke in tapnite \"Sporočilo poslano\".</string>
      <string name="ntes_had_send">Sporočilo poslano</string>
      <string name="ntes_had_send_to_content">"Če ste s povezane telefonske številke že poslali sporočilo SMS, tapnite \"Sporočilo poslano\" to continue."</string>
+     <string name="ntes_login_auth_too_much">"Ne morem dodati več kot 5 kod za preverjanje. Prijavite se v mapo »Prejeto« v računalniku in izbrišite kode, ki jih niste uporabili."</string>
      <string name="ntes_login_error_message" formatted="false">"Ne morem dobiti podatkov o računu (Napaka %s). %s."</string>
      <string name="ntes_password_error_hint">"Če se med vnosom gesla pojavijo napake, zaprite to stran in jo znova odprite."</string>
      <string name="ntes_phone_send">Pošlji besedilno sporočilo s povezane telefonske številke</string>
@@ -1317,6 +1337,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="server_cet_issuer_no_trust">"Izdajatelj potrdila ni zaupanja vredna organizacija."</string>
      <string name="server_cet_subject_cn">"Podprta domena: "</string>
      <string name="server_cet_title">Podrobnosti potrdila</string>
+     <string name="server_log">Pogoji uporabe</string>
   <string name="service_protocol_discribe">&lt;u&gt;"Prebral sem in se strinjam z WPS Mail Pogoji uporabe"&lt;/u&gt;</string>
   <string name="service_protocol_title">Pogoji uporabe</string>
   <string name="set_network">Nastavi omrežje</string>
@@ -1399,8 +1420,11 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="toast_bar_send_fail_remind">"Ne morem poslati e-pošte. Shranjeno v mapo \"Odhodno\".</string>
   <string name="toast_bar_sync_failed_client_cert">"Ne morem sinhronizirati zaradi manjkajočega certifikata. Tapnite da boste ponovno dodali certifikat."</string>
   <string name="toast_bar_sync_failed_mi_authority">Prijavite se da boste avtorizirali svojo napravo</string>
+     <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">Podatki o urniku in stikih niso bili sinhronizirani v realnem času, dovoljenje za stike ni nastavljeno</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Dovoljenja koledarja in stikov so zaprta. Koledar in stiki se ne morejo sinhronizirati</string>
+     <string name="toastbar_calendar_permission_switch_allow_only_using">Pošta ni uspela razporediti sinhronizacije v realnem času, nastavite dovoljenja za koledar na Vedno dovoli</string>
   <string name="toastbar_calendar_permission_switch_close">Dovoljenja koledarja so zaprta. Koledar se ne more sinhronizirati</string>
+     <string name="toastbar_contacts_permission_switch_allow_only_using">Podatki o stikih niso bili sinhronizirani v realnem času, dovoljenje za stike ni nastavljeno tako, da to vedno omogoča</string>
   <string name="toastbar_contacts_permission_switch_close">Dovoljenja stikov so zaprta. Stiki se ne morejo sinhronizirati</string>
   <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Sprememba sinhronizacije koledarja in stikov je zaprta. Koledar in stiki se ne morejo sinhronizirati</string>
   <string name="toastbar_local_calendar_sync_switch_close">Sprememba sinhronizacije koledarja je zaprta. Koledar se ne more sinhronizirati</string>
@@ -1457,6 +1481,12 @@ Odstranim račun?"</string>
   <string name="upload_logs">Pošlji poročilo</string>
   <string name="upload_logs_keywords">Pošlji poročilo</string>
   <string name="uploading_logs">Samo trenutek……</string>
+     <string name="user_experience_content">Potrdite, da ste prebrali in se strinjate s programom Uporabniške izkušnje</string>
+     <string name="user_experience_log">Program uporabniške izkušnje</string>
+     <string name="user_experience_login">Pridružite se</string>
+     <string name="user_experience_logout">Zapri program za izkušnje</string>
+     <string name="user_experience_positive">Strinjam se in nadaljuj</string>
+     <string name="user_experience_title">Pogoji in pravila</string>
   <string name="user_new_auth_code">Prijavite se z novo avtorizacijsko kodo</string>
   <string name="user_privacy_settings">Nastavitve zasebnosti</string>
   <string name="user_privacy_settings_agreement_authorization">"(Z dotikom \"Strinjam se\", dajete E-pošti vsa potrebna dovoljenja)"</string>

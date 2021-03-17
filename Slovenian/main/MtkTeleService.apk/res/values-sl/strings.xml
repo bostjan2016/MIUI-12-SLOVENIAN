@@ -597,8 +597,8 @@ Avdio"</string>
   <string name="convert_to_file_encryption">Pretvori v enkripciju datotek</string>
   <string name="convert_to_file_encryption_done">Datoteke so že šifrirane</string>
   <string name="convert_to_file_encryption_enabled">Pretvori…</string>
-  <string name="crescendo_ringer_summary">Glasnost zvoka zvonenja bo postopoma naraščala do nastavljene glasnosti</string>
-  <string name="crescendo_ringer_title">Povečanje glasnosti zvonenja</string>
+  <string name="crescendo_ringer_summary">Glasnost zvoka zvonjenja bo postopoma naraščala do nastavljene glasnosti</string>
+  <string name="crescendo_ringer_title">Povečanje glasnosti zvonjenja</string>
   <string name="ct_ut_not_support_close_4glte">UT ni dostopen, izključie Napredni 4G LTE način v Nastavitvah</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (rdeče – zeleno)</string>
   <string name="daltonizer_mode_disabled">Onemogočeno</string>

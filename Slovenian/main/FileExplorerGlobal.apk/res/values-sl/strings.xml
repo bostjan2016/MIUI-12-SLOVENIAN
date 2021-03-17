@@ -67,7 +67,7 @@
     <string name="app_name_midrop">Mi Drop</string>
     <string name="app_name_miui">MIUI</string>
     <string name="app_name_miuimusic">Glasba</string>
-    <string name="app_name_miuiringtone">Melodija zvonenja</string>
+    <string name="app_name_miuiringtone">Melodija zvonjenja</string>
     <string name="app_name_miuiwallpaper">Ozadja</string>
     <string name="app_name_screenshot">Posnetki zaslona</string>
     <string name="app_permissions">Dovoljenja aplikacij</string>
@@ -270,7 +270,7 @@
     <string name="favorite_notice_message">"Sedaj lahko dodate mape v priljubljeno.
 Za dodajanje pritisnite in držite mapo ali tapnite \"Več\"."</string>
     <string name="favorite_photo">Fotografije</string>
-    <string name="favorite_ringtone">Zvonenja</string>
+    <string name="favorite_ringtone">Zvonjenja</string>
     <string name="favorite_screen_cap">Posnetki zaslona</string>
     <string name="feedback_send_email_body_extra_info">Ne izbrišite sledečih informacij. Z njihovo pomočjo bomo odkrili težavo.</string>
     <string name="file">Datoteke</string>

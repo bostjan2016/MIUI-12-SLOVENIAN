@@ -161,8 +161,8 @@
         <item quantity="one">%1$.1f točka</item>
     </plurals>
     <plurals name="ringtone_nums">
-        <item quantity="other">%1$s mel. zvonenja</item>
-        <item quantity="one">%1$s mel. zvonenja</item>
+        <item quantity="other">%1$s mel. zvonjenja</item>
+        <item quantity="one">%1$s mel. zvonjenja</item>
     </plurals>
     <plurals name="theme_batch_has_update_text">
         <item quantity="other">Posodobitve na voljo za tem: %1$d</item>

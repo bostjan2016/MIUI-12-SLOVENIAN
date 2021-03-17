@@ -34,7 +34,7 @@
      <string name="africans_white_backed_vulture">Beloglavi jastreb</string>
      <string name="afternoon">Večer</string>
      <string name="all_ringtone">Več</string>
-     <string name="all_ringtone_summary">Izberite melodije zvonenja online</string>
+     <string name="all_ringtone_summary">Izberite melodije zvonjenja online</string>
      <string name="am">AM</string>
      <string name="amazon_introduction">Najbolj raznolika regija na našem planetu se pogosto imenuje \"pljuča Zemlje\".</string>
      <string name="amazon_orange_winged_info">Oranžnokrila amazonka je velika, hrupna papiga, ki sproži glasne, močne krike.</string>
@@ -274,7 +274,7 @@
   <string name="hsv_space_color_hue">Niansa</string>
   <string name="hsv_space_color_saturation">Saturacija</string>
   <string name="hsv_space_color_value">Vrednost</string>
-  <string name="intelligent_recognition_item_summary">Uporabite označeno melodijo zvonenja za klice iz dostavnih in taxi storitev. Delovalo bo samo če bo %s privzeta melodija zvonjenja.</string>
+  <string name="intelligent_recognition_item_summary">Uporabite označeno melodijo zvonjenja za klice iz dostavnih in taxi storitev. Delovalo bo samo če bo %s privzeta melodija zvonjenja.</string>
   <string name="intelligent_recognition_item_title">Identificiraj storitve</string>
      <string name="item_anura">Anura</string>
      <string name="item_artiodactyla">Kopitarji z parnimi prsti</string>
@@ -411,8 +411,8 @@
   <string name="month_september_shortest">S</string>
      <string name="moose">Los</string>
   <string name="more">Več</string>
-  <string name="more_ringtone">Vsa zvonenja</string>
-     <string name="more_ringtones">Več melodij zvonenja</string>
+  <string name="more_ringtone">Vsa zvonjenja</string>
+     <string name="more_ringtones">Več melodij zvonjenja</string>
   <string name="more_settings">Nastavitve</string>
   <string name="morning">AM</string>
   <string name="most_unlock_week_day">"Največ odklepov: "</string>
@@ -477,9 +477,9 @@
   <string name="rgb_space_color_G">G</string>
   <string name="rgb_space_color_R">R</string>
      <string name="rhinoceros_info">"Beli nosorog je močan rastlinojedec nežnega temperamenta. Danes je precej redek, je na robu izumrtja."</string>
-  <string name="ringtone_slot_setting_title">Dual SIM melodije zvonenja</string>
-  <string name="ringtone_sound">Melodije zvonenja</string>
-  <string name="ringtone_title">Melodije zvonenja</string>
+  <string name="ringtone_slot_setting_title">Dual SIM melodije zvonjenja</string>
+  <string name="ringtone_sound">Melodije zvonjenja</string>
+  <string name="ringtone_title">Melodije zvonjenja</string>
      <string name="sacred_ibis">Afriški sveti ibis</string>
      <string name="sanderling">Peščenec</string>
   <string name="saturday">Sobota</string>

@@ -137,8 +137,8 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="reading">Branje…</string>
   <string name="remote_app">Čakanje na prenos…</string>
   <string name="remove_alert">Izbrišem izbrane naloge?</string>
-  <string name="ringer_mode">Način zvonenja</string>
-  <string name="ringer_normal">Zvonenje</string>
+  <string name="ringer_mode">Način zvonjenja</string>
+  <string name="ringer_normal">Zvonjenje</string>
   <string name="ringer_silent">Tiho</string>
   <string name="running">dela</string>
   <string name="save_alert">Shranim nalogo?</string>
@@ -166,7 +166,7 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="sound_alarm">Alarm</string>
   <string name="sound_media">Medij</string>
   <string name="sound_notification">Obvestila</string>
-  <string name="sound_ringer">Zvonenje</string>
+  <string name="sound_ringer">Zvonjenje</string>
   <string name="sound_voice">Glasnost klica</string>
   <string name="start_configuration">Oblikuj oznako</string>
   <string name="sure_to_delete_user_config">Izbrišem nalogo?</string>

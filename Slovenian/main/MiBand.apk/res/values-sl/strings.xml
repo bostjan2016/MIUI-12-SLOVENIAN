@@ -471,8 +471,8 @@ Imejte Bluetooth vključen dokler tečete."</string>
   <string name="incoming_call_alert">Dohodni klici</string>
   <string name="incoming_call_alert_logo_tips">Imejte Mi Band povezan s telefonom preko Bluetootha</string>
   <string name="incoming_call_alert_tips">"Obvesti če se ne javim v %ss"</string>
-  <string name="incoming_call_delay_alert_tips">Zavibriraj %s sek. po prvem zvonenju</string>
-  <string name="incoming_call_delay_dialog_alert_tips">Obvesti me %s sek. po prvem zvonenju</string>
+  <string name="incoming_call_delay_alert_tips">Zavibriraj %s sek. po prvem zvonjenju</string>
+  <string name="incoming_call_delay_dialog_alert_tips">Obvesti me %s sek. po prvem zvonjenju</string>
   <string name="incoming_call_not_bound">Seznanite Mi Band da sprejmete obvestilo dohodnih klicev</string>
   <string name="incoming_call_whitelist_tips">"Če uporabljate pomočnika telefona,"</string>
   <string name="incoming_call_whitelist_tips1">dodajte Mi Fit v izjeme</string>

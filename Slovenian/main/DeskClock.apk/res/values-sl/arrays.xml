@@ -70,14 +70,14 @@
         <item>Nič</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>"Zvonenje budilke nastavljeno čez manj kot 1 minuto."</item>
-        <item>"Zvonenje budilke nastavljeno čez %1$s."</item>
-        <item>"Zvonenje budilke nastavljeno čez %2$s."</item>
-        <item>"Zvonenje budilke nastavljeno čez %1$s in %2$s."</item>
-        <item>"Zvonenje budilke nastavljeno čez %3$s."</item>
-        <item>"Zvonenje budilke nastavljeno čez %1$s in %3$s."</item>
-        <item>"Zvonenje budilke nastavljeno čez %2$s in %3$s."</item>
-        <item>"Zvonenje budilke nastavljeno čez %1$s %2$s in %3$s.</item>
+        <item>"Zvonjenje budilke nastavljeno čez manj kot 1 minuto."</item>
+        <item>"Zvonjenje budilke nastavljeno čez %1$s."</item>
+        <item>"Zvonjenje budilke nastavljeno čez %2$s."</item>
+        <item>"Zvonjenje budilke nastavljeno čez %1$s in %2$s."</item>
+        <item>"Zvonjenje budilke nastavljeno čez %3$s."</item>
+        <item>"Zvonjenje budilke nastavljeno čez %1$s in %3$s."</item>
+        <item>"Zvonjenje budilke nastavljeno čez %2$s in %3$s."</item>
+        <item>"Zvonjenje budilke nastavljeno čez %1$s %2$s in %3$s.</item>
      </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 minuta</item>

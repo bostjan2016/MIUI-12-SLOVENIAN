@@ -41,7 +41,7 @@
      <string name="afternoon">Popoldne</string>
   <string name="aggree_desc">Dovolite aplikaciji povezavo s spletom in odobrite zgoraj navedena obvezna dovoljenja.</string>
   <string name="agree">Strinjam se</string>
-  <string name="alarm_alert">Privzeto zvonenje</string>
+  <string name="alarm_alert">Privzeto zvonjenje</string>
   <string name="alarm_alert_alert_silenced">Alarm utišan po %1$s minutah.</string>
      <string name="alarm_alert_disabled">Izključeno</string>
   <string name="alarm_alert_snooze_set">Dremež %d minut.</string>
@@ -56,7 +56,7 @@
   <string name="alarm_notify_snooze_label">%s dremeža</string>
   <string name="alarm_notify_text">Dremež ali prekini budilko.</string>
   <string name="alarm_repeat">Ponovi</string>
-  <string name="alarm_ringtone">Melodije zvonenja alarma</string>
+  <string name="alarm_ringtone">Melodije zvonjenja alarma</string>
   <string name="alarm_ringtone_picker">Alarmi</string>
   <string name="alarm_screen">Zaslon in melodije Alarma</string>
   <string name="alarm_settings">Nastavitve alarma</string>
@@ -66,11 +66,11 @@
   <string name="alarm_volume_title">Glasnost alarma</string>
   <string name="alarmclock_empty_text">Ni alarmov</string>
   <string name="alarmclock_silent_hint">Alarm je utišan</string>
-  <string name="alert">Zvonenje</string>
-  <string name="alert_ringtone">Melodija zvonenja alarma</string>
+  <string name="alert">Zvonjenje</string>
+  <string name="alert_ringtone">Melodija zvonjenja alarma</string>
   <string name="alert_vibrate_enable_summary">Vibriraj ko se alarm ugasne</string>
   <string name="alert_volume">Glasnost alarma</string>
-  <string name="alert_volume_summary">Nastavite glasnost zvonenja za alarme in odštevanja</string>
+  <string name="alert_volume_summary">Nastavite glasnost zvonjenja za alarme in odštevanja</string>
   <string name="allow">Dovoli</string>
   <string name="already_exist">Ta časovnik že obstaja</string>
      <string name="am">AM</string>
@@ -97,7 +97,7 @@
   <string name="bedtime_setting_complete">Lepo spite!</string>
   <string name="bedtime_setting_complete_desc">Spremljajte svoj novi razpored spanja boste delovali na najboljši način</string>
   <string name="bedtime_setting_no_disturbance">Vključim DND ko spite?</string>
-  <string name="bedtime_setting_no_disturbance_desc">Melodije zvonenja, zvoki obvestil in vibracije bodo izključeni dokler se ne prebudite</string>
+  <string name="bedtime_setting_no_disturbance_desc">Melodije zvonjenja, zvoki obvestil in vibracije bodo izključeni dokler se ne prebudite</string>
   <string name="bedtime_setting_repeat_type">Kdaj boste uporabljali vaš razpored za spanje?</string>
   <string name="bedtime_setting_repeat_type_desc">"Izberite dni za prejem opomnikov"</string>
   <string name="bedtime_settings">Nastavitve časa za spanje</string>
@@ -293,7 +293,7 @@
   <string name="life_post_weather_temperature_centigrade">°</string>
   <string name="listen_news_privacy">Zaradi ponujanja personaliziranih storitev in vključevanja jutranjih novic v vaše alarme se mora ura povezati na splet. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?;</string>
   <string name="load_more_fail">Ne morem naložiti</string>
-  <string name="loading_ringtone">Nalagam zvonenja…</string>
+  <string name="loading_ringtone">Nalagam zvonjenja…</string>
   <string name="menu_add_worldclock">Dodaj uro</string>
   <string name="menu_desk_clock">Ura</string>
   <string name="menu_edit_timer_item">Uredi opravilo kronometra</string>
@@ -346,12 +346,12 @@
   <string name="module_unzipping">Razširjanje zvoka…</string>
   <string name="module_update_success">Posodobljeni zvok za MIUI pametne alarme prenešen. Lahko nastavite MIUI pametne alarme v nastavitvah ure.</string>
   <string name="module_update_success_control">Razumem</string>
-  <string name="module_weather_ringtone_download_data">Vremenski alarm izbira različne melodije zvonenja po trenutnem vremenu. Ura mora prenesti ≈30MB avdio datotek da bo to delovalo. Prenesem?</string>
-  <string name="module_weather_ringtone_download_data_privacy">Vremenski alarm izbira različne melodije zvonenja po trenutnem vremenu. Ura se mora povezati na splet za prenos &amp;#8776;30MB avdio datotek. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?</string>
-  <string name="module_weather_ringtone_download_wifi">Vremenski alarm izbira različne melodije zvonenja po trenutnem vremenu. Ura mora prenesti avdio datoteke da bo to delovalo. Prenesem?</string>
-  <string name="module_weather_ringtone_download_wifi_privacy">Vremenski alarm izbira različne melodije zvonenja po trenutnem vremenu. Ura se mora povezati na splet za prenos avdio datotek. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?</string>
-  <string name="module_weather_ringtone_introduce">Vremenski alarm izbira različne melodije zvonenja po trenutnem vremenu. Omogoča vam tudi poslušanje trenutnih informacij o vremenu zjutraj.</string>
-  <string name="module_weather_ringtone_introduce_global">Vremenski alarm izbira različne melodije zvonenja po trenutnem vremenu.</string>
+  <string name="module_weather_ringtone_download_data">Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Ura mora prenesti ≈30MB avdio datotek da bo to delovalo. Prenesem?</string>
+  <string name="module_weather_ringtone_download_data_privacy">Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Ura se mora povezati na splet za prenos &amp;#8776;30MB avdio datotek. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?</string>
+  <string name="module_weather_ringtone_download_wifi">Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Ura mora prenesti avdio datoteke da bo to delovalo. Prenesem?</string>
+  <string name="module_weather_ringtone_download_wifi_privacy">Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Ura se mora povezati na splet za prenos avdio datotek. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?</string>
+  <string name="module_weather_ringtone_introduce">Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Omogoča vam tudi poslušanje trenutnih informacij o vremenu zjutraj.</string>
+  <string name="module_weather_ringtone_introduce_global">Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu.</string>
   <string name="module_weather_ringtone_update_data">Vremenski alarm zdaj prihaja z glasbo v ozadju in boljšimi glasovnimi napovedmi. Ura mora prenesti ≈30MB avdio datotek da bo to delovalo. Prenesem?</string>
   <string name="module_weather_ringtone_update_success">Vremenski alarm zdaj prihaja z glasbo v ozadju in boljšimi glasovnimi napovedmi. Nastavite novi alarm da ga preskusite.</string>
   <string name="module_week_ringtone_download_data">Alarm narave predvaja različne zvoke, odvisno od datuma. Ura mora prenesti ≈30MB avdio datotek da bo to delovalo. Prenesem?</string>
@@ -444,17 +444,17 @@
   <string name="refreshing">Osveževanje</string>
   <string name="release_enter_private">Spusti za odpiranje zasebne mape</string>
   <string name="release_refresh">Spusti za osvežitev</string>
-  <string name="remind_ringtone">Zvonenje</string>
+  <string name="remind_ringtone">Zvonjenje</string>
   <string name="repeat_count">X</string>
   <string name="reset">Ponastavi</string>
   <string name="revert">Povrni</string>
-  <string name="ringtone_all">Vse melodije zvonenja</string>
+  <string name="ringtone_all">Vse melodije zvonjenja</string>
   <string name="ringtone_dew">Jutranja rosa</string>
   <string name="ringtone_digital_timer">Kronometer</string>
   <string name="ringtone_dream">Sanjarenje</string>
   <string name="ringtone_firefly">Kresnice</string>
   <string name="ringtone_more">Ostalo</string>
-  <string name="ringtone_other">Več melodij zvonenja</string>
+  <string name="ringtone_other">Več melodij zvonjenja</string>
   <string name="ringtone_weather">Vremenski alarm</string>
   <string name="ringtone_week">Alarm narave</string>
      <string name="saturday">Sobota</string>
@@ -467,12 +467,12 @@
   <string name="search_worldclock_keywords">Čas;Svetovna ura;Ura</string>
      <string name="send">Pošlji</string>
   <string name="set_alarm">Nastavi alarm</string>
-  <string name="set_alarm_choose_ringtone">Izberite melodijo zvonenja</string>
+  <string name="set_alarm_choose_ringtone">Izberite melodijo zvonjenja</string>
   <string name="set_alarm_done">Končano</string>
   <string name="set_alarm_other">Ostalo</string>
   <string name="setting_alarm_arriving_subtitle">Pokaži obvestila preden se alarmi izključijo</string>
-  <string name="setting_alarm_arriving_summary">Pošlji obvestilo pred zvonenjem</string>
-  <string name="setting_alarm_arriving_title">Obvesti pred zvonenjem</string>
+  <string name="setting_alarm_arriving_summary">Pošlji obvestilo pred zvonjenjem</string>
+  <string name="setting_alarm_arriving_title">Obvesti pred zvonjenjem</string>
   <string name="setting_complete">Končano</string>
   <string name="settings">Nastavitve</string>
   <string name="shortcut_new_alarm">Nastavi alarm</string>
@@ -543,7 +543,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
   <string name="system_permission_main_purpose">Čas pregledovanja, nastavljanje alarma in časovnika, štoparica</string>
   <string name="system_permission_phone_desc">Za identificiranje različnih naprav</string>
   <string name="system_permission_purpose">Alarmi, štoparica, časovniki, svetovna ura</string>
-  <string name="system_permission_storage_desc">Za dostop do melodij zvonenja alarma</string>
+  <string name="system_permission_storage_desc">Za dostop do melodij zvonjenja alarma</string>
   <string name="system_time_setting">Nastavitve</string>
   <string name="system_time_settings_category_title">Nastavitve časa</string>
   <string name="temperature_unit">℃</string>

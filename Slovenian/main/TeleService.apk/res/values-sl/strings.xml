@@ -354,8 +354,8 @@
   <string name="bluetooth_dun_profile_summary_use_for">Uporabi za dial-up dostop omrežju</string>
     <string name="bluetooth_enable_gabeldorsche">Omogoči Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Omogoči sklad funkcij Bluetooth Gabeldorsche.</string>
-  <string name="bluetooth_enable_inband_ringing">Omogoči zvok zvonenja znotraj pasovne širine</string>
-  <string name="bluetooth_enable_inband_ringing_summary">Omogoči predvajanje melodije zvonenja telefona preko Bluetooth slušalk</string>
+  <string name="bluetooth_enable_inband_ringing">Omogoči zvok zvonjenja znotraj pasovne širine</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Omogoči predvajanje melodije zvonjenja telefona preko Bluetooth slušalk</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezano s telefonskim zvokom</string>
   <string name="bluetooth_headset_profile_summary_use_for">Uporabi za zvok telefona</string>
   <string name="bluetooth_hearing_aid_profile_summary_connected">Povezava s slušnim pripomočkom je vzpostavljena</string>
@@ -835,8 +835,8 @@ Avdio"</string>
   <string name="corporate_unlock_success">SIM odklepanje je bilo uspešno.</string>
   <string name="creat_account_error">"Ne morem izdelati računa. Poskusim ponovno?"</string>
   <string name="creating_account">Izdelava računa…</string>
-  <string name="crescendo_ringer_summary">Glasnost zvoka zvonenja bo postopoma naraščala do nastavljene glasnosti</string>
-  <string name="crescendo_ringer_title">Povečanje glasnosti zvonenja</string>
+  <string name="crescendo_ringer_summary">Glasnost zvoka zvonjenja bo postopoma naraščala do nastavljene glasnosti</string>
+  <string name="crescendo_ringer_title">Povečanje glasnosti zvonjenja</string>
   <string name="ct_ut_not_support_close_4glte">UT ni dostopen, izključie Napredni 4G LTE način v Nastavitvah</string>
   <string name="cursorError">Napaka kazalca</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (rdeča – zelena)</string>
