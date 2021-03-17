@@ -827,7 +827,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="battery_history_seconds">%1$ds</string>
   <string name="battery_low_button_not_open_power_save">Ne zdaj</string>
   <string name="battery_low_button_open_power_save">Vključi</string>
-  <string name="battery_low_percent_format_save_mode_closed">"Ostalo je manj od %1$s baterije. Ne pozabite napolniti napravo."</string>
+  <string name="battery_low_percent_format_save_mode_closed">"Ostalo je manj od %s baterije. Ne pozabite napolniti napravo."</string>
      <string name="battery_low_percent_format_save_mode_closed_new_version">Baterija je skoraj prazna. Napolnite svojo napravo.</string>
   <string name="battery_low_percent_format_save_mode_open">"Ostalo je manj od %1$s baterije. Vključite varčevanje baterije da dodate %2$s dodatnega časa."</string>
      <string name="battery_low_percent_format_save_mode_open_new_version">Vključite varčevanje baterije da dodate %s.</string>
@@ -876,7 +876,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="boot_reminder">Dotaknite se, če želite spremeniti urnik izklopa</string>
   <string name="boot_time">Vklop ob: %1$s</string>
   <string name="boot_time_day">Vklop ob: %2$s %1$dd</string>
-  <string name="boot_time_day_tomorrow">Vklop ob: %1$s</string>
+  <string name="boot_time_day_tomorrow">Jutri ob: %1$s</string>
   <string name="bottom_func_guide_default_text">Več storitev</string>
   <string name="brand_diagnostic">Diagnostika vrste omrežja operaterja</string>
   <string name="brightness_auto_adjust_off">Osvetlitev bo ostala nespremenjena v vseh pogojih</string>

@@ -5281,10 +5281,10 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_ancBalance">Srednje</string>
      <string name="miheadset_ancClosed">Izklj.</string>
      <string name="miheadset_ancDecrease">Nizko</string>
-     <string name="miheadset_ancHigh">Visoko</string>
+     <string name="miheadset_ancHigh">Letalo</string>
      <string name="miheadset_ancIncrease">Visoko</string>
-     <string name="miheadset_ancLow">Nizko</string>
-     <string name="miheadset_ancMedium">Srednje</string>
+     <string name="miheadset_ancLow">Pisarna</string>
+     <string name="miheadset_ancMedium">Dnevno</string>
      <string name="miheadset_anc_indicate">Priključite in seznanite slušalke</string>
      <string name="miheadset_audio_mode">Kakovost zvoka</string>
      <string name="miheadset_audio_mode_high">Visoko</string>
@@ -5301,7 +5301,7 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_connectHeadsetForFw">Priključite slušalke, da si ogledate različico vdelane programske opreme</string>
      <string name="miheadset_connect_play_music">Predvajanje se začne samodejno, ko so priključene slušalke</string>
      <string name="miheadset_connect_toast_tips">Najprej priključite slušalke</string>
-     <string name="miheadset_define_self">opredeli sam</string>
+     <string name="miheadset_define_self">Opredelite sami</string>
      <string name="miheadset_disconnect">Odklopi</string>
      <string name="miheadset_disconnect_device">Odklopim to napravo?</string>
      <string name="miheadset_double_click_key_mode">Način tipke z dvojnim klikom</string>
