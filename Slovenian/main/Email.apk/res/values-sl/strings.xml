@@ -35,7 +35,6 @@
      <string name="about_lasted_version">To je zadnja verzija</string>
   <string name="accessibility_guide_second">Nato kliknite v zgornjem desnem vogalu \"Sprejmi\" za nadaljevanje.</string>
      <string name="account_add_title">Izberite ponudnika pošte</string>
-     <string name="account_cache_provider">Ponudnik predpomnilnika računa</string>
   <string name="account_duplicate_dlg_message_fmt">To uporabniško ime že uporabljate za račun \"%s\".</string>
   <string name="account_duplicate_dlg_title">Podvojeni račun</string>
   <string name="account_failure">Napaka računa</string>
