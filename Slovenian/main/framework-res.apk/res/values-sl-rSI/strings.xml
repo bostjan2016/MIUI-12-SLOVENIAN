@@ -196,12 +196,7 @@ Izbrane storitve lahko spremenite v meniju »Nastavitve« > »Storitve za ljudi 
 To bližnjico lahko v meniju »Nastavitve« > »Storitve za ljudi s posebnimi potrebami« spremenite, da bo uporabljena za drugo funkcijo."</string>
     <string name="accessibility_shortcut_single_service_warning_title">Želite vklopiti storitev %1$s?</string>
     <string name="accessibility_shortcut_spoken_feedback">Za uporabo storitve %1$s pritisnite obe tipki za glasnost in ju pridržite tri sekunde</string>
-  <string name="accessibility_shortcut_toogle_warning">"Ko je bližnjica vključena se bo z pritiskom na obe tipke za glasnost 3 sekunde zagnala storitev dostopnosti.
-
- Trenutna storitev dostopnosti:
- %1$s
-
- To lahko spremenite v Nastavitve &gt; Dostopnost."</string>
+  <string name="accessibility_shortcut_toogle_warning">"Ko je bližnjica vklopljena, s pritiskom na oba gumba za glasnost za 3 sekunde zaženete storitev dostopnosti.</string>
   <string name="accessibility_shortcut_warning_dialog_title">Želite uporabljati bližnjico funkcij za ljudi s posebnimi potrebami?</string>
   <string name="accessibility_system_action_back_label">Nazaj</string>
   <string name="accessibility_system_action_hardware_a11y_shortcut_label">Bližnjica dostopnosti na zaslonu</string>
@@ -302,6 +297,8 @@ To bližnjico lahko v meniju »Nastavitve« > »Storitve za ljudi s posebnimi po
   <string name="audit_safemode_notification">Ponastavitev naprave na tovarniške nastavitve za uporabo brez omejitev</string>
   <string name="audit_safemode_notification_details">Dotaknite se, če želite izvedeti več.</string>
   <string name="autofill">Samodejno izpolnjevanje</string>
+     <string name="autofill_address_type_same_as_re">enako kot</string>
+     <string name="autofill_address_type_use_my_re">uporabi moj</string>
   <string name="autofill_area">Območje</string>
     <string name="autofill_continue_yes">Naprej</string>
   <string name="autofill_county">Okrožje</string>
@@ -325,11 +322,15 @@ To bližnjico lahko v meniju »Nastavitve« > »Storitve za ljudi s posebnimi po
     <string name="autofill_save_title_with_3types">Želite shraniti stvari %1$s, %2$s in %3$s v aplikacijo <b>%4$s</b>?</string>
     <string name="autofill_save_title_with_type">Želite shraniti stvari %1$s v aplikacijo <b>%2$s</b>?</string>
     <string name="autofill_save_type_address">naslov</string>
-    <string name="autofill_save_type_credit_card">kreditno kartico</string>
+    <string name="autofill_save_type_credit_card">kreditna kartica</string>
+     <string name="autofill_save_type_debit_card">debetna kartica</string>
     <string name="autofill_save_type_email_address">e-poštni naslov</string>
+     <string name="autofill_save_type_generic_card">kartica</string>
     <string name="autofill_save_type_password">geslo</string>
+     <string name="autofill_save_type_payment_card">plačilna kartica</string>
     <string name="autofill_save_type_username">uporabniško ime</string>
   <string name="autofill_save_yes">Shrani</string>
+     <string name="autofill_shipping_designator_re">pošlji</string>
   <string name="autofill_state">Država</string>
   <string name="autofill_this_form">Samoizpolnitev</string>
     <string name="autofill_update_title">Želite posodobiti v aplikaciji <b>%1$s</b>?</string>
@@ -2521,13 +2522,13 @@ Preostalo poskusov :"</string>
   <string name="wifi_display_notification_connecting_title">Predvajanje zaslona</string>
   <string name="wifi_display_notification_disconnect">Izključi</string>
   <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
-  <string name="wifi_no_internet">Omrežje WiFi nima dostopa do spleta</string>
+  <string name="wifi_no_internet">%1$s nima dostopa do spleta</string>
   <string name="wifi_no_internet_detailed">Dotaknite se za prikaz možnosti</string>
-  <string name="wifi_p2p_dialog_title">WiFi Direct</string>
+  <string name="wifi_p2p_dialog_title">WiFi Direkt</string>
   <string name="wifi_p2p_enabled_notification_message">Dotaknite se za nastavitve</string>
-  <string name="wifi_p2p_enabled_notification_title">WiFi Direct je vklopljen</string>
+  <string name="wifi_p2p_enabled_notification_title">WiFi Direkt je vklopljen</string>
   <string name="wifi_p2p_enter_pin_message">Vnesite zahtevano kodo PIN:</string>
-  <string name="wifi_p2p_failed_message">WiFi Direct ni bilo mogoče zagnati.</string>
+  <string name="wifi_p2p_failed_message">WiFi Direkt ni bilo mogoče zagnati.</string>
   <string name="wifi_p2p_frequency_conflict_message">Telefon bo začasno prekinil povezavo z WiFi-jem ko bo povezan z napravo %1$s</string>
   <string name="wifi_p2p_from_message">Od:</string>
   <string name="wifi_p2p_invitation_sent_title">Povabilo je poslano</string>

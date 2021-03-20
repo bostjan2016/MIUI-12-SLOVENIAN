@@ -165,6 +165,7 @@
   <string name="mi_key_summary_open_camera">2x klik Mi Key za zagon kamere</string>
   <string name="mi_key_summary_take_photo">1x klik Mi Key za snemanje fotografije</string>
   <string name="mi_key_take_photo">Posnemi fotografijo</string>
+     <string name="midnight">Polnoč</string>
   <string name="miui_transfer_history_title">Bluetooth prenosi</string>
   <string name="miui_transfer_inbound_title">Vhodni</string>
   <string name="miui_transfer_outbound_title">Izhodni</string>

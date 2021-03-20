@@ -26,6 +26,11 @@
          <item>PET</item>
          <item>SOB</item>
      </string-array>
+	 <string-array name="prefValues_alerts_popup">
+        <item>nič</item>
+        <item>vse</item>
+        <item>pametno</item>
+     </string-array>
     <string-array name="reminder_methods_labels">
         <item>Obvestila</item>
         <item>E-pošta</item>

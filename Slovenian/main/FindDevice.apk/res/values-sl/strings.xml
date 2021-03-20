@@ -35,6 +35,7 @@
   <string name="app_name">Najdi napravo</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Ne morem odkleniti. %s."</string>
+     <string name="copy">Kopiraj</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
   <string name="default_debt_msg_words">"Ta naprava je zaklenjena zaradi zamude pri plačilu obroka.\Za podrobnosti kontaktirajte svojega prodajalca."</string>
@@ -222,6 +223,9 @@
   <string name="sys_notification_async_open_failed_title">"Ne morem vključiti Najdi napravo"</string>
   <string name="sys_notification_async_verify_content">Naša posodobljena varnostna pravila zahtevajo da je Najdi napravo ponovno aktiviran.</string>
   <string name="sys_notification_async_verify_title">Ponovno aktiviraj Najdi napravo</string>
+     <string name="thursday">Četrtek</string>
+     <string name="thursday_short">Čet</string>
+     <string name="thursday_shortest">Č</string>
   <string name="time_correction_failure">"Ne morem popraviti časa. %s"</string>
   <string name="time_correction_success">Čas je popravljen</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>

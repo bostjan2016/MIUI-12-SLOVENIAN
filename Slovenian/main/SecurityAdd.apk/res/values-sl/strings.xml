@@ -176,6 +176,7 @@
      <string name="gb_gpu_tips_graph">Optimizirajte grafiko za izboljšanje zmogljivosti grafičnega procesorja in prihranek energije. To storitev podpirajo določene igre.</string>
      <string name="gb_gpu_tips_resolution">"Privzeto ločljivost določa določena igra. Nekatere igre ne omogočajo prilagajanja ločljivosti."</string>
      <string name="gb_gpu_tips_texture">Dajte prednost zmogljivosti ali kakovosti slike</string>
+     <string name="gb_not_support_on_device">"Te aplikacije ni mogoče uporabljati na zunanjem zaslonu"</string>
      <string name="gb_pannel_control_mode_balance">Uravnoteženo</string>
      <string name="gb_pannel_control_mode_custom">Po meri</string>
      <string name="gb_pannel_control_mode_high_quality">Visoka kvaliteta</string>
@@ -330,11 +331,13 @@
   <string name="other">Ostale nastavitve</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
   <string name="pc_activity_title">Optimiziraj baterijo</string>
+     <string name="pm">PM</string>
   <string name="pm_lable_name">O ROOT dostopu</string>
   <string name="power_autorun_apps_empty">Ni aplik. s samod. zagonom</string>
   <string name="privacy_declare_dialog_title">Pogoji ponujanja storitev</string>
   <string name="privacy_prompt_traffic_purchase_message">"Vaša telefonska številka in podrobnosti o operaterju bodo šifrirani in poslani na Mi strežnike."</string>
   <string name="release_memory">Očisti predpomnilnik</string>
+     <string name="renew_now">Obnovi</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>

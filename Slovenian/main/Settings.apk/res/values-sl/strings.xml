@@ -2084,6 +2084,8 @@ Ko napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dv
   <string name="codec_low_latency_summary">Zmanjšaj latenco med sinhronizacijo zvoka in videa v igri</string>
   <string name="codec_low_latency_title">Nizka latenca</string>
      <string name="codec_low_latency_video_summary">Zagotovite zvočno izkušnjo z nizko zakasnitvijo za igre in videoposnetke, tako da bo sinhronizacija zvoka in slike bolj naravna.</string>
+     <string name="codec_low_latency_zmi_summary">Zmanjšaj zakasnitev zvoka in samodejno izboljšaj zvočne učinke za igre</string>
+     <string name="codec_low_latency_zmi_title">Nizka zakasnitev za igre</string>
   <string name="collect_diagnostics_summary">Zberi diagnostične podatke za rešitev problema</string>
   <string name="collect_diagnostics_title">Zberi diagnostiko</string>
   <string name="color_black">Črna</string>
