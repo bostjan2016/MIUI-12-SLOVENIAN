@@ -2964,7 +2964,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="permgroupdesc_microphone">Snemanje zvoka</string>
   <string name="permgroupdesc_phone">Klicanje in urejanje razgovora</string>
   <string name="permgroupdesc_recognition">Dostop do podatkov o zdravju &amp; in aktivnosti</string>
-  <string name="permgroupdesc_sensors">Pristup podatkov senzorjev telesa</string>
+  <string name="permgroupdesc_sensors">Dostop do podatkov senzorjev telesa</string>
   <string name="permgroupdesc_sms">Brati in pošiljati SMS</string>
   <string name="permgroupdesc_storage">Dostop do fotografij ali datotek v napravi</string>
   <string name="permission_action_accept">Dovoli</string>

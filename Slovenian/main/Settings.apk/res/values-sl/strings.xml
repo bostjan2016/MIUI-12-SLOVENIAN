@@ -5066,7 +5066,7 @@ kot PIN za Prvi prostor"</string>
     <string name="manage_conversations">Upravljanje pogovorov</string>
     <string name="manage_device_admin">Skrbniške aplikacije naprave</string>
   <string name="manage_device_admin_summary">Ogled ali izklop skrbnikov naprave</string>
-     <string name="manage_external_storage_title">Pristup svim datotekama</string>
+     <string name="manage_external_storage_title">Dostop do vseh datotek</string>
   <string name="manage_facerecoginition_text">Urejaj obraze</string>
   <string name="manage_fakecell_settings">Zaščita pred nepravimi baznimi postajami</string>
   <string name="manage_fingerprint_text">Urejaj prstne odtise</string>
