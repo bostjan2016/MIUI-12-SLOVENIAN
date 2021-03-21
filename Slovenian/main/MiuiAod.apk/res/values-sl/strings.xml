@@ -51,6 +51,10 @@
   <string name="animation_clock_panel">Valovno izbiranje</string>
   <string name="aod_close_color_inversion">"To se ne more kombinirati z inverzijo barv. Najprej izključite inverzijo barv."</string>
   <string name="aod_component">Prikazane stvari</string>
+     <string name="aod_dual_clock_date">HH:mm dd/MM</string>
+     <string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>
+     <string name="aod_dual_togother">HH:mm</string>
+     <string name="aod_dual_togother_12">hh:mm aa</string>
   <string name="aod_lock_screen_date">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12_signature">dd.MM</string>

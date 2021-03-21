@@ -11,8 +11,8 @@
   <string name="activate_fail_notification_title">Ponovno aktivirajte sinhronizacijo.</string>
   <string name="activating">Aktivacija…</string>
   <string name="address">Naslov</string>
-  <string name="afternoon">PM</string>
   <string name="after_reset_need_restore_system_app">"Kaže da ste naredili vrnitev na tovarniške nastavitve. Povežite se z omrežjem in obnovite sistemske elemente, tako da lahko normalno uporabljate MIUI."</string>
+     <string name="afternoon">PM</string>
   <string name="am">AM</string>
   <string name="app_name_which_call">Aplikacija: %s</string>
   <string name="app_version_which_call">Verzija aplikacije: %s</string>
@@ -21,8 +21,8 @@
   <string name="check_phone_error_title">Sinhronizacija je izključena</string>
   <string name="check_phone_io_error">"Ne morem se povezati na omrežje".</string>
   <string name="clearable_edittext_clear_description">Očisti</string>
-  <string name="close">Zapri</string>
   <string name="click_to_restore">Obnovite sistemske elemente, tako da lahko MIUI običajno uporabite po tovarniški ponastavitvi. Tapnite za začetek.</string>
+     <string name="close">Zapri</string>
   <string name="com_android_email">E-pošta</string>
   <string name="com_mi_liveassistant">Live Streaming pomočnik</string>
   <string name="com_miui_calculator">Kalkulator</string>
@@ -47,6 +47,7 @@
   <string name="date_picker_label_day"/>
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
+     <string name="date_picker_lunar">Tradicionalni kitajski koledar</string>
   <string name="date_time_done">Končano</string>
   <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
   <string name="delete_description">Izbriši</string>
@@ -62,13 +63,17 @@
   <string name="error_not_acceptable">Sinhronizacija je izključena</string>
   <string name="error_title">"Ne morem sinhronizirati"</string>
   <string name="error_unauthorized">Sinhronizacija je izključena zaradi prevelikega števila poskusov prijave.</string>
-  <string name="experience_new_system_app">Poglejte nove storitve!</string>
   <string name="evening">PM</string>
+     <string name="experience_new_system_app">Poglejte nove storitve!</string>
   <string name="fmt_chinese_date"/>
+     <string name="fmt_date">D</string>
+     <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month">MMMM, yyyy</string>
   <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+     <string name="fmt_date_numeric_day">d</string>
+     <string name="fmt_date_numeric_month">M</string>
   <string name="fmt_date_numeric_month_day">dd.MM</string>
   <string name="fmt_date_numeric_year">yyyy</string>
   <string name="fmt_date_numeric_year_month">MM.yyyy</string>
@@ -206,6 +211,7 @@ pojdite na: %s."</string>
   <string name="sunday">Nedelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
+     <string name="sync_one_time_sync">Sinhronizacija (%1$s)</string>
   <string name="system_app_is_restore">Povrnitev stvari sistema…</string>
   <string name="system_app_restore_completed">Uspešno vrnjeno</string>
   <string name="system_app_restore_completed_detail">Vsi sistemski elementi so uspešno obnovljeni</string>
@@ -213,7 +219,6 @@ pojdite na: %s."</string>
   <string name="system_app_restore_failed_detail">"Sistemskih elementov ni mogoče obnoviti. Preverite omrežne nastavitve in ne zaženite znova ali izklopite naprave dokler stvari ne bodo v celoti obnovljene. Če želite poskusiti znova, se dotaknite spodnjega gumba."</string>
   <string name="system_restore">Vrni stvari</string>
   <string name="tap_to_update_system_app">Dotaknite se, če želite posodobiti sistemske programe</string>
-  <string name="sync_one_time_sync">Sinhronizacija (%1$s)</string>
   <string name="the_anniversary_of_lifting_martial_law"/>
   <string name="the_anti_aggression_day"/>
   <string name="the_arbor_day"/>

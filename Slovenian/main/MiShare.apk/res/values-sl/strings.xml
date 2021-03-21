@@ -337,4 +337,5 @@ Spisek naprav najdete na naši spletni strani. Če je vaš prenosnik na seznamu,
      <string name="wednesday_shortest">S</string>
     <string name="wifi_is_not_enabled">Najprej vključite WiFi</string>
   <string name="wifi_is_not_enabled_china">Najprej vključite WiFi</string>
+     <string name="yesterday">Včeraj</string>
 </resources>

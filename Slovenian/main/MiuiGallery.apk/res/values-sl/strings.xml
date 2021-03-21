@@ -172,7 +172,7 @@
   <string name="album_share_subtitle_requesting">Prenašam podrobnosti o albumu…</string>
   <string name="album_share_title_new_album">Deli nov album</string>
   <string name="album_show_local_only">Pokaži samo lokalne albume</string>
-  <string name="album_show_local_only_summary">Vključite samo za pregled in brisanje fotografij na vaši napravi</string>
+  <string name="album_show_local_only_summary">Vklopite za ogled in brisanje fotografij samo v napravi</string>
   <string name="album_sort_type">Vrstni red sortiranja</string>
   <string name="album_sort_type_create_time_asc">Od starih do novih</string>
   <string name="album_sort_type_create_time_desc">Od novih do starih</string>
@@ -323,7 +323,7 @@
   <string name="backuped_title">Var. kopija je uspešno izdelana</string>
   <string name="backuping_title_gprs">Izdelava var. kopije s pomočjo prenosa mobilnih podatkov…</string>
   <string name="backuping_title_normal">Izdelava var. kopije…</string>
-  <string name="base_btn_cancel">Prekliči</string>
+  <string name="base_btn_cancel">Nadaljuj</string>
   <string name="base_btn_download">Prenesi</string>
   <string name="begin_share">Končana izdelava otroškega albuma \"%s\", delite ga zdaj</string>
   <string name="begin_share_toast">Napravim zasebni album za tega otroka pred deljenjem?</string>
@@ -1015,14 +1015,18 @@ za fotografije"</string>
   <string name="filter_sky_dynamic_snow">Sneg</string>
   <string name="filter_sky_dynamic_stop_saving">Tapnite ponovno da prekličete shranjevanje</string>
      <string name="filter_sky_dynamic_text_yanhua">Besedilo</string>
-     <string name="filter_sky_dynamic_text_yanhua_hint">Vnesite %1$d do %1$d znakova</string>
+     <string name="filter_sky_dynamic_text_yanhua_hint">Vnesite %1$d do %2$d znakov</string>
   <string name="filter_sky_dynamic_unavailable">"Ne morem uporabiti ta filter na takšne slike"</string>
   <string name="filter_sky_dynamic_yanhua">Fireworks</string>
   <string name="filter_sky_dynamic_yinhe">Milky Way</string>
   <string name="filter_sky_glow">Sijaj</string>
   <string name="filter_sky_haoyue">Luna</string>
-  <string name="filter_sky_hint">Skyscaping</string>
+  <string name="filter_sky_hint">Nebotikanje</string>
+     <string name="filter_sky_hongxi">Crimson</string>
+     <string name="filter_sky_huanxia">Sanje</string>
+     <string name="filter_sky_jiyun">Kumulus</string>
   <string name="filter_sky_nimbus">Nimbus</string>
+     <string name="filter_sky_nuanyang">Vročina</string>
   <string name="filter_sky_qixia">Zora</string>
   <string name="filter_sky_rainbow">Mavrica</string>
      <string name="filter_sky_random_download_failed">"Prenos ni uspel. Koda napake: "</string>
@@ -1034,6 +1038,9 @@ za fotografije"</string>
   <string name="filter_sky_sunset">Sončni zahod</string>
      <string name="filter_sky_text_yanhua">Besedilo</string>
   <string name="filter_sky_twilight">Somrak</string>
+     <string name="filter_sky_xiaying">Škrlatno</string>
+     <string name="filter_sky_xieyang">Mrak</string>
+     <string name="filter_sky_xiguang">Žarki</string>
   <string name="filter_sky_xingchen">zvezde</string>
   <string name="filter_sky_xinggui">Usmeritve</string>
   <string name="filter_sky_xinghe">Galaxy</string>
@@ -1045,6 +1052,8 @@ za fotografije"</string>
   <string name="filter_sky_yingyue">Polna luna</string>
   <string name="filter_sky_yinhe">Mlečna cesta</string>
   <string name="filter_sky_yuhui">Bleščeča svetloba</string>
+     <string name="filter_sky_yunbo">Valovi</string>
+     <string name="filter_sky_yunmeng">Fantazija</string>
   <string name="filter_sky_yunxu">Cirrus</string>
      <string name="filter_texture_shadow">Somrak</string>
   <string name="finish_create_baby_album_toast">Izdelan je \"%s\" album v Mi Cloudu</string>
@@ -1269,6 +1278,7 @@ za fotografije"</string>
   <string name="macarons_select_video">"Ne morem uporabiti več videoposnetkov za izdelavo čarobne vinjete"</string>
      <string name="magic_add_full">Lahko dodate do %1$d oseb</string>
      <string name="magic_background">Ozadje</string>
+     <string name="magic_bitmap_damaged">Slika je pokvarjena</string>
      <string name="magic_brush">Čopič</string>
      <string name="magic_camera">Kamera</string>
      <string name="magic_cancel">Prekliči</string>
@@ -1315,11 +1325,12 @@ za fotografije"</string>
      <string name="magic_matting_download_sdk_without_wifi_title">Prenesi \"Čarovnija\" dodatek</string>
      <string name="magic_matting_download_with_metered_network_msg">Zdi se, da je vaša naprava povezana s plačljivim omrežjem. Prenos izvornih datotek lahko povzroči dodatne stroške. Vseeno prenesem?</string>
      <string name="magic_matting_download_with_metered_network_title">Plačljivo omrežje</string>
+     <string name="magic_matting_error_px">"Ta velikost ni podprta"</string>
      <string name="magic_matting_face_fail">"Obdelava obraza ni uspela"</string>
      <string name="magic_matting_load_data_fail">"Podatkov ni bilo mogoče naložiti"</string>
      <string name="magic_matting_module_finish">Dodatek \"Čarovnija\" uspešno prenešen</string>
      <string name="magic_matting_module_loading">Prenos \"Čarovnija\" dodatka…</string>
-  <string name="magic_max_px">Slika je prevelika</string>
+     <string name="magic_max_px">Slika je prevelika</string>
      <string name="magic_metered_network_msg">Zdi se, da je vaša naprava povezana s plačljivim omrežjem. Prenos izvornih datotek lahko povzroči dodatne stroške. Vseeno prenesem?</string>
      <string name="magic_metered_network_title">Plačljivo omrežje</string>
      <string name="magic_mix_px">Slika je premajhna</string>
@@ -1344,6 +1355,8 @@ za fotografije"</string>
      <string name="magic_stroke">Oris</string>
      <string name="magic_typesetting_n">Videz</string>
      <string name="magic_value_exceed">Vnesena vrednost je presegla omejitev</string>
+     <string name="magic_video_cut_frame">Obdelava…</string>
+     <string name="magic_video_cut_frame_back">Tapnite znova za preklic</string>
      <string name="magic_video_cut_max">Izberite do %1$d sekund</string>
      <string name="magic_video_cut_min">Izberite vsaj %1$d sekundo</string>
      <string name="magic_video_long_press">Pritisnite &amp; držite za dodajanje</string>
@@ -1418,7 +1431,7 @@ za fotografije"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne morem naložiti"</string>
-  <string name="monday">Ponedjeljek</string>
+  <string name="monday">Ponedeljek</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
   <string name="month">Mesec</string>
@@ -1548,7 +1561,9 @@ za fotografije"</string>
   <string name="need_to_turn_on_wlan">Povežite se na WiFi</string>
   <string name="negative">Negativ</string>
   <string name="network_connected_rescan">"Ne morem se povezati na omrežje"</string>
-  <string name="network_unsatisfied_button_text">Povežite se na omrežje</string>
+     <string name="network_message">"Ta storitev se mora za normalno delovanje povezati z omrežjem. Kaže, da ta naprava ni povezana z omrežjem WiFi. Ali želite nadaljevati z mobilnimi podatki? Uporaba mobilnih podatkov lahko povzroči dodatne stroške operaterja."</string>
+     <string name="network_title">Poveži se z omrežjem</string>
+  <string name="network_unsatisfied_button_text">Poveži se na omrežje</string>
      <string name="new_album_invalid_byte">Ime je predolgo</string>
   <string name="new_album_invalid_char">"Ime vsebuje neveljaven znak \"%s\", vnesite črko ali številko."</string>
   <string name="new_album_invalid_name">\"%s\" je sistemski album, prosimo preimenujte ga.</string>
@@ -1629,6 +1644,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="operation_failed">"Ne morem dokončati"</string>
   <string name="operation_favorites">Priljubljeno</string>
   <string name="operation_force_top">Na vrh</string>
+     <string name="operation_google_lens">Google Leče</string>
   <string name="operation_hide">Skrij</string>
   <string name="operation_hide_time">Skrij datume</string>
   <string name="operation_in_process">Obdelujem…</string>
