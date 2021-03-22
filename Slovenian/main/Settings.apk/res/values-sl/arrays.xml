@@ -1547,4 +1547,12 @@
         <item>Zahtevaj status certifikata</item>
         <item>Zahtevaj vse nepreverjene statuse certifikatov</item>
      </string-array>
+	  <string-array name="wifi_link_turbo_mode_entries">
+        <item>Pomožno</item>
+        <item>Polno</item>
+     </string-array>
+     <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>Povečaj hitrost z uporabo mobilnih podatkov samo, če je signal WiFi slab</item>
+        <item>Združi WiFi in mobilne podatke za povečanje hitrosti povezave</item>
+     </string-array>
 </resources>

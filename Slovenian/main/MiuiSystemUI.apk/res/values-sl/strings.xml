@@ -1029,6 +1029,7 @@ Izbor"</string>
   <string name="fingerprint_try_again_text">Poskusite ponovno</string>
   <string name="float_incall_ignore">Ignoriraj</string>
   <string name="float_incall_message">Sporočilo</string>
+  <string name="float_notification_snooze_strategy">Začasno skrij plavajoča obvestila</string>
   <string name="force_allow_on_external">Prisilno dovoli aplikacijam zapis v zunanji pomnilnik</string>
   <string name="force_allow_on_external_summary">Aplikacije se lahko zapišejo v zunanji pomnilnik neodvisno od vrednosti manifesta</string>
   <string name="force_hw_ui">Vsili GPU renderiranje</string>
@@ -1549,6 +1550,15 @@ posnetka zaslona"</string>
   <string name="miui_ringer_total">Ne moti</string>
   <string name="miui_ringer_total_description">Utišaj zvoke in izključi vibracijo za vse razen alarma</string>
   <string name="miui_screen_rotation_freeze_message">Samod. rotacija onemogočena.</string>
+  <string name="miui_snooze_always_float">"Ne skrivaj"</string>
+  <string name="miui_snooze_cancel">Prekliči</string>
+  <string name="miui_snooze_default_time">Za %d min</string>
+  <string name="miui_snooze_to_settings">Nastavitve</string>
+  <string name="miui_snooze_toast_hint_default">"Prihajajoča obvestila bodo skrita za %d minut. "</string>
+  <string name="miui_snooze_toast_hint_until_unlock_screen">"Prihajajoča obvestila bodo skrita, dokler se naprava ne zaklene. "</string>
+  <string name="miui_snooze_until_unlock_screen">Dokler se ne zaklene</string>
+  <string name="miui_snooze_user_set_fail">Pojdite v Nastavitve > Obvestila &amp; Center za kontrolo za več možnosti</string>
+  <string name="miui_snooze_user_set_success">Uspešno uporabljeno. Pojdite v Nastavitve > Obvestila &amp; Center za kontrolo za več možnosti.</string>
   <string name="miui_toast_zen_dnd_to_off">Ne moti je izključeno. Zvoki in vibracije vrnjeni na normalno.</string>
   <string name="miui_toast_zen_dnd_to_off_version_R">Ne moti je izključeno. Zvoki in vibracije so ponovno vključeni.</string>
   <string name="miui_toast_zen_standard_to_off">Ne moti je izključeno. Melodije zvonjenja vrnjene na normalno.</string>
@@ -1938,6 +1948,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="private_dns_mode_provider">Ime hosta ponudnika zasebnega DNS-a</string>
   <string name="private_dns_mode_provider_failure">Povezovanje ni možno</string>
   <string name="private_dns_mode_provider_hostname_hint">Vnesite ime DNS ponudnika</string>
+     <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Težava pri povezovanju. Napravo izklopite in znova vklopite.</string>
     <string name="profile_info_settings_title">Podatki za profil</string>
     <string name="profile_owned_footer">Profil je morda nadziran</string>
@@ -2166,6 +2177,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="recents_title_garbage_deepclean">Temeljito čiščenje</string>
   <string name="recents_title_market">Najdi aplikacije</string>
   <string name="recents_title_security_scan">Varnostni pregled</string>
+     <string name="regrettable_lack_of_easter_egg">¯\\_(ツ)_/¯</string>
   <string name="reject_call">Klic zavrnjen</string>
   <string name="remaining_length_format">Še %1$s</string>
      <string name="remote_input_image_insertion_text">pošilja sliko</string>

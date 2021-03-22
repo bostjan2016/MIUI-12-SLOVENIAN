@@ -621,9 +621,13 @@
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
+     <string name="tip_download_icon_restore">Dodaj bližnjico na začetni zaslon za prenose</string>
+     <string name="tip_download_icon_retry">"Bližnjice ni bilo mogoče dodati. Poskusite ponovno."</string>
   <string name="title_homepage_infoflow">Nedavne posodobitve</string>
   <string name="title_tips">Pozor</string>
   <string name="title_unbind_xunlei">Odstrani Xunlei Račun</string>
+     <string name="toast_download_icon_restore_fail">"Bližnjice ni bilo mogoče dodati"</string>
+     <string name="toast_download_icon_restore_success">Uspešno dodano</string>
   <string name="toast_only_wifi_download">Povežite se na WiFi za prenos</string>
   <string name="toast_update_data_limit_fail">"Ne morem nastaviti"</string>
   <string name="toast_xunlei_engine_open">"Xunlei pohitritev prenosov vključena.      

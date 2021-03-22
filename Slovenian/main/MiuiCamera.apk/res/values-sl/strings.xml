@@ -541,6 +541,7 @@ in za trenutek zapustite pregled"</string>
      <string name="dialog_button_connect">Poveži</string>
      <string name="dialog_button_disconnect">Izhod</string>
      <string name="dialog_button_exit">Izključi</string>
+     <string name="dialog_button_goto">Nastavitve</string>
      <string name="dialog_button_ok">V redu</string>
      <string name="dialog_button_reject">Zavrni</string>
      <string name="dialog_button_scan">Išči naprave</string>
@@ -590,10 +591,13 @@ skenirane dokumente samodejno"</string>
   <string name="dual_camera_too_close_toast">Kamera je preblizu objekta.</string>
   <string name="dual_camera_use_hint">"Objekt ne bi smel biti dlje kot 2 metra."</string>
      <string name="dual_video_record_merged">Kombinirano</string>
+     <string name="dual_video_record_remote">Snemanje z dvema telefonoma</string>
      <string name="dual_video_record_standalone">Ločeno</string>
      <string name="dual_video_user_guide_main_content">Če želite ustvariti videoposnetke z več kamerami, v napravi izberite dve kameri in fotografirajte hkrati. Posnetke lahko shranite ločeno ali jih združite v razdeljeni pogled ali video slika v sliki.</string>
      <string name="dual_video_user_guide_main_title">Multikamera video</string>
      <string name="dual_video_user_guide_merge_content">Snemajte z dvema kamerama hkrati in združite posnetke v ločenem pogledu ali video slika v sliki.</string>
+     <string name="dual_video_user_guide_remote_content">"Dvojno snemanje s telefonom omogoča kombiniranje virov iz dveh različnih naprav v en video. V tej napravi boste lahko predogledali vire in končni video. Upoštevajte, da bo zvok snemala samo ta naprava."</string>
+     <string name="dual_video_user_guide_remote_p">Telefon %d</string>
      <string name="dual_video_user_guide_standalone_content">Snemajte z dvema kamerama hkrati in oba posnetka shranite kot ločena videoposnetka.</string>
   <string name="duration">Trajanje</string>
   <string name="edit">Uredi</string>
@@ -729,6 +733,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="hand_gesture_tip">Slikanje z dlanjo</string>
   <string name="hand_night_exit_button_text">Izhod iz Hand-held Twilight</string>
   <string name="hdr_exit_button_text">Izhod iz HDR načina</string>
+     <string name="hdr_tip">HDR</string>
   <string name="height">Višina</string>
   <string name="hibernate_hint">Pritisnite zaslon da zbudite kamero</string>
   <string name="hine_hht">"Pri slabi svetlobi bo kamera posnela več fotografij
@@ -1593,6 +1598,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_lens_dirty_detect_title">Obvesti o umazani leči</string>
      <string name="pref_live_duration_title">Trajanje v živo</string>
   <string name="pref_manual_exposure_title">Čas eksp.</string>
+     <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
   <string name="pref_module_settings">Načini</string>
   <string name="pref_more_mode_style_title">Načini kamere</string>
@@ -1634,6 +1640,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_super_night_se_summary">Zaznaj pogoje šibke svetlobe in samodejno izboljšaj kakovost slike</string>
      <string name="pref_super_night_se_title">Samod. nočni način dela</string>
   <string name="pref_userdefine_watermark_title">Lastna oznaka</string>
+     <string name="pref_video_ai_audio_single">Sprednji zvok</string>
   <string name="pref_video_captrue_ability_title">Snemanje fotografij med snemanjem</string>
      <string name="pref_video_cast_setting_summary">Vklopite, če želite snemati en video z več napravami</string>
      <string name="pref_video_cast_setting_title">Snemanje z dvema telefonoma</string>
@@ -1689,6 +1696,11 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_watermark_title">Vodni žig</string>
   <string name="pref_wind_denoise_title">Filter vetra</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
+     <string name="prek_b_j_o">Ponovno ustvari stereo prostorski učinek</string>
+     <string name="prek_b_j_p">Zmanjšaj vpliv vetra na snemanje zvoka</string>
+     <string name="prep_video_ai_audio_new_desc_tip">Zvoki iz izostrenega motiva so izboljšani</string>
+     <string name="prep_video_ai_audio_single_desc_tip">Zvoki izza zaslona se filtrirajo</string>
+     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Zvočni zoom ne deluje z monitorjem v ušesu in zunanjim mikrofonom v živo"</string>
   <string name="preparing_sd">Pripravljam notranji pomnilnik…</string>
   <string name="preview_back_pressed_hint">Tapnite ponovno za vrnitev na pregled</string>
   <string name="pro_color_mode">Pro barva</string>
@@ -1702,6 +1714,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="recommend_soft_light_tip">Uporabite bliskavico v načinu mehke svetlobe</string>
   <string name="recommend_super_night">Poskusite Nočni način</string>
   <string name="record_back_pressed_hint">Ponovno se dotakni za prenehanje snemanja</string>
+     <string name="remote_device_type_phone">Xiaomi</string>
      <string name="remote_online_connecting">Izberite napravo za povezavo</string>
      <string name="remote_online_disconnect_confirmation">Prekličem povezavo z %1$s?</string>
      <string name="remote_online_exit_confirmation">Izklopim snemanje z dvema telefonoma?</string>
@@ -1710,6 +1723,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="remote_online_interrupted">Povezava prekinjena. Ponovno se povežite za nadaljevanje.</string>
      <string name="remote_online_introduction_i">"Snemanje z dvema telefonoma omogoča kombiniranje virov iz dveh različnih naprav v en video. V tej napravi boste lahko predogledali vire in končni video. Upoštevajte, da bo zvok snemala samo ta naprava."</string>
      <string name="remote_online_introduction_ii">Da ta funkcija deluje, mora druga naprava Mi ali Redmi podpirati snemanje z dvema telefonoma. Vklopite ga lahko v Centru za kontrolo.</string>
+     <string name="remote_online_permission">"Spremenite dovoljenje za lokacijo kamere v \"Dovoli samo med uporabo aplikacije\", če želite uporabljati snemanje z dvojnim telefonom."</string>
      <string name="remote_online_searching">Iskanje naprav…</string>
      <string name="remote_online_service_name">Snemanje z dvema telefonoma</string>
      <string name="remote_online_unavailable">"Ne najdem naprav"</string>
@@ -1910,6 +1924,7 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</s
   <string name="video_bokeh_blur">Zameglitev</string>
   <string name="video_bokeh_color_point">Pisani madeži</string>
   <string name="video_bokeh_spin">Spin</string>
+     <string name="video_bokeh_zoom">Zoom</string>
   <string name="video_bokeh_zoom_in">Zoom in</string>
   <string name="video_bokeh_zoom_out">Zoom out</string>
   <string name="video_camera_label">Videokamera</string>

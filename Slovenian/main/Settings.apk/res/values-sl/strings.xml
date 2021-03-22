@@ -10600,7 +10600,7 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
   <string name="wifi_assistant_card_message">Samodejno se povežite z dostopnimi omrežji s pomočjo WiFi Asistenta.</string>
   <string name="wifi_assistant_confirm_always">"Ne kaži več"</string>
   <string name="wifi_assistant_confirm_connection_title">Ne morem se povezati z omrežjem</string>
-  <string name="wifi_assistant_data_prompt">Opozori</string>
+  <string name="wifi_assistant_data_prompt">Pokaži opozorilo uporabe podatkov</string>
   <string name="wifi_assistant_data_prompt_summary">Pokaži opozorilo porabe podatkov ko WiFi Asistent preklopi na mobilne podatke</string>
   <string name="wifi_assistant_description">"Kako deluje WiFi Asistent:
 1. Ko je WiFi povezava slaba bo WiFi Asistent poskusil povezati napravo z drugimi dostopnimi WiFi omrežji.
@@ -10613,6 +10613,7 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
   <string name="wifi_assistant_explicitly_confirm_wifi_message">Kaže da so na voljo druga omrežja. Zamenjam omrežje?</string>
   <string name="wifi_assistant_intro_setup">"Novo! WiFi Asistent"</string>
   <string name="wifi_assistant_keep_connection">Ostani povezan</string>
+  <string name="wifi_assistant_keep_wifi_connection">Ne, hvala</string>
   <string name="wifi_assistant_no_thanks">NE, hvala</string>
   <string name="wifi_assistant_off">Izključeno</string>
   <string name="wifi_assistant_ok">V redu</string>
@@ -10882,12 +10883,13 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_link_turbo_customize">Prilagojene aplikacije</string>
   <string name="wifi_link_turbo_customize_summary">Izberite aplikacije ki bodo delale z WiFi pomočnikom</string>
   <string name="wifi_link_turbo_list">Aplikacije</string>
+  <string name="wifi_link_turbo_mode">Način za povečanje hitrosti</string>
   <string name="wifi_link_turbo_no_app">Tu še ni aplikacij.</string>
   <string name="wifi_link_turbo_off">Izključeno</string>
   <string name="wifi_link_turbo_on">Vključeno</string>
   <string name="wifi_link_turbo_recommendation">Priporočene aplikacije</string>
   <string name="wifi_link_turbo_recommendation_summary">Sprejem priporočil na osnovi statistike uporabe podatkov</string>
-  <string name="wifi_link_turbo_summary">Povečajte hitrost povezave za izbrane aplikacije ki uporabljajo mobilne podatke ko je WiFi povezava slaba</string>
+  <string name="wifi_link_turbo_summary">Uporabite mobilne podatke za povečanje hitrosti povezave. Uporaba te storitve lahko povzroči dodatne stroške operaterja</string>
   <string name="wifi_master_key_dialog_content_master_key">WiFi Master ključ</string>
   <string name="wifi_master_key_dialog_content_password">Geslo</string>
   <string name="wifi_master_key_dialog_title">Poveži z uporabo</string>

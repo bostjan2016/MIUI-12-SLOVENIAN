@@ -144,9 +144,11 @@
      <string name="calendar_account_settings">Nastavitve računa</string>
   <string name="calendar_color_picker_dialog_title">Barva koledarja</string>
      <string name="calendar_import_source">Pot vira</string>
+     <string name="calendar_privacy_policy">Pravila o zasebnosti</string>
   <string name="calendar_refresh">Osveži</string>
   <string name="calendar_square_color_picker_description">Izbira barve</string>
   <string name="calendar_subscription_group_title">Naročila koledarja</string>
+     <string name="calendar_user_agreement">Pogoji uporabe</string>
      <string name="call_label">Klic</string>
   <string name="can_not_create_long_event">Ime dogodka je predolgo</string>
   <string name="can_not_modify_allday_event">"Sprememba celodnevnega dogodka ni mogoča"</string>
@@ -180,6 +182,7 @@
   <string name="color_swatch_description">Barva %1$d</string>
   <string name="color_swatch_description_selected">Izbrana je %1$d barva</string>
   <string name="content_confirm_close_chinese_calendar">Vsi vaši dogodki na osnovi tradicionalnoga kitajskega koledarja bodo spremenjeni v gregorijanski koledar po izklopu te storitve. Leta in meseci Gregorijanskoga koledarja bodo uporabljeni za ponovljene dogodke.</string>
+  <string name="copy">Kopiraj</string>
   <string name="copy_db">Pošlji bazo podatkov</string>
   <string name="copy_email">Kopiraj E-naslov</string>
   <string name="copy_number">Kopiraj telefonsko številko</string>
@@ -327,6 +330,7 @@
   <string name="event_title">Naslov</string>
   <string name="event_view">Pokaži dogodek</string>
   <string name="every_weekday">Med tednom (Pon - Pet)</string>
+     <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Pokaži padajoči meni</string>
   <string name="festival_detail_title">Festival</string>
      <string name="flight_check_in">Prijava</string>
@@ -489,7 +493,7 @@
   <string name="miuishare_title_more">Več</string>
   <string name="miuishare_title_share">Deli</string>
   <string name="miuishare_wechat_timeline_title">WeChat Trenutki</string>
-     <string name="miuishare_wechat_title">WeChat</string>
+  <string name="miuishare_wechat_title">WeChat</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
   <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
@@ -498,10 +502,13 @@
   <string name="miuix_appcompat_cancel_description">Prekliči</string>
   <string name="miuix_appcompat_confirm_description">Potrdi</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
   <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
   <string name="miuix_appcompat_search_input_description">Išči</string>
+  <string name="miuix_appcompat_select_all">Izberi vse</string>
   <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+  <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sb_tracking_progress_labe_refreshed">Osveženo</string>
   <string name="miuix_sb_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -642,6 +649,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="no_visiable_calendar_select_account">Dodaj račun</string>
   <string name="no_visiable_calendar_title">Dodaj račun koledarja</string>
   <string name="noon">PM</string>
+  <string name="not_set">Ni nastavljeno</string>
   <string name="not_synced">Ni sinhronizirano</string>
   <string name="notification_channel_name">Redni opomniki</string>
   <string name="notification_channel_name_no_sound">Utišani opomniki</string>
@@ -669,6 +677,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="pref_title_alarm_remind">Opomniki alarma</string>
   <string name="pref_title_no_remind">Brez opomnikov</string>
   <string name="pref_title_notification_remind">Opomniki obvestil</string>
+  <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
   <string name="preferences_about_title">O koledarju</string>
   <string name="preferences_alarms_category_title">Opomniki alarma</string>
   <string name="preferences_alarms_default_event">Izberite dogodke</string>
@@ -711,6 +720,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="preferences_use_home_tz_title">Uporabi domači časovni pas</string>
   <string name="preferences_week_start_day_dialog">Začetek tedna</string>
   <string name="preferences_week_start_day_title">Začetek tedna</string>
+  <string name="prefsx_notify_sound_none">Tiho</string>
   <string name="premission_description_agree">Dovolite aplikaciji povezavo s spletom in odobrite zgoraj navedena obvezna dovoljenja.</string>
   <string name="premission_description_calendar">Za dodajanje in prikazovanje dogodkov</string>
   <string name="premission_description_contact">Za prikazovanje rojstnih dni vaših stikov</string>
@@ -1039,6 +1049,8 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="user_notice_button_ok">V redu</string>
   <string name="user_notice_message">"Z uporabo tega proizvoda se strinjate z Xiaomi %1$s in %2$s. Nekatera opravila potrebujejo povezavo s spletom, dostop do lokacije in stikov za normalno delovanje."</string>
   <string name="user_notice_title">Pozor</string>
+  <string name="v7_preference_off">IZKLJUČENO</string>
+  <string name="v7_preference_on">VKLJUČENO</string>
   <string name="view_event_calendar_label">Koledar:</string>
   <string name="view_event_organizer_label">Organizator:</string>
   <string name="view_event_response_label">Boš obiskal/a?</string>

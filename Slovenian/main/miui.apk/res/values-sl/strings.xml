@@ -24,6 +24,7 @@
   <string name="click_to_restore">Obnovite sistemske elemente, tako da lahko MIUI običajno uporabite po tovarniški ponastavitvi. Tapnite za začetek.</string>
      <string name="close">Zapri</string>
   <string name="com_android_email">E-pošta</string>
+  <string name="com_android_soundrecorder">Snemalec</string>
   <string name="com_mi_liveassistant">Live Streaming pomočnik</string>
   <string name="com_miui_calculator">Kalkulator</string>
   <string name="com_miui_cleanmaster">Čistilec</string>
@@ -37,6 +38,7 @@
   <string name="com_xiaomi_drivemode">Pribor za avto</string>
   <string name="com_xiaomi_gamecenter">Igre</string>
   <string name="com_xiaomi_jr">Mi Finance</string>
+     <string name="com_xiaomi_midrop">ShareMe</string>
   <string name="com_xiaomi_scanner">Skener</string>
   <string name="com_xiaomi_shop">Mi Store</string>
   <string name="com_xiaomi_vipaccount">Mi Community</string>
