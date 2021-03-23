@@ -25,6 +25,26 @@
         <item>Prejeto</item>
         <item>Poslano</item>
      </string-array>
+	 <string-array name="rcs_ft_fallback">
+        <item>Nikoli ne sprašuj in vedno pošlji kot SMS povezavo</item>
+        <item>Nikoli ne sprašuj in nikoli ne pošlji kot SMS povezavo</item>
+        <item>Zmeraj vprašaj</item>
+     </string-array>
+     <string-array name="rcs_message_fallback">
+        <item>Nikoli ne sprašuj in vedno pošlji kot SMS</item>
+        <item>Nikoli ne sprašuj in nikoli ne pošlji kot SMS</item>
+        <item>Zmeraj vprašaj</item>
+     </string-array>
+     <string-array name="rcs_picture_quality_setting">
+        <item>zmeraj vprašaj</item>
+        <item>nikoli ne spreminjaj velikosti</item>
+        <item>vedno spremeni velikost izbrane možnosti, ki se nato shrani kot privzeta vrednost</item>
+	</string-array>
+	<string-array name="rcs_video_quality_setting">
+        <item>zmeraj vprašaj</item>
+        <item>nikoli ne spreminjaj velikosti</item>
+        <item>vedno spremeni velikost izbrane možnosti, ki se nato shrani kot privzeta vrednost</item>
+     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>SMS</item>
         <item>Mi Sporočila</item>

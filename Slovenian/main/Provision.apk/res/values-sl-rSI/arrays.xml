@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
  <resources>
      <string-array name="popular_language_locales">
-        <item>sl_SI</item>
         <item>en_IN</item>
         <item>en_GB</item>
         <item>en_US</item>
@@ -12,7 +11,6 @@
         <item>zh_CN</item>
      </string-array>
      <string-array name="indian_popular_language_locales">
-         <item>sl_SI</item>
          <item>en_US</item>
          <item>en_GB</item>
      </string-array>

@@ -9,7 +9,6 @@
         <item>A</item>
         <item>B</item>
         <item>C</item>
-	    <item>Č</item>
         <item>D</item>
         <item>E</item>
         <item>F</item>
@@ -26,7 +25,6 @@
         <item>Q</item>
         <item>R</item>
         <item>S</item>
-		<item>Š</item>
         <item>T</item>
         <item>U</item>
         <item>V</item>
@@ -34,7 +32,6 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-		<item>Ž</item>
     </string-array>
     <string-array name="countries">
         <item>Afghanistan</item>

@@ -214,6 +214,12 @@
         <item>Levo</item>
         <item>Desno</item>
     </string-array>
+	<string-array name="nav_bar_layouts_values">
+        <item>privzeto</item>
+        <item>levo;nazaj,domov,nedavno;desno</item>
+        <item>levo,nazaj,domov,nedavno,desno;presledek;presledek</item>
+        <item>presledek;presledek;levo,nazaj,domov,nedavno,desno</item>
+     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Brez</item>
         <item>480p</item>
@@ -227,6 +233,19 @@
         <item>4K (izboljšan prikaz)</item>
         <item>4K (izboljšan prikaz, varno)</item>
         <item>720p, 1080p (dvojni zaslon)</item>
+    </string-array>
+	<string-array name="qs_control_independent_tiles">
+        <item>celica</item>
+        <item>bt</item>
+        <item>wifi</item>
+        <item>samod.svetlost</item>
+    </string-array>
+    <string-array name="qs_control_independent_tiles_global">
+        <item>celica</item>
+        <item>bt</item>
+        <item>wifi</item>
+        <item>bliskavica</item>
+        <item>samod.svetlost</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Izklopljeno</item>
@@ -270,6 +289,28 @@
         <item>Vse (brez rad.)</item>
         <item>samo jedro</item>
     </string-array>
+	 <string-array name="select_logpersist_values">
+        <item></item>
+        <item>vse</item>
+        <item>privzeto,varnost,jedro</item>
+        <item>jedro</item>
+     </string-array>
+     <string-array name="show_non_rect_clip_values">
+        <item>skrij</item>
+        <item>regija</item>
+        <item>poudarek</item>
+     </string-array>
+	 <string-array name="tts_rate_entries">
+        <item>Zelo počasi</item>
+        <item>Počasi</item>
+        <item>Normalno</item>
+        <item>Hitro</item>
+        <item>Bolj hitro</item>
+        <item>Zelo hitro</item>
+        <item>Rapidno</item>
+        <item>Zelo rapidno</item>
+        <item>Najhitrejše</item>
+     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Izklopljeno</item>
         <item>Izris obm. nepravok. izreza z modro</item>
