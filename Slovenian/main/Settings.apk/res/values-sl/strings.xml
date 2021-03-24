@@ -443,10 +443,14 @@ Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
   <string name="add_fingerprint_toast_text">Postavite prst na skener</string>
   <string name="add_front_fingerprint_instruction_msg">Čitalec prstnega odtisa se nahaja na zadnji strani naprave.</string>
   <string name="add_new">Dodaj</string>
+  <string name="add_one_text_app_name_once">Naenkrat lahko dodate en paket</string>
   <string name="add_rule">Dodaj pravila</string>
+  <string name="add_text_app_name">Dodajte preskusni paket aplikacij</string>
+  <string name="add_text_app_name_here">Vnesite ime paketa</string>
+  <string name="add_text_app_package_name">Dodajte preskusni paket aplikacij</string>
   <string name="add_virtual_keyboard">Dodajanje navidezne tipkovnice</string>
   <string name="adding_profile_owner_warning">"Če nadaljujete bo z vašim Uporabnikom upravljal administrator, ki lahko hrani tudi povezane podatke kot tudi vaše osebne podatke. Administrator lahko nadzira nastavitve, pristop, aplikacije in podatke povezane s tem uporabnikom in jih ureja vključno z omrežno aktivnostjo in podatki o lokaciji vaše naprave."</string>
-    <string name="additional_battery_info">Opozorila o porabi</string>
+  <string name="additional_battery_info">Opozorila o porabi</string>
   <string name="additional_permissions">Dodatna dovoljenja</string>
   <string name="additional_permissions_more">Še %1$d</string>
   <string name="additional_system_update_settings_list_item_title">Dodatne posodobitve sistema</string>
@@ -5279,7 +5283,8 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_Box">Box</string>
      <string name="miheadset_LeftEar">Levo</string>
      <string name="miheadset_RightEar">Desno</string>
-     <string name="miheadset_active">močno</string>
+     <string name="miheadset_active">Močno</string>
+     <string name="miheadset_adaptive">Prilagodljivo</string>
      <string name="miheadset_ancBalance">Srednje</string>
      <string name="miheadset_ancClosed">Izklj.</string>
      <string name="miheadset_ancDecrease">Nizko</string>

@@ -66,6 +66,9 @@
   <string name="find_device_notice_p1">Pojdite na</string>
   <string name="find_device_notice_p3">" da najdete, zaklenite ali ponastavite svojo napravo</string>
   <string name="find_device_notice_sms_alert">Če zamenjate SIM kartico bo samodejno poslano še eno SMS sporočilo za ponovno aktiviranje te storitve."</string>
+  <string name="find_device_notice_sms_alert_with_common_charge_hint">"Če želite posodobiti stanje kartice SIM in zagotoviti, da vse storitve delujejo normalno, bo &lt;font color=#0097FF>&lt;b>plačljivo tekstno sporočilo&lt;/b>&lt;/font> poslano, ko zamenjate SIM kartici. To sporočilo vam bo lahko zaračunal vaš operater."</string>
+  <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Če želite posodobiti stanje kartice SIM in zagotoviti, da vse storitve delujejo normalno, bo &lt;font color=#0097FF>&lt;b>domače plačljivo tekstno sporočilo&lt;/b>&lt;/font> poslano, ko zamenjate SIM kartici. To sporočilo vam bo lahko zaračunal vaš operater."</string>
+  <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Če želite posodobiti stanje kartice SIM in zagotoviti, da vse storitve delujejo normalno, bo &lt;font color=#0097FF>&lt;b>mednarodno plačljivo tekstno sporočilo&lt;/b>&lt;/font> poslano, ko zamenjate SIM kartici. To sporočilo vam bo lahko zaračunal vaš operater."</string>
   <string name="find_device_stop_noise">Dotaknite se V redu da utišate</string>
   <string name="find_device_storage_corrupted">Prostor za shranjevanje Najdi napravo je poškodovan. Vaša naprava ni več varna.</string>
   <string name="find_device_success_title">Najdi napravo</string>

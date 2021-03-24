@@ -1658,6 +1658,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="gamebooster_network_dialog_title">"Nekatere stvari niso na voljo"</string>
   <string name="gamebox_app_not_find">Najprej namestite aplikacijo.</string>
   <string name="gamebox_browser_not_find">Najprej namestite Mi brskalnik</string>
+     <string name="gamebox_collimator">Pogled</string>
   <string name="gamebox_display_1">Nič</string>
   <string name="gamebox_display_2">Nasičeno</string>
   <string name="gamebox_display_3">Svetlo</string>
@@ -1686,6 +1687,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="gamebox_qq_not_find">Namestite QQ i poskusite ponovno.</string>
   <string name="gamebox_recent_task_expand_fail">"Aplikacije ki delajo z bližnjicami niso nameščene"</string>
   <string name="gamebox_simcard">Zamenjaj SIM kartico</string>
+     <string name="gamebox_time">Časovnik</string>
   <string name="gamebox_type_close">"Ne kaži"</string>
   <string name="gamebox_type_float">Popravljena bližnjica</string>
   <string name="gamebox_type_gesture">Podrsaj za prikaz</string>
@@ -1738,6 +1740,10 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="gb_advance_settings_vibration_4d_summary2">Vibriraj med ubijanjem v igri</string>
   <string name="gb_audition_instruction">Pritisnite in držite za snemanje (%1$s-%2$s sek)</string>
   <string name="gb_audition_play_instruction">Za najboljši učinek uporabite slušalke</string>
+  <string name="gb_collimator_color">Barva</string>
+  <string name="gb_collimator_size">Velikost</string>
+  <string name="gb_collimator_style">Stil</string>
+  <string name="gb_collimator_toast">Zaradi pogleda je ciljanje veliko bolj priročno</string>
   <string name="gb_create_icon_summary">Izdelaj bližnjico zač. zaslona</string>
   <string name="gb_description_image_button_answer">Odgovori</string>
   <string name="gb_description_image_button_reject">Zavrni</string>
@@ -1771,6 +1777,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="gb_game_macro_bubble_tips">Poskusite combo</string>
      <string name="gb_game_macro_toast_tips">"Poskusite combo!
 Posnemite zaporedja in jih kadar koli uporabite!"</string>
+     <string name="gb_game_time_toast">Časovnik na voljo!</string>
   <string name="gb_game_video_bottom_tips">Poglejte ključne trenutke svojih sej v Game Turbo. Videoposnetki se tam privzeto hranijo 7 dni.</string>
   <string name="gb_game_video_item_tag">Ključni trenutek</string>
   <string name="gb_game_video_page_delete_success">Uspešno izbrisano</string>
@@ -1798,6 +1805,7 @@ Posnemite zaporedja in jih kadar koli uporabite!"</string>
   <string name="gb_msg_transparent_dispaly_summary">Transparentno</string>
   <string name="gb_network_status_bad">Napaka v povezavi.</string>
   <string name="gb_new_feature">Novo opravilo</string>
+     <string name="gb_not_support_on_device">"Te aplikacije ni mogoče uporabljati na zunanjem zaslonu"</string>
      <string name="gb_operat_frequently">Ne tako hitro!</string>
   <string name="gb_shortcut_pref_title">Bližnjica zač. zaslona</string>
      <string name="gb_shoulder_key">Virtualne tipke</string>
@@ -5096,6 +5104,7 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="vb_quick_func_screen_record">Posnemi</string>
   <string name="vb_quick_func_screening">Predvajaj</string>
   <string name="vb_settings">Nastavitve</string>
+     <string name="vb_ve_settings_ai_stronger">AI</string>
   <string name="vb_ve_settings_display_style_tips">*Ti efekti se uporabijo za cel zaslon</string>
   <string name="vb_ve_settings_pic_border_stronger">Izboljšani obrisi</string>
   <string name="vb_ve_settings_picture_stronger">Izboljšane animacije</string>
@@ -5163,6 +5172,7 @@ Poskusite povečati ločljivost!"</string>
   <string name="vpn_disabled_by_user">Določena podatkovna povezava je izključena</string>
   <string name="vpn_unbale_get_phonenum">"Ne morem dobiti telefonskih številk s pomočjo določenik podatkovnih povezav"</string>
   <string name="vtb_func_desc">O storitvi</string>
+     <string name="vtb_func_display_style_desc0">AI lahko prepozna ljudi, živali, rastline, nebo, zgradbe in druge predmete, predstavljene v videoposnetkih, in jih dinamično izboljša.</string>
   <string name="vtb_func_display_style_desc1">"Izbrani efekti ne bodo uporabljeni v HDR videoposnetkih."</string>
   <string name="vtb_func_display_style_desc2">"Ti efekti se ne morejo uporabiti pri posnetkih zaslona."</string>
   <string name="vtb_func_frc_desc0">Glajenje gibov zmanjšuje zamegljevanje in dodaja podrobnosti premikajočim se predmetom. Uporaba povečuje porabo energije.</string>
