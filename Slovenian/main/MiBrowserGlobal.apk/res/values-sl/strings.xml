@@ -762,7 +762,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="gcm_fallback_notification_channel_label">Razno</string>
     <string name="geolocation_permissions_prompt_dont_share">Zavrni</string>
     <string name="geolocation_permissions_prompt_message">%s želi izvedeti vašo lokacijo</string>
-    <string name="geolocation_permissions_prompt_remember">Zapomni izbiro</string>
+    <string name="geolocation_permissions_prompt_remember">Zapomni si izbiro</string>
     <string name="geolocation_permissions_prompt_share">Delite lokacijo</string>
     <string name="geolocation_permissions_prompt_toast_allowed">Ta stran lahko dostopa do podatkov o vaši lokaciji. Lahko jih spremenite v Nastavitvah.</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">Ta stran nima dostopa do vaše lokacije.</string>
@@ -1244,7 +1244,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
     <string name="mw_save_password_message">Želite si zapomniti geslo?</string>
     <string name="mw_save_password_never">Nikoli</string>
     <string name="mw_save_password_notnow">Ne zdaj</string>
-    <string name="mw_save_password_remember">Zapomni</string>
+    <string name="mw_save_password_remember">Zapomni si</string>
   <string name="mw_search_menu_title">Išči</string>
     <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">AM</string>
@@ -1627,11 +1627,11 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
     <string name="pref_security_do_not_track_values_off">3</string>
     <string name="pref_security_do_not_track_values_on">1</string>
     <string name="pref_security_passwords_title">Gesla</string>
-    <string name="pref_security_remember_passwords">Zapomni gesla</string>
+    <string name="pref_security_remember_passwords">Zapomni si gesla</string>
     <string name="pref_security_remember_passwords_summary">Shrani uporabniška imena in gesla za spletna mesta in jih samodejno izpolni. Shranjeni predmeti bodo šifrirani in shranjeni samo na tej napravi.</string>
     <string name="pref_security_report_url">Izboljša iskanje in brskanje</string>
     <string name="pref_security_report_url_summary">Deli povezave do spletnih mest, ki ste jih obiskali z Xiaomi</string>
-    <string name="pref_security_save_form_data">Zapomni podatke obrazcev</string>
+    <string name="pref_security_save_form_data">Zapomni si podatke obrazcev</string>
     <string name="pref_security_save_form_data_summary">Zapomni si podatke, ki jih vnesete v obrazce, in jih samodejno izpolni. Shranjeni predmeti bodo šifrirani in shranjeni samo na tej napravi.</string>
     <string name="pref_security_show_security_warning">Pokaži varnostna opozorila</string>
     <string name="pref_security_show_security_warning_summary">Pokaži varnostno opozorilo, če pride do težave s certifikatom spletnega mesta</string>
@@ -1677,7 +1677,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
     <string name="pref_site_settings_notificaion">Obvestila</string>
     <string name="pref_site_settings_notificaion_ask">Strani lahko vprašajo ali želite prejemati obvestila</string>
     <string name="pref_site_settings_permissions">Dovoljenja</string>
-    <string name="pref_site_settings_protected_content">Zaščičena vsebina</string>
+    <string name="pref_site_settings_protected_content">Zaščitena vsebina</string>
     <string name="pref_site_settings_protected_content_allow_summary">Dovoli spletnim mestom predvajanje zaščitene vsebine (priporočeno)</string>
     <string name="pref_site_settings_protected_content_ask_summary">Spletna mesta morajo vprašati in dobiti dovoljenje za predvajanje zaščitene vsebine</string>
     <string name="pref_site_settings_protected_content_block_summary">Spletnim mestom ne dovoli predvajanja zaščitene vsebine</string>
@@ -1712,10 +1712,10 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
     <string name="privacy_improve_performance">Pomagajte izboljšati izvedbo Mi Brskalnika</string>
     <string name="privacy_improve_performance_desc">Samodejno pošlji združene podatke in poročila o zrušitvah Mi Brskalnika</string>
     <string name="privacy_message">Preden začnete uporabljati Brskalnik se morate strinjati z našim &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Uporabniškim dogovorom&lt;/a>&lt;/font> in &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Pravilnikom o zasebnosti&lt;/a>&lt;/font>.</string>
-    <string name="privacy_message_main_tips_first">Aplikacija Mi Brskalnik zahteva zbiranje potrebnih osebnih podatkov, da bi vam zagotovila osnovne storitve. Več o tem kako ravnamo s podatki, ki jih zbiramo si lahko preberete v našemu &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Pravilniku o zasebnosti&lt;/a>&lt;/font>. Vaše soglasje s Pravilnikom o zasebnosti Mi Brskalnika lahko kadarkoli prekličete v Nastavitve > Privatnost &amp; varnost. Pred uporabo aplikacije Mi Brskalnik preberite in se strinjajte z &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Uporabniškim dogovorom&lt;/a>&lt;/font> in &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Pravilnikom o zasebnosti&lt;/a>&lt;/font>.</string>
-    <string name="privacy_message_main_tips_second">Da bi lahko iskala aplikacije na napravi in vedla, katere aplikacije so nameščene, aplikacija Mi Brskalnik mora dostopati do podatkov o nastavitvi aplikacij, ki ne bodo shranjeni lokalno, prav tako pa ne bodo naloženi v kakršni koli obliki.</string>
+    <string name="privacy_message_main_tips_first">Aplikacija Mi Brskalnik zahteva zbiranje potrebnih osebnih podatkov, da bi vam zagotovila osnovne storitve. Več o tem kako ravnamo s podatki, ki jih zbiramo si lahko preberete v našemu &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Pravilniku o zasebnosti&lt;/a>&lt;/font>. Vaše soglasje s Pravilnikom o zasebnosti Mi Brskalnika lahko kadarkoli prekličete v Nastavitve > Zasebnost &amp; varnost. Pred uporabo aplikacije Mi Brskalnik preberite in se strinjajte z &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Uporabniškim dogovorom&lt;/a>&lt;/font> in &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Pravilnikom o zasebnosti&lt;/a>&lt;/font>.</string>
+    <string name="privacy_message_main_tips_second">Da bo lahko iskala aplikacije na napravi in vedela, katere aplikacije so nameščene, mora aplikacija Mi Brskalnik dostopati do podatkov o nastavitvi aplikacij, ki ne bodo shranjeni lokalno, prav tako pa ne bodo naloženi v kakršni koli obliki.</string>
     <string name="privacy_message_welcome">Dobrodošli v Mi Brskalnik! Naša aplikacija vam ponuja naslednje storitve:</string>
-    <string name="privacy_message_welcome_tip_first">- Hitro in varno brskanje spleta</string>
+    <string name="privacy_message_welcome_tip_first">- Hitro in varno brskanje po spletu</string>
     <string name="privacy_message_welcome_tip_second">- Prenašanje slik in videa iz družbenih omrežji</string>
     <string name="privacy_policy">Pravilnik o zasebnosti</string>
     <string name="privacy_sub_title">Pogoji in določila</string>
