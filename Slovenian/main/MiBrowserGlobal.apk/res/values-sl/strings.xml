@@ -1628,19 +1628,11 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
     <string name="pref_security_do_not_track_values_on">1</string>
     <string name="pref_security_passwords_title">Gesla</string>
     <string name="pref_security_remember_passwords">Zapomni si gesla</string>
-<<<<<<< Updated upstream
-    <string name="pref_security_remember_passwords_summary">Shrani uporabniška imena in gesla za spletna mesta in jih samodejno izpolni. Shranjeni predmeti bodo šifrirani in shranjeni samo na tej napravi.</string>
-    <string name="pref_security_report_url">Izboljša iskanje in brskanje</string>
-    <string name="pref_security_report_url_summary">Deli povezave do spletnih mest, ki ste jih obiskali z Xiaomi</string>
-    <string name="pref_security_save_form_data">Zapomni si podatke obrazcev</string>
-    <string name="pref_security_save_form_data_summary">Zapomni si podatke, ki jih vnesete v obrazce, in jih samodejno izpolni. Shranjeni predmeti bodo šifrirani in shranjeni samo na tej napravi.</string>
-=======
     <string name="pref_security_remember_passwords_summary">Shrani uporabniška imena in gesla za spletna mesta in jih samodejno izpolni. Shranjene stvari bodo šifrirane in shranjene samo na tej napravi.</string>
     <string name="pref_security_report_url">Izboljša iskanje in brskanje</string>
     <string name="pref_security_report_url_summary">Deli povezave do spletnih mest, ki ste jih obiskali z Xiaomi</string>
     <string name="pref_security_save_form_data">Zapomni podatke obrazcev</string>
     <string name="pref_security_save_form_data_summary">Zapomni si podatke, ki jih vnesete v obrazce, in jih samodejno izpolni. Shranjene stvari bodo šifrirane in shranjene samo na tej napravi.</string>
->>>>>>> Stashed changes
     <string name="pref_security_show_security_warning">Pokaži varnostna opozorila</string>
     <string name="pref_security_show_security_warning_summary">Pokaži varnostno opozorilo, če pride do težave s certifikatom spletnega mesta</string>
     <string name="pref_set_default_browser">Nastavi kot privzeti brskalnik</string>
@@ -1717,21 +1709,12 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
     <string name="privacy_authorize_summary">Vklopite ali izklopite za dovoljenje ali preklic pooblastila</string>
     <string name="privacy_authorize_title">Avtorizacija</string>
     <string name="privacy_btn_more">Več</string>
-<<<<<<< Updated upstream
-    <string name="privacy_improve_performance">Pomagajte izboljšati izvedbo Mi Brskalnika</string>
-    <string name="privacy_improve_performance_desc">Samodejno pošlji združene podatke in poročila o zrušitvah Mi Brskalnika</string>
-    <string name="privacy_message">Preden začnete uporabljati Brskalnik se morate strinjati z našim &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Uporabniškim dogovorom&lt;/a>&lt;/font> in &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Pravilnikom o zasebnosti&lt;/a>&lt;/font>.</string>
-    <string name="privacy_message_main_tips_first">Aplikacija Mi Brskalnik zahteva zbiranje potrebnih osebnih podatkov, da bi vam zagotovila osnovne storitve. Več o tem kako ravnamo s podatki, ki jih zbiramo si lahko preberete v našemu &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Pravilniku o zasebnosti&lt;/a>&lt;/font>. Vaše soglasje s Pravilnikom o zasebnosti Mi Brskalnika lahko kadarkoli prekličete v Nastavitve > Zasebnost &amp; varnost. Pred uporabo aplikacije Mi Brskalnik preberite in se strinjajte z &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Uporabniškim dogovorom&lt;/a>&lt;/font> in &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Pravilnikom o zasebnosti&lt;/a>&lt;/font>.</string>
-    <string name="privacy_message_main_tips_second">Da bo lahko iskala aplikacije na napravi in vedela, katere aplikacije so nameščene, mora aplikacija Mi Brskalnik dostopati do podatkov o nastavitvi aplikacij, ki ne bodo shranjeni lokalno, prav tako pa ne bodo naloženi v kakršni koli obliki.</string>
-    <string name="privacy_message_welcome">Dobrodošli v Mi Brskalnik! Naša aplikacija vam ponuja naslednje storitve:</string>
-=======
     <string name="privacy_improve_performance">Pomagajte izboljšati izvedbo Mi brskalnika</string>
     <string name="privacy_improve_performance_desc">Samodejno pošlji združene podatke in poročila o zrušitvah Mi brskalnika</string>
     <string name="privacy_message">Preden začnete uporabljati brskalnik se morate strinjati z &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Pravila o zasebnosti&lt;/a>&lt;/font>.</string>
     <string name="privacy_message_main_tips_first">Aplikacija Mi brskalnik zahteva zbiranje potrebnih osebnih podatkov, da bi vam zagotovila osnovne storitve. Več o tem kako ravnamo s podatki, ki jih zbiramo si lahko preberete v &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Pravila o zasebnosti&lt;/a>&lt;/font>. Vaše soglasje z Pravili o zasebnosti Mi brskalnika lahko kadarkoli prekličete v Nastavitve > Zasebnost &amp; varnost. Pred uporabo aplikacije Mi brskalnik preberite in se strinjajte z &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Pravila o zasebnosti&lt;/a>&lt;/font>.</string>
     <string name="privacy_message_main_tips_second">Da bo lahko iskala aplikacije na napravi in vedela, katere aplikacije so nameščene, mora aplikacija Mi brskalnik dostopati do podatkov o nastavitvi aplikacij, ki ne bodo shranjeni lokalno, prav tako pa ne bodo naloženi v kakršni koli obliki.</string>
     <string name="privacy_message_welcome">Dobrodošli v Mi brskalnik! Naša aplikacija vam ponuja naslednje storitve:</string>
->>>>>>> Stashed changes
     <string name="privacy_message_welcome_tip_first">- Hitro in varno brskanje po spletu</string>
     <string name="privacy_message_welcome_tip_second">- Prenašanje slik in videa iz družbenih omrežji</string>
     <string name="privacy_policy">Pravila o zasebnosti</string>
