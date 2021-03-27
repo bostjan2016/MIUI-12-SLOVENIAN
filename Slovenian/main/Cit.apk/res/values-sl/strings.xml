@@ -958,7 +958,7 @@ določen položaj"</string>
      <string name="keyboard_vibrator_test_old">Test tipkovnice in vibracije</string>
      <string name="lastTestResult">Rezultat zadnjega testa:</string>
   <string name="last_time_test_result">REZULTAT ZADNJEGA TESTA</string>
-     <string name="launcher_d5x_sar_summary">Izhodni podatki vsakega kanala senzorja SAR so prikazani spodaj. Prosimo, obrnite telefon na kalibracijsko napravo Sar, kliknite Začni kalibracijo, prikaži kalibracijo Uspelo in nato pokaži normalno. Upoštevajte, da je dejanje pravočasno, roke pa niso blizu mobilnega telefona.</string>
+     <string name="launcher_d5x_sar_summary">Izhodni podatki vsakega kanala senzorja SAR so prikazani spodaj. Prosimo, obrnite telefon na kalibracijsko napravo Sar, kliknite Začni kalibracijo, pokaži kalibracijo Uspelo in nato pokaži normalno. Upoštevajte, da je dejanje pravočasno, roke pa niso blizu mobilnega telefona.</string>
   <string name="lcminfo">LCM informacija</string>
      <string name="led_tip_txt">Naslednji elementi bodo naključno vklopljeni. Izberite trenutno stanje lučke</string>
   <string name="magnetic_info_hint">Premikajte napravo v obliki številke 8</string>
@@ -1138,7 +1138,7 @@ Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
      <string name="tips_not_placed_right_angle">Telefon ni postavljen pod pravim kotom</string>
      <string name="tips_show_calibrate_result">Pokaži rezultat umerjanja</string>
      <string name="tips_show_current_angle">Pokaži trenutni kot</string>
-     <string name="tips_show_current_sar_sensor_data">Prikaži trenutne podatke senzorja</string>
+     <string name="tips_show_current_sar_sensor_data">Pokaži trenutne podatke senzorja</string>
   <string name="title_about">O</string>
   <string name="title_algo_performance">Algo zmogljivost</string>
      <string name="title_bad_point">slaba točka</string>

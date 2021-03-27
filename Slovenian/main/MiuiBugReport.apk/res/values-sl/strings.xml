@@ -277,7 +277,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="feedback_status_supplement">Opišite podrobnosti težave</string>
     <string name="feedback_status_supplement_more">Dodajte komentar</string>
     <string name="feedback_status_upload_log_failed">Ne morem naložiti priponke</string>
-    <string name="feedback_submit_failed_notification_desc">Prikaži podrobnosti</string>
+    <string name="feedback_submit_failed_notification_desc">Pokaži podrobnosti</string>
     <string name="feedback_submit_failed_notification_retry">Pošljite ponovno</string>
     <string name="feedback_submit_failed_notification_title">Ne morem poslati poročila</string>
     <string name="feedback_submit_hint">Poročajte o napakah vsakič, ko do njih pride, da jih hitreje odpravimo.</string>

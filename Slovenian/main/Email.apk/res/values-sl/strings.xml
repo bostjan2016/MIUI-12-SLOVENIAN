@@ -556,7 +556,7 @@
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
      <string name="expand_button_title">Napredno</string>
   <string name="expand_recipient_details">Razširi podrobnosti prejemnikov</string>
-  <string name="expand_slide">Prikaži bočni meni</string>
+  <string name="expand_slide">Pokaži bočni meni</string>
   <string name="fail_get_email_message">Prejem sporočila ni uspel</string>
   <string name="failed">Slike ni bilo mogoče naložiti</string>
   <string name="failed_parse_eml_file">"Ne morem odpreti EML datoteko, poskusite ponovno."</string>
@@ -1349,7 +1349,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="show_contact_address">Pokaži e-poštni naslov stika</string>
   <string name="show_elided">▶ Pokaži citirano besedilo</string>
   <string name="show_images">Prenesi in pokaži slike</string>
-     <string name="show_images_all">Naloži in prikaži vse slike</string>
+     <string name="show_images_all">Naloži in pokaži vse slike</string>
   <string name="show_password">Pokaži geslo</string>
      <string name="show_server_cet">Pokaži certifikat</string>
   <string name="signature">"

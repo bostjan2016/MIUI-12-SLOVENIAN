@@ -170,7 +170,7 @@
     <string name="cloud_online_player">Predvajalnik</string>
     <string name="cloud_online_switch">Prilagojena priporočila</string>
     <string name="cloud_online_switch_close_time">Lahko vklopite prilagojeno vsebino priporočil v %s</string>
-    <string name="cloud_online_switch_open_time">Prikaži prilagojeno vsebino priporočil</string>
+    <string name="cloud_online_switch_open_time">Pokaži prilagojeno vsebino priporočil</string>
   <string name="collect_diagnosis_log">Zberi poročila</string>
      <string name="columbus_player_close_desc">Izgubili boste nagrado</string>
      <string name="columbus_player_close_resume">NADALJUJ VIDEO</string>
@@ -457,7 +457,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="galleryplus_gallery_video_operate_text">Prilagajanje počasnega posnetka</string>
     <string name="galleryplus_gallery_video_save_video">Ustvaranje videoposnetka…</string>
     <string name="galleryplus_gallery_video_slow_edit">Počasni posnetek</string>
-    <string name="galleryplus_gallery_view_tags">Prikaži oznake</string>
+    <string name="galleryplus_gallery_view_tags">Pokaži oznake</string>
     <string name="galleryplus_is_higher_definition">HD predogled</string>
     <string name="galleryplus_network_connect_check">Povezava z omrežjem ni uspela</string>
     <string name="galleryplus_network_connect_confirm">Povežite se na Wi-Fi omrežje ali vklopite mobilne podatke v nastavitvah omrežja.</string>
@@ -488,7 +488,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="galleryplus_screenshot_8k_save_toast">8K posnetek zaslona je bil shranjen v %s</string>
     <string name="galleryplus_screenshot_8k_saving">Shranjevanje 8K posnetka zaslona…</string>
     <string name="galleryplus_screenshot_8k_share">Pošlji datoteko na</string>
-    <string name="galleryplus_subtitle_edit_display">Prikaži podnapise</string>
+    <string name="galleryplus_subtitle_edit_display">Pokaži podnapise</string>
     <string name="galleryplus_subtitle_edit_edit">Urejanje podnapisov</string>
     <string name="galleryplus_subtitle_edit_hide">Skrij podnapise</string>
     <string name="galleryplus_subtitle_edit_literal_edit">Urejanje besedila</string>
@@ -766,7 +766,7 @@ za videoposnetke"</string>
     <string name="notice_message_title">Obvestila</string>
     <string name="notice_title">Sporočila</string>
     <string name="notification_bar">Plošča obvestil</string>
-    <string name="notification_bar_player_subtitle">Prikaži zmanjšani predvajalnik v Plošči obvestil</string>
+    <string name="notification_bar_player_subtitle">Pokaži zmanjšani predvajalnik v Plošči obvestil</string>
     <string name="notification_bar_player_title">Zmanjšaj predvajalnik</string>
     <string name="notification_open_tip">Vklopite, če želite prejemati obvestila</string>
     <string name="notification_recall_action">Vklopi</string>
@@ -1298,7 +1298,7 @@ Izboljša varnost vašega računa."</string>
     <string name="toast_request_too_frequently">Ne tako hitro!</string>
     <string name="toast_share_failed">Deljenje ni bilo mogoče. Počakajte minuto ali dve in poskusite ponovno.</string>
     <string name="today">Danes</string>
-    <string name="tool_bar_notification_setting_sub_title">Prikaži orodja v Plošči obvestil</string>
+    <string name="tool_bar_notification_setting_sub_title">Pokaži orodja v Plošči obvestil</string>
     <string name="tool_bar_notification_setting_title">Orodja Plošče obvestil</string>
     <string name="top_bar_game_desc">Tukaj lahko odkrite veliko novih igric</string>
     <string name="top_bar_game_title">Kanal za igre</string>

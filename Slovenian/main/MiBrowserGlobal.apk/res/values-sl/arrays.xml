@@ -38,7 +38,7 @@
     </string-array>
     <string-array name="pref_security_do_not_track_keys">
         <item>Vklop</item>
-        <item>Samo v Načinu brez beleženja zgodovine</item>
+        <item>Samo v načinu brez beleženja zgodovine</item>
         <item>Izklopi</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
@@ -68,24 +68,24 @@
         <item>Sledi</item>
     </string-array>
     <string-array name="shortcut_dialog_title">
-        <item>Sporočilo iz Brskalnika</item>
+        <item>Sporočilo iz brskalnika</item>
         <item>Spremljajte OI z Mi</item>
     </string-array>
     <string-array name="speed_result_tips">
-        <item>Trenutna omrežna povezava je zelo počasna. Videti je, da ste na območju s slabo pokritostjo omrežja.</item>
+        <item>Trenutna omrežna povezava je zelo počasna. Kaže, da ste na območju s slabo pokritostjo omrežja.</item>
         <item>Trenutna omrežna povezava je počasna.</item>
         <item>Niso bile najdene težave z omrežno povezavo.</item>
         <item>Trenutna omrežna povezava je hitra. Dovolj je za gledanje filmov!</item>
         <item>Trenutna omrežna povezava je zelo hitra. Odlično vam gre!</item>
     </string-array>
     <string-array name="user_guide_info_array">
-        <item>Prenesite videoposnetke in slike iz družbenih medij</item>
-        <item>Shranite fotografije in videoposnetke iz WhatsApp stanji</item>
+        <item>Prenesite videoposnetke in slike iz družbenih medijev</item>
+        <item>Shranite fotografije in videoposnetke iz WhatsAppa</item>
         <item>Uredite datoteke v vaši napravi in jih naredite zasebne</item>
     </string-array>
     <string-array name="user_guide_title_array">
         <item>Prenesite videoposnetke</item>
-        <item>Shranjevalec WhatsApp Stanja</item>
+        <item>Shranjevalec WhatsAppa</item>
         <item>Zasebne datoteke</item>
     </string-array>
 </resources>

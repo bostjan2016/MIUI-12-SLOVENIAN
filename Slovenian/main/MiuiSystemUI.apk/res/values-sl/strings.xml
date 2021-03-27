@@ -623,7 +623,7 @@ Izbor"</string>
     <string name="bubble_overflow_empty_subtitle">Tukaj bodo prikazani tako nedavni kot tudi opuščeni oblački</string>
     <string name="bubble_overflow_empty_title">Ni nedavnih oblačkov</string>
     <string name="bubbles_app_settings">Nastavitve za %1$s</string>
-    <string name="bubbles_dont_bubble_conversation">Pogovora ne prikaži v oblačku</string>
+    <string name="bubbles_dont_bubble_conversation">Pogovora ne pokaži v oblačku</string>
     <string name="bubbles_settings_button_description">Nastavitve za oblačke aplikacije %1$s</string>
     <string name="bubbles_user_education_description">Novi pogovori so prikazani kot lebdeče ikone ali oblački. Če želite odpreti oblaček, se ga dotaknite. Če ga želite premakniti, ga povlecite.</string>
     <string name="bubbles_user_education_got_it">Razumem</string>
@@ -1890,24 +1890,24 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
 "<b>Stopnja 5</b>" 
 – Prikaz na vrhu seznama obvestil 
 – Omogočanje prekinitev v celozaslonskem načinu 
-– Vedno prikaži hitre predoglede 
+– Vedno pokaži hitre predoglede 
 
 "<b>Stopnja 4</b>" 
 – Preprečevanje prekinitev v celozaslonskem načinu 
-– Vedno prikaži hitre predoglede 
+– Vedno pokaži hitre predoglede 
 
 "<b>Stopnja 3</b>" 
 – Preprečevanje prekinitev v celozaslonskem načinu 
-– Nikoli ne prikaži hitrih predogledov 
+– Nikoli ne pokaži hitrih predogledov 
 
 "<b>Stopnja 2</b>" 
 – Preprečevanje prekinitev v celozaslonskem načinu 
-– Nikoli ne prikaži hitrih predogledov 
+– Nikoli ne pokaži hitrih predogledov 
 – Nikoli ne uporabi zvoka in vibriranja 
 
 "<b>Stopnja 1</b>" 
 – Preprečevanje prekinitev v celozaslonskem načinu 
-– Nikoli ne prikaži hitrih predogledov 
+– Nikoli ne pokaži hitrih predogledov 
 – Nikoli ne uporabi zvoka in vibriranja 
 – Skrivanje na zaklenjenem zaslonu in v vrstici stanja 
 – Prikaz na dnu seznama obvestil 

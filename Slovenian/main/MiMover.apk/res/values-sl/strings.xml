@@ -804,7 +804,7 @@ Prenesite in namestite Mi Mover."</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
     <string name="video">Video</string>
-    <string name="view_password_description">Prikaži geslo</string>
+    <string name="view_password_description">Pokaži geslo</string>
      <string name="waiting_restore_aod">Vračanje Vedno na zaslonu…</string>
   <string name="waiting_restore_desktop">Prenos aplikacij drugih proizvajalcev za obnovitev videza zač. zaslona…</string>
   <string name="web_sso_login_fail">Morate se ponovno prijaviti</string>

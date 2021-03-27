@@ -728,7 +728,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="premission_description_phone_state">Za prepoznavanje naprave na osnovi ID naprave</string>
   <string name="premission_description_ringtone">Za nastavljanje melodij zvonjenja</string>
   <string name="premission_description_title">Pregledovanje in urejanje dogovorjenih dogodkov</string>
-  <string name="presence_label">Prikaži me kot</string>
+  <string name="presence_label">Pokaži me kot</string>
   <string name="privacy_label">"Zasebnost"</string>
   <string name="productivity_add_event">Dodaj dogodek</string>
   <string name="productivity_cannot_move_event">"Ne morem premestiti ta dogodek"</string>

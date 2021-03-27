@@ -2258,9 +2258,9 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu."</string>
     <string name="radioInfo_data_disconnected">Brez povezave</string>
     <string name="radioInfo_data_suspended">Onemogočeno</string>
     <string name="radioInfo_menu_getIMS">Stanje storitve IMS</string>
-    <string name="radioInfo_menu_viewADN">Prikaži imenik na kartici SIM</string>
-    <string name="radioInfo_menu_viewFDN">Prikaži številke za zaporo odhodnih klicev</string>
-    <string name="radioInfo_menu_viewSDN">Prikaži številke za klicanje storitev</string>
+    <string name="radioInfo_menu_viewADN">Pokaži imenik na kartici SIM</string>
+    <string name="radioInfo_menu_viewFDN">Pokaži številke za zaporo odhodnih klicev</string>
+    <string name="radioInfo_menu_viewSDN">Pokaži številke za klicanje storitev</string>
     <string name="radioInfo_phone_idle">Nedejavno</string>
     <string name="radioInfo_phone_offhook">Aktivni klic</string>
     <string name="radioInfo_phone_ringing">Zvonjenje</string>
