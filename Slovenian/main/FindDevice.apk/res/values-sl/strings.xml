@@ -35,6 +35,7 @@
   <string name="app_name">Najdi napravo</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Ne morem odkleniti. %s."</string>
+     <string name="close">Zapri</string>
      <string name="copy">Kopiraj</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
@@ -217,6 +218,7 @@
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>
      <string name="search_menu_title">Išči</string>
+     <string name="send">Pošlji</string>
   <string name="stop_on_empty_captcha">"Captcha polje ne sme biti prazno"</string>
   <string name="stop_on_empty_password">"Polje geslo ne sme biti prazno"</string>
      <string name="sunday">Nedelja</string>

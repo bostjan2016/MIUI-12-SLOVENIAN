@@ -263,6 +263,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="ks_fingerprint_status">Status plačila</string>
   <string name="ks_name_alipay">Alipay</string>
   <string name="ks_name_fido">FIDO</string>
+     <string name="ks_name_high_precise_position">zelo natančen položaj</string>
      <string name="ks_name_keybox">Tipkovnica</string>
   <string name="ks_name_passpoint">WiFi Passpoint</string>
   <string name="ks_name_soter">WeChat</string>

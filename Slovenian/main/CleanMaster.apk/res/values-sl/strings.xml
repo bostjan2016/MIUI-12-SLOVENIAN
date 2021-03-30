@@ -951,6 +951,10 @@
   <string name="whatsapp_delete_confirm_message">Izbrišem?</string>
   <string name="whatsapp_delete_confirm_ok">V redu</string>
   <string name="whatsapp_delete_done">Vse je končanao!</string>
+     <string name="whatsapp_detail_cache_result">Očiščeno %s</string>
+     <string name="whatsapp_detail_sort_created">Razvrsti po datumu</string>
+     <string name="whatsapp_file_recv">Prejeto</string>
+     <string name="whatsapp_file_send">Poslano</string>
   <string name="whatsapp_file_show_order">Danes</string>
   <string name="whatsapp_function_summery">Očisti datoteke smeti WhatsApp-a</string>
   <string name="whatsapp_function_title">Očisti WhatsApp</string>

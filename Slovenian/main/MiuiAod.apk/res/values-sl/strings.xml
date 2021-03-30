@@ -94,6 +94,7 @@ dd.MM"</string>
   <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="clock_panel_icon">Videz ure</string>
+     <string name="close">Zapri</string>
   <string name="color_change_with_time_description">Časovno samodejno zamenjaj barvo teksta</string>
   <string name="color_change_with_time_title">Samodejno zamenjaj barvo</string>
   <string name="component_battery">Baterija</string>
@@ -105,6 +106,7 @@ dd.MM"</string>
   <string name="copy">Kopiraj</string>
   <string name="custom_image">Slika po meri</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
   <string name="deep_space_planet">Doba dneva</string>
   <string name="deep_space_planet_des">\"Doba dneva\" se nanaša na svetlobne spremembe ki se dogajajo okoli čez dan. Sončni vzhod in zahod v tej temi se sinhronizirata z vašo lokacijo.</string>
   <string name="delete">Izbriši</string>
@@ -139,10 +141,13 @@ dd.MM"</string>
      <string name="miuix_appcompat_cancel_description">Prekliči</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -264,12 +269,13 @@ dd.MM"</string>
   <string name="search_menu_title">Išči</string>
   <string name="select_notification_animation_style">Izberite posebni efekt</string>
   <string name="select_notification_notify_style">Izberite efekt obvestil</string>
+     <string name="send">Pošlji</string>
   <string name="share">Deli</string>
   <string name="share_to_community">Deli na Mi Community</string>
   <string name="show_battery">Pokaži status baterije</string>
   <string name="show_battery_status">Pokaži status baterije</string>
-  <string name="show_lunar">Pokaži Traditional Chinese koledar</string>
-  <string name="show_lunar_desc">"Dvojna ura ne podpira Traditional Chinese koledar"</string>
+  <string name="show_lunar">Pokaži Tradicionalni kitajski koledar</string>
+  <string name="show_lunar_desc">"Dvojna ura ne podpira Tradicionalni kitajski koledar"</string>
   <string name="show_notification">Pokaži obvestila</string>
   <string name="show_notificaton">Pokaži obvestila</string>
   <string name="shownone_arround_image">Nič</string>

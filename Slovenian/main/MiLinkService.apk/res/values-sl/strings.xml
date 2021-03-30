@@ -74,6 +74,8 @@ Za dodatna vprašanja poglejte Pomoč."</string>
 2. Pri nekaterih modelih televizorjev je ta storitev na voljo samo ko je vklopljeno oddajanje zaslona. Poglejte \"Pomoč\" za več informacij."</string>
   <string name="dialog_scanning_device">Iskanje naprav v bližini…</string>
   <string name="dialog_scanning_precondition">Vključite WiFi in Bluetooth na svojemm telefonu za uporabo brezžičnega zaslona.</string>
+     <string name="dialog_scanning_precondition_new_china">Vključite WiFi, Bluetooth in storitve lociranja za uporabo brezžičnega zaslona. Vključim?</string>
+     <string name="dialog_scanning_precondition_new_global">Vključite WiFi, Bluetooth in storitve lociranja za uporabo brezžičnega zaslona. Vključim?</string>
   <string name="dialog_select_tv">Izberite napravo (%d)</string>
   <string name="dialog_show_help">Pomoč</string>
   <string name="disconnect">Ustavi predvajanje</string>

@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="actionbar_button_up_description">Nazaj</string>
+     <string name="adaptive_fps_tip">2. Z dinamičnim prilagajanjem hitrosti osveževanja dosežite najboljše ravnovesje med gladkostjo in življenjsko dobo baterije.</string>
   <string name="advanced_mode">Napredne nastavitve</string>
      <string name="africa_introduction">"V Afriki uspeva flora in favna, kjer živijo številne najbolj znane živali na svetu."</string>
      <string name="african_bush_elephant">Afriški grmovni slon</string>
@@ -120,6 +121,7 @@
      <string name="class_breast_feeding">Sesalci</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="click_to_save">Tapnite \"Končano\" da nastavite splošni ton zvonjenja.</string>
+     <string name="close">Zapri</string>
   <string name="color_gamut">Razpon barv</string>
      <string name="common_brushtail">Čopič oposum</string>
      <string name="common_ostrich">Noj</string>
@@ -243,7 +245,7 @@
   <string name="fps_smooth_title">Visoka</string>
   <string name="fps_standard_summary">Standardna hitrost osveževanja varčuje z baterijo</string>
   <string name="fps_standard_title">Standardna</string>
-  <string name="fps_user_tip">Te predstavitvene animacije se za vašo referenco predvajajo pri nizki hitrosti. Dejanska uspešnost je lahko videti drugačna, odvisno od različnih dejavnikov.</string>
+  <string name="fps_user_tip">1. Te predstavitvene animacije se za vašo referenco predvajajo pri nizki hitrosti. Dejanska uspešnost je lahko videti drugačna, odvisno od različnih dejavnikov.</string>
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -505,6 +507,7 @@
    <string name="search_app_name">Išči aplikacije</string>
   <string name="search_empty">Ne najdem nobene aplikacije</string>
   <string name="search_menu_title">Išči</string>
+     <string name="send">Pošlji</string>
   <string name="several_days_use_time">Čas zaslona: %2$s</string>
      <string name="short_eared_owl">Kratkodlaka sova</string>
   <string name="shortcut_created">Ta bližnjica že obstaja</string>

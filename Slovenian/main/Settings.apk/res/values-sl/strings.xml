@@ -1470,6 +1470,11 @@ Možne napake:
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Izberite največje dovoljeno število povezanih zvočnih naprav Bluetooth</string>
     <string name="bluetooth_max_connected_audio_devices_string">Največje dovoljeno število povezanih zvočnih naprav Bluetooth</string>
   <string name="bluetooth_menu_advanced">Dodatne nastavitve</string>
+     <string name="bluetooth_message_access_dialog_content">"Nezaupljiva naprava Bluetooth, %1$s, želi dostopati do vaših sporočil.
+
+Z %2$s še niste bili povezani."</string>
+     <string name="bluetooth_message_access_dialog_title">Dovolim dostop do sporočil?</string>
+     <string name="bluetooth_message_access_notification_content">Nezaupljiva naprava želi dostopati do vaših sporočil. Tapni za podrobnosti.</string>
      <string name="bluetooth_message_move_out_of_blacklist">Odblokiram %1$s?</string>
   <string name="bluetooth_mi_fast_connect">Povežite se z kompatibilnimi napravami</string>
   <string name="bluetooth_mi_fast_connect_summary">Povežite se z bližnjimi napravami s pomočjo enostavnega postopka seznanjanja</string>
@@ -1517,6 +1522,11 @@ Možne napake:
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s želi dostop do vaših stikov in zgodovine klicev. Želite dovoliti dostop %2$s?</string>
   <string name="bluetooth_pb_remember_choice">Ne sprašuj več</string>
   <string name="bluetooth_permission_request">Zahtevano je Bluetooth dovoljenje</string>
+     <string name="bluetooth_phonebook_access_dialog_content">"Nezaupljiva Bluetooth naprava, %1$s, želi dostopati do vaših stikov in dnevnika klicev. Sem spadajo podatki o dohodnih in odhodnih klicih.
+
+Z %2$s še niste bili povezani."</string>
+     <string name="bluetooth_phonebook_access_dialog_title">Dovolim dostop do stikov in dnevnika klicev?</string>
+     <string name="bluetooth_phonebook_access_notification_content">Nezaupljiva naprava želi dostopati do vaših stikov in dnevnika klicev. Tapni za podrobnosti.</string>
   <string name="bluetooth_phonebook_request">Zahteva za dostop do telefonskega imenika</string>
   <string name="bluetooth_pin_values_hint">Običajno 0000 ali 1234</string>
   <string name="bluetooth_pin_values_hint_16_digits">Biti mora 16-mestno število</string>
@@ -5164,6 +5174,8 @@ Tega dejanja ne moreš preklicati!"</string>
   <string name="max_fingerprint_reached_toast">Lahko dodate do 5 prstnih odtisov</string>
   <string name="maximum_memory_use">Največja uporaba pomnilnika</string>
   <string name="mbn_version">MBN verzija</string>
+     <string name="mechanical_ime">Mehanska tipkovnica</string>
+     <string name="mechanical_ime_hint">Podpira samo tipkovnica, prilagojena za Xiaomi</string>
   <string name="media_button">Tipka za medij</string>
   <string name="media_category">Predstavnosti</string>
   <string name="media_feedback_enable_title">Vibriraj ob ritmu</string>
@@ -11305,6 +11317,8 @@ Shramba poverilnic morda ne bo omogočena"</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne morem začeti s prenosom. Preverite ali upravitelj prenosov deluje normalno."</string>
      <string name="xiaomi_custom_input_method">Prilagojeno za Xiaomi</string>
   <string name="xiaomi_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
+     <string name="xiaomi_hp_location">omogočiti visoko natančno lokacijo</string>
+     <string name="xiaomi_hp_location_description">izboljšati natančnost GNSS z dostopom do visoko natančnega omrežja</string>
   <string name="xiaomi_money_service">Mi Krediti</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_available_notif_summary">Dotaknite se za več informacij</string>

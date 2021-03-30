@@ -197,4 +197,8 @@
         <item quantity="other">%d aplikacij z predpomnjenimi videoposnetki</item>
         <item quantity="one">%d aplikacija z predpomnjenimi videoposnetki</item>
     </plurals>
+     <plurals name="whatsapp_file_audio_dec">
+        <item quantity="other">%1$s zvočnih datotek</item>
+        <item quantity="one">%1$s zvočna datoteka</item>
+     </plurals>
 </resources>

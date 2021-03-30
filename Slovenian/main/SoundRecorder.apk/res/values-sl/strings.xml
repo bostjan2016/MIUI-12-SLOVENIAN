@@ -312,6 +312,8 @@
      <string name="reg_error_server">Prišlo je do napake strežnika. Prijavite nam in poskusite znova.</string>
      <string name="reg_error_upload_audio">"Datoteke ni bilo mogoče naložiti, poskusite znova."</string>
      <string name="reg_error_upload_order">"Ni bilo mogoče naložiti, poskusite znova."</string>
+     <string name="remove_icon_description_content">"Snemanje je sistemska aplikacija. Ko odstranite bližnjico na začetnem zaslonu, ne boste mogli več upravljati posnetkov."</string>
+     <string name="remove_icon_description_title">Odstranim \"Snemanje\" iz začetnega zaslona?</string>
   <string name="rename">Preimenuj</string>
   <string name="rename_dialog_title">Preimenovanje posnetka</string>
   <string name="rename_duplicate">Posnetek z enakim imenom že obstaja.</string>

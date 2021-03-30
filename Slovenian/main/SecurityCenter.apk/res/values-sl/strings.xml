@@ -1028,6 +1028,13 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="celcius_symbol">℃</string>
   <string name="cellular_data_auto_check">Samodejno preveri</string>
   <string name="cellular_package_daily_input">Vnesite</string>
+     <string name="cetus_invisible_mode">Nevidno</string>
+     <string name="cetus_invisible_mode_description_card">Onemogoči dovoljenja</string>
+     <string name="cetus_invisible_mode_description_switch">Vklopite, da za vse aplikacije onemogočite dovoljenja za mikrofon, kamero in lokacijo</string>
+     <string name="cetus_invisible_mode_warn_all">"Ste nevidni. Dovoljenja za mikrofon, kamero in lokacijo so onemogočena."</string>
+     <string name="cetus_invisible_mode_warn_camera">"Ste nevidni. Dovoljenja za kamero so onemogočena."</string>
+     <string name="cetus_invisible_mode_warn_location">"Ste nevidni. Dovoljenja za lokacijo so onemogočena."</string>
+     <string name="cetus_invisible_mode_warn_record_audio">"Ste nevidni. Dovoljenja za mikrofon so onemogočena."</string>
   <string name="charger_detect_button_ok">Razumem</string>
   <string name="charger_detect_info1">Prepričajte se, da sta napajalnik in kabel pravilno priključena.</string>
   <string name="charger_detect_info2">"Polnjenje se lahko upočasni tudi, če uporabljate nestandardne ali stare adapterje in polnilne kable."</string>
@@ -3158,6 +3165,11 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_list_item_wake_notification">"Ne zbudi zaslona za obvestila"</string>
      <string name="power_center_list_item_wake_notification_summary">Dohodna obvestila bodo prikazana šele ko vklopite zaslon</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
+     <string name="power_center_night_charge_noti_subtitle">Baterija se bo do konca napolnila do %s</string>
+     <string name="power_center_night_charge_noti_title">Optimizirano polnjenje je vklopljeno</string>
+     <string name="power_center_night_charge_protection">Optimizirano polnjenje</string>
+     <string name="power_center_night_charge_protection_setting">Več možnosti si oglejte v Varnost > Baterija.</string>
+     <string name="power_center_night_charge_protection_summary">Za zmanjšanje staranja baterije se MIUI uči iz vaše vsakodnevne rutine polnjenja, da zmanjša nepotrebno neprekinjeno polnjenje</string>
   <string name="power_center_one_key_save">Optimiziraj</string>
   <string name="power_center_ontime_boot">Čas vklopa</string>
   <string name="power_center_ontime_shutdown">Čas izklopa</string>
@@ -3218,6 +3230,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_customizer_standby_mode">Maraton</string>
   <string name="power_customizer_user_define_mode">Ime</string>
   <string name="power_customizer_user_define_name">Moj profil</string>
+  <string name="power_dailog_night_charge_protection_done">Razumem</string>
+  <string name="power_dailog_night_charge_protection_summary">Kaže, da je baterija večino časa popolnoma napolnjena, kar lahko pospeši njeno staranje. MIUI je vklopil optimizirano polnjenje, da se izognete takim težavam.</string>
   <string name="power_dialog_auto_clean_memory_summary">Ko je naprava zaklenjena počisti procese v predpomnilniku ki porabljajo baterijo</string>
   <string name="power_dialog_auto_clean_memory_title">Počisti predpomnilnik ko je naprava zaklenjena</string>
   <string name="power_dialog_cancel">Prekliči</string>
@@ -4453,6 +4467,12 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="storage_available_total_size">Na voljo %1$s od %2$s</string>
   <string name="storage_available_total_size1">Zasedeno: %1$s | Skupaj: %2$s</string>
      <string name="storage_category_title">Dodatne možnosti</string>
+     <string name="storage_clear_available_total_size">%1$s/%3$s zasedeno | %2$s na voljo</string>
+     <string name="storage_clear_cache">Očisti %s</string>
+     <string name="storage_clear_cache_deep">Očisti pomnilnik</string>
+     <string name="storage_clear_cache_large">Očisti %s</string>
+     <string name="storage_clear_more_tools">Več orodij za čiščenje</string>
+     <string name="storage_clear_video">Počisti predpomnilnik videoposnetkov</string>
   <string name="storage_deepclean_entry">Globinsko čiščenje</string>
   <string name="storage_dialog_unmountable">"Ta ^1 je poškodovan.
 
