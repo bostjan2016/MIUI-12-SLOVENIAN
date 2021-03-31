@@ -11317,8 +11317,8 @@ Shramba poverilnic morda ne bo omogočena"</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne morem začeti s prenosom. Preverite ali upravitelj prenosov deluje normalno."</string>
      <string name="xiaomi_custom_input_method">Prilagojeno za Xiaomi</string>
   <string name="xiaomi_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
-     <string name="xiaomi_hp_location">omogočiti visoko natančno lokacijo</string>
-     <string name="xiaomi_hp_location_description">izboljšati natančnost GNSS z dostopom do visoko natančnega omrežja</string>
+     <string name="xiaomi_hp_location">Natančen dostop do lokacije</string>
+     <string name="xiaomi_hp_location_description">Natančne informacije o lokaciji omogočajo natančno navigacijo</string>
   <string name="xiaomi_money_service">Mi Krediti</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_available_notif_summary">Dotaknite se za več informacij</string>

@@ -19,6 +19,7 @@
   <string name="autofill_password_activity_label">Kontrolne kode</string>
   <string name="autofill_service_label">Urejanje gesel</string>
   <string name="autofill_setting_activity_label">Urejanje gesel</string>
+     <string name="back_button_label">Nazaj</string>
   <string name="cancel">Prekliči</string>
   <string name="change_passwork_dialog_content">"Že ste shranili geslo za ta račun. Posodobim geslo?"</string>
   <string name="change_passwork_dialog_title">Posodobim gesla?</string>

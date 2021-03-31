@@ -277,8 +277,8 @@
   <string name="life_post_setting_open_background_subtitle">Pokaži sliko ozadja za povezane alarme</string>
   <string name="life_post_setting_open_background_title">Pokaži sliko ozadja</string>
   <string name="life_post_setting_open_desc">Izključite ponavljanje alarma med 04:00 in 10:00 da boste poslušali informacije o vremenu</string>
-  <string name="life_post_setting_open_summary">Vključi informacije o vremenu po prvem izključenem alarmu med 4:00 in 10:00</string>
   <string name="life_post_setting_open_subtitle">Pokaži vremensko napoved po izključitvi alarma med 4:00 in 9:30</string>
+     <string name="life_post_setting_open_summary">Vključi informacije o vremenu po prvem izključenem alarmu med 4:00 in 10:00</string>
   <string name="life_post_setting_open_title">Sprejmi jutranja poročila</string>
   <string name="life_post_setting_wake_up_list_title">Zgodovina bujenja</string>
   <string name="life_post_wake_up_acumu_day_title">Število dni</string>
@@ -616,6 +616,9 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
   <string name="user_agreement">Pogoji uporabe</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
+     <string name="version_update_dialog_negative_desc">Ne zdaj</string>
+     <string name="version_update_dialog_positive_desc">Posodobi</string>
+     <string name="version_update_dialog_title">Na voljo je posodobitev</string>
   <string name="vibrate_pref_summary">Vibriraj ko se oglasi alarm</string>
   <string name="vibrate_when_ringing">Vibriraj pri klicih</string>
   <string name="view_type">Prikaz</string>

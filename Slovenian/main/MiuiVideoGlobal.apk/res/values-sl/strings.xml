@@ -280,7 +280,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="dialog_privacy_revoke_ok">Preklic soglasja</string>
      <string name="dialog_privacy_revoke_success">Preklic soglasja uspešen</string>
      <string name="dialog_privacy_revoking">Preklic soglasja…</string>
-    <string name="dialog_privacy_title">Dovoljenje</string>
+    <string name="dialog_privacy_title">Pogoji in pravila</string>
     <string name="dialog_revoke_privacy_info_new2">Ko prekličete dovoljenje bo aplikacija prenehala zbirati podatke, vsi povezani podatki pa bodo izbrisani iz naših strežnikov. Zaradi tega je lahko aplikacija tako rekoč neuporabna. Želite vseeno preklicati dovoljenje?</string>
     <string name="dialog_revoke_privacy_title">Preklic dovoljenja</string>
      <string name="disagree">"Ne strinjam se"</string>
@@ -1186,6 +1186,7 @@ Izboljša varnost vašega računa."</string>
     <string name="screenrecord_nosupport_record">Snemalnik zaslona trenutno ni podprt na tej napravi.</string>
     <string name="search">Iskanje</string>
      <string name="search_bar_hint">Išči videoposnetke</string>
+     <string name="search_bar_video_download_hint">Iščite ali vnesite URL</string>
     <string name="search_choose_language">Izberite jezik</string>
     <string name="search_choose_voice_language">Izberite jezik za glasovno iskanje</string>
     <string name="search_hot_words">Popularno</string>
@@ -1350,7 +1351,19 @@ Izboljša varnost vašega računa."</string>
     <string name="v_txt_login">Prijavite se za sinhronizacijo vaših priljubljenih</string>
     <string name="v_update">Posodobitev</string>
     <string name="video_already_download_tip">"To ste že prenesli"</string>
+     <string name="video_download_btn">Prenos</string>
     <string name="video_download_fail">"Ne morem prenesti videoposnetka"</string>
+     <string name="video_download_fail_hint">"Ne morem prenesti"</string>
+     <string name="video_download_floating_guide">Prenesite videe zastonj</string>
+     <string name="video_download_forbidden">"Ne morem prenesti iz te spletne strani"</string>
+     <string name="video_download_network_error">Napaka omrežja</string>
+     <string name="video_download_play_video_guide">Najprej predvajajte video.</string>
+     <string name="video_download_play_video_guide2">Nato tapnite gumb za prenos.</string>
+     <string name="video_download_site_search">URL</string>
+     <string name="video_download_source">Prenos iz spleta</string>
+     <string name="video_download_start">Prenašam…</string>
+     <string name="video_download_storage_error">Premalo prostora</string>
+     <string name="video_downloading">Prenašam…</string>
     <string name="video_live_over">Seja se je končala</string>
     <string name="video_noyet_download_tip">Ta video se še zmeraj prenaša</string>
     <string name="video_offline">Ta stvar ni več na voljo</string>
