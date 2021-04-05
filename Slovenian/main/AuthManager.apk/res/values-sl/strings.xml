@@ -368,7 +368,6 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="clipboard_read_ai_deny_once">Omejen dostop do odložišča za %1$s</string>
      <string name="clipboard_read_allow_once">%1$s dostopa do stvari v odložišču</string>
      <string name="clipboard_read_deny_dialog_title">Omejen dostop do odložišča za %1$s</string>
-     <string name="close">Zapri</string>
   <string name="current_permission_template">%1$s(%2$d/%3$d)</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
@@ -591,7 +590,6 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
   <string name="screen_overlay_message">Za spremembo nastavitev dovoljenj morate najprej izključiti Prekrivanje zaslona v Nastavitve &gt; Aplikacije</string>
   <string name="screen_overlay_title">Odkrito Prekrivanje zaslona</string>
      <string name="search_menu_title">Išči</string>
-     <string name="send">Pošlji</string>
   <string name="solar_term_autumn_begins">Začetek jeseni</string>
   <string name="solar_term_autumn_equinox">Jesensko enakonočje</string>
   <string name="solar_term_clear_and_bright">Jasno</string>
