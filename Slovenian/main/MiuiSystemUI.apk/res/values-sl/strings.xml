@@ -671,6 +671,7 @@ Izbor"</string>
   <string name="charge_length_format">pred %1$s</string>
   <string name="chip_text">Chip tekst</string>
   <string name="chooseUsbActivity">"Izberi aplikacijo za USB napravo"</string>
+     <string name="choose_clock_dual_clock_hint_text">"Ob vklopljeni dvojni uri ni mogoče spremeniti oblike"</string>
   <string name="choose_clock_panel_title">Razpored zakl. zaslona</string>
   <string name="choose_clock_third_theme_hint_text">Zakl. zaslon iz trenutno nastavljene teme</string>
   <string name="choose_clock_title_left_top">Levo</string>
@@ -2356,6 +2357,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="ssl_ca_cert_warning">"Omrežje se
 morda nadzira"</string>
   <string name="standby_bucket_summary">"Stanje aplikacije v mirovanju:  %s"</string>
+     <string name="start_camera_error_try_again">"Fotoaparata ni bilo mogoče zagnati. Poskusite ponovno."</string>
     <string name="start_dreams">Ohranjeval. zaslona</string>
     <string name="status_bar">Vrstica stanja</string>
     <string name="status_bar_accessibility_dismiss_recents">Zapri nedavne aplikacije</string>

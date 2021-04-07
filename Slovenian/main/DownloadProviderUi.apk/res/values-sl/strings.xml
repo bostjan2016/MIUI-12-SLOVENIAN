@@ -106,6 +106,8 @@
   <string name="dialog_content_limit0">Omeji prenose</string>
   <string name="dialog_content_limit_max">Brez omejitev</string>
   <string name="dialog_delete_positive">Izbriši</string>
+     <string name="dialog_download_dir_content" formatted="false">Privzeta ciljna mapa za vaše prenose je spremenjena iz \"%s\" v \"%s/DLManager\".</string>
+     <string name="dialog_download_dir_title">Nova ciljna mapa</string>
   <string name="dialog_failed_body">Boste kasneje spet poskusili prenesti datoteko ali jo izbrišem iz čakalne vrste?</string>
   <string name="dialog_file_already_exists">Datoteka že obstaja.</string>
   <string name="dialog_file_missing_body">Datoteke ni mogoče najti, kaže da je izbrisana.</string>

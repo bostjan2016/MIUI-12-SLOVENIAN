@@ -3201,6 +3201,15 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_time_to_boot">Čas vklopa</string>
   <string name="power_center_time_to_shutdown">Čas izklopa</string>
   <string name="power_center_title">Baterija</string>
+     <string name="power_center_unoffical_battery_button">Poišči pooblaščenega ponudnika storitev</string>
+     <string name="power_center_unoffical_battery_dialog">Opozorilo o nepooblaščeni bateriji</string>
+     <string name="power_center_unoffical_battery_dialog_positive">Nauči se več</string>
+     <string name="power_center_unoffical_battery_dialog_summary">Kaže, da je v tej napravi nameščena nepooblaščena baterija. Zaradi zaščite vaše naprave se bo moč polnjenja zmanjšala. Uporaba nepooblaščenih baterij lahko povzroči otekanje, pregrevanje in puščanje akumulatorja. Lahko povzroči tudi požar ali druge nevarnosti. Za zamenjavo baterije poiščite pooblaščenega ponudnika storitev.</string>
+     <string name="power_center_unoffical_battery_noti_summary">Vaša trenutna baterija lahko predstavlja varnostno tveganje</string>
+     <string name="power_center_unoffical_battery_summary1">Ta naprava je bila opremljena z vgrajeno baterijo, ki jo sme zamenjati samo pooblaščeni ponudnik storitev.</string>
+     <string name="power_center_unoffical_battery_summary2">Če baterijo zamenjate drugje, lahko to napravo poškoduje. Uporaba nepooblaščenih baterij lahko povzroči otekanje, pregrevanje in puščanje akumulatorja. Lahko povzroči tudi požar ali druge nevarnosti. Ne uporabljajte nepooblaščenih baterij.</string>
+     <string name="power_center_unoffical_battery_tip">"Informacije o zdravju za to nepooblaščeno baterijo niso na voljo. Dotaknite se, če želite izvedeti več o varnostnih tveganjih."</string>
+     <string name="power_center_unoffical_battery_title">Tveganja zaradi uporabe nepooblaščenih baterij</string>
      <string name="power_center_used_time_Introduction">Čas akumulatorja, odkar je bil zadnjič napolnjen pred %s</string>
   <string name="power_chooser_check_box_title">Izberi profil</string>
   <string name="power_chooser_sleep_summary">Izklopi vse opravila (klici, SMS, WiFi in podatkovne podatke), izjema je budilka</string>

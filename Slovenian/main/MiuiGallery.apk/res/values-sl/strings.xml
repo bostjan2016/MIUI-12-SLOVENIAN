@@ -589,6 +589,7 @@
   <string name="custom_select_title_select_all">Izberi vse</string>
   <string name="custom_select_title_select_item">Izberi stvari</string>
   <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
   <string name="datetimepicker_dialog_title">Zamenjaj čas</string>
   <string name="datetimepicker_updatetime_failed">"Ne morem zamenjati časa"</string>
   <string name="datetimepicker_updatetime_success">Čas zamenjan</string>
@@ -1045,12 +1046,14 @@ za fotografije"</string>
   <string name="filter_sky_xinggui">Usmeritve</string>
   <string name="filter_sky_xinghe">Galaxy</string>
   <string name="filter_sky_xingji">Zvezdne skladbe</string>
+     <string name="filter_sky_xingye">Zvezdnata noč</string>
   <string name="filter_sky_xizhao">Aurora</string>
   <string name="filter_sky_xuanguang">Borealis</string>
   <string name="filter_sky_xuanyue">Crescent</string>
      <string name="filter_sky_yingxia">Jutro</string>
   <string name="filter_sky_yingyue">Polna luna</string>
   <string name="filter_sky_yinhe">Mlečna cesta</string>
+     <string name="filter_sky_youyue">Temna luna</string>
   <string name="filter_sky_yuhui">Bleščeča svetloba</string>
      <string name="filter_sky_yunbo">Valovi</string>
      <string name="filter_sky_yunmeng">Fantazija</string>
@@ -1138,6 +1141,7 @@ za fotografije"</string>
   <string name="gigabyteShort">GB</string>
   <string name="grain">Zrnatost filma</string>
   <string name="grant_permission_go_and_set">Nastavi</string>
+     <string name="grant_permission_item">\"%s\"</string>
      <string name="grant_permission_text">"Galerija za normalno delo potrebuje dostop do 
 %s
  za delovanje, pritisni \"Nastavi\" za dostop do dovoljenj."</string>
@@ -1164,6 +1168,12 @@ za fotografije"</string>
   <string name="home_page_empty_action">Posnemi fotografijo</string>
   <string name="home_page_label">Fotografije</string>
   <string name="home_page_tab_photo">Fotografije</string>
+     <string name="homepage_allphotos_tip_dialog_button_negative">Preskoči</string>
+     <string name="homepage_allphotos_tip_dialog_button_positive">V redu</string>
+     <string name="homepage_allphotos_tip_dialog_description_all">Vse</string>
+     <string name="homepage_allphotos_tip_dialog_description_only_camera">Posnela kamera</string>
+     <string name="homepage_allphotos_tip_dialog_subtitle">To lahko storite tudi pozneje v nastavitvah</string>
+     <string name="homepage_allphotos_tip_dialog_title">Katere slike bi radi videli v \"Fotografije\"?</string>
   <string name="how_to_set_relation">Pritisnite &amp; držite album za kreiranje skupine</string>
   <string name="hr_preview_108m">Zamenjano na pregled pri 108MP</string>
   <string name="hybrid_check_network">Nastavitve omrežja</string>
@@ -1171,6 +1181,7 @@ za fotografije"</string>
   <string name="hybrid_locating_fail">"Ne morem najti vaše lokacije"</string>
   <string name="hybrid_network_access_denied">Omrežni pristop zavrnjen</string>
   <string name="hybrid_network_unavaliable">"Ne morem se povezati na omrežje"</string>
+     <string name="hybrid_provider">Ponuja %1$s</string>
   <string name="hybrid_pull_to_refresh_pull_label">Potegni za osvežitev…</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Samo trenutek…</string>
   <string name="hybrid_pull_to_refresh_release_label">Pusti za osvežitev…</string>
@@ -1419,10 +1430,13 @@ za fotografije"</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
   <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -1555,6 +1569,7 @@ za fotografije"</string>
   <string name="multi_view_tip_title">Povečevanje in zmanjševanje</string>
   <string name="must_pick_file">Izberi sliko</string>
   <string name="name_split">, </string>
+     <string name="nearby_share">Skupna raba v bližini</string>
   <string name="need_to_turn_on_network">"Naprava ni povezana s spletom."</string>
   <string name="need_to_turn_on_sync">Vključite sinhr. z Mi Cloudom</string>
   <string name="need_to_turn_on_sync_first">Vključite najprej sinhr. z Mi Cloudom</string>
@@ -1576,6 +1591,7 @@ za fotografije"</string>
   <string name="no">Ne</string>
   <string name="no_ignore_faces">Ni oseb</string>
   <string name="no_map_app">Najdena ni nobena aplikacija za izvedbo te storitve</string>
+     <string name="no_network">"Ne morem se povezati na omrežje"</string>
   <string name="no_network_connect">"Ne morem dokončati. Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="no_network_connected">Ni dostopnih omrežij</string>
   <string name="noon">Poldne</string>
@@ -1599,6 +1615,7 @@ za fotografije"</string>
   <string name="ocr_ongoing">Prepoznavanje teksta…</string>
   <string name="ocr_revise">Obdelaj</string>
   <string name="ocr_save_to_note">Shrani</string>
+     <string name="ocr_save_to_note_new">Shrani v Beležke</string>
   <string name="ocr_send">Skupna raba</string>
   <string name="ocr_text_copied">Uspešno kopirano</string>
   <string name="ocr_title">Rezultat</string>
@@ -2166,6 +2183,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="select_image_operation">Dodajanje fotografij</string>
   <string name="select_item_face">"Na fotog. je %s"</string>
   <string name="select_origin_tip">Originalna datoteka (%s)</string>
+     <string name="send">Pošlji</string>
   <string name="send_file_beautify_failed">"Ne morem poslati"</string>
      <string name="send_files_by">Delite datoteke preko</string>
   <string name="send_files_to">Pošlji stvari v</string>
@@ -2476,6 +2494,9 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="to_enable_sync_dialog_message">Najprej omogočite opravilo sinhr.</string>
   <string name="to_enable_sync_dialog_positive_button_text">Pojdi v Nastavitve</string>
   <string name="to_enable_sync_dialog_title">Sinhr.</string>
+     <string name="toast_download_with_metered_network_btn_continue">Prenesi</string>
+     <string name="toast_download_with_metered_network_msg">"Kaže da vaša naprava ni povezana z omrežjem WiFi. Prenesem stvari z uporabo mobilnih podatkov?"</string>
+     <string name="toast_download_with_metered_network_title">Opozorilo o uporabi podatkov</string>
   <string name="toast_invalid_char">"Imena datotek ne morejo vsebovati \"%s\""</string>
   <string name="toast_invalid_prefix">"Imena se ne morejo začeti z \".\" or \"_\""</string>
   <string name="toast_orientation_locked">Usmerjenost zaslona je zaklenjena</string>
@@ -2789,6 +2810,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="vlog_load_data_fail">"Ne morem naložiti podatke"</string>
   <string name="vlog_mi_clip">Urejevalec videoposnetkov</string>
   <string name="vlog_mi_clip_cn">Urejevalec videoposnetkov</string>
+     <string name="vlog_min_resolution_hint">Trenutna ločljivost je najnižja</string>
   <string name="vlog_nav_title_audio">Glasba iz filmov</string>
   <string name="vlog_nav_title_caption">Naslovi</string>
   <string name="vlog_nav_title_clip">Urejevalec</string>
@@ -2801,6 +2823,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="vlog_ratio_choose">Izberite razmerje</string>
   <string name="vlog_ratio_fullsize">Cel zaslon</string>
   <string name="vlog_ratio_original">Original</string>
+     <string name="vlog_resolution_origin">Originalna ločljivost</string>
   <string name="vlog_reverse_dialog_cancel">Odpoved obračanja</string>
   <string name="vlog_reverse_dialog_msg">Obračanje predvajanja…</string>
   <string name="vlog_reverse_fail">"Ne morem obrniti"</string>
@@ -2845,6 +2868,9 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="vlog_video_trans_code_cons">Obdelava datoteke visoke resolucije…</string>
   <string name="voice_assistant">Glasovni vnos</string>
   <string name="watch_all_photo">Galerija</string>
+     <string name="web_sso_login_fail">Znova se morate prijaviti</string>
+     <string name="web_sso_login_message">Prijava…</string>
+     <string name="webview_reload">Poskusi ponovno</string>
   <string name="wednesday">Sreda</string>
   <string name="wednesday_short">Sre</string>
   <string name="wednesday_shortest">S</string>

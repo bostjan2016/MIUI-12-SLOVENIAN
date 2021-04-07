@@ -890,6 +890,10 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">Lahko optimizirate %d stvari za prihranek baterije</item>
         <item quantity="one">Lahko optimizirate %d stvar za prihranek baterije</item>
      </plurals>
+     <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Prekliči (%ds)</item>
+        <item quantity="one">Prekliči (%ds)</item>
+     </plurals>
      <plurals name="power_optimize_app_autostart_summary">
         <item quantity="other">%d aplikacij se pogosto samodejno zaganja</item>
         <item quantity="one">%d aplikacija se pogosto samodejno zaganja</item>

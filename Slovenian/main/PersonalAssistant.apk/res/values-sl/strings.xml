@@ -387,6 +387,7 @@
     <string name="clearable_edittext_clear_description">Očisti</string>
   <string name="clock_alarm">Alarm</string>
   <string name="clock_parent">Ura</string>
+     <string name="close">Zapri</string>
   <string name="closed">Izključeno</string>
      <string name="collect_diagnosis_log">Zberite poročila diagnoze</string>
   <string name="common_google_play_services_unknown_issue">%1$s ima težave s storitvami Google Play. Če težava še naprej obstaja kontaktirajte razvojnega programerja.</string>
@@ -739,10 +740,13 @@ Prosimo, pošljite to kodo tehnikom."</string>
      <string name="miuix_appcompat_cloud_state_syncing">Sinhronizacija z oblakom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -922,6 +926,7 @@ Prosimo, pošljite to kodo tehnikom."</string>
   <string name="search_category_video">Videposnetki</string>
   <string name="search_change_header">Zamenjaj naslovno sliko</string>
   <string name="search_clear_header">Odstrani naslovno sliko</string>
+     <string name="search_header_dialog_title">Spremeni ozadje</string>
   <string name="search_hint">Iščite med priljubljenimi</string>
   <string name="search_label">Iskanje…</string>
      <string name="search_menu_title">Išči</string>
@@ -929,6 +934,7 @@ Prosimo, pošljite to kodo tehnikom."</string>
   <string name="search_tip">Iskanje…</string>
   <string name="security">Varnost</string>
   <string name="selected_shortcuts_title">Storitve</string>
+     <string name="send">Pošlji</string>
   <string name="send_action_title">Dodaj med priljubljene</string>
      <string name="send_diagnosis_log">Pošlji poročila diagnoze</string>
      <string name="send_express">Hitra dostava</string>

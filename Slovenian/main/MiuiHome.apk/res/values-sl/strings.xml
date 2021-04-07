@@ -448,6 +448,7 @@
   <string name="navigation_type_full_screen">Kretnje</string>
   <string name="navigation_type_title">Navigacija sistema</string>
   <string name="navigation_type_virtual_key">Tipke</string>
+     <string name="network_error">"Povezave z omrežjem ni bilo mogoče vzpostaviti. Poskusite ponovno."</string>
   <string name="no_detail_page">Ni podrobnosti strani</string>
   <string name="no_space_toast">Ni dovolj prostora</string>
   <string name="no_space_toast_when_click_widget">Na tej strani je premalo prostora. Poskusite to stvar potegniti na drugo stran.</string>
@@ -547,6 +548,8 @@
      <string name="remove_dialog_message">Izbrane aplikacije vsebujejo osnovne značilnosti sistema. Odstranite lahko le njihove bližnjice na zač. zaslonu.</string>
      <string name="remove_dialog_title_format">Odstranim \"%s\" iz zač. zaslona?</string>
   <string name="remove_invalidate_gadget_tips">Eden od uporabljanih pripomočkov ni več na voljo. Lahko dodate kakega drugega.</string>
+     <string name="remove_sys_app_content">"Bližnjico do začetnega zaslona boste lahko znova dodali v Nastavitve> Aplikacije> Urejanje bližnjic na začetnem zaslonu. Odstranim?"</string>
+     <string name="remove_sys_app_title">Odstranim bližnjico do začetnega zaslona?</string>
   <string name="reset_cate_tip_content">Če nadaljujete bodo vrnjene privzete skupine . Nadaljujem?</string>
   <string name="reset_cate_tip_title">Vrni privzete skupine</string>
   <string name="reset_description_first_time">Lahko povrnete razpored iz %1$s v roku 2 ur</string>
@@ -567,6 +570,7 @@
   <string name="select_all">Izberi vse</string>
   <string name="select_frame">Okvir</string>
   <string name="select_photo">Fotografija</string>
+     <string name="server_error">Prišlo je do napake strežnika. Počakajte minuto ali dve in poskusite znova.</string>
   <string name="setting_wallpaper_tip">Premakni ali povečaj za prilagoditev</string>
   <string name="settings">Nastavitve</string>
   <string name="settings_shortcut">Nastavitve</string>

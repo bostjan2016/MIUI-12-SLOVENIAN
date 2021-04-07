@@ -5300,10 +5300,13 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_ancBalance">Srednje</string>
      <string name="miheadset_ancClosed">Izklj.</string>
      <string name="miheadset_ancDecrease">Nizko</string>
+     <string name="miheadset_ancDepth">Globoko</string>
+     <string name="miheadset_ancEquilibrium">Uravnoteženo</string>
      <string name="miheadset_ancHigh">Letalo</string>
      <string name="miheadset_ancIncrease">Visoko</string>
      <string name="miheadset_ancLow">Pisarna</string>
      <string name="miheadset_ancMedium">Dnevno</string>
+     <string name="miheadset_ancMild">Lahko</string>
      <string name="miheadset_anc_indicate">Priključite in seznanite slušalke</string>
      <string name="miheadset_audio_mode">Kakovost zvoka</string>
      <string name="miheadset_audio_mode_high">Visoko</string>

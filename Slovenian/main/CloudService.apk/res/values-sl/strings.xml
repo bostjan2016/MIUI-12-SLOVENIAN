@@ -30,6 +30,7 @@
   <string name="access_denied">Dostop zavrnjen</string>
   <string name="account">Račun</string>
   <string name="account_related">Vaša naprava je povezana z obstoječim Mi Računom (%s). Povežite se na omrežje da potrdite napravo.</string>
+     <string name="actionbar_button_up_description">Nazaj</string>
   <string name="activate">Aktiviraj</string>
   <string name="activate_find_device_success">Najdi napravo je aktiviran.</string>
   <string name="activate_finddevice">Povežite se na omrežje da aktivirate napravo</string>
@@ -38,8 +39,10 @@
   <string name="add_cloud_storage">Dodaj prostor za shranjevanje</string>
   <string name="add_short_cut">Dodaj</string>
   <string name="added_successfully">Uspešno dodano</string>
+     <string name="afternoon">Večer</string>
   <string name="alert_notif_title_dspt">Ni sinhronizirano</string>
   <string name="all_sync_item_open">Vse stvari so vključene</string>
+     <string name="am">AM</string>
   <string name="antispam_sync">Nastavitve "Ne moti"</string>
   <string name="app_name">Mi Cloud</string>
   <string name="apple_10gb">20GB</string>
@@ -64,7 +67,9 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="calendar_sync">Koledar</string>
   <string name="check_contact">Dodaj</string>
   <string name="choose_contact_title">Stiki</string>
+     <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_to_enabled">Dotakni se za sinhr.</string>
+     <string name="close">Zapri</string>
   <string name="close_shortcut">Zapri</string>
   <string name="cloud_back_up_button_ok">Prisilno ustavi</string>
   <string name="cloud_back_up_close_info">Dotakni se za izdelavo var. kopije</string>
@@ -122,6 +127,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="data_merge_dialog_loading">Preverjanje podatkov…</string>
   <string name="data_merge_dialog_title">Združi podatke</string>
   <string name="data_protection_title">Zaščita podatkov</string>
+     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
   <string name="deskclock_backup">Napravi var. kopijo ure</string>
   <string name="detect_sim_card">Poišči SIM kartico</string>
      <string name="device_activation_card_cannot_get_yet">"Informacij ni bilo mogoče dobiti. Poskusite znova čez 3-5 dni."</string>
@@ -167,6 +174,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="error_unauthorized">Preveč poskusov prijave. Sinhronizacija je onemogočena.</string>
   <string name="error_unknown">"Vpis ni mogoč"</string>
      <string name="error_unsupported">"Ta storitev v tej napravi ni podprta"</string>
+     <string name="evening">Večer</string>
   <string name="expand_button_title">Napredno</string>
   <string name="feedback_custom_hint">"Opišite probleme s katerimi ste se srečali. Če dajete predloge, bomo cenili če bodo podrobni!"</string>
   <string name="find_device">"Najdi napravo" vključeno</string>
@@ -211,6 +219,9 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="forget_password">Pozabljeno geslo</string>
   <string name="free_space_has_received">Ta mesec ste že dodali zastonjski prostor</string>
   <string name="free_space_receive_fail">"Nadgradnja ni mogoča"</string>
+     <string name="friday">Petek</string>
+     <string name="friday_short">Pet</string>
+     <string name="friday_shortest">P</string>
   <string name="get_first_month_gb">Pridobi %s brezplačnega prostora</string>
   <string name="get_this_month_gb">Pridobi %s brezplačnega prostora ta mesec</string>
   <string name="google_100gb">100GB</string>
@@ -226,6 +237,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="hybrid_data_error">Prišlo je do napake</string>
   <string name="hybrid_network_access_denied">Dostop do omrežja je zavrnjen</string>
   <string name="hybrid_network_unavaliable">"Ne morem se povezati na omrežje"</string>
+     <string name="hybrid_provider">Ponuja %1$s</string>
   <string name="hybrid_service_unavailiable">Storitev ni na voljo</string>
   <string name="hybrid_try_again">Poskusi ponovno</string>
   <string name="i_know">V redu</string>
@@ -645,6 +657,7 @@ Najdite in zaklenite napravo, če se izgubi."</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Okoli 80 RMB letno</string>
+     <string name="midnight">Polnoč</string>
   <string name="midrive_guide1_desc">Napravite var. kopijo stvari v cloud da boste osvobodili prostor za shranjevanje v napravi.</string>
   <string name="midrive_guide1_title">Varne var. kopije</string>
   <string name="midrive_guide2_desc">Prenesite stvari po hitrosti prenosa.</string>
@@ -654,6 +667,20 @@ Najdite in zaklenite napravo, če se izgubi."</string>
   <string name="midrive_guide_btn_install">Namesti Mi Drive</string>
   <string name="midrive_guide_btn_installed">Odpri Mi Drive</string>
   <string name="midrive_guide_btn_installing">Nameščanje…</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
+     <string name="miuix_appcompat_cancel_description">Prekliči</string>
+     <string name="miuix_appcompat_confirm_description">Potrdi</string>
+     <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
+     <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
+     <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -662,7 +689,48 @@ Najdite in zaklenite napravo, če se izgubi."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne morem naložiti"</string>
+     <string name="monday">Ponedeljek</string>
+     <string name="monday_short">Pon</string>
+     <string name="monday_shortest">P</string>
+     <string name="month_april">April</string>
+     <string name="month_april_short">Apr</string>
+     <string name="month_april_shortest">A</string>
+     <string name="month_august">Avgust</string>
+     <string name="month_august_short">Avg</string>
+     <string name="month_august_shortest">A</string>
+     <string name="month_december">December</string>
+     <string name="month_december_short">Dec</string>
+     <string name="month_december_shortest">D</string>
+     <string name="month_february">Februar</string>
+     <string name="month_february_short">Fer</string>
+     <string name="month_february_shortest">F</string>
+     <string name="month_january">Januar</string>
+     <string name="month_january_short">Jan</string>
+     <string name="month_january_shortest">J</string>
+     <string name="month_july">Julij</string>
+     <string name="month_july_short">Jul</string>
+     <string name="month_july_shortest">J</string>
+     <string name="month_june">Junij</string>
+     <string name="month_june_short">Jun</string>
+     <string name="month_june_shortest">J</string>
+     <string name="month_march">Marec</string>
+     <string name="month_march_short">Mar</string>
+     <string name="month_march_shortest">M</string>
+     <string name="month_may">Maj</string>
+     <string name="month_may_short">Maj</string>
+     <string name="month_may_shortest">M</string>
+     <string name="month_november">November</string>
+     <string name="month_november_short">Nov</string>
+     <string name="month_november_shortest">N</string>
+     <string name="month_october">Oktober</string>
+     <string name="month_october_short">Okt</string>
+     <string name="month_october_shortest">O</string>
+     <string name="month_september">September</string>
+     <string name="month_september_short">Sep</string>
+     <string name="month_september_shortest">Sep</string>
+     <string name="more">Več</string>
   <string name="more_activity_in_upgrade_space">Več na &lt;a href="http://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
+     <string name="morning">Jutro</string>
   <string name="mx_dspt">Mi Sporočila</string>
   <string name="mx_dspt_provision">"Mi Sporočila omogočajo brezplačno pošiljanje sporočil drugim Mi uporabnikom ko ste povezani preko WiFi.
   
@@ -685,8 +753,11 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="mx_sub_dspt_provision_with_voip">Spletni klici</string>
   <string name="mx_voip_dspt">Mi Voice</string>
   <string name="next">Naprej</string>
+     <string name="night">Noč</string>
   <string name="noRemind">"Ne opominjaj me"</string>
+     <string name="no_network">"Ne morem se povezati na omrežje"</string>
   <string name="no_sim">"Ne najdem SIM kartice"</string>
+     <string name="noon">Poldne</string>
   <string name="not_set">Ni nastavljeno</string>
      <string name="notification_reinstall_key_text">Potrdite svojo identiteto in poskusite znova</string>
      <string name="notification_sync_fail_title">"Ne morem sinhronizirati"</string>
@@ -703,6 +774,7 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="picker_list_empty">Tu ni stikov</string>
   <string name="picker_search_empty">"Ne najdem stikov"</string>
   <string name="picker_search_hint">Išči</string>
+     <string name="pm">PM</string>
   <string name="power_off_locate_summary">"Podatke o lokaciji prijavite z dolgim pritiskom tipke Vklop.
 Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</string>
   <string name="power_off_locate_title">Prijavi lokacijo pred izklopom</string>
@@ -757,6 +829,9 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
   <string name="restoreSync">Sinhroniziraj zdaj</string>
      <string name="retain_data_high_quality_photo_waring_message">Visokokakovostne slike bodo po odjavi izbrisane iz vaše galerije. Ustrezne izvirne datoteke bodo še vedno shranjene v oblaku. Izvirne datoteke lahko prenesete tudi pred odjavo.</string>
      <string name="retain_data_high_quality_photo_waring_title">"Visokokakovostne slike ne bodo na voljo"</string>
+     <string name="saturday">Sobota</string>
+     <string name="saturday_short">Sob</string>
+     <string name="saturday_shortest">S</string>
   <string name="search_cloudbackup_pref">Cloud var. kopija</string>
   <string name="search_cloudbackup_pref_desc">Vklj/Izklj. Cloud var. kopijo</string>
   <string name="search_cloudbackup_pref_key_words">cloudbackup, cloud var. kopija</string>
@@ -767,6 +842,7 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
   <string name="search_finddevice_pref_path">Mi Račun/Mi Cloud/Najdi napravo</string>
   <string name="search_menu_title">Išči</string>
   <string name="secret_photo">Skrite fotografije</string>
+     <string name="send">Pošlji</string>
   <string name="setting">Nastavitve</string>
   <string name="settings_backup_title">Nastavitve var. kopije sistema</string>
   <string name="share_cancel">Deljenje odpovedano</string>
@@ -906,6 +982,9 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
   <string name="sub_sync_item_sms_title_wifi_only_china">Uporabi le WiFi za sinhronizacijo MMS</string>
   <string name="success_upgraded_space">%s dodano</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+     <string name="sunday">Nedelja</string>
+     <string name="sunday_short">Ned</string>
+     <string name="sunday_shortest">N</string>
   <string name="sync_detail_summary_master_sync_off">Sinhr. je izključena</string>
   <string name="sync_detail_summary_off">Sinhr. je izključena</string>
   <string name="sync_detail_text">Podrobnosti sinhr.</string>
@@ -962,8 +1041,13 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
   <string name="tip_short_cut_already_added">Narejeno</string>
   <string name="title_back">Nazaj</string>
   <string name="title_reg">Ustvari Mi račun</string>
+     <string name="today">Danes</string>
+     <string name="tomorrow">Jutri</string>
   <string name="total_space_upgraded_to">Skupni prostor: %s</string>
   <string name="trying_to_connect_to_network">Povezovanje v omrežje…</string>
+     <string name="tuesday">Torek</string>
+     <string name="tuesday_short">Tor</string>
+     <string name="tuesday_shortest">T</string>
   <string name="unactivated_user">Odjavljen</string>
   <string name="upgrade_space">Dodaj prostor</string>
   <string name="upgrade_space_gb">GB</string>
@@ -1003,6 +1087,12 @@ Z uporabo te storitve se strinjate z "</string>
   <string name="warning_bar_title_network_unconnected">"Ne morem e povezati na omrežje"</string>
   <string name="warning_bar_title_short_cut">Dodam bližnjico začetnega zaslona za Mi Cloud?</string>
   <string name="warning_bar_title_sync_off">Sinhr. z Mi Cloudom je izključena</string>
+     <string name="web_sso_login_fail">Znova se morate prijaviti</string>
+     <string name="web_sso_login_message">Prijava…</string>
+     <string name="webview_reload">Poskusite znova</string>
+     <string name="wednesday">Sreda</string>
+     <string name="wednesday_short">Sre</string>
+     <string name="wednesday_shortest">S</string>
   <string name="wipe_data_dialog_button_check_sync">Preveri, če je sinhronizirano</string>
   <string name="wipe_data_dialog_msg">"Nekatere stvari %s niso sinhronizirane. Shranjene bodo v napravi in ne bodo izbrisane."</string>
   <string name="wipe_data_dialog_msg_and_on">, in nekatere druge stvari</string>
@@ -1013,4 +1103,5 @@ Z uporabo te storitve se strinjate z "</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
    <string name="xiaomi_cloud_service_subtitle">Vse pomembne stvari na enem mestu</string>
   <string name="xmpp_server_addr"/>
+     <string name="yesterday">Včeraj</string>
 </resources>
