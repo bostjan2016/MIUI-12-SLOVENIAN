@@ -572,6 +572,8 @@ Avdio"</string>
   <string name="call_barring_sum">Nastavitve prepovedi glasovnih klicev</string>
   <string name="call_category">Klicanje</string>
   <string name="call_description_recording">Snemam...</string>
+     <string name="call_fold_setting">Zlaganje in razgrnitev</string>
+     <string name="call_fold_setting_title">Zlaganje in razgrnitev</string>
   <string name="call_forward_option">Posredovanje klica</string>
   <string name="call_forwarding_number_hint">Posreduj klice na</string>
   <string name="call_forwarding_settings">Nastavitve preusmerjanja klicev</string>
@@ -1213,6 +1215,8 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="fiveg_upperlayer_indication1">Status indikacije zgornjega sloja:</string>
   <string name="flash_when_ring_summary">Uporabi bliskavico za obvestilo o dohodnih klicih</string>
   <string name="flash_when_ring_title">Bliskavica tudi za klice</string>
+     <string name="fold_answer_pref_summary">Napravo zložite, da samodejno sprejme dohodni klic</string>
+     <string name="fold_answer_pref_title">Zložite za sprejem klicev</string>
     <string name="forbidden_network">(Omejeno)</string>
     <string name="force_allow_on_external">Vsili omogočanje aplikacij v zunanji shrambi</string>
   <string name="force_allow_on_external_summary">Aplikacije se zapisujejo v zunanjo shrambo neodvisno od vrednosti manifesta</string>
@@ -1370,6 +1374,8 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="keep_screen_on_summary">Zaslon ne bo prešel v mirovanje med polnjenjem</string>
   <string name="keep_wait_call_back">Nadaljuj s čakanjem</string>
   <string name="keywords_carrier_settings_euicc">mobilni operater, esim, sim, euicc, menjava mobilnega operaterja, dodajanje mobilnega operaterja</string>
+     <string name="kr_emergency_message">Potrdite za klicanje %s. Pokličem?</string>
+     <string name="kr_emergency_with_number">Vnesite telefonsko številko, ki jo želite poklicati</string>
   <string name="kt_lte_emm_cause_19_22">Registriranje omrežja… Počakajte minuto ali dve in poskusite ponovno.</string>
   <string name="kt_lte_emm_cause_3">"Ne morem potrditi uporabnika. Izključite napravo, jo ponovno vključite in poskusite ponovno. Če se problem ponavlja se obrnite na servisni center"</string>
   <string name="kt_lte_emm_cause_6">"Ne morem potrditi naprave. Ponovno zaženite napravo 2 ali 3 krat po vstavitvi nove USIM kartice. Če se problem ponavlja se obrnite na servisni center."</string>
@@ -2829,6 +2835,10 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="unable_dial_livetalk">"Ne morem dokončati klica"</string>
   <string name="undefined">Brez</string>
   <string name="undefined_setting">Nič</string>
+     <string name="unfold_close_camera_pref_summary">Napravo med video klicem razklopite, da izklopite kamero</string>
+     <string name="unfold_close_camera_pref_title">Razklopite, da izklopite kamero</string>
+     <string name="unfold_speaker_pref_summary">Med klicem napravo razklopite, da vklopite zvočnik</string>
+     <string name="unfold_speaker_pref_title">Razklopite, da vklopite zvočnik</string>
   <string name="unknown">Neznano</string>
   <string name="unlock_chances_left">Ostalo poskusov:</string>
   <string name="unlock_failed">Zahtevek odklepa omrežja neuspešen</string>
@@ -2992,6 +3002,7 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="wapi_password_length_is_min_to_max">Geslo mora biti: 8-64 znakov</string>
   <string name="wapi_yes">da</string>
   <string name="wfc_provisioned_switch_string">Video klicanje omogočeno</string>
+     <string name="wfcmode_ims_preferred">Prednostno IMS</string>
   <string name="wfcmode_mobile_preferred">Prednostno mobilno omrežje</string>
   <string name="wfcmode_wifi_only">samo WiFi</string>
   <string name="wfcmode_wifi_preferred">Prednostni WiFi</string>
@@ -3005,6 +3016,7 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="wifi_auto_sel_wapi_cert">Izberi samodejno</string>
   <string name="wifi_call_accept">Preskoči</string>
   <string name="wifi_call_available_message">"Zdaj lahko kličete preko WiFi-ja. Če ni mobilnega omrežja, WiFi pa je uporabite to možnost."</string>
+     <string name="wifi_call_available_message_for_ATT_MX">Povezali se boste z omrežjem WiFi. Kakovost klica se lahko razlikuje glede na omrežje.</string>
   <string name="wifi_call_available_title">Vklop WiFi klicev</string>
   <string name="wifi_call_cancel">Več informacij</string>
   <string name="wifi_call_help">Pomoč</string>

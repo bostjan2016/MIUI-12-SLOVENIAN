@@ -143,6 +143,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="disable_find_device_success">"Najdi napravo" je izključeno.</string>
   <string name="do_not_merge">Prekliči</string>
   <string name="due_date_format">dd.MM.yyyy</string>
+     <string name="early_morning">Jutro</string>
   <string name="enableAll">Sinhroniziraj vse</string>
   <string name="enable_cloud_service_notification">Aktivirati morate Mi Cloud</string>
   <string name="enable_find_device_error">"Ne morem izklopiti opravila "Najdi napravo". %1$s"</string>
@@ -692,6 +693,7 @@ Najdite in zaklenite napravo, če se izgubi."</string>
      <string name="monday">Ponedeljek</string>
      <string name="monday_short">Pon</string>
      <string name="monday_shortest">P</string>
+     <string name="month">Mesec</string>
      <string name="month_april">April</string>
      <string name="month_april_short">Apr</string>
      <string name="month_april_shortest">A</string>
@@ -719,6 +721,9 @@ Najdite in zaklenite napravo, če se izgubi."</string>
      <string name="month_may">Maj</string>
      <string name="month_may_short">Maj</string>
      <string name="month_may_shortest">M</string>
+     <string name="month_medium_april">Apr</string>
+     <string name="month_medium_august">Avg</string>
+     <string name="month_medium_december">Dec</string>
      <string name="month_november">November</string>
      <string name="month_november_short">Nov</string>
      <string name="month_november_shortest">N</string>
@@ -1037,6 +1042,12 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
   <string name="sync_sub_dspt_provision">Sinhronizacija slik, stikov, glasbe, aplikacij in ostalega na vse vaše naprave</string>
   <string name="sync_sub_int_dspt">Vaš operater vam bo zaračunal mednarodni SMS ki bo mogoče potreben za vklop te storitve.</string>
   <string name="system_busy_or_network_error">Prišlo je do napake. Počakajte minuto ali dve in poskusite ponovno.</string>
+     <string name="thursday">Četrtek</string>
+     <string name="thursday_short">Čet</string>
+     <string name="thursday_shortest">Č</string>
+     <string name="time_picker_dialog_title">Nastavi čas</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
   <string name="tip_short_cut_added_success">Bližnjica napravljena</string>
   <string name="tip_short_cut_already_added">Narejeno</string>
   <string name="title_back">Nazaj</string>
@@ -1103,5 +1114,6 @@ Z uporabo te storitve se strinjate z "</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
    <string name="xiaomi_cloud_service_subtitle">Vse pomembne stvari na enem mestu</string>
   <string name="xmpp_server_addr"/>
+     <string name="yes">Da</string>
      <string name="yesterday">Včeraj</string>
 </resources>

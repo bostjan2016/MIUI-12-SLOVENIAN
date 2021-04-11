@@ -72,6 +72,10 @@
      <string name="battery_reverse_wireless_charge_title">povratno brezžično polnjenje</string>
      <string name="battery_value">Elektrika</string>
   <string name="begin_to_save_finger_data">Začetek shranjevanja prstnega odtisa</string>
+     <string name="bottom_left_high_speaker">Test spodnjega levega visokotonca</string>
+     <string name="bottom_left_low_speaker">Test spodnjega levega nizkotonca</string>
+     <string name="bottom_right_high_speaker">Test spodnjega desnega visokotonca</string>
+     <string name="bottom_right_low_speaker">Test spodnjega desnega nizkotonca</string>
      <string name="bt_address">Naslov:</string>
      <string name="bt_name">Ime:</string>
   <string name="button_cancel">Prekliči</string>
@@ -219,6 +223,8 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
   <string name="cit_bluetooth_scanning_bluetooth_done">"Končano. Ni najdenih Bluetooth naprav v bližini."</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Prišlo je do napake med preverjanjem Bluetooth naprav.</string>
   <string name="cit_bluetooth_scanning_opening_bluetooth">Odpiranje Bluetooth naprave…</string>
+     <string name="cit_bottom_left_speaker_test">Test levega spodnjega zvočnika</string>
+     <string name="cit_bottom_right_speaker_test">Test desnega spodnjega zvočnika</string>
   <string name="cit_build_finger_failed">Shranjevanje prstnega odtisa NEUSPEŠNO</string>
   <string name="cit_build_finger_passed">Shranjevanje prstnega odtisa USPEŠNO</string>
   <string name="cit_button_light_off">Osvetlitev tipk izklj.</string>
@@ -785,9 +791,14 @@ Druga vrstica prikazuje ime in številko različice privzetih MBN in Carrier MBN
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
   <string name="cit_tool_wifi_tx_st_chan">Kanal:</string>
   <string name="cit_tool_wifi_txrx_chain_selection">Izberi anteno</string>
+     <string name="cit_top_left_speaker_test">Test levega zgornjega zvočnika</string>
+     <string name="cit_top_right_speaker_test">Test desnega zgornjega zvočnika</string>
+     <string name="cit_torch">Svetilka</string>
+     <string name="cit_torch_first">Prva svetilka</string>
   <string name="cit_torch_modify">Modificiraj svetilko</string>
   <string name="cit_torch_off">Izključi svetilko</string>
   <string name="cit_torch_on">Vključi svetilko</string>
+     <string name="cit_torch_second">Druga svetilka</string>
   <string name="cit_touch_calib_fail">Kalibriranje dotika ni uspelo, poskusi ponovno</string>
   <string name="cit_touch_calib_instruction">Zaženi kalibriranje</string>
   <string name="cit_touch_calib_pass">Kalibriranje je uspešno končano</string>
@@ -1144,7 +1155,11 @@ Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
      <string name="title_bad_point">slaba točka</string>
   <string name="title_extract_data">Izločanje podatkov</string>
   <string name="title_farr">FAR in FRR Test</string>
+     <string name="top_left_high_speaker">Test zgornjega levega visokotonca</string>
+     <string name="top_left_low_speaker">Test zgornjega levega nizkotonca</string>
      <string name="top_mic_check_record_tip">Snemanje, prosim, recite kaj v mikrofon na vrhu telefona</string>
+     <string name="top_right_high_speaker">Test zgornjega desnega visokotonca</string>
+     <string name="top_right_low_speaker">Test zgornjega desnega nizkotonca</string>
   <string name="touch_auto">Samotestiranje zaslona občutljivega na dotik poteka, prosim počakajte…</string>
      <string name="touch_sefl_fail">Test ni uspel</string>
      <string name="touch_self">Med preskusom se ne dotikajte zaslona…</string>

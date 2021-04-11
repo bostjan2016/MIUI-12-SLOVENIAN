@@ -502,6 +502,7 @@ Hitrejši protokol povezave."</string>
      <string name="monday">Ponedeljek</string>
      <string name="monday_short">Pon</string>
      <string name="monday_shortest">P</string>
+     <string name="month">Mesec</string>
      <string name="month_april">April</string>
      <string name="month_april_short">Apr</string>
      <string name="month_april_shortest">A</string>
@@ -529,6 +530,9 @@ Hitrejši protokol povezave."</string>
      <string name="month_may">Maj</string>
      <string name="month_may_short">Maj</string>
      <string name="month_may_shortest">M</string>
+     <string name="month_medium_april">Apr</string>
+     <string name="month_medium_august">Avg</string>
+     <string name="month_medium_december">Dec</string>
      <string name="month_november">November</string>
      <string name="month_november_short">Nov</string>
      <string name="month_november_shortest">N</string>
@@ -707,6 +711,12 @@ Hitrejši protokol povezave."</string>
     <string name="tethering_hardware_offload">Strojno pospeševanje za spletno povezavo preko mobilnega telefona</string>
     <string name="tethering_hardware_offload_summary">Uporabi strojno pospeševanje za spletno povezavo preko mobilnega telefona, če je na voljo</string>
     <string name="tethering_settings_not_available">Nastavitve za povezavo z spletom preko mobilne naprave niso na voljo za tega uporabnika</string>
+     <string name="thursday">Četrtek</string>
+     <string name="thursday_short">Čet</string>
+     <string name="thursday_shortest">Č</string>
+     <string name="time_picker_dialog_title">Nastavi čas</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
     <string name="time_unit_just_now">pravkar</string>
     <string name="title_convert_fbe">Pretvarjanje v šifriranje datotek…</string>
      <string name="today">Danes</string>
@@ -875,6 +885,7 @@ Shramba poverilnic mogoče ni omogočena"</string>
   <string name="wifi_whitelist_roaming_summary">Omogoči gostovanje med različnimi SSID WPA/WPA2‑PSK AP-i z istim MAC naslovom</string>
     <string name="window_animation_scale_title">Merilo animacije okna</string>
      <string name="xiaomi_account_bt_sync_name">Bluetooth</string>
+     <string name="yes">Da</string>
      <string name="yesterday">Včeraj</string>
     <string name="zen_alarm_warning">Naslednjega alarma ob %1$s ne boste slišali</string>
     <string name="zen_alarm_warning_indef">Naslednjega alarma ob %1$s ne boste slišali, razen če prej izklopite to nastavitev</string>

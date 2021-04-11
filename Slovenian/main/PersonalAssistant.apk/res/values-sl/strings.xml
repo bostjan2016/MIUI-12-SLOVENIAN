@@ -429,6 +429,7 @@
   <string name="data_error">Prišlo je do napake. Počakajte minuto ali dve in ponovno poskusite.</string>
   <string name="data_error_show">Naročilo je končano, ogled podrobnosti ni mogoč</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
   <string name="debug_card_brief">Nastavitve in orodja za odpr. napak</string>
   <string name="debug_card_detail">Nastavitve in orodja za odpr. napak</string>
   <string name="debug_card_title">Odpr. napak</string>
@@ -458,6 +459,7 @@ Prosimo, pošljite to kodo tehnikom."</string>
   <string name="dialog_report_toast">Uspešno prijavljeno</string>
   <string name="display_weather_default">Tapnite za vremenske informacije</string>
   <string name="drive">Vožnja</string>
+     <string name="early_morning">Jutro</string>
   <string name="edit_amount_hint">Vnesi račun</string>
   <string name="edit_category_dialog_title">Izberi kategoriji pčačila</string>
   <string name="edit_comment_hint">Opomba</string>
@@ -675,6 +677,8 @@ Prosimo, pošljite to kodo tehnikom."</string>
     <string name="midnight">Noč</string>
   <string name="midrop_parent">Mi Drop</string>
   <string name="midrop_send">Pošlji</string>
+     <string name="miot_abnormal_device">Naprave z napakami</string>
+     <string name="miot_auth_btn">Sinh.</string>
     <string name="miot_auth_content">Uporabite Meni aplikacij za nadzor pametnih domačih naprav</string>
     <string name="miot_auth_dialog_content">Želite sinhronizirati podatke iz pametnih domačih naprav z menijem aplikacij?</string>
     <string name="miot_auth_dialog_neg_btn">Ne, hvala</string>

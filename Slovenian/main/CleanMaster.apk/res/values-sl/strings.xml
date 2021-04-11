@@ -942,6 +942,7 @@
      <string name="wechat_qq_celan_tab_voice">Glasovna sporočila</string>
   <string name="wechat_qq_deep_clean_button_text">Globinsko čiščenje</string>
   <string name="whatsapp_btn_quick_cleanup">Očisti %s</string>
+     <string name="whatsapp_cache_clear">Brisanje predpomnilnika…</string>
   <string name="whatsapp_clean_exit_confirm_cancel">Prekini</string>
   <string name="whatsapp_clean_exit_confirm_msg">Ustavi preverjanje</string>
   <string name="whatsapp_clean_exit_confirm_ok">V redu</string>

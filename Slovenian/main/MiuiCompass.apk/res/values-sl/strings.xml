@@ -187,6 +187,8 @@
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Pritisk</string>
   <string name="pressure_unit">hPa</string>
+     <string name="remove_icon_description_content">"Kompas je sistemska aplikacija. Ko odstranite bližnjico iz začetnega zaslona, je ne boste mogli več uporabljati za preverjanje smeri, koordinat, atmosferskega tlaka in trenutne nadmorske višine.."</string>
+     <string name="remove_icon_description_title">Odstranim \"Kompas\" iz začetnega zaslona?</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>

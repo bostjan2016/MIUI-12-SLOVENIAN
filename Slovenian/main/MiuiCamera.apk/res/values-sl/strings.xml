@@ -874,6 +874,11 @@ Natisnite kopijo brezžično na papir A4."</string>
 zgledali večji na fotografijah"</string>
   <string name="macro_mode_use_hint_text_title">Macro</string>
   <string name="maker">Avtor</string>
+     <string name="makeup_effect_entry_apricot_white">Alabaster</string>
+     <string name="makeup_effect_entry_dusk_night">Noč</string>
+     <string name="makeup_effect_entry_neutral">Nevtralno</string>
+     <string name="makeup_effect_entry_palm">Palma</string>
+     <string name="makeup_effect_entry_vitality">Zagnanost</string>
   <string name="makeup_reset_toast">Odstranjeni so učinki šminke</string>
   <string name="manual">Ročno</string>
      <string name="manual_picture_style">Parametri</string>
@@ -1044,6 +1049,7 @@ zgledali večji na fotografijah"</string>
   <string name="module_name_video">Video</string>
   <string name="module_name_vlog">VLOG</string>
   <string name="moive_frame">Okvir filma</string>
+     <string name="monday">Ponedeljek</string>
      <string name="monday_short">Pon</string>
      <string name="monday_shortest">P</string>
      <string name="month">Mesec</string>
@@ -1074,6 +1080,9 @@ zgledali večji na fotografijah"</string>
      <string name="month_may">Maj</string>
      <string name="month_may_short">Maj</string>
      <string name="month_may_shortest">M</string>
+     <string name="month_medium_april">Apr</string>
+     <string name="month_medium_august">Avg</string>
+     <string name="month_medium_december">Dec</string>
      <string name="month_november">November</string>
      <string name="month_november_short">Nov</string>
      <string name="month_november_shortest">N</string>
@@ -1889,9 +1898,9 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="snapshot_lower_than_video">Velikost pregledanega posnetka je manjša od velikosti videoposnetka. Prilagajanje na velikost videoposnetka. Izberite resolucijo večjo ali enako trenutni velikosti videoposnetka.</string>
   <string name="snapshot_qcif_and_d1">Za to resolucijo je podprta samo velikost videoposnetka.</string>
   <string name="snapshotsize_low_powermode">Resolucija slik v Nizkem načinu energije ni podprta. Uporabljena bo velikost videoposnetka.</string>
-  <string name="spaceIsLow_content">SD kartici zmanjkuje prostora. Zmanšajte kvaliteto ali izbrišite nekaj slik ali drugih datotek.</string>
-  <string name="spaceIsLow_content_external_storage_priority">SD kartici zmanjkuje prostora</string>
-  <string name="spaceIsLow_content_primary_storage_priority">USB pomnilniku zmanjkuje prostora</string>
+  <string name="spaceIsLow_content">Na SD kartici zmanjkuje prostora. Zmanšajte kvaliteto ali izbrišite nekaj slik ali drugih datotek.</string>
+  <string name="spaceIsLow_content_external_storage_priority">Na SD kartici zmanjkuje prostora</string>
+  <string name="spaceIsLow_content_primary_storage_priority">V USB pomnilniku zmanjkuje prostora</string>
   <string name="speech_shutter_open_tip">Recite \"Fotografiraj\" ali \"Posnemi fotografijo\" da posnamete fotografijo</string>
   <string name="speech_shutter_tip">Sprožitev z glasom</string>
   <string name="start_capture">V redu</string>

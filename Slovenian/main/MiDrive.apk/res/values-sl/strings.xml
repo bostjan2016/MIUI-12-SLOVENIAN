@@ -68,6 +68,7 @@
   <string name="action_mode_deselect_all">Prekliči izbiro</string>
   <string name="action_mode_select_all">Izberi vse</string>
   <string name="action_update_phone">Zamenjaj številko telefona</string>
+     <string name="actionbar_button_up_description">Nazaj</string>
   <string name="activate_email_notice">Ne pozabite aktivirati računa v 24 urah</string>
   <string name="activity_not_found_notice">"Ne najdem aplikacije"</string>
   <string name="add_to_trust_device">To je zanesljiva naprava</string>
