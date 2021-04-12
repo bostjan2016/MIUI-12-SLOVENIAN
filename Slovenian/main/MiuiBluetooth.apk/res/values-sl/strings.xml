@@ -380,6 +380,7 @@ Hitrejši protokol povezave."</string>
      <string name="headset_device_error_box_close">Ohišje za polnjenje je izključeno</string>
      <string name="headset_device_error_disconnect">Obe slušalki sta bili odklopljeni. Zaprite ohišje za polnjenje in ga znova odprite, da se posodobitev začne znova.</string>
      <string name="headset_device_error_failed">ni uspelo</string>
+     <string name="headset_device_error_multconnect">"Ko je povezanih več naprav, ni mogoče posodobiti"</string>
      <string name="headset_device_error_no_device">V ohišju za polnjenje manjka vsaj ena slušalka</string>
      <string name="headset_device_error_single_device">"Ne morem posodobiti ene slušalke. Ponovno jih seznanite."</string>
      <string name="headset_device_sync_donot_move_device">Sinhronizacija ... Počakajte, da se sinhronizacija konča, preden uporabite slušalke.</string>

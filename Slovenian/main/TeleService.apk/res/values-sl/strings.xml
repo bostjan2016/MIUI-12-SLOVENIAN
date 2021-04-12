@@ -1228,6 +1228,7 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="force_resizable_activities_summary">Omogoči spremembo velikosti vseh aktivnosti za več oken, neglede na vrednosti manifesta.</string>
   <string name="force_rtl_layout_all_locales">Vsili z desne v levo</string>
   <string name="force_rtl_layout_all_locales_summary">Vsili smer z desne v levo za vse države/jezike</string>
+     <string name="four_point_five_switch_summary">Uporabite 4.5G za izboljšanje hitrosti dostopa do podatkov in kakovosti glasu.</string>
   <string name="fw_change_failed">"Ni bilo možno spremeniti posredovane številke.
   Kontaktirajte vašega operaterja če se bodo problemi ponavljali."</string>
   <string name="fw_get_in_vm_failed">"Ni bilo možno priklicati in shraniti trenutne nastavitve posredovanih klicev.

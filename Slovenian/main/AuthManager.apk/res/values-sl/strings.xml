@@ -357,6 +357,10 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="blur_location_is_on_tip">%1$s uporablja vašo približno lokacijo. Nadaljevanje uporabe namesto natančne lokacije?</string>
      <string name="blur_location_now_tip">Približna lokacija je vključena</string>
      <string name="blur_location_title">Približna lokacija</string>
+     <string name="cetus_invisible_mode_notice_audio">"Ste nevidni. Ne morem uporabiti mikrofona."</string>
+     <string name="cetus_invisible_mode_notice_camera">"Ste nevidni. Ne morem uporabiti kamere."</string>
+     <string name="cetus_invisible_mode_notice_location">"Ste nevidni. Ne morem uporabiti lok. storitev."</string>
+     <string name="cetus_invisible_mode_notice_tip">Tapnite za izklop nevidnega načina v Nastavitvah</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="clipboard_ai_allow_once">Dovoljeno %1$s samodejni dostop do stvari v odložišču</string>
      <string name="clipboard_data">Stvari v odložišču</string>

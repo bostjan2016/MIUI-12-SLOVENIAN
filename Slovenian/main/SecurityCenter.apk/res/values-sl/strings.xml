@@ -3198,6 +3198,16 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_stop_scan_title">Ustavi iskanje</string>
   <string name="power_center_super_save_summary_text">Povečaj preostali čas do %1$dh %2$dm</string>
   <string name="power_center_super_save_title_text">Ultra varčevanje baterije</string>
+     <string name="power_center_super_wireless_charge">Hitro brezžično polnjenje</string>
+     <string name="power_center_super_wireless_charge_dialog_positive">Nadaljuj</string>
+     <string name="power_center_super_wireless_charge_dialog_summary">"Ta način poveča hitrost ventilatorja hladilnika brezžičnega polnilnika. Naj bo ta način vklopljen, da se naprava hitreje napolni, ali pa ga izklopite, če se vam zdi hrup preglasen."</string>
+     <string name="power_center_super_wireless_charge_dialog_summary2">Pojdite v Varnost > Baterija > Nastavitve za več možnosti.</string>
+     <string name="power_center_super_wireless_charge_dialog_title">Hitro brezžično polnjenje</string>
+     <string name="power_center_super_wireless_charge_noti_summary">Dotaknite se, da odprete Nastavitve</string>
+     <string name="power_center_super_wireless_charge_noti_switch">Obvesti o hitrem brezžičnem polnjenju</string>
+     <string name="power_center_super_wireless_charge_noti_title">Hitro brezžično polnjenje je vklopljeno</string>
+     <string name="power_center_super_wireless_charge_summary">"Povečajte hitrost ventilatorja hladilnika brezžičnega polnilnika"</string>
+     <string name="power_center_super_wireless_charge_toast_close">Hitro brezžično polnjenje je izklopljeno</string>
   <string name="power_center_time_to_boot">Čas vklopa</string>
   <string name="power_center_time_to_shutdown">Čas izklopa</string>
   <string name="power_center_title">Baterija</string>
