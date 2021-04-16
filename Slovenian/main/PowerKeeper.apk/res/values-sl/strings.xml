@@ -59,10 +59,12 @@
   <string name="atrace_start">Snemanje atrace zapisa…</string>
   <string name="background">Aplikacija se izvaja v ozadju</string>
   <string name="base_info">Osnovne informacije</string>
+  <string name="checking_intranet">Preverjam intranet povezavo, počakajte...</string>
   <string name="cloud_addr_info">Cloud informacije</string>
   <string name="cloud_china_addr">Posodobi podatke kitajskega strežnika</string>
   <string name="cloud_international_addr">Posodobi podatke mednarodnega strežnika</string>
-     <string name="cloud_russion_addr">Posodobi podatke ruskega strežnika</string>
+  <string name="connect_intranet_hint">Povežite se na intranet</string>
+  <string name="cloud_russion_addr">Posodobi podatke ruskega strežnika</string>
   <string name="cloud_staging_addr">Posodobi podatke strežnika</string>
   <string name="config_classify">Razvrsti po nastavitvah aplikacije</string>
   <string name="config_description">"MIUI lahko prepozna aplikacije s specifičnimi procesi v ozadju (npr. sporočila in aplikacije za navigacijo, media player) in uporabi varčevanje z baterijo tako da ne vpliva bistveno na procese v ozadju."</string>
@@ -84,6 +86,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="current_cloud_addr_is">Naslov Cloud kontrolnega strežnika:</string>
   <string name="dark_mode">Temni način dela</string>
   <string name="dark_mode_summary">Prestavite se na tamno paleto barv za prihranek baterije</string>
+  <string name="delete_data_confirm">Potrdite za brisanje podatkov</string>
   <string name="disable_hide_mode">Izključi Varčevanje baterije</string>
   <string name="disable_hide_mode_warning">Izključitev Varčevanje baterije lahko povzroči večjo porabo energije</string>
   <string name="disabled">Izklj.</string>
@@ -118,6 +121,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="high_temp_state_message">Vaša naprava se pregreva. Mobilni podatki, WiFi hotspoti, GPS in kamera bodo omejeni.</string>
   <string name="hints_loading_text">Nalaganje…</string>
   <string name="important_warning">Pozor</string>
+  <string name="insert_data">Vnesite podatke</string>
   <string name="invalid_size_value">"Ne morem dobiti velikosti paketa."</string>
   <string name="lasttime_applist_cloud">Posodobljene aplikacije:</string>
   <string name="lasttime_feature_cloud">Posodobljena opravila:</string>
@@ -144,6 +148,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="mode_export">Izvozi</string>
   <string name="mode_import">Uvozi</string>
   <string name="mode_settings">Nastavitve</string>
+  <string name="modify_data">Spreminjanje podatkov</string>
   <string name="movie">Film</string>
   <string name="new_group_name">Način uporabnika</string>
   <string name="new_power_checker_title">PowerChecker(novo)</string>
@@ -272,6 +277,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="privacy">Pravila o zasebnosti</string>
   <string name="ragment_sys_listempty">Ni sistemskih aplikacij</string>
   <string name="reading">Način branja</string>
+  <string name="save_data">Shrani podatke</string>
   <string name="scenario_policies_summary">Uporabite različne strategije varčevanja energije za različne scenarije.</string>
   <string name="scenario_policies_title">Pametni scenariji</string>
   <string name="scenario_policies_warmcontrol">Nadzor temperature</string>
@@ -297,6 +303,8 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="sleepmode_privacy_title">Način mirovanja</string>
   <string name="still">Slika</string>
   <string name="sucess">Končano</string>
+  <string name="thermal_cancel">NE</string>
+  <string name="thermal_confirm">DA</string>
   <string name="ui">Standardno</string>
   <string name="update_profile_failture_not_connect_wifi">Posodobitev ni uspela, povežite se na WiFi in poskusite ponovno</string>
   <string name="update_profile_sucess">Posodobitev iz strežnika uspešna</string>
