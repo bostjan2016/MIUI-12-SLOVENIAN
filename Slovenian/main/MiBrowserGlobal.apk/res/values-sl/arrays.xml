@@ -36,6 +36,14 @@
         <item>Navpični pogled</item>
         <item>Vodoravni pogled</item>
     </string-array>
+	<string-array name="setting_home_page_show_list">
+        <item>Spletne strani</item>
+        <item>Mint Igre</item>
+    </string-array>
+    <string-array name="setting_home_page_show_list_code">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="pref_security_do_not_track_keys">
         <item>Vklop</item>
         <item>Samo v načinu brez beleženja zgodovine</item>
