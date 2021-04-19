@@ -151,6 +151,8 @@
     <string name="app_name_miuiwallpaper">Ozadja</string>
     <string name="app_name_screenshot">Posnetki zaslona</string>
     <string name="app_new_version">Najnovejša različica te aplikacije je že nameščena</string>
+     <string name="app_uninstall_description_content">"Brskalnik je sistemska aplikacija. Ko odstranite aplikacijo, ne boste mogli več uporabljati storitev iskanja in brskanja po spletu."</string>
+     <string name="app_uninstall_description_title">Odstranim Brskalnik?</string>
     <string name="app_update_install">Posodobitev je pripravljena za namestitev.</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="application_name">Brskalnik</string>
@@ -1900,7 +1902,6 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
     <string name="setting">Nastavitve</string>
     <string name="setting_app_language">Jezik brskalnika</string>
     <string name="setting_feed_language">Jezik vira vsebine</string>
-	<string name="setting_home_page_show_title">Začetna stran</string>
     <string name="setting_privacy_password">Nastavite vzorec za odklepanje</string>
     <string name="share_image_text">Poglej, kaj sem delil! @MIUI</string>
     <string name="share_page_text">Poglej, kaj sem delil: %1$s @MIUI| %2$s</string>

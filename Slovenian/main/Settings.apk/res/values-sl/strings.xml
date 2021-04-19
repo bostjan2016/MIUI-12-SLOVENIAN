@@ -7604,7 +7604,7 @@ Neuvožene podatke morate ponovno uvoziti."</string>
   <string name="screen_dark_mode_smart_dark_title">Global temni način</string>
   <string name="screen_dark_mode_time_title">Razpored temnega načina</string>
   <string name="screen_effect">Kontrast &amp; barve</string>
-     <string name="screen_enhance_engine_ai_note">"Če želite zagotoviti, da je vaša izkušnja ogleda naravna, ta storitev ne bo delovala, če je slika sestavljena iz osnovnih barv ali če vsebuje napredne prilagoditve."</string>
+     <string name="screen_enhance_engine_ai_note">"%d. Ta storitev nekoliko poveča porabo energije."</string>
      <string name="screen_enhance_engine_ai_note_2">%d. Izboljšate lahko samo slike v galeriji.</string>
      <string name="screen_enhance_engine_ai_note_3">"%d. Ta storitev ne bo delovala, če ste izbrali izvirni barvni zaslon ali uporabili napredne prilagoditve."</string>
      <string name="screen_enhance_engine_ai_open">Izboljšajte slike</string>
@@ -7739,6 +7739,7 @@ Za uporabo pripenjanja aplikacije: \u0009
   <string name="screen_reader_mode_input_type_summary">Izberite kretnjo za aktiviranje vnosa besedila ko je TalkBack vključen</string>
   <string name="screen_reader_mode_input_type_title">Vnos besedila</string>
   <string name="screen_recorder">Posnetek zaslona</string>
+     <string name="screen_recorder_title">Snemalec zaslona</string>
   <string name="screen_resolution_confirm">Ponovno zaženi</string>
   <string name="screen_resolution_dialog_title">Spremeni resolucijo</string>
   <string name="screen_resolution_high_format">Visoka (%1$s)</string>
