@@ -3843,6 +3843,8 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="freeform_guide_notification_drop_down_summary">Pritisnite in držite, nato povlecite navzdol delovno vrstico obvestil</string>
   <string name="freeform_guide_notification_drop_down_title">Odpiranje plavajočih oken</string>
   <string name="freeform_guide_settings">Plavajoče okno</string>
+     <string name="freeform_guide_slide_to_small_freeform_summary">Podrsajte od dna zaslona do zgornjega desnega kota zaslona</string>
+     <string name="freeform_guide_slide_to_small_freeform_title">Drsna v plavajoča okna</string>
   <string name="freeform_guide_slide_up_to_close_summary">Povlecite navzgor iz delovne vrstice plavajočega okna</string>
   <string name="freeform_guide_slide_up_to_close_title">Zapiranje plavajočih oken</string>
   <string name="freeform_vedio_description">"·Pritisnite in zadržite, nato povlecite dol da odprete obvestilo v plavajočem oknu.
@@ -5348,6 +5350,8 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_double_click_key_mode_summary">Zamenjaj dvojni način dela tipke</string>
      <string name="miheadset_double_click_left">Dvakrat tapnite levo slušalko</string>
      <string name="miheadset_double_click_right">Dvakrat tapnite desno slušalko</string>
+     <string name="miheadset_double_press_left">Dvakrat pritisnite levo slušalko</string>
+     <string name="miheadset_double_press_right">Dvakrat pritisnite desno slušalko</string>
      <string name="miheadset_enhanceVoice">Izboljšajte zvok</string>
      <string name="miheadset_enhence_high">povečaj visoko</string>
      <string name="miheadset_enhence_low">povečaj nizko frek</string>
@@ -5411,6 +5415,8 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_transparentMode">Preglednost</string>
      <string name="miheadset_triple_click_key_mode">Trojni tap</string>
      <string name="miheadset_triple_click_key_mode_summary">Zamenjaj trojni način dela tipke</string>
+     <string name="miheadset_triple_press_left">Trikrat pritisnite levo slušalko</string>
+     <string name="miheadset_triple_press_right">Trikrat pritisnite desno slušalko</string>
      <string name="miheadset_unpair_device">Prekličem seznanjanje?</string>
      <string name="miheadset_unpair_device_text">%1$s bo odstranil-a vse naprave povezane s tem Mi Računom</string>
      <string name="miheadset_voiceIncrease">Povečajte glasnost</string>
@@ -7604,7 +7610,7 @@ Neuvožene podatke morate ponovno uvoziti."</string>
   <string name="screen_dark_mode_smart_dark_title">Global temni način</string>
   <string name="screen_dark_mode_time_title">Razpored temnega načina</string>
   <string name="screen_effect">Kontrast &amp; barve</string>
-     <string name="screen_enhance_engine_ai_note">"Če želite zagotoviti, da je vaša izkušnja ogleda naravna, ta storitev ne bo delovala, če je slika sestavljena iz osnovnih barv ali če vsebuje napredne prilagoditve."</string>
+    <string name="screen_enhance_engine_ai_note">"%d. Ta storitev nekoliko poveča porabo energije."</string>
      <string name="screen_enhance_engine_ai_note_2">%d. Izboljšate lahko samo slike v galeriji.</string>
      <string name="screen_enhance_engine_ai_note_3">"%d. Ta storitev ne bo delovala, če ste izbrali izvirni barvni zaslon ali uporabili napredne prilagoditve."</string>
      <string name="screen_enhance_engine_ai_open">Izboljšajte slike</string>
@@ -7739,6 +7745,7 @@ Za uporabo pripenjanja aplikacije: \u0009
   <string name="screen_reader_mode_input_type_summary">Izberite kretnjo za aktiviranje vnosa besedila ko je TalkBack vključen</string>
   <string name="screen_reader_mode_input_type_title">Vnos besedila</string>
   <string name="screen_recorder">Posnetek zaslona</string>
+  <string name="screen_recorder_title">Snemalec zaslona</string>
   <string name="screen_resolution_confirm">Ponovno zaženi</string>
   <string name="screen_resolution_dialog_title">Spremeni resolucijo</string>
   <string name="screen_resolution_high_format">Visoka (%1$s)</string>

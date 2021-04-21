@@ -404,8 +404,10 @@ Avdio"</string>
     <string name="media_category">Predstavnosti</string>
     <string name="media_transfer_this_device_name">Ta naprava</string>
     <string name="media_transfer_wired_device_name">Žična zvočna naprava</string>
-  <string name="media_transfer_wired_usb_device_name">Žične slušalke</string>
-  <string name="missedcall_notification_public_version_title">Telefon</string>
+    <string name="media_transfer_wired_usb_device_name">Žične slušalke</string>
+    <string name="mi_mobile_settings_summary">Podatkovne načrte zagotavlja Xiaomi</string>
+    <string name="mi_mobile_settings_title">Mi Mobilno</string>
+    <string name="missedcall_notification_public_version_title">Telefon</string>
     <string name="mobile_data_always_on">Prenos podatkov v mobilnem omrežju je vedno aktiven</string>
     <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava WiFi (za hiter preklop med omrežji).</string>
     <string name="mock_location_app">Izberite aplikacijo za simulirano lokacijo</string>

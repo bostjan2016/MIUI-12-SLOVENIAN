@@ -32,7 +32,10 @@
      <string name="am">AM</string>
   <string name="app_info">Snemanje, pritisnite za zaustavitev</string>
   <string name="app_name">Snemalec zaslona</string>
+     <string name="app_notification_channel_record_complete">Obvestila o končanih posnetkih</string>
   <string name="app_notification_info">Snemalec zaslona dela v ozadju</string>
+     <string name="app_notification_record_complete">"Posnetek je bil shranjen v galerijo
+Tapni za ogled"</string>
   <string name="app_notification_title">Snemalec zaslona</string>
   <string name="auto_stop_title">Videoposnetek je uspešno shranjen</string>
   <string name="battery_not_allowed" formatted="false">"Ne morem snemati ko je baterija napolnjena manj kot 3%. Preverite ali je baterija polna najmanj 20%."</string>

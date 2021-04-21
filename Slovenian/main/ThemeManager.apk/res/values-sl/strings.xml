@@ -666,6 +666,7 @@ mm"</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Razumem</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"Ne kaži več"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Težave s kompatibilnostjo</string>
+  <string name="multiwindow_no_support_icon">"Med uporabo razdeljenega zaslona ikon ni mogoče spremeniti"</string>
   <string name="my_gifts">Darila</string>
   <string name="my_gifts_purchased">Kupljeno</string>
   <string name="my_gifts_received">Prejeto</string>
