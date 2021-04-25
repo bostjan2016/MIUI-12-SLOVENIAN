@@ -197,7 +197,8 @@
   <string name="btn_earlier_items_progress">Branje nedavnih sporočil…</string>
   <string name="btn_more_items">Preberi več sporočil</string>
   <string name="btn_more_items_progress">Branje več sporočil…</string>
-     <string name="btn_text_edit">Uredi</string>
+  <string name="btn_text_edit">Uredi</string>
+  <string name="btn_text_view_all">Pokaži vse</string>
   <string name="buffering">Nalagam...</string>
   <string name="button_add">Dodaj</string>
   <string name="button_cancel_download">Prekini</string>
@@ -601,10 +602,12 @@ predvsem nudi Ultimate Inc."</string>
   <string name="facebook_not_installed">Najprej namestite Facebook.</string>
   <string name="fail_to_fetch_payment_page_url">"Ne morem dobiti podatkov o plačilu"</string>
   <string name="fail_to_play">Ne morem predvajati skladbe</string>
+  <string name="failed_to_connect_hint">Preverite omrežne nastavitve in poskusite znova</string>
+    <string name="failed_to_connect_text">"Ne morem se povezati na omrežje"</string>
   <string name="failed_not_access_sd_card">Najprej odobrite dostop do SD kartice</string>
   <string name="failed_obtain_permissions">"Ne morem dobiti dovoljenja"</string>
      <string name="fans">Sledilci</string>
-  <string name="fav_login_msg">Prijavite se na svoj Mi Račun za prenos pesmi</string>
+  <string name="fav_login_msg">Prijavite se v svoj Mi Račun za prenos pesmi</string>
   <string name="favorite_canceled">Odstranjeno iz priljubljenih</string>
   <string name="favorite_playlist">Priljubljeno</string>
   <string name="favorite_singer">Priljubljeni pevci</string>
@@ -754,6 +757,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="high_sound_quality">Visoka</string>
   <string name="higher_quality_music">Visoka avdio kvaliteta</string>
   <string name="higher_quality_music_summary">Predvajaj in prenesi datoteke višje bitne hitrosti</string>
+  <string name="hint_search_songs_playlists_artists">Išči pesmi, izvajalce in sezname predvajanja</string>
   <string name="home_tab_home">domov</string>
      <string name="home_tab_joox">JOOX Glasba</string>
   <string name="home_tab_local">Moja glasba</string>
@@ -841,6 +845,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="loadercontainer_loading">Nalaganje…</string>
   <string name="loading">Nalaganje</string>
   <string name="loading_hint">Nalaganje</string>
+  <string name="loading_text">Nalaganje…</string>
   <string name="loading_reached_the_bottom">"To je za zdaj vse."</string>
   <string name="local_header_title">Lokalna glasba</string>
   <string name="local_music">Lokalne pesmi</string>
@@ -1568,6 +1573,7 @@ Bodite Happy"</string>
   <string name="title_online_release">Novo</string>
   <string name="title_online_song">Popularne pesmi</string>
   <string name="title_online_suggest">Morda vam bo všeč</string>
+  <string name="title_recently_played">Nedavno predvajano</string>
   <string name="title_search_history">Zgodovina iskanja</string>
   <string name="title_search_hot">Popularno</string>
   <string name="to_mi_pay">Mi Krediti</string>
