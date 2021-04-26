@@ -307,7 +307,7 @@
   <string name="status_bar_toggle_privacy_mode">Gost</string>
   <string name="status_bar_toggle_quiet_mode">Ne moti</string>
   <string name="status_bar_toggle_reboot">Ponovni zagon</string>
-  <string name="status_bar_toggle_rotate">Vrtenje</string>
+  <string name="status_bar_toggle_rotate">Zakleni postavitev</string>
   <string name="status_bar_toggle_screen_button">Gumbi</string>
   <string name="status_bar_toggle_screenshot">Posnetek zaslona</string>
   <string name="status_bar_toggle_shutdown">Izključi</string>

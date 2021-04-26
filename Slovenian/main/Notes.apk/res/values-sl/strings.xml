@@ -579,10 +579,10 @@ Tapnite + da napravite mapo"</string>
   <string name="repeat_mode_set_item_none">Nikoli</string>
   <string name="repeat_mode_set_item_normal_workday">Pon-Pet</string>
   <string name="repeat_mode_set_item_week">Vsak teden (%s)</string>
-  <string name="repeat_mode_set_item_week_detail">Vsak teden (%s)</string>
+  <string name="repeat_mode_set_item_week_detail">%s</string>
   <string name="repeat_mode_set_item_year">Vsako leto (%s)</string>
-  <string name="repeat_mode_set_item_year_detail">Vsako leto (%s)</string>
-  <string name="repeat_mode_set_item_year_detail_day">dd.MM</string>
+  <string name="repeat_mode_set_item_year_detail">%s</string>
+  <string name="repeat_mode_set_item_year_detail_day">dd.MMM</string>
   <string name="repeat_mode_set_title">Ponovi</string>
   <string name="repeat_mode_week">Vsak teden</string>
   <string name="repeat_mode_year">Vsako leto</string>
