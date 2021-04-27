@@ -177,10 +177,12 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
      <string name="character_counter_overflowed_content_description">Omejitev znakov je presežena %1$d od %2$d</string>
   <string name="checking_client">Preverjanje okolja plačila</string>
      <string name="chip_text">Chip tekst</string>
+     <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
      <string name="copy">Kopiraj</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
+     <string name="early_morning">Jutro</string>
   <string name="error_checking_client">Napaka klienta</string>
      <string name="error_checking_client_tip">"Aktivacijskega okolja ni mogoče preveriti. Dotaknite se, če želite poskusiti znova."</string>
   <string name="error_network_io">Napaka omrežja</string>
@@ -286,6 +288,7 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>
      <string name="search_menu_title">Išči</string>
+     <string name="send">Pošlji</string>
      <string name="sim_activated_failed_msg">"Storitve ni mogoče aktivirati. Dotaknite se, če želite poskusiti znova."</string>
      <string name="sim_unactivated_feature_title">"%s ni aktiviran"</string>
      <string name="sim_unactivated_msg">"Ta storitev ni aktivirana. Tapnite za ponovni poskus."</string>

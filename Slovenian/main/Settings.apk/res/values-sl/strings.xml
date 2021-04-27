@@ -3483,6 +3483,13 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="exterior">Shema barv</string>
     <string name="external_code_size_label">Aplikacija na pogonu USB</string>
     <string name="external_data_size_label">Podatki na pogonu USB</string>
+     <string name="external_ram_dialog_btn_cancel">Kasneje</string>
+     <string name="external_ram_dialog_btn_ok">Ponovni zagon</string>
+     <string name="external_ram_dialog_message">Ponovni zagon naprave za uporabo sprememb.</string>
+     <string name="external_ram_dialog_title">Ponovni zagon naprave</string>
+     <string name="external_ram_summary">"Dodaj %1$s %2$s RAM-a z uporabo shrambe. Uporabite to storitev samo, če je v vaši napravi na voljo dovolj prostora za shranjevanje."</string>
+     <string name="external_ram_title">Razširitev pomnilnika</string>
+     <string name="external_ram_toast">"Razširitve pomnilnika ni mogoče uporabiti zaradi premalo prostora za shranjevanje"</string>
     <string name="external_source_switch_title">Dovoli aplikacije iz tega vira</string>
     <string name="external_source_trusted">Dovoljeno</string>
     <string name="external_source_untrusted">Ni dovoljeno</string>
@@ -6741,6 +6748,8 @@ Pred uporabo preberite in sprejmite %s."</string>
   <string name="permission_mgr">Dovoljenja</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Aplikacije ne bodo vprašale za vaše dovoljenje za dostop do stikov, zgodovine klicev, nastavitev sistema ali kamere in ostalih virov naprave. To lahko vključite v nastavitvah dovoljenj."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Upravitelj dovoljenj</string>
+     <string name="permission_records">Uporaba dovoljenj</string>
+     <string name="permission_records_summary">Povzetek, kako aplikacije uporabljajo dovoljenja</string>
   <string name="permission_settings_summary">Urejajte dovoljenja za lokacijo, prostor za shranjevanje, telefon, sporočila in stike.</string>
   <string name="permission_settings_title">Dovoljenja aplikacij</string>
   <string name="permission_with_SMS_and_MMS">Dovoljenja za SMS in MMS</string>

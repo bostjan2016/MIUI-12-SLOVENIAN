@@ -327,6 +327,7 @@ Avdio"</string>
     <string name="disabled">Onemogočeno</string>
     <string name="disabled_by_admin">Onemogočil skrbnik</string>
     <string name="disabled_by_admin_summary_text">Nadzira skrbnik</string>
+     <string name="do_not_show_again">"Ne kaži več"</string>
     <string name="duplicate_video_call_not_allowed">Več klicev ni mogoče dodati.</string>
     <string name="enable_account_preference_title">Računi za klicanje</string>
     <string name="enable_adb">Odpravljanje težav preko USB-ja</string>
@@ -553,6 +554,11 @@ Avdio"</string>
     <string name="runningservices_settings_summary">Preglejte in nadzorujte storitve, ki so trenutno zagnane</string>
     <string name="runningservices_settings_title">Zagnane storitve</string>
     <string name="saved_network">Shranil(-a): %1$s</string>
+     <string name="scam_cancle">Prekliči</string>
+     <string name="scam_message">"Nastavljate posredovanje klicev. Po tem bo na vse vaše dohodne klice odgovarjala telefonska številka %1$s. Če niste lastnik te številke za posredovanje, lahko tvegate razkritje svojih osebnih podatkov ali ogrožanje varnosti svoje nepremičnine. To storitev uporabljajte previdno."</string>
+     <string name="scam_message_2">**21*Številka za preusmeritev# je koda za preusmeritev klica. Če imate kakršna koli vprašanja, se obrnite na svojega operaterja.</string>
+     <string name="scam_ok">Kliči</string>
+     <string name="scam_title">Opomnik o nevarnosti goljufije</string>
     <string name="screen_zoom_summary_custom">Po meri (%d)</string>
     <string name="screen_zoom_summary_default">Privzeto</string>
     <string name="screen_zoom_summary_extremely_large">Največje</string>

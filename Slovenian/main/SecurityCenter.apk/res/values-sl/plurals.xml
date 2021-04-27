@@ -56,6 +56,14 @@
         <item quantity="other">pred %d minut</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
+     <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d aplikacij</item>
+        <item quantity="one">%d aplikacija</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d aplikacij</item>
+        <item quantity="one">%d aplikacija</item>
+    </plurals>
       <plurals name="app_behavior_desc_allow_minute">
         <item quantity="other">Dovoljeno %2$d krat ob %1$s</item>
         <item quantity="one">Dovoljeno %2$d krat ob %1$s</item>

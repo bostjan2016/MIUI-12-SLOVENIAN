@@ -27,6 +27,7 @@
   <string name="dialog_stop_desc">Ali ste prepričani da želite zaustaviti prenos? Ves prenos bo izgubljen, brez možnosti nadaljevanja. Naslednji poskus prenosa se bo začel od začetka.</string>
   <string name="dialog_stop_title">Ustavim prenos?</string>
   <string name="dialog_twrp">Vaš notranji pomnilnik je šifriran. Po ponovnem zagonu v TWRP vnesite geslo za odklep dešifriranja shrambe vaše naprave.</string>
+     <string name="downgrade_warning">Nazadovanje preko OTA je zaznano in blokirano! S tem bi lahko uničili sistem!</string>
      <string name="download_cancel">Prekliči</string>
      <string name="download_done">Uspešno prenešeno!</string>
      <string name="download_fail">Napaka med prenosom!</string>

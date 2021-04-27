@@ -58,6 +58,7 @@
   <string name="carrier_introduction">"Za izboljšanje storitev lahko vaša naprava občasno pošilja informacije o verziji naprave, identifikacijske podatke naprave (vključno IMEI/IMSI/MSISDN/MAC naslov, MEID/ICCID) in približne informacije o lokaciji (vključno ID bazne postaje) mobilnemu operaterju preko WiFi-ja, mobilnih omrežij ali brezplačnega SMS-a. Operater obljublja da bo analiziral podatke samo zaradi izboljšanja kvalitete storitev ali nudenja prilagojenih storitev ali tehnologij in jih ne bo dal na vpogled tretjim osebam. Specifična izjava operaterja mora držati. Posvetujte se z operaterjem glede stroškov te storitve."</string>
      <string name="clearable_edittext_clear_description">Očisti</string>
   <string name="clock_introduction">Aplikacijo lahko uporabite za prikaz časa, uporabo časovnika, svetovne ure, štoparice, nastavljanje alarma in še več.</string>
+     <string name="close">Zapri</string>
   <string name="close_location_service_setting">Dostop do lokacije lahko izključiti v Nastavitve &gt; Dodatne nastavitve &gt; Zasebnost ali pa omejite dovoljenja posameznim aplikacijam v aplikaciji Varnost.</string>
   <string name="cm_terms_content">"Z namenom izboljšanja storitev ki vam jih ponuja operater mobilnega omrežja po vaši izbiri lahko prebere vaše osebne podatke in informacije o tej napravi na svojih strežnikih ki uporabljajo Wifi omrežje ali mobilno podatkovno povezavo. Informacije se bodo uporabile izključno v statistične namene da bi se izboljšala kvaliteta storitev in da vam ponudi več osebnih vsebin. Podatki se ne bodo uporabljali za vašo osebno identifikacijo in ne bodo dani na vpogled tretjim osebam."</string>
   <string name="cm_terms_title">Sporazum operaterja mobilnega omrežja</string>
@@ -163,6 +164,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne morem naložiti"</string>
+     <string name="mobile_network">Uporaba mobilnih podatkov</string>
      <string name="monday">Ponedeljek</string>
      <string name="monday_short">Pon</string>
      <string name="monday_shortest">P</string>
@@ -329,6 +331,7 @@
      <string name="search_menu_title">Išči</string>
   <string name="security_introduction">S to aplikacijo lahko očistite smeti iz naprave, najdete in onemogočite viruse, optimizirate zmogljivost iger, varčujete z baterijo, urejate aplikacije, dovoljenja in še več.</string>
   <string name="security_mobile_account_introduction">Za prijavo in upravljanje sistemskih računov</string>
+     <string name="send">Pošlji</string>
   <string name="service_agreement">"Prebral sem in se strinjam."</string>
   <string name="service_name_MIUIDaemon">MIUI Daemon</string>
   <string name="service_name_album">Galerija</string>

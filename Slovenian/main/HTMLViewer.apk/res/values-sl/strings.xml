@@ -36,6 +36,7 @@
   <string name="app_version_which_call">Verzija: %s</string>
   <string name="autoconnect">Samod. poveži</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
+     <string name="close">Zapri</string>
      <string name="copyright">Avtorske pravice</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
@@ -133,10 +134,12 @@
   <string name="pre_installed_apps">Prednameščene aplikacije</string>
      <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="privacy_station_title">Zasebnost v Xiaomi</string>
+     <string name="sar">Informacije o izpostavljenosti RF</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>
      <string name="search_menu_title">Išči</string>
+     <string name="send">Pošlji</string>
   <string name="settings_ad_loading">Samo trenutek…</string>
   <string name="settings_ad_loading_unavailable">"Ne morem prenesti."</string>
   <string name="settings_license_activity_loading">Samo trenutek…</string>
