@@ -5410,6 +5410,7 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_moreSettingsInAi">Dodatne nastavitve</string>
      <string name="miheadset_multi_connect_mode">Večtočkovno</string>
      <string name="miheadset_multi_connect_mode_summary">Povežite se z več napravami hkrati</string>
+     <string name="miheadset_network_not_available">Preverite omrežne nastavitve in poskusite znova</string>
      <string name="miheadset_next">naprej</string>
      <string name="miheadset_ok_device">V redu</string>
      <string name="miheadset_openAnc">Preklic hrupa</string>

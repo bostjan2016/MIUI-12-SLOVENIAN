@@ -543,6 +543,9 @@ in za trenutek zapustite pregled"</string>
   <string name="custom_watermark_words_save_success">Uspešno shranjeno</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
+     <string name="dd_f_t">Za snemanje zaprite telefon</string>
+     <string name="dd_frn_f_t">Zložite napravo, da uporabite sprednjo kamero</string>
+     <string name="dd_unf_t">Odprite telefon in fotografirajte z zunanjim zaslonom</string>
   <string name="delete">Izbriši</string>
   <string name="deleted">Izbrisano</string>
   <string name="description">Opis</string>
@@ -657,6 +660,7 @@ skenirane dokumente samodejno"</string>
   <string name="error_app_unsupported_hfr_codec">"Samo H264 video kodiranje ni podprto ko je HFR vključen"</string>
   <string name="error_app_unsupported_raw_wavelet">Wavelet denoise ne bo deloval pri snemanju RAW slike</string>
   <string name="error_fail_to_start_audio_capture">"Ne morem zagnati snemanja zvoka"</string>
+     <string name="esp_tip">Predogled zunanjega zaslona</string>
      <string name="evening">Večer</string>
   <string name="expand_button_title">Napredno</string>
      <string name="extend_time_watermark_2_logo_text">SUPERMESEC</string>
@@ -1344,7 +1348,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_eis_entry_off">Izključeno</string>
   <string name="pref_camera_eis_entry_pro">EIS Pro EIS je vključen</string>
   <string name="pref_camera_eis_title">EIS</string>
-     <string name="pref_camera_esp">predogled</string>
+     <string name="pref_camera_esp">Predogled zadnjega zaslona</string>
   <string name="pref_camera_exposuretime_entry_0.5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -1599,6 +1603,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_touchafaec_entry_off">Izključeno</string>
   <string name="pref_camera_touchafaec_entry_on">Vključeno</string>
   <string name="pref_camera_touchafaec_title">Pritisni AF/AEC</string>
+     <string name="pref_camera_track_focus_preferred_description">"Vklopite, da se samodejno osredotočite na ljudi in živali. Predmete za sledenje boste lahko izbrali tudi ročno."</string>
+     <string name="pref_camera_track_focus_preferred_title">Sledenje žarišču</string>
   <string name="pref_camera_ubifocus_title">Refocus</string>
   <string name="pref_camera_ultra_wide_ldc_description">Samodejno popravi izobličene objekte</string>
   <string name="pref_camera_ultra_wide_ldc_title">Popravi izobličenje v širokokotnih posnetkih</string>
@@ -1790,11 +1796,15 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="prek_b_j_o">Ponovno ustvari stereo prostorski učinek</string>
      <string name="prek_b_j_p">Zmanjšaj vpliv vetra na snemanje zvoka</string>
      <string name="prep_video_ai_audio_new_desc_tip">Zvoki iz izostrenega motiva so izboljšani</string>
+     <string name="prep_video_ai_audio_new_desc_tip_alone">Zvoki iz ostrenega motiva so izboljšani v ležečem načinu</string>
      <string name="prep_video_ai_audio_single_desc_tip">Zvoki izza zaslona se filtrirajo</string>
-     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Zvočni zoom ne deluje z monitorjem v ušesu in zunanjim mikrofonom v živo"</string>
+     <string name="prep_video_ai_audio_single_desc_tip_alone">Zvoki izza zaslona se filtrirajo v ležečem načinu</string>
+     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Zvočni zoom ne deluje z vgrajenim monitorjem v ušesu in zunanjim mikrofonom"</string>
   <string name="preparing_sd">Pripravljam notranji pomnilnik…</string>
   <string name="preview_back_pressed_hint">Tapnite ponovno za vrnitev na pregled</string>
   <string name="pro_color_mode">Pro barva</string>
+     <string name="process_tips_1">"Naprave ne zložite, dokler se video ne shrani"</string>
+     <string name="process_tips_2">"Naprave ne odpirajte, dokler se video ne shrani"</string>
   <string name="professional_shortcut_long">Pro</string>
   <string name="professional_shortcut_short">Pro</string>
   <string name="qq_details">QQ podrobnosti:</string>

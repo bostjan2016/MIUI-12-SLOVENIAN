@@ -478,6 +478,10 @@
      <string name="cloud_bacup_disable_processing">Obdelava…</string>
   <string name="cloud_camera_display_name">Fotografije kamere</string>
   <string name="cloud_cancel_authorizing_to_device">Preklic avtorizacije…</string>
+     <string name="cloud_full_space_tip_message">Nadgradite načrt za shranjevanje v oblaku, da boste lahko v oblak sinhronizirali vse svoje fotografije in videoposnetke.</string>
+     <string name="cloud_full_space_tip_negative">Ne zdaj</string>
+     <string name="cloud_full_space_tip_positive">Nadgradi</string>
+     <string name="cloud_full_space_tip_title">Premalo prostora v oblaku</string>
   <string name="cloud_guide_auto_backup_title">Izberite albume za sinhronizacijo</string>
   <string name="cloud_guide_login_title">Samodejno izdelaj var. kopijo fotografij in videoposnetkov</string>
   <string name="cloud_guide_slim_text">Samodejno izdelaj var. kopijo. Prihranite več od 90% prostora z zmanjševanjem.</string>
@@ -1419,6 +1423,7 @@ za fotografije"</string>
      <string name="mi_mover_working_desc">Mi Mover prenaša stvari…</string>
   <string name="micloud_introduce">Samodejno sinhroniziraj fotografije in videoposnetke (potreben je Mi Račun)</string>
   <string name="midnight">AM</string>
+     <string name="mishare_all_devices">Vse naprave</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
@@ -2094,7 +2099,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="search_backup_now">Vključi</string>
   <string name="search_backup_sub_title">Vključite da boste našli več slik</string>
   <string name="search_backup_title">Sinhr. z Mi Cloudom</string>
-  <string name="search_clear_histories">Očisti</string>
+  <string name="search_clear_histories">Izbriši zgodovino iskanja</string>
   <string name="search_connection_error">"Ne morem se povezati na omrežje"</string>
   <string name="search_connection_error_and_set">Pritisnite za kontrolo omrežnih nastavitev</string>
   <string name="search_empty_title">Najdi fotografije z določenimi ljudmi, mesti in objektivi v galeriji</string>
@@ -2377,6 +2382,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="sync_off_title">Vključite sinhr. z Mi Cloudom da samodejno izdelate var. kopiranje fotografij in videoposnetkov</string>
   <string name="sync_pending_title">Sinhronizirano bo samodejno</string>
   <string name="sync_state_unknow">Dobivanje informacij</string>
+     <string name="synced_photo_video_count">Sinhronizirano %1$s in %2$s</string>
   <string name="synced_title">Fotografije in videoposnetki so uspešno shranjeni</string>
   <string name="syncing_gprs_title">Uporaba mobilnih podatkov za var. kopiranje</string>
   <string name="syncing_metadata_title">Sinhronizacija Mi Cloud podatkov</string>

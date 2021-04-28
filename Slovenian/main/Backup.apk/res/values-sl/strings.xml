@@ -32,6 +32,8 @@
   <string name="account_contact_backup_info">Google račun, Mi račun in stiki</string>
   <string name="account_login">Vpis</string>
   <string name="account_summary">Varnostno kopiraj Google račun, Mi račun in ostale podatke</string>
+     <string name="actionbar_button_up_description">Nazaj</string>
+     <string name="afternoon">Popoldne</string>
   <string name="alert_button_agree_and_continue">Dovoli</string>
   <string name="alert_button_deny">Zavrni</string>
   <string name="alert_message_backup_to_miasist">Mi PC Suite zahteva dovoljenje za izdelavo Var. kopije na računalniku. Dovolim?</string>
@@ -43,6 +45,7 @@
   <string name="alert_title_backup_to_miasist">Izdelam Var. kopijo z uporabo Mi PC Suite?</string>
   <string name="alert_title_restore_from_miasist">Vrnem podatke na vaš telefon?</string>
   <string name="already_enable_encrypt">Šifriranje je že vključeno</string>
+     <string name="am">AM</string>
   <string name="app_name">Varnostna kopija</string>
   <string name="apps_and_data_item_desc">Aplikacije in podatki</string>
   <string name="auto_backup">Načrtuj varnostno kopiranje</string>
@@ -107,6 +110,7 @@ nastavitev in aplikacij"</string>
   <string name="cancel_restore">Ustavi</string>
   <string name="click_soft_ap_to_link">Izberite hotspot za povezovanje</string>
   <string name="click_to_view">Dotaknite se za pregled</string>
+     <string name="close">Zapri</string>
   <string name="close_twice_auth_btn">Izključite autorizacijo z dvema faktorjema</string>
      <string name="close_twice_auth_note">"Beležka:
 Ko napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dvojne avtentifikacije izključeno. Če ne vidite opcije izključitve dvojne prveerbe avtentičnosti na strani računa Apple ID, je ne morete izključiti."</string>
@@ -148,6 +152,8 @@ https://appleid.apple.com/#!&amp;page=signin da zaprete"</string>
   <string name="data_item_desc">Podatki</string>
   <string name="data_no_enough_space_message">Na vaši napravi ni dovolj notranjega pomnilnika.</string>
   <string name="date_format">HH:mm:ss dd.MM.yyyy</string>
+     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
   <string name="delete">Odstrani</string>
   <string name="delete_backup_process">Odstranjujem...</string>
   <string name="delete_backup_title">Izbriši var. kopijo</string>
@@ -166,6 +172,7 @@ https://appleid.apple.com/#!&amp;page=signin da zaprete"</string>
   <string name="dir_date_format">ddMMyyyy_HHmmss</string>
   <string name="disable_encrypt_description">Ni šifrirano</string>
   <string name="disable_encrypt_title">Izklopi šifriranje</string>
+     <string name="early_morning">Jutro</string>
   <string name="enable_encrypt">Vklopi šifriranje</string>
   <string name="enable_encrypt_description">Šifriraj</string>
   <string name="enable_encrypt_fail">Napaka šifriranja</string>
@@ -192,6 +199,7 @@ https://appleid.apple.com/#!&amp;page=signin da zaprete"</string>
   <string name="err_version_too_old">Var. kopija je prestara.</string>
   <string name="err_version_unsupported">"Verzija var. kopije ni podprta."</string>
   <string name="error_permissions">"Ta aplikacija nima dovoljenja za dostop do koledarja. Pojdite v nastavitve in preverite dovoljenja za nadaljevanje."</string>
+     <string name="evening">Večer</string>
   <string name="every_day">Vsak dan</string>
   <string name="exchange_account">Zamenjaj račun</string>
   <string name="expand_button_title">Napredno</string>
@@ -216,6 +224,9 @@ Preverite mali ima USB naprava dovolj prostora."</string>
   <string name="flash_drive_restore_btn">Povrni var. kopijo iz USB naprave</string>
   <string name="flash_drive_search_backup_files">"Iskanje var. kopije v USB napravi…
 Ne menjajte ali preimenujte datotek var. kopije."</string>
+     <string name="friday">Petek</string>
+     <string name="friday_short">Pet</string>
+     <string name="friday_shortest">P</string>
   <string name="gallery_summary">Nastavitve galerije (ne vključuje fotografij)</string>
   <string name="guarded_mode_dialog_backup_message">Izdelava var.kopije ni dovoljena v načinu dela Gost.</string>
   <string name="guarded_mode_dialog_title">Ste v načinu Gosta</string>
@@ -307,8 +318,23 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="login">Prijava</string>
   <string name="login_failed">Ne morem se prijaviti. Poskusite ponovno.</string>
   <string name="logining">Prijava…</string>
+     <string name="midnight">Noč</string>
   <string name="miliao_account_guide">Uporabite svoj Mi račun da se prijavite v Mi Cloud, MIUI Teme in druge storitve Mi.</string>
   <string name="miliao_account_login">Prijavi se v Mi Talk</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
+     <string name="miuix_appcompat_cancel_description">Prekliči</string>
+     <string name="miuix_appcompat_confirm_description">Potrdi</string>
+     <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
+     <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
+     <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -318,6 +344,47 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Osveževanje</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ni uspelo</string>
   <string name="mms_title">MMS sporočanje</string>
+     <string name="monday">Ponedeljek</string>
+     <string name="monday_short">Pon</string>
+     <string name="monday_shortest">P</string>
+     <string name="month_april">April</string>
+     <string name="month_april_short">Apr</string>
+     <string name="month_april_shortest">A</string>
+     <string name="month_august">Avgust</string>
+     <string name="month_august_short">Avg</string>
+     <string name="month_august_shortest">A</string>
+     <string name="month_december">December</string>
+     <string name="month_december_short">Dec</string>
+     <string name="month_december_shortest">D</string>
+     <string name="month_february">Februar</string>
+     <string name="month_february_short">Feb</string>
+     <string name="month_february_shortest">F</string>
+     <string name="month_january">Januar</string>
+     <string name="month_january_short">Jan</string>
+     <string name="month_january_shortest">J</string>
+     <string name="month_july">Julij</string>
+     <string name="month_july_short">Jul</string>
+     <string name="month_july_shortest">J</string>
+     <string name="month_june">Junij</string>
+     <string name="month_june_short">Jun</string>
+     <string name="month_june_shortest">J</string>
+     <string name="month_march">Marec</string>
+     <string name="month_march_short">Mar</string>
+     <string name="month_march_shortest">M</string>
+     <string name="month_may">Maj</string>
+     <string name="month_may_short">Maj</string>
+     <string name="month_may_shortest">M</string>
+     <string name="month_november">November</string>
+     <string name="month_november_short">Nov</string>
+     <string name="month_november_shortest">N</string>
+     <string name="month_october">Oktober</string>
+     <string name="month_october_short">Okt</string>
+     <string name="month_october_shortest">O</string>
+     <string name="month_september">September</string>
+     <string name="month_september_short">Sep</string>
+     <string name="month_september_shortest">S</string>
+     <string name="more">Več</string>
+     <string name="morning">Jutro</string>
   <string name="multi_select_title">Izbrano: %1$s</string>
   <string name="multi_user_mode_backup_message">"Ne morem uporabiti Si. kopijo v Multi-uporabniškem načinu. Izključite Multi-uporabniški način za nadaljevanje."</string>
   <string name="multi_user_mode_dialog_message">"Ne morem uporabljati Mi Mover v načinu dela Gost. Izključite Multi-uporabnik način za nadaljevanje."</string>
@@ -373,8 +440,10 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="new_usb_select_data_no_space">Samo %s prostora je na voljo na vašem USB pogonu. Sprostite nekaj prostora.</string>
   <string name="new_usb_tab_backup">Napravite var. kopijo na USB pogon</string>
   <string name="new_usb_tab_restore">Vrni iz USB pogona</string>
+     <string name="night">Večer</string>
   <string name="no_encrypt_password">Brez gesla</string>
   <string name="no_network">"Ne morem se povezati na omrežje."</string>
+     <string name="noon">Poldan</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="note_title">Beležke</string>
   <string name="nothing_searched">Ni zadetkov</string>
@@ -426,6 +495,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="platform_chooser_item_android_others">Ostale znamke</string>
   <string name="platform_chooser_item_ios">Uvozi iz naprave Apple</string>
   <string name="platform_chooser_title">Izberite staro napravo</string>
+     <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="progress_backup_hint">Izdelava var. kopije…</string>
   <string name="progress_restore_hint">Obnavljam iz var. kopije…</string>
@@ -454,6 +524,9 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="retry">Poskusite znova</string>
   <string name="reverse_all">Prekliči izbrano</string>
   <string name="router_backup_hint">Ne ugasnite naprave</string>
+     <string name="saturday">Sobota</string>
+     <string name="saturday_short">Sob</string>
+     <string name="saturday_shortest">S</string>
      <string name="save_finish_with_failing_items">"Prenos je prekinjen.\r
 Podatki ki niso uvoženi bodo morali biti ponovno uvoženi."</string>
   <string name="saving_data">"Uvoz podatkov iz iClouda…
@@ -489,6 +562,7 @@ Podatki ki niso uvoženi bodo morali biti ponovno uvoženi."</string>
   <string name="select_item_summary_loading">Nalaganje podatkov…</string>
   <string name="select_item_summary_wait">Čakanje…</string>
   <string name="select_storage_location">Izberite lokacijo var. kopije</string>
+     <string name="send">Pošlji</string>
   <string name="service_stoped">Storitev je zaustavljena</string>
   <string name="settings_summary">"Nastavitve telefona in sporočil</string>
   <string name="size_byte">B</string>
@@ -511,6 +585,9 @@ Podatki ki niso uvoženi bodo morali biti ponovno uvoženi."</string>
   <string name="summary_err_backup_no_network">"Ne morem se povezati na omrežje"</string>
   <string name="summary_err_restore_encrypting">"Ne morem vrniti. Preverite ali je ta var. kopija napravljena z uporabo vašega Mi Računa."</string>
   <string name="summary_err_restore_no_network">"Ne morem se povezati na omrežje"</string>
+     <string name="sunday">Nedelja</string>
+     <string name="sunday_short">Ned</string>
+     <string name="sunday_shortest">N</string>
   <string name="system_backup">Varnostno kopiraj</string>
   <string name="system_backup_info">Sistemske nastavitve in nastavitev domačega zaslona</string>
   <string name="task_backup_cancel_progress">Ustavljanje...</string>
@@ -540,6 +617,14 @@ Podatki ki niso uvoženi bodo morali biti ponovno uvoženi."</string>
   <string name="task_running_restore_hint">To opravilo že teče v ozadju.</string>
   <string name="task_service_not_launched">Opravilo se še ni začelo</string>
   <string name="task_stopped_exception">Obnovitev preklicana</string>
+     <string name="thursday">Četrtek</string>
+     <string name="thursday_short">Čet</string>
+     <string name="thursday_shortest">Č</string>
+     <string name="time_picker_dialog_title">Nastavi čas</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
+     <string name="today">Danes</string>
+     <string name="tomorrow">Jutri</string>
   <string name="total_size">, %s</string>
   <string name="trans_backingup">Izdelava var. kopije …</string>
   <string name="trans_backingup_no_items">Sinhr. …</string>
@@ -670,10 +755,11 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_operate_old_phone_tips1">"1. namestite aplikacijo Mi Mover na vaši drugi napravi 
      2. Odprite aplikacijo in tapnite Start 
      3. Skenirajte QR kodo z vašo drugo napravo"</string>
-  <string name="trans_operate_old_phone_tips2">Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover.
-    Dotaknite se [Sem pošiljatelj]"</string>
-  <string name="trans_operate_reconnect_new_tips">"Počakajte da novi telefon pokaže "Povezava je prekinjena".\n  Nato pritisnite "Ponovno poveži" za izdelavo QR kode."</string>
-  <string name="trans_operate_reconnect_old_tips">"Počakajte da stari telefon pokaže "Povezava je prekinjena".\n Nato pritisnite "Ponovno poveži" in skenirajte QR kodo."</string>
+  <string name="trans_operate_old_phone_tips2">"Pojdite v Nastavitve > Dodatne nastavitve > Mi Mover, Tapnite [Sem pošiljatelj]"</string>
+  <string name="trans_operate_reconnect_new_tips">"Počakajte da novi telefon pokaže "Povezava je prekinjena".  
+ Nato pritisnite "Ponovno poveži" za izdelavo QR kode."</string>
+  <string name="trans_operate_reconnect_old_tips">"Počakajte da stari telefon pokaže "Povezava je prekinjena".
+  Nato pritisnite "Ponovno poveži" in skenirajte QR kodo."</string>
   <string name="trans_operate_tip_for_other_android">Odprite Mi Mover na vašem starem telefonu, tapnite \"Začetek\" in skenirajte QR kodo.</string>
   <string name="trans_pausing">Premor…</string>
   <string name="trans_please_waiting">Samo trenutek…</string>
@@ -743,6 +829,9 @@ Vam je všeč Mi Mover?"</string>
   <string name="trans_waiting_for_sender">Čakanje povezovanja druge naprave…</string>
   <string name="trans_wlan_tips_message">"Ne izključite niti zamenjajte WiFi med prenosom podatkov. Drugače Mi Mover ne bo mogel pošiljati podatke."</string>
   <string name="trans_wlan_tips_title">"Ne izključite niti zamenjajte WiFi med prenosom podatkov"</string>
+     <string name="tuesday">Torek</string>
+     <string name="tuesday_short">Tor</string>
+     <string name="tuesday_shortest">T</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" stvari"</string>
   <string name="unknown_hint">Nepoznan</string>
@@ -770,6 +859,9 @@ Ne zapuščajte te strani dokler se povezava ne vzpostavi. "
 Tapnite \"Sem pošiljatelj\" in izberite hotspot za povezovanje.
 Ne zaprite te strani dokler se povezava ne vzpostavi."</string>
   <string name="waiting">Samo trenutek……</string>
+     <string name="wednesday">Sreda</string>
+     <string name="wednesday_short">Sre</string>
+     <string name="wednesday_shortest">S</string>
   <string name="wifi_title">WiFi nastavitve</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne morem začeti s prenosom. Preverite ali upravitelj prenosov deluje normalno."</string>
   <string name="xiaomi_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
@@ -780,4 +872,5 @@ Ne zaprite te strani dokler se povezava ne vzpostavi."</string>
   <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verzijo %1$s  
   Velikost Delta posodobitve: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Na voljo je nova posodobitev!</string>
+     <string name="yesterday">Včeraj</string>
 </resources>

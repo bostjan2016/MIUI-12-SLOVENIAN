@@ -386,6 +386,7 @@
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_close">Tapni za zapiranje</string>
   <string name="clip_dialog_title">Pokličem kopirano številko?</string>
+     <string name="close">Zapri</string>
   <string name="close_dial_pad_description">Zapri številčnico</string>
   <string name="cloud_antispam_mark">Prijavi</string>
   <string name="cloud_antispam_marked">Prijavljeno</string>
@@ -533,6 +534,7 @@ Mi gostovanje se mora za normalno delovanje povezati s spletom in dostopati do i
   <string name="data_unit_mb">MB</string>
   <string name="date_picker_label">Spomni me 3 dni prej in na ta dan</string>
   <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="date_time_set">Nastavi</string>
   <string name="date_year_toggle">Preklopi leto</string>
   <string name="default_ringtone">"Privzeta melodija zvonjenja"</string>
@@ -1115,10 +1117,13 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"<
   <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
   <string name="miuix_appcompat_confirm_description">Potrdi</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči</string>
   <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
   <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
   <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sb_tracking_progress_labe_refreshed">Osveženo</string>
   <string name="miuix_sb_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -1604,6 +1609,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="select_none">Nič ni izbrano</string>
   <string name="select_show_contacts">Seznam stikov</string>
   <string name="select_vcard_title">"Izberi vCard datoteko"</string>
+     <string name="send">Pošlji</string>
   <string name="send_contact_shortcut_todesktop_duplicate">Ta bližnjica že obstaja</string>
   <string name="send_contact_shortcut_todesktop_failed">"Ne morem napraviti bližnjice na zač. zaslon"</string>
   <string name="send_contact_shortcut_todesktop_overflow">"Ne morem napraviti več bližnjic na zač. zaslon"</string>

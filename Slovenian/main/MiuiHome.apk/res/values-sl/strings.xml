@@ -216,6 +216,7 @@
   <string name="custom_wallpaper_picker">Po meri</string>
   <string name="defalut_launcher_title">Privzeti zaganjalnik</string>
   <string name="default_folder_title_game">Igre</string>
+     <string name="default_folder_title_hot">Popularne aplikacije</string>
   <string name="default_folder_title_meitu">Meitu aplikacije</string>
   <string name="default_folder_title_microsoft">Microsoft</string>
   <string name="default_folder_title_other_apps">Ostale aplikacije</string>
@@ -230,6 +231,7 @@
   <string name="delete_screen">Izbriši zaslon</string>
   <string name="delete_wallpaper_message">Izbrišem sliko za ozadje: %1$d?</string>
   <string name="delete_wallpapers_message">Izbrišem slike za ozadje: %1$d?</string>
+     <string name="deleted_system_applications">Odstranjene sistemske aplikacije</string>
   <string name="deselect_all">Prekliči izbrano</string>
      <string name="dialog_work_profile_button_1">Naprej</string>
      <string name="dialog_work_profile_button_2">Razumem</string>

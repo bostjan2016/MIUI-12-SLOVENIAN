@@ -431,6 +431,10 @@
      <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d stvari izbrano</item>
         <item quantity="one">%d stvar izbrana</item>
+     </plurals>
+     <plurals name="photo_count">
+        <item quantity="other">%d fotografij</item>
+        <item quantity="one">%d fotografija</item>
     </plurals>
      <plurals name="search_feedback_done_mark_and_contribute_false_positive">
          <item quantity="other">Odstranjeno %1$d fotografij iz \"%2$s\" in dodano v bazo podatkov.</item>
@@ -552,6 +556,10 @@
         <item quantity="other">%1$d datotek</item>
         <item quantity="one">%1$d datoteka</item>
      </plurals>
+     <plurals name="synced_photo_count">
+        <item quantity="other">Sinhronizirano %d fotografij</item>
+        <item quantity="one">Sinhronizirana %d fotografija</item>
+     </plurals>
 	 <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">"Ne boste mogli vrniti izbrane stvari (%d) če jih izbrišete. Izbrišem vseeno?"</item>
         <item quantity="one">"Ne boste mogli vrniti %d izbrano stvar če jo izbrišete. Izbrišem vseeno?"</item>
@@ -572,4 +580,8 @@
         <item quantity="other">Stvari so lahko shranjene do %1$d dni. Nadgradite svoj plan za podaljšanje obdobja.</item>
         <item quantity="one">Stvari so lahko shranjene %1$d dan. Nadgradite svoj plan za podaljšanje obdobja.</item>
     </plurals>
+     <plurals name="videos_count">
+        <item quantity="other">%d videoposnetkov</item>
+        <item quantity="one">%d videoposnetek</item>
+     </plurals>
 </resources>
