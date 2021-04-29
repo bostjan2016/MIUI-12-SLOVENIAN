@@ -48,12 +48,12 @@
         <item quantity="one">Še %1$d hr %2$d min. do polne baterije</item>
      </plurals>
 	 <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Potrebno je vnesti geslo čez %d h neaktivnosti</item>
-        <item quantity="one">Potrebno je vnesti geslo čez %d h neaktivnosti</item>
+        <item quantity="other">Geslo vnesite vsaj enkrat na %d ur, da si ga vedno zapomnite</item>
+        <item quantity="one">Geslo vnesite vsaj enkrat na %d uro, da si ga boste vedno zapomnili</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Potrebno je narisati vzorec čez %d h neaktivnosti</item>
-        <item quantity="one">Potrebno je narisati vzorec čez %d h neaktivnosti</item>
+        <item quantity="other">Vzorec vnesite vsaj enkrat na %d ur, da si ga vedno zapomnite</item>
+        <item quantity="one">Vzorec vnesite vsaj enkrat na %d uro, da si ga boste vedno zapomnili</item>
     </plurals>
      <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Ostalo še %d ur</item>

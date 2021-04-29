@@ -172,7 +172,7 @@
     <string name="adb_paired_devices_title">Seznanjene naprave</string>
     <string name="adb_pairing_device_dialog_failed_msg">Preverite, ali je naprava povezana v isto omrežje.</string>
     <string name="adb_pairing_device_dialog_failed_title">Seznanjanje neuspešno</string>
-    <string name="adb_pairing_device_dialog_pairing_code_label">Koda za seznanjanje po Wi‑Fi-ju</string>
+    <string name="adb_pairing_device_dialog_pairing_code_label">Koda za seznanjanje po WiFi-ju</string>
     <string name="adb_pairing_device_dialog_title">Seznanitev z napravo</string>
     <string name="adb_qrcode_pairing_device_failed_msg">Seznanitev naprave ni uspela. Koda QR je nepravilna ali pa naprava ni povezana v isto omrežje.</string>
   <string name="adb_warning_message">Odpravljanje težav preko USB-a je namenjeno samo razvijalcem. Lahko se uporabi za kopiranje podatkov z računalnika na napravo in obratno, namestitev aplikacij na napravo brez obvestil in za branje dnevniških zapisov.</string>

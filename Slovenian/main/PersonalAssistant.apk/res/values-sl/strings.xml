@@ -138,6 +138,7 @@
     <string name="app_display_setting_edit_toast">Ta naslov je predolg</string>
     <string name="app_display_setting_title">Zamenjaj naslov</string>
      <string name="app_download_failure">Prenos ni uspel</string>
+	<string name="app_first_loading_txt">Nalagam…</string>
     <string name="app_health_card_completion">Cilj</string>
      <string name="app_health_card_energy">Kalorije</string>
     <string name="app_health_card_step">"Današnji koraki:"</string>
