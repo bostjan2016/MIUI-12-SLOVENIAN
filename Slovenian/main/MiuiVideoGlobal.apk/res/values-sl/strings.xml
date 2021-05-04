@@ -14,7 +14,7 @@
     <string name="abc_capital_on">VKLOPLJENO</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
-    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_delete_shortcut_label">Izbriši</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
     <string name="abc_menu_function_shortcut_label">Fn +</string>
     <string name="abc_menu_meta_shortcut_label">Meta +</string>
@@ -68,6 +68,7 @@
   <string name="account_user_region">Regija</string>
   <string name="action_add_phone">Dodaj številko telefona</string>
   <string name="action_update_phone">Zamenjaj številko telefona</string>
+     <string name="actionbar_button_up_description">Nazaj</string>
   <string name="activate_email_notice">Poskrbite za aktivacijo uporabniškega računa v roku 24 ur</string>
   <string name="activity_not_found_notice">"Ne morem najti aplikacije"</string>
      <string name="ad">Ad</string>
@@ -82,6 +83,7 @@
     <string name="add_search_channel_tip">Na željeni spletni strani poiščite \"%s\", ter kopirajte in zalepite povezavo tukaj.</string>
     <string name="add_to_trust_device">To je zaupanja vredna naprava</string>
     <string name="add_website">Dodaj spletno stran</string>
+     <string name="afternoon">Večer</string>
     <string name="agree">Strinjam se</string>
     <string name="agree_and_continue">Strinjam se</string>
     <string name="ai_animation_music_text">AI zvočni zapis</string>
@@ -101,6 +103,7 @@
     <string name="alert_dialog_download_prepare">Pripravljanje za prenos…</string>
     <string name="alert_dialog_download_progress">"Prenašanje aplikacije: "</string>
   <string name="all">Pokaži vse</string>
+     <string name="am">AM</string>
      <string name="app_description_content">"Mi Video je sistemska aplikacija, ki vsebuje lokalni video predvajalnik. Ko odstranite bližnjico na začetnem zaslonu, boste še vedno lahko predvajali video datoteke."</string>
      <string name="app_description_title">Odstranim \"Mi Video\" iz zač. zaslona?</string>
     <string name="app_name">Mi Video</string>
@@ -164,8 +167,10 @@
     <string name="choose">Izberi</string>
     <string name="choose_to_signin">Da</string>
     <string name="choose_to_signup">Ne, ga bom ustvaril</string>
+     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="click_to_reload_more">Tapnite, da naložite več</string>
     <string name="click_to_retry">Poskusite ponovno</string>
+     <string name="close">Zapri</string>
     <string name="cloud_auto_pip_play_switch">Samodejno uporabi sliko v sliki</string>
     <string name="cloud_online_player">Predvajalnik</string>
     <string name="cloud_online_switch">Prilagojena priporočila</string>
@@ -178,6 +183,9 @@
      <string name="columbus_player_close_video">ZAPRI VIDEO</string>
      <string name="columbus_player_install_now">Namesti</string>
      <string name="columbus_player_learn_more">Izvedite več</string>
+     <string name="columbus_player_speed_title">Preskočim Video?</string>
+     <string name="columbus_player_speed_video">Preskoči VIDEO</string>
+     <string name="columbus_player_unit_sec">sec</string>
   <string name="com_facebook_device_auth_instructions">Obiščite &lt;b&gt;facebook.com/device&lt;/b&gt; in vnesite zgoraj navedeno kodo.</string>
   <string name="com_facebook_image_download_unknown_error">Nepričakovana napaka med prenosom slike.</string>
   <string name="com_facebook_internet_permission_error_message">Prijava za WebView zahteva dovoljenje spleta</string>
@@ -257,9 +265,15 @@
     <string name="content_can_not_null">Ne morem oddati povratne informacije brez opisa.</string>
     <string name="continue_play">Nadaljuj</string>
     <string name="data_empty">Ni stvari</string>
+     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+    <string name="date_time_picker_dialog_title">Nastavite datum in uro</string>
   <string name="day">dan</string>
   <string name="default_filedownloader_notification_content">Prenosi je vklopljeno.</string>
   <string name="default_filedownloader_notification_title">Prenosi</string>
+     <string name="default_upgrade_hint">"Hojla!
+Mi Video je pripravljen za posodobitev.
+Posodobite aplikacijo, če si želite ogledati naše nove zanimive storitve!
+Mi Video Team"</string>
     <string name="description">Opis</string>
     <string name="detail_select_source">Izberite vir predvajanja</string>
     <string name="diagnosis_log_send_failed">Ne morem poslati poročila. Poskusite ponovno.</string>
@@ -300,6 +314,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="download_unable_tip">Ne morem prenesti</string>
   <string name="download_video">Prenašam video</string>
   <string name="downloading">Prenašam…</string>
+  <string name="early_morning">Jutro</string>
     <string name="empty_channels">Urejanje kanalov</string>
   <string name="empty_subscribe">"Še niste naročeni na nič."</string>
   <string name="enable_background_audio">Predvajaj v ozadju</string>
@@ -320,6 +335,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="error_msg_video_play_time_out_title">Čas je potekel</string>
   <string name="error_no_content">Ni vsebine.</string>
   <string name="error_title">Info</string>
+    <string name="evening">Večer</string>
   <string name="exceed_binded_phone_times_notice">Ta številka telefona je že povezana z drugim Mi Računom.</string>
     <string name="exit">Izhod</string>
     <string name="exo_controls_fastforward_description">Previjanje naprej</string>
@@ -392,6 +408,8 @@ Pošljite to kodo nadzorniku."</string>
   <string name="for_diagnosis_usage_only">Uporablja se samo za iskanje težav.</string>
     <string name="for_you">ZA VAS</string>
     <string name="friday">Petek</string>
+     <string name="friday_short">Pet</string>
+     <string name="friday_shortest">P</string>
     <string name="fw_loading">Samo trenutek…</string>
     <string name="fw_reload_sub_title">Tapnite za ponoven poskus</string>
     <string name="fw_reload_title">Povezava z omrežjem ni uspela.</string>
@@ -696,6 +714,29 @@ za videoposnetke"</string>
     <string name="manage">Urejanje</string>
     <string name="mediation_ad_can_not_share">"Tega videa ni mogoče deliti"</string>
   <string name="mi_video">Mi Video</string>
+     <string name="midnight">Noč</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
+     <string name="miuix_appcompat_cancel_description">Prekliči</string>
+     <string name="miuix_appcompat_confirm_description">Potrdi</string>
+     <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
+     <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
+     <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne morem naložiti"</string>
   <string name="mnc_live_tv">Live TV</string>
     <string name="moment_guide_desc">Uporabite kretnje za povečanje in pomanjšanje</string>
     <string name="moment_tab_all">Vse</string>
@@ -709,8 +750,47 @@ za videoposnetke"</string>
     <string name="moment_tab_whatsapp">WhatsApp</string>
     <string name="moment_title_my_videos">Moji videoposnetki</string>
     <string name="monday">Ponedeljek</string>
+     <string name="monday_short">Pon</string>
+     <string name="monday_shortest">P</string>
   <string name="month">mesec</string>
-    <string name="more">Več</string>
+     <string name="month_april">April</string>
+     <string name="month_april_short">Apr</string>
+     <string name="month_april_shortest">A</string>
+     <string name="month_august">Avgust</string>
+     <string name="month_august_short">Avg</string>
+     <string name="month_august_shortest">A</string>
+     <string name="month_december">December</string>
+     <string name="month_december_short">Dec</string>
+     <string name="month_december_shortest">D</string>
+     <string name="month_february">Februar</string>
+     <string name="month_february_short">Feb</string>
+     <string name="month_february_shortest">F</string>
+     <string name="month_january">Januar</string>
+     <string name="month_january_short">Jan</string>
+     <string name="month_january_shortest">J</string>
+     <string name="month_july">Julij</string>
+     <string name="month_july_short">Jul</string>
+     <string name="month_july_shortest">J</string>
+     <string name="month_june">Junij</string>
+     <string name="month_june_short">Jun</string>
+     <string name="month_june_shortest">J</string>
+     <string name="month_march">Marec</string>
+     <string name="month_march_short">Mar</string>
+     <string name="month_march_shortest">M</string>
+     <string name="month_may">Maj</string>
+     <string name="month_may_short">Maj</string>
+     <string name="month_may_shortest">M</string>
+     <string name="month_november">November</string>
+     <string name="month_november_short">Nov</string>
+     <string name="month_november_shortest">N</string>
+     <string name="month_october">Oktober</string>
+     <string name="month_october_short">Okt</string>
+     <string name="month_october_shortest">O</string>
+     <string name="month_september">September</string>
+     <string name="month_september_short">Sep</string>
+     <string name="month_september_shortest">S</string>
+     <string name="more">Več</string>
+     <string name="morning">Jutro</string>
     <string name="mr_button_content_description">Gumb za predvajanje</string>
     <string name="mr_cast_button_connected">Gumb za predvajanje. Povezava je vzpostavljena.</string>
     <string name="mr_cast_button_connecting">Gumb za predvajanje. Vzpostavljanje povezave.</string>
@@ -748,6 +828,7 @@ za videoposnetke"</string>
     <string name="next">Naprej</string>
     <string name="next_step">Naprej</string>
     <string name="nick_name">Ime</string>
+     <string name="night">Noč</string>
   <string name="no_account">Niste prijavljeni</string>
      <string name="no_history">Tu ni ničesar</string>
   <string name="no_longer_prompt">"Ne kaži več"</string>
@@ -756,6 +837,7 @@ za videoposnetke"</string>
   <string name="no_phone">Ni številke telefona</string>
     <string name="no_recommend_data">Trenutno ni priporočenih videoposnetkov</string>
     <string name="no_subscriptions">Tukaj ni nič</string>
+     <string name="noon">Poldne</string>
    <string name="not_connect_wifi_tip">Prenos stvari preko mobilnih podatkov lahko povzroči dodatne stroške operaterja. Vseeno prenesem?</string>
   <string name="not_show">Ne kaži več</string>
     <string name="not_support_share">"Te stvari trenutno ni mogoče deliti"</string>
@@ -1118,6 +1200,7 @@ Izboljša varnost vašega računa."</string>
     <string name="plus_sort_type_time">Času</string>
     <string name="plus_tab_gallery">Mape</string>
     <string name="plus_tab_time">Časovnica</string>
+     <string name="pm">PM</string>
      <string name="privacy_revoke_setting">Z izklopom stikala umaknete soglasje k Pravilniku o zasebnosti Mi Video.</string>
      <string name="privacy_revoke_title">Preklic soglasja</string>
      <string name="progressbar_title">Preverjanje varnostnih težav…</string>
@@ -1180,6 +1263,8 @@ Izboljša varnost vašega računa."</string>
     <string name="s7">Preizkusni oglas</string>
   <string name="same_new_and_old_pwd">Ne more biti isto kot trenutno geslo</string>
     <string name="saturday">Sobota</string>
+     <string name="saturday_short">Sob</string>
+     <string name="saturday_shortest">S</string>
     <string name="save">SHRANI</string>
     <string name="save_cancel_toast">Ponovno tapnite \"Nazaj\", da prekličete shranjevanje videoposnetka</string>
     <string name="screenrecord_cancel">Težave z združljivostjo</string>
@@ -1196,6 +1281,7 @@ Izboljša varnost vašega računa."</string>
     <string name="search_result_startdownload">Prenašanje…</string>
     <string name="selectall">Izberite vse</string>
     <string name="selectnull">Prekliči izbiro</string>
+     <string name="send">Pošlji</string>
     <string name="send_diagnosis_log">Pošlji poročila</string>
     <string name="send_email_activate_message">Poročilo za potrditev je bilo uspešno poslano</string>
     <string name="sending">Pošiljanje…</string>
@@ -1251,6 +1337,8 @@ Izboljša varnost vašega računa."</string>
     <string name="subtitle_padding_default_hint">Prilagajanje podnapisov…</string>
     <string name="suggested_publishers">Priporočeni računi</string>
     <string name="sunday">Nedelja</string>
+     <string name="sunday_short">Ned</string>
+     <string name="sunday_shortest">N</string>
     <string name="sure_to_logout">Se želite odjaviti?</string>
     <string name="switch_ratio_pause">Hitrost predvajanja je nestabilna. Hitrost se bo spremenila nazaj v privzeto.</string>
     <string name="symbol_rmb">¥</string>
@@ -1285,9 +1373,14 @@ Izboljša varnost vašega računa."</string>
     <string name="tab_name_video">Videoposnetki</string>
   <string name="temporary_not_available">Ta storitev še ni na voljo</string>
     <string name="thursday">Četrtek</string>
+     <string name="thursday_short">Čet</string>
+     <string name="thursday_shortest">Č</string>
     <string name="ticket_hint">Koda za preverjanje</string>
     <string name="ticket_invalid">Vnesena koda je napačna</string>
     <string name="ticket_sign_in">Prijavite se s SMSom</string>
+     <string name="time_picker_dialog_title">Set time</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
     <string name="tip_auth_again">Ker se predhodno niste strinjali s pogoji ustreznega Pravilnika o zasebnosti tretjega ponudnika vsebine, trenutno ne moremo prikazati video vsebin. Dotaknite se spodnjega gumba, da se strinjate s Pravili o zasebnosti in dostopate do te storitve.</string>
     <string name="tip_author_click">Tapnite za ogled več videoposnetkov iz tega računa</string>
     <string name="tip_pop"><Data>Vsebino storitve Trenutki vam zagotavlja Firework. Da bi izboljšali vašo izkušnjo gledalca, ter da bi prejeli več ustreznih priporočil vsebin omogočite Fireworku zbiranje, obdelavo in uporabo vaših osebnih podatkov, glede na Pravila o zasebnosti. Preberite in se strinjajte z &lt;a href=\"%1$s\">Firework Pravila o zasebnosti&lt;/a> pred uporabo aplikacije.</Data></string>
@@ -1299,11 +1392,14 @@ Izboljša varnost vašega računa."</string>
     <string name="toast_request_too_frequently">Ne tako hitro!</string>
     <string name="toast_share_failed">Deljenje ni bilo mogoče. Počakajte minuto ali dve in poskusite ponovno.</string>
     <string name="today">Danes</string>
+     <string name="tomorrow">Jutri</string>
     <string name="tool_bar_notification_setting_sub_title">Pokaži orodja v Plošči obvestil</string>
     <string name="tool_bar_notification_setting_title">Orodja Plošče obvestil</string>
     <string name="top_bar_game_desc">Tukaj lahko odkrite veliko novih igric</string>
     <string name="top_bar_game_title">Kanal za igre</string>
     <string name="tuesday">Torek</string>
+     <string name="tuesday_short">Tor</string>
+     <string name="tuesday_shortest">T</string>
   <string name="txt_cancel_download">ODPOVEJ PRENOS</string>
   <string name="txt_download_complete">Prenos končan</string>
   <string name="txt_watch_now">GLEJ ZDAJ</string>
@@ -1380,6 +1476,8 @@ Izboljša varnost vašega računa."</string>
     <string name="vp_upcoming_auto_play">Samodejno predvajanje</string>
     <string name="vp_upcoming_title">Naslednje</string>
     <string name="wednesday">Sreda</string>
+     <string name="wednesday_short">Sre</string>
+     <string name="wednesday_shortest">S</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezovanje datotek ni uspelo, preverite stanje v aplikaciji.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo različico %1$s
 Velikost: %2$s"</string>
@@ -1397,4 +1495,5 @@ Velikost Delta posodobitve: %2$s"</string>
      <string name="ytb_logout">Odjava</string>
      <string name="ytb_play_next">Naprej</string>
      <string name="ytb_subscribed">Naročnine</string>
+     <string name="ytb_trending">V trendu</string>
 </resources>
