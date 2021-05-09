@@ -215,8 +215,8 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="miui_failed_solution_4">Osvobodite shrambo v Varnost > Čistilec in poskusite ponovno.</string>
   <string name="miui_failed_solution_5">Poskusite uporabiti kompatibilni namestitveni paket.</string>
   <string name="miui_failed_solution_6">Odstranite to aplikacijo in jo ponovno namestite.</string>
-  <string name="miui_failed_solution_7">Prenesite najnovejšo verzijo te aplikacije iz GetApps.</string>
-  <string name="miui_failed_solution_8">Prenesite aplikacijo iz GetApps.</string>
+  <string name="miui_failed_solution_7">Prenesite najnovejšo verzijo te aplikacije iz preverjenih virov.</string>
+  <string name="miui_failed_solution_8">Prenesite aplikacijo iz preverjenih virov.</string>
   <string name="miui_failed_system_incompatible">Nekompatibilni namestitveni paket</string>
   <string name="miui_failed_update_incompatible">Konflikt s podpisom aplikacij</string>
   <string name="miui_failed_version_downgrade">"Ne morem degradirati aplikacije"</string>
@@ -329,8 +329,8 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="replace_app_des_text">Želite zamenjati aplikacijo s to verzijo?</string>
   <string name="review_button_cancel">Prekini</string>
   <string name="review_button_continue">Nadaljuj</string>
-  <string name="risk_warning_bottom_button">Namesti iz GetApps</string>
-  <string name="risk_warning_msg">"Podpis na tem namestitvenem paketu ne zgleda avtentično. Zaradi varnosti namestite aplikacijo iz preverjenih virov."</string>
+  <string name="risk_warning_bottom_button">Namesti iz preverjenih virov</string>
+  <string name="risk_warning_msg">"Podpis na tem namestitvenem paketu ne izgleda avtentično. Zaradi varnosti namestite aplikacijo iz preverjenih virov."</string>
   <string name="risk_warning_title">Najdeno tveganje</string>
   <string name="risk_warning_top_button">"Ne namesti"</string>
   <string name="safe_guard_support">Tehnična podpora je zagotovljena s strani %1$s</string>

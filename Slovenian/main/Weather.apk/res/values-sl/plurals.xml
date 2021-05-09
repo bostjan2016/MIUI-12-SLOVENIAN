@@ -61,8 +61,8 @@
         <item quantity="one">Povprečno %1$s postaja</item>
     </plurals>
      <plurals name="daily_forcast_drawer_on_top">
-         <item quantity="other">%1$s- dnevna napoved</item>
-         <item quantity="one">%1$s- dnevna napoved</item>
+         <item quantity="other">%1$s-dnevna napoved</item>
+         <item quantity="one">%1$s-dnevna napoved</item>
      </plurals>
     <plurals name="view_realtime_clear">
        <item quantity="other">Vedro</item>

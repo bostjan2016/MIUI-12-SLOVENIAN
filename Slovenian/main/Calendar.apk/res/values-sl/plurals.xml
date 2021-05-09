@@ -65,24 +65,24 @@
         <item quantity="one">pred 1 minuto</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d dni pred dogodkom</item>
-        <item quantity="one">%d dan pred dogodkom</item>
+        <item quantity="other">%d dni prej</item>
+        <item quantity="one">%d dan prej</item>
     </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">Čez %1$d dni ob %2$s</item>
         <item quantity="one">Čez %1$d dan ob %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">%1$d dni pred dogodkom ob %2$s</item>
-        <item quantity="one">%1$d dan pred dogodkom ob %2$s</item>
+        <item quantity="other">%1$d dni prej ob %2$s</item>
+        <item quantity="one">%1$d dan prej ob %2$s</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d ur pred dogodkom</item>
-        <item quantity="one">%d uro pred dogodkom</item>
+        <item quantity="other">%d ur prej</item>
+        <item quantity="one">%d uro prej</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">%d min. pred dogodkom</item>
-        <item quantity="one">%d min. pred dogodkom</item>
+        <item quantity="other">%d min. prej</item>
+        <item quantity="one">%d min. prej</item>
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">%d tednov pred dogodkom</item>
@@ -93,8 +93,8 @@
         <item quantity="one">%1$s dan</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">Obletnica : %2$d let od %1$s čez 3 dni</item>
-        <item quantity="one">Obletnica: %2$d leto od %1$s čez 3 dni</item>
+        <item quantity="other">Obletnica : %2$d let od %1$s čez %3$d dni</item>
+        <item quantity="one">Obletnica: %2$d leto od %1$s čez %3$d dni</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">Obletnica: %2$d let od %1$s</item>
@@ -136,13 +136,41 @@
         <item quantity="other">%1$d dni prej</item>
         <item quantity="one">%1$d dan prej</item>
     </plurals>
+	    <plurals name="day_index">
+        <item quantity="other">%1$d dni</item>
+        <item quantity="one">%1$d dan</item>
+    </plurals>
     <plurals name="edit_date_calculate_days_error_hint">
          <item quantity="other">Vnesete lahko do %1$d dni</item>
          <item quantity="one">Vnesete lahko do %1$d dan</item>
     </plurals>
+	  <plurals name="hide_completed_notes">
+        <item quantity="other">Skrij %d dokončanih stvari</item>
+        <item quantity="one">Skrij %d dokončano stvar</item>
+	</plurals>
+     <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">Dan %1$d (pričakovano)</item>
+        <item quantity="one">Dan %1$d (pričakovano)</item>
+     </plurals>
+	    <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">Naslednje obdobje čez %1$d dni</item>
+        <item quantity="one">Naslednje obdobje čez %1$d dan</item>
+    </plurals>
+	  <plurals name="mesens_card_title_days">
+        <item quantity="other">Dan %1$d</item>
+        <item quantity="one">Dan %1$d</item>
+	</plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
+    </plurals>
+	   <plurals name="notes_custom_repeat_days">
+        <item quantity="other">dni</item>
+        <item quantity="one">dan</item>
+    </plurals>
+	   <plurals name="notes_custom_repeat_weeks">
+        <item quantity="other">tednov</item>
+        <item quantity="one">teden</item>
     </plurals>
     <plurals name="repeat_interval_frequency_day_multiple">
         <item quantity="other">%1$d dni</item>
@@ -188,6 +216,11 @@
         <item quantity="other">+%d dogodkov</item>
         <item quantity="one">+1 dogodek</item>
      </plurals>
+     <plurals name="num_picker_hint">
+        <item quantity="other">" dni"</item>
+        <item quantity="one">" dan"</item>
+     </plurals>
+
      <plurals name="Nevents">
         <item quantity="other">%d dogodkov</item>
         <item quantity="one">1 dogodek</item>
@@ -256,9 +289,37 @@
         <item quantity="other">Vsakih %1$s na %2$s</item>
         <item quantity="one">Vsakih %1$s na %2$s</item>
     </plurals>
+     <plurals name="show_completed_notes">
+        <item quantity="other">Pokaži %d končanih opravil</item>
+        <item quantity="one">Pokaži %d končano opravilo</item>
+     </plurals>
+     <plurals name="subtitle_add_record">
+        <item quantity="other">"Niste snemali %1$d dni. Zabeležite obdobja, da dobite natančnejše napovedi."</item>
+        <item quantity="one">"Niste snemali %1$d dan. Zabeležite obdobja, da dobite natančnejše napovedi."</item>
+     </plurals>
+     <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">To obdobje traja skupno %1$d dni</item>
+        <item quantity="one">To obdobje traja skupno %1$d dan</item>
+     </plurals>
+     <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">Dan %1$d tega menstrualnega ciklusa</item>
+        <item quantity="one">Dan %1$d tega menstrualnega ciklusa</item>
+     </plurals>
         <plurals name="n_attendees">
         <item quantity="other">%d vabil</item>
         <item quantity="one">%d vabilo</item>
+     </plurals>
+     <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d dni do naslednjega obdobja</item>
+        <item quantity="one">%1$d dan do naslednjega obdobja</item>
+     </plurals>
+     <plurals name="title_menstruation_predict_period">
+        <item quantity="other">Predvideni dan %1$d obdobja</item>
+        <item quantity="one">Predvideni dan %1$d obdobja</item>
+     </plurals>
+     <plurals name="travel_eta_advice">
+        <item quantity="other">%2$s minut vožnje do %1$s.</item>
+        <item quantity="one">%2$s minuto vožnje do %1$s.</item>
      </plurals>
      <plurals name="travel_time_range_hours">
         <item quantity="other">%d ur</item>
@@ -267,5 +328,9 @@
      <plurals name="travel_time_range_mins">
         <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
+     </plurals>
+     <plurals name="title_menstruation_day">
+        <item quantity="other">Dni %1$d obdobja</item>
+        <item quantity="one">Dan %1$d obdobja</item>
      </plurals>
 </resources>

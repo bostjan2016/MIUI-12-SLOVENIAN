@@ -26,6 +26,15 @@
          <item>PET</item>
          <item>SOB</item>
      </string-array>
+	    <string-array name="panchang_weeks">
+        <item>Nedelja</item>
+        <item>Ponedeljek</item>
+        <item>Torek</item>
+        <item>Sreda</item>
+        <item>Četrtek</item>
+        <item>Petek</item>
+        <item>Sobota</item>
+     </string-array>
 	 <string-array name="prefValues_alerts_popup">
         <item>nič</item>
         <item>vse</item>
@@ -555,4 +564,32 @@
         <item>zadnja sobota</item>
         <item>zadnja nedelja</item>
     </string-array>
+	<string-array name="weather_forecasts">
+        <item>Jasno</item>
+        <item>Oblačno</item>
+        <item>Oblačno</item>
+        <item>Megla</item>
+        <item>Močna nevihta</item>
+        <item>Nevihta</item>
+        <item>Rahla nevihta</item>
+        <item>Nevihta</item>
+        <item>Ploha</item>
+        <item>Močan dež</item>
+        <item>Dež</item>
+        <item>Rahel dež</item>
+        <item>Dež in sneg</item>
+        <item>Snežni vihar</item>
+        <item>Snežne plohe</item>
+        <item>Močan sneg</item>
+        <item>Sneg</item>
+        <item>Rahel sneg</item>
+        <item>Močna peščena nevihta</item>
+        <item>Peščena nevihta</item>
+        <item>Pesek</item>
+        <item>Rahla peščena nevihta</item>
+        <item>Toča</item>
+        <item>Plavajoči prah</item>
+        <item>Meglica</item>
+        <item>Ledeni dež</item>
+     </string-array>
 </resources> 

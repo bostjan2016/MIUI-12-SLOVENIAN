@@ -50,29 +50,29 @@
         <item>Oblačno</item>
         <item>Oblačno</item>
         <item>Megleno</item>
-        <item>Močan dež</item>
-        <item>Ploha</item>
-        <item>Ploha</item>
+        <item>Močna nevihta</item>
+        <item>Naliv</item>
+        <item>Nevihta</item>
         <item>Nevihta</item>
         <item>Dež</item>
-        <item>Močan dež</item>
+        <item>Močne padavine</item>
         <item>Zmeren dež</item>
         <item>Rahel dež</item>
-        <item>Moker sneg</item>
+        <item>Mešanica dežja in snega</item>
         <item>Snežni vihar</item>
         <item>Sneg</item>
-        <item>Gost sneg</item>
-        <item>Zmeren sneg</item>
+        <item>Močno sneženje</item>
+        <item>Zmerno sneženje</item>
         <item>Rahlo sneženje</item>
-        <item>Hud peščeni vihar</item>
-        <item>Peščeni vihar</item>
+        <item>Močna peščena nevihta</item>
+        <item>Peščena nevihta</item>
         <item>Pesek</item>
-        <item>Veter</item>
+        <item>Vetrovno</item>
         <item>Toča</item>
         <item>Prah</item>
-        <item>Meglica</item>
-        <item>Leden dež</item>
-	<item></item>
+        <item>Megla</item>
+        <item>Ledeni dež</item>
+        <item></item>
     </string-array>
     <string-array name="indices_uv_level">
         <item>Slab</item>
@@ -88,7 +88,7 @@
         <item>Neugodno</item>
     </string-array>
     <string-array name="wind_direction">
-         <item>Sever</item>
+        <item>Sever</item>
         <item>Severovzhod</item>
         <item>Vzhod</item>
         <item>Jugovzhod</item>
@@ -98,7 +98,7 @@
         <item>Severozahod</item>
     </string-array>	 
     <string-array name="wind_direction_simple">
-       <item>S</item>
+        <item>S</item>
         <item>SV</item>
         <item>V</item>
         <item>JV</item>
