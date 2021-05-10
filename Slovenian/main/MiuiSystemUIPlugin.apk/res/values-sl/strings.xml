@@ -285,6 +285,9 @@ Dolgotrajno poslušanje visoke glasnosti lahko poškoduje vaš sluh."</string>
   <string name="wednesday_short">Sre</string>
   <string name="wednesday_shortest">S</string>
      <string name="wireless_charging_connected_message">"Ko se naprava polni brezžično, ne morete uporabljati povratnega brezžičnega polnjenja."</string>
+     <string name="wireless_charging_fg_control_cancel">Prekliči</string>
+     <string name="wireless_charging_fg_control_messgae">"Povratno brezžično polnjenje je bilo izklopljeno, ker je ostalo manj kot %d%% baterije. Nastavitve lahko prilagodite tako, da omogočajo daljše brezžično polnjenje."</string>
+     <string name="wireless_charging_fg_control_ok">Prilagodi</string>
      <string name="wireless_charging_low_battery_level_message">"Povratnega brezžičnega polnjenja ni mogoče uporabiti, če je baterije manj od %d%%."</string>
      <string name="wireless_charging_ok">Razumem</string>
      <string name="wireless_charging_saver_cancel">Izključi</string>

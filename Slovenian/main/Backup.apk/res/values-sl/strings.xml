@@ -77,6 +77,7 @@ nastavitev in aplikacij"</string>
   <string name="backup_finished">Varnostno kopiranje uspešno</string>
   <string name="backup_hint">Napravo pustite vklopljeno</string>
   <string name="backup_hint_onpad">Ne izključite naprave</string>
+     <string name="backup_hint_pad">Naprava naj bo vklopljena</string>
   <string name="backup_is_running">Izdelava var. kopije naprave</string>
   <string name="backup_items_app_tailer">" x podatki aplikacij"</string>
   <string name="backup_items_sysdata_tailer">Sistemski podatki</string>
@@ -108,6 +109,7 @@ nastavitev in aplikacij"</string>
   <string name="cancel_moving_dialog_message">Ste prepričani da želite ustaviti uvoz?</string>
   <string name="cancel_moving_dialog_title">Ustavi uvoz</string>
   <string name="cancel_restore">Ustavi</string>
+     <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_soft_ap_to_link">Izberite hotspot za povezovanje</string>
   <string name="click_to_view">Dotaknite se za pregled</string>
      <string name="close">Zapri</string>
@@ -406,7 +408,9 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
 %1$d. Kopirajte var. kopije v računalnik da boste preprečili izgubo podatkov. %2$s.
 %3$d. Var. kopije bodo shranjene v MIUI-Backup-All Backup."</string>
   <string name="new_local_tab_backup">Var. kopiranje na mobilno napravo</string>
+     <string name="new_local_tab_backup_pad">Var. kopiraj</string>
   <string name="new_local_tab_restore">Vrnite iz mobilne naprave</string>
+     <string name="new_local_tab_restore_pad">Povrni</string>
   <string name="new_low_storage_title">Ni dovolj prostora za shranjevanje</string>
   <string name="new_more_settings_label">Dodatne nastavitve</string>
   <string name="new_pc_backup_content1">%1$d. Odpri \"%2$s\".</string>
@@ -414,11 +418,14 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="new_pc_backup_content3">%d. Najdite var. kopije u MIUI-Backup-AllBackup.</string>
   <string name="new_pc_backup_content4">%d. Kopirajte datoteke na svoj računalnik.</string>
   <string name="new_pc_backup_restore_link">Mobilna naprava</string>
+     <string name="new_pc_backup_restore_link_pad">Mobilna naprava</string>
   <string name="new_pc_backup_summary1">Izberite stvari in tapnite \"Var. kopiraj\".</string>
   <string name="new_pc_backup_summary2">Povežite svojo mobilno napravo z računalnikom preko USB kabla.</string>
+     <string name="new_pc_backup_summary2_pad">Povežite svojo mobilno napravo z računalnikom preko USB kabla.</string>
   <string name="new_pc_backup_summary4">Opomba: lahko kopirate tudi fotografije in videoposnetke iz DCIM.</string>
   <string name="new_pc_restore_content1">%d. Povežite svojo mobilno napravo z računalnikom preko USB kabla.</string>
   <string name="new_pc_restore_content2">%d. Kopirajte var. kopijo iz računalnika v MIUI-Backup-AllBackup.</string>
+     <string name="new_pc_restore_content2_pad">%d. Kopirajte var. kopijo iz računalnika v MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Odprite \"%2$s\" in izberite stvari za vračanje.</string>
   <string name="new_pc_title">Kopiraj Var. kopije</string>
   <string name="new_select_file">Avdio, videoposnetke in datoteke</string>
@@ -444,6 +451,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="no_encrypt_password">Brez gesla</string>
   <string name="no_network">"Ne morem se povezati na omrežje."</string>
      <string name="noon">Poldan</string>
+     <string name="not_enough_storage_tips">Premalo prostora za shranjevanje. Sprostite nekaj prostora in poskusite znova.</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="note_title">Beležke</string>
   <string name="nothing_searched">Ni zadetkov</string>

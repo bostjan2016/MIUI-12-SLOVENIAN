@@ -34,6 +34,7 @@
   <string name="alert_message_delete_local_record">Izbrišem ta posnetek?</string>
   <string name="alert_message_delete_record">Brisanje posnetka z vaše naprave bo izbrisal ta posnetek v Mi Cloudu. Izbrišem zdaj?</string>
   <string name="alert_message_delete_record_title">Izbriši posnetek</string>
+     <string name="all_record">Vsi posnetki</string>
      <string name="am">AM</string>
   <string name="app_name">Snemanje</string>
   <string name="app_record">Posnetki aplikacij</string>
@@ -79,6 +80,23 @@
   <string name="duration_format_second">%ss</string>
      <string name="early_morning">Jutro</string>
   <string name="empty_recognition_tip">Prazno</string>
+     <string name="err_msg_abandon">Naročilo je bilo opuščeno</string>
+     <string name="err_msg_complete">Naročilo končano</string>
+     <string name="err_msg_convert_fail">"Ne morem pretvoriti"</string>
+     <string name="err_msg_convert_processing">Pretvarjanje…</string>
+     <string name="err_msg_convert_queue">Čakanje na pretvarjanje…</string>
+     <string name="err_msg_convert_success">Pretvorjeno</string>
+     <string name="err_msg_create">Naročilo ustvarjeno</string>
+     <string name="err_msg_delete">Naročilo izbrisano</string>
+     <string name="err_msg_expired">Naročilo poteklo</string>
+     <string name="err_msg_pending_value">Ocenjevanje stroškov…</string>
+     <string name="err_msg_pengding_pay">Čakanje na plačilo…</string>
+     <string name="err_msg_processing">Obdelava…</string>
+     <string name="err_msg_refuse">"Ne morem prepisati"</string>
+     <string name="err_msg_transcript_fail">"Ne morem prepisati"</string>
+     <string name="err_msg_transcript_processing">Prepisovanje…</string>
+     <string name="err_msg_transcript_queue">Čakam na prepisovanje…</string>
+     <string name="err_msg_transcript_success">Prepisano</string>
   <string name="error_app_internal">Preverite če druga aplikacija trenutno uporablja opravilo snemanja.</string>
   <string name="error_app_internal_title">Napaka na zvočnem snemanju</string>
   <string name="error_file_access">Datoteka ne obstaja ali pa je bila poškodovana</string>
@@ -108,6 +126,7 @@
   <string name="low_battery_error">"Preostalo je manj kot 5% baterije. Zaustavite snemanje in shranite posnetek da ga ne izgubite."</string>
   <string name="low_battery_error_confirm">V redu</string>
   <string name="low_battery_error_title">Prazna baterija</string>
+     <string name="lyric_item_point_count">%1$d do %2$d</string>
   <string name="mark_point_list_title">Označi</string>
   <string name="menu">Meni</string>
   <string name="message_file_size_error">Snemanje je doseglo največjo dolžino, ki je podprta s strani %s</string>
@@ -192,9 +211,12 @@
   <string name="network_unavailable_tip">Povežite se na omrežje in poskusite znova.</string>
   <string name="new_record_name">Nov posnetek</string>
      <string name="night">Večer</string>
+     <string name="no_content">Tu ni ničesar</string>
   <string name="no_file">Prazno</string>
   <string name="no_network">"Ne morem se povezati na omrežje"</string>
+     <string name="no_playback_file">Izberite posnetek za prikaz podrobnosti</string>
      <string name="noon">Poldne</string>
+     <string name="normal_settings_pref_title">Splošne nastavitve</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="notification_message_all_paused">Čakam na povezavo WiFi.</string>
   <string name="notification_playback">Predvajanje...</string>
@@ -205,6 +227,9 @@
   <string name="notification_title_all_paused">Nalaganje začasno ustavljeno</string>
   <string name="path_soundrecorder_setting">Sistemske aplikacije/Snemanje</string>
   <string name="pause">Odmor</string>
+     <string name="pay_error_cancel">Plačilo je bilo preklicano</string>
+     <string name="pay_error_null">"Plačila ni bilo mogoče dokončati. Preverite svoj račun."</string>
+     <string name="pay_error_unknown">Neznana napaka</string>
   <string name="playback_delete_records">Izbriši posnetek</string>
   <string name="playback_share_records">Deli posnetek</string>
      <string name="pm">PM</string>
@@ -291,6 +316,7 @@
   <string name="record_name_minute"/>
   <string name="record_quliaty_preference_title">Kvaliteta snemanja</string>
   <string name="record_resotre">Obnovi posnetke</string>
+     <string name="recorder_record">Avdio</string>
   <string name="recording">Snemanje</string>
   <string name="recording_quality_high">Visoka</string>
   <string name="recording_quality_low">Nizka</string>
@@ -312,6 +338,7 @@
      <string name="reg_error_server">Prišlo je do napake strežnika. Prijavite nam in poskusite znova.</string>
      <string name="reg_error_upload_audio">"Datoteke ni bilo mogoče naložiti, poskusite znova."</string>
      <string name="reg_error_upload_order">"Ni bilo mogoče naložiti, poskusite znova."</string>
+     <string name="remind_settings_pref_title">Obvestila</string>
      <string name="remove_icon_description_content">"Snemanje je sistemska aplikacija. Ko odstranite bližnjico na začetnem zaslonu, ne boste mogli več upravljati posnetkov."</string>
      <string name="remove_icon_description_title">Odstranim \"Snemanje\" iz začetnega zaslona?</string>
   <string name="rename">Preimenuj</string>
@@ -355,6 +382,7 @@
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
+     <string name="tap_to_record">Dotaknite se gumba, da začnete snemati</string>
   <string name="text_btn_backward_3_seconds">3 sekunde nazaj</string>
   <string name="text_btn_complete">Končano</string>
   <string name="text_btn_forward_3_seconds">3 sekunde naprej</string>

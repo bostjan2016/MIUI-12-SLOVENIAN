@@ -1050,6 +1050,7 @@ zgledali večji na fotografijah"</string>
   <string name="module_name_panorama">Panorama</string>
   <string name="module_name_portrait">Portret</string>
   <string name="module_name_professional">Pro</string>
+     <string name="module_name_scanner">Skener</string>
   <string name="module_name_square">Kvadrat</string>
   <string name="module_name_super_moon">Super mesec</string>
   <string name="module_name_video">Video</string>
@@ -1844,6 +1845,9 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>
   <string name="save">Shrani</string>
+     <string name="scan_install_prompt_header">Namestite Skener</string>
+     <string name="scan_install_prompt_loading">Nameščam Skener…</string>
+     <string name="scan_install_prompt_message">Namestite Skener in poskusite znova.</string>
   <string name="scan_qrcode">Skeniraj QR kodo</string>
   <string name="screen_on_proximity_sensor_hint">Za izklop te storitve istočasno pritisnite tipke "Nazaj" in "Glasnost +".</string>
   <string name="screen_on_proximity_sensor_summary">"Ne pokrivajte področja slušalk"</string>

@@ -244,7 +244,7 @@
     <string name="app_pa_setting_version">Verzija: %1$s</string>
     <string name="app_paycode_parent">Alipay</string>
     <string name="app_screen_time_auth">Čas zaslona</string>
-    <string name="app_screen_time_no_time_title">&lt;1 min</string>
+    <string name="app_screen_time_no_time_title">&lt;1m</string>
     <string name="app_screen_time_support_false">Čas zaslona trenutno ni podprt</string>
     <string name="app_screen_time_time">%1$d ur %2$d min</string>
     <string name="app_screen_time_time_minute">%1$d min</string>

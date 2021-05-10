@@ -87,7 +87,7 @@
   <string name="combine_loan">Kombinirani kredit</string>
   <string name="commercial_loan">Komercialni kredit</string>
   <string name="common_google_play_services_enable_button">Omogoči storitve Google Play</string>
-  <string name="common_google_play_services_enable_text">%1$s ne bo delovalače ne omogočite storitve Google Play.</string>
+  <string name="common_google_play_services_enable_text">%1$s ne bo delovala, če ne omogočite storitve Google Play.</string>
   <string name="common_google_play_services_enable_title">Omogoči storitve Google Play</string>
   <string name="common_google_play_services_error_notification_requested_by_msg">Zahteva aplikacija %1$s</string>
   <string name="common_google_play_services_install_button">Prenesi storitev Google Play</string>

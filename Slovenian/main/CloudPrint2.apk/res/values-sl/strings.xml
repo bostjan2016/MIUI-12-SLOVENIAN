@@ -81,7 +81,7 @@
   <string name="common_android_wear_update_title">Posodobite Android Wear</string>
   <string name="common_google_play_services_api_unavailable_text">%1$s zahteva eno ali več storitev Google Play ki trenutno niso na voljo. Za pomoč se obrnite na razvojnega programerja.</string>
   <string name="common_google_play_services_enable_button">Omogoči storitve Google Play</string>
-  <string name="common_google_play_services_enable_text">%1$s ne bo delovalače ne omogočite storitve Google Play.</string>
+  <string name="common_google_play_services_enable_text">%1$s ne bo delovala, če ne omogočite storitve Google Play.</string>
   <string name="common_google_play_services_enable_title">Omogoči storitve Google Play</string>
   <string name="common_google_play_services_error_notification_requested_by_msg">Zahteva aplikacija %1$s</string>
   <string name="common_google_play_services_install_button">Prenesi storitev Google Play</string>

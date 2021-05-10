@@ -1355,7 +1355,7 @@ Poskusite znova čez %3$d s."</string>
     <string name="kg_invalid_confirm_pin_hint">Kodi PIN se ne ujemata</string>
     <string name="kg_invalid_puk">Znova vnesite pravilno kodo PUK. Večkratni poskusi bodo trajno onemogočili kartico SIM.</string>
     <string name="kg_invalid_sim_pin_hint">Vnesite kodo PIN, ki vsebuje od štiri do osem številk.</string>
-    <string name="kg_invalid_sim_puk_hint">Koda PUK mora biti 8- ali večmestno število.</string>
+    <string name="kg_invalid_sim_puk_hint">Koda PUK mora vsebo0vati %1$d znakov.</string>
     <string name="kg_login_too_many_attempts">Preveč poskusov vnosa vzorca</string>
     <string name="kg_password_instructions">Vnesite geslo</string>
     <string name="kg_password_pin_failed">"Postopek za odklepanje s kodo PIN kartice SIM ni uspel"</string>
