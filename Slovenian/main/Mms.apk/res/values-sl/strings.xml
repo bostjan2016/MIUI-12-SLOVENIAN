@@ -223,6 +223,7 @@
   <string name="current_data_version">Verzija Mi sporočil</string>
   <string name="database_corruption">Popravljam…</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
   <string name="debug_about_mms">O MMS-u</string>
   <string name="debug_category_db">Baza podatkov</string>
   <string name="debug_category_others">Ostalo</string>
@@ -480,7 +481,10 @@ Preverite SIM kartico."</string>
   <string name="message_too_big_for_audio">Sporočilo je preveliko za priložitev zvoka</string>
   <string name="message_too_big_for_video">Sporočilo je preveliko za priložitev videa.</string>
   <string name="message_type_label">Vrsta:</string>
+     <string name="message_unread">Neprebrano</string>
   <string name="messagelist_sender_self">Jaz</string>
+     <string name="messages_installed_notification_text_xiaomi">Dotaknite se, če želite začeti klepet</string>
+     <string name="messages_installed_notification_title_xiaomi">Sporočila so nameščena</string>
   <string name="messaging">Sporočila</string>
   <string name="mi_message_title">Mi sporočilo</string>
      <string name="midnight">Noč</string>
@@ -496,10 +500,13 @@ Preverite SIM kartico."</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
   <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -677,6 +684,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
      <string name="notification_add_todo_content">Koda za prevzem: %s</string>
   <string name="notification_channel_msg_description">Obvestilo o sporočilu</string>
   <string name="notification_channel_msg_name">Sporočilo</string>
+     <string name="notification_channel_name_xiaomi">Obvestila o nadgradnji aplikacije</string>
   <string name="notification_channel_other_description">Druga obvestila</string>
   <string name="notification_channel_other_name">Ostalo</string>
   <string name="notification_channel_sim1_description">Obvestilo o sporočilu SIM-1</string>
@@ -832,6 +840,9 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="privacy_password_title3">Posodobite vaše geslo</string>
   <string name="privacy_password_title4">Geslo je posodobljeno</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
+     <string name="privacy_revoke_nonetwork_msg">Vaša naprava se mora povezati z omrežjem, da boste lahko umaknili soglasje. Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="privacy_revoke_nonetwork_ok">Razumem</string>
+     <string name="privacy_revoke_nonetwork_title">"Ne morem se povezati na omrežje"</string>
      <string name="privacy_state_revoked_cancel">Prekliči</string>
      <string name="privacy_state_revoked_content">Z izklopom stikala umaknete soglasje k Pravilniku o zasebnosti sporočil. Nehali bomo zbirati vaše osebne podatke. Že zbrani in hranjeni osebni podatki bodo izbrisani v določenem roku, kot to zahteva veljavna zakonodaja. Mi sporočila in Pametna sporočila, ki jih ponuja Messaging morata zbrati potrebne osebne podatke za zagotavljanje osnovnih storitev. Vaš umik soglasja s politiko zasebnosti sporočil bo zavrnil sprejemanje storitev na podlagi zbranih osebnih podatkov, ki jih zagotavljata Mi sporočila in Pametna sporočila.</string>
      <string name="privacy_state_revoked_dialog_title">Preklic soglasja</string>
@@ -846,6 +857,21 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="private_protect">Zaščita zasebnosti</string>
   <string name="private_settings">Nastavitve</string>
   <string name="processing">Obdelujem…</string>
+     <string name="promo_back_btn_text_xiaomi">Nazaj v Mi sporočila</string>
+     <string name="promo_install_btn_text">Naprej</string>
+     <string name="promo_install_bullet_1_xiaomi">Za besedila uporabite Google Assistant &amp; opravila</string>
+     <string name="promo_install_bullet_2_xiaomi">Ohranite trenutne pogovore &amp; predstavnosti</string>
+     <string name="promo_install_bullet_3_xiaomi">Preprosto poiščite deljena sporočila &amp; predstavnosti</string>
+     <string name="promo_install_bullet_4_xiaomi">Uporabite Sporočila kot privzeto aplikacijo za SMS</string>
+     <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Izvedite več</a></string>
+     <string name="promo_install_subtitle_xiaomi">Zagotovite si bogatejši in kakovostnejši klepet prek omrežja WiFi ali podatkov. Namestite Sporočila &amp; uporabite jih kot privzeto aplikacijo za SMS. <a href="https://support.google.com/messages/answer/6089066">Izvedite več</a></string>
+     <string name="promo_install_title_xiaomi">Xiaomi priporoča nadgradnjo na Google Sporočila</string>
+     <string name="promo_launch_messages_btn_text">Odpri Sporočila</string>
+     <string name="promo_no_thanks_btn_text_xiaomi">No thanks</string>
+     <string name="promo_post_install_animation_alt_text_xiaomi">Google Sporočila so zdaj privzeta aplikacija za SMS. Če želite Google Sporočila postaviti med priljubljene na začetnem zaslonu, pritisnite Mi Sporočila in ga premaknite iz priljubljenih, nato pa pritisnite Sporočila in premaknite med priljubljene.</string>
+     <string name="promo_post_install_title_no_default_xiaomi">Zamenjajte Mi Sporočila z Googlovimi Sporočili visoke kakovosti</string>
+     <string name="promo_post_install_title_with_default_xiaomi">Začnite pošiljati bolj kakovostna sporočila z Googlovimi Sporočili</string>
+     <string name="promo_use_messages_btn_text">Uporabi Sporočila</string>
   <string name="prompt_otp">Koda</string>
   <string name="prompt_phone">Številka telefona</string>
   <string name="prompt_summary">RCS vam omogoča brezplačno menjavo sporočil, fotografij, videoposnetkov in ustvarjanje skupinskih klepetov.</string>
@@ -1153,6 +1179,7 @@ Oglejte si priporočene!"</string>
   <string name="slide_show_part">Del %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Podrsajte navzgor za preklic</string>
   <string name="slideshow_activity">Diaprojekcija</string>
+     <string name="small_window_log_text">"Fotoaparata ni mogoče uporabljati v načinu z več okni"</string>
   <string name="smart_message_title">Pametna sporočila</string>
      <string name="smart_message_upgrade_title">Pametna sporočila posodobitev Pravil o zasebnost</string>
   <string name="smart_messages_network_allow_message">Mi sporočila potrebuje povezavo na splet. Dovolim?</string>

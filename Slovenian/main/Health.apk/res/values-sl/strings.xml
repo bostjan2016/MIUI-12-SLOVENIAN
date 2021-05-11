@@ -72,6 +72,8 @@ Mi zdravje podpira naprave, ki ste jih predhodno dodali v aplikacijo Mi Home. Č
   <string name="add_data_source_support_step">"Ta naprava ne ustvarja podatkov o štetju korakov. Poskusite preklopiti na druge vire podatkov."</string>
   <string name="add_data_type_datasource">Dodajte vir podatkov (%1$s)</string>
   <string name="add_model_card">"Tapnite gumb v zgornjem levem kotu za dodajanje kartic"</string>
+     <string name="add_model_card2">"Dotaknite se zgornjega gumba, če želite dodati kartice.
+Lahko boste spremljali svoje treninge in aktivnosti."</string>
   <string name="add_owned_device">Naprave na voljo</string>
   <string name="add_record">Dodaj</string>
   <string name="added_data_source">Viri dodani</string>
@@ -363,6 +365,7 @@ Mi zdravje vas bo obvestil samo o pomembnih stvareh."</string>
   <string name="dialog_delete_record_confirm">Izbrišem ta zapis?</string>
   <string name="dialog_exercise_purpose">Dobrodošli v aplikaciji Mi zdravje! \"Števec korakov\" omogoča sledenje, koliko korakov ste storili čez dan, ter določanje in upravljanje ciljev. Vsi povezani podatki bodo shranjeni lokalno v vaši napravi za lažje upravljanje.</string>
   <string name="dialog_exit">Izhod</string>
+     <string name="dialog_exit_use">Izhod</string>
   <string name="dialog_feedback_content">"Če ne daste dovoljenj ne boste mogli uporabiti vseh storitev te aplikacije; njena osnovna funkcionalnost pa vam bo na voljo. Dovoljenja urejajte v nastavitvah.
 "</string>
   <string name="dialog_feedback_purpose">Mi zdravje rabi dostop do shrambe da lahko pošlje povratne informacije.</string>
@@ -395,6 +398,8 @@ Mi zdravje vas bo obvestil samo o pomembnih stvareh."</string>
   <string name="diastolic_pressure">Diastolični</string>
   <string name="disable">Izključeno</string>
      <string name="discard_update">Ne, hvala</string>
+     <string name="download_apk">Prenašam %s…</string>
+     <string name="download_background">Prenos</string>
   <string name="drag_sort">Preuredi</string>
   <string name="dream_talk">Razgovor z %1$s</string>
   <string name="dream_talk_record">Posneti ste med govorom med spanjem</string>

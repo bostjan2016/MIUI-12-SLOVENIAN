@@ -80,6 +80,7 @@
      <string name="evening">Večer</string>
   <string name="expand_button_title">Napredno</string>
   <string name="first_using_dialog_message">"Kompas za pravilno delovanje potrebuje omrežno povezavo, kamero in storitve lokacije vaše naprave."</string>
+     <string name="first_using_dialog_message_no_camera">Kompas se mora povezati s spletom in dostopati do informacij o lokaciji, da lahko normalno deluje. Se strinjate?</string>
   <string name="first_using_dialog_title">Dovoljenje dostopa</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
@@ -177,6 +178,7 @@
      <string name="noon">Midday</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="open_perm_msg">Kompas potrebuje dostop do lokacije in kamere. To je potrebno za določanje koordinat in ponujanja pregleda v živo. Dovolim?</string>
+     <string name="open_perm_msg_no_camera">Kompas mora dostopati do informacij o lokaciji, da lahko določi koordinate. Dovolim?</string>
   <string name="open_perm_title">Potrebno je dovoljenje</string>
   <string name="permission_camera_desc">Uporablja se libela</string>
   <string name="permission_location_desc">Prikaz koordinat in atmosferskega tlaka</string>
