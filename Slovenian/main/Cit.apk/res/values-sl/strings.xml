@@ -59,6 +59,7 @@
      <string name="band_config_setting">BAND</string>
   <string name="baterry_percent">"Napolnjenost baterije: "</string>
   <string name="baterry_temperature">"Temperatura baterije: "</string>
+     <string name="battery_authentic">Baterija je pristna</string>
      <string name="battery_dual_connector">Drugi priključek baterije</string>
      <string name="battery_id">Baterija ID:</string>
   <string name="battery_info">Povezane informacije o polnjenju baterije</string>
@@ -104,6 +105,7 @@ Konec preizkusa polnilnika, izklopite polnilnik"</string>
   <string name="cit_OTG_waiting_in">Vstavite USB OTG napravo</string>
      <string name="cit_OTG_waiting_in_charge">Povežite napravo USB OTG zdaj</string>
   <string name="cit_OTG_waiting_out">Odstranite USB OTG napravo</string>
+     <string name="cit_OTG_waiting_out_end">Prosimo, izključite USB OTG napravo, konec preskusa</string>
      <string name="cit_Reserse_charge_check_title">Preskus povratnega polnjenja</string>
      <string name="cit_SAR_TEST_TOOL">SAR TEST ZAČETEK</string>
   <string name="cit_abnormal_reboot_summary">Počakajte…Branje podatkov o stabilnosti na tej napravi.</string>
@@ -113,9 +115,13 @@ Konec preizkusa polnilnika, izklopite polnilnik"</string>
      <string name="cit_accdata_second_sensor_check_title">Drugi merilnik pospeška</string>
   <string name="cit_accdata_sensor_check_summary">V nadaljevanju bi se morale prikazati vrednosti koordinat X, Y, Z</string>
   <string name="cit_accdata_sensor_check_title">Merilnik pospeška</string>
+     <string name="cit_accdata_sensor_second_screen_check_title">Merilnik pospeška drugega zaslona</string>
+     <string name="cit_accelermeter_sensor_cali_title">Preskus umerjanja senzorja za pospeševanje</string>
   <string name="cit_accelermeter_sensor_check_summary">"Napravo hitro premikajte v eni smeri. X，Y，Z koordinatne vrednosti se prikažejo v nadaljevanju. (ko se telefon premika: X predstavlja levo/desno, y predstavlja pred/za, z predstavlja gor in dol).
 Pred kalibracijo naprave jo položite na ravno površino."</string>
   <string name="cit_accelermeter_sensor_check_title">Merilnik pospeška</string>
+     <string name="cit_action_off">Izklj.</string>
+     <string name="cit_action_on">Vklj.</string>
      <string name="cit_analog_headset_plug_hint">Priključite analogne slušalke zdaj</string>
   <string name="cit_apk_signature_failed">Podpis aplikacije NEUSPEŠNO</string>
   <string name="cit_apk_signature_passed">Podpis aplikacije USPEŠNO</string>
@@ -201,6 +207,7 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
   <string name="cit_battery_check_title">Podatki o bateriji</string>
   <string name="cit_battery_temp_fail">Temperatura baterije ni normalna (vrednost=%d)</string>
   <string name="cit_battery_temp_pass">Temperatura baterije je normalna</string>
+     <string name="cit_batterylight">Lučka baterije</string>
   <string name="cit_batterylight_blue">Modra</string>
   <string name="cit_batterylight_green">Zelena</string>
   <string name="cit_batterylight_red">Rdeča</string>
@@ -231,14 +238,25 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
   <string name="cit_button_light_on">Osvetlitev tipk vklj.</string>
   <string name="cit_calibration_fail">Kalibriranje ni uspelo</string>
   <string name="cit_calibration_pass">Kalibriranje uspelo</string>
+     <string name="cit_camera_cali_title">Preskus kalibriranja kamere</string>
   <string name="cit_camera_calibration_summary">"Kalibriranje ni uspelo:
 
 1.Dotaknite se gumba za kalibracijo da začnete OIS kalibracijo.
 3.Dobili boste sporočilo da je bilo kalibriranje OIS-a uspešno"</string>
+     <string name="cit_camera_check_summary">"Navodila za preizkus:
+
+1.Dotaknite se spodnjega gumba za kamero, da odprete vmesnik sprednje kamere
+2.Tapnite sprožilec
+3.Sistem bo samodejno shranil fotografijo po zajemu
+4.Fotografija, ki ste jo posneli, mora biti prikazana na zaslonu. Za dokončanje testa tapnite Uspelo."</string>
+     <string name="cit_camera_deleted">Fotografija izbrisana</string>
+     <string name="cit_camera_deleted_failed">Fotografija ni izbrisana</string>
   <string name="cit_camera_fast_check_title">Hitro testiranje kamere</string>
+     <string name="cit_camera_flash_adjust">Nastavite bliskavico</string>
   <string name="cit_camera_rearsub">Poteka preverjanje zadnje sekundarne kamere, počakajte…</string>
   <string name="cit_camera_sdcard_error">"Ne morem posneti fotografije. SD kartica je polna."</string>
      <string name="cit_camerasfr_test">Razčlenjevanje slike, počakajte....</string>
+     <string name="cit_capture_fail">Fotografiranje ni uspelo</string>
      <string name="cit_charge_usb_dcp">Polnjenje：USB_DCP</string>
      <string name="cit_charge_usb_hvdcp">Polnjenje：USB_HVDCP</string>
      <string name="cit_charge_usb_pd">Polnjenje：USB_PD</string>
@@ -267,17 +285,25 @@ in obrnite polnilnikr"</string>
      <string name="cit_diag_jank_title">Pokaži smeti datotek poročil</string>
      <string name="cit_diag_signal_summary">Kopirajte datoteke zapisovalnika stabilnosti signala na sd card</string>
      <string name="cit_diag_signal_title">Pokaži zapisovalnik stabilnosti signala</string>
+     <string name="cit_diag_wait">Počakajte ... Kopiranje datotek</string>
   <string name="cit_dial_emergencycall">Kliči 112</string>
   <string name="cit_display_check_summary">Preverite ali je potrebna BMP datoteka na SD kartici. Potrdite da se barve dosledno prikazujejo čez cel zaslon. Prepričajte se se da ni nepravilnih svetlih točk in temnih madežev.</string>
   <string name="cit_display_check_title">Zaslon</string>
   <string name="cit_display_continue">Dotaknite se zaslona za začetek testiranja</string>
+     <string name="cit_display_expand_screen_tips">Pred testiranjem razširite zaslon</string>
+     <string name="cit_display_fold_screen_tips">Pred preskusom zložite zaslon</string>
   <string name="cit_display_test_end">Test končan</string>
   <string name="cit_display_test_next">Naprej</string>
+     <string name="cit_earpiece">Sprejemnik</string>
+     <string name="cit_earpiece_summary">"Slišali boste dve naključni številki
+Please click the appropriate button according to the number you hear"</string>
   <string name="cit_emergencycall_check_summary">Pritisnite Kliči 112 za klicanje številke 112 da preveriteali se lahko kliče 112.</string>
   <string name="cit_emergencycall_check_title">Nujni klic</string>
   <string name="cit_exit_test_summary">Pri izhodu bodo izbrisani vsi povezani tekstualni podatki.</string>
   <string name="cit_exit_test_title">Ustavi testiranje</string>
-  <string name="cit_external_sd_check_summary">To testiranje bo preverilo status SD zavkarticeihki</string>
+     <string name="cit_external_keyboard_test_summary">Po priključitvi tipkovnice naključno vnesite znake in opazujte rezultate testa</string>
+     <string name="cit_external_keyboard_test_title">Preizkus zunanje tipkovnice</string>
+  <string name="cit_external_sd_check_summary">To testiranje bo preverilo status SD kartice</string>
   <string name="cit_external_sd_check_title">Testiranje SD kartice</string>
      <string name="cit_f2_cali">Kalibracija</string>
      <string name="cit_f2_cali_done">Kalibracija končana!</string>
@@ -297,6 +323,8 @@ in obrnite polnilnikr"</string>
   <string name="cit_flash_life_check_title">Trajanje bliskavice</string>
      <string name="cit_flicker_sensor_check_summary">Vrednosti za utripanje naj bi bile prikazane spodaj</string>
      <string name="cit_flicker_sensor_check_title">Senzor utripanja</string>
+     <string name="cit_flip_board_bottom_speaker_test_title">Preizkus spodnjega zvočnika na Flip Board</string>
+     <string name="cit_flip_board_top_speaker_test_title">Preizkus zgornjega zvočnika na Flip Board</string>
   <string name="cit_fm_audio_path">Konfiguriraj pot zvoka</string>
   <string name="cit_fm_audio_path_headset">Slušalke</string>
   <string name="cit_fm_audio_path_speaker">Zvočnik</string>
@@ -308,6 +336,8 @@ in obrnite polnilnikr"</string>
   <string name="cit_fm_open_2">Start FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Vklop Bluetootha…</string>
   <string name="cit_fm_start_service">Zaženi zvok</string>
+     <string name="cit_fold_hall_test_summary">Napravo zložite in jo razširite. Če gumb za podajo postane klikljiv, je test uspel</string>
+     <string name="cit_fp_fod_cali_title">Umerjanje prstnih odtisov na zaslonu</string>
   <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
   <string name="cit_fpc_selftest">SAMO-TEST</string>
   <string name="cit_fpc_sensor_check_summary">Testiranje FPC senzorjev, pritisnete tipko in odgovarjajoči tekst na zaslonu bi moral postati zelen.</string>
@@ -328,8 +358,10 @@ in obrnite polnilnikr"</string>
 
 1.Samodejno odpri kamero za vstop v vmesnik za pregled
 2.Počakaj konec pregleda in se samodejno vrni"</string>
+     <string name="cit_front_dual_camera_check_title">Sprednja Bokeh camera</string>
      <string name="cit_front_rear_dual_camera_check_title">Sprednja Bokeh kamera</string>
      <string name="cit_front_rear_sub_camera_check_title">Sprednja Aux kamera</string>
+     <string name="cit_front_sub_camera_check_title">Sprednja Aux camera</string>
   <string name="cit_get_signature_failed">Dobivanje podpisa NEUSPEŠNO</string>
   <string name="cit_goodix_sensor_check_summary">Testiranje Goodix senzorja, pritisnite tipko in počakajte da bodo podatki označeni zeleno pravilni.</string>
   <string name="cit_goodix_sensor_check_title">Senzor prstnega odtisa Goodix</string>
@@ -346,6 +378,8 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
      <string name="cit_gyrodata_second_sensor_check_title">Drugi žiroskop</string>
   <string name="cit_gyrodata_sensor_check_summary">V nadaljevanju bi se morale prikazati vrednosti koordinat X, Y, Z</string>
   <string name="cit_gyrodata_sensor_check_title">Žiroskop</string>
+     <string name="cit_gyrodata_sensor_second_screen_check_title">Žiroskop za drugi zaslon</string>
+     <string name="cit_gyroscope_sensor_cali_title">Preskus umerjanja senzorja žiroskopa</string>
   <string name="cit_gyroscope_sensor_check_summary">Vrednosti za X, Y, Z koordinate bi se morale pojaviti v nadaljevanju</string>
   <string name="cit_gyroscope_sensor_check_title">Žiroskop</string>
   <string name="cit_hall_down_arrow">↓</string>
@@ -355,6 +389,7 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
      <string name="cit_hall_phone_slider_status_down">Drsno stanje telefona: podrsajte navzdol</string>
      <string name="cit_hall_phone_slider_status_up">Drsno stanje telefona: podrsajte navzgor</string>
   <string name="cit_hall_test_summary">Ko se magnet približa zelenemu področju bi se moral tekst približati, drugače bi tekst moral biti daleč.</string>
+     <string name="cit_hall_test_text">Trenutno stanje: %s</string>
   <string name="cit_hall_test_title">Dvorana</string>
   <string name="cit_hardware_info_summary">Počakajte… Pridobivanje informacij o strojni opremi naprave</string>
   <string name="cit_hardware_info_title">Informacije o strojni opremi</string>
@@ -373,6 +408,7 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
   <string name="cit_headset_button_rewind">Nazaj</string>
   <string name="cit_headset_button_stop">Ustavi</string>
   <string name="cit_headset_button_unknown">Neznano</string>
+     <string name="cit_headset_left_hph_val">Vrednost impedance levega kanala：</string>
   <string name="cit_headset_loopback_check_summary">"Nataknite si slušalke, priključite jih na napravo. Govorite v mikrofon na slušalkah (pogosto na kablu). Morali bi slišati svoj glas v zvočniku slušalk."</string>
   <string name="cit_headset_loopback_check_title">Testiranje mikrofona slušalk</string>
   <string name="cit_headset_plug_detect_summary">Ko so priključene slušalke bi se moral pokazati tekst \"Slušalke najdene\".</string>
@@ -384,6 +420,7 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
   <string name="cit_headset_pull_finish">Slušalke so izključene</string>
      <string name="cit_headset_pull_finish_test">Odklopljene slušalke, končan test</string>
   <string name="cit_headset_pull_hint">Izključite slušalke</string>
+     <string name="cit_headset_right_hph_val">Vrednost impedance desnega kanala：</string>
   <string name="cit_hide_menu">Skrij Meni</string>
      <string name="cit_hvdcp_charger_in">Polnjenje preko (USB_HVDCP)</string>
      <string name="cit_init_fp_fod_test_tip">Init testno okolje za prstne odtise</string>
@@ -392,6 +429,7 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
   <string name="cit_kayboard_volume_down">Tipka: GLASNOST -</string>
   <string name="cit_kayboard_volume_up">Tipka: GLASNOST +</string>
      <string name="cit_keyboard_ai_key">Tipka: AI_KEY</string>
+     <string name="cit_keyboard_auto_test_summary">Ključni dogodki, ki jih je treba preizkusiti, so prikazani spodaj, zelena pa pomeni, da so ustrezni ključni dogodki normalni. Pritisnite gumb za vklop, da se odklopite za izhod v načinu auto_test_mode.</string>
   <string name="cit_keyboard_back">Tipka: NAZAJ</string>
   <string name="cit_keyboard_current">Trenutna tipkovnica: %s</string>
   <string name="cit_keyboard_current_def">Trenutna tipkovnica:</string>
@@ -406,13 +444,17 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
      <string name="cit_led_check_charge_light">led za polnjenje</string>
      <string name="cit_led_check_first_flash_light">prva bliskavica</string>
      <string name="cit_led_check_second_flash_light">druga bliskavica</string>
+     <string name="cit_led_selected">Trenutno izbrano：</string>
   <string name="cit_leds_check_summary">Lučka v ozadju, lučka obvestil in bliskavica (zadnja) bi morale reagirati kadar se pritisne odgovarjajoča tipka.</string>
   <string name="cit_leds_check_title">Lučka obvestil (LED)</string>
   <string name="cit_light_sensor_check_summary">DAC vrednosti bi se morala pojaviti v nadaljevanju</string>
   <string name="cit_light_sensor_check_title">Senzor osvetlitve</string>
      <string name="cit_macro_camera_check_title">Makro kamera</string>
+     <string name="cit_magnetic_info_hint">Napravo sukajte v obliki številke 8</string>
   <string name="cit_magnetic_sensor_check_summary">V nadaljevanju bi se morale prikazati vrednosti koordinat X, Y, Z</string>
   <string name="cit_magnetic_sensor_check_title">Magnetni senzor</string>
+     <string name="cit_main_board_bottom_speaker_test_title">Preizkus spodnjega zvočnika na glavni plošči</string>
+     <string name="cit_main_board_top_speaker_test_title">Preizkus zgornjega zvočnika na glavni plošči</string>
   <string name="cit_main_camera_check_summary">"Navodila za testiranje:
 
  1. Pritisnite tipko kamere za odpiranje namizja fotoaparata
@@ -435,6 +477,8 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
   <string name="cit_notificationlight_on">Lučka obvestil vklj.</string>
   <string name="cit_otg_not_supported">"Ta model ne podpira OTG Testiranje."</string>
   <string name="cit_pass">Uspešno</string>
+     <string name="cit_pencil_reverse_wireless_charger_summary">Za začetek preizkusa svinčnik postavite na desno območje zaznavanja</string>
+     <string name="cit_pencil_reverse_wireless_charger_title">Test polnjenja svinčnika</string>
   <string name="cit_play_sd_mp3_hifi_summary">"Potrdite da obstaja datoteka z imenom \"music.mp3\" shranjena na SD kartici. Datoteka \"music.mp3\" mora biti predvajana skozi pot HIFI naprave pri začetku tega testiranje."</string>
   <string name="cit_play_sd_mp3_hifi_title">Predvajaj MP3(HIFI) shranjen na SD kartici</string>
   <string name="cit_play_sd_mp3_summary">"Potrdite da obstaja datoteka z imenom  \"music.mp3\" shranjena na SD kartici. Datoteka \"music.mp3\" mora biti predvajana preko zunanjih zvočnikov naprave pri začetku tega testiranje."</string>
@@ -448,11 +492,12 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
      <string name="cit_proximity_data_check_summary">"Infrardeči senzor razdalje: Pokrijte senzor razdalje telefona z roko in zapustite senzor razdalje. 
 Ultrazvočni senzor razdalje: simulirajte dvig slušalke, da sprejmete klic 
 Če spodnje preskusno območje pri približevanju kaže vrednost 0,0, vrednost 5.0 pa, ko je oddaljena, je test uspešen, sicer test ne uspe ."</string>
+     <string name="cit_proximity_sensor_cali_title">Preskus umerjanja senzorja bližine</string>
   <string name="cit_proximity_sensor_check_summary">"Pokrijte senzor oddaljenosti (nahaja se na vrhu telefona v bližini sprejemnika) z roko, potem pa roko umaknite. Vrednost se mora povečati od 0,0 ko umaknete roko.
 Pri kalibriranju preverite da ni ničesar med senzorjem in vašo roko (npr. rokavice)."</string>
   <string name="cit_proximity_sensor_check_title">Senzor bližine</string>
   <string name="cit_proximity_us_sensitivity">Občutljivost:</string>
-  <string name="cit_proximity_us_summary">Kalibriranje Ultrasound Proximity senzorja</string>
+  <string name="cit_proximity_us_summary">Kalibriranje Ultrasound senzorja bližine</string>
   <string name="cit_rear_dual_camera_check_title">Zadnja dual kamera</string>
      <string name="cit_rear_dual_second_camera_check_title">Bokeh2 kamera</string>
      <string name="cit_rear_dual_third_camera_check_title">Bokeh3 kamera</string>
@@ -475,12 +520,14 @@ Pri kalibriranju preverite da ni ničesar med senzorjem in vašo roko (npr. roka
   <string name="cit_reset_se_start">Ponastavitev eSE...</string>
   <string name="cit_reset_test">Testiranje</string>
      <string name="cit_reverse_charge_check_summary">Vstavite telefon OTG, da se napolni</string>
+     <string name="cit_reverse_wireless_charge_check_tips">Prosimo, da telefon in napravo po potrebi napolnite in začnite s testiranjem</string>
      <string name="cit_rgb_check_blue_light">RGB modro</string>
      <string name="cit_rgb_check_green_light">RGB zeleno</string>
      <string name="cit_rgb_check_red_light">RGB rdeče</string>
      <string name="cit_sar_get_status_title">DOBITE DSI VREDNOST</string>
   <string name="cit_sar_sensor_check_summary">V nadaljevanju se morajo prikazati vrednosti kanala senzorja, pokrijte tipke telefona, če so podatki spremenjeni, deluje dobro</string>
   <string name="cit_sar_sensor_check_title">SAR senzor</string>
+     <string name="cit_sar_sensor_collect_cali_description">Umerjanje senzorja Sar in zbiranje podatkov</string>
      <string name="cit_sar_setting_config_title">SAR TEST NASTAVITVE</string>
   <string name="cit_sd_fail">Prišlo je do napake.</string>
   <string name="cit_sd_mount">Vpenjanje SD kartice</string>
@@ -495,6 +542,8 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_sd_plugout_check_title">SD kartica (odstranjevanje)</string>
   <string name="cit_sd_unmount">Odstranite SD kartico</string>
   <string name="cit_sd_unmount_sucess">SD kartica odstranjena</string>
+     <string name="cit_second_screen_accelermeter_sensor_cali_title">Preskus umerjanja senzorja za pospešek drugega zaslona</string>
+     <string name="cit_second_screen_gyroscope_sensor_cali_title">Preskus umerjanja senzorja giroskopa na drugem zaslonu</string>
   <string name="cit_signature_check_label">Preverjanje podpisa:</string>
   <string name="cit_sim_check_summary">Preverite ali se informacije in status SIM kartice prikazujejo pravilno.</string>
   <string name="cit_sim_check_title">SIM kartica</string>
@@ -515,17 +564,25 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
      <string name="cit_slider_hall_miui_test_summary">Izvedite celoten premik telefona navzgor in navzdol.</string>
      <string name="cit_slider_hall_test_summary">Izvedite celoten premik telefona navzgor in navzdol.</string>
      <string name="cit_slider_hall_test_title">Slider Hall</string>
-     <string name="cit_soft_torch">sprednja mehka bliskavica</string>
+     <string name="cit_soft_torch">Sprednja mehka bliskavica</string>
+     <string name="cit_soft_torch_first">Prva mehka bliskavica</string>
      <string name="cit_soft_torch_off">Izključi sprednjo mehko bliskavico</string>
      <string name="cit_soft_torch_on">Vključi sprednjo mehko bliskavico</string>
+     <string name="cit_soft_torch_second">Druga mehka bliskavica</string>
      <string name="cit_splash_check_summary">Prepričajte se, da je pojav črnega zaslona več kot 5s.</string>
   <string name="cit_start_calibration">Kalibriraj</string>
   <string name="cit_stop_calibration">Ustavi kalibracijo</string>
+     <string name="cit_sub_display_check_title">Podzaslon</string>
+     <string name="cit_sub_touch_panel_test_title">Sub Senzor za dotik</string>
   <string name="cit_tele_camera_check_title">Tele Kamera</string>
+     <string name="cit_tfcard_available_szie">Razpoložljiva velikost</string>
+     <string name="cit_tfcard_mounted">Zaznaj SD kartico</string>
   <string name="cit_tfcard_no_support">TF Kartica ni podprta v tej napravi.</string>
   <string name="cit_tfcard_support">TF Kartica je podprta v tej napravi.</string>
   <string name="cit_tfcard_support_summary">Preverite ali naprava podpira TF Kartico</string>
   <string name="cit_tfcard_support_title">Naprava podpira TF Kartico</string>
+     <string name="cit_tfcard_total_size">Skupna velikost</string>
+     <string name="cit_tfcard_unmounted">SD katica ni na voljo</string>
   <string name="cit_thermal_history_summary">Počakajte … Branje temperaturnih podatkov na tej napravi.</string>
   <string name="cit_thermal_history_title">Zgodovina temperatur</string>
      <string name="cit_tof_sensor_check_summary">Vrednosti za TOF bi morale biti prikazane spodaj</string>
@@ -650,6 +707,8 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_tool_bluetooth_off">Izključi Bluetooth</string>
   <string name="cit_tool_bluetooth_on">Vključi Bluetooth</string>
      <string name="cit_tool_bluetooth_rse">Zaženi Bluetooth RSE Test Način</string>
+     <string name="cit_tool_bluetooth_rx_count_error">Izhodna vrednost ni število</string>
+     <string name="cit_tool_bluetooth_rx_error">Med programom je prišlo do napake</string>
      <string name="cit_tool_bluetooth_tx_burst_run">ZAČNI</string>
   <string name="cit_tool_bluetooth_tx_h">Bluetooth BR/EDR 2.480GHz Freq Testiranje načina dela</string>
   <string name="cit_tool_bluetooth_tx_l">Bluetooth BR/EDR 2.402GHz Freq Testiranje načina dela</string>
@@ -662,7 +721,7 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
      <string name="cit_tool_check_ok">v redu</string>
      <string name="cit_tool_check_opt">ste prepričani?</string>
      <string name="cit_tool_check_opt_with_reboot">ponovni zagon, ste prepričani?</string>
-     <string name="cit_tool_current_modem_test_mode">Current Test Mode:</string>
+     <string name="cit_tool_current_modem_test_mode">Trenutni preskusni način:</string>
   <string name="cit_tool_drx_only">DRX</string>
   <string name="cit_tool_enable_3A_log">Omogoči zapis 3A Switch</string>
   <string name="cit_tool_enable_display_3A_log">Omogoči Display 3A log</string>
@@ -723,7 +782,9 @@ Druga vrstica prikazuje ime in številko različice privzetih MBN in Carrier MBN
      <string name="cit_tool_modem_test_mode_set">Potrdite nastavitev</string>
      <string name="cit_tool_modem_test_rf_ant">RF Ant</string>
      <string name="cit_tool_modem_test_set">potrdite</string>
+     <string name="cit_tool_modem_test_title">MODEM testno orodje</string>
      <string name="cit_tool_modem_test_will_set">bo odprl testni način in znova zagnal</string>
+     <string name="cit_tool_modem_tool_move_notify">To orodje je bilo premaknjeno na MTB, dobite ga lahko s skrivno kodo: *#*#663368378#*#*</string>
   <string name="cit_tool_nfc">NFC Testiranje</string>
   <string name="cit_tool_nfc_ce_disable">Onemogoči Ce</string>
   <string name="cit_tool_nfc_ce_enable">Omogoči Ce</string>
@@ -732,9 +793,11 @@ Druga vrstica prikazuje ime in številko različice privzetih MBN in Carrier MBN
   <string name="cit_tool_nfc_st_confreq">Freq:</string>
   <string name="cit_tool_nfc_st_run">Začni</string>
   <string name="cit_tool_nfc_st_stop">Ustavi</string>
+     <string name="cit_tool_nfc_test_title">NFC testno orodje</string>
      <string name="cit_tool_no_repeat">Brez ponavljanja!</string>
      <string name="cit_tool_not_support">Ni podprto</string>
      <string name="cit_tool_opt_fail_info_notify">Izbira ni uspela, telefon je treba znova zagnati za način brez povezave.</string>
+     <string name="cit_tool_opt_standby">opcija pripravljenosti ...</string>
   <string name="cit_tool_prx_drx">PRx+DRx</string>
   <string name="cit_tool_prx_drx_select_mode">Izberi način:</string>
   <string name="cit_tool_prx_drx_select_rat">Izberi RAT:</string>
@@ -791,6 +854,27 @@ Druga vrstica prikazuje ime in številko različice privzetih MBN in Carrier MBN
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
   <string name="cit_tool_wifi_tx_st_chan">Kanal:</string>
   <string name="cit_tool_wifi_txrx_chain_selection">Izberi anteno</string>
+     <string name="cit_tool_wlan">WiFi testno orodje</string>
+     <string name="cit_tool_wlan_exit">Izhod</string>
+     <string name="cit_tool_wlan_rx_chan">Rx: Kanal</string>
+     <string name="cit_tool_wlan_rx_count_error">Izhodna vrednost ni število</string>
+     <string name="cit_tool_wlan_rx_error">Med programom je prišlo do napake</string>
+     <string name="cit_tool_wlan_rx_exit">Rx:izhod</string>
+     <string name="cit_tool_wlan_rx_run">Začni</string>
+     <string name="cit_tool_wlan_rx_stop">Stoj</string>
+     <string name="cit_tool_wlan_rxbg_test_channel">kanal:</string>
+     <string name="cit_tool_wlan_rxn_test_bw">pasovna širina:</string>
+     <string name="cit_tool_wlan_rxn_test_channel">kanal:</string>
+     <string name="cit_tool_wlan_sniffer">WiFi Sniffer orodje</string>
+     <string name="cit_tool_wlan_sniffer_settings">Sniffer nastavitve</string>
+     <string name="cit_tool_wlan_sniffer_test_title">WiFi sniffer testno orodje</string>
+     <string name="cit_tool_wlan_test_title">WiFi testno orodje</string>
+     <string name="cit_tool_wlan_tx_ax_gI">Varovalni interval:</string>
+     <string name="cit_tool_wlan_tx_bg_chan">kanal:</string>
+     <string name="cit_tool_wlan_tx_n_bandwidth">pasovna širina:</string>
+     <string name="cit_tool_wlan_tx_n_chan">kanal:</string>
+     <string name="cit_tool_wlan_tx_st_chan">kanal:</string>
+     <string name="cit_tool_wlan_txrx_chain_selection">Izberite anteno</string>
      <string name="cit_top_left_speaker_test">Test levega zgornjega zvočnika</string>
      <string name="cit_top_right_speaker_test">Test desnega zgornjega zvočnika</string>
      <string name="cit_torch">Svetilka</string>
@@ -830,6 +914,7 @@ test ni uspel!"</string>
   <string name="cit_vga_camera_capture_fail">Snemanje fotografije ni uspelo</string>
   <string name="cit_vga_camera_delete">Izbriši</string>
   <string name="cit_vga_camera_deleted">Fotografija je izbrisana</string>
+     <string name="cit_vibrator_check">Test vibratorja</string>
   <string name="cit_vibrator_check_summary">Preverite ali vibracija (dolga in kratka) deluje normalno</string>
   <string name="cit_vibrator_check_title">Vibracija</string>
   <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
@@ -840,7 +925,13 @@ test ni uspel!"</string>
   <string name="cit_vibrator_play_touch_pattern">Vibracija</string>
   <string name="cit_vibrator_short">Kratka vibracija</string>
   <string name="cit_vibrator_show_advanced">Pokaži napredne opcije</string>
-     <string name="cit_voc_data_check_title">VOC Data Senzor</string>
+     <string name="cit_vice_display_check_summary">"Ko je prikaz na majhnem zaslonu vklopljen, dvokliknite, da zasvetli zaslon
+ Prepričajte se, da so barve dosledno prikazane na celotnem zaslonu. Prepričajte se, da ni nepravilnih svetlih in temnih madežev."</string>
+     <string name="cit_vice_display_check_title">Vice zaslon</string>
+     <string name="cit_vice_touch_panel_test_summary">Ko vklopite zaslon na majhnem zaslonu in dvokliknete, da zasvetli zaslon, morate obrniti zaslon in dvoklikniti zadnji mali zaslon, da zasveti zaslon, in narisati križ na majhen zaslon vzdolž mreže</string>
+     <string name="cit_vice_touch_panel_test_tips">Potrdite, da je prikaz na majhnem zaslonu in dvokliknite, da vklopite zaslon na majhnem zaslonu na zadnji strani, kliknite</string>
+     <string name="cit_vice_touch_panel_test_title">Vice senzor dotika</string>
+     <string name="cit_voc_data_check_title">VOC senzor podatkov</string>
      <string name="cit_voc_data_humidity">Vlaga</string>
      <string name="cit_voc_data_pressure">Pritisk</string>
      <string name="cit_voc_data_sensor_check_summary">Vrednosti za VOC, temperaturo,vlago in pritisk bi se morale pokazati zgoraj</string>
@@ -870,6 +961,7 @@ Obrnite napravo, govorite v zgornji mikrofon, morali bi slišati glas v zvočnik
      <string name="current_angle">Trenutni kot:</string>
      <string name="delete">Izbriši</string>
      <string name="description_info">Info</string>
+     <string name="dispaly_sar_sensor_values">Pokaži vse trenutne vrednosti senzorja</string>
      <string name="display_test_finish">Preizkus zaslona je končan</string>
      <string name="dsi_sar_on_off_tips">Dsi Sar On/Off stikalo</string>
      <string name="enrol">Vpis</string>
@@ -885,6 +977,7 @@ Obrnite napravo, govorite v zgornji mikrofon, morali bi slišati glas v zvočnik
   <string name="error_sdcard_access">Ne morem dostopiti do sistema prostora!</string>
   <string name="error_unknown_error">Neznana napaka</string>
      <string name="fail">Ni uspelo</string>
+     <string name="failed_to_get_permission">Zaznavanje nadzora v oblaku ni uspelo in nekatere funkcije so se izgubile</string>
   <string name="failed_to_test">TEST NI USPEL</string>
      <string name="fingerprint">Prstni odtis:</string>
      <string name="fingerprint_input_title"> test vnosa prstnega odtisa</string>
@@ -918,11 +1011,12 @@ določen položaj"</string>
      <string name="front_mic_check_record_tip">Snemanje, nekaj povejte v mikrofon telefona</string>
      <string name="get_DSI_result">DSI rezultat</string>
      <string name="get_base_finger">Izvleček slike: izberite osnovni prst</string>
+     <string name="get_dsi_tips">Trenutna DSI vrednost</string>
      <string name="get_finger_data">Izvleček slike: zbiranje podatkov</string>
      <string name="get_sample_finger">Izvleček slike: vzemite vzorec prsta</string>
   <string name="get_sensor_info">SPREJMI INFO. O SENZORJU</string>
      <string name="get_template_finger">Izvleček slike: pridobi predlogo prsta</string>
-     <string name="gpu_maxfreq_title">GPU Overfreq Mode for Experimental</string>
+     <string name="gpu_maxfreq_title">GPU Maxfreq način Experimental</string>
      <string name="headset_key">Gumb za slušalke</string>
      <string name="headset_key_tip">Pred nadaljevanjem naslednjega preizkusa morate preizkusiti gumb na slušalkah</string>
      <string name="headset_plug_check_tip">Zdaj predvajajte pesem, poslušajte v slušalkah, izvlecite slušalke, ko končate testiranje</string>
@@ -930,6 +1024,7 @@ določen položaj"</string>
      <string name="headset_press">Pritisni</string>
      <string name="headset_record">Snemanje, povejte nekaj v slušalke in snemanje se bo ustavilo čez 3 sekunde</string>
      <string name="headset_test">S tem boste preizkusili vstavljanje slušalk, odstranjevanje, mikrofon slušalk in gumb na slušalkah, vsi testi pa bodo uspešni</string>
+     <string name="headset_test_tips">S tem boste preizkusili vstavljanje slušalk, odstranjevanje, mikrofon slušalk in gumb na slušalkah, vsi testi pa bodo uspešni</string>
      <string name="headset_unplug_check_tip">Nadenite slušalke</string>
      <string name="headset_unplug_tip">Nadenite slušalke</string>
      <string name="hello_world">Hojla svet!</string>
@@ -988,6 +1083,7 @@ določen položaj"</string>
   <string name="next">Naprej</string>
      <string name="next_step">Naslednji korak</string>
      <string name="nfc_disable_tip">Vključi NFC</string>
+     <string name="nfc_not_available">NFC ni na voljo</string>
      <string name="no">Ne</string>
      <string name="no_vibrator">Ni vibratorja</string>
   <string name="noise">Hrup:</string>
@@ -1111,12 +1207,13 @@ Po uspešnem kalibriranju nadzorujte napravo blizu in stran od telefona"</string
   <string name="sensor_information">Informacije senzorja</string>
      <string name="set_dsi_tips">Nastavi DSI</string>
   <string name="show_log">Pokaži zapis</string>
+     <string name="slave_battery_authentic">Sekundarna baterija je pristna</string>
   <string name="speak_from_mic">Govorite v mikrofon, morali bi slišati glas v zvočniku.</string>
   <string name="start">Start</string>
   <string name="start_extract_sample">Začni izločati vzorce</string>
   <string name="start_extract_template">Začni izločati predloge</string>
-  <string name="start_far">Start FAR</string>
-  <string name="start_frr">Start FRR</string>
+  <string name="start_far">Začni FAR</string>
+  <string name="start_frr">Začni FRR</string>
   <string name="status">Status</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_failed">En ali več testov ni uspelo</string>
@@ -1127,9 +1224,13 @@ Po uspešnem kalibriranju nadzorujte napravo blizu in stran od telefona"</string
   <string name="success_extract_template">Končano izločanje predlog</string>
   <string name="success_get_finger_data">Izločanje slike: uspešno pridobljeni podatki o odtisih</string>
   <string name="success_to_test">TESTIRANJE USPEŠNO</string>
+     <string name="successfully_obtained_permission">Zaznavanje nadzora v oblaku je uspešno, funkcija začne veljati</string>
+     <string name="temperature">temperatura</string>
   <string name="template_data">Podatki predlog</string>
   <string name="template_hint">Izločanje predlog %1$s za en prst</string>
   <string name="template_progress_hint">Počakajte Izločanje podatkov predlog</string>
+     <string name="test_back_mic">Zadnji mikrofon</string>
+     <string name="test_bottom_speaker">spodnji_zvočnik</string>
   <string name="test_cases">Test ovitka</string>
      <string name="test_front_mic">Sprednji mikrofon</string>
      <string name="test_headset">Test slušalk</string>
@@ -1137,13 +1238,13 @@ Po uspešnem kalibriranju nadzorujte napravo blizu in stran od telefona"</string
      <string name="test_receiver">Sprejemnik</string>
      <string name="test_receiver_summary">"Slišali boste dve naključni številki
 Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
-  <string name="test_result">TEST RESULT</string>
+  <string name="test_result">REZULTAT PRESKUSA</string>
      <string name="test_speaker">zvočnik</string>
      <string name="test_speaker_summary">"Slišali boste dve naključni številki
 Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
-     <string name="test_spi">SPI测试</string>
   <string name="test_spi_chip_id">Chip ID:</string>
      <string name="test_top_mic">Zgornji mikrofon</string>
+     <string name="test_top_speaker">zgornji_zvočnjik</string>
   <string name="testagain">Lahko pritisnete tipko Domov za ponovno testiranje</string>
   <string name="testing">Zagon AutoTesta…</string>
      <string name="tips_not_placed_right_angle">Telefon ni postavljen pod pravim kotom</string>

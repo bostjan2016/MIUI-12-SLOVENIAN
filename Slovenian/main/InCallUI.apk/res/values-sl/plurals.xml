@@ -49,10 +49,6 @@
         <item quantity="other">Prijavilo %d MIUI uporabnikov</item>
         <item quantity="one">Prijavil %d MIUI uporabnik</item>
     </plurals>
-    <plurals name="livetalk_left_minute">
-        <item quantity="other">%d minut ostalo</item>
-        <item quantity="one">%d minuta ostalo</item>
-      </plurals>
     <plurals name="duration_hours">
         <item quantity="other">%d ur</item>
         <item quantity="one">%d ura</item>
