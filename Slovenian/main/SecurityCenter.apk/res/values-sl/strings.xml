@@ -4266,7 +4266,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
      <string name="special_perm_file_msg">Dovolite aplikacijam dostop do datotek v napravi</string>
      <string name="special_perm_file_title">Dostop do datotek</string>
      <string name="special_perm_follow_msg">Dovolite aplikacijam spremljanje uporabe naprave</string>
-     <string name="special_perm_follow_title">Spremljanje uporabe napravea</string>
+     <string name="special_perm_follow_title">Spremljanje uporabe naprave</string>
      <string name="special_perm_install_msg">Dovolite aplikacijam namestitev aplikacij iz neznanih virov</string>
      <string name="special_perm_install_title">Nameščanje aplikacij iz neznanih virov</string>
      <string name="special_perm_intercept_action_msg">Naučite se uporabljati svojo napravo in svoja dejanja nadomestiti z avtomatiziranimi</string>
