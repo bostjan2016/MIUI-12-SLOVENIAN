@@ -368,7 +368,7 @@
   <string name="wifi_assistant_wifi_no_internet">To WiFi omrežje nima dostopa do spleta</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Tapni za prikaz podrobnosti</string>
   <string name="wireless_charging_notification_message1">"Ne najdem brezžičnih naprav za polnjenje. Obrnjeno brezžično polnjenje je zdaj izključeno."</string>
-  <string name="wireless_charging_notification_message2">Baterija je napolnjena manj kot 30%. Obrnjeno brezžično polnjenje je izključeno.</string>
+  <string name="wireless_charging_notification_message2">Baterija je napolnjena manj kot %s. Obrnjeno brezžično polnjenje je izključeno.</string>
   <string name="wireless_charging_notification_message3">Napaka med polnjenjem. Obrnjeno brezžično polnjenje je zdaj izključeno.</string>
   <string name="wireless_charging_notification_titile">Obrnjeno brezžično polnjenje je zdaj izključeno</string>
   <string name="xiaomi">Mi</string>

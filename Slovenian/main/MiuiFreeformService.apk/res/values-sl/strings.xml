@@ -44,13 +44,13 @@
   <string name="freeform_demo_go_on">Naprej</string>
   <string name="freeform_demo_title_finish">Lepo!</string>
   <string name="freeform_demo_title_skip">Preskoči</string>
-     <string name="freeform_slide_to_small_freeform">Podrsaj za zmanjšanje</string>
-     <string name="freeform_slide_to_small_freeform_summary">Pritisnite in potisnite do vrstice z dejanji plavajočega okna v zgornjem desnem kotu</string>
+     <string name="freeform_slide_to_small_freeform">Zmanjšajte plavajoče okno</string>
+     <string name="freeform_slide_to_small_freeform_summary">Pritisnite in pridržite vrstico opravil in povlecite v kot</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
-     <string name="fullscreen_slide_to_small_freeform">Podrsaj za celoten zaslon</string>
-     <string name="fullscreen_slide_to_small_freeform_summary">Povlecite od dna zaslona do zgornjega desnega kota zaslona</string>
+     <string name="fullscreen_slide_to_small_freeform">Zmanjšajte aplikacijo</string>
+     <string name="fullscreen_slide_to_small_freeform_summary">Povlecite od dna zaslona do zgornjega desnega kota</string>
   <string name="how_to_close_or_fullscreen_freeform">Zapiranje plavajočih oken ali preklop na celozaslonski način</string>
   <string name="how_to_drop_down_to_fullscreen">Preklopi na celozaslonski način dela</string>
   <string name="how_to_drop_down_to_fullscreen_summary">Dotaknite se in pridržite, nato povlecite navzdol delovni trak plavajočega okna</string>

@@ -457,6 +457,7 @@ Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
   <string name="adjust_3d_depth_title">"Prilagodite 3D globino iger"</string>
      <string name="adjust_font_size_answer_cn">Poskusite prilagoditi velikost besedila in debelino pisave s spodnjimi drsniki!</string>
      <string name="adjust_font_size_answer_global">Poskusite prilagoditi velikost besedila s spodnjimi drsniki!</string>
+     <string name="adjust_ligth">Prilagajanje svetlosti</string>
   <string name="adjust_temperature_title">Temperatura barve</string>
   <string name="admin_device_owner_message">Skrbnik lahko nadzira in upravlja aplikacije ter podatke, povezane s to napravo, vključno z nastavitvami, dovoljenji, dostopom za podjetje, omrežno dejavnostjo in podatki o lokaciji naprave.</string>
     <string name="admin_disabled_other_options">Druge možnosti je onemogočil skrbnik</string>
@@ -5418,6 +5419,7 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_plus">Glasnost gor</string>
      <string name="miheadset_rename">Preimenuj</string>
      <string name="miheadset_rename_device">Preimenuj</string>
+     <string name="miheadset_single_ear_indicate">Nosite obe slušalki, da uporabite odpravljanje šuma</string>
      <string name="miheadset_soft">mehko</string>
      <string name="miheadset_transparent">Preglednost</string>
      <string name="miheadset_transparentMode">Preglednost</string>
@@ -8670,6 +8672,8 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Smart Cover način</string>
   <string name="smartcover_sensitive_summary">Samodejno zaklenite/odklenite telefon s smart cover-jem</string>
   <string name="smartcover_sensitive_title">Smart cover</string>
+     <string name="smooth_adjust_ligth">Bolj gladki prehodi</string>
+     <string name="smooth_adjust_ligth_summary">Naj bodo prehodi bolj gladki, ko ročno nastavljate svetlost. Ko je ta storitev vklopljena, se lahko v nekaterih primerih pojavijo rahle barvne neskladnosti.</string>
   <string name="sms_access_restriction_enabled">Omejitev dostopa do SMS-ov in dnevnika klicev</string>
     <string name="sms_access_restriction_enabled_summary">Samo privzete aplikacije za klicanje in sporočila imajo dovoljenja za sporočila SMS in dnevnik klicev</string>
     <string name="sms_application_title">Aplikacija za SMS</string>

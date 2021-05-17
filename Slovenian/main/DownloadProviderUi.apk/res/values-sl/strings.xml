@@ -71,12 +71,14 @@
   <string name="cancel">Prekini</string>
   <string name="cancel_running_download">Prekliči</string>
   <string name="cancle">Prekliči</string>
+     <string name="character_counter_content_description">Preseženo število znakov %1$d od %2$d</string>
   <string name="choose_open_picture">Izberi opravilo</string>
   <string name="choose_open_time">Izberite kdaj bi radi začeli</string>
   <string name="clear_data">Očisti</string>
      <string name="clearable_edittext_clear_description">Očisti</string>
   <string name="close">Zapri</string>
   <string name="close_ad">Zapri OGLAS</string>
+     <string name="collect_diagnosis_log">Zberi poročila</string>
   <string name="common_google_play_services_unknown_issue">%1$s ima težave s storitvami Google Play. Poskusite ponovno.</string>
   <string name="complete_time">Končano:</string>
   <string name="confirm">V redu</string>
@@ -96,6 +98,10 @@
   <string name="deselect_all">Prekliči izbrano</string>
   <string name="deselect_subfile_all">Prekliči izbrano</string>
   <string name="determine">V redu</string>
+     <string name="diagnosis_log_send_failed">Pošiljanje poročil ni uspelo.</string>
+     <string name="diagnosis_log_sent_format">"Poročila poslana.
+ID:%s
+Pošljite to kodo tehnikom."</string>
   <string name="dialog_btn_cancel">Prekliči</string>
   <string name="dialog_btn_ok">V redu</string>
   <string name="dialog_btn_ok_disabled_net">Nastavitve omrežja</string>
@@ -252,6 +258,7 @@
      <string name="fmt_weekday_time">W T</string>
      <string name="fmt_weekday_time_timezone">zW T</string>
      <string name="fmt_weekday_timezone">zW</string>
+     <string name="for_diagnosis_usage_only">Te informacije uporabi samo za diagnozo.</string>
   <string name="force_touch_newdownload">Novi prenosi</string>
   <string name="force_touch_rank">Vrstni red</string>
   <string name="force_touch_search">Preišči splet</string>
@@ -379,6 +386,7 @@
      <string name="month_september_shortest">S</string>
      <string name="more">Več</string>
      <string name="morning">Jutro</string>
+     <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="net_error">"Ne morem se povezati na omrežje, poskusite ponovno"</string>
   <string name="network_error">"Ne morem se povezati na omrežje"</string>
   <string name="new_add">Novo</string>
@@ -403,6 +411,7 @@
   <string name="notify_install_guide_title">%s uspešno nameščen</string>
   <string name="notify_not_support">"Taka obvestila niso podprta, posodobite zdaj"</string>
   <string name="notify_only_wifi_download">Čakanje na WiFi</string>
+     <string name="ok">V redu</string>
   <string name="one_month">1 mesec</string>
   <string name="only_support_torrent">Podprte so samo torrent datoteke</string>
   <string name="open">Odpri</string>
@@ -415,6 +424,9 @@
   <string name="other">Ostalo</string>
   <string name="other_filter">Ostalo</string>
   <string name="package_filter">Paketi</string>
+     <string name="passport_oauth_actionbar_title">Mi Račun</string>
+     <string name="passport_oauth_sucess_tip">Avtorizacija uspela</string>
+     <string name="password_toggle_content_description">Pokaži geslo</string>
   <string name="path_no_available">"Pot ni na voljo"</string>
   <string name="path_not_available">Pot ni na voljo</string>
   <string name="pause_download">Odmor</string>
@@ -512,6 +524,8 @@
   <string name="select_subfile_all">Izberi vse</string>
   <string name="selected_count">Izbranih %1$d od %2$d</string>
      <string name="send">Pošlji</string>
+     <string name="send_diagnosis_log">Pošlji poročila diagnoze</string>
+     <string name="sending">Pošiljam…</string>
   <string name="setting_close_debug">Debug način izključen</string>
   <string name="setting_debug_fail">"Ne morem vstopiti v Debug način"</string>
   <string name="setting_open_debug">Debug način je izključen. Dotaknite se tu 6 krat za vklop.</string>
@@ -602,6 +616,7 @@
   <string name="task_detail">Naloge</string>
   <string name="task_detail_notfound_confirm">V redu</string>
   <string name="task_fail">"Ne morem dokončati"</string>
+     <string name="temporary_not_available">trenutno ni na voljo</string>
      <string name="terabyteShort">TB</string>
   <string name="test_speed">Testiraj</string>
   <string name="test_speed_detail">Podrobnosti</string>

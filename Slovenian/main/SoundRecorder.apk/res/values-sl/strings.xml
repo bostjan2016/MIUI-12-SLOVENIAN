@@ -313,7 +313,7 @@
      <string name="record_list_item_recognize_text">Besedilo</string>
   <string name="record_mark_point">Označi %s</string>
   <string name="record_name_hour">.</string>
-  <string name="record_name_minute"/>
+  <string name="record_name_minute">​</string>
   <string name="record_quliaty_preference_title">Kvaliteta snemanja</string>
   <string name="record_resotre">Obnovi posnetke</string>
      <string name="recorder_record">Avdio</string>
