@@ -465,6 +465,7 @@
   <string name="search_stopwatch_keywords">Štoparica</string>
   <string name="search_timer_keywords">Kronometer</string>
   <string name="search_worldclock_keywords">Čas;Svetovna ura;Ura</string>
+     <string name="select_operation">Izberi</string>
      <string name="send">Pošlji</string>
   <string name="set_alarm">Nastavi alarm</string>
   <string name="set_alarm_choose_ringtone">Izberite melodijo zvonjenja</string>
@@ -480,6 +481,7 @@
   <string name="shortcut_stop_watch">Zaženi štoparico</string>
   <string name="shut_down_keep_screen">"Zaslon ne bo ostal vključen"</string>
   <string name="shutdown_alarm_alert_enable_summary">Alarmi za izklop se bodo ugasnili vsaj 10 minut po izklopu naprave</string>
+     <string name="shutdown_alarm_alert_enable_summary_new">Vklopite, da se nastavljeni alarmi izklopijo, ko je naprava izključena. Izklopijo se samo alarmi, nastavljeni vsaj %d minut po izklopu naprave.</string>
   <string name="shutdown_alarm_alert_title">Izključi alarm</string>
   <string name="shutdown_alarm_disable_summary">"Alarm se ne bo izključil po izklopu naprave"</string>
   <string name="shutdown_alarm_enable_summary">"Alarm se bo izključil če je nastavljen najmanj 10 minut potem ko izključite napravo"</string>

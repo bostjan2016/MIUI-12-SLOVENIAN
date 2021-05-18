@@ -35,6 +35,7 @@
      <string name="about_lasted_version">To je zadnja verzija</string>
   <string name="accessibility_guide_second">Nato kliknite v zgornjem desnem vogalu \"Sprejmi\" za nadaljevanje.</string>
      <string name="account_add_title">Izberite ponudnika pošte</string>
+     <string name="account_change">Preklopite med računi</string>
   <string name="account_duplicate_dlg_message_fmt">To uporabniško ime že uporabljate za račun \"%s\".</string>
   <string name="account_duplicate_dlg_title">Podvojeni račun</string>
   <string name="account_failure">Napaka računa</string>
@@ -65,6 +66,7 @@
   <string name="account_settings_chat_mode_summary">Tapni za združitev E-poštne skupine in vstopi v način pogovora</string>
   <string name="account_settings_data_usage">Poraba podatkov</string>
   <string name="account_settings_description_label">Ime računa</string>
+     <string name="account_settings_display">Zaslon</string>
      <string name="account_settings_does_not_support_pop">Protokol POP3 ne podpira teh nastavitev</string>
   <string name="account_settings_edit_quick_responses_label">Hitri odzivi</string>
   <string name="account_settings_edit_quick_responses_summary">Uredite kratka sporočila ki jih lahko prilepite na vašo E-pošto</string>
@@ -84,15 +86,20 @@
   <string name="account_settings_notify_label">Obvestila E-pošte</string>
   <string name="account_settings_notify_summary">Pošlji obvestilo ko prispe E-pošta</string>
      <string name="account_settings_only_notify_inbox">Samo pošta z nabiralnikom za opomnike</string>
+     <string name="account_settings_op_title">Urejaj e-pošto</string>
   <string name="account_settings_param">Nastavitve računa</string>
   <string name="account_settings_policies">Varnostna pravila</string>
   <string name="account_settings_preference_add_account">Dodaj račun</string>
   <string name="account_settings_preference_att_save_path">Privzeta lokacija za priponke</string>
   <string name="account_settings_preference_head_icon">Fotografije profila</string>
+     <string name="account_settings_preference_head_icon_summary">"Na poštnem seznamu je prikazan avatar pošiljatelja"</string>
      <string name="account_settings_preference_notify">Obvesti</string>
+     <string name="account_settings_receive_title">Dohodna e-poštna sporočila</string>
   <string name="account_settings_retry_label">Poskusi sinhronizacijo</string>
   <string name="account_settings_retry_summary">Tapni za sinhronizacijo računa</string>
   <string name="account_settings_ringtone">Izberi zvok obvestila</string>
+     <string name="account_settings_send_title">Odhodna e-poštna sporočila</string>
+     <string name="account_settings_server_summary">Spreminjanje uporabniških imen, gesel in še več</string>
   <string name="account_settings_servers">Nastavitve strežnika</string>
   <string name="account_settings_smime_title">S/MIME (Secure/Multipurpose Internet Mail Extensions)</string>
   <string name="account_settings_summary">Sinhroniziraj frekvence, obvestila, itd.</string>
@@ -102,6 +109,7 @@
   <string name="account_settings_sync_contacts_summary">Sinhroniziraj stike za ta račun</string>
   <string name="account_settings_sync_email_enable">Sinhroniziraj E-pošto</string>
   <string name="account_settings_sync_email_summary">Sinhroniziraj E-pošto za ta račun</string>
+     <string name="account_settings_sync_other_tips">Podprti so samo strežniki Exchange</string>
   <string name="account_settings_unsupported_label">Nepodprta pravila</string>
   <string name="account_settings_unsupported_summary">Nič</string>
   <string name="account_settings_user_usage">Nastavitve računa</string>
@@ -206,6 +214,7 @@
   <string name="account_sync_settingstip_description">Sinhr.</string>
   <string name="account_waiting_for_folders_msg">Nalagam mape…</string>
      <string name="action_filter">Filter</string>
+     <string name="actionbar_button_up_description">Nazaj</string>
   <string name="actionbar_more_option">Več možnosti</string>
   <string name="activity_folder_selection">Izberi mapo</string>
   <string name="activity_mailbox_selection">Izberi račun</string>
@@ -221,10 +230,14 @@
   <string name="add_pre_message_attachments_no">Ne</string>
   <string name="add_pre_message_attachments_yes">Dodaj</string>
   <string name="add_star">Priljubljeno</string>
+     <string name="afternoon">Popoldne</string>
   <string name="all_purpose">Dobrodošli v E-pošti! Ta odjemalec pošte je narejen pri Kingsoftu za Xiaomi. Aplikacijo uporabite za pošiljanje in sprejemanje e-pošte.</string>
+     <string name="allow_notify">Dovoli obvestila</string>
   <string name="allread">Preberi vse</string>
   <string name="always_bcc_myself">Zmeraj pošlji sebi skrito kopijo</string>
   <string name="always_show_images">Vedno pokaži slike tega pošiljatelja</string>
+     <string name="am">AM</string>
+     <string name="app_loading">Delam…</string>
   <string name="app_name">E-pošta</string>
      <string name="app_uninstall_content">E-pošta je sistemska aplikacija MIUI. Po odstranitvi ne boste mogli dodajati e-poštnih računov, pošiljati in prejemati e-pošte ter sinhronizirati e-poštnih urnikov.</string>
      <string name="app_uninstall_title">Odstranim \"E-pošta\"?</string>
@@ -308,6 +321,12 @@
   <string name="bottom_bar_more_quickreply">Hitri odgovor</string>
   <string name="bottom_bar_more_share">Skupna raba</string>
   <string name="bottom_bar_no_quickreply_toast">Brez hitrega odziva</string>
+     <string name="broker_helper_manifest">Namenski filter za AndroidManifest.xml</string>
+     <string name="broker_helper_package">Ime paketa, ki ga morate vnesti pri registraciji aplikacije</string>
+     <string name="broker_helper_redirect">Preusmeritveni URI za datoteko json za konfiguracijo</string>
+     <string name="broker_helper_signature">Podpis za vpis ob registraciji aplikacije</string>
+     <string name="broker_helper_title">MSAL Preusmeritveni URI Info</string>
+     <string name="broker_processing">Broker predeluje</string>
   <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">Dodaj v koledar</string>
   <string name="calendar_remind_gridview_pick_date">Izberi datum</string>
@@ -347,6 +366,7 @@
   <string name="clear_display_images_whitelist_dialog_message">Ustavi prikazovanje slik od pošiljateljev ki ste jim to dovolili.</string>
   <string name="clear_display_images_whitelist_dialog_title">Počistim dovoljenje za slike?</string>
   <string name="clear_display_images_whitelist_title">Počisti dovoljenja za slike</string>
+     <string name="clearable_edittext_clear_description">Počisti</string>
   <string name="click_download_all_content">[ Tapni za prenos vsebine ]</string>
   <string name="click_to_reload">Dotaknite se zaslona za ponovno nalaganje</string>
   <string name="close">Zapri</string>
@@ -358,6 +378,8 @@
   <string name="compose_picturesexceedlimits">"Lahko dodate več slik kot priponke"</string>
   <string name="compose_send">Pošlji</string>
   <string name="compose_sent">Uspešno poslano</string>
+     <string name="compress_failed_and_retry">"Ne morem stisniti. Poskusite ponovno."</string>
+     <string name="compress_img">Stisni slike</string>
   <string name="config">139 Mailbox številka telefona nastavljena</string>
   <string name="config_cancel">Prekini</string>
   <string name="config_retry">Poskusi ponovno</string>
@@ -426,6 +448,7 @@
   <string name="conversation_item_mark_read">Prebrano</string>
   <string name="conversation_item_mark_unread">Neprebrano</string>
   <string name="conversation_message_encrypt_tips">Sporočilo je šifrirano. Namestite certifikat za dešifriranje.</string>
+     <string name="conversation_message_info">"E-pošte ni bilo mogoče naložiti. Dotaknite se, če želite poskusiti znova."</string>
   <string name="conversation_msg_header_collapsed_sent_to">"Pošlji "</string>
   <string name="conversation_photo_welcome_text">Pritisnite sliko pošiljatelja da izberete ta pogovor.</string>
   <string name="conversation_pull_ad_content">Urejajte svoja sporočila e-pošte brez napora</string>
@@ -448,6 +471,8 @@
   <string name="date_heading">"Datum: "</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Danes ob %1$s</string>
+     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
   <string name="db_error">Napaka. Prijavite se ponovno.</string>
   <string name="debug_mode_preferencecategory">Nastavljanje poročila dnevnika</string>
   <string name="debug_mode_settings">Nastavitve Debug načina</string>
@@ -521,6 +546,7 @@
   <string name="dtstart">Začetek</string>
      <string name="due">Due</string>
      <string name="due_date_text">Končno odplačilo</string>
+     <string name="early_morning">Jutro</string>
   <string name="edit_quick_response_dialog">Hitri odziv</string>
   <string name="edit_signature">Uredi podpis</string>
   <string name="editor_max_length_limit_hint">Vnešeno sporočilo je predolgo</string>
@@ -544,6 +570,7 @@
   <string name="enable_sync_in_account_settings">Vključite v %1$s.</string>
   <string name="enumeration_delimiter">" | "</string>
   <string name="error">Napaka</string>
+     <string name="evening">Večer</string>
   <string name="exception_cancel">"
   Ta dogodek je odpovedan
   za:
@@ -552,6 +579,7 @@
     Podobnosti tega dogodka so se spremenile
   za:
 %s "</string>
+     <string name="exchange_login_hint">Kliknite tukaj za prijavo v Outlook exchange</string>
   <string name="exchange_name">Corporate</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
      <string name="expand_button_title">Napredno</string>
@@ -609,6 +637,7 @@
   <string name="folder_list_display_all">Pokaži vse mape</string>
   <string name="folder_list_display_only_import">Pokaži samo pomembne mape</string>
   <string name="folder_no_mails">Ni pošte v tej mapi</string>
+     <string name="folder_notification_setting_tip">V mapi »Prejeto« imate več map. Nastavite obvestila o novih sporočilih v določenih mapah.</string>
   <string name="folder_picker_title">Izberi mape</string>
   <string name="folder_removed">Odstranjeno iz %1$s</string>
   <string name="folder_sent_name_cn0">已发送</string>
@@ -647,6 +676,7 @@
   <string name="font_underline">Podčrtano</string>
   <string name="font_underline_remove">Odpovej Underline</string>
   <string name="forever">Zmeraj</string>
+     <string name="forget_app_password">Pozabljeno geslo za aplikacijo</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
   <string name="forward">Posreduj</string>
   <string name="forward_attachment">Posreduj</string>
@@ -655,6 +685,9 @@
   <string name="forward_download_failed_ticker">Eno ali več priponk ni bilo mogoče posredovati.</string>
   <string name="forward_download_failed_title">Priponka ni posredovana</string>
   <string name="free_period_text">Interest-free period</string>
+     <string name="friday">Petek</string>
+     <string name="friday_short">Pet</string>
+     <string name="friday_shortest">P</string>
   <string name="from_heading">Od:</string>
   <string name="general_preference_confirm_delete_label">Potrdi pred brisanjem</string>
   <string name="general_preference_confirm_send_label">Potrdi pred pošiljanjem</string>
@@ -692,6 +725,11 @@
   <string name="hide_elided">▼ Skrij citirano besedilo</string>
   <string name="hide_password">Skrij geslo</string>
   <string name="hint_quick_reply_all">Odgovori vsem</string>
+     <string name="http_auth_dialog_cancel">Prekliči</string>
+     <string name="http_auth_dialog_login">Prijava</string>
+     <string name="http_auth_dialog_password">Geslo</string>
+     <string name="http_auth_dialog_title">Vnesite poverilnice</string>
+     <string name="http_auth_dialog_username">Uporabniško ime</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_or_pop3_name">IMAP/POP3</string>
   <string name="imap_password_error">Napačno geslo dohodnega strežnika</string>
@@ -701,7 +739,10 @@
   <string name="info_item_hide">Skrij</string>
   <string name="info_switch_summary">Odprite Inbox Novice</string>
   <string name="info_switch_title">Inbox Novice</string>
+     <string name="inline_as_attachment">Pošlji kot priponko</string>
   <string name="inline_picture_deleted">Prenos manjkajoče slike…"</string>
+     <string name="inline_too_large">Slika je prevelika</string>
+     <string name="inline_too_large_des">"Vstavljene slike ne smejo biti večje od 3 MB. Pošljite večje slike kot priloge ali jih stisnite."</string>
   <string name="input_password_prompt">Vpišite geslo</string>
      <string name="install_mime_encrypt_cert">Namesti S/MIME šifrirni certifikat</string>
      <string name="install_mime_sign_cert">Namesti S/MIME podpisni certifikat</string>
@@ -727,6 +768,7 @@
   <string name="log_save_path">Pot zapisa</string>
   <string name="login">Prijavite se</string>
   <string name="login139">Prijavi se z China Mobile</string>
+     <string name="login_cancelled">Poskus prijave preklican</string>
   <string name="login_des_126">Prijavi se v 126 Mail</string>
   <string name="login_des_139">Prijavi se v 139 Mail</string>
   <string name="login_des_163">Prijavi se v 163 Mail</string>
@@ -745,6 +787,7 @@
      <string name="login_err_outlook_msg">"%s
 Potrdite, ali je geslo za aplikacijo vklopljeno. Če je vklopljeno, pojdite na Microsoftovo spletno mesto za ponastavitev gesla za aplikacijo"</string>
   <string name="login_err_sina_message">%1$s Za prijavo boste morda potrebovali tudi kontrolno kodo. Če morate ponastaviti geslo obiščite https://mail.sina.com.cn/ da boste videli katere opcije so vam na voljo.</string>
+     <string name="login_failed">"Ni se bilo mogoče prijaviti"</string>
   <string name="login_failed_ticker">Prijava računa %s neuspešna.</string>
   <string name="login_failed_tip">"Kontaktirajte nas v WeChat-u za pomoč: "</string>
   <string name="login_failed_title">"Neuspešna prijava"</string>
@@ -752,6 +795,7 @@ Potrdite, ali je geslo za aplikacijo vklopljeno. Če je vklopljeno, pojdite na M
      <string name="login_manual">Ročna nastavitev</string>
   <string name="login_qq_psw">Vnesite kodo ročno</string>
   <string name="login_support_tip_text">Podpira vse glavne račune e-pošte</string>
+     <string name="login_tip">%s protokol bo privzeto uporabljen za prijavo. Če želite uporabiti drug protokol, ga med možnostmi prijave izberite ročno.</string>
   <string name="long_press_to_select_tip">Tapnite &amp; držite za izbor enega pogovora, nato tapnite za izbor večih.</string>
   <string name="long_string">dooooooooooooooooooolgo</string>
   <string name="mail">E-pošta</string>
@@ -767,6 +811,8 @@ Potrdite, ali je geslo za aplikacijo vklopljeno. Če je vklopljeno, pojdite na M
   <string name="mail_outlook_login_tips">"Preusmerjeni boste v Microsoft da vnesetw geslo"</string>
   <string name="mail_outlook_oauth_login">Prijavite se z OAuth</string>
   <string name="mail_outlook_psw_login">Prijavite se z geslom</string>
+     <string name="mail_spam_notify_title">Obvesti o spamu</string>
+     <string name="mailbox_folder">Mape</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinirani račun</string>
   <string name="mailbox_name_display_ad">Oglasi &amp; obvestila</string>
   <string name="mailbox_name_display_add_account">Dodaj račun</string>
@@ -893,11 +939,79 @@ Potrdite, ali je geslo za aplikacijo vklopljeno. Če je vklopljeno, pojdite na M
   <string name="mibill_privacy_policy_description">Dovoli Mi Wallet analiziranje in urejanje z vašimi računi samodejno. To opravilo je privzeto izključeno za delo z povezanimi naslovi e-pošte.</string>
   <string name="mibill_privacy_policy_link">"Z uporabo te storitve se strinjate z našim" &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Pogoji uporabe&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Urejaj račune samodejno</string>
+     <string name="midnight">Noč</string>
      <string name="min_payment_text">Minimalno plačilo</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
+     <string name="miuix_appcompat_cancel_description">Prekliči</string>
+     <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z oblakom je izklopljena</string>
+     <string name="miuix_appcompat_cloud_state_finished">Uspešno sinhronizirano z oblakom</string>
+     <string name="miuix_appcompat_cloud_state_syncing">Sinhroniziranje z oblakom…</string>
+     <string name="miuix_appcompat_confirm_description">Potrdi</string>
+     <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
+     <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
+     <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne morem naložiti"</string>
   <string name="modify_contact_address">"Uredite e-poštne naslove stikov"</string> 
+     <string name="monday">Ponedeljek</string>
+     <string name="monday_short">Pon</string>
+     <string name="monday_shortest">P</string>
+     <string name="month_april">April</string>
+     <string name="month_april_short">Apr</string>
+     <string name="month_april_shortest">A</string>
+     <string name="month_august">Avgust</string>
+     <string name="month_august_short">Avg</string>
+     <string name="month_august_shortest">A</string>
+     <string name="month_december">December</string>
+     <string name="month_december_short">Dec</string>
+     <string name="month_december_shortest">D</string>
+     <string name="month_february">Februar</string>
+     <string name="month_february_short">Feb</string>
+     <string name="month_february_shortest">F</string>
+     <string name="month_january">Januar</string>
+     <string name="month_january_short">Jan</string>
+     <string name="month_january_shortest">J</string>
+     <string name="month_july">Julij</string>
+     <string name="month_july_short">Jul</string>
+     <string name="month_july_shortest">J</string>
+     <string name="month_june">Junij</string>
+     <string name="month_june_short">Jun</string>
+     <string name="month_june_shortest">J</string>
+     <string name="month_march">Marec</string>
+     <string name="month_march_short">Mar</string>
+     <string name="month_march_shortest">M</string>
+     <string name="month_may">Maj</string>
+     <string name="month_may_short">Maj</string>
+     <string name="month_may_shortest">M</string>
+     <string name="month_november">November</string>
+     <string name="month_november_short">Nov</string>
+     <string name="month_november_shortest">N</string>
+     <string name="month_october">Oktober</string>
+     <string name="month_october_short">Okt</string>
+     <string name="month_october_shortest">O</string>
+     <string name="month_september">September</string>
+     <string name="month_september_short">Sep</string>
+     <string name="month_september_shortest">S</string>
+     <string name="more">Več</string>
   <string name="more_context">Več</string>
   <string name="more_string">+%1$s</string>
+     <string name="morning">Jutro</string>
   <string name="move_to_selection_dialog_title">Prestavi v mapo</string>
+     <string name="ms_graph">Novi Microsoft protokol</string>
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt; %2$s</string>
   <string name="mute">Izključi zvok</string>
   <string name="navigation_menu">Meni navigacije</string>
@@ -910,8 +1024,10 @@ Potrdite, ali je geslo za aplikacijo vklopljeno. Če je vklopljeno, pojdite na M
   <string name="network_try_again">Preverite omrežje</string>
   <string name="network_unavailable">Omrežje ni na voljo</string>
   <string name="new_incoming_messages_one">Novo sporočilo od %s. Pokaži.</string>
+     <string name="new_mail_notification">Obvestila o novih sporočilih</string>
   <string name="new_signature_has_saved">Uspešno shranjeno</string>
   <string name="next_action">Naprej</string>
+     <string name="night">Noč</string>
   <string name="no">Ne</string>
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">Najdene ni nobene aplikacije ki bi znala odpreti to priponko.</string>
@@ -932,6 +1048,8 @@ Poskusite preklopiti na drug e-poštni račun."</string>
 Poskusite z ostalo pošto."</string>
   <string name="no_remind">Ne opominjaj</string>
   <string name="no_search_results">"Nič ne najdem"</string>
+     <string name="noon">Poldne</string>
+     <string name="not_install_qq_tip">Uspešno kopirano. Odprite QQ in poiščite to skupino, ki se ji želite pridružiti.</string>
      <string name="not_set">Ni nastavljeno</string>
   <string name="not_subject">(Brez stvari)</string>
   <string name="not_synced_title">Račun ni sinhroniziran</string>
@@ -946,6 +1064,9 @@ Poskusite z ostalo pošto."</string>
   <string name="notification_action_undo_delete">Izbrisano</string>
   <string name="notification_action_undo_remove_label">Oznaka odstranjena</string>
   <string name="notification_exchange_calendar_added">Dodan Exchange koledar</string>
+     <string name="notification_message">Obvestim o novih sporočilih samo v izbranih mapah?</string>
+     <string name="notification_off">Izkl.</string>
+     <string name="notification_on">Vkl.</string>
   <string name="notify_channel_new_mail">Obvestila o novih sporočilih</string>
   <string name="notify_channel_no_disterb">DND način</string>
   <string name="notify_channel_permission_notice">Opomnik obvestil o dovoljenju</string>
@@ -980,6 +1101,7 @@ Poskusite z ostalo pošto."</string>
   <string name="open_external_storage_and_contacts_permission">V nastavitvah omogočite dovoljenje uporabe stikov</string>
   <string name="open_notification_kingagent">Vključite obvestila kingagent</string>
      <string name="open_pdf_error">Datoteke Pdf ne morem odpreti. Prenesite druga orodja za odpiranje PDF in poskusite znova.</string>
+     <string name="operation_settging">Dejanja</string>
   <string name="optimization_suggestion">Predlogi optimizacije</string>
   <string name="others_mail">Ostalo</string>
   <string name="others_mail_des">(Kompatibilno z 600K poštnimi ponudniki)</string>
@@ -1004,8 +1126,9 @@ Poskusite z ostalo pošto."</string>
   <string name="outbox_alert_select_operation">Izberite opravilo</string>
   <string name="outbox_alert_title_sent_failed">E-pošte ni bilo mogoče poslati</string>
   <string name="outbox_no_mails">Izprazni</string>
-  <string name="outlook_login_failed_non_proxy_title">"Ni dostopa do OutLook strežnika"</string>
-  <string name="output_all_log">Ispiši vsa poročila</string>
+     <string name="outlook_failed_to_get_auth_code">Napaka kode za preverjanje: %1$s</string>
+  <string name="outlook_login_failed_non_proxy_title">"Ni dostopa do Outlook strežnika"</string>
+  <string name="output_all_log">Izpiši vsa poročila</string>
   <string name="output_db_summary">O izhodni bazi podatkov</string>
   <string name="output_db_title">Izhodna baza podatkov</string>
   <string name="output_to_disk">Shrani zapise v datoteko</string>
@@ -1081,6 +1204,7 @@ Poskusite z ostalo pošto."</string>
   <string name="please_fill_in_your_mailbox_information2">Vnesite vaše podatke za račun e-pošte:</string>
      <string name="pls_parse_bill_discribe">"Analizirajte račune in informacije o potovanju v svoji e-pošti
 da prejmete opomnike o plačilih in potovanjih"</string>
+     <string name="pm">PM</string>
   <string name="policy_app_blacklist">Onemogoči določene aplikacije</string>
   <string name="policy_app_whitelist">Omogoči samo določene aplikacije</string>
   <string name="policy_bluetooth_restricted">Omeji Bluetooth uporabo</string>
@@ -1137,6 +1261,7 @@ da prejmete opomnike o plačilih in potovanjih"</string>
   <string name="pull_load_more">Podrsajte gor za prenašanje več</string>
   <string name="pull_to_refresh">Podrsajte navzdol za osvežitev</string>
   <string name="pull_up_to_load_more">Prenesi več</string>
+     <string name="push">Potisna obvestila</string>
   <string name="push_wps_better_confirm_download">Prenesi</string>
   <string name="push_wps_better_confirm_exit">Ne zdaj</string>
   <string name="push_wps_better_confirm_message">Poskusite uporabiti WPS Office za odpiranje te priponke.</string>
@@ -1156,6 +1281,8 @@ da prejmete opomnike o plačilih in potovanjih"</string>
   <string name="qq_bar_open_imap">Omogoči</string>
   <string name="qq_bar_send_message">Pošlji SMS</string>
   <string name="qq_changepw_dialog_tips">Dobite novo kodo od %s za vpis.</string>
+     <string name="qq_group_info_summary">QQ skupina: %s. Tapnite za kopiranje.</string>
+     <string name="qq_group_info_title">QQ skupina za povratne informacije</string>
   <string name="qq_login_basecode">Prijava na QQ Email preko spletne strani. Vnesite svoje samostojno geslo.</string>
   <string name="qq_login_get_auth">Pošiljanje SMS sporočila ni uspelo? Identificirajte se preko varnostnih vprašanj</string>
   <string name="qq_login_help_bottom_tip">"Če ste pozabili geslo ali morate preveriti stanje računa, uporabite spletno različico QQ Mail. Pomoč lahko dobite tudi v WeChatu: "</string>
@@ -1260,6 +1387,9 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="resume_draft">Uredi</string>
   <string name="retry">Poskusite znova</string>
   <string name="retry_login">Prijavite se ponovno</string>
+     <string name="saturday">Sobota</string>
+     <string name="saturday_short">Sob</string>
+     <string name="saturday_shortest">S</string>
   <string name="save_action">Shrani</string>
   <string name="save_attachment">Shrani</string>
   <string name="save_draft">Shrani osnutek</string>
@@ -1270,7 +1400,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="saved">Shranjeno, %s</string>
   <string name="saving">Shranjujem</string>
   <string name="sdcard_cannot_use">"Ne morem uporabiti SD kartice"</string>
-  <string name="search_bar_text">Iskanje sporočil in stikov</string>
+  <string name="search_bar_text">Iskanje stikov</string>
   <string name="search_hint">Preišči pošto</string>
      <string name="search_menu_title">Išči</string>
   <string name="search_remote_again">Omrežje ni na voljo, poskusite ponovno</string>
@@ -1339,10 +1469,12 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="server_log">Pogoji uporabe</string>
   <string name="service_protocol_discribe">&lt;u&gt;"Prebral sem in se strinjam z WPS Mail Pogoji uporabe"&lt;/u&gt;</string>
   <string name="service_protocol_title">Pogoji uporabe</string>
+     <string name="set_account_app_password">Nastavite geslo za aplikacijo</string>
   <string name="set_network">Nastavi omrežje</string>
   <string name="setting_kids_subtitle">Potrjena starost uporabnika</string>
   <string name="setting_kids_title">Starejši od 16 let</string>
   <string name="settings_activity_title">Nastavitve</string>
+     <string name="settings_attachment">Priponke</string>
   <string name="share_choose">Izberite datoteko za deljenje</string>
   <string name="sharing">Deli</string>
   <string name="shortcut_name_title">Bližnjica imena mape</string>
@@ -1352,6 +1484,8 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="show_images_all">Naloži in pokaži vse slike</string>
   <string name="show_password">Pokaži geslo</string>
      <string name="show_server_cet">Pokaži certifikat</string>
+     <string name="sign_in_graph_error">"Prijavite se lahko z uporabo protokolov IMAP ali EXCHANGE za prijavo samo, če vaša organizacija ni spremenila splošne konfiguracije strežnika. Če organizacija prilagodi naslov vašega strežnika ali so povezani protokoli onemogočeni, se prijavite z novim Microsoftovim protokolom."</string>
+     <string name="sign_in_no_useful_provider_error">"Ne morem dobiti konfiguracij protokola od Microsofta. Uporabite drug protokol ali posodobite protokol Microsofta."</string>
   <string name="signature">"
 
 
@@ -1378,6 +1512,9 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Stvar</string>
      <string name="successfully_obtained_authorization_code">Koda za preverjanje</string>
+     <string name="sunday">Nedelja</string>
+     <string name="sunday_short">Ned</string>
+     <string name="sunday_shortest">N</string>
   <string name="sync_calendra_fail_per_content">Tapnite za omogočanje dostopa do kalendarja</string>
   <string name="sync_calendra_fail_per_title">"Ne morem sinhronizirati koledar"</string>
   <string name="sync_calendra_fail_permission">"Ne morem sinhronizirati koledar, dovolite E-pošti dostop do koledarja v nastavitvah"</string>
@@ -1406,7 +1543,14 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="tablet">tablica</string>
   <string name="tap_to_configure">Tapni za nastavitev</string>
   <string name="tap_to_enable_sync">Tapni za vklop.</string>
+     <string name="tell_you_later">Kasneje</string>
   <string name="three_day">3 dni</string>
+     <string name="thursday">Četrtek</string>
+     <string name="thursday_short">Čet</string>
+     <string name="thursday_shortest">Č</string>
+     <string name="time_picker_dialog_title">Nastavi čas</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
   <string name="tip_cannot_switchview_in_unread_folder">Ne morem spremeniti način prikaza neprebrane pošte</string>
   <string name="title_activity_about">O aktivnosti</string>
   <string name="to">Za</string>
@@ -1419,7 +1563,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="toast_bar_send_fail_remind">"Ne morem poslati e-pošte. Shranjeno v mapo \"Odhodno\".</string>
   <string name="toast_bar_sync_failed_client_cert">"Ne morem sinhronizirati zaradi manjkajočega certifikata. Tapnite da boste ponovno dodali certifikat."</string>
   <string name="toast_bar_sync_failed_mi_authority">Prijavite se da boste avtorizirali svojo napravo</string>
-     <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">Podatki o urniku in stikih niso bili sinhronizirani v realnem času, dovoljenje za stike ni nastavljeno</string>
+     <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">Podatki o razporedu in stikih niso bili sinhronizacija v realnem času, dovoljenje za stike je nastavljeno tako, da je vedno omogočeno</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Dovoljenja koledarja in stikov so zaprta. Koledar in stiki se ne morejo sinhronizirati</string>
      <string name="toastbar_calendar_permission_switch_allow_only_using">Pošta ni uspela razporediti sinhronizacije v realnem času, nastavite dovoljenja za koledar na Vedno dovoli</string>
   <string name="toastbar_calendar_permission_switch_close">Dovoljenja koledarja so zaprta. Koledar se ne more sinhronizirati</string>
@@ -1428,7 +1572,9 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Sprememba sinhronizacije koledarja in stikov je zaprta. Koledar in stiki se ne morejo sinhronizirati</string>
   <string name="toastbar_local_calendar_sync_switch_close">Sprememba sinhronizacije koledarja je zaprta. Koledar se ne more sinhronizirati</string>
   <string name="toastbar_local_contacts_sync_swtich_close">Sprememba sinhronizacije stikov je zaprta. Stiki se ne morejo sinhronizirati</string>
+     <string name="today">Danes</string>
   <string name="today_text">Danes</string>
+     <string name="tomorrow">Jutri</string>
   <string name="too_large_to_attach_additional">"Velikost datoteke ne sme preseči %1$s."</string>
   <string name="too_large_to_attach_multiple">Ena ali več datotek niso bile pripete. Velikost ne sme preseči %1$s.</string>
   <string name="too_large_to_attach_single">"Ne morem priložiti datoteke večje od %1$s."</string>
@@ -1452,6 +1598,9 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="trigger_before_week">pred %d teden</string>
   <string name="try_exchange_login">Prebral sem in se strinjam z WPS Mail Pogoji uporabe</string>
   <string name="tryrefreshing">Osvežujem…</string>
+     <string name="tuesday">Torek</string>
+     <string name="tuesday_short">Tor</string>
+     <string name="tuesday_shortest">T</string>
   <string name="turn_auto_sync_on_dialog_body">"Spremembe ki jih naredite 
 za vse aplikacije in račune (ne le za Gmail) 
 se bodo sinhronizirale na spletu, z drugimi napravami in vašo napravo %1$s."</string>
@@ -1518,6 +1667,10 @@ Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizira
   <string name="webview_sslerror_handle_cancel">Prekini</string>
   <string name="webview_sslerror_handle_continue">Nadaljuj</string>
   <string name="webview_sslerror_handle_hitmessage">Napaka certifikata! Nadaljujem na to spletno stran (ne priporočamo)?</string>
+     <string name="wednesday">Sreda</string>
+     <string name="wednesday_short">Sre</string>
+     <string name="wednesday_shortest">S</string>
+     <string name="weixin_info_summary">WeChat račun: %s. Tapnite za kopiranje.</string>
   <string name="widget_all_mail">Vsa pošta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostalo</string>
@@ -1529,10 +1682,12 @@ Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizira
      <string name="wps_card_title">Kingsoft Dokument</string>
   <string name="wps_title">WPS Mail</string>
   <string name="wrong_password">Geslo ki ste ga vnesli je napačno.</string>
+     <string name="x_account_settings_mibill_resolve_label_summary">Račune na kreditnih karticah prepoznajte samodejno</string>
   <string name="xiaomi_auth_toastbar">Prijavi se v avtorizacijo naprave</string>
   <string name="xiaomi_email">Pošta</string>
   <string name="xiaomi_under_certification">Avtorizacija…</string>
   <string name="yes">Da</string>
+     <string name="yesterday">Včeraj</string>
   <string name="you_are_in_mobile_network">Uporabim mobilno podatkovno povezavo za prenos poročila?</string>
   <string name="youfuli">Reklama</string>
   <string name="zip_viewer_no_file">Ni datotek.</string>

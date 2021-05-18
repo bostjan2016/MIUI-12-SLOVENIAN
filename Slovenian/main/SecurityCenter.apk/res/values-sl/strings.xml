@@ -680,6 +680,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="applock_header_text_less_than_half">Premalo prostora. Povlecite separator malo naprej.</string>
   <string name="applock_lock_all">Zakleni vse</string>
   <string name="applock_login_and_add_account">Prijavi se &amp; dodaj</string>
+     <string name="applock_mixtype_hidepwd_icon">Skrij</string>
+     <string name="applock_mixtype_showpwd_icon">Pokaži</string>
   <string name="applock_no_account_login">"Niste prijavljeni v svoj Mi Račun"</string>
   <string name="applock_not_add_account">Ne zdaj</string>
   <string name="applock_not_login_account">"Niste prijavljeni"</string>
@@ -1405,6 +1407,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="examination_score_80_100_with_recommend">Stvari (%d) se lahko optimizira</string>
   <string name="examination_score_80_60">Nekaj stvari je lahko optimiziranih</string>
   <string name="examination_score_has_virus">Zaznanih je bilo nekaj sumljivih aplikacij.</string>
+     <string name="exception_checking">Preverjam…</string>
   <string name="exception_dialog_message">"Zaradi napake ne morem izračunati statistike porabe. Brez točne statistike aplikacija Varnost ne more spremljati porabo podatkov. Ponovno zaženem da povrnete to opravilo?"</string>
   <string name="exception_dialog_ok_button">Ponovno zaženi</string>
   <string name="exception_notify_message">"Zaradi napake ne morem izračunati statistične podatke. Ponovno zaženite napravo zaradi povrnitve."</string>
@@ -1680,6 +1683,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="gamebooster_lowbattery_notification_summary">Napolnite napravo predno se izključi.</string>
   <string name="gamebooster_lowbattery_notification_title">Baterija je na manj kot 5%%</string>
   <string name="gamebooster_main_activity_back">Nazaj</string>
+     <string name="gamebooster_network_dialog_cn_message">"Game Turbo ne morete uporabljati, če varnost ni dovoljena za povezavo s spletom in dostop do vaše lokacije. Dovolim zdaj?"</string>
   <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost povezavo na splet da uporabite vse storitve Game Turbo?</string>
   <string name="gamebooster_network_dialog_title">"Nekatere stvari niso na voljo"</string>
   <string name="gamebox_app_not_find">Najprej namestite aplikacijo.</string>
@@ -1841,6 +1845,7 @@ Posnemite zaporedja in jih kadar koli uporabite!"</string>
      <string name="gb_shoulder_key_btn_save_exit">Shrani</string>
      <string name="gb_shoulder_key_circle_left">L</string>
      <string name="gb_shoulder_key_circle_right">D</string>
+     <string name="gb_shoulder_key_dialog_message">"Če ne igrate iger, lahko hkrati uporabite obe virtualna gumba, da zaženete Game Turbo."</string>
      <string name="gb_shoulder_key_dialog_txt">Game Turbo lahko vklopite z virtualnimi gumbi.</string>
      <string name="gb_shoulder_key_guide_btn_done">Razumem</string>
      <string name="gb_shoulder_key_guide_btn_next">Naprej</string>
@@ -1848,6 +1853,9 @@ Posnemite zaporedja in jih kadar koli uporabite!"</string>
      <string name="gb_shoulder_key_guide_tips1">Odprite orodja in konfigurirajte virtualne tipke</string>
      <string name="gb_shoulder_key_settings_guide_tips1">Premakni [L] in [D] tipko v poljuben funkcijski položaj za dokončanje</string>
      <string name="gb_shoulder_key_settings_guide_tips2">Uporabite virtualne tipke za funkcije, ki ste jim jih dodelili med igrami</string>
+     <string name="gb_shoulder_key_settings_summary">"Z obema virtualnima gumboma zaženite Game Turbo, ko ne igrate iger"</string>
+     <string name="gb_shoulder_key_settings_title">Uporabite virtualne tipke za Game Turbo</string>
+     <string name="gb_shoulder_key_settings_title_new">Hitri začetek Game Turbo</string>
      <string name="gb_sign_gift">Prijavite se, če želite dobiti nagrade</string>
      <string name="gb_sign_gift_button_text">Prejmi</string>
      <string name="gb_sign_notification_summary">Igrajte igre brez zamud v omrežju</string>
@@ -1855,7 +1863,8 @@ Posnemite zaporedja in jih kadar koli uporabite!"</string>
      <string name="gb_signed_gift_loading_fail">"Ne morem naložiti"</string>
      <string name="gb_signed_gift_loading_summary">Delam…</string>
      <string name="gb_signed_title">Prijavljen ta mesec</string>
-  <string name="gb_sound_audition">Poslušaj</string>
+     <string name="gb_sound_audition">Poslušaj</string>
+     <string name="gb_storage_game_dialog_message">"Igre lahko v Game Turbo shranite samodejno. Če vklopite to funkcijo, se ne bodo prikazale na začetnem zaslonu. Vklopim zdaj?"</string>
   <string name="gb_storage_game_uninstall">Odstrani igre</string>
   <string name="gb_storage_summary">"Na zač. zaslonu ne kaži igre ki so dodane v Game Turbo"</string>
   <string name="gb_storage_title">Odstrani dodane igre iz zač. zaslona</string>
@@ -4827,6 +4836,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="timeshow_m">%dmin</string>
   <string name="timeshow_m_s">%1$dmin %2$dsek</string>
   <string name="timeshow_s">%dsek</string>
+     <string name="tips">Pozor</string>
   <string name="tips_dialog_title">"Ne poznate svoje omejitve"</string>
   <string name="tips_message">"Za prikaz podrobnosti vaše omejitve izberite %2$s (%1$s) (Samo Kitajska)"</string>
   <string name="tips_of_app_manage">Izbrišite redko uporabljene aplikacije da prihranite prostor</string>
@@ -5369,6 +5379,9 @@ Poskusite povečati ločljivost!"</string>
   <string name="xiaomi_traffic_pass_used">Izkoriščeno %s vašega Mi Data plana</string>
   <string name="xiaomi_traffic_pass_warning">Ni dostopnih mobilnih podatkov v vašem Mi Data planu</string>
   <string name="xiaomi_traffic_return">Nazaj</string>
+     <string name="xspace_warning_dialog_button">Razumem</string>
+     <string name="xspace_warning_dialog_message">Zaradi omejitev, uvedenih v Androidu %d, bodo vse dvojne aplikacije imele dostop samo do fotografij in videoposnetkov, ustvarjenih in shranjenih v ustrezni dvojni aplikaciji..</string>
+     <string name="xspace_warning_dialog_title">Pozor</string>
   <string name="xunyou_net_booster">Povečaj hitrost omrežja</string>
   <string name="xunyou_net_booster_detail">Uporabi Xunyou storitev povečanja hitrosti za igranje</string>
   <string name="xunyou_pay_webview">Xunyou storitve</string>

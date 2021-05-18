@@ -23,6 +23,11 @@
         <item>Starejša sporočila</item>
         <item>Prihodna pošta</item>
     </string-array>
+	 <string-array name="sign_in_dialog_item">
+        <item>Outlook imap protocol prijava</item>
+        <item>IMAP (brez koledarja)</item>
+        <item>EXCHANGE (z koledarjem)</item>
+    </string-array>
     <string-array name="prefSummaries_autoAdvance">
         <item>Prikaz novejšega razgovora po brisanju</item>
         <item>Prikaz starejšega razgovora po brisanju</item>

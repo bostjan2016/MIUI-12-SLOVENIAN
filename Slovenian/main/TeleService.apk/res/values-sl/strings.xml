@@ -1659,6 +1659,8 @@ Zmeraj uporabi to številko"</string>
   <string name="mobile_network_settings_not_available">Nastavitve mobilnega omrežja niso na voljo za tega uporabnika</string>
   <string name="mobile_networks">Nastavitve mob. omrežja</string>
   <string name="mobile_property">Lastnosti mob. omrežja</string>
+     <string name="mobile_special_network_optimization_config_summary">Če je omrežje neobičajno, poskusi samodejno popraviti</string>
+     <string name="mobile_special_network_optimization_config_title">Posebna optimizacija omrežja</string>
   <string name="mock_location_app">Izberite aplikacijo za lažno lokacijo</string>
   <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo nio nastavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>

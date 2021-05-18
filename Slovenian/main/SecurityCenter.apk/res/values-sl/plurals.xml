@@ -808,6 +808,10 @@
         <item quantity="other">Prijavljeno %d dni zapored</item>
         <item quantity="one">Prijavljeno %d krat</item>
      </plurals>
+     <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Razumem (%ds)</item>
+        <item quantity="one">Razumem (%ds)</item>
+     </plurals>
      <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Poskusite Voice Changeer takoj 
 da boste dobili %d-dnevno brezplačno poskusno obdobje"</item>

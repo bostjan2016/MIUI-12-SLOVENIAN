@@ -612,11 +612,15 @@ skenirane dokumente samodejno"</string>
      <string name="dual_video_record_remote">Snemanje z dvema telefonoma</string>
      <string name="dual_video_record_standalone">Ločeno</string>
      <string name="dual_video_user_guide_main_content">Če želite ustvariti videoposnetke z več kamerami, v napravi izberite dve kameri in fotografirajte hkrati. Posnetke lahko shranite ločeno ali jih združite v razdeljeni pogled ali video slika v sliki.</string>
+     <string name="dual_video_user_guide_main_content_new">"Videoposnetki Multicam so posneti z več kamerami hkrati.
+Dvojno snemanje s telefonom omogoča tudi povezavo z drugo napravo in ustvarjanje videoposnetka z več kamerami z izbiro \"Kombinirano\"."</string>
      <string name="dual_video_user_guide_main_title">Multikamera video</string>
      <string name="dual_video_user_guide_merge_content">Snemajte z dvema kamerama hkrati in združite posnetke v ločenem pogledu ali video slika v sliki.</string>
+     <string name="dual_video_user_guide_merge_content_new">Dva posnetka lahko združite v ločenem pogledu ali videu slika v sliki.</string>
      <string name="dual_video_user_guide_remote_content">"Dvojno snemanje s telefonom omogoča kombiniranje virov iz dveh različnih naprav v en video. V tej napravi boste lahko predogledali vire in končni video. Upoštevajte, da bo zvok snemala samo ta naprava."</string>
      <string name="dual_video_user_guide_remote_p">Telefon %d</string>
      <string name="dual_video_user_guide_standalone_content">Snemajte z dvema kamerama hkrati in oba posnetka shranite kot ločena videoposnetka.</string>
+     <string name="dual_video_user_guide_standalone_content_new">Istočasno posnete video posnetke lahko tudi ločite in shranite kot dve datoteki.</string>
   <string name="duration">Trajanje</string>
      <string name="early_morning">Jutro</string>
   <string name="edit">Uredi</string>
@@ -1115,8 +1119,8 @@ zgledali večji na fotografijah"</string>
   <string name="network_access_user_notice_title">Povezovanje na splet</string>
      <string name="network_connection_failed">"Povezave ni bilo mogoče vzpostaviti"</string>
      <string name="network_connection_ongoing">Povezovanje…</string>
-     <string name="network_connection_prerequisites">Vklopite Bluetooth in WiFi, če želite uporabljati snemanje z dvojnim telefonom.</string>
-     <string name="network_connection_prerequisites_china">Vklopite Bluetooth in WiFi, če želite uporabljati snemanje z dvojnim telefonom.</string>
+     <string name="network_connection_prerequisites">Vklopite Bluetooth in WiFi v Centru za kontrolo, če želite uporabljati snemanje z dvojnim telefonom.</string>
+     <string name="network_connection_prerequisites_china">Vklopite Bluetooth in WiFi v Centru za kontrolo, če želite uporabljati snemanje z dvojnim telefonom.</string>
      <string name="network_connection_rejected">Zavrnjeno</string>
      <string name="network_connection_timed_out">Povezava potekla</string>
      <string name="night">Večer</string>
