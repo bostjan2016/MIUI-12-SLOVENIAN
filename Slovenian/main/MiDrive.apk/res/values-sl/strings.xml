@@ -348,7 +348,7 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne morem naložiti"</string>
-  <string name="month_day_format">MMM dd</string>
+  <string name="month_day_format">dd.MM</string>
   <string name="move_failed">"Ne morem premakniti"</string>
   <string name="move_failed_retry">"Ne morem premakniti, počakajte %1$s in poskusite znova"</string>
   <string name="move_file_success">Uspešno premeščeno</string>
