@@ -233,6 +233,11 @@
   <string name="redmi_note_5">Redmi Note 5</string>
   <string name="redmi_note_7">Redmi Note 7</string>
   <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+     <string name="relaunch_dialog_alwaysUsePrompt">Zapomni si izbiro</string>
+     <string name="relaunch_dialog_button_cancel">Prekliči</string>
+     <string name="relaunch_dialog_button_confirm">V redu</string>
+     <string name="relaunch_dialog_message">"Med uporabo aplikacije ni mogoče prilagoditi velikosti okna. Aplikacijo lahko znova zaženete, da prilagodite velikost okna, vendar bodo podatki o aplikaciji, ustvarjeni med to sejo, izgubljeni. Vseeno znova zaženem?"</string>
+     <string name="relaunch_dialog_title">Znova zaženem \"%s\"?</string>
   <string name="remain">Ostalo: %s</string>
   <string name="replace">Zamenjaj</string>
   <string name="resolver_app_recommend_flag">Priporočeno</string>
@@ -329,6 +334,8 @@
   <string name="status_bar_toggle_wifi">WiFi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="stop_operate_camera_frequently">"Kaže da prevečkrat menjate kamere."</string>
+     <string name="stylus_pen_mask_screenshot">Dotaknite se zaslona, da posnamete posnetek zaslona</string>
+     <string name="stylus_pen_mask_text">Dotaknite se zaslona, da začnete pisati</string>
      <string name="subinfo_default_name">SIM %d</string>
   <string name="sunlight_notification_content">Samodejno prilagodi svetlost močne ambientalne svetlobe</string>
   <string name="sunlight_notification_title">Vključi način dela sončne svetlobe</string>

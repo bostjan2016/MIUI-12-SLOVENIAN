@@ -307,6 +307,7 @@
   <string name="battery_saver">Varčevanje baterije</string>
   <string name="battery_saver_keywords">Varčevanje baterije;mail battery</string>
   <string name="bcc">Bcc</string>
+     <string name="bcc_heading">"Skp: "</string>
   <string name="bill_center_setting">Nastavitve plačila</string>
   <string name="bill_center_setting_head">Uvozi podatke iz teh računov</string>
   <string name="bill_cycle_text">Cikel plačila</string>
@@ -335,8 +336,9 @@
   <string name="cancel_action">Prekliči</string>
   <string name="cancel_pop3_attchemt_downloading">Odpoved prevzemanja priponk ni na voljo za POP3 račun.</string>
   <string name="cant_move_or_change_labels">"Ne morem premakniti, ker izbor vsebuje več računov."</string>
-  <string name="cc">Cc</string>
-  <string name="cc_bcc">Cc/Bcc</string>
+     <string name="cc">Kp</string>
+     <string name="cc_attribution">Kp: %1$s&lt;br></string>
+  <string name="cc_bcc">Kp/Skp</string>
   <string name="cc_heading">"Kopija: "</string>
   <string name="certificate_add_failed">Ne morem dodati \"%s\" certifikat.</string>
   <string name="certificate_added">\"%s\" certifikat dodan.</string>
@@ -1583,6 +1585,11 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="toolbar_part_symbol">Simbol dela</string>
   <string name="topic_merge">Nastavitve prikaza</string>
   <string name="topic_merge_summary">Razporedi po stvari</string>
+     <string name="train_card_title">Nakup vstopnic je uspel</string>
+     <string name="train_card_title_alternate">Funkcija čakalnega seznama vstopnic je bila uspešna</string>
+     <string name="train_card_title_change">Zamenjava vstopnic je uspela</string>
+     <string name="train_card_title_change_arrival">Zamenjava vstopnic je uspela</string>
+     <string name="train_card_title_refund">Uspešno vračilo vozovnice</string>
   <string name="translation_loading">Samo trenutek…</string>
   <string name="translation_no_result">Ni rezultatov</string>
   <string name="translation_pronunciation_am">AmE</string>

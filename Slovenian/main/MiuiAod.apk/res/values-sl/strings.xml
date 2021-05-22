@@ -51,19 +51,19 @@
   <string name="animation_clock_panel">Valovno izbiranje</string>
   <string name="aod_close_color_inversion">"To se ne more kombinirati z inverzijo barv. Najprej izključite inverzijo barv."</string>
   <string name="aod_component">Prikazane stvari</string>
-     <string name="aod_dual_clock_date">HH:mm dd/MM</string>
-     <string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>
+  <string name="aod_dual_clock_date">dd.MM. HH:mm</string>
+  <string name="aod_dual_clock_date_12">dd.MM. hh:mm aa</string>
      <string name="aod_dual_togother">HH:mm</string>
      <string name="aod_dual_togother_12">hh:mm aa</string>
   <string name="aod_lock_screen_date">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12_signature">dd.MM</string>
   <string name="aod_lock_screen_date_12_smartcover">"EE
-dd.MM"</string>
-  <string name="aod_lock_screen_date_signature">dd.MM</string>
+dd.MM.</string>
+  <string name="aod_lock_screen_date_signature">dd.MM.</string>
   <string name="aod_lock_screen_date_smartcover">"EE
-dd.MM"</string>
-  <string name="aod_lock_screen_date_smartcover_b">dd.MM EE</string>
+dd.MM."</string>
+  <string name="aod_lock_screen_date_smartcover_b">EE, dd.MM.</string>
   <string name="aod_mode_preview">Predogled</string>
   <string name="aod_mode_style">Stil ure in ozadja</string>
   <string name="aod_mode_style_title">Več možnosti</string>
@@ -73,7 +73,6 @@ dd.MM"</string>
   <string name="aod_mode_title">Vedno na zaslonu</string>
   <string name="aod_show_date_and_time">Pokaži datum in čas</string>
   <string name="aod_show_style_title">Pokaži stvari</string>
-  <string name="aod_signature_12">hh:mm aa</string>
   <string name="aod_style">Teme</string>
      <string name="aod_theme_store">Vedno na zaslonu teme</string>
   <string name="aod_to_close">Izključi</string>
@@ -233,8 +232,8 @@ dd.MM"</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Prestavite na način vnosa teksta</string>
   <string name="mtrl_picker_toggle_to_year_selection">Tapnite za prehod na izbiro leta</string>
 <string name="my_style_title">Moj stil</string>
-  <string name="night">PM</string>
-  <string name="noon">PM</string>
+  <string name="night">Večer</string>
+  <string name="noon">Poldne</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="notification_anim_pulse">Pulzno</string>
   <string name="notification_anim_rhythm">Ritem</string>

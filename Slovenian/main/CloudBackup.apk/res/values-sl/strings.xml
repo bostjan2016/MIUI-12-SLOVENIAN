@@ -198,6 +198,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="download_meta_failed">Ne morem prenesti podatkov</string>
   <string name="download_settings">Prenos nastavitev začetnega zaslona %s%%</string>
   <string name="download_settings_fail">"Prenos nastavitev začetnega zaslona ni uspel"</string>
+     <string name="early_morning">Jutro</string>
   <string name="error_retry_later">Opravila ne morem končati. Počakajte trenutek ali dva in poskusite ponovno.</string>
   <string name="error_unknown">Prišlo je do napake</string>
      <string name="evening">Večer</string>

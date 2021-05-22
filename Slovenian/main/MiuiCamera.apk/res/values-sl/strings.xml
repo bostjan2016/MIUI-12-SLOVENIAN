@@ -417,6 +417,7 @@ in za trenutek zapustite pregled"</string>
   <string name="clone_start_capture">Začnite klonirati</string>
   <string name="clone_too_much_movement_stop">Naprava je predaleč. Snemanje je ustavljeno.</string>
   <string name="clone_video_mode">Videoposnetek</string>
+     <string name="close">Zapri</string>
   <string name="close_back_flash_toast">"Naprava je prevroča. Ne morem uporabiti bliskavice."</string>
   <string name="close_front_flash_toast">"Naprava je prevroča. Ne morem uporabiti bliskavice."</string>
      <string name="close_night_algo_toast_low_power">Napolnite napravo, da bo lahko nastavila osvetlitev</string>
@@ -869,7 +870,7 @@ Natisnite kopijo brezžično na papir A4."</string>
   <string name="loading">Nalaganje…</string>
   <string name="loading_video">Nalaganje videoposnetka…</string>
   <string name="location">Lokacija</string>
-  <string name="location_access_allow">Dovoli</string>
+  <string name="location_access_allow">Strinjam se</string>
   <string name="location_permission_des">Zapomni si lokacije za fotografije in videoposnetke</string>
   <string name="location_permission_not_ask_again">Dovolite Kameri dostop do lokacije v nastavitvah.</string>
   <string name="location_permission_not_ask_again_go_to_settings">Dovoli</string>

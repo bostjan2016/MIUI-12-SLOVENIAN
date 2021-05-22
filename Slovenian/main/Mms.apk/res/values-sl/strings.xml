@@ -176,7 +176,7 @@
   <string name="confirm_delete_locked_message">Izbrišem zaklenjeno sporočilo?</string>
   <string name="confirm_delete_message">Izbrišem sporočilo?</string>
   <string name="confirm_dialog_locked_title">Izbrišem zaklenjeno sporočilo?</string>
-  <string name="confirm_dialog_title">Izbriši?</string>
+  <string name="confirm_dialog_title">Izbrišem?</string>
   <string name="confirm_dlg__msg">CMCC obvestilo: CMCC storitev ne bo varovana če jo ukinete. Ali želite preklicati?</string>
   <string name="confirm_dlg_title">Urejanje naprave</string>
   <string name="confirm_export_dialog_description">Prejšnji pogovori s tem stikom ne bodo več skriti.</string>

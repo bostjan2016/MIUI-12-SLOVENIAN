@@ -309,6 +309,8 @@ Preklopite za ustavitev sinhronizacije."</string>
     <string name="columbus_player_close_video">Zapri VIDEO</string>
     <string name="columbus_player_install_now">NAMESTI</string>
     <string name="columbus_player_learn_more">Več</string>
+     <string name="columbus_player_speed_title">Preskočim Video?</string>
+     <string name="columbus_player_speed_video">Preskoči VIDEO</string>
     <string name="com_facebook_device_auth_instructions">Obiščite &lt;b>facebook.com/device&lt;/b> in vnesite zgoraj prikazano kodo.</string>
     <string name="com_facebook_image_download_unknown_error">Nepričakovana napaka med prenosom slike.</string>
     <string name="com_facebook_internet_permission_error_message">Za prijavo v WebView je potrebno dovoljenje za splet</string>

@@ -8739,7 +8739,7 @@ Pred uporabo naših storitev preberite in sprejmite naše %s."</string>
     <string name="sound_dashboard_summary">Glasnost, vibriranje, ne moti</string>
     <string name="sound_effects_enable_title">Zvoki ob dotiku</string>
      <string name="sound_haptic_settings">Zvok &amp; dotik</string>
-     <string name="sound_mode">Tihi način &amp; DND</string>
+     <string name="sound_mode">Tihi način</string>
   <string name="sound_settings">Zvok</string>
     <string name="sound_settings_example_summary">Glasnost zvonjenja: 80 %</string>
     <string name="sound_settings_summary">Glasnost zvonjenja: %1$s</string>

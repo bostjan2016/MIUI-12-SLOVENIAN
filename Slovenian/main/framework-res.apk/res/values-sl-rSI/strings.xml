@@ -421,6 +421,7 @@ To bližnjico lahko v meniju »Nastavitve« > »Storitve za ljudi s posebnimi po
     <string name="common_name">Pravo ime:</string>
   <string name="condition_provider_service_binding_label">Ponudnik storitev</string>
   <string name="conference_call">Konferenčni klic</string>
+     <string name="config_rawContactsLocalAccountName">privzeto</string>
   <string name="configure_input_methods">Izbira tipkovnic</string>
   <string name="confirm_battery_saver">V redu</string>
     <string name="console_running_notification_message">Učinkovitost delovanja je slabša. Uporabo konzole lahko onemogočite v zagonskem nalagalniku.</string>
@@ -456,10 +457,11 @@ s številko %s"</string>
     <string name="data_usage_rapid_title">Visoka poraba mobilnih podatkov</string>
     <string name="data_usage_restricted_body">Dotaknite se za odstr. omejitve.</string>
     <string name="data_usage_restricted_title">Podatki v ozadju so omejeni</string>
-   <string name="data_usage_warning_body">Tapnite za prikaz porabe.</string>
+   <string name="data_usage_warning_body">Porabili ste %s podatkov.</string>
    <string name="data_usage_warning_title">Opozorilo o prenosu podatkov</string>
    <string name="data_usage_wifi_limit_snoozed_title">Preko omejitve podatkov WiFi</string>
   <string name="data_usage_wifi_limit_title">Dosežena pod. omejitev za WiFi</string>
+  <string name="date_and_time" formatted="false">%d.%m.%Y, %H:%M:%S</string>
   <string name="date_picker_decrement_day_button">Zmanjšanje vrednosti za dan</string>
   <string name="date_picker_decrement_month_button">Zmanjšanje vrednosti za mesec</string>
   <string name="date_picker_decrement_year_button">Zmanjšanje vrednosti za leto</string>
@@ -467,6 +469,7 @@ s številko %s"</string>
   <string name="date_picker_increment_day_button">Povečanje vrednosti za dan</string>
   <string name="date_picker_increment_month_button">Povečanje vrednosti za mesec</string>
   <string name="date_picker_increment_year_button">Povečanje vrednosti za leto</string>
+  <string name="date_picker_mode">koledar</string>
   <string name="date_picker_next_month_button">Naslednji mesec</string>
   <string name="date_picker_prev_month_button">Prejšnji mesec</string>
   <string name="date_time">%2$s %1$s</string>

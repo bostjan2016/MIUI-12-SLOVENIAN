@@ -266,6 +266,7 @@
     <string name="golbal_search_calculator_setting">Kalkulator; Nastavitve kalkulatorja; Nastavitve</string>
     <string name="golbal_search_path_calculator_setting">Sistemske aplikacije/Kalkulator/Nastavitve</string>
      <string name="gst_percentage">%s</string>
+     <string name="height_prompt">Višina</string>
   <string name="help_content_desc">Pomoč</string>
   <string name="hint_annual_rate">Vnesite letno stopnjo</string>
   <string name="hint_enter_amount">Vnesite znesek</string>

@@ -89,16 +89,24 @@
         <item quantity="one">"Ne morem vrniti %d stvar zaradi neznane napake."</item>
     </plurals>
 	<plurals name="search_alll_records_hint">
-        <item quantity="other">Išči med %d posnetki</item>
-        <item quantity="one">Išči med %d posnetkom</item>
+        <item quantity="other">%d posnetkov</item>
+        <item quantity="one">%d posnetek</item>
     </plurals>
 	<plurals name="search_app_records_hint">
-        <item quantity="other">Išči med %d posnetki</item>
-        <item quantity="one">Išči med %d posnetkom</item>
+        <item quantity="other">%d posnetkov</item>
+        <item quantity="one">%d posnetek</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">Išči med %d posnetki klicev</item>
-        <item quantity="one">Išči med %d posnetkom klicev</item>
+        <item quantity="other">%d posnetkov klicev</item>
+        <item quantity="one">%d posnetek klicev</item>
+    </plurals>
+	<plurals name="search_fm_records_hint">
+        <item quantity="other">%d radijskih posnetkov</item>
+        <item quantity="one">%d radijski posnetek</item>
+    </plurals>
+    <plurals name="search_recorder_records_hint">
+        <item quantity="other">%d zvočnih posnetkov</item>
+        <item quantity="one">%d zvočni posnetek</item>
     </plurals>
 	<plurals name="search_result">
         <item quantity="other">Najdeno posnetkov: %d</item>
