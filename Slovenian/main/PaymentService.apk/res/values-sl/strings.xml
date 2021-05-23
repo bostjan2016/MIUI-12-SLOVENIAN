@@ -90,6 +90,7 @@
      <string name="diagnosis_log_sent_format">"Poročila poslana.
 ID:%s
 Pošljite to kodo nadzorniku."</string>
+     <string name="early_morning">Jutro</string>
      <string name="error_dup_binded_email">Ta e-poštni naslov je že povezan z drugim računom Mi.</string>
   <string name="error_invalid_bind_address">E-poštni naslov, ki ste ga vnesli, ni veljaven.</string>
      <string name="evening">Večer</string>

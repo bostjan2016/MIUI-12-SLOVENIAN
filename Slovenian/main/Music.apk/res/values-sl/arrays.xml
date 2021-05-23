@@ -72,4 +72,13 @@
         <item>ženska</item>
         <item>skupina</item>
     </string-array>
+	<string-array name="recommendation_desc_week">
+        <item>Priporočila nedelja</item>
+        <item>Priporočila ponedeljek</item>
+        <item>Priporočila torek</item>
+        <item>Priporočila sreda</item>
+        <item>Priporočila četrtek</item>
+        <item>Priporočila petek</item>
+        <item>Priporočila sobota</item>
+     </string-array>
    </resources>

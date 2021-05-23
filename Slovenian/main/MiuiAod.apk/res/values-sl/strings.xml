@@ -294,9 +294,9 @@ dd.MM."</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
   <string name="super_wallpaper_date">"EEEE
-dd/MM"</string>
+dd.MM."</string>
   <string name="super_wallpaper_date_inter">"EEEE
-dd/MM"</string>
+dd.MM."</string>
   <string name="temporary_style">Čez 10 sekund po dotiku</string>
   <string name="temporary_style_summary">Priporočeno</string>
   <string name="text_color">Barva teksta</string>

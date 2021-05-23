@@ -643,6 +643,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="wapi_cert_manage_summary">Dodajte ali izbrišite WAPI certifikat</string>
   <string name="wapi_cert_manage_title">Urejanje WAPI certifikatov</string>
   <string name="wapi_cert_roaming">Povezovanje…</string>
+     <string name="wapi_no">ne</string>
   <string name="wapi_no_vaild_cert">Ni certifikata na voljo, jih boste namestili?</string>
   <string name="wapi_password_hex_format_add">Število heksadecimalnih znakov ne more biti parno število</string>
   <string name="wapi_password_is_empty">Polje za geslo ne sme ostati prazno</string>
@@ -650,6 +651,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="wapi_password_length_is_max">Geslo ne sme presegati 64 znakov</string>
   <string name="wapi_password_length_is_min">Geslo ne sme biti krajše od 8 znakov</string>
   <string name="wapi_password_length_is_min_to_max">Geslo mora imeti 8-64 znakov</string>
+     <string name="wapi_yes">da</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Dostopna točka je trenutno zasedena</string>
   <string name="wifi_auto_sel_wapi_cert">Samodejno izberi</string>
     <string name="wifi_cant_connect">Povezava ni mogoča</string>

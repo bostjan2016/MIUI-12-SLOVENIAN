@@ -2491,6 +2491,7 @@ morda nadzira"</string>
   <string name="switch_bar_off">Izključeno</string>
   <string name="switch_bar_on">Vključeno</string>
   <string name="switch_system_user">Nazaj v Prvi prostor</string>
+     <string name="system_ui_aod_date_pattern">eeeddMMM</string>
     <string name="system_ui_tuner">Uglaševalnik uporabniškega vmesnika sistema</string>
     <string name="tap_to_renew_subscription_and_connect">Dotaknite se za podaljšanje naročnine in vzpostavitev povezave</string>
   <string name="tap_to_sign_up">Tapnite za prijavo</string>

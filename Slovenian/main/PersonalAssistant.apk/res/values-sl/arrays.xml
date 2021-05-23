@@ -17,6 +17,15 @@
         <item>30 minut</item>
         <item>60 minut</item>
      </string-array>
+	 <string-array name="base_day_time_space">
+        <item>Noč</item>
+        <item>Noč</item>
+        <item>Jutro</item>
+        <item>Popoldne</item>
+        <item>Popoldne</item>
+        <item>Večer</item>
+        <item></item>
+	</string-array>
 	 <string-array name="day_time_space">
         <item>Noč</item>
         <item>Jutro</item>

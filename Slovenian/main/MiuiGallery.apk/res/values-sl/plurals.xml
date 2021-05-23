@@ -444,6 +444,10 @@
          <item quantity="other">Dodano %1$d fotografij v \"%2$s\".</item>
          <item quantity="one">Dodana %1$d fotografija v \"%2$s\".</item>
      </plurals>
+	 <plurals name="synced_videos_count">
+        <item quantity="other">Sinhr. %d videoposnetkov</item>
+        <item quantity="one">Sinhr. %d video</item>
+     </plurals>
 	 <plurals name="remove_from_secret_failed_with_reason_and_count">
          <item quantity="other">"%2$d stvari ni mogoče odstraniti iz skritega albuma. %1$s."</item>
          <item quantity="one">"%2$d stavr ne more biti odstranjena iz skritega albuma. %1$s."</item>

@@ -329,6 +329,7 @@
     <string name="reader_writer_table_edit_add_column">dodaj stolpec</string>
     <string name="reader_writer_table_edit_add_row">dodaj vrstico</string>
     <string name="search_menu_title">Išči</string>
+     <string name="ss_card_mode_filter_title_text">Izberite stvari za prikaz</string>
      <string name="wps_lite_app_svn">svn</string>
     <string name="wps_lite_xiaomi_app_packageName">Mi Pregledovalnik dokumentov(Ponuja WPS)</string>
     <string name="writer_characters">Znaki (brez presledkov)</string>

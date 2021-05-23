@@ -214,6 +214,7 @@
   <string name="experience_new_feature_tips">"Prijavite se v svoj Mi Račun da se boste prijavili za dovoljenje za uporabo Beta verzije. Beta verzijo boste lahko uporabili ko pregledamo vašo prijavo. Beta verzija lahko vsebuje napake."</string>
   <string name="experience_new_features">Beta verzija</string>
   <string name="experiential_version_of_the_prompt_content">Prijavite se v svoj Mi Račun za dostop do Beta Skenerja. Prijava zdaj?</string>
+     <string name="express_no_empty">Najprej vnesite številko naročila</string>
   <string name="failed_to_get_xiaomi_account">"Ne morem se prijaviti"</string>
   <string name="fax">Fax</string>
   <string name="feed_search_fail">Ni rezultatov, poskusite ponovno</string>

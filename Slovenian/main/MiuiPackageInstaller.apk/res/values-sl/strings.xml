@@ -300,6 +300,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="mobil_net_work_warning_msg">"Uporabljate mobilne podatke. Namestitev te aplikacije zahteva %1$s mob. podatkov. Vseeno namestim?"</string>
   <string name="mobil_net_work_warning_ok">Vseeno namesti</string>
   <string name="mobil_net_work_warning_title">Opozorilo uporabe podatkov</string>
+     <string name="monday">Ponedeljek</string>
      <string name="monday_short">Pon</string>
      <string name="monday_shortest">P</string>
      <string name="month">Mesec</string>
