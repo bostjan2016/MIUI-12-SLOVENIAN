@@ -124,6 +124,10 @@
          <item quantity="other">%d drugih uporabnikov je označilo kot</item>
          <item quantity="one">%d drug uporabnik je označil kot</item>
       </plurals>
+	 <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">"Ocena zmogljivosti vaše naprave je nižja od %d točk. Optimiziram?"</item>
+        <item quantity="one">"Ocena zmogljivosti vaše naprave je nižja od %d točke. Optimiziram?"</item>
+    </plurals>
 	  <plurals name="st_show_num_keyword">
          <item quantity="other">%d ključnih besed</item>
          <item quantity="one">%d ključna beseda</item>

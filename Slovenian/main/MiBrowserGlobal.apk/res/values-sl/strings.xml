@@ -924,10 +924,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="miui_search_notification_title">Išči</string>
     <string name="miui_startpage">Začetna stran</string>
     <string name="miuishare_title_share">Deli</string>
-     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
-     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
-     <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
-     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
+
      <string name="miuix_appcompat_cancel_description">Prekliči</string>
      <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
      <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>

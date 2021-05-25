@@ -48,6 +48,7 @@
      <string name="am">AM</string>
   <string name="app_name">Varnostna kopija</string>
   <string name="apps_and_data_item_desc">Aplikacije in podatki</string>
+     <string name="apps_item_desc">Aplikacije</string>
   <string name="auto_backup">Načrtuj varnostno kopiranje</string>
   <string name="auto_backup_all_user_apps">Vse aplikacije</string>
   <string name="auto_backup_choose">Varnostno kopiraj stvari</string>
@@ -424,6 +425,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="new_pc_backup_summary2_pad">Povežite svojo mobilno napravo z računalnikom preko USB kabla.</string>
   <string name="new_pc_backup_summary4">Opomba: lahko kopirate tudi fotografije in videoposnetke iz DCIM.</string>
   <string name="new_pc_restore_content1">%d. Povežite svojo mobilno napravo z računalnikom preko USB kabla.</string>
+     <string name="new_pc_restore_content1_pad">%d. Povežite svojo mobilno napravo z računalnikom preko USB kabla.</string>
   <string name="new_pc_restore_content2">%d. Kopirajte var. kopijo iz računalnika v MIUI-Backup-AllBackup.</string>
      <string name="new_pc_restore_content2_pad">%d. Kopirajte var. kopijo iz računalnika v MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Odprite \"%2$s\" in izberite stvari za vračanje.</string>

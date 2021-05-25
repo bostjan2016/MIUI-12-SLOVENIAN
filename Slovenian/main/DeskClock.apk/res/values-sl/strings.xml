@@ -125,6 +125,7 @@
      <string name="clock_date_time_format_seconds_24">HH:mm:ss</string>
   <string name="close">Zapri</string>
   <string name="close_alarm">Izključi</string>
+     <string name="close_alarm_new">Ustavi</string>
   <string name="common_settings">Nastavitve</string>
   <string name="common_timer_selector">Izberi časovnik</string>
   <string name="confirm">Potrdi</string>
@@ -422,6 +423,7 @@
      <string name="noon">Poldne</string>
   <string name="normal_settings">Splošne nastavitve</string>
   <string name="not_set">Ni nastavljeno</string>
+     <string name="not_set_temporarily">Ne, hvala</string>
   <string name="not_update">Ne zdaj</string>
   <string name="oneshot_alarm">Izbriši po izklopu alarma</string>
   <string name="open_keep_screen">Zaslon bo ostal vključen</string>
@@ -471,6 +473,7 @@
   <string name="set_alarm_choose_ringtone">Izberite melodijo zvonjenja</string>
   <string name="set_alarm_done">Končano</string>
   <string name="set_alarm_other">Ostalo</string>
+     <string name="set_now">Nastavi</string>
   <string name="setting_alarm_arriving_subtitle">Pokaži obvestila preden se alarmi izključijo</string>
   <string name="setting_alarm_arriving_summary">Pošlji obvestilo pred zvonjenjem</string>
   <string name="setting_alarm_arriving_title">Obvesti pred zvonjenjem</string>
@@ -513,6 +516,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
   <string name="sleep_time">Zaspal/a</string>
   <string name="sleep_wake_time">%1$s-%2$s</string>
   <string name="slider_text">Podrsajte navzgor za preklic alarma</string>
+     <string name="slider_text_new">Podrsajte navzgor za ustavitev alarma</string>
   <string name="snooze_confirm_cancel">Zavrzi alarm</string>
   <string name="snooze_duration">Odloži</string>
   <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -585,6 +589,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
   <string name="timer_end_time_format">HH:mm dd.MM</string>
   <string name="timer_end_time_format_today">HH:mm</string>
   <string name="timer_got_it">V redu</string>
+  <string name="timer_got_it_new">V redu</string>
   <string name="timer_is_paused">Kronometer ima premor</string>
   <string name="timer_item_delete">Izbriši</string>
   <string name="timer_item_duration_display">%1$d min %2$d sek</string>
@@ -635,6 +640,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
+     <string name="week_ringtone_recommend_desc">Alarm narave predvaja različne zvoke, odvisno od datuma. Nastavim kot privzeti alarm?</string>
   <string name="white_noise_selector">Izberi zvok</string>
   <string name="workday_alarm_clock">Alarm ob delavnikih</string>
   <string name="worldclock_empty_text">Ni svetovnih ur</string>

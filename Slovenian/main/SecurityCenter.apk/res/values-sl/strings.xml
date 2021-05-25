@@ -1421,6 +1421,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="exit_dialog_homepage_optimise_message">"Rezultat zmogljivosti za vašo napravo je nižji od 80 točk. Optimiziram zdaj?"</string>
   <string name="exit_dialog_release_memory_positive_button">Zapri</string>
     <string name="exit_dialog_release_memory_title"><Data>Pohitrite napravo za &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
+  <string name="exit_dialog_release_storage_message_new">Več od %s prostora za shranjevanje na napravi je zasedeno. Sprostite prostor z odstranitvijo aplikacij ki jih ne uporabljate.</string>
   <string name="exit_dialog_release_storage_message">Več od 80% prostora za shranjevanje na napravi je zasedeno. Sprostite prostor z odstranitvijo aplikacij ki jih ne uporabljate.</string>
   <string name="exit_dialog_release_storage_positive_button">Sprosti prostor</string>
   <string name="exit_dialog_release_storage_title">Sprosti prostor</string>
@@ -5178,6 +5179,7 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="vb_quick_func_screening">Predvajaj</string>
   <string name="vb_settings">Nastavitve</string>
      <string name="vb_ve_settings_ai_stronger">AI</string>
+   <string name="vb_ve_settings_display_style_tips_new">*Učinki bodo uporabljeni samo za območje predvajanja videoposnetkov</string>
   <string name="vb_ve_settings_display_style_tips">*Ti efekti se uporabijo za cel zaslon</string>
   <string name="vb_ve_settings_pic_border_stronger">Izboljšani obrisi</string>
   <string name="vb_ve_settings_picture_stronger">Izboljšane animacije</string>

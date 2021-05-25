@@ -24,6 +24,10 @@
          <item quantity="other">%d prenosov odstranjeno</item>
          <item quantity="one">%d prenos odstranjen</item>
     </plurals>
+	<plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+     </plurals>
 	<plurals name="Nalert_msg_vip_songs_for_download_upgrade">
         <item quantity="other">"Ta mesec lahko prenesete %d Premium skladb. Nadgradite na Premium naročnino, da jih lahko prenesete več."</item>
     </plurals>

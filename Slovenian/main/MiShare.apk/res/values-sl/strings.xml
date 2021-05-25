@@ -82,6 +82,7 @@
     <string name="error_receive_user_cancel">Prenos je odpovedan</string>
     <string name="error_receive_user_interrupted">Druga oseba je odpovedala prenos</string>
     <string name="error_refuse_receive">Prenos je odpovedan</string>
+     <string name="error_remote_ap_working">Prosite drugo osebo, da izklopi prenosno dostopno točko</string>
     <string name="error_remote_busy">Druga naprava je zasedena. Počakajte minuto ali dve in poskusite ponovno.</string>
      <string name="error_remote_mirror_working">"Druga naprava med skupno rabo zaslona ne more sprejemati stvari"</string>
     <string name="error_self_busy">Naprava je zasedena. Počakajte minuto ali dve in poskusite ponovno.</string>

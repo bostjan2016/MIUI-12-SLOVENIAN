@@ -123,6 +123,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="important_warning">Pozor</string>
   <string name="insert_data">Vnesite podatke</string>
   <string name="invalid_size_value">"Ne morem dobiti velikosti paketa."</string>
+     <string name="kill_pkg_toast_message">Naprava se pregreva, aplikacija se bo zaprla</string>
   <string name="lasttime_applist_cloud">Posodobljene aplikacije:</string>
   <string name="lasttime_feature_cloud">Posodobljena opravila:</string>
   <string name="location_disable_description">Aplikacije v ozadju lahko dobijo lokacijo samo kratek čas, stalni dostop je omejen</string>
@@ -302,6 +303,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="sleepmode_privacy_link">Izvedite več o varnosti in zasebnosti</string>
   <string name="sleepmode_privacy_title">Način mirovanja</string>
   <string name="still">Slika</string>
+     <string name="stricter_high_temp_state_message">"Naprava se pregreva, razen klicev in stikov ne morete uporabljati drugih aplikacij"</string>
   <string name="sucess">Končano</string>
   <string name="thermal_cancel">NE</string>
   <string name="thermal_confirm">DA</string>

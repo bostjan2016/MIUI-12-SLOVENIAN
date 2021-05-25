@@ -136,6 +136,7 @@
   <string name="cta_v2_agree_desc">Dovoli tej aplikaciji, da se poveže s spletom in ji dodeli potrebna dovoljenja, navedena zgoraj.</string>
   <string name="cta_v2_app_purpose">Izdelava, pregled in urejanje beležk</string>
   <string name="cta_v2_app_purpose_v12">Dobrodošli v Beležki! S to aplikacijo lahko ustvarite naloge in opombe, ki vsebujejo besedilo, slike in zvok.</string>
+     <string name="data_empty_folder">Ni drugih map za prikaz</string>
   <string name="data_empty_note">Ni beležk</string>
   <string name="data_empty_todo">Ni nalog</string>
   <string name="date_calculate_today">0 dni</string>
@@ -325,6 +326,7 @@ Tapnite + da napravite mapo"</string>
   <string name="gesture_guide_message">Stvari se lahko dotaknete, pritisnete in pridržite in vlečete za ustvarjanje in preurejanje beležk. Se boste naučili?</string>
   <string name="gesture_guide_ok">Nauči me</string>
   <string name="gesture_guide_title">Kretnje</string>
+     <string name="handwrite_description">Rokopis</string>
   <string name="hear_note">Govorjene beležke</string>
   <string name="hidden_notes_fragment_title">Skrite beležke</string>
   <string name="hide_arrow_description">Skrij</string>
@@ -347,6 +349,7 @@ Tapnite + da napravite mapo"</string>
   <string name="menu_add_description">Dodaj beležko</string>
   <string name="menu_add_folder">Dodaj v mapo</string>
   <string name="menu_add_folder_description">Dodaj mapo</string>
+     <string name="menu_add_handwrite_description">Dodajte rokopisno beležko</string>
   <string name="menu_create_folder">Nova mapa</string>
   <string name="menu_delete">Izbriši</string>
   <string name="menu_delete_forever">Izbriši trajno</string>

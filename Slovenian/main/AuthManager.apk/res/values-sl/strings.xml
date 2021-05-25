@@ -524,7 +524,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="month_september_shortest">S</string>
      <string name="more">Več</string>
      <string name="morning">Jutro</string>
-  <string name="never_ask_again">"Ne sprašuj več po omejitvi"</string>
+  <string name="never_ask_again">"Ne sprašuj več"</string>
      <string name="night">Večer</string>
      <string name="no">Ne</string>
      <string name="noon">Poldne</string>
@@ -577,8 +577,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
   <string name="permission_group_title_privacy_related">Zasebnost</string>
   <string name="permission_group_title_sensitive_privacy_related">Občutljiva dovoljenja</string>
   <string name="permission_group_title_settings_related">Nastavitve</string>
-  <string name="permission_list_include">"Vključno:
-"</string>
+  <string name="permission_list_include">Vključno</string>
   <string name="permission_reminders">Opomniki dovoljenj</string>
   <string name="permission_request_title">Zahtevek dovoljenja</string>
   <string name="permission_warning_template">Dovolim %1$s  %2$s ?</string>
