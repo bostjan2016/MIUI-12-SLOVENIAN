@@ -62,6 +62,8 @@
      <string name="atarctic_shag">Antarktični prašič</string>
      <string name="australia_introduction">Avstralska celina je raj za redke endemične vrste.</string>
      <string name="australian_magpie">Avstralska sraka</string>
+     <string name="authorization_btn_text">Začni</string>
+     <string name="authorization_tips">Potrebna so dovoljenja</string>
      <string name="baboon_info">Oljčni pavijan živi v skupinah z razvitim socialnim rangom, odvisno od prevlade vsakega posameznika.</string>
   <string name="back">Nazaj</string>
      <string name="bear_info">Medvedi so največje kopenske zveri. Živijo v hladnih predelih in so znani po svojem ostrem vonju.</string>
@@ -147,6 +149,8 @@
   <string name="dc_light_hint_other">DC zatemnitev lahko vpliva na hitrost osveževanja in način prikazovanja posameznih stvari.</string>
   <string name="dc_lignt_enable_hint">Način proti utripanju nastavi osvežitev zaslona na 60 Hz. Spremenim na način preprečevanja utripanja?</string>
      <string name="delete_first_to_add_animal">Če želite dodati novo stvar, najprej izbrišite kako.</string>
+     <string name="devices_type_pad">pad</string>
+     <string name="devices_type_phone">telefon</string>
   <string name="display_description">Večje ikone, veliko besedilo, manjši vidni nered</string>
   <string name="display_title">Večje stvari</string>
      <string name="dynamic_ringtone_desc">"Raziskovali smo različne ekosisteme in ustvarjali njihove različne zvoke. Začnite z nami raziskovati zvoke narave!"</string>

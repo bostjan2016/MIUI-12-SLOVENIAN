@@ -8754,6 +8754,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
     <string name="smart_battery_manager_title">Prilagodljivo varčevanje z energijo akumulatorja</string>
     <string name="smart_battery_summary">Omejite porabljanje energije akumulatorja za aplikacije, ki jih ne uporabljate pogosto</string>
     <string name="smart_battery_title">Prilagodljivo varčevanje z energijo akumulatorja</string>
+     <string name="smart_home_select_smart_device">Aplikacija za upravljanje pametnih domačih naprav</string>
   <string name="smart_home_title">Pametni dom</string>
   <string name="smart_home_value_none">Nič</string>
   <string name="smart_home_value_unknown">Neznano</string>
@@ -10069,6 +10070,9 @@ Iz profila bodo prav tako odstranjeni shranjeni prstni odtisi, tako da z njimi n
   <string name="uplmn_settings_summary">Določite prednostne PLMN po vrstnem redu</string>
   <string name="uplmn_settings_title">Uporabnik kontrolira PLMN</string>
   <string name="upload_audio_log">Začni dobivanje zvočnega zapisa</string>
+     <string name="upload_debug_log_detail">"Pomagajte izboljšati izkušnjo naprave MIUI s samodejnim pošiljanjem diagnostičnih podatkov, podatkov o napravi in uporabi aplikacije Xiaomi. To bo pomagalo izboljšati življenjsko dobo baterije, stabilnost sistema MIUI in aplikacij ter še več .
+Podatki, ki jih boste poslali, bodo vsebovali splošne informacije o vaši napravi in o tem, kako jo uporabljate (npr. Raven akumulatorja, aktivnost sistema in aplikacij ter napake). Podatki bodo uporabljeni za izboljšanje naprav MIUI .
+Izklop te storitve ne vpliva na zmožnost naprave, da pošlje podatke, potrebne za bistvene storitve, kot so posodobitve sistema in varnost."</string>
   <string name="upload_debug_log_summary">Statistika uporabe ki nam pomaga pri iskanju in reševanju težav lahko vsebuje vaše osebne podatke</string>
   <string name="upload_debug_log_title">Samodejno pošlji diagnostične podatke</string>
   <string name="upload_gps_log">Začni dobivanje GPS zapisa</string>

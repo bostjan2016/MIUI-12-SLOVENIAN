@@ -29,6 +29,10 @@
         <item quantity="other">pred %d minut</item>
         <item quantity="one">pred 1 min</item>
      </plurals>
+	 <plurals name="find_leak_risk">
+        <item quantity="other">%d tveganj, povezanih z zasebnostjo</item>
+        <item quantity="one">%d tveganje, povezano z zasebnostjo</item>
+    </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>

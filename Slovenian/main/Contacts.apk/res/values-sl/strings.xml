@@ -95,6 +95,7 @@
      <string name="bh_back">Nazaj</string>
      <string name="bh_bill_balance">Stanje</string>
      <string name="bh_bill_charge">Napolnite bon</string>
+     <string name="bh_bills_info_label">Podrobnosti</string>
      <string name="bh_bugreport">Poslovne povratne informacije</string>
      <string name="bh_business_hall_is_here">Tu so storitve operaterjev</string>
      <string name="bh_business_style">Izberite vmesnik</string>
@@ -107,6 +108,10 @@
      <string name="bh_cannot_action">"Ne morem uporabiti %1$s. Najprej namestite ustrezno aplikacijo."</string>
      <string name="bh_cannot_fetch_num">Neznana številka telefona</string>
      <string name="bh_cannot_login_miacount">"Ne morem se prijaviti v Mi Račun"</string>
+     <string name="bh_card_order_detail">Info o naročilu</string>
+     <string name="bh_card_order_name">Paket storitev</string>
+     <string name="bh_card_order_pay_price">Plačan znesek</string>
+     <string name="bh_card_order_price">Price</string>
      <string name="bh_charge_confirm">Dodam %2$s CNY v %1$s?</string>
      <string name="bh_charge_continue">Napolni</string>
      <string name="bh_charge_number">Polnjenje %1$s</string>
@@ -114,6 +119,9 @@
      <string name="bh_close_traffic_package">Zapri podrobnosti načrta mobilnega operaterja</string>
      <string name="bh_cmcc">China Mobile</string>
      <string name="bh_confirm">V redu</string>
+     <string name="bh_connect_address">"Ime prejemnika"</string>
+     <string name="bh_connect_name">Prejemnik</string>
+     <string name="bh_connect_number">"Tel. št. prejemnika"</string>
      <string name="bh_contact_number">%1$s iz vaših stikov</string>
      <string name="bh_ct">China Telecom</string>
      <string name="bh_cu">China Unicom</string>
@@ -127,6 +135,8 @@
      <string name="bh_edit_saved_phone_number">Uredi oznako za shranjeno številko</string>
      <string name="bh_edit_sim_num">Uredi SIM številko telefona</string>
      <string name="bh_exchange_number">Zamenjaj številko</string>
+     <string name="bh_express_name">Dostavna služba</string>
+     <string name="bh_express_number">Številka paketa</string>
      <string name="bh_fetch_balance">Preveri stanje</string>
      <string name="bh_flow_exceed">Omejitev presežena</string>
      <string name="bh_funtion_desc">Dobrodošli v Mi storitve operaterja! S to aplikacijo lahko preverite stanje telefona, kupite minute klicev, mobilne podatke in še več.</string>
@@ -150,16 +160,20 @@
      <string name="bh_net_error">Omrežna napak</string>
      <string name="bh_no_sim">"SIM kartica ni vstavljena"</string>
      <string name="bh_no_sim_inserted">"SIM kartica ni vstavljena"</string>
+     <string name="bh_none">Nič</string>
      <string name="bh_not_contact">"Nič ne najdem"</string>
      <string name="bh_notice">Pozor</string>
      <string name="bh_online_service">Online podpora</string>
      <string name="bh_option_agree_dec">Dovoli Mi storitve operaterja, da se povežejo na splet in pred uporabo aplikacije dodelijo potrebna dovoljenja.</string>
+     <string name="bh_order_detail">Podrobnosti naročila</string>
      <string name="bh_order_id">Številka naročila</string>
      <string name="bh_order_loading">Delam…</string>
      <string name="bh_order_pay">Plačilo</string>
+     <string name="bh_order_status">Status naročila</string>
      <string name="bh_order_time">Čas transakcije</string>
      <string name="bh_other_charge">Ostale številke telefona</string>
      <string name="bh_other_operator">Ostali ponudniki</string>
+     <string name="bh_other_traffic">Druga telefonska številka</string>
      <string name="bh_pay_fail_desc">"Povezave z omrežjem ni bilo mogoče vzpostaviti. Vrnite se in znova dokončajte plačilo."</string>
      <string name="bh_pay_fee">Račun</string>
      <string name="bh_pay_success_desc">Vaše stanje bo morda pripisano z zamudo</string>
@@ -195,8 +209,18 @@
      <string name="bh_tag_phones">Pogosto uporabljene telefonske številke</string>
      <string name="bh_tags_number_exceed">"Ne morem shraniti več telefonskih številk"</string>
      <string name="bh_tb">TB</string>
+     <string name="bh_text_buy_time">Naročilo ustvarjeno</string>
+     <string name="bh_text_charge_name">Znesek</string>
+     <string name="bh_text_no_order">Tu ni ničesar</string>
+     <string name="bh_text_operator">Ponudnik</string>
+     <string name="bh_text_order_id">Številka naročila</string>
+     <string name="bh_text_paid_fee">Znesek naročila</string>
+     <string name="bh_text_phone_num">Tel. številka</string>
+     <string name="bh_text_traffic_package">Podatkovni paket</string>
      <string name="bh_time_before">%1$s %2$s nazaj</string>
-     <string name="bh_toast_start_intent_failed">"Ni bilo mogoče najti aplikacije za izvedbo tega dejanja"</string>
+     <string name="bh_toast_copy">Uspešno kopirano</string>
+     <string name="bh_toast_start_intent_failed">"Ne morem najti aplikacije za izvedbo tega dejanja"</string>
+     <string name="bh_traffic_charge">Pridobite mobilne podatke</string>
      <string name="bh_traffic_service">Več storitev</string>
      <string name="bh_traffic_surplus">Ostalo podatkov</string>
      <string name="bh_traffic_title">Dobite podatke</string>
@@ -1285,6 +1309,7 @@ Dostop iz vsakega brskalnika.
 Napravite varnostno kopijo stikov."</string>
   <string name="no_contact_details">Ni dodatnih informacij za ta stik.</string>
   <string name="no_contact_in_other_phone">Ni zaznanih stikov</string>
+     <string name="no_contact_selected">Izberite stik za prikaz podrobnosti</string>
   <string name="no_contacts_dialog_message">Stiki so lahko shranjeni na vaši SIM kartici. Poskusite uvoziti stike iz vaše SIM kartice na pomnilnik vašega telefona in poskusite ponovno.</string>
   <string name="no_contacts_dialog_title">"Stikov ni mogoče najti"</string>
   <string name="no_contacts_selected">Izbran ni noben stik.</string>
@@ -1535,6 +1560,10 @@ Napravite varnostno kopijo stikov."</string>
 
   Za začetek tapnite ikono Združi na dnu zaslona."</string>
   <string name="report_inquiry_mms">Prijavi SMS</string>
+     <string name="residual_time_description">%1$sdni%2$sur</string>
+     <string name="residual_time_description2">%1$dh</string>
+     <string name="residual_time_description3">%1$dm</string>
+     <string name="residual_time_description4">%1$dd</string>
      <string name="restore_app_btn_cancel">Prekliči</string>
      <string name="restore_app_btn_restore">V redu</string>
      <string name="restore_app_description_content">Dodajte bližnjico na začetni zaslon, da boste lahko hitreje dostopali do stikov.</string>

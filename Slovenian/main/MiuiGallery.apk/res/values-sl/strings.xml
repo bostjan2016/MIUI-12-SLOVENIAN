@@ -1155,6 +1155,7 @@ za fotografije"</string>
   <string name="have_known">Razumem</string>
   <string name="help">"Ne najdete naprav?"</string>
   <string name="help_content">"Če ne najdete potrebne naprave prosite drugo osebo da vključi Mi Share."</string>
+  <string name="hello_blank_fragment">Pozdravljeni prazen fragment</string>
   <string name="hidden_album_display_name">Skriti album</string>
   <string name="highlight">Poudarki</string>
   <string name="highlight_abbr">I</string>
@@ -1167,6 +1168,9 @@ za fotografije"</string>
   <string name="home_menu_photo_movie">Izsek</string>
   <string name="home_menu_print">Natisni fotografije</string>
      <string name="home_menu_video_post">Video efekti</string>
+	<string name="home_page_all_photos">Vse</string>
+    <string name="home_page_camera">Kamera</string>
+    <string name="home_page_custom">Po meri</string>
   <string name="home_page_empty">Prazno</string>
   <string name="home_page_empty_action">Posnemi fotografijo</string>
   <string name="home_page_label">Fotografije</string>
