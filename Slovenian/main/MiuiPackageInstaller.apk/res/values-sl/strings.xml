@@ -402,7 +402,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="review_button_cancel">Prekini</string>
   <string name="review_button_continue">Nadaljuj</string>
   <string name="risk_warning_bottom_button">Namesti iz preverjenih virov</string>
-  <string name="risk_warning_msg">"Podpis na tem namestitvenem paketu ne izgleda avtentično. Zaradi varnosti namestite aplikacijo iz preverjenih virov."</string>
+  <string name="risk_warning_msg">"Podpis na tem namestitvenem paketu ni videti avtentično. Zaradi varnosti namestite aplikacijo iz preverjenih virov."</string>
   <string name="risk_warning_title">Najdeno tveganje</string>
   <string name="risk_warning_top_button">"Ne namesti"</string>
   <string name="safe_guard_support">Tehnična podpora je zagotovljena s strani %1$s</string>

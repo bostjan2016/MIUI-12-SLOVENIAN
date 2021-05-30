@@ -41,7 +41,7 @@
     <string name="search_menu_title">Išči</string>
     <string name="space_desc">Še en zasebni prostor</string>
     <string name="space_title">Drugi prostor</string>
-    <string name="theme_desc">Prilagodite izgled naprave</string>
+    <string name="theme_desc">Prilagodite videz naprave</string>
     <string name="theme_title">Teme</string>
     <string name="tools">Orodja</string>
 </resources>

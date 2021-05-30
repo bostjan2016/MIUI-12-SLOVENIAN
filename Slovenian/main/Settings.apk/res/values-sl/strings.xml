@@ -475,7 +475,7 @@ Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
     <string name="advanced_security_title">Dodatno</string>
     <string name="advanced_settings">Dodatne nastavitve</string>
   <string name="advanced_settings_summary">Omogoči več možnosti nastavitev.</string>
-  <string name="advanced_text_layout">Omogoči napreden izgled teksta</string>
+  <string name="advanced_text_layout">Omogoči napreden videz teksta</string>
      <string name="afternoon">Popoldne</string>
      <string name="aggregate_rule_group_disabled">"Ne združuj"</string>
      <string name="aggregate_rule_group_enabled">Združi</string>
@@ -2090,7 +2090,7 @@ Ko napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dv
   <string name="cloud_last_backup">"Zadnja var. kopija"</string>
   <string name="cloud_no_backup">Ni varnostnih kopij</string>
   <string name="cloud_restore_guide">Za obnovitev uporabniških podatkov za %s, tanite Vrni</string>
-  <string name="cloud_restore_section_summary">Obnovi aplikacije, izgled začetnega zaslona in nastavitve sistema</string>
+  <string name="cloud_restore_section_summary">Obnovi aplikacije, videz začetnega zaslona in nastavitve sistema</string>
   <string name="cloud_restore_section_summary_new">Napravi var. kopijo videza zač. zaslona, aplikacij, nastavitev sistema in še več</string>
   <string name="cloud_restore_section_title">Vrni iz Mi Clouda</string>
   <string name="cloud_restore_section_title_new">V Mi Cloudu</string>

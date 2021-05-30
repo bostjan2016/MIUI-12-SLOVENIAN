@@ -263,7 +263,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="keybag_password_too_short">Oblika gesla ni pravilna</string>
      <string name="keybag_set_password_content">Če želite uporabljati upravitelja gesel, ga nastavite. Omogočil nam bo potrditev vaše identitete, če spremenite napravo.</string>
      <string name="keybag_set_password_negative">Nastavi</string>
-     <string name="keybag_set_password_positive">Uporabi geslou zakl. zaslona</string>
+     <string name="keybag_set_password_positive">Uporabite geslo zakl. zaslona</string>
      <string name="keybag_set_password_success_close">Izhod</string>
      <string name="keybag_set_password_success_get">Razumem</string>
      <string name="keybag_set_password_success_tip">"Uspešno nastavljeno. To geslo boste morali vnesti v druge naprave, preden boste lahko dostopali do šifriranih stvari"</string>

@@ -1310,7 +1310,7 @@ da prejmete opomnike o plačilih in potovanjih"</string>
   <string name="questionnair_not_sync">Nestabilna sinhr.</string>
   <string name="questionnair_other_reasons">Ostali razlogi</string>
   <string name="questionnair_title">Brisanje računa</string>
-  <string name="questionnair_ui_not_pretty">"Ni mi všeč izgled aplikacije"</string>
+  <string name="questionnair_ui_not_pretty">"Ni mi všeč videz aplikacije"</string>
   <string name="questionnair_waste_resource">Ni dovolj prostora za shrambo</string>
   <string name="quick_1">Hvala!</string>
   <string name="quick_2">Sliši se dobro!</string>
@@ -1374,10 +1374,10 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="replyto_heading">Odgovori:</string>
   <string name="report">Prijavi</string>
   <string name="report_phishing">Prijavite krajo identitete</string>
-     <string name="report_rendering_improvement">Izgleda v redu</string>
-     <string name="report_rendering_improvement_desc">To sporočilo izgleda dobro.</string>
-     <string name="report_rendering_problem">Izgleda slabo</string>
-     <string name="report_rendering_problem_desc">To sporočilo izgleda slabo.</string>
+     <string name="report_rendering_improvement">Videti je v redu</string>
+     <string name="report_rendering_improvement_desc">To sporočilo je videti dobro.</string>
+     <string name="report_rendering_problem">Videti je slabo</string>
+     <string name="report_rendering_problem_desc">To sporočilo je videti slabo.</string>
   <string name="report_spam">Prijavite neželjeno pošto</string>
   <string name="request_copy_db_to_disk">Aplikacija E-pošta zahteva kopiranje baze podatakov v datoteko</string>
   <string name="request_entity_large">Datoteka je prevelika</string>

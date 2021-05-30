@@ -673,7 +673,7 @@
     <string name="powerful_acceleration_enable_summary">"Defragmentacija se izvede samodejno, medtem ko naprave ne uporabljate"</string>
     <string name="powerful_acceleration_enable_title">Izvedi defragmentacijo v ozadju</string>
     <string name="powerful_acceleration_item_button">Vključi</string>
-    <string name="powerful_acceleration_item_tip_normal">Vaša shramba izgleda dobro!</string>
+    <string name="powerful_acceleration_item_tip_normal">Vaša shramba je videti dobro!</string>
     <string name="powerful_acceleration_notification_summary">Dotaknite se, da sprostite več prostora</string>
     <string name="powerful_acceleration_notification_title">Defragmentacija končana</string>
     <string name="powerful_acceleration_tip">Notranji pomnilnik trpi zaradi razdrobljenosti, ki lahko znatno upočasni delovanje vaše naprave. Defragmentacija vaše datoteke fizično organizira v najmanjše število drobcev, kar izboljša delovanje.</string>
