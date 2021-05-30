@@ -41,12 +41,14 @@
   <string name="back_up_task_in_process">Izdelava v teku…</string>
   <string name="back_up_task_unfinished">"Ne morem napraviti var. kopijo"</string>
   <string name="backing_up_to_micloud">Varnostno kopiram…</string>
+     <string name="backup_action_access_permission">Nastavitve</string>
   <string name="backup_action_buy_cloud_space">Nabavite več prostora za shranjevanje</string>
   <string name="backup_action_check_network">Preverite omrežne nastavitve</string>
   <string name="backup_action_clean_disk_space">Osvobodite prostor</string>
   <string name="backup_action_retry_now">Poskusi ponovno</string>
   <string name="backup_fail">"Ne morem izdelati var. kopije"</string>
   <string name="backup_fail_wifi_needed">"Za izdelavo var. kopije je potreben WiFi."</string>
+     <string name="backup_failed_reason_app_usage_denied">Dodelite potrebna dovoljenja za varnostno kopiranje stvari</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Ni dovolj prostora za shranjevanje v Mi Cloudu. Nadgradite svoj plan ali osvobodite prostor za shranjevanje.</string>
   <string name="backup_failed_reason_disk_space_not_enough">Ni dovolj prostora za shranjevanje. Osvobodite prostor za shranjevanje.</string>
   <string name="backup_failed_reason_network_error">Omrežna napaka. Počakajte minuto ali dve in poskusite znova.</string>
@@ -62,6 +64,8 @@
   <string name="backup_success">Varnostna kopija uspešno napravljena</string>
   <string name="backup_successfully">Var. kopija uspešno napravljena</string>
   <string name="backup_to_cloud">Var. kopija aplikacij</string>
+     <string name="backup_warning_reason_app_usage_denied">"Ne morem sinhronizirati.
+Zahtevana so dovoljenja."</string>
   <string name="backup_warning_reason_cloud_space_not_enough">"Ne morem napraviti var. kopije"</string>
   <string name="backup_warning_reason_disk_space_not_enough">"Ni dovolj prostora.
 morem napraviti var. kopije"</string>
@@ -173,8 +177,11 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="device_corrupt">Mi Telefon (podatki so poškodovani)</string>
   <string name="device_delete_prompt">Izbrišem varnostno kopijo za %s?</string>
   <string name="device_xiaomi">Mi Telefon</string>
+     <string name="dialog_app_usage_denied">Dajte Var. kopiranju dovoljenje za \"Dostop do uporabe\" permission v nastavitvah, če želite varnostno kopirati stvari.</string>
      <string name="dialog_backup_failed">"Varnostne kopije ni bilo mogoče narediti"</string>
      <string name="dialog_btn_cancel_backup">Prekliči</string>
+     <string name="dialog_btn_confirm2">Razumem</string>
+     <string name="dialog_btn_enter">Nastavitve</string>
   <string name="dialog_btn_next">Naprej</string>
   <string name="dialog_btn_overwrite_backup">Prepiši</string>
   <string name="dialog_btn_restore_skip">Vrni kasneje</string>
@@ -187,6 +194,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="dialog_msg_overwrite_backup">Razlika med lokalno in Cloud var. kopijo je velika, nadaljevanje izdelave var. kopije bo pobrisalo obstoječo.</string>
   <string name="dialog_msg_restore_require_wlan">Namestitev var. kopije zahteva WiFi povezavo z omrežjem.</string>
   <string name="dialog_msg_restore_require_wlan_china">Vračanje var. kopij zahteva povezavo z WiFi omrežjem.</string>
+     <string name="dialog_need_permission">Zahtevana so dovoljenja</string>
   <string name="dialog_title_require_wlan">Povežite se preko WiFi</string>
   <string name="dialog_title_require_wlan_china">Poveži se preko WiFi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>

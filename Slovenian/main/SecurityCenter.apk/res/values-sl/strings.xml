@@ -419,6 +419,11 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_check_reason_wakeup_alarm">Zakl. zaslon se pogosto zbuja</string>
   <string name="app_check_reason_wifi_scan">Pogosta WiFi preverjanja</string>
   <string name="app_check_sub_title_text">Optimizirajte aplikacija da boste rešili težave z baterijo</string>
+     <string name="app_classification_activity_label">Vse aplikacije</string>
+     <string name="app_classification_recent_add">Nedavno</string>
+     <string name="app_classification_search_all">Vse</string>
+     <string name="app_classification_search_hint">Išči aplikacije</string>
+     <string name="app_classification_suggest_app">Predlogi</string>
   <string name="app_detail">Podrobnosti</string>
   <string name="app_error_tip_for_launcher">"Hardverske komponente vaše naprave ali verzija sistema Android lahko povzročijo probleme s kompatibilnostjo kar lahko povzroči da se nekatere aplikacije obnašajo nepravilno, se zamrznejo ali se prisilno ustavijo. Če pride do takšnih problemov, delite svoje povratne informacije s programerji aplikacije."</string>
   <string name="app_error_tip_for_store">"Hardverske komponente vaše naprave ali verzija sistema Android lahko povzročijo probleme s kompatibilnostjo, kar lahko povzroči neuspeh namestitve aplikacij. Če pride do takšnih problemov ali se nekatere aplikacije obnašajo nepravilno, se zamrznejo ali prisilno ustavijo, počakajte da programerji aplikacije popravijo napako in poskusite ponovno namestiti aplikacijo."</string>
@@ -625,6 +630,18 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_permission_use_neccesary">Potrebna dovoljenja</string>
   <string name="app_permission_use_no_neccesary">Izbirna dovoljenja</string>
   <string name="app_permission_use_title">Dovoljenja</string>
+     <string name="app_predict_black_list_empty">Tu še ni nič</string>
+     <string name="app_predict_black_list_setting_title">Seznam blokiranih predlogov aplikacij</string>
+     <string name="app_predict_folder_name">Išči</string>
+     <string name="app_predict_loading_text">Delam…</string>
+     <string name="app_predict_search_title">Vse aplikacije</string>
+     <string name="app_predict_setting_black_list">Seznam blokiranih</string>
+     <string name="app_predict_setting_black_list_message">"Blokirajte aplikacije, ki jih ne želite videti med predlogi"</string>
+     <string name="app_predict_setting_privacy">Pravila o zasebnosti</string>
+     <string name="app_predict_setting_switch_message">Prejemajte predloge aplikacij glede na vaše navade pri uporabi</string>
+     <string name="app_predict_setting_switch_title">Prilagojeni predlogi</string>
+     <string name="app_predict_setting_title">Predlogi aplikacij</string>
+     <string name="app_predict_widget_name_2x4">Predlogi aplikacij</string>
   <string name="app_running_tip_dialog_negative">Prekliči</string>
   <string name="app_running_tip_dialog_positive">V redu</string>
   <string name="app_running_tip_dialog_text">Zapri %1$s da se prepreči zagon v ozadju. To bo pohitrilo napravo in zmanjšalo porabo energije.</string>
@@ -1162,6 +1179,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="daily_sim_over_limit_notify_title">"Izkoristili ste že %s dnevne omejitve podatkov."</string>
  <string name="data_booster_desc">Deaktivirajte drugo SIM režo da obdržite povezavo stabilno</string>
   <string name="data_booster_title">Stabiliziraj podatkovno povezavo</string>
+     <string name="data_local_processing_and_storage">Podatki shranjeni in obdelani lokalno</string>
+     <string name="data_local_processing_and_storage_detail">"Vaš vnos bo shranjen in obdelan v tej napravi in ne bo naložen v oblak."</string>
   <string name="data_network_blocked_notification_title">Ni povezave s spletom</string>
   <string name="data_usage_correction_timeout_body">Tapnite za ročno posodobitev.</string>
   <string name="data_usage_correction_timeout_title">Potekel je čas za sinhronizacijo porabe podatkov</string>
@@ -1303,6 +1322,8 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="dialog_title_stop_paysafety_scan">Stop</string>
   <string name="dialog_title_stop_virus_scan">Ustavi varnostno preverjanje</string>
   <string name="disable_air_mode">Najprej izključite način Letalo</string>
+     <string name="disable_sensitive_permissions">Omejena občutljiva dovoljenjad</string>
+     <string name="disable_sensitive_permissions_detail">"Tipkovnica ne bo mogla uporabljati dovoljenj, povezanih z zasebnostjo (npr. dostop do stikov ali informacij o lokaciji)."</string>
   <string name="dlg_add_blacklist">Blokiram to številko?</string>
   <string name="dlg_add_blacklist_title">Dodaj na seznam blokiranih</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s in %2$s drugih stiki so že na seznamu izjem.</string>
@@ -2108,6 +2129,7 @@ da se pridružite našemu lovu na jajca!"</string>
      <string name="image_protect_recover_success">Obnovljeno</string>
      <string name="image_protect_tips_title">Brisanje fotografij</string>
      <string name="image_protect_total_activity_label">Prejemajte obvestila o izbrisanih fotografijah</string>
+     <string name="ime_security_warning">%1$s lahko posname vse, kar vtipkate, vključno z gesli in drugimi občutljivimi podatki. Vseeno uporabim?</string>
      <string name="in_delete">Brisanje…</string>
      <string name="in_recover">Obnavljanje…</string>
   <string name="info_and_call">Klici in sporočila</string>
@@ -2453,6 +2475,7 @@ Vaša naprava je zdaj %d%% hitrejša."</string>
      <string name="menu_text_power_percent">%s</string>
   <string name="menu_wh_remove">Odstrani iz izjem</string>
   <string name="menu_white">Dodaj v izjeme</string>
+     <string name="mi_ime_not_used">Uporabite tipkovnico, ki jo je odobril Xiaomi</string>
   <string name="mi_service_app_detail">Podrobnosti storitve porabe podatkov</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirne podrobnosti</string>
@@ -2576,6 +2599,7 @@ Vaša naprava je zdaj %d%% hitrejša."</string>
   <string name="net_delay_title">Odloži</string>
   <string name="net_overdue">Seja se je končala</string>
      <string name="network_assistant_privacy">Da lahko spremljamo uporabo podatkov po aplikacijah, zbiramo podatke, kot so imena paketov, uporaba WiFi in mobilnih podatkov, najvišja in najnižja poraba podatkov ter ko so vklopljeni WiFi in mobilni podatki. Ti podatki so shranjeni lokalno v vaši napravi.</string>
+     <string name="network_assistant_privacy_title">Pošljite podatke o uporabi aplikacij in omrežja ter diagnostične podatke</string>
   <string name="network_assistant_upgraded_body">Tapnite za prikaz</string>
   <string name="network_assistant_upgraded_title">Posodobljeno</string>
   <string name="network_blocked_connected_open_wifi">Povezovanje z javnim omrežjem</string>
@@ -2771,6 +2795,8 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="numeric_settings_help_how_to_record">Kako nastaviti PIN</string>
   <string name="oaid_reset_content_tip">Če virtualno ID izključite zdaj, lahko nekatere aplikacije nehajo pravilno delovati, nekatere vaše aplikacije se lahko izgubijo ali postanejo neuporabne.</string>
   <string name="oaid_reset_final_tip">Vseeno izključim virtualno ID?</string>
+     <string name="offline_voice_input">Glasovni vnos brez povezave</string>
+     <string name="offline_voice_input_detail">"Za glasovni vnos ne potrebujete spleta."</string>
   <string name="ok">V redu</string>
   <string name="ok_button">V redu</string>
   <string name="old_sdk_deny_warning">"Aplikacija ni skladna z najnovejšimi zahtevami dovoljenj Androida. Zavrnjena dovoljenja lahko vplivajo na način delovanja aplikacije."</string>
@@ -3526,6 +3552,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="pp_optional_protection_function">Neobvezni zaščitni ukrepi</string>
      <string name="pp_permission_action_virtual_detail">Dodelite dovoljenja, vendar aplikacijam namesto osebnih podatkov dajte prazne datoteke</string>
      <string name="pp_permission_settings">Dovoljenja</string>
+     <string name="pp_privacy_input_tips">Zaščitite tipkovnico</string>
      <string name="pp_privacy_lab_blur_location">Približna lokacija</string>
      <string name="pp_privacy_lab_blur_location_summary">Osebno prilagodite podatke o svoji lokaciji, tako da lahko aplikacije dostopajo do vaše približne lokacije</string>
      <string name="pp_privacy_lab_clipboard">Zaščitite odložišče</string>
@@ -3770,6 +3797,13 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_guide_permission_use_text">MIUI bo prešteval in prikazal, kolikokrat aplikacija uporablja občutljiva dovoljenja, vključno z lokacijo, stiki, zgodovino klicev in dostopom do shranjevanja ter zvočnim snemanjem. Ugotovite lahko, kolikokrat vsaka aplikacija uporablja ta dovoljenja in ugotovite, ali morate prilagoditi nastavitve dovoljenj.</string>
      <string name="privacy_hide_other_permissions">Skrij druga dovoljenja</string>
   <string name="privacy_informed_title">Statistika</string>
+     <string name="privacy_input_icon_layout_status_bg_content_enable">Zaščiteno</string>
+     <string name="privacy_input_mode">Varni vhod</string>
+     <string name="privacy_input_mode_img_detail">Deluje s tipkovnicami, ki jih je odobril Xiaomi</string>
+     <string name="privacy_input_mode_version_supported">Posodobite tipkovnico, da boste lahko uporabljali to storitev</string>
+     <string name="privacy_input_model_guide_choose">Prenesite glasovni vnos brez povezave</string>
+     <string name="privacy_input_model_guide_text">"Ta storitev ščiti vašo zasebnost med vnašanjem besedila. Ko je ta storitev vklopljena, nekatere omrežne storitve (npr. Možnosti prilagajanja, čustveni simboli, predvidevanje tipkanja) ne bodo na voljo ."</string>
+     <string name="privacy_input_model_tips">"Varni vnos je vklopljen. Tipkovnica ne more prikazati pojavnih oken ali dostopati do stikov, informacij o lokaciji in zgodovine klicev."</string>
   <string name="privacy_location_info_summary">Urejajte dostop do lokacije</string>
   <string name="privacy_location_info_title">Podatki o lokaciji</string>
   <string name="privacy_look_all_permission_status">Vsa dovoljenja</string>
@@ -3914,6 +3948,10 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="promotion">Oglas</string>
   <string name="prompt_all">Vprašaj za vse</string>
   <string name="prompt_input_time_illegal">"Ne morem nastaviti na ta čas, zamenjajte ga in poskusite ponovno"</string>
+     <string name="protect_data_security">Izolirani podatki</string>
+     <string name="protect_data_security_detail">Podatke, ki jih ustvari tipkovnica, bodo druge aplikacije ločile in jim ne bodo mogle dostopati.</string>
+     <string name="protect_screen_information">Zaslon je zaščiten</string>
+     <string name="protect_screen_information_detail">"Med tipkanjem ne boste mogli narediti posnetka zaslona ali zaslona."</string>
   <string name="protection_category_dangerous_title">Tveganj (%d)</string>
   <string name="protection_category_recommend_title">Priporočene spremembe (%d)</string>
   <string name="protection_category_security_title">Očisti (%d)</string>
@@ -4024,6 +4062,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="risk_app_install_item_des">Različica: %1$s</string>
   <string name="risk_app_install_manager">Aplikacije z možnimi tveganji</string>
   <string name="risk_list_header_title">%d zaznanih sumljivih aplikacij</string>
+     <string name="risk_tip">Zaznano tveganje</string>
   <string name="roaming_allow_network_dialog_title">Dovolite gostovanje podatkov?</string>
   <string name="roaming_limit_dialog_message">Dosežena dnevna omejitev pod. v gostovanju.</string>
   <string name="roaming_limit_network_notification_body">Tapnite za prikaz dostopnih podatkovnih omrežij</string>
@@ -4129,6 +4168,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="set_immediately">Nastavi</string>
      <string name="set_location">Nastavite lokacijo</string>
   <string name="set_mixed_password_name">Nastavi geslo</string>
+     <string name="set_now">Nastavitve</string>
   <string name="set_numeric_password_name">Nastavi PIN</string>
   <string name="set_package_tips">"Vašemu mobilnemu operaterju bomo poslali brezplačno sporočilo SMS, da preveri vaš podatkovni paket. Podatki, ki jih posredujete, bodo šifrirani in posredovani našim strežnikom, da sestavijo to sporočilo."</string>
   <string name="set_package_tips_detail">"Podatki, preneseni na strežnike Xiaomi, bodo vsebovali podatke o vašem mobilnem operaterju, kot tudi telefonsko številko, IMEI in račun Mi."</string>
@@ -4475,6 +4515,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="status_bar_network_flow_today">Danes: %1$s</string>
   <string name="still_retain_btn">Zadrži</string>
   <string name="stop_app_button">Ustavi</string>
+     <string name="stop_collecting_data">"Tipkovnica se ne bo naučila vaših navad"</string>
+     <string name="stop_collecting_data_detail">"Tipkovnica ne bo zbirala podatkov za izboljšanje predvidevanja tipkanja in predlaganje pogostih besednih zvez na podlagi vaših navad."</string>
   <string name="stop_milink_connect">Predvajanje je ustavljeno</string>
   <string name="storage_activity_title">Prostor za shranjevanje</string>
   <string name="storage_app_detail_activity_title">Zasedeni prostor</string>
@@ -5159,6 +5201,7 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="usbsharenet_pc_exception_summary">"Ne morem se povezati na splet preko deljene povezave. 
   Preverite spletno povezavo vašega računalnika."</string>
   <string name="use_immediately">Uporabi</string>
+     <string name="use_other_ime_warn">Tipkovnice drugih proizvajalcev lahko posnamejo vse, kar vtipkate, vključno z gesli in drugimi občutljivimi podatki.</string>
   <string name="user_define_title">Dodaj pravilo</string>
   <string name="user_guide">Podrsajte gor da boste našli nove igre</string>
   <string name="user_guide_title">Joystick Picks</string>
@@ -5179,8 +5222,8 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="vb_quick_func_screening">Predvajaj</string>
   <string name="vb_settings">Nastavitve</string>
      <string name="vb_ve_settings_ai_stronger">AI</string>
-   <string name="vb_ve_settings_display_style_tips_new">*Učinki bodo uporabljeni samo za območje predvajanja videoposnetkov</string>
-  <string name="vb_ve_settings_display_style_tips">*Ti efekti se uporabijo za cel zaslon</string>
+  <string name="vb_ve_settings_display_style_tips">*Ti učinki se uporabijo za cel zaslon</string>
+     <string name="vb_ve_settings_display_style_tips_new">*Učinki bodo uporabljeni samo za območje predvajanja videoposnetkov</string>
   <string name="vb_ve_settings_pic_border_stronger">Izboljšani obrisi</string>
   <string name="vb_ve_settings_picture_stronger">Izboljšane animacije</string>
   <string name="vb_video_effects_display_style">Stil</string>

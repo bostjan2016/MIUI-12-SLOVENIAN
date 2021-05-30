@@ -98,6 +98,15 @@
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
+     <string name="hearing_assist_bluetooth_enable_tips_cancle">Prekliči</string>
+     <string name="hearing_assist_bluetooth_enable_tips_start">Vključi</string>
+     <string name="hearing_assist_bluetooth_enable_tips_summary">Monitor v ušesu v živo deluje, ko je vklopljen Bluetooth. Vključim Bluetooth zdaj?</string>
+     <string name="hearing_assist_bluetooth_enable_tips_title">Vključi Bluetooth</string>
+     <string name="hearing_assist_transmission_label">Monitor v ušesu v živo</string>
+     <string name="hearing_assist_transmission_tips_cancel">Prekliči</string>
+     <string name="hearing_assist_transmission_tips_continue">Vključi</string>
+     <string name="hearing_assist_transmission_tips_summary">"Monitor v ušesu v živo prenaša iz mikrofona v telefonu na povezane slušalke Bluetooth. Vklopite zdaj?"</string>
+     <string name="hearing_assist_transmission_tips_title">Monitor v ušesu v živo</string>
      <string name="icon_content_description">Ikona pogovornega okna</string>
      <string name="item_view_role_description">Zavihek</string>
   <string name="loading">Neznano</string>

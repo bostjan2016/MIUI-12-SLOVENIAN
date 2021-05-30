@@ -384,8 +384,9 @@ Hitrejši protokol povezave."</string>
      <string name="headset_device_error_multconnect">"Ko je povezanih več naprav, ni mogoče posodobiti"</string>
      <string name="headset_device_error_no_device">V ohišju za polnjenje manjka vsaj ena slušalka</string>
      <string name="headset_device_error_single_device">"Ne morem posodobiti ene slušalke. Ponovno jih seznanite."</string>
-     <string name="headset_device_sync_donot_move_device">Sinhronizacija ... Počakajte, da se sinhronizacija konča, preden uporabite slušalke.</string>
-     <string name="headset_device_sync_wait_connect">Sinhronizacija ... Počakajte, da se povezava samodejno vzpostavi, preden uporabite slušalke.</string>
+     <string name="headset_device_sync">Sinhronizacija…</string>
+     <string name="headset_device_sync_donot_move_device">Sinhronizacija...Počakajte, da se sinhronizacija konča, preden uporabite slušalke.</string>
+     <string name="headset_device_sync_wait_connect">Sinhronizacija...Počakajte, da se povezava samodejno vzpostavi, preden uporabite slušalke.</string>
      <string name="headset_download_failed">ni uspelo</string>
      <string name="headset_download_fw">prenesi</string>
      <string name="headset_downloading">prenašam</string>

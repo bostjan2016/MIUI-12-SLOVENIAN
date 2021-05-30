@@ -247,6 +247,10 @@
   <string name="other_settings_location_summary">Dovoli aplikacijam dostop do vaše lokacije</string>
   <string name="other_settings_mifg_online_content">Vrtenje ozadij</string>
   <string name="other_settings_mifg_online_content_summary">Za redno posodabljanje ozadij zakl. zaslona se povežite na omrežje.</string>
+     <string name="other_settings_upload_debug_log_detail">"Pomagajte izboljšati izkušnjo naprave MIUI s samodejnim pošiljanjem diagnostičnih podatkov, podatkov o napravi in porabi podatkov za aplikacije podjetju Xiaomi. To bo pomagalo izboljšati življenjsko dobo baterije, stabilnost sistema MIUI in aplikacij ter še več.
+Podatki, ki jih boste poslali, bodo vsebovali splošne informacije o vaši napravi in o tem, kako jo uporabljate (npr. Raven akumulatorja, aktivnost sistema in aplikacij ter napake). Podatki bodo uporabljeni za izboljšanje naprav MIUI.
+Izklop te storitve ne vpliva na zmožnost naprave, da pošlje podatke, potrebne za bistvene storitve, kot so posodobitve sistema in varnost.
+To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > Samodejno pošlji....."</string>
   <string name="other_settings_upload_debug_log_summary">Statistika uporabe ki nam pomaga pri iskanju in reševanju težav lahko vsebuje vaše osebne podatke.</string>
   <string name="other_settings_upload_debug_log_title">Samodejno pošlji diagnostične podatke</string>
   <string name="other_settings_user_experience">Program uporabniških izkušenj</string>
