@@ -579,11 +579,12 @@ skenirane dokumente samodejno"</string>
   <string name="document_mode_use_hint_text_title">Skeniraj dokumente</string>
   <string name="document_origin">Original</string>
   <string name="document_strengthen">Izboljšano</string>
-     <string name="dolly_zoom_capture_tip1">Motiv postavite v okvir in napravo držite vsaj %d meter stran</string>
-     <string name="dolly_zoom_capture_tip2">Napravo enakomerno odmaknite od predmeta</string>
+     <string name="dolly_zoom_capture_tip1">Motiv postavite v okvir</string>
+     <string name="dolly_zoom_capture_tip2">Motiv naj bo v sredini in enakomerno odmaknite napravo</string>
      <string name="dolly_zoom_capture_tip3">Izgubljen objekt. Začnite znova.</string>
      <string name="dolly_zoom_capture_tip4">Napravo ste premaknili predaleč. Začnite znova.</string>
      <string name="dolly_zoom_capture_tip5">"Videoposnetka ni bilo mogoče shraniti"</string>
+     <string name="dolly_zoom_capture_tip6">Motiv naj bo v sredini okvira</string>
      <string name="dolly_zoom_guide_tip1">"Poskrbite, da bo med objektom in ozadjem dovolj prostora."</string>
      <string name="dolly_zoom_guide_tip10">In več!</string>
      <string name="dolly_zoom_guide_tip2">Poskusite se izogniti velikim enobarvnim površinam.</string>
@@ -1348,7 +1349,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_device_watermark_title">Oznaka naprave</string>
   <string name="pref_camera_dual_enable_title">Vključi dvojno kamero</string>
   <string name="pref_camera_dual_sat_enable_title">Vključi dvojno SAT kamero</string>
-  <string name="pref_camera_dynamic_frame_rate_summary">Število sličic se bo samodejno znižalo v slabih svetlobnih pogojih, da se izboljša kakovost videa</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">Število sličic se bo samodejno znižalo v pogojih slabe svetlobe ali visokih temperatur, da se izboljša kakovost videa</string>
   <string name="pref_camera_dynamic_frame_rate_title">Nastavi hitrost slikanja pri slabi svetlobi</string>
   <string name="pref_camera_eis_entry_normal">EIS je vključen</string>
   <string name="pref_camera_eis_entry_off">Izključeno</string>
@@ -1868,7 +1869,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="send">Pošlji</string>
   <string name="send_multiple_files_hint_format">Pošlji več datotek (%s)</string>
   <string name="set_as">Nastavi za</string>
-  <string name="set_image">Nastavi sliku za</string>
+  <string name="set_image">Nastavi sliko za</string>
   <string name="set_label_all_albums">Vsi albumi</string>
   <string name="set_label_local_albums">Lokalni albumi</string>
   <string name="setting_top_text">Možnosti</string>

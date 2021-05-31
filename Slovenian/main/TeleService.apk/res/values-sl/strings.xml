@@ -1346,6 +1346,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="invalid_pin2">Vnesite PIN2 geslo ki ima %1$d do %2$d številk.</string>
   <string name="invalid_puk">Vnesite PUK ki ima %1$d do %2$d številk.</string>
   <string name="invalid_puk2">Vnesite PUK2 ki ima %d številk.</string>
+     <string name="invalid_secretcode_format_txt">Neveljavna oblika skrivne kode!</string>
   <string name="ivr_mo_area_code_settings">Trenutna področna koda</string>
   <string name="ivr_mo_area_code_settings_hint">Vnesite trenutno področno kodo</string>
   <string name="ivr_parameter_settings">IVR nastavitve paratmetra</string>

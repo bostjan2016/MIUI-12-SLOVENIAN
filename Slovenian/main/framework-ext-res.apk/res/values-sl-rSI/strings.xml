@@ -36,6 +36,8 @@
   <string name="autofill_service_name">Urejanje gesel</string>
      <string name="back_double_tap">nič</string>
      <string name="back_triple_tap">nič</string>
+     <string name="battery_authentic_failed_button">Razumem</string>
+     <string name="battery_authentic_failed_title">Pozor</string>
   <string name="bluetooth_close">Ta aplikacija je izključila Bluetooth</string>
   <string name="bluetooth_disable_notification_content">%s je izključil-a Bluetooth</string>
   <string name="bluetooth_disable_notification_title">Bluetooth je izključen</string>
@@ -195,6 +197,7 @@
   <string name="onehour">30 minut</string>
   <string name="open_close_tip_action">Razumem</string>
   <string name="open_close_tip_content">Da zaprete plavajoče okno pritisnite in držite delovni trak, potem pa povlecite gor</string>
+     <string name="other_ime">Ostale tipkovnice</string>
   <string name="package_delete_confirm_step_1">Odstranim %s?</string>
   <string name="package_delete_confirm_step_2">Odstranitev te aplikacije lahko povzroči nestabilnost sistema vaše naprave.</string>
   <string name="package_delete_confirm_step_3">"Ne boste mogli odpreti aplikacije ko jo odstranite."</string>

@@ -6410,6 +6410,8 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="nsd_quick_toggle_summary">Dovoli da aplikacije v drugih napravah odkrivajo aplikacije v tej napravi</string>
   <string name="nsd_quick_toggle_title">Odkrivanje omrežnih storitev</string>
     <string name="number_of_device_admins_none">Ni aktivnih aplikacij</string>
+     <string name="oaid_apps_summary">Dovolite ali omejite dostop za posamezne aplikacije</string>
+     <string name="oaid_apps_title">Urejaj virtualno ID</string>
   <string name="oaid_string">"Trenutna virtualna ID:
 %1s"</string>
     <string name="oem_lock_info_message">Znova zaženite napravo, da omogočite opravilo zaščite naprave.</string>
@@ -9266,7 +9268,6 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
     <string name="style_and_wallpaper_settings_title">Slogi in ozadja</string>
     <string name="style_suggestion_summary">Preizkusite različne sloge, ozadja, ure in drugo</string>
     <string name="style_suggestion_title">Prilagajanje telefona Pixel</string>
-	<string name="switch_power_sound">Zvok polnjenja</string>
   <string name="sub_activate_failed">Aktivacija ni uspela.</string>
   <string name="sub_activate_not_supported">Aktivacija ni podprta</string>
   <string name="sub_activate_success">Uspešno aktivirano.</string>
@@ -9364,6 +9365,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="switch_headset_anti_lost_title">Opozorilo: manjka slušalka</string>
   <string name="switch_off_text">Izklopljeno</string>
   <string name="switch_on_text">Vklopljeno</string>
+     <string name="switch_power_sound">Zvok polnjenja</string>
   <string name="switch_screen_button_order">Zamenjaj tipke</string>
   <string name="switch_screen_button_order_desc">Zamenjaj razpored tipk Nazaj in Meni</string>
   <string name="switch_select_to_speak_on">Izberite za govor</string>
@@ -9556,6 +9558,8 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>
+     <string name="time_floating_window">Plavajoča ura</string>
+     <string name="time_floating_window_summary">Pokaži uro v plavajočem oknu nad drugimi aplikacijami</string>
     <string name="time_format_category_title">Oblika zapisa ure</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>
