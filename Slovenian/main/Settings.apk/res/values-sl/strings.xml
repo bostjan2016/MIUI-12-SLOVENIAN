@@ -7860,7 +7860,7 @@ Za uporabo pripenjanja aplikacije: \u0009
   <string name="screen_shot">Posnemi posnetek zaslona</string>
   <string name="screen_timeout">Stanje pripravljenosti</string>
     <string name="screen_timeout_summary">Po toliko nedejavnosti: %1$s</string>
-    <string name="screen_timeout_title">Zaslon se izklopi</string>
+    <string name="screen_timeout_title">Zakleni zaslon samodejno</string>
     <string name="screen_usage_summary">Trajanje vklopljenosti zaslona od polne napolnjenosti akumulatorja</string>
   <string name="screen_zoom_big">L</string>
   <string name="screen_zoom_conversation_icon_alex">A</string>
@@ -9266,6 +9266,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
     <string name="style_and_wallpaper_settings_title">Slogi in ozadja</string>
     <string name="style_suggestion_summary">Preizkusite različne sloge, ozadja, ure in drugo</string>
     <string name="style_suggestion_title">Prilagajanje telefona Pixel</string>
+	<string name="switch_power_sound">Zvok polnjenja</string>
   <string name="sub_activate_failed">Aktivacija ni uspela.</string>
   <string name="sub_activate_not_supported">Aktivacija ni podprta</string>
   <string name="sub_activate_success">Uspešno aktivirano.</string>

@@ -1021,6 +1021,7 @@ Izbor"</string>
   <string name="face_unlock_success_show_message_toast">Obvestila bodo prikazana na zakl. zaslonu</string>
   <string name="face_unlock_success_stay_screen_msg">Ostani na zakl. zaslonu ko bo obraz potrjen. Podrsajte z prstom gor da odprete začetni zaslon.</string>
   <string name="face_unlock_success_stay_screen_title">Ostani na zakl. zaslonu po odklepu</string>
+  <string name="face_unlock_swipe_up_retry">Podrsajte navzgor, da poskusite znova</string>
   <string name="failed_to_open_app_settings_toast">"Odpiranje nastavitev za aplikacijo %1$s ni uspelo"</string>
   <string name="finger_error_single_mode">"Optičnega bralnika prstnih odtisov ni mogoče uporabiti v načinu z eno roko. Zaprite način z eno roko in poskusite znova."</string>
   <string name="fingerprint_add_text">Prstni odtis je posodobljen. Dodajte ga ponovno.</string>

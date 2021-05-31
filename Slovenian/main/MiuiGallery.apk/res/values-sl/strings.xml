@@ -2874,7 +2874,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="vlog_video_importing">Uvoz videoposnetkov…</string>
   <string name="vlog_video_saved_in_my_create">Videoposnetek uspešno shranjen</string>
   <string name="vlog_video_selected_not_support">"Ne morem urediti izbrani videoposnetek"</string>
-  <string name="vlog_video_trans_code_cons">Obdelava datoteke visoke resolucije…</string>
+  <string name="vlog_video_trans_code_cons">Uvažam…</string>
   <string name="voice_assistant">Glasovni vnos</string>
   <string name="watch_all_photo">Galerija</string>
      <string name="web_sso_login_fail">Znova se morate prijaviti</string>
