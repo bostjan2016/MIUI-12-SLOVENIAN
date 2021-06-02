@@ -1995,8 +1995,12 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
     <string name="channel_notifications_off_desc">Na vašo zahtevo je prikazovanje te kategorije obvestil blokirano v tej napravi Android</string>
   <string name="character_counter_content_description">Vnešeni znaki %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračena omejitev števila znakov %1$d od %2$d</string>
+     <string name="charge_animation_style_lollipop">Tok</string>
+     <string name="charge_animation_style_none">Izključeno</string>
   <string name="charge_animation_style_summary">Izberite željeni stil animacije polnjenja zakl. zaslona</string>
   <string name="charge_animation_style_title">Animacija polnjenja</string>
+     <string name="charge_animation_style_video">Sijaj</string>
+     <string name="charge_animation_style_wave">Valovi</string>
     <string name="charge_length_format">Pred %1$s</string>
     <string name="charging_sounds_title">Zvoki in vibrir. ob polnjenju</string>
   <string name="check_find_device_status_failure_confirm">V redu</string>
@@ -8204,6 +8208,7 @@ Za uporabo pripenjanja aplikacije: \u0009
   <string name="secspace_fod_use_password">Vnesite geslo</string>
   <string name="secure_keyguard_business_title">Nastavi zakl. zaslona</string>
     <string name="secure_lock_encryption_warning">Vaša naprava ne bo uporabljala zaklepanja zaslona za izboljšanje šifriranja podatkov, ker ste vklopili storitev za ljudi s posebnimi potrebami.</string>
+     <string name="security_center_title">Varnost</string>
     <string name="security_dashboard_summary">Play Protect, zaklepanje zaslona, prstni odtis</string>
     <string name="security_dashboard_summary_face">Play Protect, zaklepanje zaslona, odklepanje z obrazom</string>
     <string name="security_dashboard_summary_no_fingerprint">Play Protect, zaklepanje zaslona</string>

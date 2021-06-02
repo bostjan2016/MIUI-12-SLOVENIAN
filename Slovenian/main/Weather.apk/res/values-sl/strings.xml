@@ -169,6 +169,7 @@
   <string name="daily_forecast_no_data">"Ne morem dobiti podatkov o vremenu
 Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="data_provided_by">Podatki dobljeni od</string>
+     <string name="data_source_time_fromat">"yyyy-dd-MM'T'HH:mm:ssz"</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="dialog_internet_error_title">Pojavila se je napaka</string>
      <string name="dialog_msg_score_midrop">Kako vam je všeč Vreme?</string>
@@ -248,6 +249,7 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="global_not_enable_warning">"Ne morete uporabiti te aplikacije. Ni nameščena iz uradnega vira."</string>
   <string name="gps_hint">Trenutna lokacija</string>
   <string name="hide_topic">Skrij</string>
+     <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Zdaj</string>
   <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title">Napoved vsako uro</string>
@@ -404,6 +406,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
      <string name="morning">Jutro</string>
   <string name="network_not_available">"Ne morem se povezati z omrežjem"</string>
   <string name="network_unavailable">"Ne morem se povezati z omrežjem."</string>
+     <string name="news_hour_minute_time_format">yyyy-dd-MM HH:mm</string>
      <string name="night">Večer</string>
   <string name="night_not_disturb_settings_summary">Blokiraj opozorila med 23:00 in 07:00</string>
   <string name="night_not_disturb_settings_title">"Ne moti ponoči"</string>

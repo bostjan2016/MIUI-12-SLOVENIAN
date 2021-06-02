@@ -1229,6 +1229,16 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="force_rtl_layout_all_locales">Vsili z desne v levo</string>
   <string name="force_rtl_layout_all_locales_summary">Vsili smer z desne v levo za vse države/jezike</string>
      <string name="four_point_five_switch_summary">Uporabi 4.5G za povečanje hitrosti mobilne podatkovne povezave in izboljšanje kakovosti glasu.</string>
+     <string name="four_point_five_switch_title">4.5G</string>
+     <string name="frequecy_num">lte kanal št.</string>
+     <string name="full_forwarding_number">Posredovanje številke</string>
+     <string name="full_forwarding_number_error_msg">Samo telefonske številke, ki se začnejo z \"0\" so podprte.</string>
+     <string name="full_forwarding_number_error_title">Neveljavna telefonska številka</string>
+     <string name="full_forwarding_number_prefix">"Telefonska številka: "</string>
+     <string name="full_forwarding_option_forwarding">Posredovanje</string>
+     <string name="full_forwarding_option_off">IZKLJ:</string>
+     <string name="full_forwarding_option_voicemail">Glasovna pošta</string>
+     <string name="full_forwarding_settings">Polno posredovanje</string>
   <string name="fw_change_failed">"Ni bilo možno spremeniti posredovane številke.
   Kontaktirajte vašega operaterja če se bodo problemi ponavljali."</string>
   <string name="fw_get_in_vm_failed">"Ni bilo možno priklicati in shraniti trenutne nastavitve posredovanih klicev.
@@ -2059,6 +2069,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="pin_progress_unlock_icc">Odklepam SIM kartico...</string>
     <string name="pin_puk_system_user_only">Samo lastnik naprave lahko vnese kodi PIN/PUK.</string>
     <string name="ping_test_label">Izvedba preskusa ping</string>
+     <string name="play_voicemail_settings">Predvajaj glasovno pošto</string>
   <string name="please_choose_the_duration">Izberite trajanje.</string>
   <string name="please_choose_the_refueling_package">Izberite paket doplačila</string>
   <string name="please_connect_network_message">Povežite se na omrežje</string>
@@ -2943,6 +2954,7 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="voice_service_warning_dialog_title">VoLTE klici</string>
   <string name="voicemail">Govorna pošta</string>
   <string name="voicemail_abbreviated">VM:</string>
+     <string name="voicemail_callforward_settings">Glasovna pošta &amp; Preusmeritev klicev</string>
   <string name="voicemail_change_pin_dialog_title">Sprememba PIN-a</string>
   <string name="voicemail_default">Moj operater</string>
   <string name="voicemail_notification_ringtone_title">Zvok</string>

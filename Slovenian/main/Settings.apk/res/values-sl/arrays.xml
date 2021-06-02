@@ -1519,12 +1519,6 @@
         <item>Uporabi naključni MAC</item>
         <item>Uporabi MAC naprave</item>
     </string-array>
-	<string-array name="charge_animation_style_entries">
-        <item>Izključeno</item>
-        <item>Tok</item>
-        <item>Sijaj</item>
-        <item>Valovi</item>
-	</string-array>
 	<string-array name="paper_color_values">
         <item>Polne barve</item>
         <item>Svetle barve</item>
