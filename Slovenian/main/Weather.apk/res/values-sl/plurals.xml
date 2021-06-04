@@ -23,7 +23,7 @@
         <item quantity="one">čez 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Prav zdaj</item>
+        <item quantity="other">Pravkar</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">pred %d min</item>
@@ -49,12 +49,12 @@
         <item quantity="other">Prav zdaj</item>
      </plurals>
      <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d item selected</item>
+        <item quantity="other">izbrano %d stvari</item>
+        <item quantity="one">izbrana %d stvar</item>
      </plurals>
      <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred 1 minuto</item>
      </plurals>
     <plurals name="aqi_all_city_cur_num">
         <item quantity="other">Povprečno %1$s postaj</item>

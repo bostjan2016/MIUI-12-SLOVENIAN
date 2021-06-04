@@ -5510,6 +5510,7 @@ Tega dejanja ne moreš preklicati!"</string>
 Nadaljujte k dodatnim nastavitvam."</string>
   <string name="miui_ime_xiaoai_voice_hint">Hitrejši in bolj praktičen način vnosa besedila</string>
   <string name="miui_ime_xiaoai_voice_title">Mi AI glasovni vnos</string>
+  <string name="miui_input_method_attention">Pozor</string>
   <string name="miui_input_method_settings">Nastavitve načina vnosa</string>
   <string name="miui_lab_3d_gesture_desc">Odprite začetni zaslon in narišite en vzorec v zraku s pomočjo telefona da boste odprli izbrane aplikacije</string>
   <string name="miui_lab_3d_gesture_slogan">S telefonom narišite vzorec v zraku da odprete aplikacijo</string>
@@ -7619,6 +7620,7 @@ Znova zaženite napravo in poskusite znova."</string>
     <string name="ringtones_category_preference_title">Melodije zvonjenja</string>
   <string name="ringtones_install_custom_sound_content">Ta datoteka bo kopirana v mapo %s</string>
     <string name="ringtones_install_custom_sound_title">Želite dodati zvok po meri?</string>
+	<string name="risk_tip">Najdeno tveganje</string>
     <string name="roaming">Gostovanje</string>
     <string name="roaming_alert_title">Želite dovoliti podatkovno gostovanje?</string>
     <string name="roaming_check_price_warning">Preverite cene pri operaterju omrežja.</string>
