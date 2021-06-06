@@ -1307,7 +1307,7 @@ podatkov o spanju"</string>
   <string name="sleep_snore_audio_file_mamagement_title">Samodejno izbriši posnetke</string>
   <string name="sleep_snore_audio_file_saved">Posnetki se shranjujejo samodejno</string>
   <string name="sleep_snore_audio_file_saved_desc">Za odkrivanje smrčanja in govora se uporablja algoritem brez povezave. Vsi posnetki bodo shranjeni lokalno v tej napravi, ne da bi razkrili vaše zasebne podatke.</string>
-  <string name="sleep_snore_audio_hight_power_desc">"Upoštevajte, da uporaba te storitve porabi veliko energije. Dobro je, da polnilnik med spanjem vključite v vtičnico, da se izognete nepričakovanim prekinitvam."</string>
+  <string name="sleep_snore_audio_hight_power_desc">"Upoštevajte, da uporaba te storitve porabi veliko energije. Dobro je, da polnilec med spanjem vključite v vtičnico, da se izognete nepričakovanim prekinitvam."</string>
   <string name="sleep_snore_detection">Odkrijte smrčanje in govorjenje če želite izvedeti več o spanju</string>
   <string name="sleep_snore_detection_desc">Spremljajte svoje spanje</string>
   <string name="sleep_sober">Budnost</string>

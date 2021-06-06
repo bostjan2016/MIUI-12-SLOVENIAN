@@ -63,7 +63,7 @@
      <string name="battery_dual_connector">Drugi priključek baterije</string>
      <string name="battery_id">Baterija ID:</string>
   <string name="battery_info">Povezane informacije o polnjenju baterije</string>
-     <string name="battery_plug_wirelee_summary">Brezžični polnilnik vsake povezave, izključite enkrat</string>
+     <string name="battery_plug_wirelee_summary">Brezžični polnilec vsake povezave, izključite enkrat</string>
      <string name="battery_plug_wirelee_title">Preskus brezžičnega polnjenja</string>
      <string name="battery_plugin_wirelee">Priključeno je brezžično polnjenje</string>
      <string name="battery_plugout_wirelee">Priključite brezžično polnjenje</string>
@@ -94,7 +94,7 @@
   <string name="cancel_test">TEST PREKLICAN</string>
   <string name="capacitance_test">TEST KAPACITETE</string>
      <string name="charger_test_end">"
-Konec preizkusa polnilnika, izklopite polnilnik"</string>
+Konec preizkusa polnilca, izklopite polnilec"</string>
   <string name="checkerboard_test">TEST TABELE</string>
      <string name="cit_OTG_plug_check_summary">Med preskusom vstavite in obrnite vtič v napravi USB_OTG</string>
      <string name="cit_OTG_plug_check_title">OTG</string>
@@ -260,15 +260,15 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
      <string name="cit_charge_usb_dcp">Polnjenje：USB_DCP</string>
      <string name="cit_charge_usb_hvdcp">Polnjenje：USB_HVDCP</string>
      <string name="cit_charge_usb_pd">Polnjenje：USB_PD</string>
-     <string name="cit_charger_check_title">Test polnilnika</string>
-     <string name="cit_charger_in">Polnilnik priključen</string>
-     <string name="cit_charger_in_check_title">Preskus vstavljanja polnilnika</string>
+     <string name="cit_charger_check_title">Test polnilca</string>
+     <string name="cit_charger_in">Polnilec priključen</string>
+     <string name="cit_charger_in_check_title">Preskus vstavljanja polnilca</string>
   <string name="cit_charger_plugin_check_summary">Kadar je USB polnilec priključen bi se moral pokazati tekst\"Polnjenje preko USB/AC\" .</string>
   <string name="cit_charger_plugin_check_title">Polnilec (priključite)</string>
   <string name="cit_charger_plugout_check_summary">Kadar USB polnilec ni priključen bi se moral pokazati tekst \"USB/AC polnilec ni priključen\" .</string>
   <string name="cit_charger_plugout_check_title">Polnilec (ni priključen)</string>
-     <string name="cit_charger_test_summary">"Med preizkusom polnilnika prosimo, da naprej priključite polnilnik
-in obrnite polnilnikr"</string>
+     <string name="cit_charger_test_summary">"Med preizkusom polnilca prosimo, da ga naprej priključite
+in polnilec obrnite nazaj"</string>
      <string name="cit_charger_test_tips_electric">Trenutni projekt mora preizkusiti trenutno polnilno vrednost večjo od 1A</string>
      <string name="cit_charger_test_tips_hvdcp">Trenutni projekt mora preizkusiti USB_HVDCP</string>
      <string name="cit_charger_test_tips_pd">Trenutni projekt mora preizkusiti USB_PD</string>
@@ -1169,7 +1169,7 @@ Držite drugo roko stran od mobilnega telefona. Kliknite gumb za začetek pridob
 Po kalibracijskem uspehu upoštevajte, da je absolutna vrednost CS0i in CS1 manjša od 200 in vrednost CS1 večja od 300. Po petih zaporednih korakih je druga roka blizu dna mobilnega telefona, vrednost CS0 je označeno z gumbom po treh zaporednih časih med 3000 in 30000, gumb za Uspelo je označen"</string>
   <string name="sar_sensor_collect_test_summary">"Obrnite telefon, nastavite ga v stojalo
 Kliknite tipko Začni zbiranje podatkov
-Kontrolirajte zapiranje stojala in se oddaljite se od telefona"</string>
+Kontrolirajte zapiranje stojala in se oddaljite od telefona"</string>
      <string name="sar_sensor_data_check_description">Sar Senzor zbiranje podatkov</string>
      <string name="sar_sensor_data_check_summary">"Z eno roko primite zgornji del telefona
 Prepričajte se, da je kot v realnem času približno 45 stopinj

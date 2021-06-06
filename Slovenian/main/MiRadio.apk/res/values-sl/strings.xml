@@ -195,7 +195,7 @@
   <string name="cloud_loading_message">Iskanje pesmi…</string>
   <string name="cloud_music">Pesmi v Xiaomi Cloudu</string>
   <string name="cloud_state_cloud_space_full">Premalo prostora v Xiaomi Cloudu. Kopiranje ustavljeno.</string>
-  <string name="cloud_state_low_power">Če želite nadaljevati varnostno kopiranje, priključite polnilnik</string>
+  <string name="cloud_state_low_power">Če želite nadaljevati varnostno kopiranje, priključite polnilec</string>
   <string name="cloud_state_network_data">"Omrežja WiFi ni bilo mogoče najti, varnostno kopiranje je zaustavljeno"</string>
   <string name="cloud_state_network_unavailable">"Ni bilo mogoče povezati se z omrežjem, varnostno kopiranje je zaustavljeno"</string>
   <string name="cloud_state_storage_full">Premalo prostora v telefonu, varnostno kopiranje je zaustavljeno</string>
