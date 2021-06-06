@@ -240,6 +240,8 @@
   <string name="creating_event">Dogodek ustvarjen</string>
   <string name="creating_event_with_guest">Pošiljanje vabila</string>
      <string name="credit_detail_sms_content">SMS vsebina</string>
+     <string name="cricket_card_notification_off">"Pred tekmo ne boste obveščeni"</string>
+     <string name="cricket_card_notification_on">"Pred tekmo boste obveščeni"</string>
   <string name="custom">"Prilagojeno (ni možno na tablici)"</string>
      <string name="custom_date_year_format">dd, yyyy</string>
      <string name="custom_dd_format">dd</string>
@@ -828,6 +830,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="notification_open_setting_title">Dovolim obvestila koledarja?</string>
   <string name="pack_up">Skrij</string>
   <string name="palestine_display_name">Palestina</string>
+     <string name="partner_compatibility">Združljivost partnerjev</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
      <string name="path_calendar_settings">Sistemske aplikacije/Koledar/Nastavitve</string>
   <string name="permission_accounts">Za prijavo in urejanje računov sistema in združevanje stvari z njim</string>
@@ -1007,6 +1010,9 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="saving_event">Dogodek shranjen.</string>
   <string name="saving_event_with_guest">Pošiljanje posodobitev…</string>
   <string name="search">Išči</string>
+     <string name="search_calendar">"Datum;Solarni pogoji;Luna;Almanah;Sreča;Dnevni red;Sestanek;Opomnik;Počitnice;Počitnice;Rojstni dan;2016;2017;Pomladni Festival;Novo leto;Mednarodni praznik dela;Srednje-jesenski festival"</string>
+     <string name="search_calendar_edit_event">Sestanek;Opomnik;Dnevni red</string>
+     <string name="search_calendar_settings">Koledar;Dnevni red;Opomnik</string>
   <string name="search_events">Išči dogodke</string>
   <string name="search_history">Zgodovina iskanja</string>
   <string name="search_history_cleared">Zgodovina iskanja je izbrisana</string>

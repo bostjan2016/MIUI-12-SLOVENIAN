@@ -431,6 +431,8 @@ To bližnjico lahko v meniju »Nastavitve« > »Storitve za ljudi s posebnimi po
   <string name="contentServiceTooManyDeletesNotificationDesc">Preveč izbrisov vsebine %s.</string>
   <string name="content_description_sliding_handle">Drsna ročica. Dotaknite se in pridržite.</string>
   <string name="continue_to_enable_accessibility">Če želite omogočiti pripomočke za ljudi s posebnimi potrebami na zaslonu pridržite z dvema prstoma.</string>
+     <string name="conversation_single_line_image_placeholder">Slika je bila poslana</string>
+     <string name="conversation_single_line_name_display">%1$s:</string>
     <string name="conversation_title_fallback_group_chat">Skupinski pogovor</string>
     <string name="conversation_title_fallback_one_to_one">Pogovor</string>
   <string name="copied">Kopirano</string>
@@ -795,6 +797,7 @@ s številko %s"</string>
   <string name="httpErrorTooManyRequests">V obdelavi je preveč zahtev. Poskusite znova pozneje.</string>
   <string name="httpErrorUnsupportedAuthScheme">Shema preverjanja pristnosti mesta ni podprta.</string>
   <string name="httpErrorUnsupportedScheme">Protokol ni podprt.</string>
+     <string name="icu_abbrev_wday_month_day_no_year">eeedMMMM</string>
   <string name="imProtocolAim">AIM</string>
   <string name="imProtocolCustom">Po meri</string>
   <string name="imProtocolGoogleTalk">Hangouts</string>

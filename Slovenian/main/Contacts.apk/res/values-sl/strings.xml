@@ -398,6 +398,7 @@
   <string name="chat_skype">Klepet preko Skype</string>
   <string name="chat_yahoo">Klepet preko Yahoo</string>
   <string name="checkhint">Preveri ciljno napravo</string>
+     <string name="china_mobile_palm_hall">Dvorana spletnih storitev CMCC</string>
   <string name="clearCallLogConfirmation">"Vsi vaši dnevniki klicev bodo izbrisani."</string>
   <string name="clearCallLogConfirmation_title">Počisti dnevnike vseh klicev?</string>
   <string name="clearCallLogProgress_title">Čistim dnevnike klicev…</string>
