@@ -62,6 +62,7 @@
   <string name="back">Nazaj</string>
   <string name="barcode_into_rectangle">Postavite kodo znotraj okvira</string>
   <string name="birthday">Rojstni dan</string>
+     <string name="black_and_white">Č&amp;B</string>
   <string name="business_card">Vizitka</string>
   <string name="business_card_result_title">Vizitka</string>
   <string name="business_card_title">Postavite vizitko znotraj okvirja</string>
@@ -194,6 +195,7 @@
   <string name="drag_crop_to_business_card">Premesti</string>
   <string name="duplicate_file_name_please_rename">Datoteka s tem imenom že obstaja</string>
      <string name="early_morning">Jutro</string>
+     <string name="editnull">Ni vsebine</string>
   <string name="email">Email:</string>
      <string name="emails">E-pošta</string>
   <string name="error_camera_disabled">Dostop do kamere zavrnjen zaradi varnostnih razlogov</string>

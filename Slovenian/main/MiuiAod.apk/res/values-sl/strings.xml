@@ -73,6 +73,7 @@ dd.MM."</string>
   <string name="aod_mode_title">Vedno na zaslonu</string>
   <string name="aod_show_date_and_time">Pokaži datum in čas</string>
   <string name="aod_show_style_title">Pokaži stvari</string>
+     <string name="aod_signature_12">hh:mm aa</string>
   <string name="aod_style">Teme</string>
      <string name="aod_theme_store">Vedno na zaslonu teme</string>
   <string name="aod_to_close">Izključi</string>

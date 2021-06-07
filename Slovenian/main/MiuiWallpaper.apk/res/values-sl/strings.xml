@@ -56,10 +56,12 @@
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="game_view_content_description">Prikaz v igrah</string>
+     <string name="geometry_id">geometrija</string>
      <string name="geometry_summary">Oblike, svetloba in barve</string>
      <string name="geometry_super_wallpaper_label">Geometrija</string>
      <string name="geometry_title">Geometrija</string>
   <string name="install_failed">"Ne morem namestiti"</string>
+     <string name="mars_id">mars</string>
   <string name="mars_position_content_0">"Na tem območju so pečine, otoki in široke ravne doline, za katere domnevajo, da jih povzročajo ledeniki, prekriti z naplavinami. Tu so odkriti tudi glineni minerali, ki so zelo zanimivi za iskanje dokazov o življenju na starodavnem Marsu.
 
 NASA/JPL/University of Arizona"</string>
@@ -84,6 +86,7 @@ Mawrth Vallis"</string>
      <string name="mi_wallpaper_title"> Mi ozadje</string>
   <string name="midnight">AM</string>
   <string name="miui_clock_city_name_local">Lokalno</string>
+     <string name="miui_digital_clock_dot">:</string>
   <string name="miui_lock_screen_date">dd.MM EEEE</string>
   <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
 <string name="miui_lock_screen_date_two_lines">"EEEE
@@ -93,7 +96,11 @@ dd.MMMM"</string>
      <string name="miui_lock_screen_large_date">"EEE
 dd.MM"</string>
      <string name="miui_lock_screen_large_date_12">"EEE
-dd.MM"</string>  
+dd.MM"</string>
+     <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+     <string name="miui_vertical_time_format_24">"HH
+mm"</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>

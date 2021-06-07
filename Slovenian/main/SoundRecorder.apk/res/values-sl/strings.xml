@@ -69,6 +69,7 @@
   <string name="delete">Izbriši</string>
   <string name="delete_cloud_data_at_same_time">Izbriši tudi iz Mi Clouda</string>
   <string name="delete_dialog_message">Brisanje posnetka?</string>
+     <string name="delete_recorder">Izbriši</string>
   <string name="deleting_message">Brisanje…</string>
   <string name="details">Podrobnosti</string>
   <string name="dialog_content_storage_full">Snemanje se je ustavilo ker ni dovolj prostora na vašem notranjem pomnilniku naprave.</string>

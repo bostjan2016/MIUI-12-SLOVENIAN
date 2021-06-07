@@ -1653,6 +1653,7 @@ Avdio"</string>
   <string name="bluetooth_unlock_settings_devices_title">Naprava</string>
   <string name="bluetooth_unlock_settings_toggle_title">Uporabi za</string>
   <string name="bluetooth_unlock_settings_unlock_device">Odkleni napravo</string>
+     <string name="bluetooth_unlock_settings_unlock_summary">Ta storitev deluje z Mi Bandi in Mi urami</string>
   <string name="bluetooth_unlock_state_disconnected">Ni povezano</string>
   <string name="bluetooth_unlock_state_key_error">Napačno geslo</string>
   <string name="bluetooth_unlock_state_label">"Status: "</string>

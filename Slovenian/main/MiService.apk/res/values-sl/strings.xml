@@ -47,6 +47,8 @@
   <string name="icon_remove_description_title">Izbrišem \"Storitve &amp; Povratne inf.\" iz zač. zaslona?</string>
     <string name="mi_service_app_name">Storitve in povratne informacije</string>
      <string name="midnight">Noč</string>
+     <string name="miservice_channel_boot_name">zagon</string>
+     <string name="miservice_channel_guide_name">vodnik</string>
     <string name="miservice_channel_update_notification_info">\"Storitve in povratne informacije\" zahteva spletne podatke…</string>
     <string name="miservice_notification_boot_content">Izvedite več o tem kaj MIUI lahko naredi</string>
   <string name="miservice_notification_huanji_content">Pošljite z uporabo Mi Mover</string>

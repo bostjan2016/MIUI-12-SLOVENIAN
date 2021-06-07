@@ -34,14 +34,17 @@ bo to opravilo samodejno dodano v Drugi prostor."</string>
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="about_ent_mode">O načinu Enterprise</string>
+     <string name="actionbar_button_up_description">Nazaj</string>
   <string name="activate_ent_mode">Aktiviraj način Enterprise</string>
   <string name="add_finger_print">Dodajte prstni odtis</string>
+     <string name="afternoon">Večer</string>
   <string name="agree">Strinjam se</string>
   <string name="air_space_created">Delovni prostor uspešno izdelan</string>
   <string name="air_space_deleted">Delovni prostor uspešno izbrisan</string>
   <string name="air_space_exit">Izhod iz prostora</string>
   <string name="air_space_setting">Nastavitve prostora</string>
   <string name="airspace_users_full">"Delovnega prostora ne morem več izdelati"</string>
+     <string name="am">AM</string>
   <string name="appData">Nameščene aplikacije</string>
   <string name="app_name">Komponenta varnosti jedra</string>
   <string name="back">Nazaj</string>
@@ -59,8 +62,10 @@ bo to opravilo samodejno dodano v Drugi prostor."</string>
   <string name="changePassword">Spremeni geslo</string>
   <string name="chooseDataTransfer">Kaj narediti s podatki Drugega prostora?</string>
   <string name="chooseFile">Izberite druge datoteke</string>
+     <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_to_back_first_space">Tapnite za vrnitev v Prvi prostor</string>
   <string name="click_to_switch">Tapnite za prikaz</string>
+     <string name="close">Zapri</string>
   <string name="closePassword">Izključi geslo</string>
   <string name="closePasswordGuide">"Ne boste mogli vstopiti v Drugi prostor iz zakl. zaslona ko izključite geslo"</string>
   <string name="closeSecondSpace">Izbriši Drugi prostor</string>
@@ -104,6 +109,8 @@ Vseeno izključim?"</string>
   <string name="cta_declaration_title">Pravila in Pogoji</string>
   <string name="current_space">Trenutni prostor</string>
   <string name="dataSafe">Uporaba Drugega prostora je kot da imate dve napravi.</string>
+     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
   <string name="declare_dialog_title">O dvojnih aplikacijah</string>
   <string name="deleteAll">Izbriši vse</string>
   <string name="deleteDataConfirm">Vse stvari bodo izbrisane</string>
@@ -128,6 +135,7 @@ Vseeno izključim?"</string>
   <string name="downloading_space">Prenašanje…</string>
   <string name="dual_animation">Zaženi animacijo</string>
   <string name="dual_animation_description">Pokaži animacijo ko se zaženejo dvojne aplikacije</string>
+     <string name="early_morning">Jutro</string>
   <string name="enable">Vključi</string>
   <string name="encrypt_space_delete_dialog_click_message">"*Če ne morete premestiti podatke, %s"</string>
   <string name="encrypt_space_delete_dialog_click_message_action">zdaj izbrišite in izdelajte Drugi prostor.</string>
@@ -179,6 +187,7 @@ Preverite ali je ime vaše korporacije točno. Pred aktivacijo preberite in spre
   <string name="err_switch_photos">"Ne morem premestiti fotografij"</string>
   <string name="err_unknown">Neznana napaka</string>
   <string name="err_volume_not_enough">Ni dovolj prostora za shranjevanje</string>
+     <string name="evening">Večer</string>
   <string name="exit_private_space">Zamenjaj</string>
   <string name="expand_button_title">Napredno</string>
   <string name="experience_more_features">Dodajte napravo da boste videli vse storitve</string>
@@ -188,6 +197,9 @@ Preverite ali je ime vaše korporacije točno. Pred aktivacijo preberite in spre
   <string name="finger_print_of_use">Uporabi prstni odtis</string>
   <string name="fingerprint_number_upper_limit">Preveč neuspešnih odklepanj</string>
   <string name="fingerprint_removal_failed">Ne morem izbrisati prstni odtis</string>
+     <string name="friday">Petek</string>
+     <string name="friday_short">Pet</string>
+     <string name="friday_shortest">P</string>
   <string name="function_not_support">Ni podprto v tej napravi</string>
   <string name="gms_message">Izdelava dvojnih aplikacij zahteva delo s Googlovimi storitvami. Izdelam dvojno aplikacijo za Google storitve?</string>
   <string name="gms_open_button">Vključi</string>
@@ -258,6 +270,21 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="master_clear_not_available_ep">"Ni vam dovoljena povrnitev na tovarniške nastavitve ali preklic vaše avtorizacije. Obrnite se na skrbnika."</string>
   <string name="menu_item_about_privacy_title">Pravila o zasebnosti</string>
   <string name="messageData">Sporočila</string>
+     <string name="midnight">Noč</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
+     <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
+     <string name="miuix_appcompat_cancel_description">Prekliči</string>
+     <string name="miuix_appcompat_confirm_description">Potrdi</string>
+     <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
+     <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
+     <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
+     <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -266,7 +293,48 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ne morem naložiti</string>
+     <string name="monday">Ponedeljek</string>
+     <string name="monday_short">Pon</string>
+     <string name="monday_shortest">P</string>
+     <string name="month_april">April</string>
+     <string name="month_april_short">Apr</string>
+     <string name="month_april_shortest">A</string>
+     <string name="month_august">Avgust</string>
+     <string name="month_august_short">Avg</string>
+     <string name="month_august_shortest">A</string>
+     <string name="month_december">December</string>
+     <string name="month_december_short">Dec</string>
+     <string name="month_december_shortest">D</string>
+     <string name="month_february">Februar</string>
+     <string name="month_february_short">Feb</string>
+     <string name="month_february_shortest">F</string>
+     <string name="month_january">Januar</string>
+     <string name="month_january_short">Jan</string>
+     <string name="month_january_shortest">J</string>
+     <string name="month_july">Julij</string>
+     <string name="month_july_short">Jul</string>
+     <string name="month_july_shortest">J</string>
+     <string name="month_june">Junij</string>
+     <string name="month_june_short">Jun</string>
+     <string name="month_june_shortest">J</string>
+     <string name="month_march">Marec</string>
+     <string name="month_march_short">Mar</string>
+     <string name="month_march_shortest">M</string>
+     <string name="month_may">Maj</string>
+     <string name="month_may_short">Maj</string>
+     <string name="month_may_shortest">M</string>
+     <string name="month_november">November</string>
+     <string name="month_november_short">Nov</string>
+     <string name="month_november_shortest">N</string>
+     <string name="month_october">Oktober</string>
+     <string name="month_october_short">Okt</string>
+     <string name="month_october_shortest">O</string>
+     <string name="month_september">September</string>
+     <string name="month_september_short">Sep</string>
+     <string name="month_september_shortest">S</string>
+     <string name="more">Več</string>
   <string name="more_settings">Več</string>
+     <string name="morning">Jutro</string>
   <string name="msg_switch_file">Izbrišem te datoteke v Prvem prostoru ko jih premestite?</string>
   <string name="msg_switch_file_second">Izbrišem te datoteke v Drugem prostoru po prestavitvi?</string>
   <string name="msg_switch_photo">Izbrišem te fotografije v Prvem prostoru ko jih premestite?</string>
@@ -280,7 +348,9 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="net_work_notice">Starševski nadzor se mora povezati na splet in dostopati do vaše lokacije. Dovolim?</string>
   <string name="newSecondSpace">Vključi Drugi prostor</string>
   <string name="next_setp">Naprej</string>
+     <string name="night">Večer</string>
   <string name="no_match_repate_scanner">"Ne najdem odgovarjajočih prstnih odtisov, skeniraj ponovno"</string>
+     <string name="noon">Poldne</string>
   <string name="normal_app">Prvi prostor</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="not_support_air_space">"To opravilo ni podprto na vašem telefonu"</string>
@@ -308,6 +378,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="please_diff_finger_print">"Prepričajte se da uporabljate različne prstne odtise v Prvem prostoru in Drugem prostoru.
   
   Drugače ne boste mogli v Drugi prostor iz zakl. zaslona."</string>
+     <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="privacyContactsSummary">Pokaži zasebne nastavitve v Drugem prostoru</string>
   <string name="privacyContactsTitle">Zasebna sporočila in stiki</string>
@@ -344,6 +415,9 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="same_qr_code_des">Kaže da Delovni prostor že obstaja. Lahko uporabite bližnjico začetnega zaslona in plošče obvestil za delovni prostor. Grem zdaj?</string>
   <string name="same_qr_code_enter_space">Pojdi v Delovni prostor</string>
   <string name="same_qr_code_title">%s že obstaja</string>
+     <string name="saturday">Sobota</string>
+     <string name="saturday_short">Sob</string>
+     <string name="saturday_shortest">S</string>
   <string name="scanner_fingerprint">Skeniranje prstnega odtisa…</string>
   <string name="scanner_fingerprint_enter_second">"Skeniraj prstni odtis Drugega prostora 
 za vstop v Drugi prostor iz zakl. zaslona"</string>
@@ -373,6 +447,7 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="secondspace_homepage">"Nastavite določeno zakl. zaslona za Drugi prostor.
 Umaknite in zavarujte svoje podatke."</string>
   <string name="select_existed_fingerprint">Izberite prstni odtis</string>
+     <string name="send">Pošlji</string>
   <string name="serNameSummary">Drugi prostor</string>
   <string name="setSecondSpacePassword">Nastavite geslo Drugega prostora</string>
   <string name="setSecondSpacePasswordGuide">Nastavite geslo Drugega prostora</string>
@@ -449,6 +524,9 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="stop_xspace_alert_content">"Izbrišem vse dvojne aplikacije in podatki in računi? Naprava se bo ponovno zagnala za uveljavitev."</string>
   <string name="stop_xspace_alert_title">Izbriši račune dvojnih aplikacij</string>
   <string name="summary_switch_apps_settings">Izberite aplikacije uporabljene v trenutnem prostoru</string>
+     <string name="sunday">Nedelja</string>
+     <string name="sunday_short">Ned</string>
+     <string name="sunday_shortest">N</string>
   <string name="support_desc">Varnostne storitve ponuja Spaces Mobile</string>
   <string name="sure_to_use">Potrdi</string>
   <string name="switchDataSummary">Premeščajte stvari med prostoroma</string>
@@ -478,9 +556,17 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="switching_photos">Premeščanje fotografij…</string>
   <string name="temporary_no_set">Začasna nastavitev</string>
   <string name="this_function_can_not_use_in_second_space">Ta storitev se lahko uporablja samo v prvem prostoru</string>
+     <string name="thursday">Četrtek</string>
+     <string name="thursday_short">Čet</string>
+     <string name="thursday_shortest">Č</string>
+     <string name="time_picker_dialog_title">Nastavi čas</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
   <string name="title_choose_app_status">Izberite vrsto aplikacije</string>
   <string name="title_switch_file">Izbrišem te datoteke?</string>
   <string name="title_switch_photo">Izbrišem te fotografije?</string>
+     <string name="today">Danes</string>
+     <string name="tomorrow">Jutri</string>
   <string name="transferApp">Aplikacije nameščene v Drugem prostoru bodo premeščene v Prvi prostor. Vendar bodo podatki aplikacij izgubljeni.</string>
   <string name="transferContact">Stiki iz Drugega prostora bodo premeščeni v Prvi prostor</string>
   <string name="transferDataConfirm">Preostale stvari bodo izbrisane</string>
@@ -490,6 +576,9 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="transferImage">Fotografije iz Drugega prostora bodo premeščene v album \"Drugi prostor\" v Prvem prostoru</string>
   <string name="transferMessage">Sporočila iz Drugega prostora bodo premeščena v Prvi prostor</string>
   <string name="tryNow">Poskusite zdaj</string>
+     <string name="tuesday">Torek</string>
+     <string name="tuesday_short">Tor</string>
+     <string name="tuesday_shortest">T</string>
   <string name="undo_activated_dialog_message">"Preklic avtorizacije bo izključil način dela Enterprise in povrnil napravo na tovarniške nastavitve. Vse povezane storitve ne bodo več na voljo. Razen tega bo Xiaomi prenehal zbirati informacije potrebne za način dela Enterprise (IMEI, ID naprave, verzija sistema, regija itd.). Prekličem avtorizacijo in vrnem napravo na tovarniške nastavitve?"</string>
   <string name="undo_activated_dialog_ok">Prekliči</string>
   <string name="undo_grant_dialog_message">Xiaomi bo prenehal zbirati informacije potrebne za to storitev (IMEI, ID naprave, verzija sistema, regija itd.) po preklicu avtorizacije. Prekličem zdaj?</string>
@@ -500,6 +589,9 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
   <string name="wating">Samo trenutek…</string>
+     <string name="wednesday">Sreda</string>
+     <string name="wednesday_short">Sre</string>
+     <string name="wednesday_shortest">S</string>
   <string name="weibo_send">Pošlji na Weibo</string>
   <string name="weixin_pay">WeChat Pay</string>
   <string name="weixin_share">WeChat Pay</string>
@@ -552,4 +644,5 @@ zasluži lastno aplikacijo"</string>
   <string name="xspace_weibo_title">Weibo</string>
   <string name="xspace_weixin_title">WeChat</string>
   <string name="xspace_whatsapp_title">WhatsApp</string>
+     <string name="yesterday">Včeraj</string>
 </resources>

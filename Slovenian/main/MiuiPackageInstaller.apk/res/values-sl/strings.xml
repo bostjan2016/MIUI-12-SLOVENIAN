@@ -427,6 +427,9 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
   <string name="system_warning">Če zavrnete to dovoljenje osnovne storitve naprave morda ne bodo več delovale kot bi morale.</string>
+     <string name="thursday">Četrtek</string>
+     <string name="thursday_short">Čet</string>
+     <string name="thursday_shortest">Č</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
