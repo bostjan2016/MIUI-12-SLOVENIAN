@@ -1653,7 +1653,7 @@ Avdio"</string>
   <string name="bluetooth_unlock_settings_devices_title">Naprava</string>
   <string name="bluetooth_unlock_settings_toggle_title">Uporabi za</string>
   <string name="bluetooth_unlock_settings_unlock_device">Odkleni napravo</string>
-     <string name="bluetooth_unlock_settings_unlock_summary">Ta storitev deluje z Mi Bandi in Mi urami</string>
+     <string name="bluetooth_unlock_settings_unlock_summary">Ta storitev deluje z izbranimi nosljivimi napravami proizvajalca Xiaomi </string>
   <string name="bluetooth_unlock_state_disconnected">Ni povezano</string>
   <string name="bluetooth_unlock_state_key_error">Napačno geslo</string>
   <string name="bluetooth_unlock_state_label">"Status: "</string>
@@ -1742,9 +1742,17 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="bt_absVolume_open_dialog_title">Pozor</string>
   <string name="bt_absVolume_pre_title">Absolutna glasnost</string>
   <string name="bt_absVolume_summary">Obdrži strogo dosledno glasnost Bluetooth naprav in telefona</string>
+     <string name="bt_audio_repair_property">Popravi težave z zvokom</string>
      <string name="bt_audio_share_property">Deljenje</string>
      <string name="bt_audio_share_switch_summary">Delite zvok z povezanimi Bluetooth napravami</string>
      <string name="bt_audio_share_switch_title">Deli zvok</string>
+     <string name="bt_audiorepair_dialog_open_success">Uspešno popravljeno. Počakajte, da se naprava znova poveže.</string>
+     <string name="bt_audiorepair_dialog_openok">Popravi</string>
+     <string name="bt_audiorepair_open_dialog_summary">"MIUI bo zaznal in odpravil težave, ki povzročajo težave z zvokom Bluetooth. Med tem postopkom se bo Bluetooth znova zagnal. Ne zapustite te strani, dokler ne vidite rezultatov."</string>
+     <string name="bt_audiorepair_open_dialog_title">Popravi težave z zvokom</string>
+     <string name="bt_audiorepair_pre_title">Popravi težave z zvokom</string>
+     <string name="bt_audiorepair_summary">Popravi težave z zvokom na povezanih Bluetooth napravah</string>
+     <string name="bt_audiorepair_working">Delam…</string>
   <string name="bt_dialog_remember_choice">Zapomni si</string>
   <string name="bt_dialog_settings">Nastavitve</string>
     <string name="bt_hci_snoop_log">Omogoči zajem dnevnika Bluetooth HCI</string>
@@ -4616,7 +4624,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
     <string name="keywords_wake_display">Tipalo, stalno vklopljen zaslon, prikaz, čas, gibanje, stalno vklopljeno, zaznavanje, premik</string>
      <string name="keywords_wake_screen">Povlecite, povlecite v levo ali desno, senzor, ambient zaslona, ​​zaslon, čas, gibanje, osvetlitev</string>
     <string name="keywords_wallpaper">ozadje, zaslon, zaklenjen zaslon, tema</string>
-    <string name="keywords_wifi">wifi, WiFi, omrežna povezava, internet, brezžično, podatki, wi fi</string>
+    <string name="keywords_wifi">wifi, WiFi, omrežna povezava, splet, brezžično, podatki, wi fi</string>
     <string name="keywords_wifi_calling">wifi, WiFi, klic, klicanje</string>
     <string name="keywords_wifi_data_usage">prenesena količina podatkov</string>
      <string name="keywords_wifi_display_settings">mirror</string>
@@ -7745,8 +7753,8 @@ Neuvožene podatke morate ponovno uvoziti."</string>
      <string name="screen_enhance_engine_title">AI slikovni mehanizem</string>
      <string name="screen_enhance_status_disable">Izključeno</string>
      <string name="screen_enhance_status_enable">Vključeno</string>
-  <string name="screen_fps_summary_power_save">Uporaba fiksne hitrosti osvežavanja porabi manj energije</string>
-  <string name="screen_fps_summary_smooth">Nekatere aplikacije bodo samodejno povečale hitrost osvežavanja zaradi izboljšanja kvalitete slike</string>
+  <string name="screen_fps_summary_power_save">Uporaba fiksne hitrosti osveževanja porabi manj energije</string>
+  <string name="screen_fps_summary_smooth">Nekatere aplikacije bodo samodejno povečale hitrost osveževanja zaradi izboljšanja kvalitete slike</string>
   <string name="screen_fps_title">Hitrost osveževanja</string>
   <string name="screen_fps_unit">%d Hz</string>
   <string name="screen_fps_unit_power_save">%d Hz (Hrani baterijo)</string>
@@ -9527,7 +9535,7 @@ Googlov pristop k sinhroniziranju podatkov, s katerim lahko dostopate do stikov,
   <string name="tether_use_wifi6_summary">Nekatere naprave morda ne bodo kompatibilne s standardom 802.11ax. Izključite to, če imate težave.</string>
   <string name="tether_use_wifi6_title">Podpira standard šeste generacije</string>
     <string name="tethering_footer_info">Uporabite dostopno točko in povezavo s spletom preko mobilnega telefona, da zagotovite splet drugim napravam preko svoje mobilne podatkovne povezave.</string>
-    <string name="tethering_footer_info_sta_ap_concurrency">Uporabite dostopno točko in povezavo z internetom prek mobilnega telefona, da zagotovite internet drugim napravam prek Wi-Fi-ja ali mobilne podatkovne povezave. Tudi aplikacije lahko ustvarijo dostopno točko za deljenje vsebin z napravami v bližini.</string>
+    <string name="tethering_footer_info_sta_ap_concurrency">Uporabite dostopno točko in povezavo s spletom prek mobilnega telefona, da zagotovite splet drugim napravam prek WiFi-ja ali mobilne podatkovne povezave. Tudi aplikacije lahko ustvarijo dostopno točko za deljenje vsebin z napravami v bližini.</string>
     <string name="tethering_hardware_offload">Strojno pospeševanje za spletno povezavo preko mobilnega telefona</string>
     <string name="tethering_hardware_offload_summary">Uporabi strojno pospeševanje za spletno povezavo preko mobilnega telefona, če je na voljo</string>
   <string name="tethering_help_button_text">Pomoč</string>

@@ -73,6 +73,13 @@
   <string name="expand_button_title">Napredno</string>
   <string name="first_note">Preverite dojemanje zvoka da v skladu s tem nastavite glasnost.</string>
   <string name="four_note">Test bo trajal okoli 3 minute.</string>
+     <string name="headset_use_long_time">"Kaže, da ste slušalke nosili dlje, kot je priporočeno. Snemite jih in vzemite premor."</string>
+     <string name="headset_use_loud_volume">Glasnost slušalk je že dolgo visoka. Da bi zaščitili vaš sluh, je bila znižana na priporočeno raven.</string>
+     <string name="headset_use_not_support_noise_reduction">Zdi se, da je vaše trenutno okolje zelo hrupno. Nošenje slušalk zdaj lahko vpliva na vaš sluh.</string>
+     <string name="headset_use_prompt">Slušalke</string>
+     <string name="headset_use_support_noise_reduction">Zdi se, da je vaše trenutno okolje zelo hrupno. Za zaščito sluha uporabite odpravljanje hrupa.</string>
+     <string name="headset_volume_content">Trenutna glasnost slušalk presega priporočeno mejo. Zmanjšajte glasnost, da zaščitite sluh.</string>
+     <string name="headset_volume_prompt">Glasnost slušalk</string>
   <string name="heard_no">Ne</string>
   <string name="heard_yes">Da</string>
      <string name="hearing_assist_bluetooth_headset">Bluetooth slušalke</string>
@@ -231,6 +238,7 @@
   <string name="save_and_apply">Shrani in uporabi</string>
   <string name="search_menu_title">Išči</string>
   <string name="second_note">Nadenite slušalke.</string>
+     <string name="see_details">Podrobnosti</string>
   <string name="sound_assist_key_summary">Prilagodite zvok za posamezne aplikacije če več aplikacij istočasno predvaja zvok</string>
   <string name="sound_assist_key_title">Prilagodite medijski zvok v več aplikacijah</string>
   <string name="sound_assist_title">Pomočnik zvoka</string>

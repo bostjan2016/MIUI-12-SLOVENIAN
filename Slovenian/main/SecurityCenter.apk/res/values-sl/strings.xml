@@ -632,7 +632,13 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_permission_use_title">Dovoljenja</string>
      <string name="app_predict_black_list_empty">Tu še ni nič</string>
      <string name="app_predict_black_list_setting_title">Seznam blokiranih predlogov aplikacij</string>
+     <string name="app_predict_dialog_button">Dodaj na začetni zaslon</string>
+     <string name="app_predict_dialog_message">AI bo predlagala aplikacije, ki bi jih morda trenutno potrebovali</string>
+     <string name="app_predict_dialog_success">Uspešno dodano</string>
      <string name="app_predict_folder_name">Išči</string>
+     <string name="app_predict_guide_button">Dodaj</string>
+     <string name="app_predict_guide_message">AI bo predlagala aplikacije, ki bi jih morda trenutno potrebovali</string>
+     <string name="app_predict_guide_title">Pametni predlogi za aplikacije</string>
      <string name="app_predict_loading_text">Delam…</string>
      <string name="app_predict_search_title">Vse aplikacije</string>
      <string name="app_predict_setting_black_list">Seznam blokiranih</string>
@@ -1442,8 +1448,8 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="exit_dialog_homepage_optimise_message">"Rezultat zmogljivosti za vašo napravo je nižji od 80 točk. Optimiziram zdaj?"</string>
   <string name="exit_dialog_release_memory_positive_button">Zapri</string>
     <string name="exit_dialog_release_memory_title"><Data>Pohitrite napravo za &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
-  <string name="exit_dialog_release_storage_message_new">Več od %s prostora za shranjevanje na napravi je zasedeno. Sprostite prostor z odstranitvijo aplikacij ki jih ne uporabljate.</string>
   <string name="exit_dialog_release_storage_message">Več od 80% prostora za shranjevanje na napravi je zasedeno. Sprostite prostor z odstranitvijo aplikacij ki jih ne uporabljate.</string>
+     <string name="exit_dialog_release_storage_message_new">Več od %s prostora za shranjevanje na napravi je zasedeno. Sprostite prostor z odstranitvijo aplikacij ki jih ne uporabljate.</string>
   <string name="exit_dialog_release_storage_positive_button">Sprosti prostor</string>
   <string name="exit_dialog_release_storage_title">Sprosti prostor</string>
   <string name="exit_dialog_scan_message">"Rezultat zmogljivosti vaše naprave je nižji od 75 točk. Optimiziram zdaj?"</string>
@@ -1953,6 +1959,7 @@ vašega igranja"</string>
   <string name="gmscore_support_remind">Vključite to opravilo če imate težave z uporabo storitve Gmail, Google Mape in ostalih Googlevih aplikacij. To bo malo skrajšalo delovanje baterije.</string>
   <string name="gmscore_support_service">Osnovne Google storitve</string>
   <string name="go_to">Nadaljuj</string>
+     <string name="go_to_mi_sim">Tapnite za uporabo Mi SIM.</string>
   <string name="go_to_send">Pošlji</string>
   <string name="go_to_setting_fingerprint">Pojdi v Nastavitve</string>
   <string name="google_base_app_fail">"Ne morem prenesti. Preverite ali ima aplikacija Varnost dovoljenje za povezavo s spletom."</string>
@@ -3508,6 +3515,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_setting_super_save_summary_text">Omeji večino storitev sistema da prihranite baterijo</string>
   <string name="power_setting_warm_configure">Kontrola temperature</string>
   <string name="power_setting_warm_performance_tip">Scenariji ki zahtevajo veliko porabo energije bodo povišali temperaturo vaše naprave nad nivo privzetega načina kontrole temperature.</string>
+     <string name="power_setting_wireless_reverse_charging_fg_control_title">Omejitve polnjenja</string>
   <string name="power_setting_wireless_reverse_charging_summary">Brezžično polnite kompatibilne naprave</string>
   <string name="power_setting_wireless_reverse_charging_title">Obrnjeno brezžično polnjenje</string>
   <string name="power_settings_category_title">Videz baterije</string>
@@ -3522,6 +3530,17 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_superpower_title_systemui_highpower">Preostali čas</string>
   <string name="power_superpower_title_systemui_lowpower">Priključite polnilec</string>
   <string name="power_wifi">WiFi</string>
+     <string name="power_wireless_need_update_text">Posodabljanje…</string>
+     <string name="power_wireless_update_button_text">Posodobi</string>
+     <string name="power_wireless_update_dialog_button">Razumem</string>
+     <string name="power_wireless_update_dialog_message">Napravo napolnite vsaj do %s, da boste lahko posodabljali vdelano programsko opremo za brezžično polnjenje.</string>
+     <string name="power_wireless_update_dialog_title">Slaba baterija</string>
+     <string name="power_wireless_update_driver">Posodobitve vdelane programske opreme</string>
+     <string name="power_wireless_update_notification_button">Pokaži</string>
+     <string name="power_wireless_update_notification_subtitle">Posodobite vdelano programsko opremo, da izboljšate stabilnost brezžičnega polnjenja</string>
+     <string name="power_wireless_update_notification_title">Posodobitev brezžičnega polnjenja</string>
+     <string name="power_wireless_update_text">Ni posodobitev</string>
+     <string name="power_wireless_update_tv_text">"Posodabljanje vdelane programske opreme. Ne izklopite naprave."</string>
      <string name="pp_app_behavior_record_detail">Zabeleži vsa vedenja aplikacij</string>
      <string name="pp_app_del_img_intercept_detail">Prejemajte obvestila, ko aplikacije izbrišejo stvari iz galerije brez vašega dovoljenja</string>
      <string name="pp_app_gets_dangerous_permission_reminder">Prejemajte obvestila, ko aplikacije uporabljajo dovoljenja z visokim tveganjem</string>
@@ -4187,6 +4206,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
      <string name="setting_online_service">Online storitve</string>
   <string name="setting_privacy_password">Nastavite geslo za zaščito zasebnosti</string>
   <string name="setting_traffic_pkg">Nastavite paket podatkov</string>
+     <string name="setting_wireless_reverse_charging_fg_control_summary">Ustavi brezžično polnjenje, ko baterija doseže %s</string>
+     <string name="setting_wireless_reverse_charging_summary">Na sredino hrbtne strani naprave namestite napravo, ki podpira brezžično polnjenje Qi (npr. telefon ali nosljivo napravo)</string>
   <string name="settings">Nastavitve porabe podatkov</string>
   <string name="settings_battery_consume_abnormal_summary">Obvesti me kadar se baterija prazni prehitro</string>
   <string name="settings_battery_consume_abnormal_title">Obvestilo prehitrega praznjenja</string>

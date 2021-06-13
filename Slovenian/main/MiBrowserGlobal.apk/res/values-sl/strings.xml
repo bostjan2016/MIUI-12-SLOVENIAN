@@ -1208,13 +1208,13 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
     <string name="mw_miuichromium_error_page_safe_network">Varni način</string>
     <string name="mw_miuichromium_error_page_server_error">Preveč naprav se poskuša povezati</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Preverite nastavitve proxy aplikacij, ki so nameščene na vaši napravi.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_connetion">Preverite svojo internetno povezavo.</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_connetion">Preverite svojo spletno povezavo.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobilni podatki) Ponastavite svoje %s1APN nastavitve%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">Preverite URL naslov, ki ste ga vnesli.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) Preverite svoje %s1proxy nastavitve%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache">Počisti predpomnilnik.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Počistite predpomnilnik in piškotke (informacije o vašem računu bodo morda izgubljene).</string>
-    <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Ponovno naložite po vzpostavitvi povezave z internetom</string>
+    <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Ponovno naložite po vzpostavitvi povezave s spletom</string>
     <string name="mw_miuichromium_error_page_suggestion_contact_admin">Stopite v stik s skrbnikom sistema.</string>
     <string name="mw_miuichromium_error_page_suggestion_correct_url">Preverite vneseni naslov in poskusite ponovno s pravilnim URL naslovom.</string>
     <string name="mw_miuichromium_error_page_suggestion_grant_permission">Ponovno naložite, ko brskalniku dodelite dovoljenje za dostop do spleta.</string>
