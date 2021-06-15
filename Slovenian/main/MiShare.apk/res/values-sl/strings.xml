@@ -44,6 +44,7 @@
     <string name="cancel_task">Prekliči</string>
      <string name="clearable_edittext_clear_description">Očisti</string>
      <string name="close">Zapri</string>
+     <string name="common_google_play_services_unknown_issue">%1$s ima težave s storitvami Google Play. Prosim poskusite ponovno.</string>
   <string name="complete">Končano</string>
   <string name="confirm_cancel_receive">"Če zdaj prekličete prenos, te stvari ne boste mogli prejeti. Vseeno prekličem?"</string>
     <string name="confirm_cancel_task_files">Odpovem pošiljanje datotek v %1$s?</string>

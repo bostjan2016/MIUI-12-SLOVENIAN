@@ -3882,7 +3882,8 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="freeform_guide_notification_drop_down_summary">Pritisnite in držite, nato povlecite navzdol delovno vrstico obvestil</string>
   <string name="freeform_guide_notification_drop_down_title">Odpiranje plavajočih oken</string>
   <string name="freeform_guide_settings">Plavajoče okno</string>
-     <string name="freeform_guide_slide_to_small_freeform_summary">Podrsajte od dna zaslona do zgornjega desnega kota zaslona</string>
+     <string name="freeform_guide_slide_to_small_freeform_summary">Podrsajte od dna zaslona do zgornjega desnega kota zaslona.
+Ta storitev deluje samo, če je sistemska navigacija nastavljena na gibe. "</string>
      <string name="freeform_guide_slide_to_small_freeform_title">Drsna v plavajoča okna</string>
   <string name="freeform_guide_slide_up_to_close_summary">Povlecite navzgor iz delovne vrstice plavajočega okna</string>
   <string name="freeform_guide_slide_up_to_close_title">Zapiranje plavajočih oken</string>
@@ -3974,8 +3975,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="gesture_settings_activity_title">Nastavitve kretenj</string>
   <string name="gesture_settings_title">Bližnjice kretenj</string>
   <string name="gesture_w">Vzorec W</string>
-  <string name="gesture_wakeup_summary">Dvakrat tapni za izklop zaslona če je uporabljena privzeta ali klasična tema</string>
-  <string name="gesture_wakeup_title">Dvakrat tapnite za bujenje ali izklop zaslona</string>
+  <string name="gesture_wakeup_summary">Dvakrat tapni za izklop zaslona če je uporabljena prednameščena tema</string>
+  <string name="gesture_wakeup_title">Dvakrat tapnite za bujenje zaslona, če je naprava zaklenjena</string>
   <string name="gesture_z">Vzorec Z</string>
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">GB</string>
@@ -4985,6 +4986,7 @@ kot PIN za Prvi prostor"</string>
   <string name="lockpassword_confirm_workspace_password">Potrdite geslo Delovnega prostora</string>
   <string name="lockpassword_confirm_your_lock_password_header">Potrdite svoje geslo</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Potrdite svoj vzorec</string>
+     <string name="lockpassword_confirm_your_lock_pin_header">Potrdite svoj PIN</string>
     <string name="lockpassword_confirm_your_password_details_frp">Telefon je bil ponastavljen na tovarniške nastavitve. Če želite uporabljati ta telefon, vnesite prejšnje geslo.</string>
   <string name="lockpassword_confirm_your_password_generic">Če želite nadaljevati, vnesite geslo za napravo.</string>
   <string name="lockpassword_confirm_your_password_generic_profile">Če želite nadaljevati vnesite geslo delovnega profila.</string>
@@ -7492,7 +7494,7 @@ Vmesnik UT: %5$s"</string>
   <string name="remove_managed_profile_label">Odstrani delovni profil</string>
   <string name="repeat">Ponovi</string>
   <string name="repeat_call">Obvestila o ponovljenih klicih</string>
-  <string name="repeat_call_info">Dovoli zvok za ponovljene klice znotraj %d minut v tihem načinu</string>
+  <string name="repeat_call_info">Dovoli zvok za ponovljene klice znotraj %d minut, ko je Ne moti vklopljen</string>
      <string name="repeat_days_in_week">Ponovi</string>
      <string name="repeat_never">Nikoli</string>
   <string name="repeat_title">Ponovitev</string>

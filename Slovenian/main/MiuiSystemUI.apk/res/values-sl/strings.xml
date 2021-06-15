@@ -839,6 +839,7 @@ Izbor"</string>
   <string name="development_settings_not_available">Nastavitve razvojnih programerjev niso na voljo za tega uporabnika</string>
   <string name="development_settings_summary">Nastavljanje opcij za razvoj aplikacije</string>
   <string name="development_settings_title">Opcije za razvojne programerje</string>
+     <string name="device_locked_without_biometric">Biometričnega zaznavanja ni mogoče izvesti zaradi uporabe tristranske funkcije zaklepanja zaslona z eno tipko</string>
     <string name="device_services">Storitve naprave</string>
   <string name="direct_boot_unaware_dialog_message">Opomba: Po ponovnem zagonu naprave se aplikacija ne more ponovno zagnati dokler ne odklenete telefon</string>
      <string name="disable_carrier_button_text">Onemogoči eSIM</string>
@@ -1190,7 +1191,7 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
      <string name="input_lockscreen_password_hint_text">Vnesite zaporku</string>
      <string name="input_lockscreen_pattern_hint_text">Vnesite vzorec</string>
      <string name="input_lockscreen_pin_hint_text">Vnesite PIN</string>
-  <string name="input_password_after_boot_msg">"Vnesite geslo za odklep"</string>
+  <string name="input_password_after_boot_msg">"Ko se naprava znova zažene, morate potrditi zaklepanje zaslona"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne morem zamenjati prostore med klicem"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Ne morem spremeniti prostor ko je vključen starševski nadzor"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Ne morem spremeniti prostor ko je vključeno Ultra varčevanje baterije"</string>
@@ -1555,9 +1556,11 @@ posnetka zaslona"</string>
      <string name="miui_notification_menu_more_setting">Več</string>
      <string name="miui_notification_menu_msg_fold">Združim vsa obvestila od %1$s?</string>
      <string name="miui_notification_menu_msg_not_allow">Omejim vsa obvestila od %1$s?</string>
+     <string name="miui_notification_menu_msg_unfold">Pokažem %1$s obvestil ločeno?</string>
      <string name="miui_notification_menu_setting_success">Končano</string>
      <string name="miui_notification_menu_snooze">Odloži</string>
      <string name="miui_notification_menu_title_not_allow">Omeji</string>
+     <string name="miui_notification_menu_unfold">Označi kot pomembno</string>
      <string name="miui_quick_settings_tiles_default">vowifi1,vowifi2,omrežje,wifi,bliskavica,utišaj,posnetek zaslona,bt,samosvetlost,letalo,zaklep zaslona,gps,rotacija,papirnati način,noč,tiho,varčevanje baterije,extremno varčevanje baterije,po meri(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),po meri(com.milink.service/com.milink.ui.service.MiLinkTileService),po meri(com.miui.mishare.connectivity/.tile.MiShareTileService),moč,po meri(com.miui.screenrecorder/.service.QuickService),vibriraj,hotspot,sinh.,posnetek zaslona,brezžično,nfc,uredi</string>
      <string name="miui_quick_settings_tiles_stock">vowifi1,vowifi2,omrežje,wifi,bliskavica,utišaj,posnetek zaslona,bt,samosvetlost,letalo,zaklep zaslona,gps,rotacija,papirnati način,noč,tiho,varčevanje baterije,extremno varčevanje baterije,moč,vibriraj,hotspot,sinh.,gumb zaslona,brezžično,nfc,uredi,vožnja,delovni način</string>
   <string name="miui_ringer_count_down">Odštevanje</string>
@@ -1585,6 +1588,7 @@ posnetka zaslona"</string>
   <string name="miui_toast_zen_to_standard">Ne moti je vključeno. Melodije zvonjenja za klice in obvestila utišane</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Ne moti je vključeno. Melodije zvonjenja in zvoki obvestil in predstavnosti so utišane.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Tiho je vključeno. Obvestila in predstavnosti so utišane in vibracija je izključena.</string>
+     <string name="miui_unimportant_notifications">Nepomembna obvestila</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
@@ -2404,6 +2408,8 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="show_silently">Pokaži obvestila brez zvoka</string>
     <string name="show_touches">Prikaz dotikov</string>
     <string name="show_touches_summary">Prikaz vizualnih povratnih informacij za dotike</string>
+     <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Pritisnite in držite &lt;font color=#e6e6e6>[Vklop]&lt;/font> in &lt;font color=#e6e6e6>[Glasnost +]&lt;/font> gumba dokler ne visite &lt;img src=\"\">.</Data></string>
+     <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Izberi &lt;font color=#e6e6e6>[Izbriši podatke]&lt;/font> in tapnite &lt;font color=#e6e6e6>[Ponovni zagon]&lt;/font> potem.</Data></string>
   <string name="sim_state_locked_dialog_title">Neveljavna SIM kartica</string>
   <string name="sim_state_locked_puk_dialog_message">"Napačno kodo PUK ste vnesli vsaj %d krat. Vaša kartica SIM ni več ni veljavna. Zamenjajte to kartico SIM z drugo."</string>
     <string name="simulate_color_space">Simul. barvnega prostora</string>
