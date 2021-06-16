@@ -18,7 +18,6 @@
   <string name="channel_service">Storitev v ozadju</string>
   <string name="channel_update">Na voljo je nova verzija</string>
      <string name="check_new_version">Preveri</string>
-     <string name="chengelog">%1$s</string>
   <string name="default_filedownloader_notification_content">Prevzem datotek je zagnan.</string>
   <string name="default_filedownloader_notification_title">Prevzem datotek</string>
   <string name="dialog_3g_desc">Prenos nove MIUI verzije preko mobilnih podatkov lahko povzroči stroške. Priporočamo prenos preko WiFi.</string>
@@ -50,7 +49,6 @@ Podatki ne bodo izbrisani."</string>
      <string name="menu_title_pick_rom_file">Izberite paket posodobitve</string>
      <string name="menu_title_recovery">Ponovni zagon v TWRP recovery</string>
      <string name="menu_title_show_notifications">Pokaži obvestila</string>
-     <string name="message">%1$s</string>
   <string name="message_checkbox">Skrij bodoča sporočila Xioami.eu teama</string>
   <string name="message_checkbox_device">Ne kaži več</string>
   <string name="message_title">OPOMBA!</string>

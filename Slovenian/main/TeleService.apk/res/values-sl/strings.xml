@@ -2155,7 +2155,6 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="pointer_location_summary">Na zaslonu se pokažejo podatki o dotikih.</string>
   <string name="police_type_description">Policija</string>
   <string name="port_title">Številka vrat</string>
-     <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s do napolnjenosti</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do napolnjenosti z zidnim polnilcem</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do napolnjenosti preko USB-a</string>
@@ -2297,7 +2296,6 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="private_num">Skrita številka</string>
   <string name="private_num_kr">ID klicatelja je omejena</string>
   <string name="proceed">Nadaljuj</string>
-     <string name="process_kernel_label">Android OS</string>
   <string name="product_reflash_button">Osveži…</string>
     <string name="profile_connect_timeout_subtext">Težava pri povezovanju. Napravo izklopite in znova vklopite.</string>
     <string name="profile_info_settings_title">Podatki za profil</string>

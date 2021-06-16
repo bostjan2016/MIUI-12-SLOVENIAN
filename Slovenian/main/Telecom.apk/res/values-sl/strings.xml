@@ -577,7 +577,6 @@ Avdio"</string>
      <string name="pm">PM</string>
     <string name="pointer_location">Mesto kazalca</string>
     <string name="pointer_location_summary">Prekrivanje zaslona prikazuje trenutni dotik</string>
-     <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s do napolnjenosti</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do napolnjenosti z elektriko</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do napolnjenosti preko USB-a</string>
@@ -612,7 +611,6 @@ Avdio"</string>
     <string name="private_dns_mode_provider">Ime gostitelja pri ponudniku zasebnega strežnika DNS</string>
     <string name="private_dns_mode_provider_failure">Povezave ni bilo mogoče vzpostaviti</string>
     <string name="private_dns_mode_provider_hostname_hint">Vnesite ime gostitelja pri ponudniku DNS</string>
-     <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Težava pri povezovanju. Napravo izklopite in znova vklopite.</string>
     <string name="profile_info_settings_title">Podatki za profil</string>
     <string name="remaining_length_format">Še %1$s</string>
