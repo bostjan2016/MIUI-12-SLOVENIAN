@@ -1248,7 +1248,7 @@ Znova poskusite čez %d s."</string>
     <string name="notification_channel_retail_mode">Predstavitev za maloprodajo</string>
   <string name="notification_channel_security">Varnost</string>
     <string name="notification_channel_sim">Stanje kartice SIM</string>
-  <string name="notification_channel_sim_high_prio">Status SIM-a visokog prioriteta</string>
+  <string name="notification_channel_sim_high_prio">Status SIM-a visoke prioritete</string>
     <string name="notification_channel_sms">Sporočila SMS</string>
     <string name="notification_channel_system_changes">Sistemske spremembe</string>
     <string name="notification_channel_updates">Posodobitve</string>

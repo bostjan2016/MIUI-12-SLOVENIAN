@@ -4073,7 +4073,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="haptic_feedback_enable_title">Vibracija na dotik</string>
   <string name="haptic_feedback_level">Nivo vibracije</string>
   <string name="haptic_feedback_progress">Nivo hap. pov. informacije</string>
-  <string name="haptic_feedback_summary">Prejmi taktilni odgovor na gibe i kontrole sistema</string>
+  <string name="haptic_feedback_summary">Prejmi taktilni odgovor na gibe in kontrole sistema</string>
   <string name="haptic_feedback_title">Haptična povratna informacija</string>
      <string name="haptic_fingerprint_unlock_16_content_description">Odklepanje s prstnim odtisom</string>
      <string name="haptic_generate_folder_08_content_description">Nova mapa</string>
