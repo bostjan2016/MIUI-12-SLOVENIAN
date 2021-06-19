@@ -743,22 +743,22 @@
         <item>Standardno</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Samodejni kontrast</item>
+        <item>Vivid (priporočeno)</item></item>
         <item>Povečani kontrast</item>
         <item>Izvirna barva</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Prilagodi barve na osnovi trenutne osvetlitve</item>
+        <item>Prilagodi barve glede na prikazano vsebino</item>
         <item>Zmeraj pojačaj barve</item>
         <item>Kontrast bo nespremenjen</item>
     </string-array>
 	<string-array name="true_color_screen_optimize_summary">
-        <item>Prilagodi barve na osnovi trenutne osvetlitve</item>
+        <item>Prilagodi barve glede na prikazano vsebino</item>
         <item>Zmeraj pojačaj barve</item>
         <item>Povrni standardno barvo</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
-        <item>Samodejno (priporočeno)</item>
+        <item>Vivid (priporočeno)</item>
         <item>Nasičeno</item>
         <item>Originalna barva</item>
     </string-array>

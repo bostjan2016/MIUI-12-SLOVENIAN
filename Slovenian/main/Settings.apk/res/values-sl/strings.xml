@@ -5400,6 +5400,8 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_double_click_right">Dvakrat tapnite desno slušalko</string>
      <string name="miheadset_double_press_left">Dvakrat pritisnite levo slušalko</string>
      <string name="miheadset_double_press_right">Dvakrat pritisnite desno slušalko</string>
+     <string name="miheadset_dual_connect_mode">Poveži se z dvema napravama</string>
+     <string name="miheadset_dual_connect_mode_summary">Vklopite, če želite slušalke hkrati povezati z dvema napravama Bluetooth</string>
      <string name="miheadset_enhanceVoice">Izboljšajte zvok</string>
      <string name="miheadset_enhence_high">povečaj visoko</string>
      <string name="miheadset_enhence_low">povečaj nizko frek</string>

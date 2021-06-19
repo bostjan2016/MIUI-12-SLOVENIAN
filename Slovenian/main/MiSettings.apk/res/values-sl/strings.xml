@@ -35,7 +35,8 @@
      <string name="africans_white_backed_vulture">Beloglavi jastreb</string>
      <string name="afternoon">Večer</string>
      <string name="all_ringtone">Več</string>
-     <string name="all_ringtone_summary">Izberite melodije zvonjenja online</string>
+     <string name="all_ringtone_summary">Izberite melodijo zvonjenja online</string>
+     <string name="all_ringtone_summary_pad">Izberite melodijo zvonjenja</string>
      <string name="am">AM</string>
      <string name="amazon_introduction">Najbolj raznolika regija na našem planetu se pogosto imenuje \"pljuča Zemlje\".</string>
      <string name="amazon_orange_winged_info">Oranžnokrila amazonka je velika, hrupna papiga, ki sproži glasne, močne krike.</string>
@@ -535,6 +536,7 @@
   <string name="srgb_color_region_summary">Pokaži vso vsebino zaslona v sRGB razponu barv</string>
   <string name="start_easymode">Vključi Lite način</string>
   <string name="steady_on_screen_notification_title">Odložite telefon in se spočijte</string>
+     <string name="steady_on_screen_notification_title_pad">Odložite napravo in se spočijte</string>
   <string name="steady_on_screen_notify">Obvesti o neprekinjeni uporabi</string>
   <string name="steady_on_screen_setting">Časovna omejitev za neprekinjene seje</string>
   <string name="steady_on_screen_summary">Časovna omejitev za neprekinjene seje</string>
@@ -740,6 +742,7 @@ Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje nasl
   <string name="usage_state_focus_level_summary">Trenutni nivo: %s</string>
   <string name="usage_state_focus_mode_experience_warning_message">"Način fokusiranja omogoča samo uporabo kamere in klicanje v sili."</string>
      <string name="usage_state_focus_mode_experience_warning_message_pad">"Način ostrenja omogoča samo uporabo kamere. Načina ostrenja ne boste mogli predčasno izklopiti."</string>
+     <string name="usage_state_focus_mode_experience_warning_message_sim_pad">"Način ostrenja omogoča samo uporabo kamere in klice v sili. Načina ostrenja ne boste mogli predčasno izklopiti."</string>
   <string name="usage_state_focus_mode_summary">Omeji vse razen klicev v sili in kamere</string>
   <string name="usage_state_focus_mode_summary1">Dobro začeto je že na pol dokončano</string>
   <string name="usage_state_focus_mode_summary2">Ostani fokusiran</string>
@@ -747,6 +750,7 @@ Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje nasl
   <string name="usage_state_focus_mode_title">Način fokusiranja</string>
   <string name="usage_state_focus_mode_warning_message">"Način fokusiranja omogoča samo uporabo kamere in klice v sili. Ne boste mogli predčasno izključiti način fokusiranja."</string>
      <string name="usage_state_focus_mode_warning_message_pad">"Način ostrenja omogoča samo uporabo kamere. Načina ostrenja ne boste mogli predčasno izklopiti."</string>
+     <string name="usage_state_focus_mode_warning_message_sim_pad">"Način ostrenja omogoča samo uporabo kamere in klice v sili. Načina ostrenja ne boste mogli predčasno izklopiti."</string>
   <string name="usage_state_focus_mode_warning_title">Pozor</string>
   <string name="usage_state_focus_success">Uspešno</string>
   <string name="usage_state_focus_take_photo">Kamera</string>

@@ -351,7 +351,6 @@
   <string name="module_weather_ringtone_download_data_privacy"><Data>Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Ura se mora povezati na splet za prenos ≈30MB avdio datotek. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?</Data></string>
   <string name="module_weather_ringtone_download_wifi">Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Ura mora prenesti avdio datoteke da bo to delovalo. Prenesem?</string>
   <string name="module_weather_ringtone_download_wifi_privacy"><Data>Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Ura se mora povezati na splet za prenos zvočnih datotek. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?</Data></string>
-    <string name="module_weather_ringtone_introduce">Vremenski alarm izbere različne melodije zvonjenja glede na trenutno vreme. Omogoča tudi poslušanje trenutnih vremenskih informacij zjutraj.</string>
   <string name="module_weather_ringtone_introduce">Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu. Omogoča vam tudi poslušanje trenutnih informacij o vremenu zjutraj.</string>
   <string name="module_weather_ringtone_introduce_global">Vremenski alarm izbira različne melodije zvonjenja po trenutnem vremenu.</string>
   <string name="module_weather_ringtone_update_data">Vremenski alarm zdaj prihaja z glasbo v ozadju in boljšimi glasovnimi napovedmi. Ura mora prenesti ≈30MB avdio datotek da bo to delovalo. Prenesem?</string>
@@ -366,8 +365,7 @@
   <string name="module_white_noise_download_data">Ura mora prenesti avdio datoteke za časovnike hrupa okolice. Ura mora prenesti ≈30MB avdio datotek da bo to delovalo. Prenesem?</string>
   <string name="module_white_noise_download_data_privacy"><Data>"Če želite prenesti zvočne datoteke za časovnike hrupa okolice (≈30 MB) in zagotoviti prilagojene storitve, se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Uporabljate mobilne podatke. Se strinjate?"</Data></string>
   <string name="module_white_noise_download_wifi">Ura mora prenesti avdio datoteke za časovnike hrupa okolice. Prenesem?</string>
-  <string name="module_white_noise_download_wifi_privacy">Če želite prenesti zvočne datoteke za časovnike hrupa okolice in zagotoviti prilagojene storitve, se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a> Se strinjate?</Data></string>
-    <string name="monday">Monday</string>
+  <string name="module_white_noise_download_wifi_privacy"><Data>Če želite prenesti zvočne datoteke za časovnike hrupa okolice in zagotoviti prilagojene storitve, se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a> Se strinjate?</Data></string>
      <string name="monday">Ponedjeljek</string>
      <string name="monday_short">Pon</string>
      <string name="monday_shortest">P</string>

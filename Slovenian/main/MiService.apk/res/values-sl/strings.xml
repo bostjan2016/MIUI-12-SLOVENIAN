@@ -288,10 +288,12 @@
     <string name="permission_user_protocol">Pogoji uporabe (obvezno)</string>
   <string name="pm">PM</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
+     <string name="public_authorize_now">Nastavitve</string>
     <string name="public_loading_text">Samo trenutek…</string>
     <string name="public_net_error_retry">Poskusite ponovno</string>
     <string name="public_net_error_sub_title">Preverite omrežne nastavitve in poskusite ponovno</string>
     <string name="public_net_error_title">Povezava z omrežjem ni uspela</string>
+     <string name="public_please_authorize">Za nadaljevanje so potrebna dovoljenja</string>
   <string name="rationale_ask">Ta aplikacija morda ne bo delovala brez potrebnih dovoljenj.</string>
   <string name="rationale_ask_again">Ta aplikacija morda ne bo delovala brez potrebnih dovoljenj. Odprite zaslon z nastavitvami aplikacij, če želite spremeniti dovoljenja aplikacij.</string>
   <string name="saturday">Sobota</string>

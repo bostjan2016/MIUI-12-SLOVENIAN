@@ -90,14 +90,17 @@
     <string name="catch_full_log_add_original_photo">Dodajte originalno sliko ali kratek posnetek</string>
     <string name="catch_full_log_add_photo">Dodaj fotografijo</string>
     <string name="catch_full_log_add_photo_dialog_content">Če je napaka o kateri poročate povezana s kvaliteto slike kamere, dodajte originalno vzorčno fotografijo (neobrezano), da bomo lahko lažje našli napako. Želite dodati fotografijo sedaj?</string>
+     <string name="catch_full_log_category">Vrste zapisov</string>
     <string name="catch_full_log_dialog_confirm_text">Pojdi na Začetni zaslon</string>
-    <string name="catch_full_log_dialog_content">MIUI ustvarja zapise. To lahko vpliva na splošno zmogljivost vaše naprave. Če ni mogoče ponoviti napake, ki jo želite prijaviti, se vrnite v zapise in tapnite \"Prekliči\".</string>
+    <string name="catch_full_log_dialog_content">To lahko vpliva na splošno zmogljivost vaše naprave. Če težave, ki jo želite prijaviti, ne morete reproducirati, se vrnite v zapise in tapnite \ "Prekliči \".</string>
+     <string name="catch_full_log_dialog_title">Ustvarjam zapise…</string>
     <string name="catch_full_log_dump_hprof_failed">Ni mogoče ustvariti zapisov zaostajanja</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Pojdite nazaj, kjer ste zaznali napako in jo ponovite.
 2. Vrnite se na to stran in tapnite \"Končaj in naloži\"."</string>
-    <string name="catch_full_log_item_content_need_open">"1. Tapnite \"Ustvari zapis\".
-2. Pojdite nazaj, kjer ste zaznali napako in jo ponovite.
-3. Vrnite se na to stran in tapnite \"Končaj in naloži\"."</string>
+     <string name="catch_full_log_item_content_catching">Ustvarjam zapise…</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. Tapnite \"Ustvari zapis\".
+%2$d. Pojdite nazaj, kjer ste zaznali napako in jo ponovite.
+%3$d. Vrnite se na to stran in tapnite \"Končaj in naloži\"."</string>
     <string name="catch_full_log_item_content_title">Koraki:</string>
     <string name="catch_full_log_item_title_audio">Zvok, snemanje zvoka in zvok klica</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
@@ -105,8 +108,8 @@
     <string name="catch_full_log_item_title_gps">Lokacijske storitve</string>
     <string name="catch_full_log_item_title_sensor">Senzorji</string>
     <string name="catch_full_log_item_title_signal">Telefon, signal in mobilna omrežja</string>
-    <string name="catch_full_log_item_title_wifi">WiFi in Mi Drop</string>
-  <string name="catch_full_log_item_title_wifi_china">WiFi in ShareMe</string>
+    <string name="catch_full_log_item_title_wifi">WiFi</string>
+  <string name="catch_full_log_item_title_wifi_china">WiFi</string>
     <string name="catch_full_log_notification_content">Tapnite, če se želite vrniti med zapise</string>
     <string name="catch_full_log_notification_title">Generiranje zapisov…</string>
     <string name="catch_full_log_privacy_content_audio">Ustvarjate poročila, ki so shranjena na vaši napravi. Poročila lahko vsebujejo podatke o zvoku na vaši napravi, vključno z zgodovino predvajanja in zgodovino snemanja. Bodite previdni in ne pokažite poročila drugimi ljudmi. Z dotikom na \"Strinjam se\" spodaj, se strinjate, da lahko zbiramo zgoraj navedene podatke med ustvarjanjem dnevnikov, ki bodo naloženi na naše strežnike v namen lociranja in reševanja vprašanji, ki ste jih prijavili.</string>
