@@ -1194,6 +1194,7 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="feedback">Povratna inf.</string>
     <string name="fire_type_description">Gasilci</string>
   <string name="fiveg_bearer_status1">5G status nosilca :</string>
+     <string name="fiveg_carrier_aggregation_title">5Združevanje nosilcev 5G</string>
   <string name="fiveg_endc_available1">NR ENDC na voljo :</string>
   <string name="fiveg_endc_status1">Endc Status :</string>
   <string name="fiveg_hosted_mode_summary">Samodejno izberi najboljše omrežje, da prihranite baterijo</string>
@@ -1432,6 +1433,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="label_available">Razpoložljiva omrežja</string>
   <string name="label_cdp">Odklepanje SIM kartice s PIN številko</string>
   <string name="label_ndp">PIN za odklepanje omrežja kartice SIM</string>
+     <string name="label_ndp_nck">SIM omrežje za odklep NCK</string>
   <string name="label_nsdp">SIM omrežje za odklep PIN</string>
      <string name="label_phoneid">Perso Zaklenjeno za</string>
   <string name="label_puk">Vnesi PUK</string>
@@ -2735,6 +2737,7 @@ Vmesnik UT: %5$s"</string>
   <string name="stock_quotes_disable">Borzni tečaji so izklopljeni</string>
   <string name="stock_quotes_enable">Borzni tečaji so vklopljeni</string>
     <string name="storage_category">Shramba</string>
+     <string name="strPasswordLengthIncorrect">4-16 številk!</string>
   <string name="strict_mode">Omogočen strogi način</string>
   <string name="strict_mode_summary">Zaslon utripa kadar operacije apl. v glavni niti dolgo trajajo.</string>
   <string name="sub1LineNumber">Sub1 številka:</string>

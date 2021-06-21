@@ -73,6 +73,7 @@
   <string name="dont_bore_title">DND način</string>
   <string name="dual_app_title">Dvojne aplikacije</string>
   <string name="dual_app_words">Vsak račun zasluži lastno aplikacijo</string>
+     <string name="early_morning">Jutro</string>
   <string name="error_icon_content_description">Napaka</string>
      <string name="evening">Večer</string>
   <string name="exposed_dropdown_menu_content_description">Pokaži padajoči meni</string>

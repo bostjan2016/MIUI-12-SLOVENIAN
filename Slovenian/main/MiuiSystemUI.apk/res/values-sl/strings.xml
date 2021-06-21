@@ -1915,6 +1915,8 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="overlay_display_devices_title">Simul. sekund. prikazov.</string>
   <string name="overview">Pregled</string>
   <string name="owner_info_settings_edit_text_hint">Npr, Janezov Android.</string>
+     <string name="pad_zen_mode_warnings_all_time_content">Obvestila bodo utišana</string>
+     <string name="pad_zen_mode_warnings_keyguard_content">Ko je naprava zaklenjena, bodo obvestila utišana</string>
   <string name="partial_screenshot_edit">Uredi</string>
   <string name="partial_screenshot_repaint">Začni znova</string>
   <string name="partial_screenshot_save">Shrani</string>

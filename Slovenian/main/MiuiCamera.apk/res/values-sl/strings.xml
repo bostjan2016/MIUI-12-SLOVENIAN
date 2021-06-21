@@ -1969,6 +1969,10 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="timbre_normal">Original</string>
   <string name="timbre_robot">Robot</string>
   <string name="time">Čas</string>
+     <string name="time_freeze_action_end_tip">Tapnite gumb, da odmrznete ozadje</string>
+     <string name="time_freeze_action_start_tip">Tapnite gumb, da zamrznete ozadje</string>
+     <string name="time_freeze_adjust_button_title">Prilagodi</string>
+     <string name="time_freeze_clipbox_tint">Zamrzni</string>
   <string name="time_lapse_error">"Te velikost videoposnetka se ne da uporabiti za snemanje v intervalih"</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>

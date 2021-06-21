@@ -2732,6 +2732,7 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
     <string name="default_calendar_app_title">Aplikacija za koledar</string>
     <string name="default_contacts_app_title">Aplikacija za stike</string>
      <string name="default_digital_assistant_title">Privzeta apl. digital. asistenta</string>
+     <string name="default_document_title">Dokumenti</string>
   <string name="default_emergency_app">Aplikacija v sili</string>
     <string name="default_for_calls">Privzeto za klice</string>
     <string name="default_for_calls_and_sms">Privzeto za klice in SMS-e</string>
@@ -3114,6 +3115,11 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="dock_sounds_enable_title">Zvok ob vstavitvi v stojalo</string>
     <string name="dock_summary_charging_phone">Polnjenje akumulatorja telefona</string>
   <string name="docking_sounds_title">Zvok ob odlaganju v nosilec</string>
+     <string name="document_default_status">Izberi</string>
+     <string name="document_excel_title">Excel</string>
+     <string name="document_pdf_title">PDF</string>
+     <string name="document_powerpoint_title">PowerPoint</string>
+     <string name="document_word_title">Word</string>
     <string name="does_not_exist">Aplikacija ne obstaja.</string>
   <string name="dolby_bassboost_high">Močno</string>
   <string name="dolby_bassboost_low">Mehko</string>
@@ -3557,6 +3563,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
     <string name="face_intro_error_max">Dodali ste največje dovoljeno število obrazov</string>
     <string name="face_intro_error_unknown">Obrazov ni več mogoče dodati</string>
     <string name="face_lock_screen_setup_skip_dialog_text">Telefon zaščitite z možnostjo zaklepanja zaslona, tako da ga ne bo mogel uporabljati nihče drug, če ga izgubite ali vam ga ukradejo. Zaklepanje zaslona potrebujete tudi za nastavitev preverjanja pristnosti z obrazom. Dotaknite se »Prekliči«, nato pa nastavite kodo PIN, vzorec ali geslo.</string>
+  <string name="face_password_unlock">Podatki obraza &amp; zaklepanje zaslona</string>
   <string name="face_unlock">Odklep z obrazom</string>
   <string name="face_unlock_be_on_the_screen">Držite napravo pred obrazom</string>
   <string name="face_unlock_by_notification_screen_on_msg">Napravo lahko odklenete z obrazom, kadar zaslon zasveti za dohodna obvestila. Tako lahko hitreje izpraznite baterijo.</string>
@@ -3669,6 +3676,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
     <string name="fingerprint_enable_keyguard_toggle_title">zaklepanje zaslona</string>
     <string name="fingerprint_enroll_button_add">Dodaj še enega</string>
   <string name="fingerprint_enroll_button_next">Naprej</string>
+     <string name="fingerprint_face_password_unlock">Prstni odtisi, podatki o obrazu in zaklepanje zaslona</string>
   <string name="fingerprint_first_open_screen_password_face_tittle">Obraz (najprej nastavite geslo za zakl. zaslona)</string>
   <string name="fingerprint_first_open_screen_password_tittle">Prstni odtis (najprej nastavite geslo zakl. zaslona)</string>
   <string name="fingerprint_for_keyguard_disabled">Prstni odtis je onemogočen s strani varnostnih nastavitev.</string>
@@ -3694,6 +3702,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="fingerprint_not_identified_msg">"Ne morem prebrati prstnega odtisa. Vnesite svoje geslo"</string>
   <string name="fingerprint_not_recognized">Ni prepoznano</string>
   <string name="fingerprint_others_title">Ostalo</string>
+     <string name="fingerprint_password_unlock">Prstni odtisi &amp; zaklepanje zaslona</string>
   <string name="fingerprint_payment">Plačila s prstnim odtisom</string>
   <string name="fingerprint_removal_failed">"Ne morem odstraniti prstnega odtisa, poskusite kasneje"</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">Hiter ogled obvestil</string>
@@ -4687,6 +4696,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
   <string name="launch_noapp_dialog_replace">Nastavitve</string>
      <string name="launch_notification_center">Plošča obvestil</string>
   <string name="launch_recents">Zaženi Nedavno</string>
+     <string name="launch_smarthome">Xiaomi Hitra povezava</string>
   <string name="launch_voice_assistant">Zaženi glasovni pomočnik</string>
      <string name="launch_wechat_health_code">Zdravstvena koda WeChat</string>
      <string name="launch_wechat_health_code_auto_close">Bližnjica do zdravstvene kode WeChat ni več na voljo. Lahko preklopite na drugo bližnjico.</string>
@@ -6644,6 +6654,7 @@ Pred uporabo preberite in sprejmite %s."</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
   <string name="password_turned_off_text">Geslo je izključeno</string>
   <string name="password_turned_on_text">Geslo je vključeno</string>
+     <string name="password_unlock">Zaklepanje zaslona</string>
   <string name="password_unlock_title">Geslo</string>
   <string name="path_about_about_settings">Nastavitve/O napravi</string>
   <string name="path_accelerometer_settings">Nastavitve/Zaslon/Samodejno obrni zaslon</string>
