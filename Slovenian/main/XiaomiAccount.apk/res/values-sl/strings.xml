@@ -432,6 +432,13 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; bo dobil naslednja dovoljenja:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Prijavite se z Mi Računom</string>
   <string name="ok">V redu</string>
+     <string name="operator_mobile">China Mobile</string>
+     <string name="operator_mobile_agreement">Storitve preverjanja, ki jih zagotavlja China Mobile</string>
+     <string name="operator_other">Telefonska številka</string>
+     <string name="operator_telecom">China Telecom</string>
+     <string name="operator_telecom_agreement">Storitve preverjanja, ki jih zagotavlja račun eSurfing</string>
+     <string name="operator_unicom">China Unicom</string>
+     <string name="operator_unicom_agreement">Storitve preverjanja, ki jih zagotavlja China Unicom</string>
   <string name="optional_permissions">Izbirna dovoljenja</string>
   <string name="other_devices_title">Ostale naprave</string>
   <string name="passport_Resend">Pošlji ponovno</string>
@@ -794,6 +801,7 @@ ki ste ga prejeli v vaš poštni predal
   <string name="sim_changed_notification_msg">Pritisnite za posodobitev vašega telefona in obdržite svoj račun varen.</string>
   <string name="sim_changed_notification_title">Telefonska številka je spremenjena?</string>
   <string name="sina_weibo">Sina Weibo</string>
+     <string name="skip_query_account">Preskoči</string>
   <string name="sms_send_success">Poslano</string>
   <string name="sns_access_token_expired_warning">Potekel je čas prijave v račun. Prijavite se ponovno za ponovno povezovanje s tem računom.</string>
   <string name="state_data_error">"Ne morem dobiti podatke"</string>

@@ -48,6 +48,7 @@
      <string name="am">AM</string>
   <string name="anonymous_source_continue">Nadaljuj</string>
   <string name="anonymous_source_warning">Vaš telefon in osebni podatki so podvrženi napadom neznanih aplikacij. Z namestitvijo te aplikacije sprejemate odgovornost za poškodovanje telefona ali krajo podatkov do katere lahko pride z njeno uporabo.</string>
+     <string name="anonymous_source_warning_tablet">Naprave in osebni podatki so bolj izpostavljeni napadom neznanih aplikacij. Z namestitvijo te aplikacije se strinjate, da ste odgovorni za kakršno koli škodo na svojih napravah ali izgubo podatkov, ki bi lahko nastala zaradi njene uporabe.</string>
   <string name="app_install_failed_button_text">Išči aplikacije</string>
   <string name="app_installed_notification_channel_description">Obvestilo o nameščeni aplikaciji</string>
   <string name="app_name">Orodje za namestitev paketa.</string>
@@ -161,8 +162,10 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="install_failed_blocked">Namestitev je blokirana.</string>
     <string name="install_failed_conflict">Aplikacija ni bila nameščena, ker je paket v navzkrižju z obstoječim paketom.</string>
     <string name="install_failed_incompatible">Aplikacija ni bila nameščena, ker ni združljiva s telefonom.</string>
+     <string name="install_failed_incompatible_tablet">"Ta aplikacija ni združljiva z vašo napravo."</string>
     <string name="install_failed_invalid_apk">Aplikacija ni bila nameščena, ker je paket poškodovan.</string>
     <string name="install_failed_msg">Aplikacije %1$s ni bilo mogoče namestiti v telefon.</string>
+     <string name="install_failed_msg_tablet">"%1$s ni bilo mogoče namestiti v vašo napravo."</string>
   <string name="install_failed_system_incompatible">"Ta aplikacija ni kompatibilna z MIUI"</string>
   <string name="install_finished_notification_summary">Tapnite da osvobodite prostor</string>
   <string name="install_finished_notification_title">%1$s je uspešno nameščena, lahko očistite %2$s prostora</string>

@@ -44,6 +44,7 @@
   <string name="add_private">Skrij datoteke</string>
   <string name="add_private_files">Dodaj datoteke</string>
   <string name="add_task">Dodaj opravila</string>
+     <string name="added_category">Dodano</string>
   <string name="adding_upload_tasks">Dodajam opravila</string>
      <string name="afternoon">Popoldne</string>
   <string name="aggree_desc">Dovolite, da se ta aplikacija poveže s spletom in ji dajte zgoraj navedena obvezna dovoljenja.</string>
@@ -75,6 +76,7 @@
   <string name="auto_play_recommend">Samodejno reproduciraj</string>
   <string name="auto_play_recommend_tips">Samodejno zaženi reprodukcijo videoposnetka</string>
   <string name="auto_play_toast">Videoposnetki se bodo predvajali samodejno. To lahko spremenite v nastavitvah.</string>
+     <string name="available_size">Na voljo: %s</string>
   <string name="background">Skrij</string>
   <string name="backup_cancel">"Ne napravi var. kopije"</string>
   <string name="backup_checkbox_msg">Samodejno napravi var. kopijo</string>
@@ -100,6 +102,10 @@
   <string name="binded_accout_description">Vaš Mi račun se je sinhroniziral z KuaiPan računom. Zdaj lahko z Mi računom dostopate do podatkov shranjenih na KuaiPan.</string>
   <string name="binded_accout_title">Račun sinhroniziran</string>
   <string name="black_list">"Dobili ste prepoved. Pošljite svojo pov. informacijo na MIUI Forum da ugotovite zakaj.."</string>
+     <string name="by_date">Datum</string>
+     <string name="by_name">Čas</string>
+     <string name="by_size">Velikost</string>
+     <string name="by_type">Vrsta</string>
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">"Ne morem poslati toliko stvari naenkrat"</string>
   <string name="cancel">Prekliči</string>
@@ -116,24 +122,30 @@
   <string name="category_bluetooth">Bluetooth</string>
   <string name="category_document">Dokumenti</string>
   <string name="category_download">Prenos</string>
+     <string name="category_editor_mode">Uredi</string>
+     <string name="category_exit_editor_mode">Izhod</string>
   <string name="category_favorite">Priljubljeno</string>
   <string name="category_file">Datoteke</string>
   <string name="category_files">Datoteke</string>
   <string name="category_installed_app">Nameščene aplikacije</string>
   <string name="category_kuaipan">KuaiPan</string>
   <string name="category_midrive">MiDrive</string>
+     <string name="category_more">Več</string>
   <string name="category_music">Glasba</string>
   <string name="category_other">Ostalo</string>
   <string name="category_photo">Fotografije</string>
   <string name="category_picture">Slike</string>
+     <string name="category_qq">QQ</string>
   <string name="category_recent">Nedavno</string>
   <string name="category_source">Vir</string>
+     <string name="category_taobao">Taobao</string>
   <string name="category_theme">Teme</string>
   <string name="category_time">Čas</string>
   <string name="category_type_document">Dokumenti</string>
   <string name="category_type_meida">Predstavnosti</string>
   <string name="category_type_other">Ostalo</string>
   <string name="category_video">Videoposnetki</string>
+     <string name="category_wechat">WeChat</string>
   <string name="category_zip">Arhivi</string>
      <string name="cdd_message">"Zaradi omejitev Androida 11 v aplikaciji Raziskovalec ne boste mogli videti nekaterih datotek, ustvarjenih v aplikacijah drugih proizvajalcev.."</string>
      <string name="cdd_title">Pozor</string>
@@ -272,6 +284,7 @@
   <string name="disk_total">Skupaj:</string>
   <string name="dislike_toast">"Takšni videoposnetki ne bodo priporočeni za vas."</string>
   <string name="dislike_video">"Nisem zainteresiran"</string>
+     <string name="display_setting">Prikazane stvari</string>
   <string name="dlg_error_unmount_text">Ni bilo mogoče izvreči zunanjega pomnilnika.</string>
   <string name="doc_all">Vse</string>
   <string name="doc_epub">EPUB</string>
@@ -292,6 +305,7 @@
   <string name="drive_closed">Niste prijavljeni</string>
   <string name="drive_opened">Prijavljeni ste</string>
      <string name="early_morning">Jutro</string>
+     <string name="edit_quick_category">Uredi</string>
   <string name="editor_commend">Uredi</string>
   <string name="email_platform">E-pošta</string>
   <string name="empty_comment">Komentar ne more biti prazen</string>
@@ -306,6 +320,9 @@
   <string name="encrypt_success">Uspešno skrito</string>
   <string name="encrypt_success_first_five">"Šifrirano in datoteka skrita. Skrite datoteke lahko vidite s potegom dol na začetni strani aplik. Raziskovalec."</string>
   <string name="encrypting">Šifriranje…</string>
+     <string name="entry_phone_storage_internal">Pomnilnik naprave</string>
+     <string name="entry_storage_cloned_app">Dvojne aplikacije</string>
+     <string name="entry_storage_usb">USB naprava</string>
   <string name="error_contains_sharer_path">"Ne morem dešifrirati datotek v mapi /MIUI/Gallery/cloud/sharer. Premestite datoteke na drugo mesto in poskusite ponovno.."</string>
   <string name="error_create_dir">"Ne morem napraviti mapo"</string>
   <string name="error_create_file">"Ne morem napraviti datoteko"</string>
@@ -466,6 +483,7 @@
      <string name="launcher_icon_add_description">Dodajte bližnjico na začetni zaslon</string>
      <string name="launcher_icon_remove_description_content">"Raziskovalec je sistemska aplikacija. Ko jo odstranite v svoji napravi ne boste mogli več upravljati datotek."</string>
      <string name="launcher_icon_remove_description_title">Odstranim \"Raziskovalec\" iz zač. zaslona?</string>
+     <string name="least_quick_category_hint">Dodajte najmanj %d bližnjic</string>
   <string name="like_toast_1">Takšni videoposnetki vam bodo priporočeni.</string>
   <string name="like_toast_2">Poglejte videoposnetke katere želite na svojem profilu.</string>
   <string name="like_toast_3">Prijavite se da pogledate videoposnetke katere želite na svojem profilu.</string>
@@ -650,6 +668,7 @@
      <string name="month_september_shortest">S</string>
      <string name="more">Več</string>
      <string name="morning">Jutro</string>
+     <string name="most_quick_category_hint">Lahko dodate do %d bližnjic</string>
   <string name="move_failed">Ne morem premestiti</string>
   <string name="move_failed_retry">"Ne morem izrezati, poskusite ponovno čez %1$s"</string>
   <string name="move_icon_to_desktop_hint">Napravi bližnjico aplik. Raziskovalec na zač. zaslonu za učinkovitejše urejanje datotek.</string>
@@ -772,6 +791,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="no_wifi">Ni dostopnih WiFi omrežij</string>
   <string name="no_wifi_hint">Ni dostopnih omrežij</string>
      <string name="noon">Poldne</string>
+     <string name="not_added_category">Na voljo</string>
   <string name="not_installed_documentsui">"Nimate nameščene DocumentsUI aplikacije"</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="not_support_documentui">"Aplikacija DocumentUI ni podprta na tej napravi"</string>
@@ -964,6 +984,7 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="qq_title">"Nimam dostopa do QQ dokumentov"</string>
   <string name="quota_info">MiDrive: %1$s na voljo, %2$s skupaj</string>
   <string name="qzone_platform">Qzone</string>
+     <string name="recent_hide_camera_and_screenshots">"Med nedavnimi datotekami ne kaži stvari iz galerije in posnetkov zaslona"</string>
   <string name="recent_show">Nedavno</string>
   <string name="recommend">Priporočeno</string>
   <string name="recommend_popup_title">Priporočila</string>
@@ -972,6 +993,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="refresh_success">Osveževanje končano</string>
   <string name="release_enter_private">Spusti za odpiranje zasebne mape</string>
   <string name="release_to_signin">Spustite za prijavo</string>
+     <string name="remainder_size">Ostalo: %s</string>
   <string name="remote_video_no_network">"Ne morem se povezati na omrežje."</string>
   <string name="remote_video_report_success">"Hvala vam za povratne informacije! Pregledali jih bomo čimprej."</string>
   <string name="remote_video_server_error">"Ne morem se povezati s strežnikom."</string>
@@ -1030,6 +1052,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="search_app">Aplik. &amp; mape</string>
   <string name="search_app_more">Več</string>
   <string name="search_category">Vrsta</string>
+     <string name="search_category_folder">Mape</string>
   <string name="search_description">Preišči vse datoteke v napravi</string>
   <string name="search_empty_view_hint">Ni rezultatov</string>
   <string name="search_error_hint">Vnesite ključne besede za iskanje</string>
@@ -1050,6 +1073,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="search_keyword_news">Novice</string>
   <string name="search_keyword_wallet">Denarnica</string>
   <string name="search_menu_title">Išči</string>
+     <string name="search_more_category">Več</string>
   <string name="search_popup_tip">Lahko iščete osebe in teme</string>
   <string name="search_result">Rezultati</string>
   <string name="search_result_hint1">Podobno</string>
@@ -1141,6 +1165,12 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="signin_error">Ne morem se povezati s strežnikom. Preverite vašo povezavo.</string>
   <string name="signin_success">"Prijavljeni ste!
   Dodano %1$s brezplačnega prostora"</string>
+     <string name="size_lv1">Manj kot %d KB</string>
+     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
+     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
+     <string name="size_lv4" formatted="false">%1d MB - %2d MB</string>
+     <string name="size_lv5" formatted="false">%1d MB - %2d GB</string>
+     <string name="size_lv6">Več kot %d GB</string>
   <string name="skip">Preskoči</string>
   <string name="skip_file">Preskoči</string>
   <string name="slashes">/</string>
@@ -1239,6 +1269,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="topic_followed">Spremljam</string>
   <string name="topic_title">Teme</string>
   <string name="topic_winners">Dosedanji dobitniki</string>
+     <string name="total_size">Skupaj: %s</string>
   <string name="trans_mobile_network_message">Uporaba mobilnih podatkov za prenos datotek bo porabila veliko podatkov, ali ste prepričani da želite nadaljevati?</string>
   <string name="trans_task">Omrežni prenos</string>
      <string name="transfer">Premiki &amp; prenosi</string>

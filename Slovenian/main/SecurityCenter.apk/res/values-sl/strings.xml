@@ -660,6 +660,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_running_tip_dialog_text">Zapri %1$s da se prepreči zagon v ozadju. To bo pohitrilo napravo in zmanjšalo porabo energije.</string>
   <string name="app_running_tip_dialog_title">Zapri aplikacijo</string>
   <string name="app_running_tip_uninstall">Odstrani aplikacijo</string>
+  <string name="app_settings_link">Dodatne nastavitve v aplikaciji</string>
   <string name="app_statusbar_audio_now">Snemanje zvoka</string>
   <string name="app_statusbar_camera_now">Snemanje fotografij</string>
   <string name="app_statusbar_location_now">Lokacija</string>
@@ -1129,6 +1130,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="confirm_fingerprint_msg">Postavite prst na senzor</string>
   <string name="confirm_leave">Ne, hvala</string>
   <string name="confirm_open">Vključi</string>
+     <string name="confirm_open_shut_down_password_content">Pred vklopom potrditve izklopa nastavite zaklepanje zaslona.</string>
+     <string name="confirm_open_shut_down_password_title">Nastavite zaklepanje zaslona</string>
   <string name="confirm_prompt_all_permission">Iščem dovoljenja za vse aplikacije?</string>
   <string name="confirm_reject_all_permission">Omejim vsem aplikacijam uporabo te storitve?</string>
   <string name="confirm_take">Pridobi</string>
@@ -4207,6 +4210,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sc_system_risk_fix_info_xspace">To se ne more rešiti v Drugem prostoru. Poskusite ponovno v Prvem prostoru.</string>
   <string name="sc_warning_updater_not_found">"Aplikacija Posodobitev ni najdena."</string>
   <string name="scan_installed_games">Preverjanje nameščenih iger…</string>
+     <string name="scan_open_shut_down_password_content">Zaščitite svojo napravo pred nepooblaščenim dostopom</string>
+     <string name="scan_open_shut_down_password_title">Potrditev zaustavitve</string>
   <string name="scan_status_risk">Tvegano</string>
   <string name="scan_status_safe">Varno</string>
   <string name="scanning_bar_cache_title">Preverjanje koša...</string>
@@ -4304,6 +4309,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="show_traffic_dialog_message">Podrobnosti vaše porabe podatkov bodo prikazane v plošči obvestil. Lahko vključite/izključite to opravilo kadar koli v Poraba podatkov &gt; Nastavitve</string>
   <string name="show_traffic_dialog_title">Pokaži porabo v plošči obvestil</string>
   <string name="showpattern">Nastavitve Dovoljenja</string>
+     <string name="shut_down_password_content">Če izgubite napravo, jo potrditev izklopa zaščiti pred izklopom tistega, ki jo najde.</string>
   <string name="shutdown_cancel_reminder">"Naprava se ni izključila"</string>
   <string name="shutdown_cancel_reminder_detail">"Naprava se ni izključila ker ste imeli pogovor"</string>
   <string name="shutdown_cancel_reminder_detail2">"Kaže da igrate neko igro. Načrtovani izklop je odpovedan."</string>
@@ -4357,6 +4363,10 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="songs_unit">" pesmi"</string>
   <string name="sorted_button">Razvrsti po</string>
   <string name="sorted_dialog_title">Razvrsti po</string>
+     <string name="sp_abnormal_scan_summary">Odkrivanje in reševanje težav</string>
+     <string name="sp_abnormal_scan_title">Reševanje težav</string>
+     <string name="sp_antispam_scan_summary">Zaščitite se pred goljufijami</string>
+     <string name="sp_antispam_scan_title">Seznam blokiranih</string>
   <string name="sp_back_title_text_zero">Zaščiti</string>
   <string name="sp_background_risk_dialog_summary">, preglejte in popravite težave s plačili</string>
   <string name="sp_background_risk_dialog_summary_new">Trenutno plačilno okolje lahko predstavlja varnostno tveganje. Prosimo, vzemite si trenutek za rešitev morebitnih obstoječih težav.</string>
@@ -4745,6 +4755,7 @@ Z formatiranjem bo izbrisana vsebina ^2. Če želite preprečiti izgubo vsebine,
   <string name="suggest_app_tolock_masked">Skrito</string>
   <string name="suggest_app_tolock_unmasked">Obvestila vidna</string>
   <string name="suggest_scan_again">Za zagotovitev varnosti predlagamo popolno preverjanje.</string>
+     <string name="suggest_to_use_mi_sim">Uporabite Mi Sim, da preprečite ustvarjanje dodatnih stroškov operaterja.</string>
   <string name="summary_app_lock_disable">Zaklenite aplikacije da zaščitite svojo zasebnost</string>
      <string name="summary_app_update_new">Posodobite aplikacije za dostop do novih funkcij</string>
   <string name="summary_auto_update">MIUI bo izbral najugodnejši čas za prenos in namestitev posodobitve.</string>
@@ -5268,6 +5279,7 @@ Kupili ste dodatni splet %1$s ta mesec.
      <string name="traffic_setting_step_num">Nastavitve porabe</string>
      <string name="traffic_to_limit_warning">"Porabili ste %s omejitve podatkov"</string>
   <string name="traffic_usage_warning_body">"Porabili ste %s mobilnih podatkov ta mesec."</string>
+     <string name="traffic_usage_warning_body_go_to_mi_sim">"Ta mesec ste že porabili %s mobilnih podatkov. Dotaknite se, če želite uporabiti Mi SIM."</string>
   <string name="traffic_usage_warning_limit">Opzorilo porabe podatkov</string>
   <string name="traffic_usage_warning_title">Opzorilo porabe podatkov</string>
   <string name="traffic_warning_purchase_title">Opozorilo porabe podatkov</string>
@@ -5390,6 +5402,8 @@ Ta funkcija ne deluje pri glajenju gibov.
 Če vklopite eno funkcijo, se izklopi druga."</string>
      <string name="vb_video_super_division_tips">"Ni dovolj jasno?
 Poskusite povečati ločljivost!"</string>
+     <string name="verify_shut_down_password_content">Zahtevajte potrditev zaklepanja zaslona, če je naprava izključena, medtem ko je zaklenjena</string>
+     <string name="verify_shut_down_password_title">Shutdown confirmation</string>
   <string name="video_repeat">Predvajaj ponovno</string>
   <string name="videobox_hangup_tips_content">Ta storitev omogoča aplikaciji zagon v ozadju ko je zaslon izključen. Vključim?</string>
   <string name="videobox_hangup_tips_title">Pozor</string>
