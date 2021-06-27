@@ -138,6 +138,7 @@
     <string name="allow">Dovoli</string>
     <string name="am">AM</string>
     <string name="analytics_version_name">2.8.18</string>
+     <string name="app_id">Firebase App ID(Klikni za izvoz)</string>
     <string name="app_name">MarketDeveloper</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Kamera</string>
@@ -805,6 +806,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="home_description">Domov</string>
     <string name="home_feed_channel">V navigacijski vrstici pokaži \"Novice\"</string>
     <string name="home_game_channel">V navigacijski vrstici pokaži \"Igre\"</string>
+     <string name="home_list_item_click">Kliknite domači seznam stvari</string>
     <string name="home_nf">Vsebinski tok</string>
     <string name="home_nf_recommend_on">Priporočeno za vas</string>
     <string name="homepage_delete_card_menu">Izbriši</string>
@@ -839,6 +841,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="input_new_pwd">Vnesite novo geslo</string>
     <string name="ins_login_tips">Prijavite se za prenos videoposnetkov iz Instagrama</string>
     <string name="ins_register_btn">Ustvarite račun z uporabo e-naslova ali telefonske številke</string>
+     <string name="instance_id">Firebase Instance ID(Klikni za izvoz)</string>
     <string name="interest_card_button">Nadaljuj</string>
     <string name="interest_card_title">Izberite vaše interese</string>
     <string name="into_info_flow_guide">Pokaži več člankov</string>
@@ -856,6 +859,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="just_now">Pravkar</string>
     <string name="le_download_failed_server_error">Prenos ni uspel zaradi napake strežnika.</string>
     <string name="le_network_chagne_to_none">Povezava z omrežjem je prekinjena. Vsi prenosi so začasno ustavljeni.</string>
+     <string name="list_item_click">Kliknite seznam stvari</string>
     <string name="list_menu_add_to_pf">Premesti v zasebno mapo</string>
     <string name="list_menu_delete_task">Izbriši nalogo</string>
     <string name="list_menu_delete_task_and_file">Izbriši nalogo in datoteko</string>
@@ -995,7 +999,10 @@ Pošljite to kodo nadzorniku."</string>
     <string name="more_option">Več možnosti</string>
     <string name="more_recommend">Več priporočil</string>
      <string name="morning">Jutro</string>
+     <string name="most_visited_sites">Najbolj obiskano</string>
+     <string name="most_visited_sites_switch">Na začetni strani pokaži najbolj obiskana spletna mesta</string>
     <string name="move_bookmark">Premakni</string>
+     <string name="msg_token">Firebase Message Token(Klikni za izvoz)</string>
     <string name="msn_ad_identification">Oglas</string>
     <string name="msn_privacy">Microsoft Izjava o varstvu podatkov</string>
     <string name="msn_privacy_content">Za vsebino, ki jo zagotavlja Microsoft News</string>
@@ -1722,6 +1729,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
     <string name="privacy_message_welcome_tip_first">- Hitro in varno brskanje po spletu</string>
     <string name="privacy_message_welcome_tip_second">- Prenašanje slik in videa iz družbenih omrežji</string>
     <string name="privacy_policy">Pravila o zasebnosti</string>
+     <string name="privacy_reset_fail">"Ne morem ponastaviti. Poskusite ponovno."</string>
     <string name="privacy_sub_title">Pogoji in določila</string>
     <string name="privacy_title">Dobrodošli v Mi brskalnik</string>
     <string name="private_title">Skrite datoteke</string>
@@ -1775,6 +1783,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
     <string name="regid">RegId(Kliknite Za izvoz)</string>
     <string name="release_to_refresh">Spustite za osvežitev</string>
     <string name="remember_passwords_confirm_message">Izklop te storitve lahko vpliva na porabo.</string>
+     <string name="remote_config">Remote Config(Klikni za izvoz)</string>
     <string name="remove_bookmark">Odstrani zaznamek</string>
     <string name="remove_bookmark_group">Izbriši skupino</string>
     <string name="remove_from_bookmarks">Odstrani iz zaznamkov</string>
@@ -1905,6 +1914,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
     <string name="setting_app_language">Jezik brskalnika</string>
     <string name="setting_feed_language">Jezik vira vsebine</string>
     <string name="setting_privacy_password">Nastavite vzorec za odklepanje</string>
+     <string name="setting_swipe_up">Povlecite navzgor na začetnem zaslonu</string>
     <string name="share_image_text">Poglej, kaj sem delil! @MIUI</string>
     <string name="share_page_text">Poglej, kaj sem delil: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Poglej, kaj sem delil: %1$s</string>
@@ -2087,6 +2097,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
     <string name="toast_exit_browser">Znova tapnite za izhod iz brskalnika</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
+     <string name="topsite_click">Kliknite TopSite</string>
     <string name="traffic_fail_device_limit">Dosegli ste omejitev prijavljenih naprav</string>
     <string name="traffic_fail_free_no_left">Zmanjkalo vam je prometa. Naročite se za nadaljevanje.</string>
     <string name="traffic_fail_no_left">Zmanjkalo vam je VPN prometa</string>

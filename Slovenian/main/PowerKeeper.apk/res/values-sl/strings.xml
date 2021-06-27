@@ -302,6 +302,8 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="sleepmode_privacy_content">To opravilo bo uporabljal sistem telefona in podatke o napravi. Podatki ne bodo prenešeni na strežnik</string>
   <string name="sleepmode_privacy_link">Izvedite več o varnosti in zasebnosti</string>
   <string name="sleepmode_privacy_title">Način mirovanja</string>
+     <string name="softbank_high_temp_toast_time_10min">Ugasnjena svetilka, da se prepreči pregrevanje</string>
+     <string name="softbank_high_temp_toast_time_4min">Ugasnjena svetilka, da se prepreči pregrevanje</string>
   <string name="still">Slika</string>
      <string name="stricter_high_temp_state_message">"Naprava se pregreva, razen klicev in stikov ne morete uporabljati drugih aplikacij"</string>
   <string name="sucess">Končano</string>

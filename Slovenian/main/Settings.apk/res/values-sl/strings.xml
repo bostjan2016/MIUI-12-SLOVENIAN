@@ -6554,6 +6554,35 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
     <string name="owner_info_settings_title">Sporočilo na zaklenjenem zaslonu</string>
   <string name="owner_space">Prvi prostor</string>
   <string name="packages_subtitle">Vključeni paketi</string>
+     <string name="pad_backup_summary">Varnostno kopirajte in obnovite elemente v tej napravi</string>
+     <string name="pad_backup_title">Mobilna naprava</string>
+     <string name="pad_computer_backup_summary">Varnostno kopirajte in obnovite elemente z računalnikom</string>
+     <string name="pad_how_backup_content">"Varnostne kopije lahko shranite lokalno ali v oblak. Lokalne varnostne kopije lahko shranite v mobilno napravo, računalnik ali pogon USB.
+
+Mobilna naprava
+Sistemske nastavitve, račune, podatke aplikacij in druge stvari shranite v ločeno datoteko, shranjeno v napravi (MIUI-backup-AllBackup). Opomba: Ponastavitev na tovarniške nastavitve bo takšne varnostne kopije trajno izbrisala. Ne pozabite kopirati varnostnih kopij v računalnik.
+
+Računalnik
+Na tej napravi ustvarite varnostno kopijo, nato pojdite na MIUI-backup-AllBackup in preko USB kabla prekopirajte varnostno kopijo v računalnik.
+
+USB naprava
+Shranite sistemske nastavitve, račune, podatke aplikacij in druge stvari na pogon USB.
+
+Xiaomi Cloud
+Sinhronizirajte svoje stike, fotografije, videoposnetke, seznam aplikacij, sistemske nastavitve in postavitev začetnega zaslona z oblakom."</string>
+     <string name="pad_how_restore_backup_content">"Tako lahko obnovite stvari, ki so bile varnostno kopirane z različnimi metodami:
+
+Mobilna naprava
+Tapnite \"Mobilna naprava\", poiščite možnost za obnovitev stvari in izberite varnostno kopijo za nadaljevanje.
+
+Računalnik
+Kopirajte varnostno kopijo iz računalnika v MIUI-backup-AllBackup prek kabla USB in obnovite stvari iz mobilne naprave.
+
+USB naprava
+Kopirajte varnostno kopijo iz pogona USB v MIUI-backup-AllBackup in izberite možnost za obnovitev stvari iz pogona USB, če želite nadaljevati.
+
+Xiaomi Cloud
+Odprite Xiaomi Cloud in od tam obnovite stvari."</string>
   <string name="page_layout_1">Nedelja, 16 Avgust</string>
   <string name="page_layout_10">Nastavitve</string>
   <string name="page_layout_11">Čas</string>

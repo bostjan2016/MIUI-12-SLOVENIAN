@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agree">Strinjam se</string>
+    <string name="cancel">Prekliči</string>
+    <string name="check_protocol_msg">Če želite uporabiti način vzdrževanja, kliknite tukaj in se strinjajte s </string>
+    <string name="check_protocol_msg_detail">Pred zagonom načina popravila se prepričajte, ali so bili podatki varnostno kopirani in poprodajna služba ni odgovorna za morebitno izgubo podatkov zaradi popravljenega izdelka.</string>
+    <string name="check_protocol_msg_sub">Omejitev odgovornosti uporabniških podatkov</string>
+    <string name="click_to_close">Kliknite tukaj, če želite zapustiti način vzdrževanja</string>
+    <string name="close_maintenance_mode">Zapri način vzdrževanja</string>
+    <string name="create_fail">Ustvarjanje načina vzdrževanja ni uspelo, poskusite znova pozneje</string>
+    <string name="create_fail_because_max_user">Doseženo je bilo največje število uporabnikov v sistemu. Izbrišite podatke avatarja, dvojno odprtost ali otroški način in poskusite znova</string>
+    <string name="delete_maintenance_mode">izbriši način vzdrževanja...</string>
+    <string name="disagree">Ne strinjam se</string>
+    <string name="forbid_create">Način vzdrževanja je mogoče ustvariti samo v glavnem uporabniškem prostoru</string>
+    <string name="maintenance_mode">Način vzdrževanja</string>
+    <string name="maintenance_mode_close_title">V načinu vzdrževanja</string>
+    <string name="maintenance_mode_loading">Zagon načina popravila, telefon se bo kmalu znova zagnal …</string>
+    <string name="maintenance_mode_reboot">Vnovični zagon načina vzdrževanja</string>
+    <string name="maintenance_mode_title">Celovita zaščita podatkov mobilnega telefona</string>
+    <string name="maintenance_mode_watch_out">Med poprodajnim vzdrževanjem zaščitite pomembne zasebne podatke, kot so fotografije, videoposnetki, stiki, dnevniki klicev in besedilna sporočila</string>
+    <string name="open">Odpri Način vzdrževanja</string>
+    <string name="open_maintenance_mode">Odpri Način vzdrževanja</string>
+    <string name="open_maintenance_mode_msg">Da bi se izognili izgubi podatkov, je priporočljivo, da ga potem pošljete v popravilo </string>
+    <string name="open_maintenance_mode_msg_sub">varnostno kopiranje vaših podatkov</string>
+    <string name="reached_max_user">Doseženo največje število uporabnikov</string>
+    <string name="reboot_maintenance_mode">izbriši način vzdrževanja končan, za zmogljivost naprave ga znova zaženite</string>
+    <string name="reboot_msg">Če vklopite način vzdrževanja, se telefon samodejno znova zažene, potrdite, ali je takoj vklopljen</string>
+    <string name="reopen_maintenance_mode">Zaznano je, da je glavni uporabnik naprave odklenjen. Da boste zaščitili zasebnost uporabnikov in varnost podatkov, je priporočljivo, da znova vstopite v način vzdrževanja</string>
+    <string name="set_password_main_user">Nastavite geslo za glavnega uporabnika</string>
+    <string name="set_password_main_user_context">Za zagotovitev varnosti svojih podatkov nastavite geslo za zaklenjeni zaslon. Gesla ni mogoče pridobiti, zapomnite si ga. Ko zaprete način vzdrževanja, morate potrditi geslo za zaklenjeni zaslon, ki ste ga nastavili.</string>
+    <string name="setting">Nastavitve</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="switch_to_maintenance_mode">Preklopi v način vzdrževanja</string>
+</resources>

@@ -458,6 +458,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="galleryplus_copyright_unsported_video">Tega videoposnetka ni mogoče predvajati zaradi omejitev avtorskih pravic</string>
     <string name="galleryplus_cta_tips">Lahko nam pomagate izboljšati naše storitve s prijavo v Program Uporabniške Izkušnje in dovoliti aplikaciji Mi Video povezavo na splet. Se strinjate?</string>
     <string name="galleryplus_double_tap_to_higher_definition">Ponovno tapnite dvakrat za HD predogled</string>
+     <string name="galleryplus_file_edit_save">Shrani datoteko v %s</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Nepodprto število sličic. Preklopite nazaj na običajno hitrost.</string>
     <string name="galleryplus_gallery_fold_tags">Skrij oznake</string>
     <string name="galleryplus_gallery_video_adjust_hint">Samo 960fps videoposnetki so podprti</string>
@@ -1481,13 +1482,18 @@ Izboljša varnost vašega računa."</string>
      <string name="video_download_fail_hint">"Ne morem prenesti"</string>
      <string name="video_download_floating_guide">Prenesite videe zastonj</string>
      <string name="video_download_forbidden">"Ne morem prenesti iz te spletne strani"</string>
+     <string name="video_download_login_guide">Vpišite se v %s za prenos</string>
      <string name="video_download_network_error">Napaka omrežja</string>
      <string name="video_download_play_video_guide">Najprej predvajajte video.</string>
-     <string name="video_download_play_video_guide2">Nato tapnite gumb za prenos.</string>
+     <string name="video_download_play_video_guide2">Ko zasveti, tapnite gumb, da začnete prenos.</string>
+     <string name="video_download_play_video_step1">Korak %1$d</string>
+     <string name="video_download_play_video_step2">Korak %2$d</string>
      <string name="video_download_site_search">URL</string>
      <string name="video_download_source">Prenos iz spleta</string>
      <string name="video_download_start">Prenašam…</string>
      <string name="video_download_storage_error">Premalo prostora</string>
+     <string name="video_download_title">Prenesi video</string>
+     <string name="video_download_youtube_copyright_forbidden">"YouTube videoposnetkov ni mogoče prenesti zaradi omejitev avtorskih pravic"</string>
      <string name="video_downloading">Prenašam…</string>
     <string name="video_live_over">Seja se je končala</string>
     <string name="video_noyet_download_tip">Ta video se še zmeraj prenaša</string>

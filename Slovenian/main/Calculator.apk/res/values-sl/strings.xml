@@ -326,8 +326,10 @@
   <string name="label_from_date">Od</string>
   <string name="label_history">Zgodovina</string>
   <string name="label_interest">Obresti</string>
+     <string name="label_investment_disclaimer">Za ponavljajoče se izračune uporabljamo trimesečno obdobje mešanja</string>
      <string name="label_investment_duration">Trajanje</string>
   <string name="label_loan_tenure">Kredit</string>
+     <string name="label_monthly_investment">Mesečna naložba</string>
   <string name="label_months">Mesecev</string>
   <string name="label_no_history">Tu ni ničesar</string>
   <string name="label_powered_by">Ponuja Mi Kalkulator</string>
@@ -952,6 +954,10 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
   <string name="wf_word_figure">Finančni znaki</string>
      <string name="withdraw_network_error">Vaša naprava se mora povezati z omrežjem, da boste lahko umaknili soglasje. Preverite omrežne nastavitve in poskusite znova.</string>
   <string name="word_figure_guide_text">Pritisnite in držite tekst za pretvorbo med slučaji.</string>
+     <string name="xiaomi_calculator_delete_description">"Kalkulator je sistemska aplikacija. Po odstranitvi aplikacije ne boste mogli uporabljati več pretvornikov in dodatnih storitev."</string>
+     <string name="xiaomi_calculator_delete_title">Odstranim Kalkulator?</string>
+     <string name="xiaomi_calculator_remove_icon_description">"Kalkulator je sistemska aplikacija. Ko odstranite bližnjico na začetnem zaslonu, ne boste mogli uporabljati več pretvornikov in dodatnih storitev."</string>
+     <string name="xiaomi_calculator_remove_icon_title">Odstranim \"Kalkulator\" iz zač. zaslona?</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne morem se povezati z aplikacijo v prenosu. Preverite ali ima aplikacija vsa potrebna dovoljenja v Nastavitve &gt; Nameščene aplikacije."</string>
   <string name="xiaomi_external_storage_unavailable">Shranjevanje ni možno, preverite SD kartico.</string>
   <string name="xiaomi_mobile">Mi Mobile</string>

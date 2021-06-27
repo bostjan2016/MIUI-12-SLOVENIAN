@@ -1735,7 +1735,7 @@ Gostovanje je mogoče spremeniti in / ali izklopiti v nastavitvah gostovanja"</s
   <string name="telocation_contacts_countrycode">Privzeta koda države</string>
   <string name="telocation_contacts_countrycode_hint">Vnesi kodo države</string>
   <string name="telocation_contacts_countrycode_summary">Privzeta koda države za stike je %s</string>
-  <string name="telocation_country_code_enabled_message">Dodaj klicno številko države samodejno da napravite izbiranje klicev v gostovanjeu lažje.</string>
+  <string name="telocation_country_code_enabled_message">Dodaj klicno številko države samodejno da napravite klicanje v gostovanju lažje.</string>
   <string name="telocation_country_code_enabled_title">Dodaj klicno številko države pri izbiranju</string>
   <string name="telocation_countrycode_alert_message">Vnesi telefonsko številko brez kode države</string>
   <string name="telocation_countrycode_alert_message_warning">Koda države ki ste jo vnesli je lahko napačna.</string>

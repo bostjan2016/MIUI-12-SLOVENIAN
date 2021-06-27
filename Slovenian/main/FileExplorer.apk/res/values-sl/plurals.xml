@@ -139,6 +139,14 @@
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
+     </plurals>
+     <plurals name="search_head_hint_all">
+        <item quantity="other">Rezultat iskanja (%1$d stvari)</item>
+        <item quantity="zero">Rezultat iskanja (%1$d stvari)</item>
+        <item quantity="one">Rezultat iskanja (%1$d stvar)</item>
+        <item quantity="two">Rezultat iskanja (%1$d stvari)</item>
+        <item quantity="few">Rezultat iskanja (%1$d stvari)</item>
+        <item quantity="many">Rezultat iskanja (%1$d stvari)</item>
     </plurals>
 	<plurals name="search_head_hint_app">
         <item quantity="other">Datotek (%2$d) apl. %1$s</item>

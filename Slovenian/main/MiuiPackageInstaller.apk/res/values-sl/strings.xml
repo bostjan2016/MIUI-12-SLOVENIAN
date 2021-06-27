@@ -141,7 +141,8 @@ Vsi obstoječi podatki aplikacije bodo shranjeni."</string>
   <string name="install_confirm_dialog_positive_button">Namesti</string>
   <string name="install_confirm_dialog_title">Pozor</string>
   <string name="install_confirm_question">Želite namestiti to aplikacijo? Aplikacija bo lahko:</string>
-  <string name="install_confirm_question_des_10">"Če želite tvegati in želite nadaljevati z namestitvijo, odobrite namestitev v Varnost&gt; Urejanje aplikacij &gt; Dovoljenja &gt; Aplikacije z možnim tveganjem. Če ne najdete \"Aplikacije z možnim tveganjem\", posodobite aplikacijo varnost in poskusite ponovno."</string>
+  <string name="install_confirm_question_des_10">"Če želite tvegati in želite nadaljevati z namestitvijo, odobrite namestitev v Varnost&gt; Urejanje aplikacij &gt; Dovoljenja &gt; Aplikacije z možnim tveganjem. Če ne najdete \"Aplikacije z možnim tveganjem\", posodobite aplikacijo Varnost in poskusite ponovno."</string>
+     <string name="install_confirm_question_des_10_tablet">"Če želite tvegati in želite nadaljevati z namestitvijo, odobrite namestitev v Varnost&gt; Urejanje aplikacij &gt; Dovoljenja &gt; Aplikacije z možnim tveganjem. Če ne najdete \"Aplikacije z možnim tveganjem\", posodobite aplikacijo Varnost in poskusite ponovno."</string>
   <string name="install_confirm_question_no_perms">Ali želite namestiti to aplikacijo? Poseben dostop ni potreben.</string>
   <string name="install_confirm_question_update">Ali želite namestiti posodobitev te obstoječe aplikacije? Obstoječi podatki ne bodo izgubljeni. Posodobljena aplikacija bo imela dostop do:</string>
   <string name="install_confirm_question_update_no_perms">Ali želite namestiti posodobitev te obstoječe aplikacije? Obstoječi podatki ne bodo izgubljeni. Za namestitev ne potrebujete posebnega dostopa.</string>
@@ -423,7 +424,8 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
     <string name="settings_warning_dialog_detail">"Zahtevano bo v naslednjih primerih:
  "<li>Ko aplikacija vsebuje viruse.</li>"
  "<li>Namestitveni paket izvira iz neznanega vira.</li></string>
-  <string name="settings_warning_dialog_msg">"Vaš telefon je podvržen varnostnim tveganjem. Če izključite to storitev se od vas ne bo zahtevalo da namestite varne verzije aplikacije. Vseeno izključim? "</string>
+  <string name="settings_warning_dialog_msg">"Vaš telefon je podvržen varnostnim tveganjem. Če izključite to storitev se od vas ne bo zahtevalo da namestite varne verzije aplikacije. Vseeno izključim?"</string>
+     <string name="settings_warning_dialog_msg_tablet">"Vaša naprava je podvržena varnostnim tveganjem. Če izključite to storitev se od vas ne bo zahtevalo da namestite varne verzije aplikacije. Vseeno izključim?"</string>
   <string name="settings_warning_dialog_title">Pozor</string>
   <string name="spannable_continue_text">Razumem tveganja. Vseeno namesti.</string>
      <string name="sunday">Nedelja</string>
@@ -471,6 +473,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="untrusted_external_source_title">Dovolim \"%1$s\" namestitev aplikacije?</string>
   <string name="untrusted_external_source_warning">Vaš telefon zaradi varnosti nima dovoljenja za nameščanje neznanih aplikacij iz tega vira.</string>
   <string name="untrusted_external_source_warning_summary">"Vaš telefon in osebni podatki so občutljivi na napade aplikacij nameščenih iz neznanih virov. Z namestitvijo aplikacij iz teh virov prevzemate odgovornost za škodo ali izgubo podatkov."</string>
+     <string name="untrusted_external_source_warning_summary_tablet">"Vaša naprava in osebni podatki so občutljivi na napade aplikacij nameščenih iz neznanih virov. Z namestitvijo aplikacij iz teh virov prevzemate odgovornost za škodo ali izgubo podatkov."</string>
   <string name="user_is_not_allowed_dlg_text">Trenutni uporabnik nima dovoljenja za to odstranitev.</string>
   <string name="user_is_not_allowed_dlg_title">Ni dovoljeno</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
