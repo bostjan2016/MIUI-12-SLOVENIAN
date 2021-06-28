@@ -296,6 +296,10 @@
   <string name="slavewifi_disconnect">Prekini povezavo</string>
   <string name="slavewifi_notification_title">Uporaba dvopasovnega WiFi omrežja</string>
   <string name="slavewifi_settings">Tapnite za spremembo nastavitev</string>
+     <string name="small_freeform_enter_warning">Plavajoča okna</string>
+     <string name="small_freeform_exit_tip">Zapri plavajoča okna</string>
+     <string name="small_freeform_memory_toast_app_type">"Ne morem odpreti. Ta aplikacija zahteva preveč pomnilnika, da lahko deluje."</string>
+     <string name="small_freeform_memory_toast_game_type">"Ne morem odpreti. Ta igra zahteva preveč pomnilnika, da lahko deluje."</string>
   <string name="softap_notifif_summary">Povezano: %d</string>
   <string name="softap_notifif_title">Hot-spot \"%s\" vključen</string>
   <string name="standard">Tiho</string>

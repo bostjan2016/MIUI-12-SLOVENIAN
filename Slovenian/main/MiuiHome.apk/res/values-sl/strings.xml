@@ -372,6 +372,7 @@
   <string name="launcher_icon_management">Urejanje bližnjic na začetnem zaslonu</string>
   <string name="launcher_not_exist">Prišlo je do napake, vrnite se na začetni zaslon in poskusite ponovno.</string>
   <string name="launcher_pull_down_title">Podrsajte dol na zač. zaslonu</string>
+     <string name="launcher_search">Iskanje na začetnem zaslonu</string>
   <string name="launcher_search_bar_provider_title">Ponudnik vrstice iskanja</string>
   <string name="launcher_search_bar_title">Trak za iskanje na zač. zaslonu</string>
   <string name="launcher_search_bar_value_disable">Izključeno</string>

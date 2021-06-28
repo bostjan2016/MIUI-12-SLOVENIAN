@@ -839,7 +839,9 @@ Izbor"</string>
   <string name="development_settings_not_available">Nastavitve razvojnih programerjev niso na voljo za tega uporabnika</string>
   <string name="development_settings_summary">Nastavljanje opcij za razvoj aplikacije</string>
   <string name="development_settings_title">Opcije za razvojne programerje</string>
-     <string name="device_locked_without_biometric">Biometričnega zaznavanja ni mogoče izvesti zaradi uporabe tristranske funkcije zaklepanja zaslona z eno tipko</string>
+     <string name="device_locked_without_biometric">Biometričnega zaznavanja ni mogoče izvesti zaradi uporabe storitve zaklepanja zaslona z eno tipko drugih avtorjev</string>
+     <string name="device_locked_without_biometric_face">Biometričnega zaznavanja ni mogoče izvesti zaradi uporabe storitve zaklepanja zaslona z eno tipko drugih avtorjev</string>
+     <string name="device_locked_without_biometric_finger">Biometričnega zaznavanja ni mogoče izvesti zaradi uporabe storitve zaklepanja zaslona z eno tipko drugih avtorjev</string>
     <string name="device_services">Storitve naprave</string>
   <string name="direct_boot_unaware_dialog_message">Opomba: Po ponovnem zagonu naprave se aplikacija ne more ponovno zagnati dokler ne odklenete telefon</string>
      <string name="disable_carrier_button_text">Onemogoči eSIM</string>
@@ -1028,6 +1030,9 @@ Izbor"</string>
   <string name="fingerprint_add_text">Prstni odtis je posodobljen. Dodajte ga ponovno.</string>
   <string name="fingerprint_add_title">Dodajte prstni odtis</string>
   <string name="fingerprint_again_identified_msg">Prstni odtis je aktiven. Uporabite ga za odklepanje naprave ali vnesite geslo.</string>
+     <string name="fingerprint_again_identified_msg_password">Funkcija prstnih odtisov je obnovljena. Za odklepanje lahko uporabite prstni odtis ali zapleteno geslo</string>
+     <string name="fingerprint_again_identified_msg_pattern">Funkcija prstnih odtisov je obnovljena. Za odklepanje lahko uporabite prstni odtis ali grafično geslo</string>
+     <string name="fingerprint_again_identified_msg_pin">Funkcija prstnih odtisov je obnovljena. Za odklepanje lahko uporabite prstni odtis ali digitalno geslo</string>
   <string name="fingerprint_dialog_touch_sensor">Pritisnite senzor prstnega odtisa</string>
   <string name="fingerprint_enter_second_psw_msg">Vnesite geslo Drugega prostora po ponovnem zagonu da boste lahko uporabili prepoznavanje prstnega odtisa</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">"Ne morem vstopiti v Drugi prostor v Lite načinu"</string>
@@ -1035,6 +1040,9 @@ Izbor"</string>
   <string name="fingerprint_lockout_msg">Počakajte minuto, potem pa spet poskusite</string>
   <string name="fingerprint_not_identified_msg">"Preveč neuspelih poskusov. vpišite geslo ali uporabite prstni odtis.”</string>
   <string name="fingerprint_not_identified_msg_lock">Preveč neuspelih poskusov. Vpišite geslo.</string>
+     <string name="fingerprint_not_identified_msg_password">Preverjanje prstnih odtisov ni uspelo v največ možnih poskusih, poskusite znova pozneje ali za zaklepanje uporabite zapleteno geslo</string>
+     <string name="fingerprint_not_identified_msg_pattern">Ne preverjajte prstni odtis v največ možnih poskusih, poskusite znova pozneje ali za izvedbo uporabite grafično geslo</string>
+     <string name="fingerprint_not_identified_msg_pin">Preverjanje prstnih odtisov ni uspelo v največ možnih poskusih. Poskusite znova pozneje ali za izvedbo uporabite digitalno geslo</string>
   <string name="fingerprint_not_identified_title">"Vpišite geslo"</string>
   <string name="fingerprint_not_recognized">Odtis ni prepoznan</string>
   <string name="fingerprint_try_again_msg">"Ne morem potrditi prstnega odtisa, poskusite ponovno."</string>
@@ -1061,6 +1069,7 @@ Izbor"</string>
   <string name="fs_gesture_back_ready_title">Pojdi nazaj</string>
   <string name="fs_gesture_final_over">Končano</string>
   <string name="fs_gesture_final_restart">Še enkrat</string>
+     <string name="fs_gesture_final_see_more">Pokaži več predstavitev v Nastavitve> Začetni zaslon> Sistemska navigacija</string>
   <string name="fs_gesture_final_summary">Lahko spremenite tipko"Pojdi nazaj" v Nastavitve &gt; Cel zaslon</string>
   <string name="fs_gesture_final_title">"Učenje končano!"</string>
   <string name="fs_gesture_finish">Lepo!</string>
@@ -1191,7 +1200,7 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
      <string name="input_lockscreen_password_hint_text">Vnesite zaporku</string>
      <string name="input_lockscreen_pattern_hint_text">Vnesite vzorec</string>
      <string name="input_lockscreen_pin_hint_text">Vnesite PIN</string>
-  <string name="input_password_after_boot_msg">"Ko se naprava znova zažene, morate potrditi zaklepanje zaslona"</string>
+  <string name="input_password_after_boot_msg">"Vnos gesla je obvezen, ko se naprava znova zažene"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne morem zamenjati prostore med klicem"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Ne morem spremeniti prostor ko je vključen starševski nadzor"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Ne morem spremeniti prostor ko je vključeno Ultra varčevanje baterije"</string>
@@ -1199,8 +1208,10 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
   <string name="input_password_handle_sdcard_fs">"Ne morem iti v Drugi prostor iz zakl. zaslona. Vstopi iz Prvega prostora."</string>
   <string name="input_password_hint_text">Vnesite geslo</string>
   <string name="input_password_hint_text_v11">Vnesite geslo</string>
+     <string name="input_pattern_after_boot_msg">Ob ponovnem zagonu naprave morate narisati vzorec</string>
   <string name="input_pattern_hint_text">Narišite svoj vzorec za odklep</string>
   <string name="input_pattern_hint_text_v11">Narišite vzorec</string>
+     <string name="input_pin_after_boot_msg">Ko se naprava znova zažene, morate vnesti kodo PIN</string>
   <string name="input_pin_code">Vnesite PIN</string>
   <string name="input_pin_hint_text_v11">Vnesite PIN</string>
   <string name="input_puk_code">Vnesite PUK</string>

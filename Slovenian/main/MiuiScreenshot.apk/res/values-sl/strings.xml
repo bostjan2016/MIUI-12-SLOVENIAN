@@ -185,6 +185,7 @@ drsni posnetek zaslona"</string>
     <string name="screenshot_insert_failed">"Posnetka zaslona ni bilo mogoče naložiti. Napravite novega ali si oglejte sliko v galeriji."</string>
     <string name="screenshot_long_screenshot">Podrsaj</string>
     <string name="screenshot_send">Pošlji</string>
+     <string name="screenshot_thumbnail">Sličica zaslona</string>
     <string name="search_menu_title">Išči</string>
     <string name="send">Pošlji</string>
   <string name="solar_term_autumn_begins">Začetek jeseni</string>

@@ -299,7 +299,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="sleep_config_enhance_title">Način mirovanja</string>
   <string name="sleepmode_disclaimer_agree">Strinjam se</string>
   <string name="sleepmode_disclaimer_cancel">Prekini</string>
-  <string name="sleepmode_privacy_content">To opravilo bo uporabljal sistem telefona in podatke o napravi. Podatki ne bodo prenešeni na strežnik</string>
+  <string name="sleepmode_privacy_content">To opravilo bo uporabljalo podatke o sistemu naprave in podatke o napravi. Podatki ne bodo prenešeni na strežnik</string>
   <string name="sleepmode_privacy_link">Izvedite več o varnosti in zasebnosti</string>
   <string name="sleepmode_privacy_title">Način mirovanja</string>
      <string name="softbank_high_temp_toast_time_10min">Ugasnjena svetilka, da se prepreči pregrevanje</string>

@@ -289,6 +289,8 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
      <string name="saturday_shortest">S</string>
      <string name="search_menu_title">Išči</string>
      <string name="send">Pošlji</string>
+     <string name="sim_activate_failed">"Ne morem aktivirati"</string>
+     <string name="sim_activate_prepare">Aktiviraj storitev</string>
      <string name="sim_activated_failed_msg">"Storitve ni mogoče aktivirati. Dotaknite se, če želite poskusiti znova."</string>
      <string name="sim_unactivated_feature_title">"\"%s\" ni aktivirano"</string>
      <string name="sim_unactivated_msg">"Ta storitev ni aktivirana. Tapnite za ponovni poskus."</string>

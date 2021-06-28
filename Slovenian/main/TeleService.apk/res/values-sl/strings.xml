@@ -1213,7 +1213,7 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="fiveg_sa_switch_open_dialog_content">5G povezava je lahko nestabilna v samostojnem načinu dela, kar lahko vpliva na storitve telefonije. Vključim SA način dela?</string>
   <string name="fiveg_sa_switch_open_dialog_title">Pozor</string>
   <string name="fiveg_sa_switch_summary">Dovoli povezovanje z 5G omrežji v samostojnem načinu dela</string>
-  <string name="fiveg_sa_switch_title">SA način</string>
+  <string name="fiveg_sa_switch_title">Uporabi SA omrežje</string>
   <string name="fiveg_sa_switch_title_slot0">SIM %d SA način</string>
   <string name="fiveg_sa_switch_title_slot1">SIM %d SA način</string>
   <string name="fiveg_sa_switch_warning_toast">Ponovno zaženite telefon zaradi efekta.</string>
@@ -1694,11 +1694,14 @@ Zmeraj uporabi to številko"</string>
   <string name="mobile_data_status_roaming_turned_on_subtext">Podatkovno gostovanje je vključeno</string>
   <string name="mobile_data_status_roaming_with_plan_subtext">Gostovanje poteka, podatkovni paket je aktiven</string>
   <string name="mobile_data_status_roaming_without_plan_subtext">Gostovanje poteka, potreben je podatkovni paket</string>
+     <string name="mobile_geo_location_config_summary">Označite neobičajne lokacije omrežnih signalov za izboljšanje uporabniške komunikacijske izkušnje</string>
+     <string name="mobile_geo_location_config_title">Optimizacija kakovosti omrežja s fiksno točko</string>
   <string name="mobile_intelligent_connection_title">Inteligentna povezava mobilnega omrežja</string>
+     <string name="mobile_network_dual_card_optimizationmobile_title">Optimizacija dvojne kartice za mobilno omrežje</string>
   <string name="mobile_network_settings_not_available">Nastavitve mobilnega omrežja niso na voljo za tega uporabnika</string>
   <string name="mobile_networks">Nastavitve mob. omrežja</string>
   <string name="mobile_property">Lastnosti mob. omrežja</string>
-     <string name="mobile_special_network_optimization_config_summary">Če je omrežje neobičajno, poskusi samodejno popraviti</string>
+     <string name="mobile_special_network_optimization_config_summary">Inteligentno zaznajte več scenarijev v omrežju za izboljšanje komunikacijske izkušnje</string>
      <string name="mobile_special_network_optimization_config_title">Posebna optimizacija omrežja</string>
   <string name="mock_location_app">Izberite aplikacijo za lažno lokacijo</string>
   <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo nio nastavljena</string>

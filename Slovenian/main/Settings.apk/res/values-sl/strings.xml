@@ -4051,6 +4051,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="gxzw_anim_rhythm">Ritem</string>
   <string name="gxzw_anim_star">Zvezdna luč</string>
   <string name="gxzw_anim_title">Prstni odtis</string>
+  <string name="gxzw_anim_unlock_effect">%s animacij prstnega odtisa</string>
   <string name="gxzw_aod_show_summary">Dvignite napravo ali tapnite zaslon da se bo bo prikazal simbol prstnega odtisa. To povečuje porabo baterije.</string>
   <string name="gxzw_aod_show_tittle">Pokaži ikono prstnega odtisa kadar je zaslon izključen</string>
   <string name="gxzw_dialog_message">"Za normalno uporabo senzorja prstnih odtisov znotraj zaslona ne uporabljajte zaščite zaslona. Če mislite da je vseeno potrebna, jo izberite med pooblaščenimi kompatibilnimi opcijami."</string>
@@ -4454,6 +4455,12 @@ morate najprej napraviti iCloud var. kopijo"</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s in %2$s</string>
     <string name="join_two_unrelated_items">%1$s in %2$s</string>
+     <string name="kddi_nfc_category_title">NFC/Osaifu-keitai</string>
+     <string name="kddi_nfc_disabled_summary">Ni na voljo, ker je NFC / Osaifu-keitai izklopljen</string>
+     <string name="kddi_nfc_quick_toggle_summary">Omogoči funkcijo NFC / Osaifu-keitai</string>
+     <string name="kddi_nfc_quick_toggle_title">NFC/Osaifu-keitai</string>
+     <string name="kddi_nfc_secure_settings_title">Zakleni na zaklenjenem zaslonu</string>
+     <string name="kddi_nfc_secure_toggle_summary">Dovoli funkcijo NFC / Osaifu-keitai, ko je zaslon odklenjen</string>
   <string name="keep_legacy_fingerprint">Obdrži</string>
     <string name="keep_screen_on">Brez izklopa zaslona</string>
     <string name="keep_screen_on_summary">Med polnjenjem se zaslon ne bo nikoli izklopil</string>
@@ -5145,7 +5152,8 @@ kot PIN za Prvi prostor"</string>
   <string name="lte_ram_dump_off">Izklopi izpis RAM-a za LTE</string>
   <string name="lte_ram_dump_on">Vklopi izpis RAM-a za LTE</string>
   <string name="macaddr_label">MAC naslov:</string>
-     <string name="magic_window_name">Razdeljeno okno</string>
+     <string name="magic_list_empty_text">Trenutno ni nobene aplikacije, združljive s to storitvijo</string>
+     <string name="magic_window_name">Optimizirajte aplikacije za ležeči prikaz</string>
   <string name="mah">%d mAh</string>
   <string name="main_netcheck_summary">Testiraj omrežje za težave s povezovanjem</string>
   <string name="main_running_process_description">Glavni proces je v uporabi.</string>
@@ -7581,6 +7589,7 @@ Znova zaženite napravo in poskusite znova."</string>
     <string name="reset_network_final_desc">Želite ponastaviti vse omrežne nastavitve? Tega dejanja ni mogoče razveljaviti.</string>
     <string name="reset_network_final_desc_esim">Želite ponastaviti vse omrežne nastavitve in izbrisati prenesene kartice SIM? Tega dejanja ni mogoče razveljaviti.</string>
     <string name="reset_network_title">Ponastavi WiFi, prenos podatkov v mobilnem omrežju in Bluetooth</string>
+     <string name="reset_network_title_noSim">Ponastavi WiFi in Bluetooth</string>
   <string name="reset_network_wifi">WiFi</string>
   <string name="reset_remove_data_hint">Vse zgoraj navedene stvari bodo trajno izbrisane. Pred nadaljevanjem kopirajte vse pomembne stvari v računalnik ali Mi Cloud.</string>
   <string name="reset_second_space_passwd">Ponastavi geslo Drugega prostora</string>

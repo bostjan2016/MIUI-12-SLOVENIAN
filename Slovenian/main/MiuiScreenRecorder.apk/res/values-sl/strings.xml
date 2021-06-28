@@ -87,10 +87,12 @@ Tapni za ogled"</string>
   <string name="is_go_home_summary">"Odpri začetno stran snemanja zaslona po končanem snemanju"</string>
   <string name="loopback_sound">Zvočnik</string>
   <string name="low_battery">Pred začetkom snemanja napolnite baterijo</string>
+     <string name="low_battery_for_pad">Pred začetkom snemanja napolnite baterijo</string>
   <string name="low_battery_title">Slaba baterija</string>
   <string name="low_battery_warning">Baterija je preslaba. Ustavite snemanje in shranite videoposnetek.</string>
-  <string name="low_memory">Imate manje od 200MB prostora. Lahko snemate do 5 minut.</string>
+  <string name="low_memory">Imate manje od 1GB prostora. Lahko snemate do 20 minut.</string>
   <string name="low_memory_dior">Imate manj kot 500MB prostora. Lahko snemate do 12 minut.</string>
+     <string name="low_memory_for_pad">Imate manj kot %1$d GB prostora. Lahko snemate do %2$d minut.</string>
   <string name="low_memory_title">Ni dovolj prostora za shranitev</string>
   <string name="low_momery_warning">Ni dovolj prostora za shranitev. Snemanje ustavljeno in videoposnetek je shranjen.</string>
   <string name="memory_not_allowed">Ni dovolj prostora za shranitev. Sprostite nekaj prostora da lahko snemate.</string>
@@ -240,6 +242,7 @@ Tapni za ogled"</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
      <string name="view_recorded_file">Tapnite za prikaz posnetkov</string>
+     <string name="view_recorded_videos">Pokaži posnetke</string>
   <string name="warning_recording_when_a2dp_connect">"Vaša naprava ne podpira snemanje zvokov ko se uporablja Bluetooth slušalke."</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>

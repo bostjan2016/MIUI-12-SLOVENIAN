@@ -390,7 +390,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="loading">Samo trenutek…</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
-  <string name="lock_show_permission_exception">Napaka. Dovolite prikazovanje Wallpaper Carousel na Zakl. zaslonu v aplikaciji varnost.</string>
+  <string name="lock_show_permission_exception">Dovolite Wallpaper Carousel prikazovanje stvari na zaklenjenem zaslonu.</string>
   <string name="lockscreen_h5_back_tv">Nazaj</string>
   <string name="lockscreen_h5_close_tv">Izključi</string>
   <string name="lockscreen_h5_refresh_btn_tv">Osveži</string>
