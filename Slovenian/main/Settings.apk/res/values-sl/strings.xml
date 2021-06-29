@@ -2468,7 +2468,7 @@ Začnite z napolnjeno baterijo in telefon mora biti priključen ves čas.
   <string name="custom_gesture_title">Lastni gibi</string>
   <string name="custom_wifi_name_title">Uredi ime WiFi-ja</string>
   <string name="customize_function">Vzorci na voljo</string>
-     <string name="customize_knock_gesture">Prilagojene kretnje za sklepe prstov</string>
+     <string name="customize_knock_gesture">Poteze s prsti po meri</string>
   <string name="cutout_mode_always">Zmeraj pokaži</string>
   <string name="cutout_mode_default">Samod.</string>
   <string name="cutout_mode_settings_title">Nekatere aplikacije se lahko prikažejo napačno če prilagodite način prikaza zoba.</string>
@@ -3148,7 +3148,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="done_button">Končano</string>
   <string name="double_click_power_key">Dvoklik tipke Vklop</string>
   <string name="double_click_volume_down_when_lock">Dvoklik Glasnost - ko je zaslon zaklenjen</string>
-  <string name="double_knock">Dvojno tipkanje</string>
+  <string name="double_knock">Dvojni tap</string>
     <string name="double_tap_power_for_camera_suggestion_title">Hitro odpri fotoaparat</string>
     <string name="double_tap_power_for_camera_summary">Če želite hitro odpreti fotoaparat, dvakrat pritisnite gumb za vklop. Deluje na vsakem zaslonu.</string>
     <string name="double_tap_power_for_camera_title">Odpri fotoaparat</string>
@@ -7384,6 +7384,7 @@ Pred uporabo preberite in sprejmite %s."</string>
   <string name="qtifeedback_settings_subtitle">Qualcomm Technologies, Inc Reporting</string>
   <string name="qtifeedback_settings_title">Hardware Feedback</string>
   <string name="query_hint_text">Preišči nastavitve</string>
+     <string name="quick_controls_lower">kontrolniki naprave</string>
   <string name="quick_launch_assign_application">Dodeli aplikacijo</string>
   <string name="quick_launch_clear_cancel_button">Prekliči</string>
   <string name="quick_launch_clear_dialog_message">Vaša bližnjica za %1$s (%2$s) bo izbrisana.</string>
@@ -7929,6 +7930,7 @@ Za uporabo pripenjanja aplikacije: \u0009
   <string name="screen_settings">Zakl. zaslon</string>
   <string name="screen_shot">Posnemi posnetek zaslona</string>
   <string name="screen_timeout">Stanje pripravljenosti</string>
+     <string name="screen_timeout_subtitle">Prikaz statične vsebine za daljše časovno obdobje lahko povzroči neenakomerne barve</string>
     <string name="screen_timeout_summary">Po toliko nedejavnosti: %1$s</string>
     <string name="screen_timeout_title">Zakleni zaslon samodejno</string>
     <string name="screen_usage_summary">Trajanje vklopljenosti zaslona od polne napolnjenosti akumulatorja</string>
@@ -10514,7 +10516,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="vibrate_when_ringing_option_always_vibrate">Vedno vibriranje</string>
     <string name="vibrate_when_ringing_option_never_vibrate">Brez vibriranja</string>
     <string name="vibrate_when_ringing_option_ramping_ringer">Najprej vibriranje, nato postopno zvonjenje</string>
-  <string name="vibrate_when_ringing_title">Vibracija tudi za klice</string>
+  <string name="vibrate_when_ringing_title">Vibriraj, ko zvoni</string>
     <string name="video_calling_settings_title">Videoklicanje preko operaterja</string>
   <string name="video_tool_box_title">Orodje za videoposnetke</string>
   <string name="view_install_log">Pokaži poročilo</string>

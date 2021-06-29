@@ -306,9 +306,13 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_behavior_denied">Zavrni</string>
   <string name="app_behavior_desc_allow_once">Dovoljeno %1$s</string>
      <string name="app_behavior_desc_allowed">Dovoljeno</string>
+     <string name="app_behavior_desc_allowed_at">Dovoljeno ob %s</string>
      <string name="app_behavior_desc_allowed_on_background">Dovoljeno v ozadju</string>
+     <string name="app_behavior_desc_allowed_on_background_at">Dovoljeno v ozadju ob %s</string>
      <string name="app_behavior_desc_denied">Zavrnjeno</string>
+     <string name="app_behavior_desc_denied_at">Zavrnjeno ob %s</string>
      <string name="app_behavior_desc_denied_on_background">Zavrnjeno v ozadju</string>
+     <string name="app_behavior_desc_denied_on_background_at">Zavrnjeno v ozadju ob %s</string>
   <string name="app_behavior_desc_deny_once">Zavrnjeno %1$s</string>
      <string name="app_behavior_desc_other_perm_allowed">Zadnja aktivnost: %s</string>
      <string name="app_behavior_desc_other_perm_denied">Aktivnost zadnjih %d ur</string>
@@ -1615,6 +1619,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="first_aid_card_wifi_or_flow_title">"Ne morem se povezati na splet"</string>
   <string name="first_aid_dialog_msg_stop_scan">Ustavim skeniranje?</string>
   <string name="first_aid_dialog_title_stop_scan">Ustavi</string>
+     <string name="first_aid_exception_sub_title">Te stvari bodo med skeniranjem prezrte</string>
   <string name="first_aid_item1_content">Zmogljivost</string>
   <string name="first_aid_item2_content">Omrežje</string>
   <string name="first_aid_item3_content">Nastavitve</string>
@@ -2077,6 +2082,8 @@ vašega igranja"</string>
   <string name="gs_show_way_vertical">Navpično</string>
   <string name="gs_sign_notification">Opomni me se da prijavim vsak dan ob 20 uri</string>
   <string name="gs_slip_gamebox_detail">Uporabite drsnik ali podrsajte s prstom od zgornjega roba da se pokaže plošča bližnjic.</string>
+     <string name="gtb_brightness_dialog_right_btn">Obdrži</string>
+     <string name="gtb_brightness_dialog_sub_message">*To storitev lahko vklopite in izklopite v nastavitvah.</string>
   <string name="gtb_dialog_btn_close">Izključi</string>
   <string name="gtb_dialog_btn_open">Vključi</string>
   <string name="gtb_dialog_hint_smart_5g">Lahko vključite in izključite to storitev v Game Turbo &gt; Nastavitve.</string>
@@ -2086,6 +2093,7 @@ vašega igranja"</string>
   <string name="gtb_exit_game_to_home">Nazaj na zač. zaslon</string>
   <string name="gtb_setting_item_summary_smart_5g">Kadar koli Game Turbo zazna omrežje 5G, se lahko naprava poveže z najboljšim omrežjem, ki je na voljo, da zmanjša zaostajanje omrežja.</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Povečajte hitrost povezave za 10% -20%, ko ste povezani z usmerjevalniki Mi / Redmi</string>
+     <string name="gtb_setting_item_title_brightness">Samodejno zmanjšaj svetlost zaslona</string>
   <string name="gtb_setting_item_title_smart_5g">5G omrežna optimizacija</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Mi WiFi povečanje hitrosti</string>
      <string name="gtb_spring_festival_back_game">Nazaj v igro</string>
@@ -2415,7 +2423,7 @@ operaterja"</string>
   <string name="manual_input_free_traffic">Nastavi omejitev porabe podatkov</string>
   <string name="manual_input_traffic">Nastavi porabo podatkov</string>
   <string name="manual_item_white_list_summary">Preprečite optimizacijo izbranim stvarim</string>
-  <string name="manual_item_white_list_title">Izjeme</string>
+  <string name="manual_item_white_list_title">Preišči izjeme</string>
   <string name="manual_white_list_header">Izjem: %d</string>
   <string name="mark_agent">Blokiraj prijavljene agencije</string>
   <string name="mark_agent_block">Prijavljen kot agencija</string>
@@ -3065,6 +3073,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pc_battery_history_total_consumption_title">Skupna poraba energije</string>
   <string name="pc_battery_history_usetime_title">Aktivno</string>
      <string name="pc_hidemode_normal">Uravnoteženo</string>
+     <string name="pc_hidemode_normal_title">Uravnoteženo</string>
      <string name="pc_hidemode_performance">Zmogljivost</string>
      <string name="pc_hidemode_performance_title">Način zmogljivost</string>
      <string name="pc_hidemode_power_save">Moč</string>
