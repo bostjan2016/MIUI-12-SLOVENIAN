@@ -259,7 +259,9 @@
   <string name="screen_button_notification_title">Navigacijske tipke so izključene</string>
   <string name="screen_on_proximity_sensor_hint">"Za izklop te storitve istočasno pritisnite tipki "Nazaj" in "Glasnost +"."</string>
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Da izključite to opravilo, pritisnite tipko Glasnost +.</string>
+     <string name="screen_on_proximity_sensor_hint_has_navigation_bar_for_kddi">Da izključite to opravilo, pritisnite tipko Glasnost +.</string>
   <string name="screen_on_proximity_sensor_summary">Ne pokrijte območja slušalk.</string>
+     <string name="screen_on_proximity_sensor_summary_for_kddi">"Ne pokrivajte senzorja zunanje svetlobe"</string>
   <string name="screen_on_proximity_sensor_title">Žepni način</string>
   <string name="screen_paper_mode_enter_toast">Način branja je vključen. To lahko vključite/izključite kadarkoli v Nastavitve &gt; Zaslon &gt; Način branja.</string>
   <string name="screen_rotation_freeze_message">Samdejno vrtenje je onemogočeno.</string>

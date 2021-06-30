@@ -255,7 +255,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
   <string name="other_settings_upload_debug_log_summary">Statistika uporabe ki nam pomaga pri iskanju in reševanju težav lahko vsebuje vaše osebne podatke.</string>
   <string name="other_settings_upload_debug_log_title">Samodejno pošlji diagnostične podatke</string>
   <string name="other_settings_user_experience">Program uporabniških izkušenj</string>
-  <string name="other_settings_user_experience_summary">Pomagajte nam izboljšati proizvode in storitve s pošiljanjem podatkov o uporabi</string>
+  <string name="other_settings_user_experience_summary">Pomagajte nam izboljšati proizvode in storitve s pošiljanjem podatkov o uporabi. Pokaži podrobnosti</string>
   <string name="other_settings_user_experience_summary1">Pokaži Pravila o zasebnosti</string>
   <string name="other_settings_user_experience_summary_index">Podrobnosti</string>
   <string name="permission_MIUIDaemon_introduction">MIUI Daemon vam omogoča prenos podatkov iz naprave, ko je njen zaslon poškodovan.</string>
