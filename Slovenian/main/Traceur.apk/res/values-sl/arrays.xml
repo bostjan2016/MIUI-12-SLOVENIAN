@@ -279,12 +279,4 @@
         <item>Hitrost animacije 5 x</item>
         <item>Hitrost animacije 10 x</item>
     </string-array>
-	     <plurals name="num_categories_selected">
-        <item quantity="other">%d izbrano</item>
-        <item quantity="zero">%d izbrano</item>
-        <item quantity="one">%d izbrana</item>
-        <item quantity="two">%d izbrani</item>
-        <item quantity="few">%d izbrano</item>
-        <item quantity="many">%d izbrano</item>
-     </plurals>
 </resources>
