@@ -839,9 +839,9 @@ Izbor"</string>
   <string name="development_settings_not_available">Nastavitve razvojnih programerjev niso na voljo za tega uporabnika</string>
   <string name="development_settings_summary">Nastavljanje opcij za razvoj aplikacije</string>
   <string name="development_settings_title">Opcije za razvojne programerje</string>
-     <string name="device_locked_without_biometric">Biometričnega zaznavanja ni mogoče izvesti zaradi uporabe storitve zaklepanja zaslona z eno tipko drugih avtorjev</string>
-     <string name="device_locked_without_biometric_face">Biometričnega zaznavanja ni mogoče izvesti zaradi uporabe storitve zaklepanja zaslona z eno tipko drugih avtorjev</string>
-     <string name="device_locked_without_biometric_finger">Biometričnega zaznavanja ni mogoče izvesti zaradi uporabe storitve zaklepanja zaslona z eno tipko drugih avtorjev</string>
+     <string name="device_locked_without_biometric">Te naprave ni mogoče odkleniti s prstnimi odtisi ali podatki o obrazu, ko uporabljate zaklepanje zaslona tretje osebe</string>
+     <string name="device_locked_without_biometric_face">Te naprave ni mogoče odkleniti s podatki o obrazu, ko uporabljate zaklepanje zaslona tretje osebe</string>
+     <string name="device_locked_without_biometric_finger">Te naprave ni mogoče odkleniti s prstnimi odtisi, ko uporabljate zaklepanje zaslona tretje osebe</string>
     <string name="device_services">Storitve naprave</string>
   <string name="direct_boot_unaware_dialog_message">Opomba: Po ponovnem zagonu naprave se aplikacija ne more ponovno zagnati dokler ne odklenete telefon</string>
      <string name="disable_carrier_button_text">Onemogoči eSIM</string>
@@ -1030,9 +1030,12 @@ Izbor"</string>
   <string name="fingerprint_add_text">Prstni odtis je posodobljen. Dodajte ga ponovno.</string>
   <string name="fingerprint_add_title">Dodajte prstni odtis</string>
   <string name="fingerprint_again_identified_msg">Prstni odtis je aktiven. Uporabite ga za odklepanje naprave ali vnesite geslo.</string>
-     <string name="fingerprint_again_identified_msg_password">Funkcija prstnih odtisov je obnovljena. Za odklepanje lahko uporabite prstni odtis ali zapleteno geslo</string>
-     <string name="fingerprint_again_identified_msg_pattern">Funkcija prstnih odtisov je obnovljena. Za odklepanje lahko uporabite prstni odtis ali grafično geslo</string>
-     <string name="fingerprint_again_identified_msg_pin">Funkcija prstnih odtisov je obnovljena. Za odklepanje lahko uporabite prstni odtis ali digitalno geslo</string>
+  <string name="fingerprint_again_identified_msg_password">"Prstni odtis je aktiven.
+Za odklepanje lahko uporabite prstni odtis ali geslo."</string>
+    <string name="fingerprint_again_identified_msg_pattern">"Prstni odtis je aktiven.
+Za odklepanje lahko uporabite prstni odtis ali vzorec."</string>
+    <string name="fingerprint_again_identified_msg_pin">"Prstni odtis je aktiven.
+Za odklepanje lahko uporabite prstni odtis ali PIN."</string>
   <string name="fingerprint_dialog_touch_sensor">Pritisnite senzor prstnega odtisa</string>
   <string name="fingerprint_enter_second_psw_msg">Vnesite geslo Drugega prostora po ponovnem zagonu da boste lahko uporabili prepoznavanje prstnega odtisa</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">"Ne morem vstopiti v Drugi prostor v Lite načinu"</string>
@@ -1040,9 +1043,12 @@ Izbor"</string>
   <string name="fingerprint_lockout_msg">Počakajte minuto, potem pa spet poskusite</string>
   <string name="fingerprint_not_identified_msg">"Preveč neuspelih poskusov. vpišite geslo ali uporabite prstni odtis.”</string>
   <string name="fingerprint_not_identified_msg_lock">Preveč neuspelih poskusov. Vpišite geslo.</string>
-     <string name="fingerprint_not_identified_msg_password">Preverjanje prstnih odtisov ni uspelo v največ možnih poskusih, poskusite znova pozneje ali za zaklepanje uporabite zapleteno geslo</string>
-     <string name="fingerprint_not_identified_msg_pattern">Ne preverjajte prstni odtis v največ možnih poskusih, poskusite znova pozneje ali za izvedbo uporabite grafično geslo</string>
-     <string name="fingerprint_not_identified_msg_pin">Preverjanje prstnih odtisov ni uspelo v največ možnih poskusih. Poskusite znova pozneje ali za izvedbo uporabite digitalno geslo</string>
+     <string name="fingerprint_not_identified_msg_password">"Preveč neuspelih poskusov.
+Vnesite geslo za odklepanje."</string>
+    <string name="fingerprint_not_identified_msg_pattern">"Preveč neuspelih poskusov.
+Narišite vzorec za odklepanje."</string>
+    <string name="fingerprint_not_identified_msg_pin">"Preveč neuspelih poskusov.
+Vnesite PIN za odklepanje."</string>
   <string name="fingerprint_not_identified_title">"Vpišite geslo"</string>
   <string name="fingerprint_not_recognized">Odtis ni prepoznan</string>
   <string name="fingerprint_try_again_msg">"Ne morem potrditi prstnega odtisa, poskusite ponovno."</string>
@@ -1320,6 +1326,7 @@ prednostno"</string>
      <string name="keyguard_indication_trust_unlocked_plugged_in">"%1$s
 %2$s"</string>
   <string name="keyguard_instructions_when_pattern_disabled">Pritisnite meni za odklep.</string>
+  <string name="keyguard_invalid_sim_puk_hint">PUK mora vsebovati %1$d znakov.</string>
   <string name="keyguard_left_bankcard">Kalkulator</string>
   <string name="keyguard_left_buscard">Beležke</string>
   <string name="keyguard_left_calculator">Kalkulator</string>

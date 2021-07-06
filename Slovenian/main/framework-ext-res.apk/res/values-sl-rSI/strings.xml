@@ -157,6 +157,12 @@
   <string name="international_livetalk_enable">Uporabite doplačilo paketa za mednarodne klice</string>
   <string name="key_btn_ok">V redu</string>
   <string name="key_btn_space">Presledek</string>
+     <string name="keyboard_identity_reject_confirm">Razumem</string>
+     <string name="keyboard_identity_reject_message">"Kaže, da tipkovnica ni združljiva s to napravo."</string>
+     <string name="keyboard_identity_transfer_error_message">"Tipkovnice ni bilo mogoče povezati. Poskusite ponovno."</string>
+     <string name="keyboard_upgrade_failed">"Tipkovnice ni bilo mogoče posodobiti"</string>
+     <string name="keyboard_upgrade_start">Posodabljanje tipkovnice…</string>
+     <string name="keyboard_upgrade_success">Tipkovnica je bila uspešno posodobljena</string>
      <string name="knock_gesture_v">nič</string>
      <string name="knock_long_press_horizontal_slid">nič</string>
      <string name="knock_slide_shape">nič</string>

@@ -260,6 +260,10 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
   <string name="HIPS_Perm_install_shortcut_Desc">Dodati bližnjico na začetni zaslon</string>
   <string name="HIPS_Perm_mediaVolume">Nastavljati glasnost predstavnosti</string>
   <string name="HIPS_Perm_mediaVolume_Desc">Omogočiti aplikaciji da prilagodi glasnost predstavnosti</string>
+     <string name="HIPS_Perm_operator_get_phonenumbner">Dostop do telefonske številke za prijavo</string>
+     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Za prijavo pridobite telefonsko številko od operaterja</string>
+     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Če se zdaj niste mogli prijaviti z enim dotikom, se vrnite na stran za prijavo in poskusite znova."</string>
+     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Ta aplikacija želi od operaterja pridobiti vašo telefonsko številko za prijavo. Dovolite?</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>
   <string name="HIPS_Perm_process_nfc_Desc">Dostop do Near Field Communication (NFC) strojne opreme</string>
   <string name="HIPS_Perm_process_outgoing_calls">Dostop do aplikacije Telefon</string>

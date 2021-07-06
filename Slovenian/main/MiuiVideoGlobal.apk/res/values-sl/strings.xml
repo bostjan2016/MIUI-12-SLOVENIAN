@@ -112,6 +112,7 @@
     <string name="auto_play_next_off">Samodejno predvajanje je izklopljeno</string>
     <string name="auto_play_next_on">Samodejno predvajanje je vklopljeno</string>
     <string name="back_to_mainpage">Odkrij</string>
+     <string name="background_playback_enabled">Predvajanje v ozadju je vklopljeno</string>
     <string name="before_yestoday">Pred 2 dnevoma</string>
   <string name="bind_sign_in_title">Dodaj Mi račun</string>
      <string name="brvah_app_name">Knjižnica</string>

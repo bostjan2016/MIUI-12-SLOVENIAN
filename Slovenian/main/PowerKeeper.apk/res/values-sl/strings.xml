@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
-  <string name="about_extreme_mode">Ekstremn varčevanje baterije</string>
+  <string name="about_extreme_mode">Ekstremno varčevanje baterije</string>
   <string name="about_hide_mode">O varčevanju baterije</string>
      <string name="accessibility_service_description">Pametno varčevanje baterije</string>
   <string name="action_bar_delete">Izbriši</string>
@@ -297,6 +297,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="sleep_config_enhance_description">Kadar MIUI odkrije da spite bo zaprl aplikacije v ozadju, omejil NFC, Bluetooth, GPS, mobilne podatke in WiFi, ravno tako pa ne bo vklopil ekran pri obvestilih</string>
   <string name="sleep_config_enhance_description_non_nfc">"Kadar MIUI odkrije da spite bo zaprl aplikacije v ozadju, Bluetooth, GPS, mobilne podatke in WiFi, ravno tako pa ne bo vklopil ekran pri obvestilih."</string>
   <string name="sleep_config_enhance_title">Način mirovanja</string>
+  sleep_config_enhance_description_pad">"Kadar MIUI odkrije da spite bo zaprl aplikacije v ozadju, Bluetooth, GPS, mobilne podatke in WiFi, ravno tako pa ne bo vklopil ekran pri obvestilih."</string>
   <string name="sleepmode_disclaimer_agree">Strinjam se</string>
   <string name="sleepmode_disclaimer_cancel">Prekini</string>
   <string name="sleepmode_privacy_content">To opravilo bo uporabljalo podatke o sistemu naprave in podatke o napravi. Podatki ne bodo prenešeni na strežnik</string>

@@ -3295,6 +3295,11 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
     <string name="enable_gnss_raw_meas_full_tracking_summary">Spremljaj vse razmestitve in frekvence GNSS brez ciklov</string>
     <string name="enable_gpu_debug_layers">Omog. sloje odpr. nap. GPE</string>
     <string name="enable_gpu_debug_layers_summary">Aplikacijam za odpravljanje napak dovoli nalaganje slojev za odpravljanje napak GPE</string>
+     <string name="enable_local_backup">Vklopi</string>
+     <string name="enable_local_backup_cancel">Prekliči</string>
+     <string name="enable_local_backup_message">Vklopite to storitev, da lahko varnostne kopije shranjujete v tej napravi in jih kopirate v računalnik ali pomnilniško napravo USB. Vklopim zdaj?</string>
+     <string name="enable_local_backup_ok">V redu</string>
+     <string name="enable_local_backup_title">Lokalne varnostne kopije</string>
     <string name="enable_mms_notification_channel_title">Sporočilo MMS</string>
     <string name="enable_mms_notification_summary">Dotaknite se za uporabo sporočil MMS v omrežju %1$s, ko je prenos podatkov v mobilnem omrežju izklopljen</string>
   <string name="enable_mobile_data_when_opening_hotspot">Vklopim tudi podatkovno povezavo?</string>
@@ -4791,6 +4796,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
   <string name="local_backup_section_summary_new">Napravite var. kopijo računa, podatkov aplikacij, nastavitev sistema in še veliko drugega</string>
   <string name="local_backup_section_title">Lokalne var. kopije</string>
   <string name="local_backup_section_title_new">Lokalna shramba</string>
+     <string name="local_backup_usestatus_title">Lokalne var. kopije so izklopljene</string>
   <string name="local_backup_window_title">Lokalna var. kopija</string>
   <string name="local_home_title">Lokalne var. kopije</string>
   <string name="local_no_backup">Ni varnostnih kopij.</string>
@@ -5124,6 +5130,7 @@ kot PIN za Prvi prostor"</string>
   <string name="login_account_dialog_message">Prijavite se z Mi Računom in vključite sinhronizacijo z Mi Cloudom.</string>
   <string name="login_account_dialog_title">Prijavite se z Mi Računom</string>
   <string name="login_account_summary">Urejanje računov, storitev v oblaku, plačil in še mnogo drugega</string>
+     <string name="login_account_summary_temp">Urejanje računov, storitev v oblaku in še mnogo drugega</string>
   <string name="login_action">Prijavite se</string>
   <string name="login_failed">"Prijava ni uspela. Poskusite ponovno."</string>
   <string name="logining">Prijava…</string>
@@ -5374,6 +5381,7 @@ Tega dejanja ne moreš preklicati!"</string>
   <string name="mi_transfer">Mi Mover</string>
   <string name="mi_upi_settings">Mi Pay račun</string>
   <string name="micloud_service_summary">Sinhronizirajte seznam aplikacij in ustvarite var. kopijo sistemskih nastavitev in videza zač. zaslon</string>
+     <string name="micloud_service_summary_temp">Sinhronizirajte fotografije, videoposnetke, stike in še več</string>
   <string name="micloud_service_title">Mi Cloud</string>
   <string name="middle_function_key">Osrednje področje</string>
      <string name="midnight">Noč</string>
