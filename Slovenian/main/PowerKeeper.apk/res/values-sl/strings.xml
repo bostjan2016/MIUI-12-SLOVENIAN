@@ -118,7 +118,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="hide_system_app">Skrij aplikacije sistema</string>
   <string name="high">Zmogljivost</string>
      <string name="high_temp_benchmark_state">Pregrevanje</string>
-     <string name="high_temp_benchmark_state_message">Naprava se pregreva. Poskusite pozneje, ko se naprava ohladi./string>
+     <string name="high_temp_benchmark_state_message">Naprava se pregreva. Poskusite pozneje, ko se naprava ohladi.</string>
   <string name="high_temp_state">Pregrevanje</string>
   <string name="high_temp_state_message">Vaša naprava se pregreva. Mobilni podatki, WiFi hotspoti, GPS in kamera bodo omejeni.</string>
   <string name="hints_loading_text">Nalaganje…</string>
