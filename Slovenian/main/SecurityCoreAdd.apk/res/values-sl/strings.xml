@@ -477,6 +477,8 @@ Umaknite in zavarujte svoje podatke."</string>
   <string name="settings_notification_and_switch_second_space">Nastavitve Drugega prostora</string>
   <string name="settings_notification_from_owner_space_title">Pokaži obvestila iz Prvega prostora</string>
   <string name="settings_notification_from_second_space_title">Pokaži obvestila iz Drugega prostora</string>
+     <string name="settings_notification_second_space_show_in_locked_summary">Pokaži obvestila iz drugega prostora na zaklenjenem zaslonu</string>
+     <string name="settings_notification_second_space_show_in_locked_title">Pokaži obvestila na zaklenjenem zaslonu</string>
   <string name="settings_second_space_entrance_summary">Pokaži bližnjico Drugega prostora v Nastavitvah</string>
   <string name="settings_second_space_entrance_title">Bližnjica v nastavitvah</string>
   <string name="settings_set_password_for_owner_space">Nastavi Zaklepanje zaslona v Prvem prostoru</string>

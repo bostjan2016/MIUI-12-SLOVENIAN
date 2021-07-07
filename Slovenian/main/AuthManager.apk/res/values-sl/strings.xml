@@ -589,6 +589,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" nima dovoljenja za %2$s. Dovoljenja aplikacij lahko spreminjate v Aplikacije &gt; Dovoljenja."</string>
   <string name="permisson_reject_notice_toast_text2">"nima dovoljenja za %1$s."</string>
      <string name="pm">PM</string>
+     <string name="pp_privacy_lab_operator_introduction">Pozor</string>
      <string name="real_location_off">Približna lokacija je vključena</string>
      <string name="real_location_on">Približna lokacija je izključena</string>
      <string name="saturday">Sobota</string>

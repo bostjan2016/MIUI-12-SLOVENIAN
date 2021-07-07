@@ -44,7 +44,7 @@ Ga želite omogočiti za NFC storitev"</string>
   <string name="pay_with">Plačaj z aplikacijo</string>
   <string name="permdesc_nfcReceiveEvent">Aplikaciji omogoča sprejemanje informacij o izvršenih transakcijah NFC-a</string>
   <string name="permlab_nfcReceiveEvent">Osveščenost o NFC transakcijah</string>
-  <string name="prompt_connect_to_network">Želitevzpostaviti povezavo z omrežjem %1$s?</string>
+  <string name="prompt_connect_to_network">Želite vzpostaviti povezavo z omrežjem %1$s?</string>
   <string name="status_unable_to_connect">Povezave z omrežjem ni mogoče vzpostaviti</string>
   <string name="status_wifi_connected">Povezava je vzpostavljena</string>
   <string name="tap_again_to_complete">Znova se dotaknite, da dokončate z aplikacijo %1$s</string>

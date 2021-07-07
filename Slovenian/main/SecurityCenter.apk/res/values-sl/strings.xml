@@ -720,6 +720,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="applock_no_account_login">"Niste prijavljeni v svoj Mi Račun"</string>
   <string name="applock_not_add_account">Ne zdaj</string>
   <string name="applock_not_login_account">"Niste prijavljeni"</string>
+     <string name="applock_numeric_pwd_type_line">Skupno število znakov v geslu: %1$d. Vnešeno: %2$d.</string>
   <string name="applock_operate_faceunlock_summary">Odklenite aplikacije enostavno z gledanjem v zaslon</string>
   <string name="applock_operate_faceunlock_title">Uporabite obraz</string>
   <string name="applock_operate_fingerprint_summary">Zakl. aplikacij podpira dodajanje več prstnih odtisov</string>
@@ -3089,7 +3090,10 @@ To skrajšuje trajanje baterije."</string>
   <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh ostalo</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm ostalo</string>
      <string name="pc_performance_mode_dialog_summary">Vaša naprava bo lahko v načinu zmogljivosti delovala %s. Upoštevajte, da ta način delovanja poveča porabo energije in lahko povzroči pregrevanje.</string>
+     <string name="pc_performance_mode_dialog_summary2">Zmogljivost naprave se bo izboljšala. To lahko poveča porabo energije in povzroči težave s pregrevanjem. Vseeno vklopim?</string>
      <string name="pc_performance_mode_dialog_title">Način zmogljivost</string>
+     <string name="pc_performance_mode_noti_summary">Način zmogljivost lahko poveča porabo energije in povzroči težave s pregrevanjem</string>
+     <string name="pc_performance_mode_noti_title">Izboljšana zmogljivost naprave</string>
   <string name="pc_search_keywords_battery">Baterija</string>
   <string name="pc_search_keywords_battery_save">Varčevanje baterije</string>
   <string name="pc_search_keywords_battery_use">Uporaba baterije</string>
@@ -3615,6 +3619,8 @@ To skrajšuje trajanje baterije."</string>
      <string name="power_wireless_update_notification_title">Posodobitev brezžičnega polnjenja</string>
      <string name="power_wireless_update_text">Ni posodobitev</string>
      <string name="power_wireless_update_tv_text">"Posodabljanje vdelane programske opreme. Ne izklopite naprave."</string>
+     <string name="pp_anti_track_summary">"Ne dovolite sledenja vaši dejavnosti"</string>
+     <string name="pp_antitrack_detail">Aplikacije lahko spremljajo vašo dejavnost prek osebnih identifikatorjev, informacij o lokaciji in drugih vrst osebnih podatkov, ki jih delijo z njimi. Sledenje vaši dejavnosti v različnih aplikacijah in spletnih mestih jim omogoča, da prilagodijo oglase in vam priporočijo ustrezno vsebino.</string>
      <string name="pp_app_behavior_record_detail">Zabeleži vsa vedenja aplikacij</string>
      <string name="pp_app_del_img_intercept_detail">Prejemajte obvestila, ko aplikacije izbrišejo stvari iz galerije brez vašega dovoljenja</string>
      <string name="pp_app_gets_dangerous_permission_reminder">Prejemajte obvestila, ko aplikacije uporabljajo dovoljenja z visokim tveganjem</string>
@@ -3626,6 +3632,8 @@ To skrajšuje trajanje baterije."</string>
      <string name="pp_app_reads_clipboard_smart_reminder_detail">"MIUI se bo odločil, ali lahko aplikacije dostopajo do odložišča. Ko to storijo, boste prejeli obvestilo."</string>
      <string name="pp_app_warning_permission_tips">Prejemajte obvestila o vedenju aplikacij</string>
      <string name="pp_app_warning_permission_tips_detail">Prejemajte obvestila, ko aplikacije dostopajo do vaše lokacije, snemajo zvok ali uporabljajo kamero</string>
+     <string name="pp_block_mac">Omeji dostop do naslova MAC</string>
+     <string name="pp_block_mac_summary">Dostop do vašega naslova MAC je privzeto omejen za vse aplikacije.</string>
      <string name="pp_call_phone_msg">Zgodovina klicev</string>
      <string name="pp_capability_approved_title">"Naše ukrepe za zaščito zasebnosti so preizkusili in potrdili vodilni strokovnjaki v tej panogi."</string>
      <string name="pp_chain_start_is_prohibited">Omeji verižni začetek</string>
@@ -3642,14 +3650,19 @@ To skrajšuje trajanje baterije."</string>
      <string name="pp_hide_app_form_desktop">Odstranite ikone aplikacij z začetnega zaslona</string>
      <string name="pp_icon_layout_status_bg_content_enable">Zaščiteno</string>
      <string name="pp_icon_layout_status_bg_content_unable">Izključeno</string>
+     <string name="pp_identifier_protection">Zaščitite osebne identifikatorje</string>
      <string name="pp_interception_net_visit_content_manager">Zaščitite galerijo in aplikacije za družabna omrežja</string>
      <string name="pp_interception_net_visit_content_manager_detail">Izberite, katerim aplikacijam je dovoljen dostop do vaših fotografij, videoposnetkov in zgodovine klepetov</string>
      <string name="pp_local_msg">Informacije o lokaciji</string>
      <string name="pp_manage_apps_location_information">Dovolite aplikacijam dostop do vaše lokacije</string>
+     <string name="pp_manage_track">Nadzirajte sledilce</string>
+     <string name="pp_manage_track_summary">Zaznaj in onemogoči različne vrste sledilcev, vdelane v aplikacije. Takšni sledilci lahko delijo vaše osebne identifikatorje tako, da dostopajo do elementov in jih shranjujejo v notranji pomnilnik ali uporabljajo SDK v skupni rabi za sledenje vaši dejavnosti.</string>
      <string name="pp_one_app_two_use">Uporabite dva računa brez odjave</string>
      <string name="pp_one_phone_two_space">Uporabite eno napravo kot dve</string>
      <string name="pp_only_allow_permission_during_this_run">Dovoli aplikacijam, da enkrat uporabljajo dovoljenja</string>
      <string name="pp_only_allow_permission_during_this_run_detail">Dovoljenja, povezana z lokacijo, snemanjem zvoka in stiki, lahko dovolite samo enkrat. Ta dovoljenja bodo kmalu po zaprtju aplikacije ponovno omejena.</string>
+     <string name="pp_operator_get_number">Zahtevaj odobritev dostopa do telefonske številke</string>
+     <string name="pp_operator_get_number_summary">Aplikacije bodo zahtevale vaše dovoljenje, ko bodo želele dostopati do vaše telefonske številke za prijavo.</string>
      <string name="pp_optional_protection_function">Neobvezni zaščitni ukrepi</string>
      <string name="pp_permission_action_virtual_detail">Dodelite dovoljenja, vendar aplikacijam namesto osebnih podatkov dajte prazne datoteke</string>
      <string name="pp_permission_settings">Dovoljenja</string>
@@ -3658,6 +3671,10 @@ To skrajšuje trajanje baterije."</string>
      <string name="pp_privacy_lab_blur_location_summary">Osebno prilagodite podatke o svoji lokaciji, tako da lahko aplikacije dostopajo do vaše približne lokacije</string>
      <string name="pp_privacy_lab_clipboard">Zaščitite odložišče</string>
      <string name="pp_privacy_lab_clipboard_summary">Dovolite MIUI, da se odloči, ali lahko aplikacija dostopa do odložišča in ob tem prejema obvestila</string>
+     <string name="pp_privacy_lab_operator_get_number">Zahtevaj odobritev dostopa do telefonske številke</string>
+     <string name="pp_privacy_lab_operator_get_number_summary">Zahtevaj, da aplikacije vprašajo za vaše dovoljenje, ko želijo dostopati do vaše telefonske številke za prijavo</string>
+     <string name="pp_privacy_lab_operator_introduction">Pozor</string>
+     <string name="pp_privacy_lab_operator_introduction_summary">"Aplikacije lahko shranijo vašo telefonsko številko, če je bila prej pridobljena. Če spremenite to dovoljenje, ne boste izbrisali prej pridobljenih telefonskih številk."</string>
      <string name="pp_privacy_protection">Zaščita</string>
      <string name="pp_privacy_protection_function">Storitve zaščite zasebnosti</string>
      <string name="pp_privacy_protection_lab">Laboratorij za zaščito zasebnosti</string>
@@ -3685,6 +3702,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="pp_storage_msg">Shramba</string>
      <string name="pp_understanding_privacy">Ozaveščenost</string>
      <string name="pp_virtual_identity_manager">Virtualna ID</string>
+     <string name="pp_virtual_identity_summary">Virtualna ID (OAID) je lahko posredovana namesto pravega identifikatorja. Ščiti vašo zasebnost in vam omogoča nadzor nad tem, kako aplikacije sledijo vašemu vedenju.</string>
   <string name="pref_about">O aplikaciji</string>
   <string name="pref_about_traffic_title">Nastavitve porabe podatkov</string>
   <string name="pref_add_traffic_pkg">Dodatno kupljeni podatki</string>
@@ -4023,7 +4041,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_search_key_5">Posebna dovoljenja</string>
   <string name="privacy_search_key_6">Obvestila dovoljenj</string>
   <string name="privacy_search_key_7">Podatki o lokaciji</string>
-  <string name="privacy_search_key_8">Maska zasebnosti</string>
+  <string name="privacy_search_key_8">Brez sledenja</string>
   <string name="privacy_search_key_9">Virtualna ID</string>
      <string name="privacy_show_other_permissions">Pokaži druga dovoljenja</string>
   <string name="privacy_show_password">Pokaži geslo</string>

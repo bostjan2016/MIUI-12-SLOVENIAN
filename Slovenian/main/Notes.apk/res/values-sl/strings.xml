@@ -332,6 +332,7 @@ Tapnite + da napravite mapo"</string>
   <string name="hide_arrow_description">Skrij</string>
   <string name="hint_cannot_view_hidden_note_content">"Ne morem pregledati vsebine v skritih beležkah"</string>
   <string name="hint_foler_name">Ime</string>
+     <string name="hybrid_provider">Ponuja %1$s</string>
   <string name="image_action_annotate">Dodaj opis slike</string>
   <string name="image_action_browse">Pokaži sliko</string>
   <string name="image_action_delete">Izbriši sliko</string>
@@ -455,6 +456,7 @@ Tapnite + da napravite mapo"</string>
   <string name="new_audio_create_talkback_des">Pritisnite za ustvarinje tekstne beležke. Pritisnite in držite za ustvarjanje zvočne beležke. Spustite tipko da ustavite snemanje in napravite beležko ali podrajte gor da prekličete.</string>
      <string name="new_data_empty_note">Tu ni ničesar</string>
   <string name="night">PM</string>
+     <string name="no_network">"Ne morem se povezati na omrežje"</string>
   <string name="noon">PM</string>
   <string name="not_now">Ne zdaj</string>
   <string name="not_set">Ni nastavljeno</string>
@@ -810,6 +812,9 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
      <string name="view_all_notes">Pokaži vse</string>
+     <string name="web_sso_login_fail">Ponovno se prijavite</string>
+     <string name="web_sso_login_message">Prijava…</string>
+     <string name="webview_reload">Poskusi znova</string>
   <string name="wednesday">Sreda</string>
   <string name="wednesday_short">Sre</string>
   <string name="wednesday_shortest">S</string>
