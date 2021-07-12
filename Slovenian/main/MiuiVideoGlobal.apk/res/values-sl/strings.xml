@@ -1482,6 +1482,7 @@ Izboljša varnost vašega računa."</string>
     <string name="video_download_fail">"Ne morem prenesti videoposnetka"</string>
      <string name="video_download_fail_hint">"Ne morem prenesti"</string>
      <string name="video_download_floating_guide">Prenesite videe zastonj</string>
+     <string name="video_download_folder_title">Mi Video prenosi</string>
      <string name="video_download_forbidden">"Ne morem prenesti iz te spletne strani"</string>
      <string name="video_download_login_guide">Vpišite se v %s za prenos</string>
      <string name="video_download_network_error">Napaka omrežja</string>

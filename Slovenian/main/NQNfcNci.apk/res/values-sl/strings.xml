@@ -29,7 +29,7 @@
   <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="accessibility_nfc_enabled">NFC omogočen.</string>
     <string name="action_bluetooth_pair">Seznani</string>
-    <string name="action_confirm_url_open">Odpri</string>
+    <string name="action_confirm_url_open">Odpri povezavo</string>
     <string name="action_connect_network">Poveži</string>
     <string name="action_create_contact">Napravi</string>
     <string name="action_dial_number">Kliči</string>
@@ -40,7 +40,7 @@
     <string name="action_open_tag">Preberi oznake</string>
     <string name="action_sms">Pošlji</string>
     <string name="android_beam">Android Beam</string>
-  <string name="app_name">Storitev NFC</string>
+  <string name="app_name">Storitev Nfc</string>
   <string name="ask_nfc_tap">Dotaknite se druge naprave, če želite dokončati</string>
   <string name="beam_busy">Android Beam je trenutno zaseden. Poskusite znova ko se konča trenutni prenos.</string>
   <string name="beam_canceled">Prenos je preklican</string>
@@ -49,8 +49,9 @@
   <string name="beam_handover_not_supported">Prejemnikova naprava ne podpira prenosa velikih datotek.</string>
   <string name="beam_outgoing">Prenašanje...</string>
   <string name="beam_progress">Dohodni prenos...</string>
-    <string name="beam_requires_external_storage_permission">Dovolite tej aplikaciji dostop do zunanjega pomnilnika, da bo lahko oddajala to datoteko.</string>
-  <string name="beam_requires_nfc_enabled">Za Android Beam mora biti omogočen NFC. Ali ga želite omogočiti?</string>
+    <string name="beam_requires_external_storage_permission">Aplikacija nima dovoljenja za zunanje shranjevanje. To je potrebno za prenos te datoteke.</string>
+  <string name="beam_requires_nfc_enabled">Za Android Beam mora biti omogočen NFC. Ali dovolite?</string>
+     <string name="beam_tap_to_view">Tapnite za prikaz</string>
   <string name="beam_touch_to_view">Dotaknite se za prikaz</string>
   <string name="beam_try_again">Znova združi naprave</string>
   <string name="cancel">Prekliči</string>

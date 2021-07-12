@@ -1247,6 +1247,7 @@ Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a 
 - Lokalni predvajalnik zvoka
 
 - Spletne storitve pretakanja"</string>
+     <string name="privacy_request_subtitle_offline">Dobrodošli v Mi glasbo! Ta aplikacija ponuja lokalni predvajalnik zvočnih datotek.</string>
      <string name="privacy_request_title">Pogoji in pravila</string>
   <string name="privacy_tip_cancel">Prekini</string>
   <string name="privacy_tip_content">"Uporabim Xunlei Accelerator za pospešek prenosa? Povetava lastnika prenosa bo prenešena na Xunlei strežnik. Podrobnosti vašega Mi Računa bodo prenešene zaradi kontrole naročenine na storitev."</string>

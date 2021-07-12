@@ -5336,6 +5336,12 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="unlock_set_unlock_pattern_title">Vzorak</string>
   <string name="unlock_set_unlock_pin_summary">Vnesite 4 znake</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
+     <string name="untrust_app_perm_install_list">Omogočite dostop do seznama aplikacij, nameščenih v tej napravi</string>
+     <string name="untrust_app_perm_network">Dovolite povezavo z omrežjem</string>
+     <string name="untrust_app_perm_notification">Dovolite obvestila</string>
+     <string name="untrust_app_perm_oaid">Omogočite dostop do navideznega ID-ja</string>
+     <string name="untrust_app_perm_title">Aplikacija iz neznanega vira</string>
+     <string name="untrust_app_perm_warn">Ta aplikacija prihaja iz neznanega vira in lahko predstavlja varnostno tveganje. Spodaj navedena dovoljenja lahko uporabi za ogrožanje vaše zasebnosti. Ta dovoljenja podelite po skrbnem premisleku.</string>
   <string name="updating_diagnostic_botton">Analiza podatkov…</string>
   <string name="usage_sorted_activity_lable">Poraba podatkov</string>
   <string name="usage_sorted_empty_text">Prazno</string>

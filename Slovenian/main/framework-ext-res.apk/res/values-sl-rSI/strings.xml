@@ -372,6 +372,10 @@
   <string name="translation_more">Več</string>
   <string name="translation_query_error">"Ne morem najti rezultatov"</string>
   <string name="translation_query_error_network">"Ne morem se povezati na omrežje. Preverite nastavitve in poskusite znova"</string>
+     <string name="trial_mode_dialog_button_cancel">Prekliči</string>
+     <string name="trial_mode_dialog_button_save">Shrani</string>
+     <string name="trial_mode_dialog_message">\"%s\" se izvaja v preskusnem načinu. Ponovni zagon naprave ali preklop v način Hitrost svetlobe bo to igro izbrisal. Shranite igro v notranji pomnilnik?</string>
+     <string name="trial_mode_dialog_title">Preskusni način</string>
   <string name="turn_off">Izključi</string>
      <string name="turn_on_work_profile">Vključi</string>
   <string name="twohours">1 ura</string>

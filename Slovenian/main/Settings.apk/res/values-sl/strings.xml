@@ -744,6 +744,7 @@ Spremenim nastavitve?"</string>
     <string name="app_special_disable_dlg_text">Če onemogočite to aplikacijo, druge aplikacije morda ne bodo več delovale kot bi morale. Poleg tega bodo vaši podatki izbrisani.</string>
   <string name="app_special_disable_dlg_title">Ali želite izbrisati podatke in onemogočiti aplikacijo?</string>
   <string name="app_switch_key">Nedavno</string>
+     <string name="app_uninstall_sounds_enable_title">Predvajaj zvok pri odstranjevanju aplikacij</string>
     <string name="app_usage_cycle">Cikel porabe podatkov aplikacije</string>
   <string name="app_usage_preference">Nastavitve uporabe aplikacije</string>
   <string name="app_version">Različica</string>
@@ -2130,7 +2131,11 @@ Ko napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dv
      <string name="color_game_led_applications_title_summary">Izberite posamezne aplikacije, ki bodo delovale z LED lučko</string>
      <string name="color_game_led_battery_title">Imejte vključeno med polnjenjem</string>
      <string name="color_game_led_charging_summary">LED lučka bo izključena ko se baterija napolni</string>
+     <string name="color_game_led_color_title">Barva lučke</string>
      <string name="color_game_led_end_time">Konec</string>
+     <string name="color_game_led_feature_off">Izklj.</string>
+     <string name="color_game_led_feature_on">Vklj.</string>
+     <string name="color_game_led_freq_title">Frekvenca utripanja</string>
      <string name="color_game_led_game_mode_summary">Pokaži efekte za igre ko je Game Turbo vključen</string>
      <string name="color_game_led_game_mode_title">Uporabi za Game Turbo</string>
      <string name="color_game_led_incall_pulse_title">Uporabi za dohodne klice</string>
@@ -4974,6 +4979,7 @@ Nastavite lahko novo zaklepanje zaslona za napravo in delovni profil. Pravilniki
   <string name="lock_settings_title">Varnost naprave</string>
   <string name="lock_settings_with_fingerprint">Zakl. zaslon &amp; geslo</string>
   <string name="lock_setup">Namestitev je končana.</string>
+     <string name="lock_sound_effect_enable_title">Predvajaj zvok ob zaklepanju naprave</string>
   <string name="lock_sounds_enable_title">Zvoki zaklepanja zaslona</string>
     <string name="lockdown_settings_summary">Prikaz možnosti gumba za vklop, s katero izklopite opravilo Smart Lock, odklepanje s prstnimi odtisi in obvestila na zaklenjenem zaslonu</string>
     <string name="lockdown_settings_title">Prikaz možnosti za zaklep</string>
@@ -10151,6 +10157,7 @@ Iz profila bodo prav tako odstranjeni shranjeni prstni odtisi, tako da z njimi n
     <string name="unlock_set_unlock_pin_title">Koda PIN</string>
   <string name="unlock_set_unlock_summary">Nastavi zaklepanje zaslona</string>
   <string name="unlock_setup_wizard_fingerprint_details">Ko nastavite zaklepanje zaslona lahko tudi nastavite prstni odtis v »Nastavitve &gt; Varnost«.</string>
+     <string name="unlock_sound_effect_enable_title">Predvajaj zvok ob odklepanju naprave</string>
   <string name="unlock_type_category_title">Metoda prepoznavanja</string>
   <string name="unlogin_account_summary">Vse Mi storitve. En Mi Račun</string>
   <string name="unlogin_account_title">Prijavite se v Mi Račun</string>
