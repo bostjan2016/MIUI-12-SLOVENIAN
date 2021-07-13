@@ -34,10 +34,12 @@
      <string name="bottom_bar_smallwindow_text">Sprostite za pripenjanje</string>
      <string name="close">Zapri</string>
   <string name="contentDescription">Pomikanje oken</string>
+     <string name="copy">Kopiraj</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="early_morning">Jutro</string>
      <string name="evening">Večer</string>
+     <string name="expand_button_title">Napredno</string>
      <string name="fmt_date">D</string>
      <string name="fmt_date_day">dd</string>
      <string name="fmt_date_long_month">MMMM</string>
@@ -184,7 +186,9 @@
      <string name="morning">Jutro</string>
      <string name="night">Večer</string>
      <string name="noon">Poldne</string>
+     <string name="not_set">Ni nastavljeno</string>
      <string name="pm">PM</string>
+     <string name="preference_copied">\"%1$s\" kopiran-o v odložišče.</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>
@@ -204,6 +208,8 @@
   <string name="tuesday">Torek</string>
   <string name="tuesday_short">Tor</string>
   <string name="tuesday_shortest">T</string>
+     <string name="v7_preference_off">IZKLJUČENO</string>
+     <string name="v7_preference_on">VKLJUČENO</string>
   <string name="wednesday">Sreda</string>
   <string name="wednesday_short">Sre</string>
   <string name="wednesday_shortest">S</string>

@@ -8618,6 +8618,17 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
     <string name="shared_data_title">Deljeni podatki</string>
   <string name="sharing_remote_bugreport_dialog_message">To poročilo o programski napaki je v skupni rabi z vašim IT skrbnikom. Več podrobnisti lahko izveste od skrbnika.</string>
     <string name="short_summary_font_size">Pomanjšava ali povečava besedila</string>
+     <string name="shoulder_key_game_light_settings">Svetlobni učinek prizora igre</string>
+     <string name="shoulder_key_settings">Virtualne tipke</string>
+     <string name="shoulder_key_settings_title">Nastavitve virtualnih tipk</string>
+     <string name="shoulder_key_sound_settings">Zvočni efekti virtualnih tipk</string>
+     <string name="shoulder_key_sound_switch_title">Zvočni efekti virtualnih tipk</string>
+     <string name="shoulder_key_sound_text_bullet">Krogla naložena</string>
+     <string name="shoulder_key_sound_text_current">Prebujanje prihodnosti</string>
+     <string name="shoulder_key_sound_text_sword">Meč luči</string>
+     <string name="shoulder_key_sound_text_wind">Dirkalni motor</string>
+     <string name="shoulder_key_switch_status_close">Izključeno</string>
+     <string name="shoulder_key_switch_status_open">Vključeno</string>
     <string name="show_all_anrs">Pokaži ANR-je v ozadju</string>
   <string name="show_all_anrs_summary">Pokaži dialog \"Aplikacija se ne odziva\" za aplikacije v ozadju</string>
     <string name="show_all_apps">Prikaz vseh podatkov o uporabi naprave</string>

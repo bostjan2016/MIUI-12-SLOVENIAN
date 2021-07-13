@@ -652,6 +652,7 @@ Tapnite + da napravite mapo"</string>
   <string name="sns_title_send">Pošlji sporočilo</string>
   <string name="sns_toast_empty">"Ne morem poslati praznega sporočila"</string>
   <string name="sns_toast_over_limit">Pošlji kot sliko</string>
+     <string name="splash_note">Pisalo</string>
   <string name="sunday">Nedelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
