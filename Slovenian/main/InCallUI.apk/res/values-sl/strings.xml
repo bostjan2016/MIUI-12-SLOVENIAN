@@ -368,6 +368,8 @@
      <string name="pm">PM</string>
   <string name="private_num">Skrita številka</string>
   <string name="prompt_no_volte_when_failed">"VoLTE storitve niso na voljo."</string>
+     <string name="relay_cal_from_device_name">Od %1$s</string>
+     <string name="relay_call_device_name">Povezana naprava (%1$s)</string>
   <string name="remind_unlock_message">Vaša naprava je zaklenjena. \"%s\ bo na voljo ko odklenete napravo. Odklenem?"</string>
   <string name="respond_via_sms_custom_message">Lastni SMS…</string>
      <string name="saturday">Sobota</string>

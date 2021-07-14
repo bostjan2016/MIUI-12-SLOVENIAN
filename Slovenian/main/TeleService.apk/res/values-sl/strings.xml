@@ -2450,6 +2450,9 @@ Vmesnik UT: %5$s"</string>
   <string name="reject_via_sms">Hitri odgovori</string>
   <string name="reject_via_sms_summary">Pokaži tipke za končanje klica in pošiljanje SMS-a</string>
   <string name="reject_via_sms_title">Hitri odgovori</string>
+     <string name="relay_call_answered_by_other_devices">Ta klic je bil odgovorjen na drugi napravi.</string>
+     <string name="relay_call_released_due_to_connect_lost">Povezava je bila prekinjena. Nadaljujte s klicem na odklopljeni napravi.</string>
+     <string name="relay_connection_service_label">Vgrajeno RELAY klicanje</string>
   <string name="remain_mins_unit">minut</string>
   <string name="remain_mins_unit_plural">minut</string>
   <string name="remain_minutes">Čas pogovora</string>
