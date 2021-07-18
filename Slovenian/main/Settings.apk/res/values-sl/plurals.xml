@@ -149,6 +149,10 @@
         <item quantity="other">še %d dni</item>
         <item quantity="one">še %d dan</item>
     </plurals>
+     <plurals name="color_game_led_freq_entries">
+        <item quantity="other">Vsakih %d sekund</item>
+        <item quantity="one">Vsako %d sekundo</item>
+     </plurals>
 	<plurals name="connected_devices_number">
          <item quantity="other">%d naprav</item>
          <item quantity="one">%d naprava</item>

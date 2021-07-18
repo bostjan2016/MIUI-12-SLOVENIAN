@@ -598,7 +598,7 @@ Open WeChat and go to Me > Settings > General > Var. kopija &amp; premakni pogov
   <string name="prompt_before_transmission_message2_title">"Za naslednje stvari uporabite dvojne aplikacije"</string>
   <string name="prompt_before_transmission_message3_summary">"Predmete iz drugega prostora ni mogoče prenesti zaradi sistemskih omejitev."</string>
   <string name="prompt_before_transmission_message3_title">"Uporabite Drugi prostor"</string>
-  <string name="prompt_before_transmission_message4_summary">"Ne izklopite omrežja WLAN ali preklopite iz enega v drugo omrežje, dokler prenos ni končan."</string>
+  <string name="prompt_before_transmission_message4_summary">"Ne izklopite omrežja WiFi ali preklopite iz enega v drugo omrežje, dokler prenos ni končan."</string>
   <string name="prompt_before_transmission_message4_title">Ostanite povezani ves čas prenosa</string>
   <string name="prompt_before_transmission_message5_summary">"Brezžični prenos velikih količin podatkov lahko povzroči rahlo pregrevanje, kar ni redkost. Vaša naprava se bo kmalu po prenosu ohladila."</string>
   <string name="prompt_before_transmission_message5_title">Vaša naprava se med prenosom lahko segreje.</string>

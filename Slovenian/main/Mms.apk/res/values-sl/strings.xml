@@ -466,7 +466,7 @@
   <string name="imageview_ad">Oglas</string>
   <string name="importing_progress_private_message">Uvažam…</string>
   <string name="in_sms">Sporočilo</string>
-  <string name="installed_google_message_promo_content">Xiaomi priporoča preklop na Google sporočila. Omogoča vam pošiljanje sporočil SMS v omrežju WLAN, skupno rabo visokokakovostnih predstavnosti in še veliko več.</string>
+  <string name="installed_google_message_promo_content">Xiaomi priporoča preklop na Google sporočila. Omogoča vam pošiljanje sporočil SMS v omrežju WiFi, skupno rabo visokokakovostnih predstavnosti in še veliko več.</string>
   <string name="installed_google_message_promo_title">Začnite uporabljati Sporočila</string>
   <string name="insufficient_drm_rights">Zaznane nezadostne DRM pravice.</string>
   <string name="invalid_conversation">Neveljaven pogovor</string>

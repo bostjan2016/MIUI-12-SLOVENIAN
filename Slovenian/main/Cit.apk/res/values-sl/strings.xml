@@ -1246,7 +1246,7 @@ Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
 Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
   <string name="test_spi_chip_id">Chip ID:</string>
      <string name="test_top_mic">Zgornji mikrofon</string>
-     <string name="test_top_speaker">zgornji_zvočnjik</string>
+     <string name="test_top_speaker">zgornji_zvočnik</string>
   <string name="testagain">Lahko pritisnete tipko Domov za ponovno testiranje</string>
   <string name="testing">Zagon AutoTesta…</string>
      <string name="tips_not_placed_right_angle">Telefon ni postavljen pod pravim kotom</string>

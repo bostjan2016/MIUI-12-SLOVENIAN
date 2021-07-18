@@ -3609,6 +3609,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_superpower_title_systemui_lowpower">Priključite polnilec</string>
   <string name="power_wifi">WiFi</string>
      <string name="power_wireless_need_update_text">Posodabljanje…</string>
+     <string name="power_wireless_ubable_update_toast">"Med brezžičnim polnjenjem vdelane programske opreme ni mogoče posodobiti"</string>
      <string name="power_wireless_update_button_text">Posodobi</string>
      <string name="power_wireless_update_dialog_button">Razumem</string>
      <string name="power_wireless_update_dialog_message">Napravo napolnite vsaj do %s, da boste lahko posodabljali vdelano programsko opremo za brezžično polnjenje.</string>

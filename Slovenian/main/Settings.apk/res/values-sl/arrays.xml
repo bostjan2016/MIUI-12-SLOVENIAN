@@ -1535,10 +1535,9 @@
         <item>Velika velikost teksta</item>
         <item>Zelo velika velikost teksta</item>
      </string-array>
-     <string-array name="color_game_led_freq_entries">
-        <item>Vsake dve sekundi</item>
-        <item>Vsake tri sekunde</item>
-        <item>Vsakih pet sekund</item>
+     <string-array name="cdma_system_select_choices">
+        <item>Samo doma</item>
+        <item>Samodejno</item>
      </string-array>
      <string-array name="eap_ocsp_type">
         <item>Ne potrdi</item>

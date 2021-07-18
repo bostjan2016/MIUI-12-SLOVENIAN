@@ -2135,7 +2135,6 @@ Ko napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dv
      <string name="color_game_led_end_time">Konec</string>
      <string name="color_game_led_feature_off">Izklj.</string>
      <string name="color_game_led_feature_on">Vklj.</string>
-     <string name="color_game_led_freq_entries">Vsakih %d sekund</string>
      <string name="color_game_led_freq_title">Frekvenca</string>
      <string name="color_game_led_game_mode_summary">Pokaži efekte za igre ko je Game Turbo vključen</string>
      <string name="color_game_led_game_mode_title">Uporabi za Game Turbo</string>
@@ -9617,7 +9616,7 @@ Googlov pristop k sinhroniziranju podatkov, s katerim lahko dostopate do stikov,
     <string name="tether_settings_summary_hotspot_on_tether_off">Dostopna točka je vklopljena</string>
     <string name="tether_settings_summary_hotspot_on_tether_on">Dostopna točka je vklopljena, spletna povezava preko telefona</string>
     <string name="tether_settings_summary_hotspot_only">Samo dostopna točka</string>
-    <string name="tether_settings_summary_off">Internetna povezava ni deljena z drugimi napravami</string>
+    <string name="tether_settings_summary_off">Spletna povezava ni deljena z drugimi napravami</string>
     <string name="tether_settings_summary_usb_and_bluetooth">USB, Bluetooth</string>
     <string name="tether_settings_summary_usb_and_bluetooth_and_ethernet">USB, Bluetooth, ethernet</string>
     <string name="tether_settings_summary_usb_and_ethernet">USB, ethernet</string>

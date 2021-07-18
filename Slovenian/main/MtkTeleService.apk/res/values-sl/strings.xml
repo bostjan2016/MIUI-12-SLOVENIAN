@@ -1955,7 +1955,7 @@ Preverite spletno povezavo na usmerjevalniku WiFi in se poskusite znova povezati
   <string name="wfc_wifi_call_drop_bad_rssi">Klici WiFi niso možni: slab WiFi signal.</string>
   <string name="wfc_wifi_call_drop_summary">"Ups! Med klicem se morate premikati zunaj svojega omrežja WiFi.
  
-Ali želite poskusiti in znova vzpostaviti povezavo z omrežjem WLAN, da končate klic?"</string>
+Ali želite poskusiti in znova vzpostaviti povezavo z omrežjem WiFi, da končate klic?"</string>
   <string name="wfc_wifi_handover_fail">Ups! Vašega klica ni mogoče zaključiti.</string>
   <string name="wfc_wifi_lte_handover_fail">Ups! Za nadaljevanje klica ni na voljo omrežja LTE.</string>
   <string name="wfcmode_mobile_preferred">Prednostno mobilno omrežje</string>
