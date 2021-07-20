@@ -108,12 +108,15 @@
   <string name="change_activate_email">Zamenjaj naslov e-pošte</string>
   <string name="change_mobile_network_message">Prestavljeno na mobilne podatke. Nadaljevanje prenosa datotek bo porabilo veliko podatkov, ali ste prepričani da želite nadaljevati?</string>
   <string name="change_password">Zamenjaj geslo</string>
+     <string name="channel_client_edit">Urejeno v mobilni napravi</string>
      <string name="channel_pc_edit">Urejeno v računalniku</string>
      <string name="channel_pc_upload">Naloženo iz računalnika</string>
      <string name="channel_pc_view">Ogledano v računalniku</string>
      <string name="channel_phone_edit">Urejeno v telefonu</string>
      <string name="channel_phone_upload">Naloženo iz telefona</string>
      <string name="channel_phone_view">Ogledano v telefonu</string>
+     <string name="channel_tablet_upload">Naloženo iz tabličnega računalnika</string>
+     <string name="channel_tablet_view">Ogledano na tablici</string>
      <string name="channel_web_edit">Urejeno v brskalniku</string>
      <string name="channel_web_upload">Naloženo v brskalnik</string>
      <string name="channel_web_view">Ogledano v brskalniku</string>
@@ -337,7 +340,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="micloud_space_duokan_detail">"Odprite Duokan na telefonu in pojdite na Bookshelf &gt; Cloud shramba za urejanje prostora za shranjevanje.
 Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</string>
   <string name="micloud_space_duokan_title">Duokan prostor za shranjevanje</string>
-  <string name="micloud_space_soundrecorder_detail">"Odprite aplikacijo Snemalnik v telefonu in izberite mapo s stvarmi, shranjenimi v oblaku.
+  <string name="micloud_space_soundrecorder_detail">"Odprite aplikacijo Snemalnik v mobilni napravi in izberite mapo s stvarmi, shranjenimi v oblaku.
 Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</string>
   <string name="micloud_space_soundrecorder_title">Avdio posnetki</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>

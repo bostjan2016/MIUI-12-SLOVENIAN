@@ -1855,7 +1855,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_watermark_title">Vodni žig</string>
   <string name="pref_wind_denoise_title">Filter vetra</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
-     <string name="prek_b_j_o">Ponovno ustvari stereo prostorski učinek</string>
+     <string name="prek_b_j_o">Vklopite, če želite ponovno ustvariti stereo prostorski učinek. Za najboljši učinek preklopite v ležeči način ali priključite slušalke</string>
      <string name="prek_b_j_p">Zmanjšaj vpliv vetra na snemanje zvoka</string>
      <string name="prep_video_ai_audio_new_desc_tip">Zvoki iz izostrenega motiva so izboljšani</string>
      <string name="prep_video_ai_audio_new_desc_tip_alone">Zvoki iz ostrenega motiva so izboljšani v ležečem načinu</string>

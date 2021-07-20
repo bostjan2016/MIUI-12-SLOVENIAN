@@ -479,6 +479,7 @@ Tapnite + da napravite mapo"</string>
      <string name="note_mindnote_entrance_hint_newversion">"Začnite tipkati "</string>
      <string name="note_mindnote_entrance_icon_text">Ustvari miselno mapo</string>
      <string name="note_mindnote_entrance_icon_text_newversion">Ustvari miselno mapo</string>
+     <string name="note_not_text_stub">Ni besedila</string>
   <string name="note_sort_way">Izberite kako želite razporediti vaše beležke</string>
   <string name="notealert_enter">Poglej</string>
   <string name="notealert_ok">"Zavrzi"</string>
@@ -706,6 +707,7 @@ Tapnite + da napravite mapo"</string>
   <string name="toast_notes_hidden">Uspešno skrito</string>
   <string name="toast_notes_hidden_edit">Beležka uspešno skrita. Povlecite dol da boste videli skrite beležke.</string>
   <string name="toast_notes_hidden_home">Beležka uspešno skrita. Povlecite dol da boste videli skrite beležke.</string>
+     <string name="toast_notes_hidden_pad">Beležka uspešno skrita. Povlecite navzdol stransko ploščo da boste videli skrite beležke.</string>
   <string name="toast_notes_unhidden">Uspešno odkrito</string>
   <string name="toast_pic_is_not_really">Shranjevanje slike…</string>
   <string name="toast_privacy_mode">Ne morem to narediti za skrite beležke</string>
@@ -823,7 +825,10 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
   - Sinhronizacija z MiCloud   
   - Nastavitev opomnika"</string>
   <string name="widget_content_loading">Nalagam…</string>
+     <string name="widget_create_select_size">Izberite velikost</string>
+     <string name="widget_empty_content">Tapnite za izbiro beležke</string>
   <string name="widget_havenot_content">"Dotaknite se da napravite beležko. Držite pripomoček za menjavo velikosti."</string>
+     <string name="widget_note_list_page_title">Izberite beležko</string>
   <string name="widget_under_privacy_mode">"Ne morem pregledati beležke v načinu Gost"</string>
      <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
      <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>

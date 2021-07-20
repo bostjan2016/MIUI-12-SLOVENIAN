@@ -3755,6 +3755,8 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="firewall_wifi">WiFi</string>
   <string name="firewall_wifi_dialog_message">"Nameščena aplikacija se ne bo mogla povezati na splet preko WiFi kadar je ta storitev izključena."</string>
   <string name="firmware_version">Različica sistema Android</string>
+     <string name="fiveg_sa_switch_summary">Uporaba omrežja SA na sekundarni kartici SIM (samo za preskušanje)</string>
+     <string name="fiveg_sa_vice_switch_title">SA na sekundarni kartici SIM</string>
   <string name="flash_drive_backup_btn">Napravi var. kopijo v USB shrambo</string>
   <string name="flash_drive_backup_disable">Najprej vključite USB shrambo</string>
   <string name="flash_drive_backup_enable">Za var. kopiranje ali vračanje stvari uporabi USB shrambo</string>
@@ -9370,6 +9372,8 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
     <string name="style_suggestion_title">Prilagajanje telefona Pixel</string>
      <string name="stylus_ota_check_update">Preveri za posodobitve</string>
      <string name="stylus_ota_current_firmware_version">Različica programske opreme</string>
+     <string name="stylus_ota_demands">Naprava naj bo povezana s pisalom prek povezave Bluetooth. V obeh napravah mora biti med posodobitvijo napolnjenost vsaj %1$s.</string>
+     <string name="stylus_ota_download_failed">"Programske opreme ni bilo mogoče prenesti"</string>
      <string name="stylus_ota_downloading_firmware">Nalaganje programske opreme</string>
      <string name="stylus_ota_firmware_update">Posodobi programsko opremo</string>
      <string name="stylus_ota_hardware_version">Različica strojne opreme</string>
@@ -9377,7 +9381,9 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="stylus_ota_model">Model</string>
      <string name="stylus_ota_new_version">Nova različica</string>
      <string name="stylus_ota_serial_number">Serijska številka</string>
+     <string name="stylus_ota_timeout_failed">Seja je potekla</string>
      <string name="stylus_ota_update">Posodobi</string>
+     <string name="stylus_ota_update_failed">"Programske opreme ni bilo mogoče posodobiti"</string>
      <string name="stylus_ota_updating">Posodabljanje</string>
   <string name="sub_activate_failed">Aktivacija ni uspela.</string>
   <string name="sub_activate_not_supported">Aktivacija ni podprta</string>

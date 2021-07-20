@@ -2451,7 +2451,7 @@ Vmesnik UT: %5$s"</string>
   <string name="reject_via_sms_summary">Pokaži tipke za končanje klica in pošiljanje SMS-a</string>
   <string name="reject_via_sms_title">Hitri odgovori</string>
      <string name="relay_call_answered_by_other_devices">Ta klic je bil odgovorjen na drugi napravi.</string>
-     <string name="relay_call_released_due_to_connect_lost">Povezava je bila prekinjena. Nadaljujte s klicem na odklopljeni napravi.</string>
+     <string name="relay_call_released_due_to_connect_lost">Povezava je bila prekinjena. Nadaljujte s klicem na vaši drugi napravi.</string>
      <string name="relay_connection_service_label">Vgrajeno RELAY klicanje</string>
   <string name="remain_mins_unit">minut</string>
   <string name="remain_mins_unit_plural">minut</string>
@@ -2642,6 +2642,7 @@ Vmesnik UT: %5$s"</string>
   <string name="sim_contact_number">Številka</string>
   <string name="sim_description_default">SIM kartica %s</string>
   <string name="sim_description_emergency_calls">Samo klicanje v sili</string>
+     <string name="sim_fiveg_network_title">SIM %1$s (%2$s)</string>
   <string name="sim_info">Informacije SIM kartice</string>
   <string name="sim_is_not_ready">SIM ni pripravljena</string>
   <string name="sim_label_emergency_calls">Klici v sili</string>

@@ -155,7 +155,7 @@
   <string name="dialog_legal_workday">"Kaže da uporabljate tedenske alarme. Potrebna je povezava na splet. Pred uporabo se morate strinjati z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?"</string>
   <string name="dialog_legal_workday_and_off_day">"Kaže da uporabljate tedenske in praznične alarme. Potrebna je povezava na splet. Pred uporabo se morate strinjati z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?"</string>
   <string name="dialog_legal_workday_and_off_day_desc">"Ura se ne sme povezati na splet zaradi posodabljanja podatkov o  praznikih. Tedenski alarmi se bodo izključili od ponedeljka do petka. Praznični alarmi se bodo izključili v soboto in nedeljo."</string>
-  <string name="dialog_legal_workday_desc">"Ura se ne sme povezati na splet zaradi posodabljanja podatkov o delovnikih. Tedenski alarmi se bodo izključili od ponedjeljka do petka."</string>
+  <string name="dialog_legal_workday_desc">"Ura se ne sme povezati na splet zaradi posodabljanja podatkov o delovnikih. Tedenski alarmi se bodo izključili od ponedeljka do petka."</string>
   <string name="dialog_message_agree">Strinjam se</string>
   <string name="dialog_message_for_contact_permission">Da bo alarm rojstnega dneva na voljo mora ura imeti dostop do stikov. Se strinjate?</string>
   <string name="dialog_message_negative">"Ne strinjam se"</string>
@@ -366,7 +366,7 @@
   <string name="module_white_noise_download_data_privacy"><Data>"Če želite prenesti zvočne datoteke za časovnike hrupa okolice (≈30 MB) in zagotoviti prilagojene storitve, se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Uporabljate mobilne podatke. Se strinjate?"</Data></string>
   <string name="module_white_noise_download_wifi">Ura mora prenesti avdio datoteke za časovnike hrupa okolice. Prenesem?</string>
   <string name="module_white_noise_download_wifi_privacy"><Data>Če želite prenesti zvočne datoteke za časovnike hrupa okolice in zagotoviti prilagojene storitve, se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a> Se strinjate?</Data></string>
-     <string name="monday">Ponedjeljek</string>
+     <string name="monday">Ponedeljek</string>
      <string name="monday_short">Pon</string>
      <string name="monday_shortest">P</string>
   <string name="monday_to_friday">Pon - Pet</string>

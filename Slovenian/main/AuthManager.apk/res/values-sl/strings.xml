@@ -391,10 +391,10 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
   <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_day">d</string>
   <string name="fmt_date_numeric_month">M</string>
-  <string name="fmt_date_numeric_month_day">dd.MM</string>
+  <string name="fmt_date_numeric_month_day">d.MM</string>
   <string name="fmt_date_numeric_year">yyyy</string>
   <string name="fmt_date_numeric_year_month">MM.yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">d.MM.yyyy</string>
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>

@@ -27,6 +27,10 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deli preko aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
+     <string name="accessible_cancel">Prekliči</string>
+     <string name="accessible_ellipse">Elipsa</string>
+     <string name="accessible_irregular">Oblika po meri</string>
+     <string name="accessible_rect">Pravokotnik</string>
   <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
     <string name="am">AM</string>
@@ -169,6 +173,9 @@ drsni posnetek zaslona"</string>
      <string name="night">Večer</string>
     <string name="noon">Poldne</string>
     <string name="partial_screenshot_edit">Uredi</string>
+     <string name="partial_screenshot_failed_to_capture_title">"Ta aplikacija ne dovoljuje posnetkov zaslona"</string>
+     <string name="partial_screenshot_failed_to_save_title">"Ne morem shraniti. Ni dovolj prostora za shranjevanje."</string>
+     <string name="partial_screenshot_insert_failed">"Ne morem shraniti"</string>
     <string name="partial_screenshot_repaint">Začni znova</string>
     <string name="partial_screenshot_save">Shrani</string>
     <string name="partial_screenshot_save_successful">Shranjeno</string>
@@ -216,6 +223,7 @@ drsni posnetek zaslona"</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
+     <string name="take_screenshot">Cel zaslon</string>
      <string name="the_anniversary_of_lifting_martial_law">Obletnica odprave vojaškega stanja</string>
      <string name="the_anti_aggression_day">Dan proti agresiji</string>
      <string name="the_arbor_day">Dan vrtnice</string>

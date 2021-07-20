@@ -59,7 +59,7 @@
      <string name="clearable_edittext_clear_description">Očisti</string>
   <string name="clock_introduction">Aplikacijo lahko uporabite za prikaz časa, uporabo časovnika, svetovne ure, štoparice, nastavljanje alarma in še več.</string>
      <string name="close">Zapri</string>
-  <string name="close_location_service_setting">Dostop do lokacije lahko izključiti v Nastavitve &gt; Dodatne nastavitve &gt; Zasebnost ali pa omejite dovoljenja posameznim aplikacijam v aplikaciji Varnost.</string>
+  <string name="close_location_service_setting">Dostop do lokacije lahko izključiti v Nastavitve &gt; Zaščita zasebnosti &gt; Urejajte ali pa omejite dovoljenja posameznim aplikacijam v aplikaciji Varnost.</string>
   <string name="cm_terms_content">"Z namenom izboljšanja storitev ki vam jih ponuja operater mobilnega omrežja po vaši izbiri lahko prebere vaše osebne podatke in informacije o tej napravi na svojih strežnikih ki uporabljajo Wifi omrežje ali mobilno podatkovno povezavo. Informacije se bodo uporabile izključno v statistične namene da bi se izboljšala kvaliteta storitev in da vam ponudi več osebnih vsebin. Podatki se ne bodo uporabljali za vašo osebno identifikacijo in ne bodo dani na vpogled tretjim osebam."</string>
   <string name="cm_terms_title">Sporazum operaterja mobilnega omrežja</string>
   <string name="compass_introduction">Aplikacijo lahko uporabite za navigacijo, pregled koordinat, zračnega pritiska in nadmorske višine.</string>
