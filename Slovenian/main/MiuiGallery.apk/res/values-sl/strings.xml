@@ -122,7 +122,7 @@
   <string name="album_bluetooth">Bluetooth</string>
   <string name="album_camera_name">Kamera</string>
   <string name="album_cloud_list_page_title">Urejanje sinhroniziranih albumov</string>
-  <string name="album_creative">Kreativnost</string>
+  <string name="album_creative">Moje urejene fotografije</string>
   <string name="album_detail_clear_local_page_empty">Ni shranjenih fotografij ali videoposnetkov za brisanje</string>
   <string name="album_detail_default_sort_tip">Zamenjano na kronološki vrstni red</string>
   <string name="album_detail_page_empty">Ni stvari</string>
@@ -1399,7 +1399,7 @@ za fotografije"</string>
      <string name="magic_protrait_art_dsc">Poskusite naše vrhunske učinke</string>
      <string name="magic_recycler_empty_msg">"Ne najdem rezultatov"</string>
      <string name="magic_save">Shrani</string>
-     <string name="magic_save_ok">Shranjeno v Kreativnost</string>
+     <string name="magic_save_ok">Shranjeno</string>
      <string name="magic_select_people">Izberite osebe</string>
      <string name="magic_special_guide_text">Najbolje deluje z videoposnetki za eno osebo</string>
      <string name="magic_special_guide_title">Portretni videoposnetek</string>
@@ -1997,7 +1997,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="prepare_to_drop">Shranjevanje v %s</string>
   <string name="preparing_data">Trenutek…</string>
   <string name="print_log">Natisni zapis</string>
-  <string name="privacy_permission_request_message"><Data>Galerija potrebuje dostop do %3$s. Podatki bodo uporabljeni skladno z našimi &lt;a href=\"%1$s\">\"Pogoji uporabe\"&lt;/a> in &lt;a href=\"%2$s\">\"Pravila o zasebnosti\"&lt;/a>. Dovolim?</Data></string>
+  <string name="privacy_permission_request_message">Galerija potrebuje dostop do %3$s. Informacije, ki jih zbiramo, bomo uporabili v skladu z %1$s in %2$s. Dovolim?</string>
   <string name="privacy_permission_request_negative">Omeji</string>
   <string name="privacy_permission_request_positive">Dovoli</string>
   <string name="privacy_permission_request_title">Potrebno je dovoljenje</string>
@@ -3108,7 +3108,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="vlog_unzip_file_fail">"Dekompresiranje datoteke ni uspelo"</string>
   <string name="vlog_video_adjust_order">Menjava vrstnega reda videoposnetkov</string>
   <string name="vlog_video_importing">Uvoz videoposnetkov…</string>
-  <string name="vlog_video_saved_in_my_create">Videoposnetek uspešno shranjen v Kreativnost</string>
+  <string name="vlog_video_saved_in_my_create">Videoposnetek uspešno shranjen</string>
   <string name="vlog_video_selected_not_support">"Ne morem urediti izbrani videoposnetek"</string>
   <string name="vlog_video_trans_code_cons">Uvažam…</string>
   <string name="voice_assistant">Glasovni vnos</string>

@@ -994,6 +994,18 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">Optimizirajte %d stvari za varčevanje baterije</item>
         <item quantity="one">Optimizirajte %d stvar za varčevanje baterije</item>
      </plurals>
+     <plurals name="sim_lock_puk_dialog_message">
+        <item quantity="other">Imate še %d poskusov, da potrdite SIM PUK. Če presežete omejitev za vnos napačnih kod PUK, bo kartica SIM preklicana. Vseeno nadaljujem?</item>
+        <item quantity="one">Imate še %d poskus, da potrdite SIM PUK. Če presežete omejitev za vnos napačnih kod PUK, bo kartica SIM preklicana. Vseeno nadaljujem?</item>
+     </plurals>
+     <plurals name="simlock_set_pin_error">
+        <item quantity="other">Vnesena koda PIN ni pravilna. %d poskusov ostane.</item>
+        <item quantity="one">Vnesena koda PIN ni pravilna. %d poskus ostane.</item>
+     </plurals>
+     <plurals name="simlock_set_puk_error">
+        <item quantity="other">Vnesite SIM PUK. %d poskusov ostane.</item>
+        <item quantity="one">Vnesite SIM PUK. %d poskus ostane.</item>
+     </plurals>
      <plurals name="title_app_update_cn">
         <item quantity="other">&lt;Data>Posodobi &lt;font color=#F22424>%d&lt;/font> aplikacij&lt;/Data></item>
         <item quantity="one">&lt;Data>Posodobi &lt;font color=#F22424>%d&lt;/font> aplikacijo&lt;/Data></item>
