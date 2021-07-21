@@ -1997,7 +1997,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="prepare_to_drop">Shranjevanje v %s</string>
   <string name="preparing_data">Trenutek…</string>
   <string name="print_log">Natisni zapis</string>
-  <string name="privacy_permission_request_message"><Data>Galerija potrebuje dostop do %3$s. Podatki bodo uporabljeni skladno z našimi &lt;a href=\"%1$s\">\"Pogoji uporabe\"&lt;/a> in &lt;a href=\"%2$s\">\"Pravila o zasebnosti\"&lt;/a>. Dovolim?</Data></string
+  <string name="privacy_permission_request_message"><Data>Galerija potrebuje dostop do %3$s. Podatki bodo uporabljeni skladno z našimi &lt;a href=\"%1$s\">\"Pogoji uporabe\"&lt;/a> in &lt;a href=\"%2$s\">\"Pravila o zasebnosti\"&lt;/a>. Dovolim?</Data></string>
   <string name="privacy_permission_request_negative">Omeji</string>
   <string name="privacy_permission_request_positive">Dovoli</string>
   <string name="privacy_permission_request_title">Potrebno je dovoljenje</string>
