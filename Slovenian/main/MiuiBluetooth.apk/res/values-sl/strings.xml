@@ -68,9 +68,9 @@
     <string name="adb_wireless_ip_addr_preference_title">Naslov IP in vrata</string>
     <string name="adb_wireless_list_empty_off">Če si želite ogledati in uporabljati razpoložljive naprave, vklopite brezžično odpravljanje napak</string>
     <string name="adb_wireless_no_network_msg">Vzpostavite povezavo z omrežjem WiFi</string>
-    <string name="adb_wireless_qrcode_pairing_description">Seznanitev naprave prek Wi‑Fi-ja z optičnim branjem kode QR</string>
+    <string name="adb_wireless_qrcode_pairing_description">Seznanitev naprave prek WiFi-ja z optičnim branjem kode QR</string>
     <string name="adb_wireless_qrcode_pairing_title">Optično branje kode QR</string>
-    <string name="adb_wireless_qrcode_summary">Seznanitev naprave prek Wi‑Fi-ja z optičnim branjem kode QR</string>
+    <string name="adb_wireless_qrcode_summary">Seznanitev naprave prek WiFi-ja z optičnim branjem kode QR</string>
     <string name="adb_wireless_settings">Brezžično odpravljanje napak</string>
     <string name="adb_wireless_verifying_qrcode_text">Seznanjanje naprave …</string>
     <string name="adbwifi_warning_message">Brezžično odpravljanje napak je namenjeno samo za razvoj. Lahko ga uporabljate za kopiranje podatkov med računalnikom in napravo, nameščanje aplikacij v napravo brez obveščanja in branje podatkov v dnevniku.</string>

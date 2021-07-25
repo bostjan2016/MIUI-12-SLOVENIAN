@@ -352,7 +352,7 @@
     <string name="adb_paired_devices_title">Seznanjene naprave</string>
     <string name="adb_pairing_device_dialog_failed_msg">Preverite, ali je naprava povezana v isto omrežje.</string>
     <string name="adb_pairing_device_dialog_failed_title">Seznanjanje neuspešno</string>
-    <string name="adb_pairing_device_dialog_pairing_code_label">Koda za seznanjanje po Wi‑Fi-ju</string>
+    <string name="adb_pairing_device_dialog_pairing_code_label">Koda za seznanjanje po WiFi-ju</string>
     <string name="adb_pairing_device_dialog_title">Seznanitev z napravo</string>
     <string name="adb_qrcode_pairing_device_failed_msg">Seznanitev naprave ni uspela. Koda QR je nepravilna ali pa naprava ni povezana v isto omrežje.</string>
   <string name="adb_warning_message">Odpravljanje napak preko USB je namenjeno je samo za raziskovalce. Lahko se uporabi za kopiranje podatkov iz računalnika na napravo in obratno, namestitev aplikacij na napravo....</string>
@@ -365,9 +365,9 @@
     <string name="adb_wireless_ip_addr_preference_title">Naslov IP in vrata</string>
     <string name="adb_wireless_list_empty_off">Če si želite ogledati in uporabljati razpoložljive naprave, vklopite brezžično odpravljanje napak</string>
     <string name="adb_wireless_no_network_msg">Vzpostavite povezavo z omrežjem WiFi</string>
-    <string name="adb_wireless_qrcode_pairing_description">Seznanitev naprave prek Wi‑Fi-ja z optičnim branjem kode QR</string>
+    <string name="adb_wireless_qrcode_pairing_description">Seznanitev naprave prek WiFi-ja z optičnim branjem kode QR</string>
     <string name="adb_wireless_qrcode_pairing_title">Optično branje kode QR</string>
-    <string name="adb_wireless_qrcode_summary">Seznanitev naprave prek Wi‑Fi-ja z optičnim branjem kode QR</string>
+    <string name="adb_wireless_qrcode_summary">Seznanitev naprave prek WiFi-ja z optičnim branjem kode QR</string>
     <string name="adb_wireless_settings">Brezžično odpravljanje napak</string>
     <string name="adb_wireless_verifying_qrcode_text">Seznanjanje naprave …</string>
     <string name="adbwifi_warning_message">Brezžično odpravljanje napak je namenjeno samo za razvoj. Lahko ga uporabljate za kopiranje podatkov med računalnikom in napravo, nameščanje aplikacij v napravo brez obveščanja in branje podatkov v dnevniku.</string>
@@ -2962,7 +2962,7 @@ Naslov WiFi (BSSID)
   <string name="wifi_disconnected">Ni povezano</string>
     <string name="wifi_display_certification">Potrdilo brezžičnega zaslona</string>
     <string name="wifi_display_certification_summary">Pokaži možnosti za potrdilo brezžičnega zaslona</string>
-    <string name="wifi_enhanced_mac_randomization">Naključen naslov MAC s podporo Wi‑Fi‑ja</string>
+    <string name="wifi_enhanced_mac_randomization">Naključen naslov MAC s podporo WiFi‑ja</string>
      <string name="wifi_enhanced_mac_randomization_summary">Ko je ta način omogočen, se lahko naslov MAC te naprave spremeni vsakič, ko se poveže z omrežjem, ki ima omogočeno naključno izbiro MAC.</string>
     <string name="wifi_fail_to_scan">Ne morem iskati omrežij</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
@@ -2994,7 +2994,7 @@ Naslov WiFi (BSSID)
    <string name="wifi_unsaved_network_linking">SSID Bridging ‑ Samodejna povezava</string>
   <string name="wifi_unsaved_network_linking_summary">Omogoči poskuse samodejne povezave z novim WPA/WPA2‑PSK 5GHz SSID z trenutno povezanimi WPA/WPA2‑PSK 2GHz SSID poverilnicami za delno ujemanje SSID-a in BSSID-a</string>
     <string name="wifi_verbose_logging">Omogoči podrobno zapisovanje dnevnika za WiFi</string>
-    <string name="wifi_verbose_logging_summary">Povečaj raven zapisovanja dnevnika za WiFi; v izbirniku Wi‑Fi-ja pokaži glede na SSID RSSI</string>
+    <string name="wifi_verbose_logging_summary">Povečaj raven zapisovanja dnevnika za WiFi; v izbirniku WiFi-ja pokaži glede na SSID RSSI</string>
   <string name="wifi_wapi_as_certificate">AS certifikat</string>
   <string name="wifi_wapi_cert_mode_hand_text">Ročno izberi</string>
   <string name="wifi_wapi_certification_dont_exist">Vnešeno geslo omrežja ni točno.</string>

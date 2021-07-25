@@ -186,9 +186,9 @@
     <string name="adb_wireless_ip_addr_preference_title">Naslov IP in vrata</string>
     <string name="adb_wireless_list_empty_off">Če si želite ogledati in uporabljati razpoložljive naprave, vklopite brezžično odpravljanje napak</string>
     <string name="adb_wireless_no_network_msg">Vzpostavite povezavo z omrežjem WiFi</string>
-    <string name="adb_wireless_qrcode_pairing_description">Seznanitev naprave prek Wi‑Fi-ja z optičnim branjem kode QR</string>
+    <string name="adb_wireless_qrcode_pairing_description">Seznanitev naprave prek WiFi-ja z optičnim branjem kode QR</string>
     <string name="adb_wireless_qrcode_pairing_title">Optično branje kode QR</string>
-    <string name="adb_wireless_qrcode_summary">Seznanitev naprave prek Wi‑Fi-ja z optičnim branjem kode QR</string>
+    <string name="adb_wireless_qrcode_summary">Seznanitev naprave prek WiFi-ja z optičnim branjem kode QR</string>
     <string name="adb_wireless_settings">Brezžično odpravljanje napak</string>
     <string name="adb_wireless_verifying_qrcode_text">Seznanjanje naprave …</string>
     <string name="adbwifi_warning_message">Brezžično odpravljanje napak je namenjeno samo za razvoj. Lahko ga uporabljate za kopiranje podatkov med računalnikom in napravo, nameščanje aplikacij v napravo brez obveščanja in branje podatkov v dnevniku.</string>
@@ -1075,7 +1075,7 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="enable_adb">Odpravljanje napak preko USB</string>
   <string name="enable_adb_summary">Odpravljanje napak z priključenim USB</string>
     <string name="enable_adb_wireless">Brezžično odpravljanje napak</string>
-    <string name="enable_adb_wireless_summary">Način za odpravljanje napak pri vzpostavljeni povezavi Wi‑Fi</string>
+    <string name="enable_adb_wireless_summary">Način za odpravljanje napak pri vzpostavljeni povezavi WiFi</string>
   <string name="enable_antispam_strange_summary">Utišaj prvo zvonjenje za klice iz neznanih številk</string>
   <string name="enable_antispam_strange_title">Utišaj prvo zvonjenje</string>
   <string name="enable_button_text">Naprej</string>
@@ -3195,7 +3195,7 @@ Klici se zaračunajo glede na vaše nastavitve.
   <string name="wifi_disconnected">Ni povezano</string>
   <string name="wifi_display_certification">Certifikacija brežičnega prikaza</string>
   <string name="wifi_display_certification_summary">Pokaži možnosti za certifikacijo brežičnega prikaza</string>
-    <string name="wifi_enhanced_mac_randomization">Naključen naslov MAC s podporo Wi‑Fi‑ja</string>
+    <string name="wifi_enhanced_mac_randomization">Naključen naslov MAC s podporo WiFi‑ja</string>
   <string name="wifi_enhanced_mac_randomization_summary">Ko je ta način omogočen, se lahko naslov MAC te naprave spremeni vsakič, ko se poveže z omrežjem, ki ima omogočeno naključno izbiro MAC.</string>
   <string name="wifi_fail_to_scan">preverjanje omrežij ni možno</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>

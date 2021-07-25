@@ -406,9 +406,9 @@ Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
     <string name="adb_wireless_ip_addr_preference_title">Naslov IP in vrata</string>
     <string name="adb_wireless_list_empty_off">Če si želite ogledati in uporabljati razpoložljive naprave, vklopite brezžično odpravljanje napak</string>
     <string name="adb_wireless_no_network_msg">Vzpostavite povezavo z omrežjem WiFi</string>
-    <string name="adb_wireless_qrcode_pairing_description">Seznanitev naprave prek Wi‑Fi-ja z optičnim branjem kode QR</string>
+    <string name="adb_wireless_qrcode_pairing_description">Seznanitev naprave prek WiFi-ja z optičnim branjem kode QR</string>
     <string name="adb_wireless_qrcode_pairing_title">Optično branje kode QR</string>
-    <string name="adb_wireless_qrcode_summary">Seznanitev naprave prek Wi‑Fi-ja z optičnim branjem kode QR</string>
+    <string name="adb_wireless_qrcode_summary">Seznanitev naprave prek WiFi-ja z optičnim branjem kode QR</string>
     <string name="adb_wireless_settings">Brezžično odpravljanje napak</string>
     <string name="adb_wireless_verifying_qrcode_text">Seznanjanje naprave …</string>
     <string name="adbwifi_warning_message">Brezžično odpravljanje napak je namenjeno samo za razvoj. Lahko ga uporabljate za kopiranje podatkov med računalnikom in napravo, nameščanje aplikacij v napravo brez obveščanja in branje podatkov v dnevniku.</string>
@@ -2968,7 +2968,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
     <string name="disable_service_message">Če se dotaknete %1$s, se bo storitev %2$s ustavila.</string>
     <string name="disable_service_title">Želite izklopiti »%1$s«?</string>
   <string name="disable_text">Onemogoči</string>
-    <string name="disable_wifi_hotspot_title">Brez uporabe dostopne točke Wi‑Fi</string>
+    <string name="disable_wifi_hotspot_title">Brez uporabe dostopne točke WiFi</string>
     <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Deljenje spletne povezave samo prek Bluetootha in etherneta</string>
     <string name="disable_wifi_hotspot_when_bluetooth_on">Deljenje spletne povezave samo prek Bluetootha</string>
     <string name="disable_wifi_hotspot_when_ethernet_on">Deljenje spletne povezave samo prek etherneta</string>
@@ -3277,7 +3277,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="enable_adb_summary">Način za odpravljanje težav, ko je vzpostavljena povezava USB</string>
   <string name="enable_adb_summary_charging">Naprava je v načinu polnjenja, USB popravljanje napak je onemogočeno</string>
     <string name="enable_adb_wireless">Brezžično odpravljanje napak</string>
-    <string name="enable_adb_wireless_summary">Način za odpravljanje napak pri vzpostavljeni povezavi Wi‑Fi</string>
+    <string name="enable_adb_wireless_summary">Način za odpravljanje napak pri vzpostavljeni povezavi WiFi</string>
   <string name="enable_atrace">Vključi ATrace</string>
   <string name="enable_atrace_summary">Zajemi dogodke jedra z uporabo ATrace</string>
     <string name="enable_blurs_on_windows_summary">Omogoča zameglitve oken na ravni sestavljalnika. Zahteva vnovičen zagon naprave.</string>
