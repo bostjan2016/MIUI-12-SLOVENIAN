@@ -405,7 +405,7 @@ Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
     <string name="adb_wireless_error">Napaka</string>
     <string name="adb_wireless_ip_addr_preference_title">Naslov IP in vrata</string>
     <string name="adb_wireless_list_empty_off">Če si želite ogledati in uporabljati razpoložljive naprave, vklopite brezžično odpravljanje napak</string>
-    <string name="adb_wireless_no_network_msg">Vzpostavite povezavo z omrežjem Wi-Fi</string>
+    <string name="adb_wireless_no_network_msg">Vzpostavite povezavo z omrežjem WiFi</string>
     <string name="adb_wireless_qrcode_pairing_description">Seznanitev naprave prek Wi‑Fi-ja z optičnim branjem kode QR</string>
     <string name="adb_wireless_qrcode_pairing_title">Optično branje kode QR</string>
     <string name="adb_wireless_qrcode_summary">Seznanitev naprave prek Wi‑Fi-ja z optičnim branjem kode QR</string>
@@ -3170,7 +3170,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
      <string name="dpp_cannot_connect_target">"Ne morem se povezati s ciljnim omrežjem"</string>
      <string name="dpp_connect_success">Povezano</string>
      <string name="dpp_not_support">"Ne morem deliti tega omrežja"</string>
-     <string name="dpp_qr_code_summary">Prosite drugo osebo, naj skenira to kodo QR s pomočjo optičnega bralnika v nastavitvah Wi-Fi.</string>
+     <string name="dpp_qr_code_summary">Prosite drugo osebo, naj skenira to kodo QR s pomočjo optičnega bralnika v nastavitvah WiFi.</string>
      <string name="dpp_qrcode_generator_summary">Skenirajte to QR kodo z napravo ki podpira Easy Connect</string>
      <string name="dpp_scanner_summary">Postavite QR kodo znotraj okvira</string>
      <string name="dpp_shared_fail">"Ne morem deliti WiFi omrežja"</string>
@@ -11077,7 +11077,7 @@ To lahko izključite v Nastavitve &gt; WiFi &gt; Dodatne nastavitve."</string>
     <string name="wifi_dpp_could_not_detect_valid_qr_code">Kode QR ni bilo mogoče prebrati. Kodo nastavite na sredino in poskusite znova.</string>
     <string name="wifi_dpp_device_found">Najdena je bila naprava</string>
     <string name="wifi_dpp_failure_authentication_or_configuration">Poskusite znova. Če se težava ponavlja, se obrnite na proizvajalca naprave.</string>
-    <string name="wifi_dpp_failure_cannot_find_network">Poskusite napravo premakniti bliže dostopni točki/usmerjevalniku Wi-Fi</string>
+    <string name="wifi_dpp_failure_cannot_find_network">Poskusite napravo premakniti bliže dostopni točki/usmerjevalniku WiFi</string>
     <string name="wifi_dpp_failure_enrollee_authentication">Preverite geslo in poskusite znova</string>
     <string name="wifi_dpp_failure_enrollee_rejected_configuration">Obrnite se na proizvajalca naprave</string>
     <string name="wifi_dpp_failure_generic">Prepričajte se, da je naprava priključena, napolnjena in vklopljena. Če se težava ponavlja, se obrnite na proizvajalca naprave.</string>

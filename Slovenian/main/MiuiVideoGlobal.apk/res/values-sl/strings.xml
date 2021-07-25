@@ -481,7 +481,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="galleryplus_gallery_view_tags">Pokaži oznake</string>
     <string name="galleryplus_is_higher_definition">HD predogled</string>
     <string name="galleryplus_network_connect_check">Povezava z omrežjem ni uspela</string>
-    <string name="galleryplus_network_connect_confirm">Povežite se na Wi-Fi omrežje ali vklopite mobilne podatke v nastavitvah omrežja.</string>
+    <string name="galleryplus_network_connect_confirm">Povežite se na WiFi omrežje ali vklopite mobilne podatke v nastavitvah omrežja.</string>
     <string name="galleryplus_network_error">Povezava z omrežjem ni uspela</string>
     <string name="galleryplus_network_not_wifi">Uporaba mobilnih podatkov za predvajanje videoposnetkov lahko ustvari dodatne stroške</string>
     <string name="galleryplus_online_cta">Mi Video se mora za normalno delovanje povezati z omrežjem. Se strinjate?</string>

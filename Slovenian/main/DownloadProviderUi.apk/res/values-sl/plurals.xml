@@ -30,12 +30,12 @@
         <item quantity="one">pred 1 min</item>
      </plurals>
      <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Izbrišem prenose: %d?</item>
+        <item quantity="other">Izbrišem %d prenosov?</item>
         <item quantity="one">Izbrišem %d prenos?</item>
      </plurals>
      <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Prenosi uspešno izbrisani: %d</item>
-        <item quantity="one">%d prenos uspešno izbrisan</item>
+        <item quantity="other">Izbrisano %s prenosov</item>
+        <item quantity="one">Izbrisan %d prenos</item>
      </plurals>
 	 <plurals name="durationDays">
         <item quantity="other">%1$d dni</item>
@@ -57,7 +57,7 @@
         <item quantity="other">Pred pol ure</item>
      </plurals>
      <plurals name="in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">Čez 1 uro</item>
      </plurals>
      <plurals name="in_half_hour">
         <item quantity="other">Čez pol ure</item>
@@ -81,7 +81,7 @@
         <item quantity="one">pred 1 minuto</item>
      </plurals>
    <plurals name="numberOfItemsAvailable">
-        <item quantity="other">Izbrišem stvari: %d?</item>
+        <item quantity="other">Izbrišem %d stvari?</item>
         <item quantity="one">Izbrišem to stvar?</item>
 	</plurals>
 	<plurals name="number_items">

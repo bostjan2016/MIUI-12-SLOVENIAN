@@ -1815,7 +1815,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="photo_editor_beauty_compare">Original</string>
      <string name="photo_editor_common_download_failed">"Ne morem prenesti. Preverite omrežne nastavitve in poskusite znova."</string>
      <string name="photo_editor_common_download_finish">Dodatek uspešno prenešen</string>
-     <string name="photo_editor_common_download_sdk_without_wifi_msg">"Videti je, da vaša naprava ni povezana v omrežje Wi-Fi. Ali želite prenesti dodatek (%1$d MB) z uporabo mobilnih podatkov?"</string>
+     <string name="photo_editor_common_download_sdk_without_wifi_msg">"Videti je, da vaša naprava ni povezana v omrežje WiFi. Ali želite prenesti dodatek (%1$d MB) z uporabo mobilnih podatkov?"</string>
      <string name="photo_editor_common_download_sdk_without_wifi_title">Prenesi dodatek</string>
   <string name="photo_editor_compare_tip">Pritisnite in držite za prikaz originalne slike</string>
   <string name="photo_editor_crop_and_rotate">Obreži</string>
