@@ -207,7 +207,7 @@
   <string name="incall_error_supp_service_transfer">"Ne morem prenesti klica."</string>
   <string name="incall_error_supp_service_unknown">"Ta storitev ni podprta."</string>
   <string name="incoming_answer_voice_text">Glasovni odgovor</string>
-  <string name="incoming_call_forwarded_title">Posreduj dohodni klic</string>
+  <string name="incoming_call_forwarded_title">Preusmerjeni klic</string>
   <string name="incoming_circle_text_answer">Popusti</string>
   <string name="incoming_circle_text_answer_p">Podrsajte navzgor</string>
   <string name="incoming_circle_text_message">Popusti</string>

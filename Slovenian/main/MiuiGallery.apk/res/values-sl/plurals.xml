@@ -435,6 +435,10 @@
      <plurals name="photo_count">
         <item quantity="other">%d fotografij</item>
         <item quantity="one">%d fotografija</item>
+     </plurals>
+     <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Zavrti %d stopinj</item>
+        <item quantity="one">Zavrti %d stopinjo</item>
     </plurals>
      <plurals name="search_feedback_done_mark_and_contribute_false_positive">
          <item quantity="other">Odstranjeno %1$d fotografij iz \"%2$s\" in dodano v bazo podatkov.</item>
@@ -556,13 +560,37 @@
         <item quantity="other">Sprejem %2$d arhivov (%3$s) od %1$s…</item>
         <item quantity="one">Sprejem %2$d arhiva (%3$s) od %1$s…</item>
     </plurals>
-	      <plurals name="file_type_detail_count">
+     <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">Optimizirano %d fotografij</item>
+        <item quantity="one">Optimizirana %d fotografija</item>
+     </plurals>
+     <plurals name="slim_complete_video_count">
+        <item quantity="other">Optimizirano %d videov</item>
+        <item quantity="one">Optimiziran %d video</item>
+     </plurals>
+     <plurals name="slim_photo_count">
+        <item quantity="other">%d fotografij</item>
+        <item quantity="one">%d fotografija</item>
+     </plurals>
+     <plurals name="file_type_detail_count">
         <item quantity="other">%1$d datotek</item>
         <item quantity="one">%1$d datoteka</item>
+     </plurals>
+     <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">ostalo %d stvari za optimizacijo</item>
+        <item quantity="one">ostala %d stvar za optimizacijo</item>
+     </plurals>
+     <plurals name="slim_videos_count">
+        <item quantity="other">%d videoposnetkov</item>
+        <item quantity="one">%d video</item>
      </plurals>
      <plurals name="synced_photo_count">
         <item quantity="other">Sinhronizirano %d fotografij</item>
         <item quantity="one">Sinhronizirana %d fotografija</item>
+     </plurals>
+     <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s stvari</item>
+        <item quantity="one">%1$s, %2$s stvar</item>
      </plurals>
 	 <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">"Ne boste mogli vrniti izbrane stvari (%d) če jih izbrišete. Izbrišem vseeno?"</item>
