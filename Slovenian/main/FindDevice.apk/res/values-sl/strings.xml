@@ -55,21 +55,24 @@
      <string name="evening">Večer</string>
      <string name="expand_button_title">Napredno</string>
   <string name="find_device">Najdi napravo</string>
+     <string name="find_device_capture_done_notification_content">Oglejte si fotografijo na i.mi.com</string>
+     <string name="find_device_capture_done_notification_title">Najdi napravo je posnela fotografijo na daljavo</string>
      <string name="find_device_capture_notification_content">Druga pooblaščena naprava fotografira na daljavo preko Najdi napravo na i.mi.com.</string>
      <string name="find_device_capture_notification_title">Najdi napravo fotografira na daljavo…</string>
-  <string name="find_device_crash">Najdi napravo je nepričakovano prekinjen.</string>
-  <string name="find_device_error_access_denied">Dostop je zavrnjen.</string>
-  <string name="find_device_error_account_sys_timeout">"Ne morem se povezati v Mi Račun"</string>
-  <string name="find_device_error_account_unknown_error">Napaka Mi Računa (%s).</string>
-  <string name="find_device_error_network">Napaka omrežja.</string>
-  <string name="find_device_error_password_changed">Geslo računa je nedavno spremenjeno.</string>
-  <string name="find_device_error_server">Napaka strežnika (%s).</string>
-  <string name="find_device_error_unknown">Neznana napaka (%s).</string>
-  <string name="find_device_noise_title">Alarm Najdi napravo</string>
-  <string name="find_device_notice">Pojdite na &lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; če želite poiskati in zakleniti napravo, jo označiti kot izgubljeno, izbrisati podatke ali fotografirati na daljavo.</string>
-  <string name="find_device_notice_p1">Pojdite na</string>
-  <string name="find_device_notice_p3">" da najdete, zaklenite ali ponastavite svojo napravo</string>
-  <string name="find_device_notice_sms_alert">Če zamenjate SIM kartico bo samodejno poslano še eno SMS sporočilo za ponovno aktiviranje te storitve."</string>
+     <string name="find_device_crash">Najdi napravo je nepričakovano prekinjen.</string>
+     <string name="find_device_error_access_denied">Dostop je zavrnjen.</string>
+     <string name="find_device_error_account_sys_timeout">"Ne morem se povezati v Mi Račun"</string>
+     <string name="find_device_error_account_unknown_error">Napaka Mi Računa (%s).</string>
+    <string name="find_device_error_custom">%s</string>
+    <string name="find_device_error_network">Napaka omrežja.</string>
+    <string name="find_device_error_password_changed">Geslo za račun je bilo nedavno spremenjeno.</string>
+    <string name="find_device_error_server">Napaka strežnika (%s).</string>
+    <string name="find_device_error_unknown">Neznana napaka (%s).</string>
+     <string name="find_device_noise_title">Alarm Najdi napravo</string>
+     <string name="find_device_notice">Pojdite na &lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; če želite poiskati in zakleniti napravo, jo označiti kot izgubljeno, izbrisati podatke ali fotografirati na daljavo.</string>
+     <string name="find_device_notice_p1">Pojdite na</string>
+     <string name="find_device_notice_p3">" da najdete, zaklenite ali ponastavite svojo napravo</string>
+     <string name="find_device_notice_sms_alert">Če zamenjate SIM kartico bo samodejno poslano še eno SMS sporočilo za ponovno aktiviranje te storitve."</string>
   <string name="find_device_notice_sms_alert_with_common_charge_hint">"Če želite posodobiti stanje kartice SIM in zagotoviti, da vse storitve delujejo normalno, bo &lt;font color=#0097FF>&lt;b>plačljivo tekstno sporočilo&lt;/b>&lt;/font> poslano, ko zamenjate SIM kartici. To sporočilo vam bo lahko zaračunal vaš operater."</string>
   <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Če želite posodobiti stanje kartice SIM in zagotoviti, da vse storitve delujejo normalno, bo &lt;font color=#0097FF>&lt;b>domače plačljivo tekstno sporočilo&lt;/b>&lt;/font> poslano, ko zamenjate SIM kartici. To sporočilo vam bo lahko zaračunal vaš operater."</string>
   <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Če želite posodobiti stanje kartice SIM in zagotoviti, da vse storitve delujejo normalno, bo &lt;font color=#0097FF>&lt;b>mednarodno plačljivo tekstno sporočilo&lt;/b>&lt;/font> poslano, ko zamenjate SIM kartici. To sporočilo vam bo lahko zaračunal vaš operater."</string>

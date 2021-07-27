@@ -453,8 +453,8 @@
          <item quantity="one">%d dan od zadnjega pregleda</item>
      </plurals>
 	 <plurals name="hints_scan_danger_result_with_number">
-         <item quantity="other">%d​ najdenih tveganj, popravi zdaj</item>
-         <item quantity="one">%d najdeno tveganje, popravi zdaj</item>
+         <item quantity="other">%d​ najdenih tveganj</item>
+         <item quantity="one">%d najdeno tveganje</item>
     </plurals>
 	<plurals name="hints_handle_item_text_risk_number">
          <item quantity="other">%d tveganj,</item>
@@ -1031,5 +1031,9 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
 Ustavite se!"</item>
         <item quantity="one">"Videoposnetke gledate že %d uro.
 Ustavite se!"</item>
+     </plurals>
+     <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Izbrišem %d aplikacij?</item>
+        <item quantity="one">Izbrišem %d aplikacijo?</item>
      </plurals>
 </resources>

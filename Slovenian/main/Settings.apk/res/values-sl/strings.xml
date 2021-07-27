@@ -2965,6 +2965,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
     <string name="disable_overlays">Onem. strojni medp.</string>
     <string name="disable_overlays_summary">Za sestavljanje slike vedno uporabi graf. procesor</string>
   <string name="disable_power_key_long_press_under_keyguard">Izključi meni tipke za vklop</string>
+     <string name="disable_quick_start">Izklopite hitri zagon</string>
     <string name="disable_service_message">Če se dotaknete %1$s, se bo storitev %2$s ustavila.</string>
     <string name="disable_service_title">Želite izklopiti »%1$s«?</string>
   <string name="disable_text">Onemogoči</string>
@@ -3312,6 +3313,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="enable_multi_window_summary">Več hkratnih dejavnosti na zaslonu</string>
   <string name="enable_opengl_traces_title">Omogoči sledi OpenGL</string>
   <string name="enable_quick_setting">Pokaži v »Hitrih nastavitvah«</string>
+     <string name="enable_quick_start">Vklopite hitri zagon</string>
   <string name="enable_quickboot_summary">Zaženite napravo v QuickBoot način namesto normalnega izklopa</string>
   <string name="enable_quickboot_title">Omogoči QuickBoot način</string>
     <string name="enable_receiving_mms_notification_title">Dohodno sporočilo MMS</string>

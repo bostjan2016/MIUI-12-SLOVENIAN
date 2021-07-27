@@ -177,6 +177,11 @@
     <string name="app_news_default_title">Novice</string>
     <string name="app_note_add">Dodaj</string>
     <string name="app_note_title_empty">Beležke</string>
+     <string name="app_olympic_card_service_des">Lestvice se posodabljajo sproti</string>
+     <string name="app_olympic_card_service_title">Tabela olimpijskih medalj</string>
+     <string name="app_olympic_card_title">Tabela olimpijskih medalj</string>
+     <string name="app_olympic_gold_medal_country_region">Ekipa</string>
+     <string name="app_olympic_gold_medal_total">Skupaj</string>
      <string name="app_pa_more">Več</string>
      <string name="app_pa_search">Išči</string>
 	<string name="app_pa_setting_bugreport">Povratne informacije</string>
