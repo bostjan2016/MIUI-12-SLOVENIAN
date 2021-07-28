@@ -541,6 +541,7 @@
   <string name="preference_copied">\"%1$s\" je kopirano v odložišče.</string>
   <string name="preparing_sd">Pripravljanje shrambe…</string>
   <string name="previous">Nazaj</string>
+     <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="processing">Obdelava…</string>
   <string name="prompt">Pozor</string>
   <string name="qr_code_details">Podrobnosti QR kode:</string>

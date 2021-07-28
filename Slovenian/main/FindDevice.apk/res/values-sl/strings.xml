@@ -40,7 +40,8 @@
      <string name="copy">Kopiraj</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
-  <string name="default_debt_msg_words">"Ta naprava je zaklenjena zaradi zamude pri plačilu obroka.\Za podrobnosti kontaktirajte svojega prodajalca."</string>
+  <string name="default_debt_msg_words">"Ta naprava je zaklenjena zaradi zamude pri plačilu obroka.
+  Za podrobnosti kontaktirajte svojega prodajalca."</string>
   <string name="default_lock_msg_words">Ta naprava je povezana z obstoječim Mi računom. Iz varnostnih razlogov je potrebno vnesti geslo za kontrolo naprave.</string>
   <string name="default_lock_msg_words_with_phone">Živjo! Izgubil sam mobitel. Me lahko prosim kontaktirate? Hvala!</string>
   <string name="device_locked">Ta naprava je zaklenjena</string>
@@ -57,8 +58,8 @@
   <string name="find_device">Najdi napravo</string>
      <string name="find_device_capture_done_notification_content">Oglejte si fotografijo na i.mi.com</string>
      <string name="find_device_capture_done_notification_title">Najdi napravo je posnela fotografijo na daljavo</string>
-     <string name="find_device_capture_notification_content">Druga pooblaščena naprava fotografira na daljavo preko Najdi napravo na i.mi.com.</string>
-     <string name="find_device_capture_notification_title">Najdi napravo fotografira na daljavo…</string>
+     <string name="find_device_capture_notification_content">Vaš račun je vložil zahtevo za daljinsko fotografiranje s to napravo</string>
+     <string name="find_device_capture_notification_title">Najdi napravo bo posnela fotografijo</string>
      <string name="find_device_crash">Najdi napravo je nepričakovano prekinjen.</string>
      <string name="find_device_error_access_denied">Dostop je zavrnjen.</string>
      <string name="find_device_error_account_sys_timeout">"Ne morem se povezati v Mi Račun"</string>
@@ -69,7 +70,7 @@
     <string name="find_device_error_server">Napaka strežnika (%s).</string>
     <string name="find_device_error_unknown">Neznana napaka (%s).</string>
      <string name="find_device_noise_title">Alarm Najdi napravo</string>
-     <string name="find_device_notice">Pojdite na &lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; če želite poiskati in zakleniti napravo, jo označiti kot izgubljeno, izbrisati podatke ali fotografirati na daljavo.</string>
+    <string name="find_device_notice">Pojdite na &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> če želite napravo poiskati in zakleniti, jo označiti kot izgubljeno, izbrisati podatke ali fotografirati na daljavo.</string>
      <string name="find_device_notice_p1">Pojdite na</string>
      <string name="find_device_notice_p3">" da najdete, zaklenite ali ponastavite svojo napravo</string>
      <string name="find_device_notice_sms_alert">Če zamenjate SIM kartico bo samodejno poslano še eno SMS sporočilo za ponovno aktiviranje te storitve."</string>
