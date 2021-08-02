@@ -1351,6 +1351,7 @@ prednostno"</string>
     <string name="keyguard_carrier_default">Ni storitve.</string>
     <string name="keyguard_charged">Akumulator napolnjen</string>
   <string name="keyguard_charging_back_to_lockscreen">Nazaj na zakl. zaslon</string>
+     <string name="keyguard_charging_double_fast_and_level_tip">Povečanje hitrosti polnjenja %s</string>
   <string name="keyguard_charging_info_battery_used_time_text">Na bateriji</string>
   <string name="keyguard_charging_info_click_to_detail">Pokaži podrobnosti</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Porabljeno</string>
@@ -1687,7 +1688,7 @@ posnetka zaslona"</string>
     <string name="mobile_data">Mobilni podatki</string>
     <string name="mobile_data_always_on">Prenos podatkov v mobilnem omrežju je vedno aktiven</string>
     <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava  (za hiter preklop med omrežji).</string>
-  <string name="mobile_data_disable_message">Ne boste imeli dostopa do mobilnih podatkov ali spleta preko operaterja %s. Splet bo na voljo samo preko WiFi-ja.</string>
+  <string name="mobile_data_disable_message">"Ne boste imeli dostopa do mobilnih podatkov ali spleta preko operaterja %s. Splet bo na voljo samo preko WiFi-ja."</string>
   <string name="mobile_data_disable_message_default_carrier">vaš mobilni operater</string>
   <string name="mobile_data_disable_title">Želite izključiti mobilne podatke?</string>
   <string name="mobile_data_text_format" formatted="false">%s – %s</string>

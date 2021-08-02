@@ -530,6 +530,7 @@ Avdio"</string>
     <string name="notification_channel_in_call_service_crash">Zrušene aplikacije za klicanje</string>
     <string name="notification_channel_incoming_call">Dohodni klici</string>
     <string name="notification_channel_missed_call">Neodgovorjeni klici</string>
+     <string name="notification_channel_missed_call_DND">Ne moti</string>
   <string name="notification_disconnectedCall_body">Klic za %s je prekinjen zaradi klica v sili.</string>
   <string name="notification_disconnectedCall_generic_body">Klic je prekinjen zaradi klica v sili.</string>
   <string name="notification_disconnectedCall_title">Prekiniti klic</string>

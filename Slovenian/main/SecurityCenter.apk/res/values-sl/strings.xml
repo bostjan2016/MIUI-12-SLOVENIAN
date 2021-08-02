@@ -5678,6 +5678,15 @@ Poskusite povečati ločljivost!"</string>
   <string name="wifi_optizition_loading">Vklop Xunyou povečanje hitrosti…</string>
   <string name="wifi_optizition_tip">Vključite povečanje hitrosti omrežja da napravite WiFi povezavo stabilnejšo. Uporabljena bo majhna količina mobilnih podatkov.</string>
   <string name="wifi_optizition_title">Povečaj WiFi hitrost</string>
+     <string name="wireless_charging_connected_message">"Ko se naprava polni brezžično, ni mogoče uporabiti povratnega brezžičnega polnjenja."</string>
+     <string name="wireless_charging_fg_control_cancel">Prekliči</string>
+     <string name="wireless_charging_fg_control_messgae">"Brezžično brezžično polnjenje je bilo izklopljeno, ker je baterije ostalo manj kot %s. Nastavitve lahko prilagodite tako, da bo brezžično polnjenje delovalo dlje."</string>
+     <string name="wireless_charging_fg_control_ok">Prilagodi</string>
+     <string name="wireless_charging_low_battery_level_message">"Brezžičnega brezžičnega polnjenja ni mogoče uporabiti, če je baterija napolnjena manj kot %s."</string>
+     <string name="wireless_charging_ok">Razumem</string>
+     <string name="wireless_charging_saver_cancel">Izključi</string>
+     <string name="wireless_charging_saver_message">Varčevanje z baterijo je zdaj vklopljeno. Naj bo na voljo vzvratno brezžično polnjenje?</string>
+     <string name="wireless_charging_saver_ok">Obdrži</string>
   <string name="wl_no_whitelist">Ni izjem.</string>
   <string name="wlan_booster">WiFi optimizacija</string>
   <string name="wlan_change_protection_detail">"Ne zamenjaj samodejno na WiFi ko je povezano na mobilno omrežje"</string>

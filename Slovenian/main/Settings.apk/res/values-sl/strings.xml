@@ -4166,6 +4166,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="headset_find_tip_title">Pozor</string>
      <string name="headset_find_title">Poiščite svoje slušalke</string>
      <string name="headset_find_voice_warning">Opozorilo o visoki glasnosti</string>
+     <string name="headset_head_tracking_desc">Prilagodi prostorski zvok glede na gibanje glave</string>
+     <string name="headset_head_tracking_title">Sledi gibanju glave</string>
      <string name="headset_notification_switch_summary">Pokaži stanje v pomočniku za obvestila, ko so priključene slušalke</string>
      <string name="headset_notification_switch_title">Pomočnik za obvestila</string>
      <string name="headset_remove_message">Ali želite odstraniti to napravo iz vašega računa?</string>
@@ -9372,7 +9374,9 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="structure_manage_facerecoginition_text">Urejaj podatke 3D obraza</string>
     <string name="style_and_wallpaper_settings_title">Slogi in ozadja</string>
     <string name="style_suggestion_summary">Preizkusite različne sloge, ozadja, ure in drugo</string>
-    <string name="style_suggestion_title">Prilagajanje telefona Pixel</string>
+    <string name="style_suggestion_title">Prilagajanje telefona</string>
+     <string name="stylus_ota_check_failed_battery">"Ni bilo mogoče preveriti. Baterija vašega pisala je skoraj prazna."</string>
+     <string name="stylus_ota_check_failed_info">"Različice vdelane programske opreme ni bilo mogoče preveriti. Spet pritrdite pisalo."</string>
      <string name="stylus_ota_check_update">Preveri za posodobitve</string>
      <string name="stylus_ota_current_firmware_version">Različica programske opreme</string>
      <string name="stylus_ota_demands">Naprava naj bo povezana s pisalom prek povezave Bluetooth. V obeh napravah mora biti med posodobitvijo napolnjenost vsaj %1$s.</string>
@@ -9464,6 +9468,10 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="support_system_information_title">Informacije o sistemu</string>
   <string name="support_tips_and_tricks_title">Preišči nasvete in trike</string>
   <string name="sure_sync_now">Sinhroniziram stvari?</string>
+     <string name="surround_sound_all_desc">Izboljšajte globino reprodukcije zvoka za slušalke in zvočnike</string>
+     <string name="surround_sound_only_headset_desc">Izboljšajte globino reprodukcije zvoka za slušalke</string>
+     <string name="surround_sound_only_speaker_desc">Izboljšajte globino reprodukcije zvoka za zvočnike</string>
+     <string name="surround_sound_title">Prostorski zvok</string>
   <string name="suspend_gesture_enabled">Obrnite telefon da izključite zaslon</string>
   <string name="suspension_ball_enable">Bližnjica menija bližnjic</string>
   <string name="suspension_ball_enable_desc">Vključite/izključite meni bližnjic s pomočjo bližnjice</string>
