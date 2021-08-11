@@ -318,6 +318,7 @@
   <string name="grayscale">Sive nianse</string>
      <string name="half_covered_mode">Nemaskirano</string>
      <string name="hand_query">Preveri naročilo</string>
+     <string name="hint_no_permissions_text">Kliknite gumb Nastavitve in vstopite v upravljanje dovoljenj, da omogočite normalno uporabo dovoljenja za shranjevanje kamere in mobilnega telefona. Skeniraj</string>
   <string name="history">Zgodovina</string>
   <string name="history_empty">Prazno</string>
   <string name="hold_down">Pridržite, da sprejmete besedo</string>

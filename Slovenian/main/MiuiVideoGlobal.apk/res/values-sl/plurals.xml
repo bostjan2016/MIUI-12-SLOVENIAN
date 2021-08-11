@@ -64,6 +64,14 @@
         <item quantity="other">%d map</item>
         <item quantity="one">%d mapa</item>
      </plurals>
+     <plurals name="long_video_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+     </plurals>
+     <plurals name="long_video_season">
+        <item quantity="other">%d sezon</item>
+        <item quantity="one">%d sezona</item>
+     </plurals>
      <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Podnapisi bodo prikazani %.1f sek. prej</item>
         <item quantity="one">Podnapis bo prikazan %.1f sek. prej</item>

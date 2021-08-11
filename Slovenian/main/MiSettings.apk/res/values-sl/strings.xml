@@ -150,6 +150,10 @@
   <string name="dc_light_hint_other">DC zatemnitev lahko vpliva na hitrost osveževanja in način prikazovanja posameznih stvari.</string>
   <string name="dc_lignt_enable_hint">Način proti utripanju nastavi osvežitev zaslona na 60 Hz. Spremenim na način preprečevanja utripanja?</string>
      <string name="delete_first_to_add_animal">Če želite dodati novo stvar, najprej izbrišite kako.</string>
+     <string name="desktop_widget_authorization">Dotaknite se, če želite odobriti dovoljenja za ogled statistike</string>
+     <string name="desktop_widget_not_support">"Statistike časa zaslona
+niso ustvarjene v drugem prostoru"</string>
+     <string name="desktop_widget_screen_use_time">Čas zaslona</string>
      <string name="devices_type_pad">pad</string>
      <string name="devices_type_phone">telefon</string>
   <string name="display_description">Večje ikone, veliko besedilo, manjši vidni nered</string>
@@ -622,6 +626,7 @@
   <string name="unlock_times_per_day">"Dnevno povprečje: "</string>
   <string name="unlock_times_per_hour">"Odklepanj na uro: "</string>
   <string name="usage_agree">Strinjam se</string>
+     <string name="usage_app_desktop_widget_limit">%s ostalo</string>
   <string name="usage_app_get_it">Razumem</string>
   <string name="usage_app_holiday_limit">Nedelovni dnevi</string>
   <string name="usage_app_limit_alter_summary">"Kaže da je ta časovna omejitev krajša od časa današnje uporabe aplikacije. Vseeno nastavim omejitev?"</string>

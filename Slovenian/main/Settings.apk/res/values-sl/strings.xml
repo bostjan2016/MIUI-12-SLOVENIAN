@@ -2969,6 +2969,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
     <string name="disable_service_message">Če se dotaknete %1$s, se bo storitev %2$s ustavila.</string>
     <string name="disable_service_title">Želite izklopiti »%1$s«?</string>
   <string name="disable_text">Onemogoči</string>
+     <string name="disable_uft">Izključi uft</string>
     <string name="disable_wifi_hotspot_title">Brez uporabe dostopne točke WiFi</string>
     <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Deljenje spletne povezave samo prek Bluetootha in etherneta</string>
     <string name="disable_wifi_hotspot_when_bluetooth_on">Deljenje spletne povezave samo prek Bluetootha</string>
@@ -3304,6 +3305,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
      <string name="enable_local_backup">Vklopi</string>
      <string name="enable_local_backup_cancel">Prekliči</string>
      <string name="enable_local_backup_message">Vklopite to storitev, da lahko varnostne kopije shranjujete v tej napravi in jih kopirate v računalnik ali pomnilniško napravo USB. Vklopim zdaj?</string>
+     <string name="enable_local_backup_message_intledition">Vklopite to funkcijo, če želite shraniti varnostne kopije v tej napravi in jih kopirati v računalnik. Vklopim zdaj?</string>
      <string name="enable_local_backup_ok">V redu</string>
      <string name="enable_local_backup_title">Lokalne varnostne kopije</string>
     <string name="enable_mms_notification_channel_title">Sporočilo MMS</string>
@@ -3332,6 +3334,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="enable_terminal_summary">Omogočanje terminalske aplikacije za dostop do lokalne lupine</string>
   <string name="enable_terminal_title">Lokalni terminal</string>
     <string name="enable_text">Omogoči</string>
+     <string name="enable_uft">Vključi uft</string>
     <string name="enable_verbose_vendor_logging">Omogoči podrobno beleženje za ponudnika</string>
     <string name="enable_verbose_vendor_logging_summary">Vključitev dodatnih dnevnikov ponudnika, odvisnih od posamezne naprave, v poročila o napakah. Takšno poročilo lahko vsebuje zasebne podatke, porabi več energije baterije in/ali več shrambe.</string>
   <string name="enable_webview_multiprocess">Omogoči večprocesni WebView</string>
@@ -8561,6 +8564,11 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
     <string name="settings_backup">Varnostno kopiranje nastavitev</string>
     <string name="settings_backup_summary">Varnostno kopiranje nastavitev</string>
   <string name="settings_button">Nastavitve</string>
+     <string name="settings_charging_at_fast_speed">Hitro polnjenje</string>
+     <string name="settings_charging_at_normal_speed">Polnjenje</string>
+     <string name="settings_charging_at_top_speed">Največja hitrost</string>
+     <string name="settings_charging_fully_charged">Napolnjeno</string>
+     <string name="settings_charging_not_charging">Ne polni se</string>
   <string name="settings_forbidden_message">Ta nastavitev je omejena</string>
   <string name="settings_label">Nastavitve</string>
   <string name="settings_label_launcher">Nastavitve</string>
@@ -9438,6 +9446,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="sunday_shortest">N</string>
   <string name="sunlight_mode">Način sončne svetlobe</string>
   <string name="sunlight_mode_summary">Prilagodite svetlost močni ambientalni svetlobi ko je samodejna svetlost izključena</string>
+     <string name="sunlight_mode_summary_new">Prilagodite svetlost močni svetlobi okolice, da preprečite, da bi zaslon postal preveč temen. Ko je močna zunanja svetloba, se na vrhu zaslona prikaže majhna ikona sonca.</string>
   <string name="super_resolution_access_title">Aplikacije na voljo</string>
   <string name="super_resolution_desc">Naredite slike ostrejše s pomočjo AI algoritma</string>
   <string name="super_resolution_maintain">"Super resolucija še ni na voljo."</string>

@@ -3257,6 +3257,8 @@ Shramba poverilnic mogoče ni omogočena"</string>
   <string name="wild_prompt_str">Zamenjaj nadomestni znak z</string>
   <string name="window_animation_scale_title">Hitrost animacije okna</string>
   <string name="wrong_password">Geslo ki ste ga vnesli je nepravilno</string>
+     <string name="xcap_setting_summary">Zapora klicev, Glasovna pošta &amp; preusmeritev klica in čakajoči klic</string>
+     <string name="xcap_setting_title">Nastavitve klicnih storitev</string>
   <string name="xdivert_button">Nastavitve X-Divert</string>
   <string name="xdivert_setting">Nastavitve X-Divert</string>
   <string name="xdivert_summary">Nastavitve CFNRc</string>

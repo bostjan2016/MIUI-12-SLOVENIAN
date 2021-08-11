@@ -804,6 +804,14 @@
         <item quantity="other">%s aplikacij bo zaščiteno z Zakl. aplikacij</item>
         <item quantity="one">%s aplikacija bo zaščitena z Zakl. aplikacij</item>
      </plurals>
+     <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d aplikacij vključno %1$s</item>
+        <item quantity="one">%2$d aplikacija vključno %1$s</item>
+     </plurals>
+     <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d krat</item>
+        <item quantity="one">%d krat</item>
+     </plurals>
      <plurals name="card_uninstall_title">
         <item quantity="other">&lt;Data>Lahko odstranite &lt;font color=#F22424>%d&lt;/font> aplikacij&lt;/Data></item>
         <item quantity="one">&lt;Data>Lahko odstranite &lt;font color=#F22424>%d&lt;/font> aplikacijo&lt;/Data></item>

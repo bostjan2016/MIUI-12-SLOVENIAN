@@ -377,6 +377,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="failed_dup_secure_phone_number">Ta številka telefona je že povezana z drugim Mi Računom</string>
     <string name="failed_to_fetch_data">Ne morem naložiti informacij.</string>
     <string name="failure">"Ne morem prenesti"</string>
+     <string name="favor_movie">Filmi</string>
     <string name="favor_online_video">Videoposnetki</string>
     <string name="favor_playlist">Seznam predvajanja</string>
     <string name="favorite">Priljubljeno</string>
@@ -492,10 +493,8 @@ Pošljite to kodo nadzorniku."</string>
      <string name="galleryplus_orientation_lock">Postavitev zaslona je uspešno zaklenjena</string>
      <string name="galleryplus_orientation_unlock">Postavitev zaslona je odklenjena</string>
     <string name="galleryplus_permission_content">Dodelite aplikaciji Mi Video zahtevana dovoljenja, za uporabo te storitve.</string>
-    <string name="galleryplus_permission_content2">"Za uporabo te storitve pojdite na Nastavitve > Aplikacije > Mi Video > Dovoljenja aplikacij ter aplikaciji Mi Video dovolite:
-
-1. Dostop do pomnilnika
-2. Dostop do ID-ja naprave"</string>
+     <string name="galleryplus_permission_content_opt">Mi Video potrebuje dovoljenja za normalno delovanje. Počistite vse podatke aplikacije v nastavitvah in znova odprite aplikacijo.</string>
+     <string name="galleryplus_permission_content_xms">Mi Video potrebuje dovoljenja za normalno delovanje. Pojdite v Nastavitve in dajte Mi Video zahtevana dovoljenja.</string>
     <string name="galleryplus_permission_open_settings">Nastavitve</string>
      <string name="galleryplus_permission_refuse">Ne, hvala</string>
      <string name="galleryplus_permission_retry">Dovoljenja</string>
@@ -610,6 +609,9 @@ za videoposnetke"</string>
      <string name="logo_neverthink">Neverthink.tv</string>
     <string name="logout">Odjava</string>
   <string name="logout_account">Odjavi se</string>
+     <string name="long_video_no_more_content">"To je za zdaj vse"</string>
+     <string name="long_video_watch_on">Glej</string>
+     <string name="long_video_you_may_also_like">Morda vam bo všeč tudi</string>
     <string name="lp_base_folder">SD kartica</string>
   <string name="lp_play_mode_list_loop">Ponavljaj vse</string>
   <string name="lp_play_mode_pause">Predvajaj enega</string>
@@ -889,6 +891,7 @@ za videoposnetke"</string>
      <string name="open_settings">Nastavitve</string>
     <string name="order_recently_subscribe">Nedavne naročnine</string>
     <string name="order_recently_updated">Nedavno posodobljeno</string>
+     <string name="out_of_memory_background_playback_is_suspended">Predvajanje v ozadju je zaustavljeno zaradi pomanjkanja pomnilnika</string>
     <string name="ovp_alert_dialog_download_install_task">Prenašanje HD vtičnika…</string>
     <string name="ovp_buffering_video_netplay_label_v5">Medpomnjenje…</string>
     <string name="ovp_category">Kategorije</string>

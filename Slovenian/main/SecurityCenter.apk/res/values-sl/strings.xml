@@ -927,6 +927,11 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="battery_status_unknown">Neznana napaka</string>
   <string name="battery_temperature_title">Temperatura</string>
   <string name="begin_date">Datum ponastavitve uporabe</string>
+     <string name="behavior_widget_get_installed_apps">Dostopane aplikacije</string>
+     <string name="behavior_widget_get_location">Dostopane lokacije</string>
+     <string name="behavior_widget_read_clipboard">Dostopano odložišče</string>
+     <string name="behavior_widget_read_contact">Dostopani stiki</string>
+     <string name="behavior_widget_read_write_external_storage">Dostopane datoteke</string>
   <string name="best_booster_status">Na voljo je povečanje hitrosti.</string>
   <string name="bg_network_exception_title">Omejena povezava v ozadju</string>
   <string name="bill_limit_notification_text_format">Kartica: %1$s | Stanje: %2$s CNY</string>
@@ -1803,6 +1808,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost povezavo na splet da uporabite vse storitve Game Turbo?</string>
   <string name="gamebooster_network_dialog_title">"Nekatere stvari niso na voljo"</string>
   <string name="gamebox_app_not_find">Najprej namestite aplikacijo.</string>
+     <string name="gamebox_brightness">Svetlost</string>
   <string name="gamebox_browser_not_find">Najprej namestite Mi brskalnik</string>
      <string name="gamebox_collimator">Pogled</string>
   <string name="gamebox_display_1">Nič</string>
@@ -1828,10 +1834,13 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="gamebox_immerson_open">"Vklop interaktivnega načina, ne menjajte omrežja…"</string>
      <string name="gamebox_macro">Combo</string>
   <string name="gamebox_manual_record">Posnemi</string>
+     <string name="gamebox_mem_clean">Očisti spomin</string>
   <string name="gamebox_milink">Predvajanje</string>
   <string name="gamebox_positive_button_text">V redu (%1$ds)</string>
   <string name="gamebox_qq_not_find">Namestite QQ i poskusite ponovno.</string>
   <string name="gamebox_recent_task_expand_fail">"Aplikacije ki delajo z bližnjicami niso nameščene"</string>
+     <string name="gamebox_screenrecord">Posnetek</string>
+     <string name="gamebox_screenshot">Posnetek zaslona</string>
   <string name="gamebox_simcard">Zamenjaj SIM kartico</string>
      <string name="gamebox_time">Časovnik</string>
   <string name="gamebox_type_close">"Ne kaži"</string>
@@ -1953,6 +1962,11 @@ Posnemite zaporedja in jih kadar koli uporabite!"</string>
   <string name="gb_new_feature">Novo opravilo</string>
      <string name="gb_not_support_on_device">"Te aplikacije ni mogoče uporabljati na zunanjem zaslonu"</string>
      <string name="gb_operat_frequently">Ne tako hitro!</string>
+     <string name="gb_performance_balance">Uravnoteženo</string>
+     <string name="gb_performance_high">Zmogljivost</string>
+     <string name="gb_performance_mode">Način igre</string>
+     <string name="gb_performance_tips">"Če dolgo uporabljate zmogljivi način delovanja
+lahko izprazni baterijo in povzroči pregrevanje"</string>
   <string name="gb_shortcut_pref_title">Bližnjica zač. zaslona</string>
      <string name="gb_shoulder_key">Virtualne tipke</string>
      <string name="gb_shoulder_key_add_show_btn">Pokaži virtualne tipke med igranjem</string>
@@ -1988,7 +2002,14 @@ Posnemite zaporedja in jih kadar koli uporabite!"</string>
   <string name="gb_storage_game_uninstall">Odstrani igre</string>
   <string name="gb_storage_summary">"Na zač. zaslonu ne kaži igre ki so dodane v Game Turbo"</string>
   <string name="gb_storage_title">Odstrani dodane igre iz zač. zaslona</string>
+     <string name="gb_turbo_collimator_subtitle">Uporabi napravo za usmerjanje</string>
+     <string name="gb_turbo_macro_subtitle">Izvedi dejanja na visoki stopnji</string>
      <string name="gb_turbo_new_flag">NOVO</string>
+     <string name="gb_turbo_shoulder_subtitle">Nastavi nadzor igre</string>
+     <string name="gb_turbo_time_subtitle">Začnite vaše seje</string>
+     <string name="gb_turbo_voice_subtitle">Popestrite svoje pogovore</string>
+     <string name="gb_turbo_wonder_subtitle">Posnemite ključne trenutke</string>
+     <string name="gb_voice_change_audition_tip">Demo</string>
   <string name="gb_voice_change_settinged">Menjava glasu je vključena</string>
   <string name="gb_voice_changer_cartoon">Risanka</string>
      <string name="gb_voice_changer_dialog_upgrade_vip">Obnovite naročnino, da boste lahko uporabljali povratne informacije v realnem času.</string>
@@ -2031,6 +2052,8 @@ in raziščite naš menjalnik glasov!"</string>
      <string name="gb_voice_changer_user_status_remain_time">Poteče: %s</string>
      <string name="gb_voice_changer_user_status_renew">Obnovi</string>
      <string name="gb_voice_changer_user_tips_info_vip_expire">Vaše naročnine so potekle. Podaljšajte naročnino, če želite dobiti ugodnosti!</string>
+     <string name="gb_voice_changer_user_vip_expired">Poteklo</string>
+     <string name="gb_voice_changer_user_vip_remain_time">Datum poteka: %s</string>
   <string name="gb_wonderful_moment_toast_window_new_pop">"Zabeležite ključne trenutke
 vašega igranja"</string>
   <string name="gb_wonderful_video_cancel">Prekliči</string>
@@ -2114,6 +2137,17 @@ vašega igranja"</string>
   <string name="gtb_dialog_title_smart_5g">5G optimizacija omrežja</string>
   <string name="gtb_exit_game_to_gtb">Odpri gamebox</string>
   <string name="gtb_exit_game_to_home">Nazaj na zač. zaslon</string>
+     <string name="gtb_guide_finish">Preskoči</string>
+     <string name="gtb_guide_gtb_button_done">Končano</string>
+     <string name="gtb_guide_gtb_community_desc">Delite svoje izkušnje s soigralci</string>
+     <string name="gtb_guide_gtb_community_title">Skupnost</string>
+     <string name="gtb_guide_gtb_func_desc">Okrepite svojo igro</string>
+     <string name="gtb_guide_gtb_func_title">Igre Turbo</string>
+     <string name="gtb_guide_gtb_game_effected">Upoštevano</string>
+     <string name="gtb_guide_gtb_game_new">Novo</string>
+     <string name="gtb_guide_gtb_line_new">Okrepite svojo igro s povsem novim Igre Turbo!</string>
+     <string name="gtb_guide_small_window_app_desc">"Med igranjem uporabljajte druge aplikacije"</string>
+     <string name="gtb_guide_small_window_app_title">Plavajoča okna</string>
   <string name="gtb_setting_item_summary_smart_5g">Kadar koli Game Turbo zazna omrežje 5G, se lahko naprava poveže z najboljšim omrežjem, ki je na voljo, da zmanjša zaostajanje omrežja.</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Povečajte hitrost povezave za 10% -20%, ko ste povezani z usmerjevalniki Mi / Redmi</string>
      <string name="gtb_setting_item_title_brightness">Samodejno zmanjšaj svetlost zaslona</string>
@@ -5665,7 +5699,7 @@ Poskusite povečati ločljivost!"</string>
      <string name="warningcenter_policeassist_noti_send">Lokacija deljena z policijo</string>
      <string name="warningcenter_policeassist_noti_title">Delite svojo lokacijo med klici v sili</string>
      <string name="warningcenter_policeassist_open_btn">Vključi</string>
-     <string name="warningcenter_policeassist_open_content">"Podatke o lokaciji samodejno pošljite policiji s pomočjo SMS-ov ali mobilnih podatkov med klicanjem 110, 120, 119, 122 ili 12122."</string>
+     <string name="warningcenter_policeassist_open_content">"Podatke o lokaciji samodejno pošljite policiji s pomočjo SMS-ov ali mobilnih podatkov med klicanjem 110, 120, 119 ali 122."</string>
      <string name="warningcenter_policeassist_open_title">Med klicem v sili delite svojo lokacijo s policijo</string>
      <string name="warningcenter_policeassist_privacy"><Data>"Prebral sem in se strinjam z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>."</Data></string>
      <string name="warningcenter_policeassist_title">Lokacija za nujne slučaje</string>
