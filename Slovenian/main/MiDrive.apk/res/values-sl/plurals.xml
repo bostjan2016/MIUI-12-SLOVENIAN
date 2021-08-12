@@ -105,10 +105,6 @@
      <plurals name="in_less_than_one_minute">
         <item quantity="other">Takoj</item>
      </plurals>
-     <plurals name="num_minutes_ago">
-        <item quantity="other">pred %d min</item>
-        <item quantity="one">pred 1 minuto</item>
-     </plurals>
      <plurals name="items_file">
         <item quantity="other">" (%1$d)"</item>
         <item quantity="one">" (%1$d)"</item>
