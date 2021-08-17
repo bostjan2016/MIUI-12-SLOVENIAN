@@ -95,6 +95,7 @@
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
+     <string name="garbage_count">Tu je %1$s starih primerkov</string>
     <string name="long_screenshot_guide_text">"Tapnite za izdelavo
 drsnega posnetka zaslona"</string>
     <string name="long_screenshot_out_of_memory_error">Slika je prevelika</string>
@@ -102,6 +103,7 @@ drsnega posnetka zaslona"</string>
     <string name="long_screenshot_stop">Končano</string>
     <string name="long_screenshot_top_msg">Izdelava posnetka zaslona…</string>
     <string name="long_screenshot_top_msg_manual">Obrežite posnetek zaslona in tapnite gumb, da končate</string>
+     <string name="memory_leak">Pomanjkanje spomina</string>
     <string name="midnight">Polnoč</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
@@ -172,6 +174,7 @@ drsnega posnetka zaslona"</string>
      <string name="morning">Jutro</string>
      <string name="night">Večer</string>
     <string name="noon">Poldne</string>
+     <string name="notification_channel_alerts">Opozorila</string>
     <string name="partial_screenshot_edit">Uredi</string>
      <string name="partial_screenshot_failed_to_capture_title">"Ta aplikacija ne dovoljuje posnetkov zaslona"</string>
      <string name="partial_screenshot_failed_to_save_title">"Ne morem shraniti. Ni dovolj prostora za shranjevanje."</string>

@@ -72,9 +72,13 @@
         <item quantity="other">izbrano %d stvari</item>
         <item quantity="one">izbrana %d stvar</item>
      </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+     </plurals>
 <plurals name="notification_warning">
-        <item quantity="other">Premalo prostora za shranjevanje (ostalo manj %d min.)</item>
-        <item quantity="one">Premalo prostora za shranjevanje (ostalo manj %d min.)</item>
+        <item quantity="other">Premalo prostora za shranjevanje (ostalo manj kot %d min.)</item>
+        <item quantity="one">Premalo prostora za shranjevanje (ostalo manj kot %d min.)</item>
      </plurals>
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>

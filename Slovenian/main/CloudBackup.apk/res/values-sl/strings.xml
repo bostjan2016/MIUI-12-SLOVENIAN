@@ -68,9 +68,9 @@
 Zahtevana so dovoljenja."</string>
   <string name="backup_warning_reason_cloud_space_not_enough">"Ne morem napraviti var. kopije"</string>
   <string name="backup_warning_reason_disk_space_not_enough">"Ni dovolj prostora.
-morem napraviti var. kopije"</string>
+Ne morem napraviti var. kopije"</string>
   <string name="backup_warning_reason_network_error">"Napaka omrežja.
-morem napraviti var. kopije"</string>
+Ne morem napraviti var. kopije"</string>
   <string name="backup_warning_reason_no_server_response">"Povezava je prekinjena.
 Poskusite ponovno"</string>
   <string name="btn_back">Nazaj</string>
@@ -158,7 +158,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="confirm_cancel_restore_title">Prekličem povrnitev?</string>
   <string name="confirm_restore">Obnovi</string>
      <string name="confirm_restore_app_data">Prepisovanje podatkov aplikacije</string>
-     <string name="confirm_restore_app_data_summary">Obnovitev podatkov WeChat bo prepisala trenutno različico podatkov aplikacije v tej napravi. Vseeno obnovim?</string>
+     <string name="confirm_restore_app_data_summary">Kaže, da je WeChat že ustvaril podatke o tej napravi. Ali jo želite prepisati s podatki iz varnostne kopije?</string>
   <string name="confirm_restore_summary">Začetni zaslon se bo ponovno zagnal in var. kopija aplikacij bo samodejno prenešena</string>
   <string name="confirm_restore_title">Obnovi</string>
   <string name="copy">Kopiraj</string>
@@ -423,6 +423,8 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="restore_init_description">Začni vračanje</string>
   <string name="restore_network_pause">Ustavljeno za varčevanje mobilnih podatkov. Dotaknite se za nadaljevanje</string>
   <string name="restore_network_unconnect">%s (Čakanje na povezavo)</string>
+     <string name="restore_prepare_item_type_enable">Var. kopije na voljo</string>
+     <string name="restore_prepare_item_type_other">Ostale var. kopije</string>
   <string name="restore_task_cancelling">Prekinjam…</string>
   <string name="restore_task_in_process">Obnovitev…</string>
   <string name="restore_task_unfinished">"Ne morem povrniti"</string>
@@ -439,8 +441,8 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="saturday_shortest">S</string>
   <string name="search_menu_title">Išči</string>
   <string name="selected">Izbrano</string>
-  <string name="self_device_main_space">"Prvi prostor te naprave"</string>
-  <string name="self_device_second_space">"Drugi prostor te naprave"</string>
+  <string name="self_device_main_space">Prvi prostor</string>
+  <string name="self_device_second_space">Drugi prostor</string>
   <string name="self_phone">Ta telefon</string>
   <string name="self_phone_home">Ta telefon: %s</string>
      <string name="send">Pošlji</string>

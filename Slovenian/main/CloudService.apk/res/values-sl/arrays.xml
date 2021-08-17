@@ -164,15 +164,38 @@
         <item>Napravite var. kopije važnih stvari, vključno WiFi in zaslon</item>
         <item>"Napravo zaklenite na daljavo, če jo izgubite"</item>
      </string-array>
+     <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Sinhronizirajte svoje fotografije, zapiske, posnetke in drugo</item>
+        <item>"Zaklenite napravo na daljavo, če je izgubljena"</item>
+     </string-array>
      <string-array name="micloud_entrance_subtitleArray_v2">
         <item>Sinhronizirajte svoje stike, sporočila, beležke, koledar in še več</item>
         <item>Napravite var. kopije aplikacij, videz zač. zaslona in ozadja</item>
         <item>Napravite var. kopije važnih stvari, vključno WiFi in zaslon</item>
         <item>"Napravo zaklenite na daljavo, če jo izgubite"</item>
      </string-array>
+     <string-array name="micloud_entrance_titleArray_pad">
+        <item>Sinhronizirajte podatke aplikacij</item>
+        <item>Najdi napravo</item>
+     </string-array>
      <string-array name="settings_search_notes_v2">
         <item>Sinhr. beležke z Mi Cloudom</item>
         <item>Vključi sinhr.</item>
         <item>Beležke;Cloud;Sinhr.;Cloud storitve;Mi Cloud</item>
+     </string-array>
+     <string-array name="settings_search_recycle_bin_pad">
+        <item>Izbrisane stvari v oblaku Xiaomi</item>
+        <item>Obnovi fotografije, zapiske in drugo</item>
+        <item>Smeti;Izbrisane stvari;Koš;Obnovi;Storitve oblaka;Xiaomi oblak</item>
+     </string-array>
+     <string-array name="settings_search_security_pad">
+        <item>Varnostna sinhronizacija v oblaku</item>
+        <item>Vključi sinh.</item>
+        <item>Varnost;Oblak;Xiaomi oblak;Sinh.;Storitve oblaka</item>
+     </string-array>
+     <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi Cloud. Vse storitve Mi na enem mestu.</item>
+        <item>Dostopajte do svojih fotografij, zapiskov in naprav od kjer koli</item>
+        <item>Premalo prostora;Članstvo;Shramba;Prostor za shranjevanje;Oblak;Sinhronizacija;Storitve v oblaku;Xiaomi Cloud;Smetnjak;Izbrisane stvari;Varnost</item>
      </string-array>
 </resources>
