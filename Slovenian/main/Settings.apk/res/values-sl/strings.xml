@@ -4227,6 +4227,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="headset_remove_message">Ali želite odstraniti to napravo iz vašega računa?</string>
      <string name="headset_remove_message_indicate">%1$s bo razdružen iz vseh naprav, povezanih s tem Mi računom</string>
   <string name="headset_settings_title">Zvočni efekti</string>
+     <string name="headset_toast_tip_disconnect_others">Slušalk trenutno ni mogoče nastaviti, morda so povezane z drugim telefonom</string>
      <string name="headset_unsaved_device">Odstrani napravo</string>
      <string name="headset_unsaved_devices">ne shrani, povežite se na svoj računu v drugem telefonu</string>
   <string name="hearing_aids_category">Slušna pomožna orodja</string>
@@ -4978,6 +4979,8 @@ morate najprej napraviti iCloud var. kopijo"</string>
   <string name="lock_profile_wipe_warning_content_pin">Če tudi tokrat vnesete nepravilno kodo PIN za delovni profil, bodo delovni profil in povezani podatki odstranjeni iz te naprave.</string>
   <string name="lock_profile_wipe_warning_title">Zadnji poskus</string>
      <string name="lock_screen_action">Stvari prikazane na zakl. zaslonu ko podrsate dol</string>
+     <string name="lock_screen_after_fold_screen_summary">Pri uporabi sprednje kamere ali slušalke se zaslon po zložitvi ne zaklene</string>
+     <string name="lock_screen_after_fold_screen_title">Zakleni zaslon po zložitvi zaslona</string>
   <string name="lock_screen_cells_title">Zakleni razpored začet. zaslona</string>
   <string name="lock_screen_display_category_name">Zakl. zaslon</string>
     <string name="lock_screen_intro_skip_dialog_text">Storitve za zaščito naprave ne bodo vklopljene. Če telefon izgubite ali vam ga ukradejo, drugim osebam ne boste mogli preprečiti njegove uporabe.</string>
@@ -5226,7 +5229,9 @@ kot PIN za Prvi prostor"</string>
   <string name="lte_ram_dump_on">Vklopi izpis RAM-a za LTE</string>
   <string name="macaddr_label">MAC naslov:</string>
      <string name="magic_list_empty_text">Trenutno ni nobene aplikacije, združljive s to storitvijo</string>
-     <string name="magic_window_name">Optimizirajte aplikacije za ležeči prikaz</string>
+     <string name="magic_list_empty_text_pad">Trenutno ni nobene aplikacije, združljive s to storitvijo</string>
+     <string name="magic_window_name">Optimiziraj aplikacije za ležeči prikaz</string>
+     <string name="magic_window_name_pad">Optimiziraj aplikacije za ležeči prikaz</string>
   <string name="mah">%d mAh</string>
   <string name="main_netcheck_summary">Testiraj omrežje za težave s povezovanjem</string>
   <string name="main_running_process_description">Glavni proces je v uporabi.</string>
@@ -6748,6 +6753,7 @@ Odprite Xiaomi Cloud in od tam obnovite stvari."</string>
   <string name="paper_mode_summary">Spremenite na toplejše barve in dodajte teksturo papirja ozadju, da zmanjšate obremenitev oči</string>
   <string name="paper_mode_title">Papir</string>
   <string name="papger_effect_category">Način</string>
+     <string name="params_interpretation">Podrobne specifikacije</string>
   <string name="partial_connectivity_text">Nekatere aplik./storitve morda ne bodo delovale zaradi omej. povezljivosti. Želite vseeno uporabiti?</string>
   <string name="passpoint_content">%1$s poverilnice</string>
   <string name="passpoint_label">Shranjeno preko</string>
@@ -10647,6 +10653,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="view_saved_network">Za ogled izberite shranjeno omrežje</string>
   <string name="vip_list">Dovoli dohodne klice</string>
   <string name="vip_mode_info">V tihem načinu boste obveščenio o klicih in SMS sporočilih iz VIP seznama stikov</string>
+     <string name="vip_service_settings">Moje storitve</string>
   <string name="virtual_keyboard_category">Navidezna tipkovnica</string>
     <string name="virtual_keyboards_for_work_title">Navidezna tipkovnica za delo</string>
   <string name="virtual_sim_category_title">Mi gostovanje</string>

@@ -175,6 +175,7 @@ dd.MM."</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
+     <string name="garbage_count">Obstaja %1$s starih primerkov</string>
   <string name="icon_content_description">Ikona dialoga</string>
   <string name="item_view_role_description">Kartica</string>
   <string name="large_time">Velika ura</string>
@@ -182,6 +183,7 @@ dd.MM."</string>
   <string name="line_space">Razmak med vrsticami</string>
   <string name="material_slider_range_end">Konec,</string>
   <string name="material_slider_range_start">Začetek,</string>
+     <string name="memory_leak">Pomanjkanje spomina</string>
   <string name="midnight">AM</string>
   <string name="mini_time">Mala ura</string>
   <string name="minimalist_clock">Enostavna ura</string>
@@ -290,6 +292,7 @@ dd.MM."</string>
   <string name="notification_anim_pulse">Pulzno</string>
   <string name="notification_anim_rhythm">Ritem</string>
   <string name="notification_anim_star">Starlight</string>
+     <string name="notification_channel_alerts">Opozorila</string>
   <string name="notification_nothing">Nič</string>
   <string name="notification_screen_on">Osvetli zaslon</string>
   <string name="off">Izključeno</string>

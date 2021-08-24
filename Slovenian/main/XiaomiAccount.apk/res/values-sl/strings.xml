@@ -253,7 +253,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="find_device_close">Izključeno</string>
   <string name="find_device_display_id">Št. odklepanj: %s</string>
   <string name="find_device_error_password_not_confirmed">"Ne morem izključiti Najdi napravo. Ponovno vnesite geslo Mi Računa"</string>
-  <string name="find_device_error_password_recently_changed">"Zamenjali ste geslo v zadnjih 3 dneh. Ne morem izključiti Najdi napravo iz varnostnih razlogov."</string>
+  <string name="find_device_error_password_recently_changed">"Zamenjali ste geslo v zadnjih %d dneh. Ne morem izključiti Najdi napravo iz varnostnih razlogov."</string>
   <string name="find_device_interrupted">"Opravilo je prekinjeno, počakajte minuto ali dve in poskusite ponovno"</string>
   <string name="find_device_io_error">"Ne morem se povezati na omrežje"</string>
   <string name="find_device_location">Lociraj</string>

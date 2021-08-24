@@ -70,7 +70,7 @@
     <string name="find_device_error_server">Napaka strežnika (%s).</string>
     <string name="find_device_error_unknown">Neznana napaka (%s).</string>
      <string name="find_device_noise_title">Alarm Najdi napravo</string>
-    <string name="find_device_notice">Pojdite na &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> če želite napravo poiskati in zakleniti, jo označiti kot izgubljeno, izbrisati podatke ali fotografirati na daljavo.</string>
+    <string name="find_device_notice">Če izgubite napravo lahko obiščete &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> da jo locirate, zaklenete ali izbrišete podatke.</string>
      <string name="find_device_notice_p1">Pojdite na</string>
      <string name="find_device_notice_p3">" da najdete, zaklenite ali ponastavite svojo napravo</string>
      <string name="find_device_notice_sms_alert">Če zamenjate SIM kartico bo samodejno poslano še eno SMS sporočilo za ponovno aktiviranje te storitve."</string>
@@ -79,7 +79,7 @@
   <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Če želite posodobiti stanje kartice SIM in zagotoviti, da vse storitve delujejo normalno, bo &lt;font color=#0097FF>&lt;b>mednarodno plačljivo tekstno sporočilo&lt;/b>&lt;/font> poslano, ko zamenjate SIM kartici. To sporočilo vam bo lahko zaračunal vaš operater."</string>
   <string name="find_device_stop_noise">Dotaknite se V redu da utišate</string>
   <string name="find_device_storage_corrupted">Prostor za shranjevanje Najdi napravo je poškodovan. Vaša naprava ni več varna.</string>
-  <string name="find_device_success_title">Najdi napravo</string>
+  <string name="find_device_success_title">Najdi napravo vklj.</string>
   <string name="find_device_telephony_fault">Najdi napravo: Napaka Telefonije (%s).</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>

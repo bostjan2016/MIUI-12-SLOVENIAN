@@ -53,6 +53,14 @@
         <item quantity="other">Izbrišem izbrane stvari?</item>
         <item quantity="one">Izbrišem izbrano stvar?</item>
      </plurals>
+     <plurals name="exit_camera_hint">
+        <item quantity="other">"&lt;Data>"Ne morem se povezati s kamero.&lt;br>Ta aplikacija bo zaprta čez &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Po tem počakajte minuto ali dve in poskusite znova."&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>"Ne morem se povezati s kamero.&lt;br>Ta aplikacija bo zaprta čez &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Po tem počakajte minuto ali dve in poskusite znova."&lt;/Data>"</item>
+     </plurals>
+     <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data>Ta naprava je prevroča.&lt;br>Aplikacija bo zaprta čez &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Trenutni napredek je bil samodejno shranjen.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ta naprava je prevroča.&lt;br>Aplikacija bo zaprta čez &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Trenutni napredek je bil samodejno shranjen.&lt;/Data></item>
+     </plurals>
      <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d min</item>
         <item quantity="one">%1$d min</item>

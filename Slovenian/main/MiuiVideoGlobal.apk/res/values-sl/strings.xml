@@ -581,6 +581,7 @@ za videoposnetke"</string>
     <string name="live_tv_title">TV v živo</string>
     <string name="loading">Samo trenutek…</string>
   <string name="local_play_tip">Predvajanje lokalnega videoposnetka</string>
+     <string name="local_push_setting_power_tag">Obvestila o lokalnih videoposnetkih</string>
   <string name="local_push_title">Popularno danes</string>
      <string name="local_video_create_a_new_playlist">Nov seznam predvajanja</string>
      <string name="local_video_date">Datum</string>
@@ -1439,6 +1440,7 @@ Izboljša varnost vašega računa."</string>
      <string name="type_issue">Problem</string>
      <string name="type_suggestion">Predlog</string>
     <string name="ugc_no_net">Povezava z omrežjem ni uspela. Preverite svoje omrežne nastavitve in poskusite ponovno.</string>
+     <string name="ui_common_title_back">Nazaj</string>
     <string name="ui_log_tip">Tapnite to območje za skrivanje, pritisnite in držite za izbris starih zapisov. Ročno povlecite zapise.</string>
     <string name="unknow">Neznano</string>
      <string name="unknown_error_info">Neznana napaka</string>

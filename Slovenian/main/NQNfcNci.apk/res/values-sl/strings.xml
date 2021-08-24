@@ -102,7 +102,7 @@
     <string name="title_discover_tag">Zaznana je oznaka NFC</string>
     <string name="title_sms">Pošlji sporočila</string>
     <string name="title_weblink">Odpri povezavo</string>
-     <string name="toast_bluetooth_enable_fail">Bluetooth ni vklopljen, seznanjanje ni uspelo</string>
+     <string name="toast_bluetooth_enable_fail">Seznanjanje ni bilo mogoče. Najprej vklopite Bluetooth</string>
   <string name="transaction_failure">Transakcije ni bilo mogoče dokončati z %1$s.</string>
   <string name="wifi_connect">Vzpostavi povezavo</string>
 </resources>

@@ -103,6 +103,15 @@
   <string name="accessibility_flash_off">Bliskavica je izključena</string>
   <string name="accessibility_flash_on">Bliskavica je vključena</string>
   <string name="accessibility_flash_torch">Bliskavica je vključena, način svetilke</string>
+     <string name="accessibility_focus_face_pos_bottom">Nahaja se blizu spodnjega roba okvirja</string>
+     <string name="accessibility_focus_face_pos_left">Nahaja se blizu levega roba okvirja</string>
+     <string name="accessibility_focus_face_pos_left_bottom">Nahaja se v spodnjem levem kotu okvirja</string>
+     <string name="accessibility_focus_face_pos_left_top">Nahaja se v zgornjem levem kotu okvirja</string>
+     <string name="accessibility_focus_face_pos_mid">Nahaja se blizu središča okvirja</string>
+     <string name="accessibility_focus_face_pos_right">Nahaja se blizu desnega roba okvirja</string>
+     <string name="accessibility_focus_face_pos_right_bottom">Nahaja se v spodnjem desnem kotu okvirja</string>
+     <string name="accessibility_focus_face_pos_right_top">Nahaja se v zgornjem desnem kotu okvirja</string>
+     <string name="accessibility_focus_face_pos_top">Nahaja se blizu zgornjega roba okvirja</string>
   <string name="accessibility_focus_status">%1$sX zoom</string>
   <string name="accessibility_foucs_peak">Maks. vrednost</string>
   <string name="accessibility_front_preview_status">Pregled prednje kamere</string>
@@ -597,6 +606,7 @@ skenirane dokumente samodejno"</string>
      <string name="dolly_zoom_guide_tip9">Uličice.</string>
      <string name="dolly_zoom_guide_video_title1">Čarobni zoom</string>
      <string name="dolly_zoom_guide_video_title2">Scene</string>
+     <string name="download_alert">"Med prenosom v teku ni mogoče urejati"</string>
   <string name="download_by_browser">Prenesi z brskalnikom</string>
      <string name="download_cancel_hint">Prekličem prenos %1$s?</string>
      <string name="download_confirm">Prenos</string>
@@ -604,6 +614,7 @@ skenirane dokumente samodejno"</string>
      <string name="download_in_progress">Prenos…</string>
   <string name="download_qq">Prenesi QQ</string>
      <string name="download_title">Opozorilo o porabi podatkov</string>
+     <string name="download_waiting">Na čakanju…</string>
   <string name="download_wechat">Prenesi WeChat</string>
   <string name="dual_camera_lens_covered_toast">Objektiv je pokrit.</string>
   <string name="dual_camera_low_constract_toast">Kaže da je kontrast prenizek.</string>
@@ -2148,6 +2159,7 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</s
   <string name="video_effect_entry_wind_sing">Veter</string>
   <string name="video_err">"Ne morem predvajati videoposnetek"</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
+     <string name="video_overheat_tip_content">Kaže da je vaša naprava prevroča. Poskusite posneti video v nižji ločljivosti.</string>
   <string name="video_reach_size_limit">Limit velikosti dosežen.</string>
   <string name="video_shortcut_long">Video</string>
   <string name="video_shortcut_short">Video</string>

@@ -177,6 +177,8 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="device_corrupt">Mi Telefon (podatki so poškodovani)</string>
   <string name="device_delete_prompt">Izbrišem varnostno kopijo za %s?</string>
   <string name="device_xiaomi">Mi Telefon</string>
+     <string name="dialog_app_usage_consent_message">Ta storitev mora dostopati do podatkov o uporabi aplikacij, da lahko oceni velikost varnostnih kopij WeChat.</string>
+     <string name="dialog_app_usage_consent_title">Dovoli dostop do podatkov o uporabi aplikacije</string>
      <string name="dialog_app_usage_denied">Dajte Var. kopiranju dovoljenje za \"Dostop do uporabe\" permission v nastavitvah, če želite varnostno kopirati stvari.</string>
      <string name="dialog_backup_failed">"Varnostne kopije ni bilo mogoče narediti"</string>
      <string name="dialog_btn_cancel_backup">Prekliči</string>
@@ -185,6 +187,8 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="dialog_btn_next">Naprej</string>
   <string name="dialog_btn_overwrite_backup">Prepiši</string>
   <string name="dialog_btn_restore_skip">Vrni kasneje</string>
+     <string name="dialog_button_agree">Dovoli</string>
+     <string name="dialog_button_disagree">"Ne dovoli"</string>
      <string name="dialog_buy_cloud_space">Nadgradnja</string>
   <string name="dialog_cancel_backup_cancel">Prekliči</string>
   <string name="dialog_cancel_backup_confirm">V redu</string>
@@ -206,6 +210,11 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="download_meta_failed">Ne morem prenesti podatkov</string>
   <string name="download_settings">Prenos nastavitev začetnega zaslona %s%%</string>
   <string name="download_settings_fail">"Prenos nastavitev začetnega zaslona ni uspel"</string>
+     <string name="dump_app_data_record_complete_msg">Lokacije datotek: %s</string>
+     <string name="dump_app_data_record_complete_title">Uspešno varnostno kopirani podatki WeChat</string>
+     <string name="dump_app_data_record_not_found_msg">"Kaže da podatkov WeChat še niste varnostno kopirali"</string>
+     <string name="dump_app_data_record_not_found_title">"Varnostnih kopij WeChat ni bilo mogoče najti"</string>
+     <string name="dump_app_data_record_running_title">Varnostno kopiranje podatkov WeChat…</string>
      <string name="early_morning">Jutro</string>
   <string name="error_retry_later">Opravila ne morem končati. Počakajte trenutek ali dva in poskusite ponovno.</string>
   <string name="error_unknown">Prišlo je do napake</string>
