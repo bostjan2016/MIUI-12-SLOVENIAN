@@ -58,6 +58,7 @@
   <string name="app_name">Beležka</string>
   <string name="app_notification_info">Beležke so zagnane v ozadju</string>
   <string name="app_widget">Beležka</string>
+     <string name="app_widget_name_new">Beležka</string>
   <string name="application_icon">Ikona aplikacije</string>
   <string name="attachment_camera">Posnemi fotografijo</string>
   <string name="attachment_contact">"Stiki"</string>
@@ -332,6 +333,7 @@ Tapnite + da napravite mapo"</string>
   <string name="gesture_guide_message">Stvari se lahko dotaknete, pritisnete in pridržite in vlečete za ustvarjanje in preurejanje beležk. Se boste naučili?</string>
   <string name="gesture_guide_ok">Nauči me</string>
   <string name="gesture_guide_title">Kretnje</string>
+     <string name="hand_write_only_support_tablet_editing">Ročno napisane beležke je možno urejati samo na tabličnih računalnikih</string>
      <string name="handwrite_description">Rokopis</string>
   <string name="hear_note">Govorjene beležke</string>
   <string name="hidden_notes_fragment_title">Skrite beležke</string>
@@ -911,6 +913,7 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
   <string name="widget_havenot_content">"Dotaknite se da napravite beležko. Držite pripomoček za menjavo velikosti."</string>
      <string name="widget_havenot_content_new">Dotaknite se da napravite beležko. Pritisnite in podržite za menjavo velikosti.</string>
      <string name="widget_note_list_page_title">Izberite beležko</string>
+     <string name="widget_take_notes_title">Beležke</string>
   <string name="widget_under_privacy_mode">"Ne morem pregledati beležke v načinu Gost"</string>
      <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
      <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
