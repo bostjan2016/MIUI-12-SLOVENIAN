@@ -1011,7 +1011,7 @@ Nazadnje zagnano: %2$s"</string>
   <string name="background_location_requests_summary">"Dovoli aplikacijam uporabo storitve lociranja kadar jih ne uporabljate"</string>
   <string name="background_location_requests_title">Dovoli lociranje v ozadju</string>
   <string name="background_location_select_apps">Izberi vse</string>
-    <string name="background_process_stop_description">To je star proces aplikacije, ki se še vedno izvaja, če bi ga potrebovali. Običajno ga ni treba ustaviti.</string>
+    <string name="background_process_stop_description">To je star proces aplikacije, ki se še vedno izvaja, če bi ga potrebovali. Običajno ga ni potrebno ustaviti.</string>
   <string name="background_restrict_app_dialog_message">Omejevanje dostopa do omrežja v ozadju lahko tej aplikaciji onemogoči da normalno deluje, sprejema obvestila, prenaša vsebino itd. Vseeno omejim?</string>
   <string name="background_traffic">Ozadje %s</string>
   <string name="backtouch_enable_title">Nastavite glasnost zadaj</string>
@@ -1025,7 +1025,7 @@ Nazadnje zagnano: %2$s"</string>
   <string name="backup_data_title">Varnostno kopiranje</string>
   <string name="backup_delete">Izbriši:</string>
   <string name="backup_difference_content">"Lokalne var. kopije:
-Lokalne var. kopije vsebujejo podatke aplikacij in ponavadi vsebujejo več stvari. Datoteke var. kopije se shranjujejo v MIUI-backup-AllBackup in jih je treba kopirati na računalnik po dokončanju var. kopije.
+Lokalne var. kopije vsebujejo podatke aplikacij in ponavadi vsebujejo več stvari. Datoteke var. kopije se shranjujejo v MIUI-backup-AllBackup in jih je potrebno kopirati na računalnik po dokončanju var. kopije.
 
 Var. kopije v Cloudu:
 Rezervne kopije se shranjujejo v Xiaomi Cloudu in omogočajo brezžični dostop. Ta metoda je hitrejša in lažja od lokalnih var. kopij, ampak ne morete varnostno kopirati podatke aplikacij v Xiaomi Cloud.
@@ -2162,7 +2162,7 @@ Ko napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dv
   <string name="color_led_end_time">Čas zaključka</string>
   <string name="color_led_game_mode_summary">Pokaži efekte za igre ko je Game Turbo vključen</string>
   <string name="color_led_game_mode_title">Game Turbo</string>
-  <string name="color_led_hint">Izberite scenarije kadar je treba uporabiti LED lučko. LED lučka bo zasvetila ko bo zaslon obrnjen dol in Ne moti izključeno.</string>
+  <string name="color_led_hint">Izberite scenarije kadar je potrebno uporabiti LED lučko. LED lučka bo zasvetila ko bo zaslon obrnjen dol in Ne moti izključeno.</string>
   <string name="color_led_incall_pulse_title">Uporabi bliskavico za dohodne klice</string>
   <string name="color_led_lucky_dialog_message">Ta storitev zahteva uporabo pomočnika Rdeči ovitki. Ga vključim?</string>
   <string name="color_led_lucky_dialog_title">Vključi Rdeči ovitki pomočnika</string>
@@ -5163,7 +5163,7 @@ kot PIN za Prvi prostor"</string>
   <string name="lockpattern_settings_change_lock_pattern">Spremeni vzorec za odklepanje</string>
   <string name="lockpattern_settings_choose_lock_pattern">Nastavi vzorec za odklepanje</string>
     <string name="lockpattern_settings_enable_power_button_instantly_locks">Zaklepanje z vklopnim gumbom</string>
-  <string name="lockpattern_settings_enable_summary">Za odklepanje zaslona je treba narisati vzorec</string>
+  <string name="lockpattern_settings_enable_summary">Za odklepanje zaslona je potrebno narisati vzorec</string>
     <string name="lockpattern_settings_enable_tactile_feedback_title">Vibriranje ob dotiku</string>
   <string name="lockpattern_settings_enable_title">Zahtevaj vzorec</string>
   <string name="lockpattern_settings_enable_visible_pattern_title">Vzorec je viden</string>
@@ -7602,7 +7602,7 @@ Vmesnik UT: %5$s"</string>
   <string name="recommend_item_title">Priporočeno</string>
      <string name="recommend_text_wakeup_xiaoai">Nastavitve</string>
   <string name="recommend_tip">Potrebujete druge nastavitve?</string>
-     <string name="recommend_tip_wakeup_xiaoai">Za uporabo tipk za interakcijo z Mi AI je treba izklopiti kretnje na celem zaslonu in izbrati tipke kot navigacijski način.</string>
+     <string name="recommend_tip_wakeup_xiaoai">Za uporabo tipk za interakcijo z Mi AI je potrebno izklopiti kretnje na celem zaslonu in izbrati tipke kot navigacijski način.</string>
     <string name="recompute_size">Preračunavanje velikosti…</string>
   <string name="reconnect">Ponovno poveži</string>
   <string name="record_anr_in_background">Posnemi ANR dogodke v ozadju</string>
@@ -8713,7 +8713,7 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
   <string name="show_connected_devices_title">Povezane naprave</string>
   <string name="show_cpu_usage">Pokaži uporabo CPU-ja</string>
   <string name="show_cpu_usage_summary">Prekrivanje zaslona prikazuje tren. uporabo CPU-ja</string>
-  <string name="show_dev_already">Ni treba, ker ste že razvijalec.</string>
+  <string name="show_dev_already">Ni potrebno, ker ste že razvijalec.</string>
   <string name="show_dev_on">Zdaj ste razvijalec.</string>
   <string name="show_fc">Prisilno zaprte aplikacije</string>
   <string name="show_fc_summary">Pokaži aplikacije ki so bile na silo zaprte</string>

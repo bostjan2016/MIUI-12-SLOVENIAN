@@ -829,11 +829,11 @@
   <string name="ext_sdcard_first_entrance_request_failed_title">"Ne morem odobriti dovoljenja."</string>
   <string name="ext_sdcard_guide_first_page_button_text">Naprej</string>
   <string name="ext_sdcard_guide_last_page_button_text">Odobrite dovoljenje</string>
-  <string name="ext_sdcard_guide_text">"Galerija treba vaše dovoljenje za dostop do SD kartice. Kaj lahko naredite:"</string>
-  <string name="ext_sdcard_operation_failed_text">Galerija treba dovoljenje za dostop do SD kartice</string>
+  <string name="ext_sdcard_guide_text">"Galerija potrebuje vaše dovoljenje za dostop do SD kartice. Kaj lahko naredite:"</string>
+  <string name="ext_sdcard_operation_failed_text">Galerija potrebuje dovoljenje za dostop do SD kartice</string>
   <string name="ext_sdcard_operation_failed_title">"Ne morem dokončati"</string>
   <string name="ext_sdcard_permission_request_button_text">Razumem</string>
-  <string name="ext_sdcard_permission_request_reason">Galerija treba vaše dovoljenje za dostop do SD kartice. To ji omogoča brisanje in urejanje fotografij in videoposnetkov shranjenih na SD kartici.</string>
+  <string name="ext_sdcard_permission_request_reason">Galerija potrebuje vaše dovoljenje za dostop do SD kartice. To ji omogoča brisanje in urejanje fotografij in videoposnetkov shranjenih na SD kartici.</string>
   <string name="ext_sdcard_permission_request_title">Odobrite galeriji dostop do SD kartice</string>
   <string name="ext_sdcard_request_failed_button_text">V redu</string>
   <string name="ext_sdcard_request_succeed_toast_text">"Vse je pripravljeno!"</string>

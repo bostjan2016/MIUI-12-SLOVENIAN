@@ -125,7 +125,7 @@
     <string name="et_sort_ascend">Naraščujoče</string>
     <string name="et_sort_descend">Padajiče</string>
     <string name="et_sort_empty">"Ne morem najti nobene vsebine za razvrščanje, izberite druga področja."</string>
-    <string name="et_sort_title_tips">"Glave podatkov je treba razvrstiti."</string>
+    <string name="et_sort_title_tips">"Glave podatkov je potrebno razvrstiti."</string>
     <string name="et_sorter_expand_selection">"Ugotovljeno je bilo, da poleg izbora obstajajo tudi podatki. Katere podatke želite razvrstiti?"</string>
     <string name="et_sorter_expand_selection_cancel">Trenutna izbira</string>
     <string name="et_sorter_expand_selection_ok">Razširi na druga področja</string>

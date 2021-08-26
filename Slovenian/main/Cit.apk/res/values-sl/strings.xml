@@ -429,7 +429,7 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
   <string name="cit_kayboard_volume_down">Tipka: GLASNOST -</string>
   <string name="cit_kayboard_volume_up">Tipka: GLASNOST +</string>
      <string name="cit_keyboard_ai_key">Tipka: AI_KEY</string>
-     <string name="cit_keyboard_auto_test_summary">Ključni dogodki, ki jih je treba preizkusiti, so prikazani spodaj, zelena pa pomeni, da so ustrezni ključni dogodki normalni. Pritisnite gumb za vklop, da se odklopite za izhod v načinu auto_test_mode.</string>
+     <string name="cit_keyboard_auto_test_summary">Ključni dogodki, ki jih je potrebno preizkusiti, so prikazani spodaj, zelena pa pomeni, da so ustrezni ključni dogodki normalni. Pritisnite gumb za vklop, da se odklopite za izhod v načinu auto_test_mode.</string>
   <string name="cit_keyboard_back">Tipka: NAZAJ</string>
   <string name="cit_keyboard_current">Trenutna tipkovnica: %s</string>
   <string name="cit_keyboard_current_def">Trenutna tipkovnica:</string>
@@ -797,7 +797,7 @@ Druga vrstica prikazuje ime in številko različice privzetih MBN in Carrier MBN
      <string name="cit_tool_nfc_test_title">NFC testno orodje</string>
      <string name="cit_tool_no_repeat">Brez ponavljanja!</string>
      <string name="cit_tool_not_support">Ni podprto</string>
-     <string name="cit_tool_opt_fail_info_notify">Izbira ni uspela, telefon je treba znova zagnati za način brez povezave.</string>
+     <string name="cit_tool_opt_fail_info_notify">Izbira ni uspela, telefon je potrebno znova zagnati za način brez povezave.</string>
      <string name="cit_tool_opt_standby">opcija pripravljenosti ...</string>
   <string name="cit_tool_prx_drx">PRx+DRx</string>
   <string name="cit_tool_prx_drx_select_mode">Izberi način:</string>

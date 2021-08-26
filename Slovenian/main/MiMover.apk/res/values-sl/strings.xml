@@ -477,7 +477,7 @@ Open WeChat and go to Me > Settings > General > Var. kopija &amp; premakni pogov
     <string name="need_more_memory_title">Ni dovolj prostora za shranjevanje</string>
     <string name="new_app_name">Nova različica</string>
     <string name="new_main_activity_label">Mi Mover</string>
-    <string name="new_trans_intro_desc_2">V novi različici aplikacije Mi Mover vam ni treba vnesti gesla. Samo odprite Mi Mover na vaši stari napravi, pritisnite \"Sem pošiljatelj\" in tapnite na ime dostopne točke, da se boste povezali.</string>
+    <string name="new_trans_intro_desc_2">V novi različici aplikacije Mi Mover vam ni potrebno vnesti gesla. Samo odprite Mi Mover na vaši stari napravi, pritisnite \"Sem pošiljatelj\" in tapnite na ime dostopne točke, da se boste povezali.</string>
     <string name="new_trans_intro_desc_3">Mi Mover potrebuje prostor, da bo ustvaril paket za prenos na vaši stari napravi, preden jo pošlje na novo napravo. Sprostite prostor, da boste lahko nadaljevali.</string>
     <string name="new_trans_intro_desc_4">Mogoče obstajajo problemi z združljivostjo naprave, sistema ali različice aplikacije, kar pa preprečuje prenos nekaterih aplikacij.</string>
     <string name="new_trans_intro_desc_5">Nekatere aplikacije (npr. finančne storitve in orodja za plačevanje) ne dovoljujejo prenosa gesla zaradi varnostnih razlogov.</string>

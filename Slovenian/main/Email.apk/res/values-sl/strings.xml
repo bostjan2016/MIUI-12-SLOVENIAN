@@ -1411,7 +1411,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="search_tabs_name_subject">Stvar</string>
   <string name="search_title">Združena E-pošta</string>
   <string name="search_txt_size_limit_prompt">Iskane besede morajo biti daljše od 3 črk</string>
-  <string name="security_changed_ticker_fmt">Račun \"%s\" je spremenil varnostne nastavitve, uporabniku ni treba ničesar storiti.</string>
+  <string name="security_changed_ticker_fmt">Račun \"%s\" je spremenil varnostne nastavitve, uporabniku ni potrebno ničesar storiti.</string>
   <string name="security_needed_ticker_fmt">Račun \"%s\" zahteva ažuriranje varnostnih nastavitev.</string>
   <string name="security_notification_content_change_title">Politika varnosti se je spremenila</string>
   <string name="security_notification_content_unsupported_title">Ne morem izpolniti varnostnih pravil</string>

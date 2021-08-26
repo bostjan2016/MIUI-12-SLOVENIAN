@@ -2843,7 +2843,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_battery_scan_consume_abnormal_title_set">%s porablja baterijo</string>
   <string name="notification_channel_battery">Baterija</string>
   <string name="notification_charging_title">"Polnjenje "</string>
-     <string name="notification_checker_installed_apk_hint">Po namestitvi ni treba hraniti APK</string>
+     <string name="notification_checker_installed_apk_hint">Po namestitvi ni potrebno hraniti APK</string>
      <string name="notification_enter_power_save_mode_subtitle">Izklopi, ko je naprava %s ali popolnoma napolnjena</string>
      <string name="notification_enter_power_save_mode_title">Vklopljeno varčevanje z baterijo</string>
   <string name="notification_exit_extreme_mode_text">Baterija je napolnjena več kot %s</string>
@@ -4942,7 +4942,7 @@ Za uporabo ^1 v tej napravi ga morate najprej vpeti."</string>
   <string name="storage_unmount_failure">"Ne morem izpeti %1$s"</string>
   <string name="storage_unmount_success"> %1$s izpet</string>
   <string name="storage_wizard_format_confirm_v2_action">Formatiraj ^1</string>
-  <string name="storage_wizard_format_confirm_v2_body">"Ta ^1 je treba formatirati za shranjevanje aplikacij, datotek in predstavnosti.
+  <string name="storage_wizard_format_confirm_v2_body">"Ta ^1 je potrebno formatirati za shranjevanje aplikacij, datotek in predstavnosti.
 
 Z formatiranjem bo izbrisana vsebina ^2. Če želite preprečiti izgubo vsebine, napravite var. kopijo na drug ^3 ali napravo."</string>
   <string name="storage_wizard_format_confirm_v2_title">Formatiram ^1 zdaj?</string>

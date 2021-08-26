@@ -440,7 +440,7 @@ Avdio"</string>
   <string name="cached_apps_freezer_device_default">Privzeta naprava</string>
   <string name="cached_apps_freezer_disabled">Onemogočeno</string>
   <string name="cached_apps_freezer_enabled">Omogočeno</string>
-  <string name="cached_apps_freezer_reboot_dialog_text">Za začetek veljavnosti te spremembe je treba napravo znova zagnati. Znova zaženite zdaj ali prekličite.</string>
+  <string name="cached_apps_freezer_reboot_dialog_text">Za začetek veljavnosti te spremembe je potrebno napravo znova zagnati. Znova zaženite zdaj ali prekličite.</string>
   <string name="callEnded_pulled">Poziv prenesen na drugo napravo.</string>
     <string name="callFailed_NetworkBusy">Omrežje je zasedeno. Poskusite znova poklicati pozneje.</string>
     <string name="callFailed_NetworkCongested">Omrežje je zasedeno. Za pomoč se obrnite na mobilnega operaterja.</string>
