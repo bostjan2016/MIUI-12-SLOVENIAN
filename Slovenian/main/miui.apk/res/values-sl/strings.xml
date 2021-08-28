@@ -25,6 +25,7 @@
      <string name="close">Zapri</string>
   <string name="com_android_email">E-pošta</string>
   <string name="com_android_soundrecorder">Snemalec</string>
+     <string name="com_mi_globalbrowser">Mi Brskalnik</string>
   <string name="com_mi_liveassistant">Live Streaming pomočnik</string>
   <string name="com_miui_calculator">Kalkulator</string>
   <string name="com_miui_cleanmaster">Čistilec</string>
