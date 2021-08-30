@@ -25,7 +25,7 @@
   <string name="antispam_curr_version">Trenutna verzija: %d</string>
   <string name="antispam_data_downloading">Prenos podatkov o klicatelju. To lahko traja 3-5 sekund.</string>
   <string name="antispam_data_downloading_error">"Ne morem se povezati v omrežje"</string>
-  <string name="antispam_local_newest">Trenutna verzija je posodobljena.</string>
+  <string name="antispam_local_newest">Trenutna verzija je zadnja.</string>
   <string name="antispam_network_remind_summary">Prenesem posodobitev preko mobilnih podatkov?</string>
   <string name="antispam_network_remind_title">Opozorilo uporabe podatkov</string>
   <string name="antispam_pull_newest">Uspešno posodobljeno na %d verzijo</string>

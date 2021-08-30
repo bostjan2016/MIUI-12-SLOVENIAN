@@ -482,10 +482,12 @@
   <string name="goto_set">Nastavi</string>
   <string name="grabage_rank_title">Očiščeno danes</string>
   <string name="guide_dc_dialog_message">"Ostalo je manj kot 2 GB prostora za shranjevanje. To lahko upočasni napravo. Napravite globinsko čiščenje da osvobodite prostor."</string>
+     <string name="guide_dc_dialog_message_new">"Ostalo je manj kot %d GB prostora za shranjevanje. To lahko upočasni napravo. Napravite globinsko čiščenje da osvobodite prostor."</string>
   <string name="guide_dc_dialog_negative">Prekliči</string>
   <string name="guide_dc_dialog_positive">V redu</string>
   <string name="guide_dc_dialog_title">Zmanjkuje prostora za shranjevanje</string>
   <string name="guide_secure_dialog_message">Rezultat optimizacije vaše naprave je manjši od 80 točk. Optimiziram zdaj?</string>
+     <string name="guide_secure_dialog_message_new">Rezultat optimizacije vaše naprave je manjši od %d točk. Optimiziram zdaj?</string>
   <string name="guide_secure_dialog_negative">Prekliči</string>
   <string name="guide_secure_dialog_positive">Optimiziraj</string>
   <string name="guide_secure_dialog_title">Optimiziraj zmogljivost</string>
@@ -580,6 +582,7 @@
   <string name="long_click_dialog_summary">Dolg pritisk za dodajanje v izjeme.</string>
   <string name="long_click_dialog_title">Obvestilo</string>
   <string name="low_memory_clean_dialog_msg">Morate najprej očistiti vsaj 100 MB datotek</string>
+     <string name="low_memory_clean_dialog_msg_new">Morate najprej očistiti vsaj %d MB datotek</string>
   <string name="low_memory_clean_dialog_ok_button">V redu</string>
   <string name="low_memory_clean_dialog_title">Ni dovolj prostora</string>
   <string name="low_memory_warning_dialog_cancel_button">Prekliči</string>
@@ -955,9 +958,12 @@
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
   <string name="tips_low_storage_dialog_cancel">Prekliči</string>
-  <string name="tips_low_storage_dialog_msg_qq">Velikost QQ spomina je dosegla 3 GB. To lahko upočasni vašo napravo. Želite  očistiti QQ predpomnilnik?</string>
+  <string name="tips_low_storage_dialog_msg_qq">Velikost QQ spomina je dosegla 3 GB. To lahko upočasni vašo napravo. Želite počistiti QQ predpomnilnik?</string>
+     <string name="tips_low_storage_dialog_msg_qq_new">Velikost QQ spomina je dosegla %d GB. To lahko upočasni vašo napravo. Želite očistiti QQ predpomnilnik?</string>
   <string name="tips_low_storage_dialog_msg_storage">"Uporabljate 90% prostora za shranjevanje. Odstranite aplikacije ki jih ne uporabljate."</string>
-  <string name="tips_low_storage_dialog_msg_wechat">Velikost WeChat memorije je dosegla 3 GB. To lahko upočasni vašo napravo. Želite očistiti WeChat predpomnilnik?</string>
+     <string name="tips_low_storage_dialog_msg_storage_new">"Uporabljate %s prostora za shranjevanje. Odstranite aplikacije ki jih ne uporabljate."</string>
+  <string name="tips_low_storage_dialog_msg_wechat">Velikost WeChat spomina je dosegla 3 GB. To lahko upočasni vašo napravo. Želite očistiti WeChat predpomnilnik?</string>
+     <string name="tips_low_storage_dialog_msg_wechat_new">Velikost WeChat spomina je dosegla %d GB. To lahko upočasni vašo napravo. Želite očistiti WeChat predpomnilnik?</string>
   <string name="tips_low_storage_dialog_ok">Očisti</string>
   <string name="tips_low_storage_dialog_ok_storage">Osvobodite prostor</string>
   <string name="tips_low_storage_dialog_title">Prostor za shranjevanje je nizek</string>
@@ -1124,6 +1130,9 @@
   <string name="wqfile_group_chat_pic">Slike od pošiljatelja</string>
   <string name="wqfile_group_chat_video">Videoposnetki od pošiljatelja</string>
   <string name="wqfile_group_chat_voice">Glasovna sporočila</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">Na voljo je posodobitev</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yesterday">Včeraj</string>
 </resources>

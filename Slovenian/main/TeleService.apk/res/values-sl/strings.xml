@@ -163,6 +163,7 @@
   <string name="active_phone_success_toast">SIM kartica %1$s preverjena</string>
   <string name="activing_simcard">Preverjanje SIM %1$d</string>
   <string name="activing_simcard_alone">Preverjanje SIM-a…</string>
+     <string name="activity_title_fakecell">Zaščita pred lažnimi baznimi postajami</string>
     <string name="adb_device_fingerprint_title_format">Prstni odtis naprave: %1$s</string>
     <string name="adb_device_forget">Pozabi</string>
   <string name="adb_keys_warning_message">Ali želite preklicati dostop odpravljanju napak preko USB-a z vseh računalnikov katere ste predhodno autorizirali?</string>
@@ -924,6 +925,7 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="description_image_button_two">dva</string>
   <string name="description_image_button_zero">nič</string>
   <string name="description_voicemail_button">govorna pošta</string>
+     <string name="detect_fakecell">Prepoznajte SMS z lažnih baznih postaj</string>
   <string name="dev_logpersist_clear_warning_message">Ko prekinemo spremljanje s pomočjo stalnega zapisovalca moramo izbrisati podatke zapisovalca ki se nahajajo na napravi.</string>
   <string name="dev_logpersist_clear_warning_title">Ali želite izbrisati trajno shrambo zapisovalca?</string>
   <string name="dev_settings_warning_message">Te nastavitve so namenjene samo razvijalcem. Lahko povzročijo okvaro ali neželjeno obnašanje vaše naprave in aplikacij.</string>
@@ -1277,6 +1279,8 @@ Vseeno uporabim mobilne podatke?"</string>
      <string name="fmt_weekday_timezone">W z</string>
      <string name="fold_answer_pref_summary">Napravo zložite, da samodejno sprejme dohodni klic</string>
      <string name="fold_answer_pref_title">Zložite za sprejem klicev</string>
+     <string name="forbidden_fakecell">"Ne povezujte se z lažnimi baznimi postajami"</string>
+     <string name="forbidden_fakecell_summary">Preprečite povezovanje telefona z lažnimi baznimi postajami</string>
     <string name="forbidden_network">(Omejeno)</string>
     <string name="force_allow_on_external">Vsili omogočanje aplikacij v zunanji shrambi</string>
   <string name="force_allow_on_external_summary">Aplikacije se zapisujejo v zunanjo shrambo neodvisno od vrednosti manifesta</string>
@@ -1974,6 +1978,7 @@ Kontaktirajte vašega operaterja."</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="not_sufficient_funds_content">Stanje vašega računa je prenizko. Namesto tega uporabite navadno SIM za klicanje. Stroški klica so vaš problem.</string>
   <string name="not_sufficient_funds_content_title">Premalo sredstev</string>
+     <string name="not_support_forbidden_fakecell">"Vaša naprava ne podpira zaščite na ravni čipov zaradi ponarejenih osnovnih postaj."</string>
   <string name="not_support_message">"Paket doplačila trenutno ne podpira teh številk. Lahko uporabite navaden klic."</string>
   <string name="not_support_title">"Številka ni podprta"</string>
   <string name="not_supported_number_content">"Paket doplačila ne podpira številke storitev. Namesto tega uporabite navadno SIM za klicanje. Stroški klica so vaš problem."</string>
@@ -2545,9 +2550,12 @@ Vmesnik UT: %5$s"</string>
   <string name="respond_via_sms_setting_summary">Spremeni predloge sporočil</string>
   <string name="respond_via_sms_setting_title">Hitri odgovori</string>
   <string name="response_error">Nepričakovan odziv iz omrežja.</string>
+     <string name="restart_details">Če želite vklopiti ali izklopiti to storitev, morate znova zagnati napravo. Ponovno zaženem?</string>
+     <string name="restart_later">Kasneje</string>
+     <string name="restart_now">Ponovno zaženi</string>
   <string name="restaurants_disable">Restavracije so izklopljene</string>
   <string name="restaurants_enable">Restavracije so vklopljene</string>
-  <string name="retail_demo_reset_message">Vnesite zaporku za ponastavitev v demo načinu</string>
+  <string name="retail_demo_reset_message">Vnesite geslo za ponastavitev v demo načinu</string>
   <string name="retail_demo_reset_next">Naprej</string>
   <string name="retail_demo_reset_title">Potrebno je geslo</string>
   <string name="retail_directory_disable">Maloprodajni imenik je izključen</string>
@@ -2566,7 +2574,7 @@ Vmesnik UT: %5$s"</string>
   <string name="roaming">Gostovanje</string>
   <string name="roaming_alert_title">Želite dovoliti podatkovno gostovanje?</string>
   <string name="roaming_check_price_warning">Podatke o cenah dobite pri operaterju.</string>
-  <string name="roaming_customer_service_message_kr">Tapnite za kontaktiranje pomoči za gostovanje (+82-2-2190-0901). U inozemstvu je ovaj poziv besplatan.</string>
+  <string name="roaming_customer_service_message_kr">Tapnite za kontaktiranje pomoči za gostovanje (+82-2-2190-0901). V tujini je ta klic brezplačen.</string>
   <string name="roaming_customer_service_summary_kr">Brezplačni klici v tujino</string>
   <string name="roaming_customer_service_title_kr">Pomoč za gostovanje</string>
   <string name="roaming_disable">Povežite se z podatkovnimi storitvami med gostovanjem</string>
@@ -2859,6 +2867,7 @@ Vmesnik UT: %5$s"</string>
     <string name="supp_service_over_ut_precautions_dual_sim">Če želite uporabiti storitev %1$s, najprej preverite, ali je prenos podatkov v mobilnem omrežju vklopljen za kartico SIM %2$d. To izbiro lahko spremenite v nastavitvah mobilnega omrežja.</string>
     <string name="supp_service_over_ut_precautions_roaming">Če želite uporabiti storitev %s, najprej preverite, ali sta vklopljena prenos podatkov v mobilnem omrežju in podatkovno gostovanje. Ti izbiri lahko spremenite v nastavitvah mobilnega omrežja.</string>
     <string name="supp_service_over_ut_precautions_roaming_dual_sim">Če želite uporabiti storitev %1$s, najprej preverite, ali sta prenos podatkov v mobilnem omrežju in podatkovno gostovanje vklopljena za kartico SIM %2$d. Ti izbiri lahko spremenite v nastavitvah mobilnega omrežja.</string>
+     <string name="support_forbidden_fakecell">Opomba: Omejitev povezave s ponarejenimi baznimi postajami lahko zmanjša signal na območjih s slabo pokritostjo.</string>
   <string name="switch_dds_to_sub_alert">Nastavi to kartico kot privzeto podatkovno kartico.</string>
   <string name="switch_dds_to_sub_alert_msg">Prenesite mobilne podatke na CT SIM</string>
   <string name="switch_off">Izključi</string>

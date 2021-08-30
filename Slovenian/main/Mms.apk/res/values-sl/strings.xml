@@ -1444,6 +1444,9 @@ Oglejte si priporočene!"</string>
   <string name="wednesday_shortest">S</string>
   <string name="wild_msg_processing">Obdelava…</string>
   <string name="wild_msg_title">Izberite številke telefona za sinhr.</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Prekliči</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">V redu</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">%s nova različica</string>
   <string name="xiaomi_service_number">Številka storitve</string>
   <string name="yellowpage_recommend_msg">"Preverite MIUI opravilo za pošiljanje sporočil"</string>
   <string name="yes">V redu</string>

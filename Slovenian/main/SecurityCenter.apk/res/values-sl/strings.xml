@@ -1956,7 +1956,7 @@ Posnemite zaporedja in jih kadar koli uporabite!"</string>
   <string name="gb_gpu_driver_btn_update">Preveri za posodobitve</string>
   <string name="gb_gpu_driver_update">Posodabljanje GPU gonilnika</string>
   <string name="gb_gpu_driver_update_app">Posodobi</string>
-  <string name="gb_gpu_driver_update_app_tips">Trenutna verzija je posodobljena</string>
+  <string name="gb_gpu_driver_update_app_tips">Trenutna verzija je zadnja</string>
      <string name="gb_have_signed">Prijavljen danes</string>
   <string name="gb_manual_record_dialog_del_video_message">Želite trajno izbrisati izbrane videoposnetke?</string>
   <string name="gb_msg_completely_shielded">Skrij sporočila</string>

@@ -330,6 +330,7 @@
      <string name="btn_back">Nazaj</string>
      <string name="btn_more">Več</string>
      <string name="bus_code">Javni prevoz</string>
+     <string name="calc_convert">Pretvori</string>
   <string name="calc_currency">Valuta</string>
   <string name="calc_name">Znanstveni</string>
   <string name="calc_num">Finančni znaki</string>
