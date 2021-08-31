@@ -123,7 +123,6 @@
         <item>Pogoji</item>
         <item>E-pošta Pogoji</item>
      </string-array>
-    </string-array>
      <string-array name="sync_status">
         <item>Sinhr. uspela</item>
         <item>Napaka omrežja.</item>
