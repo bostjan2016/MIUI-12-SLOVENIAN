@@ -40,7 +40,6 @@
         <item>Ime</item>
         <item>Pošiljatelj</item>
         <item>Datum prejema</item>
-     </string-array>
     </string-array>
     <string-array name="moveto_folder_sections">
         <item>Sistem</item>
