@@ -825,6 +825,9 @@ Prenesite in namestite Mi Mover."</string>
   <string name="wednesday">Sreda</string>
   <string name="wednesday_short">Sre</string>
   <string name="wednesday_shortest">S</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">Posodobitev na voljo</string>
   <string name="xiaomi_mobile">Mi Mobile</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezava s programom Prenos ni uspel, preverite stanje v programu Upravljanje aplikacij.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verzijo %1$s

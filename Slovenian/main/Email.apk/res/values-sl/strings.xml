@@ -1139,6 +1139,7 @@ To težavo lahko povzroči dvostopenjsko preverjanje pristnosti računa. Poskusi
   <string name="network_unavailable">Omrežje ni na voljo</string>
   <string name="new_incoming_messages_one">Novo sporočilo od %s. Pokaži.</string>
      <string name="new_mail_notification">Obvestila o novih sporočilih</string>
+     <string name="new_mail_notification_str">Dovoli obvestila</string>
   <string name="new_signature_has_saved">Uspešno shranjeno</string>
   <string name="next_action">Naprej</string>
      <string name="night">Noč</string>

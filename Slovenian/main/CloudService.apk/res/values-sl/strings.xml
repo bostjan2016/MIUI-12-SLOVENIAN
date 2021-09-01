@@ -139,6 +139,11 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="device_activation_card_no_network_error">"Povezave z omrežjem ni bilo mogoče vzpostaviti. Preverite omrežne nastavitve in poskusite znova."</string>
      <string name="device_activation_card_title">Prva aktivacija</string>
      <string name="device_activation_page_title">Aktiviranje naprave</string>
+     <string name="dialog_add_shortcut_content">Dodaj bližnjico na začetnem zaslonu za Xiaomi Cloud, da boste lahko učinkoviteje upravljali vašo shrambo v oblaku.</string>
+     <string name="dialog_add_shortcut_title">Dodaj bližnjico</string>
+     <string name="dialog_storage_full_title">Cloud shramba je polna</string>
+     <string name="dialog_storage_low_content">Nadgradite svoj načrt shranjevanja v oblaku, da boste lahko normalno sinhronizirali stvari.</string>
+     <string name="dialog_storage_low_title">Premalo prostora v oblaku</string>
   <string name="disable_find_device_error">"Ne morem izklopiti opravila Najdi napravo. %1$s"</string>
   <string name="disable_find_device_success">"Najdi napravo" je izključeno.</string>
   <string name="do_not_merge">Prekliči</string>
@@ -458,7 +463,7 @@ Najdite in zaklenite napravo, če se izgubi."</string>
   <string name="micloud_main_battery_low">Baterija preslaba za sinhr.</string>
   <string name="micloud_main_battery_message">"Priključite svojo napravo na polnilec za sinhronizacijo"</string>
   <string name="micloud_main_button_set_internet">Nastavitve</string>
-  <string name="micloud_main_head_menu_cloud_backup">Var. kopija zač. zaslona</string>
+  <string name="micloud_main_head_menu_cloud_backup">Var. kopije</string>
   <string name="micloud_main_head_menu_cloud_backup_summary">Videz začetnega zaslona, aplikacije in nastavitve sistema</string>
   <string name="micloud_main_head_menu_finddevice_summary">"Najdite in zaklenite napravo če se izgubi"</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Najdi napravo ni dostopen v Drugem prostoru, lahko ga uporabite v Prvem prostoru.</string>
@@ -609,11 +614,16 @@ Najdite in zaklenite napravo, če se izgubi."</string>
   <string name="micloud_space_soundrecorder_detail">Urejajte posnetke shranjene na vaši napravi</string>
   <string name="micloud_space_soundrecorder_title">Posnetki</string>
   <string name="micloud_storage">Prostor za shranjevanje</string>
+     <string name="micloud_storage_detail">Podrobnosti</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Zagotovite dovolj Mi Kreditov za samodejno obnovo.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">"Obnoviti morate naročnino."</string>
   <string name="micloud_storage_expires_soon_title">Prostor na Mi Cloud kmalu poteče</string>
   <string name="micloud_storage_expires_very_soon_title">Prostor na Mi Cloud kmalu poteče</string>
+     <string name="micloud_storage_family_quota">Družinska skupna raba</string>
   <string name="micloud_storage_full">Mi Cloud je poln</string>
+     <string name="micloud_storage_full_tip">Shramba je polna</string>
+     <string name="micloud_storage_normal_tip">%s ostalo</string>
+     <string name="micloud_storage_share_family">Družinska skupna raba</string>
   <string name="micloud_storage_unit_gb">%s GB</string>
   <string name="micloud_storage_unit_mb">%s MB</string>
   <string name="micloud_storage_usage" formatted="false">Uporabljeno %s/vsega prostora %s</string>
@@ -649,6 +659,7 @@ Najdite in zaklenite napravo, če se izgubi."</string>
   <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
   <string name="micloud_upgrade_member">Pridobite več prostora</string>
   <string name="micloud_upgrade_space">Pridobite več prostora</string>
+     <string name="micloud_upgrade_storage">Nadgradite načrt shranjevanja</string>
   <string name="micloud_user_space_title">Prostor za shranjevanje</string>
   <string name="micloud_user_space_usage">Prostor za shranjevanje</string>
   <string name="micloud_warn_full_sum">"Nove stvari ne bodo sinhronizirane z Mi Cloud."</string>

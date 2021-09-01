@@ -251,8 +251,10 @@ Tapni za ogled"</string>
   <string name="settings">Nastavitve</string>
   <string name="settings_other">Ostalo</string>
   <string name="settings_privacy">Pravila o zasebnosti</string>
-  <string name="show_hard_key">Vizualiziraj navigacijske tipke</string>
+  <string name="show_hard_key">Pokaži tipke</string>
+     <string name="show_hard_key_new">Pokaži tipke</string>
   <string name="show_hard_key_summary">Pokaži vprašaj pri pritisku na tipke Začetna, Meni in Nazaj</string>
+     <string name="show_hard_key_summary_new">Pokaži vizualne tipke</string>
   <string name="show_screen_touch">Pokaži gibe dotika</string>
   <string name="show_screen_touch_summary">Vizualiziraj gibe z uporabo pike</string>
   <string name="size_byte">B</string>

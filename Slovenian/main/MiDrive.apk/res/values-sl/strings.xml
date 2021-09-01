@@ -290,7 +290,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="file_status_text_no_size">%1$s</string>
   <string name="file_too_large">Datoteka je prevelika za prenos.</string>
   <string name="file_upload_dialog_cancel">Prekliči</string>
-  <string name="file_upload_dialog_title">Izberi kategorijo</string>
+  <string name="file_upload_dialog_title">Dodaj</string>
   <string name="files">Datoteke</string>
   <string name="find_psw">Pozabljeno geslo</string>
   <string name="finished">Končano</string>

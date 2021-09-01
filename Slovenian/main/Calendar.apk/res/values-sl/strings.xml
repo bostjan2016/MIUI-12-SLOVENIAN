@@ -97,7 +97,7 @@
      <string name="additional_cal_pref_title">Dodatni koledar</string>
      <string name="additional_calendar_note">Nekateri dodatni koledarji morda niso na voljo ali se razlikujejo glede na nestalne dejavnike</string>
      <string name="address">Naslov</string>
-  <string name="afternoon">PM</string>
+  <string name="afternoon">Popoldne</string>
   <string name="agenda_month_empty_hint">Za danes ni dogodkov</string>
   <string name="agenda_not_today_empty_hint">Še ni dogodkov. Tapnite za izdelavo.</string>
   <string name="agenda_today">Danes, %1$s</string>
@@ -807,7 +807,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="no_visiable_calendar_select_account">Dodaj račun</string>
   <string name="no_visiable_calendar_title">Dodaj račun koledarja</string>
      <string name="none">Nič</string>
-  <string name="noon">PM</string>
+  <string name="noon">Poldne</string>
      <string name="not_more_than_three_weekday">Izberete lahko do 3 dni</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="not_synced">Ni sinhronizirano</string>

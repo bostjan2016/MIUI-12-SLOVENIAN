@@ -2249,7 +2249,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="quick_settings_rotation_locked_landscape_label">Ležeče</string>
     <string name="quick_settings_rotation_locked_portrait_label">Pokončno</string>
     <string name="quick_settings_rotation_unlocked_label">Samodejno sukanje</string>
-     <string name="quick_settings_rotationlock_label">Zavrti</string>
+     <string name="quick_settings_rotationlock_label">Zakleni postavitev</string>
     <string name="quick_settings_rssi_emergency_only">Le klici v sili</string>
   <string name="quick_settings_rssi_label">RSSI</string>
      <string name="quick_settings_screen_record_label">Snemalec zaslona</string>

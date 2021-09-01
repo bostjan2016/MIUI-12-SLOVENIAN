@@ -60,8 +60,8 @@
   <string name="dialog_miplay_permission_positive">Nastavitve</string>
   <string name="dialog_miplay_permission_title">Potrebno je dovoljenje</string>
   <string name="dialog_nfc_cast_wifi_off">Vključite WiFi da boste lahko predvajali preko NFC. Vključim?</string>
-  <string name="dialog_no_device_message">1. Povežite telefon in TV na isto WiFi omrežje.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Pri nekaterih modelih televizorjev je ta storitev na voljo samo ko je vklopljeno oddajanje zaslona. Poglejte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomoč\"&amp;lt;/a&amp;gt; da izveste več.</string>
-  <string name="dialog_no_device_message_china">1. Povežite telefon in TV na isto WiFi omrežje.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Pri nekaterih modelih televizorjev je ta storitev na voljo samo ko je vklopljeno oddajanje zaslona. Poglejte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomoč\"&amp;lt;/a&amp;gt; da izveste več.</string>
+  <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Mobilno napravo in televizor povežite z istim omrežjem Wifi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Pri nekaterih modelih televizorjev je ta storitev na voljo samo, če je zrcaljenje zaslona vklopljeno. Poglejte &lt;a href=milink://com.milink.service/specification>\"Pomoč\"&lt;/a> da izveste več.</Data></string>
+  <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Mobilno napravo in televizor povežite z istim omrežjem Wifi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Pri nekaterih modelih televizorjev je ta storitev na voljo samo, če je zrcaljenje zaslona vklopljeno. Poglejte &lt;a href=milink://com.milink.service/specification>\"Pomoč\"&lt;/a> da izveste več.</Data></string>
   <string name="dialog_ok">V redu</string>
   <string name="dialog_only_suport_content">Streamajte fotografije, videoposnetke ali glasbo</string>
   <string name="dialog_open_wifi_bt">Vključi</string>
@@ -69,17 +69,17 @@
 Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="dialog_recent_connected">Nedavno</string>
   <string name="dialog_retry">Poskusi ponovno</string>
-  <string name="dialog_scan_message">"1. Povežite telefon in TV na isto WiFi omrežje.
+  <string name="dialog_scan_message">"%1$d. Mobilno napravo in televizor povežite z istim omrežjem Wifi.
 
-2. Pri nekaterih modelih televizorjev je ta storitev na voljo samo ko je vklopljeno oddajanje zaslona. Poglejte \"Pomoč\" za več informacij."</string>
-  <string name="dialog_scan_message_china">"1. Povežite telefon in TV na isto WiFi omrežje.
+%2$d. Poglejte \"Pomoč\" da izveste več."</string>
+  <string name="dialog_scan_message_china">""%1$d. Mobilno napravo in televizor povežite z istim omrežjem Wifi.
 
-2. Pri nekaterih modelih televizorjev je ta storitev na voljo samo ko je vklopljeno oddajanje zaslona. Poglejte \"Pomoč\" za več informacij."</string>
+%2$d. Poglejte \"Pomoč\" da izveste več."</string>
   <string name="dialog_scanning_device">Iskanje naprav v bližini…</string>
   <string name="dialog_scanning_precondition">Vključite WiFi in Bluetooth na svojemm telefonu za uporabo brezžičnega zaslona.</string>
      <string name="dialog_scanning_precondition_new_china">Vključite WiFi, Bluetooth in storitve lociranja za uporabo brezžičnega zaslona. Vključim?</string>
      <string name="dialog_scanning_precondition_new_global">Vključite WiFi, Bluetooth in storitve lociranja za uporabo brezžičnega zaslona. Vključim?</string>
-  <string name="dialog_select_tv">Izberite napravo (%d)</string>
+  <string name="dialog_select_tv">Izberite napravo (%1$d)</string>
   <string name="dialog_show_help">Pomoč</string>
   <string name="disconnect">Ustavi predvajanje</string>
      <string name="early_morning">Jutro</string>
@@ -87,6 +87,57 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="evening">Večer</string>
      <string name="expand_button_title">Napredno</string>
      <string name="file_read_des">Za prikaz fotografij in drugih datotek na zunanjih monitorjih</string>
+     <string name="fmt_date">D</string>
+     <string name="fmt_date_day">d</string>
+     <string name="fmt_date_long_month">MMMM</string>
+  <string name="fmt_date_long_month_day">d. MMMM</string>
+  <string name="fmt_date_long_year_month">MMMM, yyyy</string>
+  <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>
+  <string name="fmt_date_numeric_day">dd.</string>
+  <string name="fmt_date_numeric_month">MM.</string>
+  <string name="fmt_date_numeric_month_day">dd.MM.</string>
+  <string name="fmt_date_numeric_year">yyyy</string>
+  <string name="fmt_date_numeric_year_month">MM/yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
+  <string name="fmt_date_short_month">MM.</string>
+  <string name="fmt_date_short_month_day">dd.MM.</string>
+  <string name="fmt_date_short_year_month">MMM yyyy</string>
+  <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
+     <string name="fmt_date_time">D T</string>
+     <string name="fmt_date_time_timezone">D T z</string>
+     <string name="fmt_date_timezone">D z</string>
+     <string name="fmt_date_year">yyyy</string>
+     <string name="fmt_time">T</string>
+     <string name="fmt_time_12hour">hh</string>
+     <string name="fmt_time_12hour_minute">hh:mm</string>
+     <string name="fmt_time_12hour_minute_pm">hh:mm a</string>
+     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
+     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
+     <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S a</string>
+     <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss a</string>
+     <string name="fmt_time_12hour_pm">hh a</string>
+     <string name="fmt_time_24hour">HH</string>
+     <string name="fmt_time_24hour_minute">HH:mm</string>
+     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
+     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+     <string name="fmt_time_millis">S</string>
+     <string name="fmt_time_minute">m</string>
+     <string name="fmt_time_minute_second">m:s</string>
+     <string name="fmt_time_minute_second_millis">m:s.S</string>
+     <string name="fmt_time_second">s</string>
+     <string name="fmt_time_second_millis">s.S</string>
+     <string name="fmt_time_timezone">zT</string>
+     <string name="fmt_timezone">z</string>
+     <string name="fmt_weekday">W</string>
+     <string name="fmt_weekday_date">W, D</string>
+     <string name="fmt_weekday_date_time">W, D T</string>
+     <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+     <string name="fmt_weekday_date_timezone">W, D z</string>
+     <string name="fmt_weekday_long">EEEE</string>
+     <string name="fmt_weekday_short">E</string>
+     <string name="fmt_weekday_time">W T</string>
+     <string name="fmt_weekday_time_timezone">W T z</string>
+     <string name="fmt_weekday_timezone">W z</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
@@ -107,31 +158,34 @@ Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="help_page_text_02">Kaj je predvajanje?</string>
   <string name="help_page_text_03">"Predvajanje projecira stvari iz zaslona vašega telefona na večji zunanji monitor. Omogoča vam deljenje slik in videoposnetkov z prijatelji in družino, pa tudi da skupaj igrate igre. Poraba energije vašega telefona se pri uporabi ponavadi ne spremeni."</string>
   <string name="help_page_text_04">Kako lahko predvajam stvari na večji zaslon?</string>
-  <string name="help_page_text_05">Korak 1: Preverite svoje naprave in omrežno okolje</string>
-  <string name="help_page_text_06">"1. Če želite oddati nekaj iz Mi telefona na Mi TV se vam ni potrebno povezati na splet.
-2. Če ne morete vzpostaviti povezave med obema napravama, poskusite obe povezati v isto omrežje WiFi."</string>
-  <string name="help_page_text_06_global">"1. Mi televizorji, Mi Box in Mi projektorji:
-Za najboljši učinek povežite telefon in zunanji monitor z istim omrežjem WiFi. Če sta povezana v različni omrežji lahko traja nekaj časa da se povežeta.
-Opomba: Starejši Mi televizorji morda ne podpirajo predvajanja v različnih omrežjih.
-2. Če uporabljate televizorje, Tv boxe ali projektorje drugih znamk povežite telefon in zunanji monitor z istim omrežjem WiFi.
-Če obeh naprav ni mogoče povezati v isto omrežje, vklopite Miracast na zunanjem monitorju. Poimenovanje storitve Miracast se lahko razlikuje."</string>
-  <string name="help_page_text_07">3. Nekateri Xiaomi televizorji ali televizorji drugih znamk ne podpirajo pametnega oddajanja. Če brezžičnega omrežja ni ali če se televizor in mobilni telefon ne moreta povezati v isto omrežje, morate vklopiti televizor (ali napravo z velikim zaslonom) in [Miracast] Mirror projection screen]. To ime se lahko razlikuje za različne znamke televizorjev. Naslednjo stran lahko premaknete na dno te strani in izveste več.</string>
-  <string name="help_page_text_08">Korak 2</string>
+  <string name="help_page_text_05">Korak %1$d: preverite svoje naprave in omrežno okolje </string>
+  <string name="help_page_text_06">"%1$d. Televizorji Xiaomi, sprejemniki, projektorji:
+Za najboljši učinek priključite mobilno napravo in zunanji monitor na isto omrežje WiFi. Če so povezani v različna omrežja, lahko traja več časa, da poiščete zunanji monitor in se povežete
+Opomba: Starejši modeli televizorjev morda ne podpirajo predvajanja v različnih omrežjih.
+%2$d. Če uporabljate televizorje, televizijske sprejemnike ali projektorje drugih blagovnih znamk, mobilno napravo in zunanji monitor povežite z istim omrežjem WiFi.
+Če obeh naprav ni mogoče povezati v isto omrežje, vklopite Miracast na zunanjem monitorju. Poimenovanje funkcionalnosti Miracast se lahko razlikuje."</string>
+  <string name="help_page_text_06_global">""%1$d. Televizorji Xiaomi, sprejemniki, projektorji:
+Za najboljši učinek priključite mobilno napravo in zunanji monitor na isto omrežje WiFi. Če so povezani v različna omrežja, lahko traja več časa, da poiščete zunanji monitor in se povežete
+Opomba: Starejši modeli televizorjev morda ne podpirajo predvajanja v različnih omrežjih.
+%2$d. Če uporabljate televizorje, televizijske sprejemnike ali projektorje drugih blagovnih znamk, mobilno napravo in zunanji monitor povežite z istim omrežjem WiFi.
+Če obeh naprav ni mogoče povezati v isto omrežje, vklopite Miracast na zunanjem monitorju. Poimenovanje funkcionalnosti Miracast se lahko razlikuje."</string>
+  <string name="help_page_text_08">Korak %1$d: Vklopite predvajanje</string>
   <string name="help_page_text_09">"Tapnite bližnjico \"Predvajaj\" na vaši mobilni napravi v plošči obvestil. Vključite WiFi in Bluetooth za stabilnejšo povezavo."</string>
-  <string name="help_page_text_10">Če želite predvajati stvari iz Galerije ali Mi Video, lahko uporabite v teh aplikacijah vgrajene storitve za predvajanje.</string>
-  <string name="help_page_text_11">Korak 3</string>
+     <string name="help_page_text_09_global">"Tapnite bližnjico \"Predvajaj\" na vaši mobilni napravi v plošči obvestil. Vključite WiFi in Bluetooth za stabilnejšo povezavo."</string>
+  <string name="help_page_text_10">Če želite predvajati fotografije, videoposnetke, igre ali predstavitve, lahko uporabite vgrajene funkcije predvajanja v ustreznih aplikacijah. </string>
+  <string name="help_page_text_11">Korak %1$d: Izberite napravo</string>
   <string name="help_page_text_12">Izberite zunanjo napravo s spiska naprav na voljo da boste začeli predvajanje.</string>
   <string name="help_page_text_13">"Povezovanje z zunanjo napravo ni možno?"</string>
-  <string name="help_page_text_14">"1. Millet TV screencast, nadgradite aplikacijo Wireless Screening na seznamu aplikacij za televizijo na najnovejšo različico. 
-2. Če želite povečati stopnjo uspešnosti povezave, lahko poskusite telefon povezati s televizorjem v istem omrežju WiFi. Vendar nekateri usmerjevalniki morda ne bodo mogli zagotoviti stabilnega povezavnega okolja za zaslon, kar povzroči da ni nobene povezave ali pogoste prekinitve. 
-3. Če uporabljate Mi TV, bi vklop Bluetootha lahko izboljšal povezavo. 
-4. Če ni WiFi omrežij se prepričajte ali naprava (npr.. TV) podpira storitev Miracast. To ime je različno na različnih napravah. Glejte spodnje informacije, če želite izvedeti več o funkciji Miracast na različnih napravah
-."</string>
-  <string name="help_page_text_14_global">"1. Če želite uporabiti Xiaomi napravo, a je ne najdete na spisku naprav poskusite:
-Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem ali povežite zunanji monitor z hotspotom telefona. Če ni brezžičnega omrežja ali če se televizor in mobilni telefon ne moreta povezati na isto omrežje, preverite ali so storitve predvajanja v zunanjem monitorju posodobljene, vključite Bluetooth v vašem telefonu in v zunanjem monitorju in vključite Miracast na televizorju.
-2. Če prvič predvajate na Xiaomi napravo morate dokončati preverjanje.
-3. Če uporabljate napravo, ki ni Xiaomi, ali je ne najdete na spisku naprav poskusite:
-Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem ali povežite zunanji monitor z hotspotom telefona."</string>
+  <string name="help_page_text_14">"%1$d. Če želite uporabiti napravo Xiaomi, vendar je ne najdete na seznamu razpoložljivih naprav, poskusite naslednje:
+Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje ali pa zunanji monitor priključite na dostopno točko mobilne naprave. Če ni na voljo nobenega omrežja ali ne morete povezati obeh naprav v isto omrežje, preverite, ali so funkcije oddajanja na vašem zunanjem monitorju posodobljene, vklopite Bluetooth tako v mobilni napravi kot na zunanjem monitorju in vklopite na televizorju Miracast.
+%2$d. Če prvič predvajate na napravi Xiaomi, morate dokončati preverjanje.
+%3$d. Če želite uporabiti napravo, ki ni Xiaomi, vendar je ne najdete na seznamu razpoložljivih naprav, poskusite naslednje:
+Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje ali pa zunanji monitor priključite na dostopno točko mobilne naprave. Če to ne pomaga, namestite aplikacijo HappyCast na televizor in sledite navodilom."</string>
+  <string name="help_page_text_14_global">"%1$d. Če želite uporabiti napravo Xiaomi, vendar je ne najdete na seznamu razpoložljivih naprav, poskusite naslednje:
+Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje ali pa zunanji monitor priključite na dostopno točko mobilne naprave. Če ni na voljo nobenega omrežja ali ne morete povezati obeh naprav v isto omrežje, preverite, ali so funkcije oddajanja na vašem zunanjem monitorju posodobljene, vklopite Bluetooth tako v mobilni napravi kot na zunanjem monitorju in vklopite na televizorju Miracast.
+%2$d. Če prvič predvajate na napravi Xiaomi, morate dokončati preverjanje.
+%3$d. Če želite uporabiti napravo, ki ni Xiaomi, vendar je ne najdete na seznamu razpoložljivih naprav, poskusite naslednje:
+Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje ali pa zunanji monitor priključite na dostopno točko mobilne naprave. Če to ne pomaga, namestite aplikacijo HappyCast na televizor in sledite navodilom."</string>
   <string name="help_page_text_15">Miracast funkcionalnost na različnih napravah</string>
   <string name="help_page_text_16">Mi TV/Mi Projektor</string>
   <string name="help_page_text_17">"Xiaomi mobilni telefon se lahko neposredno poveže z večino Xiaomi TV s funkcijo Bluetooth, namesto da ročno odpre storitev Miracast.
@@ -173,9 +227,10 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
   <string name="help_page_text_51">LeTV</string>
   <string name="help_page_text_52">Preverite ali model večjega zaslona podpira Miracast protokol. Na nekaterih modelih izberite Nastavitve &gt; Omrežje &gt; Multi-zaslon &gt; Brezžični zaslon.</string>
   <string name="help_page_text_53">LeTV pomoč uporabnikom: 10109000</string>
-   <string name="help_page_text_55">"Če ni WiFi-ja na voljo preverite če zunanji zaslon (npr. TV) podpira storitev Miracast. Ime te storitve je različno na različnih napravah. Če želite izvedeti več glejte spodnje podatke o Miracastu na različnih napravah.
-4. V primeru drugih težav uporabite aplikacijo Povratne informacije."</string>
-     <string name="help_page_text_55_global">"Če se ne morete povezati na omrežje preverite ali vaš zunanji monitor podpira Miracast storitev in ali je vključena. Pri različnih modelih se to lahko imenuje brezžični zaslon, predvajanje zaslona ali večkratni zaslon.</string>
+   <string name="help_page_text_55">"Če se ne morete povezati z omrežjem, se prepričajte, da vaš zunanji monitor podpira funkcijo Miracast in da je vklopljen. Pri nekaterih modelih se ta funkcija imenuje brezžični zaslon, zrcaljenje zaslona ali več zaslonov. Oglejte si spodnje informacije, če želite izvedeti, kako vklopite Miracast.
+%1$d. Če naletite na kakršne koli težave, jih lahko prijavite z aplikacijo \ "Storitve in povratne informacije \"."</string>
+   <string name="help_page_text_55_global">"Če se ne morete povezati z omrežjem, se prepričajte, da vaš zunanji monitor podpira funkcijo Miracast in da je vklopljen. Pri nekaterih modelih se ta funkcija imenuje brezžični zaslon, zrcaljenje zaslona ali več zaslonov. Oglejte si spodnje informacije, če želite izvedeti, kako vklopite Miracast.
+%1$d. Če naletite na kakršne koli težave, jih lahko prijavite z aplikacijo \ "Storitve in povratne informacije \"."</string>
   <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
   <string name="keyguard_security_setting_privacy_policy">Pravila o zasebnosti</string>
      <string name="midnight">Noč</string>

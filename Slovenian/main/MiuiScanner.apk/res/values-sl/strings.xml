@@ -209,6 +209,7 @@
   <string name="error_invalid_request">Napaka avtentikacije</string>
   <string name="error_media_storage_failure">"Ne morem shraniti fotografije"</string>
   <string name="error_minute_limit">Preveč poskusov v 1 minuti</string>
+     <string name="error_not_found_activity">Ne morem najti nobene aplikacije za odpiranje v formatu PDF</string>
   <string name="error_null_cursor">Ups! Nekaj ni v redu!</string>
   <string name="error_permissions">"Skener nima potrebnih dovoljenj za normalno delo. Pojdite v Nastavitve in preverite dovoljenja za nadaljevanje."</string>
   <string name="error_server_error">Napaka strežnika</string>
@@ -520,6 +521,7 @@
   <string name="pdf_save_sucess">Uspešno shranjeno</string>
   <string name="permission_denied_albums">Dovolite dostop do fotografij, predstavnosti in datotek v napravi za pregled albumov</string>
   <string name="permission_denied_images">Dovolite dostop do fotografij, predstavnosti in datotek v napravi za pregled slik</string>
+     <string name="personalassistant_not_install">"Ta storitev še ni podprta!"</string>
   <string name="phone">Telefon:</string>
    <string name="phone_can_not_be_empty">"Telefonska številka ne sme biti prazna"</string>
   <string name="phone_number">Telefonska številka</string>

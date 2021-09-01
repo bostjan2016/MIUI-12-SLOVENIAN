@@ -33,6 +33,7 @@
   <string name="access_token_expired_warning">Weibo račun je potekel</string>
   <string name="access_token_invalid_warning">Weibo račun je neveljaven</string>
   <string name="account">Račun</string>
+     <string name="account_and_password">Geslo</string>
   <string name="account_bind_devices">Naprave</string>
   <string name="account_bind_new_phone">Dodaj nov telefon</string>
   <string name="account_bind_phone_notice">Uporabi to številko telefona za prijavo v račun, odpoved gesla ali spremembo varnostnih nastavitev.</string>
@@ -92,12 +93,16 @@
   <string name="account_user_name_dialog_title">Vnesi uporabniško ime</string>
   <string name="account_user_other_info">Več virov</string>
   <string name="account_user_phone">Številka telefona</string>
+     <string name="account_user_phone_show">Telefon: %s</string>
   <string name="account_user_recovery_phone">Telefon za obnovitev</string>
   <string name="account_user_region">Regija</string>
   <string name="account_user_secure_info">Telefon &amp; E-pošta</string>
   <string name="account_user_using_facebook_avatar">Uporabi Facebook fotografijo profila</string>
   <string name="account_user_using_qq_avatar">Uporabi QQ fotografijo profila</string>
   <string name="account_user_using_weibo_avatar">Uporabi Sina Weibo fotografijo profila</string>
+     <string name="account_verify_guide_bind_mail_desc">Dodajte obnovitveni e -poštni naslov</string>
+     <string name="account_verify_guide_bind_phone_desc">Dodajte obnovitveni telefon</string>
+     <string name="account_verify_guide_set_password_desc">Nastavite geslo</string>
   <string name="account_vip_achievements">Dosežki</string>
   <string name="account_vip_level">Račun</string>
   <string name="account_xiaomi_service">Storitve</string>
@@ -244,6 +249,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="facebook">Facebook</string>
   <string name="facebook_login">Prijavite se z Facebook računom</string>
   <string name="failed_dup_secure_phone_number">Ta številka telefona je že povezana z drugim Mi Računom</string>
+     <string name="family_share">Družinska skupna raba</string>
   <string name="find_device">Najdi napravo</string>
   <string name="find_device_access_denied">"Ne morem dobiti statusa, dostop zavrnjen"</string>
   <string name="find_device_account_error">"Ne morem dobiti statusa zaradi napake računa"</string>
@@ -273,6 +279,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="find_device_set_lost_model">Izgubljeni način dela</string>
   <string name="find_device_title">Najdi napravo</string>
   <string name="find_device_unknown_error">"Ne morem pridobiti statusa naprave, počakajte minuto ali dve in poskusite ponovno"</string>
+     <string name="find_equipment">Najdi napravo</string>
   <string name="first_login_time">Prvi poskus prijave: %s</string>
      <string name="fmt_date">D</string>
      <string name="fmt_date_day">dd</string>
@@ -330,6 +337,7 @@ Pošaljite to kodo našemu tehniku."</string>
     <string name="friday">Petek</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
+     <string name="get_back_password">Ponastavi geslo</string>
   <string name="get_back_pwd">Ponastavitev vašega gesla</string>
   <string name="get_device_list_failed">Ne morem pridobiti naprave</string>
   <string name="get_identity_auth_url_failed">"Ne morem preveriti ID"</string>
@@ -469,14 +477,18 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="my_favorite">Moji priljubljeni</string>
      <string name="need_install_wechat">Najprej namestite WeChat</string>
     <string name="night">Noč</string>
+     <string name="no_install">Ni nameščeno</string>
   <string name="no_network_btn">Osveži</string>
   <string name="no_network_title">"Ne morem se povezati z omrežjem."</string>
+     <string name="no_password_set">Ni nastavljeno</string>
   <string name="no_phone">Ni številke telefona</string>
   <string name="no_response_retry">Ni odgovora, poskusite ponovno.</string>
   <string name="no_sim_card_or_unactivated">Ni SIM kartice ali pa ni aktivirana</string>
   <string name="nobind">Ni povezano</string>
     <string name="noon">Poldne</string>
   <string name="not_set">Ni nastavljeno</string>
+     <string name="notify_bind_security_phone">Dodajte obnovitveni telefon</string>
+     <string name="notify_complete_security_info">Dodajte podatke za obnovitev</string>
   <string name="notify_network_restricted_content_bg_network">"Mi Račun nima dostopa do spleta. Tapnite za odobritev."</string>
   <string name="notify_network_restricted_content_hidden_state">"Aktivnost Mi Računa v ozadju je omejena. Tapnite za odobritev."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Račun nima dostopa do spleta. Tapnite za odobritev."</string>
@@ -766,6 +778,7 @@ ki ste ga prejeli v vaš poštni predal
   <string name="permission_group_phone">Telefon</string>
   <string name="permission_group_sms">SMS</string>
   <string name="permission_group_storage">Shramba</string>
+     <string name="personal_info_desc">Fotografija, vzdevek in drugo</string>
   <string name="phone_activated">%s aktivirano</string>
   <string name="phone_num_use_for">Telefonska številka se uporablja za:</string>
   <string name="photoPickerNotFoundText">Ni dostopnih fotografij.</string>
@@ -844,6 +857,7 @@ ki ste ga prejeli v vaš poštni predal
  Poskrbite da boste vedeli odgovore!"</string>
   <string name="select_all">Izberi vse</string>
      <string name="select_location_title">Izberite vašo lokacijo</string>
+     <string name="self_account_info">Osebne informacije</string>
     <string name="send">Pošlji</string>
   <string name="send_diagnosis_log">Pošlji dnevnik pregleda</string>
   <string name="send_email_activate_message">E-pošta za preverbo poslana</string>
@@ -874,6 +888,7 @@ ki ste ga prejeli v vaš poštni predal
   <string name="system_ad_switch_failed">"Ne morem uporabiti"</string>
   <string name="talkback_scan_barcode">Skeniraj QR kodo</string>
   <string name="temporary_not_available">"Trenutno še ni na voljo"</string>
+     <string name="third_party_login">Računi tretjih oseb</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>
