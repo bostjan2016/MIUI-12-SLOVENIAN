@@ -232,7 +232,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="fmt_date_numeric_year">yyyy</string>
   <string name="fmt_date_numeric_year_month">MM/yyyy</string>
   <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
-  <string name="fmt_date_short_month">MMM</string>
+  <string name="fmt_date_short_month">MM.</string>
   <string name="fmt_date_short_month_day">dd.MM.</string>
   <string name="fmt_date_short_year_month">MMM yyyy</string>
   <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
@@ -259,7 +259,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
      <string name="fmt_time_minute_second_millis">m:s.S</string>
      <string name="fmt_time_second">s</string>
      <string name="fmt_time_second_millis">s.S</string>
-  <string name="fmt_time_timezone">T z</string>
+     <string name="fmt_time_timezone">zT</string>
      <string name="fmt_timezone">z</string>
      <string name="fmt_weekday">W</string>
   <string name="fmt_weekday_date">W, D</string>

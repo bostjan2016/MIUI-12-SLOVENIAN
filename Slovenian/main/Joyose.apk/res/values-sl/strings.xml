@@ -37,10 +37,11 @@
     <string name="cc_version">"Trenutna verzija: "</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
-    <string name="connect_wifi">Poveži na WiFi</string>
+    <string name="connect_wifi">Poveži se na WiFi</string>
+     <string name="copy">Kopiraj</string>
      <string name="date_picker_lunar">Tradicionalni kitajski koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
-    <string name="detect_fakecell">Prepoznajte SMS z lažnih osnovnih postaj</string>
+    <string name="detect_fakecell">Prepoznajte SMS z lažnih baznih postaj</string>
      <string name="early_morning">Jutro</string>
     <string name="end_title">Igre je konec</string>
      <string name="evening">Večer</string>

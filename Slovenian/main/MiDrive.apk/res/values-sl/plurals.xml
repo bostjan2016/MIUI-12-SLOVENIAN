@@ -105,6 +105,10 @@
      <plurals name="in_less_than_one_minute">
         <item quantity="other">Takoj</item>
      </plurals>
+     <plurals name="in_num_minutes">
+        <item quantity="other">čez %d minut</item>
+        <item quantity="one">čez 1 minuto</item>
+     </plurals>
      <plurals name="items_file">
         <item quantity="other">" (%1$d)"</item>
         <item quantity="one">" (%1$d)"</item>

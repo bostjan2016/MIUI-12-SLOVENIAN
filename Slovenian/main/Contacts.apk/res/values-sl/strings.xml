@@ -819,7 +819,7 @@ Razlog: \"%s\""</string>
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
-  <string name="fmt_time_timezone">T z</string>
+     <string name="fmt_time_timezone">zT</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
   <string name="fmt_weekday_date">W, D</string>

@@ -789,6 +789,7 @@
      <string name="help_email_title">MI pošta</string>
   <string name="help_me_get_qq_auth">Dobite kodo</string>
   <string name="help_weixin_title">"Vprašanja nam pošljite na naš službeni WeChat račun: "</string>
+     <string name="hide_attachment">Skrij priponko</string>
   <string name="hide_elided">▼ Skrij citirano besedilo</string>
   <string name="hide_password">Skrij geslo</string>
   <string name="hint_quick_reply_all">Odgovori vsem</string>
@@ -1597,6 +1598,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="share_choose">Izberite datoteko za deljenje</string>
   <string name="sharing">Deli</string>
   <string name="shortcut_name_title">Bližnjica imena mape</string>
+     <string name="show_attachment">Pokaži priponko</string>
   <string name="show_contact_address">Pokaži e-poštni naslov stika</string>
   <string name="show_elided">▶ Pokaži citirano besedilo</string>
   <string name="show_images">Prenesi in pokaži slike</string>

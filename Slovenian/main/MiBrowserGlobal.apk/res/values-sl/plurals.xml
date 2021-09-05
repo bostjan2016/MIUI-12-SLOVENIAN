@@ -44,6 +44,7 @@
     <plurals name="articles_updated_amount">
         <item quantity="other">Poglej %1$d novih člankov</item>
         <item quantity="one">Poglej %1$d nov članek</item>
+        <item quantity="few">Poglej %1$d novih člankov</item>
     </plurals>
     <plurals name="auto_play_next_tips">
         <item quantity="other">Predvajaj naslednji video čez %d sekund</item>
@@ -164,10 +165,6 @@
         <item quantity="other">%d popularnih pesmi</item>
         <item quantity="one">%d popularna pesem</item>
     </plurals>
-    <plurals name="transfer_prompt">
-        <item quantity="other">Predvajaj video čez %1$d sekund</item>
-        <item quantity="one">Predvajaj video čez %1$d sekundo</item>
-    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d izbrano</item>
         <item quantity="one">%1$d izbran</item>
@@ -215,5 +212,6 @@
     <plurals name="vote_all_people">
         <item quantity="other">%d oseb je glasovalo</item>
         <item quantity="one">%d oseba je glasovala</item>
+        <item quantity="few">%d osebe so glasovale</item>
     </plurals>
 </resources>
