@@ -2263,11 +2263,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="quick_settings_sim_disabled">" (Onemogočeno)"</string>
   <string name="quick_settings_sync_label">Sinhr.</string>
   <string name="quick_settings_tethering_label">Deljenje povezave</string>
-     <string name="quick_settings_tiles">privzeto</string>
-     <string name="quick_settings_tiles_default">wifi,bt,ne moti,bliskavica,rotacija,baterija,celica,letalo,cast,posnetek zaslona,samodejna svetlost</string>
      <string name="quick_settings_tiles_old_mode">celica,wifi,bt,bliskavica,varčevanje baterije,posnetek zaslona,uredi</string>
-     <string name="quick_settings_tiles_retail_mode">noč,temno,ne moti,bliskavica,rotacija,lokacija</string>
-     <string name="quick_settings_tiles_stock">wifi,celica,baterija,ne moti,bliskavica,rotacija,bt,letalo,lokacija,hotspot,inverzija,ohranjevalec,temno,delo,cast,noč,posnetek zaslona,obratno</string>
      <string name="quick_settings_tiles_super_save">celica,wifi,bt,gps,vibriraj</string>
     <string name="quick_settings_time_label">Čas</string>
   <string name="quick_settings_toast_drag_to_enable_custom_tile">Za dodajanje stvari jo tapnite in podržite, potem pa jo odvlecite na zgornji del plošče.</string>

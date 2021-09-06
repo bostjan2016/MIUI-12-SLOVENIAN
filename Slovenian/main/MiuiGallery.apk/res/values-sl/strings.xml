@@ -1187,7 +1187,6 @@ za fotografije"</string>
   <string name="grant_permission_go_and_set">Nastavi</string>
      <string name="grant_permission_go_and_set_2">Nastavitve</string>
      <string name="grant_permission_go_and_set_3">Nastavitve</string>
-     <string name="grant_permission_item">\"%s\"</string>
      <string name="grant_permission_shortcut">Dovolite tej aplikaciji, da najprej ustvari bližnjico na začetnem zaslonu.</string>
      <string name="grant_permission_storage">Najprej dovolite tej aplikaciji dostop do pomnilnika.</string>
      <string name="grant_permission_storage_unlock">Odklenite napravo in tej aplikaciji najprej omogočite dostop do shrambe.</string>
