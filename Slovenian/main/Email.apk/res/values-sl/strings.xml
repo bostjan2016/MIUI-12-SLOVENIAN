@@ -699,30 +699,22 @@
   <string name="folder_junk_name_en2">Smeti</string>
   <string name="folder_junk_name_en3">Smeti</string>
   <string name="folder_junk_name_en4">Smeti</string>
+     <string name="folder_list_current_account">Trenutni nabiralnik</string>
   <string name="folder_list_display_all">Pokaži vse mape</string>
   <string name="folder_list_display_only_import">Pokaži samo pomembne mape</string>
   <string name="folder_no_mails">Ni pošte</string>
      <string name="folder_notification_setting_tip">V mapi »Prejeto« imate več map. Nastavite obvestila o novih sporočilih v določenih mapah.</string>
   <string name="folder_picker_title">Izberi mape</string>
-  <string name="folder_removed">Odstranjeno iz %1$s</string>
-  <string name="folder_sent_name_cn0">已发送</string>
-  <string name="folder_sent_name_cn1">已发邮件</string>
-  <string name="folder_sent_name_cn2">已发送邮件</string>
-  <string name="folder_sent_name_cn3">[Gmail]/已发邮件</string>
-  <string name="folder_sent_name_en0">Poslano</string>
+  <string name="folder_removed">Odstranjeno iz %1$s</string>  <string name="folder_sent_name_en0">Poslano</string>
   <string name="folder_sent_name_en1">Poslana sporočila</string>
   <string name="folder_sent_name_en2">Poslano sporočilo</string>
   <string name="folder_sent_name_en3">Poslano</string>
   <string name="folder_sent_name_en4">[Gmail]/Poslano</string>
   <string name="folder_shortcut_widget_label">E-poštna mapa</string>
-  <string name="folder_synchronization_mail_settings">Nastavitve sinhronizacije map</string>
-  <string name="folder_trash_name_cn0">已删除</string>
-  <string name="folder_trash_name_cn1">已删除邮件</string>
-  <string name="folder_trash_name_cn2">[Gmail]/已删除邮件</string>
-  <string name="folder_trash_name_en0">Koš</string>
+  <string name="folder_synchronization_mail_settings">Nastavitve sinhronizacije map</string>  <string name="folder_trash_name_en0">Koš</string>
   <string name="folder_trash_name_en1">Izbrisana sporočila</string>
   <string name="folder_trash_name_en2">Izbrisano sporočilo</string>
-  <string name="folder_trash_name_en3">[Gmail]/Bin</string>
+  <string name="folder_trash_name_en3">[Gmail]/Koš</string>
   <string name="font_bold_add">BoldFont</string>
   <string name="font_bold_remove">Odpovej BoldFont</string>
   <string name="font_color">Trenutna barva je %s</string>

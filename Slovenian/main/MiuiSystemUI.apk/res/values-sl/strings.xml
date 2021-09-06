@@ -2011,6 +2011,8 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Izberite &lt;font color="#a5220e"&gt;\"Izbriši &amp;amp; prekliči\"&lt;/font&gt; in počakajte ponovni zagon.</Data></string>
   <string name="phone_locked_forget_password_suggesstions_title">Kako izbrisati podatke?</string>
   <string name="phone_locked_string">Telefon je zaklenjen</string>
+     <string name="phone_locked_string_owner_user">Preveč neuspešnih poskusov vnosa gesla za prvi prostor. Ta naprava je zdaj zaklenjena.</string>
+     <string name="phone_locked_string_second_user">Preveč neuspešnih poskusov vnosa gesla za drugi prostor. Ta naprava je zdaj zaklenjena.</string>
     <string name="picture_color_mode">Način barv slike</string>
     <string name="picture_color_mode_desc">Uporaba sRGB-ja</string>
     <string name="pip_close">Zapri PiP</string>

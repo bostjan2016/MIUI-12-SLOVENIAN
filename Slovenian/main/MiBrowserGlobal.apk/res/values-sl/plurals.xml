@@ -119,7 +119,7 @@
     </plurals>
     <plurals name="mw_matches_found">
         <item quantity="other">%1$d od %2$d</item>
-        <item quantity="one">%d ujemanje</item>
+        <item quantity="one">1 ujemanje</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">Po %d sekundah bo samodejno ustvarjana nova stran</item>

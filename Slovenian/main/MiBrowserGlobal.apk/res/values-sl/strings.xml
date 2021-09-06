@@ -1062,6 +1062,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="mw_actionbar_web_search">Spletno iskanje</string>
      <string name="mw_add_to_dictionary">Dodaj v slovar</string>
     <string name="mw_autofill_popup_content_description">Prikaz pojavnega okna s samodejnim izpolnjevanjem</string>
+     <string name="mw_chip_remove_icon_content_description">"Odstrani '%1$s'"</string>
     <string name="mw_color_picker_button_black">Črna</string>
     <string name="mw_color_picker_button_blue">Modra</string>
     <string name="mw_color_picker_button_cancel">Prekliči</string>
@@ -1143,6 +1144,7 @@ Crash ID: http://crash/%1$s"</string>
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">Prejšnji mesec</string>
     <string name="mw_license_activity_title">Sistemski spletni prikaz dovoljenj</string>
+     <string name="mw_link_copied">Povezava kopirana</string>
     <string name="mw_low_memory_error">Zadnjega opravila ni mogoče dokončati zaradi pomanjkanja pomnilnika</string>
   <string name="mw_menu_refresh">Osveži</string>
     <string name="mw_miui_content_copy">Kopiraj</string>
@@ -1257,6 +1259,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
     <string name="mw_save_password_notnow">Ne zdaj</string>
     <string name="mw_save_password_remember">Zapomni si</string>
   <string name="mw_search_menu_title">Išči</string>
+     <string name="mw_speech_recognition_service_not_found">"Googlovega govornega mehanizma ni mogoče najti"</string>
     <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">AM</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
@@ -1269,7 +1272,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
     <string name="mw_video_download_no_permission">Za prenos stvari so potrebna dovoljenja</string>
     <string name="mw_video_float_drag_scale_msg">Povlecite za pomanjšanje</string>
     <string name="mw_video_float_window">Pojavno okno</string>
-    <string name="mw_video_float_window_playing">Predvajanje videoposnetka</string>
+    <string name="mw_video_float_window_playing">Video se predvaja v načinu plavajočega okna</string>
     <string name="mw_video_play_error">Videoposnetka ni mogoče predvajati</string>
     <string name="mw_webview_find_on_page">Poišči na strani</string>
     <string name="mw_webviewchromium_private_browsing_warning">Ta storitev ni podprta v tej različici operacijskega sistema Android.</string>

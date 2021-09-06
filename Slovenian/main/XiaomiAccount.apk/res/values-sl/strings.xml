@@ -738,6 +738,7 @@ ki ste ga prejeli v vaš poštni predal
   <string name="passport_title_reg">Ustvari račun</string>
   <string name="passport_trust_device">Dodaj to napravo k zaupanja vrednim</string>
   <string name="passport_trying_read_verify_code_sms">Pridobivanje kode…</string>
+     <string name="passport_tz_invalid">Ugotovljena varnostna tveganja. Ta naprava je morda rootana ali flashana. Preizkusite druge možnosti prijave.</string>
   <string name="passport_uplink_reg">Uporabi številko telefona</string>
   <string name="passport_uplink_send_sms_hint">"Tapnite \"Pošlji\" ko boste preusmerjeni na stran z sestavljenim sporočilom."</string>
   <string name="passport_uplink_slot1_reg">Uporabi SIM 1</string>

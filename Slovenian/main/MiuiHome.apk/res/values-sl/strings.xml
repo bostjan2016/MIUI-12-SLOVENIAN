@@ -566,6 +566,10 @@
   <string name="navigation_guide_recent_summary">Povlecite navzgor z dna zaslona in začasno ustavite</string>
   <string name="navigation_guide_recent_title">Odpri Nedavno</string>
   <string name="navigation_guide_settings">Demo kretnja</string>
+     <string name="navigation_set_miui_home_as_default_dialog_cancel">Prekliči</string>
+     <string name="navigation_set_miui_home_as_default_dialog_message">"Gibov na celotnem zaslonu ni mogoče uporabljati z zaganjalniki tretjih oseb. Preklopite na zaganjalnik sistema in vklopite poteze na celotnem zaslonu?"</string>
+     <string name="navigation_set_miui_home_as_default_dialog_ok">V redu</string>
+     <string name="navigation_set_miui_home_as_default_dialog_title">Pozor</string>
   <string name="navigation_type_full_screen">Kretnje</string>
   <string name="navigation_type_title">Navigacija sistema</string>
   <string name="navigation_type_virtual_key">Tipke</string>
@@ -661,10 +665,10 @@
   <string name="recommend_app">Predlogi aplikacij</string>
   <string name="recommend_apps_default_title">Prazno</string>
   <string name="recommend_apps_no_data">Ni podatka</string>
-  <string name="recommend_apps_no_data_toast">Ni priporočil.</string>
-  <string name="recommend_apps_notice">Priporočene aplik.</string>
-  <string name="recommend_apps_notice_nodata">Priporočene aplik. (Ni podataka)</string>
-  <string name="recommend_apps_switch_title">Priporočene aplik.</string>
+  <string name="recommend_apps_no_data_toast">"V \"Današnja priporočila\" še ni ničesar".</string>
+  <string name="recommend_apps_notice">Današnja priporočila</string>
+  <string name="recommend_apps_notice_nodata">Današnja priporočila (Ni ničesar)</string>
+  <string name="recommend_apps_switch_title">Današnja priporočila</string>
   <string name="recommend_apps_tips">"To opravilo za normalno delovanje potrebuje povezavo s spletom. Za izključitev te storitve se dotaknite imena te mape."</string>
   <string name="recommend_loading">Samo trenutek</string>
   <string name="recommend_refresh">Osveži</string>

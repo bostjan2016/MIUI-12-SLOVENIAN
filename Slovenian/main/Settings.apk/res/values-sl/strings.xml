@@ -1519,6 +1519,7 @@ Z %2$s še niste bili povezani."</string>
   <string name="bluetooth_pairing_rejected_error_message">Naprava %1$s je zavrnila seznanitev.</string>
   <string name="bluetooth_pairing_request">Seznanim z napravo %1$s?</string>
     <string name="bluetooth_pairing_shares_phonebook">Dovolite dostop do vaših stikov in zgodovine klicev</string>
+     <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Dovolite dostop do stikov</string>
      <string name="bluetooth_pairing_toast_add_to_blackfile">Uspešno blokirano. Blokirane stvari lahko upravljate v \"Dodatne nastavitve\".</string>
   <string name="bluetooth_pairing_will_share_phonebook">Seznanjanje pri vzpostavljeni povezavi omogoči dostop do vaših stikov in zgodovine klicev.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Skupna raba lokalne spletne povezave z napravo</string>
@@ -2904,6 +2905,8 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s in prepreči
   <string name="dialog_check_title">"Ne morem se povezati na omrežje"</string>
   <string name="dialog_chose_item">Izberite stvar za prikaz</string>
   <string name="dialog_content_login">Se želite prijaviti v svoj Mi račun za posodobitve?</string>
+     <string name="dialog_esim_button_negative">Prekliči</string>
+     <string name="dialog_esim_button_positive">V redu</string>
     <string name="dialog_location_message">"Telefon ne more ustrezno upravljati porabe energije akumulatorja, ker aplikacija %1$s nenehno zahteva lokacijo, tudi ko aplikacije ne uporabljate.
 
 Težavo lahko odpravite tako, da izklopite ugotavljanje lokacije za to aplikacijo."</string>
@@ -2919,6 +2922,12 @@ Težavo lahko odpravite tako, da izklopite ugotavljanje lokacije za to aplikacij
   <string name="dialog_restrict_all_wlan_title">Omeji WiFi povezavo</string>
   <string name="dialog_restrict_negative">Omeji</string>
   <string name="dialog_restrict_positive">Prekini</string>
+     <string name="dialog_softbank_esim_wipe_cancel">Prekliči</string>
+     <string name="dialog_softbank_esim_wipe_info">Če nadaljujete, bodo vsi podatki eSIM izbrisani. Vseeno nadaljujem?</string>
+     <string name="dialog_softbank_esim_wipe_ok">Nadaljuj</string>
+     <string name="dialog_softbank_esim_wipe_title">Izbriši podatke eSIM</string>
+     <string name="dialog_softbank_esime_context">Ta naprava se mora povezati s spletom, da lahko aktivira eSIM. Preskočim aktivacijo eSIM?</string>
+     <string name="dialog_softbank_esime_title">Preskoči aktivacijo eSIM</string>
   <string name="dialog_speaker_auto_clean_button">Razumem</string>
   <string name="dialog_speaker_auto_clean_content">"Čiščenje traja 30 sekund. Ne zapuščajte strani. Maksimalno povečajte glasnost zvoka za najboljši učinek."</string>
   <string name="dialog_speaker_auto_clean_title">Pozor</string>
