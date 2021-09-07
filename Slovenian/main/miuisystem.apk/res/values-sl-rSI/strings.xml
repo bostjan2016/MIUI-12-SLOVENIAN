@@ -232,11 +232,13 @@ mm"</string>
   <string name="vip_sign">Podpis:</string>
   <string name="wallpaper_group_black_white_title">Črno in belo</string>
      <string name="wallpaper_group_color_move_title">Tekoče barve</string>
+     <string name="wallpaper_group_concerto_title">Koncert</string>
   <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
   <string name="wallpaper_group_dynamic_nebula_title">Dinamična meglica</string>
   <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
   <string name="wallpaper_group_geometric_title">Geometrija</string>
   <string name="wallpaper_group_minimalist_scenery_title">Minimalizem</string>
+     <string name="wallpaper_group_molten_glass_title">Staljeno steklo</string>
   <string name="wallpaper_group_more_system_wallpaper_title">Več sistemskih ozadij</string>
   <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen in ostali</string>
   <string name="wallpaper_group_natural_texture_title">Vzorci narave</string>

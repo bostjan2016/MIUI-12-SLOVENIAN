@@ -744,6 +744,7 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
 	   <plurals name="accessibilty_autoclick_delay_unit_second">
         <item quantity="other">%1$s sek.</item>
         <item quantity="one">%1$s sek.</item>
+	<item quantity="few">%1$s sek.</item>
     </plurals>
      <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
         <item quantity="other">Srednje (%1$s sek.)</item>

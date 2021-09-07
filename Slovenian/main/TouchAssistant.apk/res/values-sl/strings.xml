@@ -113,6 +113,7 @@
   <string name="hide_when_fullscreen">Premakni na stran pri celem zaslonu</string>
   <string name="hide_when_fullscreen_intro">Premakni na stran pri vstopu v cel zaslon.</string>
   <string name="mi_ai">Mi AI bližnjice</string>
+     <string name="mi_wallet_summary">Vozovnica/Mi Pay/Kartica</string>
      <string name="midnight">Noč</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
   <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>

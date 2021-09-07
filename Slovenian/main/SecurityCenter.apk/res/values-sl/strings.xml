@@ -14,6 +14,7 @@
      <string name="HIPS_Perm_External_Storage_Desc">Dostop in shranjevanje datotek in slik v notranji pomnilnik</string>
      <string name="HIPS_Perm_External_Storage_Group">Upravljanje dovoljenj za shranjevanje</string>
      <string name="HIPS_Perm_External_Storage_Group_Desc">Izberite, katere aplikacije imajo dostop</string>
+     <string name="HIPS_Perm_GetInstall_Desc">Pridobite informacije o aplikacijah, nameščenih v tej napravi</string>
   <string name="HIPS_Perm_PhoneID_Desc">"dostop do številke telefona, IMEI in IMSI vaše naprave"</string>
   <string name="HIPS_Perm_PhoneID_Desc_Q">Dostop do številke telefona in IMSI</string>
   <string name="HIPS_Perm_Read_Call_Log_Desc">brati zgodovino klicev</string>
@@ -5788,6 +5789,9 @@ Poskusite povečati ločljivost!"</string>
   <string name="write_clipboard_tip_content">To dovoljenje aplikacijam omogoča shranjevanje stvari v odložišče. Neželena sporočila lahko vplivajo na običajno uporabo odložišča</string>
   <string name="write_clipboard_tip_title">Shranjevanje stvari v odložišče</string>
   <string name="wrong_password">Napačno geslo</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">Na voljo je posodobitev</string>
      <string name="xiaomi_privacy_protection_measures">Ukrepi za zaščito zasebnosti</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Kupite še</string>
   <string name="xiaomi_traffic_pass_dialog_warning_title">Obvestila Mi Data plana</string>

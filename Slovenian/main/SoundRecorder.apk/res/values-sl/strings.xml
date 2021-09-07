@@ -53,6 +53,7 @@
      <string name="clear_data_dialog_content">Stvari, podatki o aplikacijah in nastavitve po meri bodo izbrisani iz predpomnilnika, vendar bodo vaši posnetki ostali na svojem mestu.</string>
      <string name="clear_data_dialog_title">Želite takoj izbrisati podatke?</string>
   <string name="clear_records">Izbriši sinhronizirane zapise</string>
+     <string name="clear_text_end_icon_content_description">Izbriši besedilo</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
   <string name="cloud_record">Sinhronizirano %d</string>

@@ -385,6 +385,7 @@ Pošaljite to kodo našemu tehniku."</string>
      <string name="mi_finance_info">Bonusi za nove uporabnike</string>
   <string name="mi_health">Mi zdravje</string>
   <string name="mi_insurance">Mi zavarovanje</string>
+     <string name="mi_member">Mi Skupnost</string>
   <string name="mi_pass">Mi Pass</string>
   <string name="mi_pay_identity">Identiteta</string>
   <string name="mi_vip_info">Pokaži poslastice</string>
@@ -523,6 +524,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_activing_account">Aktivacija…</string>
   <string name="passport_adding_account">Dodajanje računa…</string>
   <string name="passport_area_code_hot">POGOSTO UPORABLJENO</string>
+     <string name="passport_area_code_others">Uporabite drugo predpono</string>
   <string name="passport_area_code_title">Koda države</string>
   <string name="passport_auto_generate_pwd">Generiraj varnostno geslo</string>
   <string name="passport_back">Nazaj</string>
