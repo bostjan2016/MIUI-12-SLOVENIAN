@@ -1140,7 +1140,7 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="enterName">Ime:</string>
   <string name="enterNumber">Vnesite telefonsko številko:</string>
   <string name="enter_callbarring_password">Vnesite geslo zapore klicev (%d znakov)</string>
-     <string name="enter_esim_manager">Moj ESim upravitelj</string>
+     <string name="enter_esim_manager">Upravljanje ESim</string>
   <string name="enter_input" formatted="false">USSD sporočilo mora imeti toliko znakov: %d – %d. Poskusite ponovno.</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin_text">PIN za SIM:</string>
@@ -1163,7 +1163,7 @@ Vseeno uporabim mobilne podatke?"</string>
      <string name="esim_inactive_message">Deaktiviraj ESim</string>
      <string name="esim_inactive_notification_channel">eSimDeaktiviranjeObvestilo</string>
      <string name="esim_inactive_notification_message">Kartica SIM ni zaznana, kliknite, da jo aktivirate.</string>
-     <string name="esim_inactive_settings_title">Nastavitve omrežja</string>
+     <string name="esim_inactive_settings_title">Dvojna kartica SIM &amp; mobilna omrežja</string>
      <string name="evening">Večer</string>
   <string name="exception_error">Napaka omrežja ali SIM kartice.</string>
   <string name="expand_button_title">Napredno</string>

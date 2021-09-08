@@ -451,6 +451,7 @@ Hitrejši protokol povezave."</string>
      <string name="headset_fw_file_position_failed">ni uspelo</string>
      <string name="headset_fw_file_readfailed">ni uspelo</string>
      <string name="headset_loss_notify_summary">Kaže, da vsaj ena od vaših slušalk ni v ohišju za polnjenje. Poglejte naokoli!</string>
+     <string name="headset_loss_notify_summary1">"Kaže, da slušalke niso v torbici. Vrnite jih, da se napolnijo."</string>
      <string name="headset_loss_notify_title">Manjka opozorilo slušalk</string>
      <string name="headset_read_fw_state">ni uspelo</string>
      <string name="headset_update_failed">ni uspelo</string>

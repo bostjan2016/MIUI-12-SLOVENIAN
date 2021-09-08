@@ -174,6 +174,7 @@
   <string name="lockscreen_access_pattern_cleared">Vzorec je izbrisan</string>
   <string name="lockscreen_access_pattern_detected">Vzorec je končan</string>
   <string name="lockscreen_access_pattern_start">Vzorec se začenja</string>
+     <string name="lockscreen_carrier_customized">Omejena storitev</string>
      <string name="long_press_power_key">nič</string>
      <string name="magic_window_toast">Aplikacija Multiplier je omogočena.</string>
   <string name="maml_component_customization_title">Nastavitve</string>

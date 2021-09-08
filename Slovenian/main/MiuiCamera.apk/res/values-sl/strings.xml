@@ -283,6 +283,7 @@ in samodejno prilagodi nastavitve"</string>
   <string name="aiwatermark_location_list_title">Lokacija</string>
   <string name="aiwatermark_location_tips">Dovolite kameri dostop do vaše lokacije, da dobi ustreznejše oznake</string>
      <string name="albums">Albumi</string>
+     <string name="altitude_text">Nadm.viš.</string>
      <string name="am">AM</string>
   <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
   <string name="ambilight_description_title">O daljši ekspoziciji</string>
@@ -862,6 +863,7 @@ Natisnite kopijo brezžično na papir A4."</string>
      <string name="invisible_mode_dialog_to_close">Nastavitve</string>
   <string name="iso">ISO</string>
   <string name="kaleidoscope_fragment_tab_name">Kalejdoskop</string>
+     <string name="latitude_text">Zem. šir.</string>
   <string name="launch_market">Zaženi Xiaomi App Market</string>
   <string name="launch_qq">Zaženi QQ v brskalniku</string>
   <string name="launch_wechat">Zaženi WeChat</string>
@@ -943,6 +945,7 @@ Natisnite kopijo brezžično na papir A4."</string>
   <string name="location_permission_not_ask_again">Dovolite Kameri dostop do lokacije v nastavitvah.</string>
   <string name="location_permission_not_ask_again_go_to_settings">Dovoli</string>
   <string name="locations">Lokacije</string>
+     <string name="longitude_text">Zem. dolž.</string>
   <string name="lpl_dialog_item_name_burst">Pritisnite in držite za hitro snemanje</string>
   <string name="lpl_dialog_item_name_record">Pritisnite in držite za snemanje</string>
   <string name="lpl_dialog_title">Izberite opravilo za sprožilec</string>
