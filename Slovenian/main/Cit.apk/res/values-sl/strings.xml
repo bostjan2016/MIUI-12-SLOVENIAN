@@ -958,6 +958,7 @@ Obrnite napravo, govorite v zgornji mikrofon, morali bi slišati glas v zvočnik
      <string name="cit_x_tele_camera_check_title">Tele5X camera</string>
   <string name="cit_yellow_torch_on">Vključi svetilko rumene barve</string>
      <string name="close_third_color_led">zapri tribarvno led</string>
+     <string name="confirm">Potrdi</string>
      <string name="continue_vibrator">Nadaljuj vibrator</string>
      <string name="copyright">Copyright © 2015 Goodix All Rights Reserved.</string>
      <string name="current_angle">Trenutni kot:</string>
@@ -1064,6 +1065,7 @@ določen položaj"</string>
   <string name="keyboard">KEY</string>
      <string name="keyboard_vibrator_test">Test tipkovnice</string>
      <string name="keyboard_vibrator_test_old">Test tipkovnice in vibracije</string>
+     <string name="keys_times">Ključni časi:</string>
      <string name="lastTestResult">Rezultat zadnjega testa:</string>
   <string name="last_time_test_result">REZULTAT ZADNJEGA TESTA</string>
      <string name="launcher_d5x_sar_summary">Izhodni podatki vsakega kanala senzorja SAR so prikazani spodaj. Prosimo, obrnite telefon na kalibracijsko napravo Sar, kliknite Začni kalibracijo, pokaži kalibracijo Uspelo in nato pokaži normalno. Upoštevajte, da je dejanje pravočasno, roke pa niso blizu mobilnega telefona.</string>

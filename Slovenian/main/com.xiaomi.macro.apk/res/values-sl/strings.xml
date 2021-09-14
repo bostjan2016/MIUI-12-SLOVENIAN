@@ -67,6 +67,7 @@
   <string name="gb_game_macro_record_action">Tapnite za začetek snemanja</string>
   <string name="gb_game_macro_save">Shrani</string>
   <string name="gb_game_macro_save_exit">Shrani</string>
+     <string name="gb_macro_floatview_noti">Dovolite, da se MiMacro prikaže nad drugimi aplikacijami</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="multiple_times">Hitrost</string>
   <string name="name_can_not_be_renamed">Stvar s tem imenom že obstaja</string>

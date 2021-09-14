@@ -1023,7 +1023,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="searchview_description_clear">Očisti povpraševanje</string>
      <string name="second_saturday_holiday">Vsako drugo soboto je prost dan</string>
   <string name="select_date">Izberi datum</string>
-  <string name="select_day">Izberi mesec i dan</string>
+  <string name="select_day">Izberi mesec in dan</string>
   <string name="select_hours">Izberi uro</string>
      <string name="select_menstruation_end_date">Izberite končni datum tega ciklusa</string>
   <string name="select_minutes">Izberi minute</string>
@@ -1303,6 +1303,8 @@ Dodate lahko tudi opomnike, da ne boste zamudili ničesar pomembnega."</string>
   <string name="tuesday">Torek</string>
   <string name="tuesday_short">Tor</string>
   <string name="tuesday_shortest">T</string>
+     <string name="twelve_hour_time_format">hh:mm aa</string>
+     <string name="twenty_four_hour_time_format">HH:mm</string>
      <string name="two_selected_holiday">%1$s in %2$s sta prosta dneva</string>
   <string name="txt_account">Račun</string>
   <string name="txt_account_exist">Račun že obstaja</string>

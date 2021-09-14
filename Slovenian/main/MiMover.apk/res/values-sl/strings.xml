@@ -79,6 +79,7 @@
     <string name="button_return">Nazaj</string>
     <string name="button_scanning">Preverjanje…</string>
     <string name="button_send">Pošlji</string>
+     <string name="calendar_permission_desc">Za prenos dogodkov v druge naprave</string>
     <string name="calllog">Zgodovina klicev</string>
     <string name="cancel">Prekliči</string>
   <string name="cancel_description">Prekliči</string>
@@ -140,10 +141,13 @@ Obiščite https://appleid.apple.com/#!&amp;page=signin za izklop"</string>
     <string name="connection_tips_other_title">Če je vaša stara naprava Android telefon tretjih oseb:</string>
     <string name="connection_tips_owner_message">Mi Mover je že nameščen na vseh napravah z MIUI 11. Če imate starejšo različico MIUI, novejšo različico lahko prenesete v GetApps ali uporabite naslednjo povezavo: %1$s.</string>
     <string name="connection_tips_owner_title">Če je vaša stara naprava Mi telefon:</string>
+     <string name="contact_records_permission_desc">Za prenos zgodovine klicev v druge naprave</string>
     <string name="contacts">Stiki</string>
+     <string name="contacts_permission_desc">Za prenos stikov v druge naprave</string>
      <string name="copy">Kopiraj</string>
     <string name="current_user_not_supported_summary">Trenutne sistemske namestitve omejujejo prenos podatkov z uporabo aplikacije Mi Mover.</string>
     <string name="current_user_not_supported_title">Ne morem prenesti stvari</string>
+     <string name="data_read_white_permission_desc">Za prenos stvari v druge naprave</string>
   <string name="date_picker_dialog_title">Nastavi datum</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
   <string name="date_time_done">Končano</string>
@@ -367,6 +371,7 @@ Open WeChat and go to Me > Settings > General > Var. kopija &amp; premakni pogov
     <string name="launcher">Nastavitev začetnega zaslona</string>
     <string name="less_than_1_minute">Manj kot 1 minuta</string>
     <string name="loading_data">Samo trenutek…</string>
+     <string name="location_permission_desc">Za iskanje naprav v bližini</string>
      <string name="location_permission_request">Za povezavo z drugimi napravami v bližini</string>
     <string name="login">Prijava</string>
     <string name="login_failed">Prijava ni uspela. Poskusite ponovno.</string>
@@ -463,6 +468,7 @@ Open WeChat and go to Me > Settings > General > Var. kopija &amp; premakni pogov
   <string name="month_september_shortest">S</string>
   <string name="more">Več</string>
   <string name="morning">AM</string>
+     <string name="msg_permission_desc">Za prenos sporočil v druge naprave</string>
   <string name="name">Ime</string>
     <string name="name_password_not_consistent">Apple ID in geslo, ki ste ju vnesli se ne ujemata</string>
     <string name="need_location_permission_confirm">Nastavitve</string>
@@ -582,11 +588,14 @@ Open WeChat and go to Me > Settings > General > Var. kopija &amp; premakni pogov
   <string name="permission_call_log_title">Dostop do zgodovine klicev</string>
   <string name="permission_contacts_summary">Za prenos stikov v vašo novo napravo</string>
   <string name="permission_contacts_title">Dostop do stikov</string>
+     <string name="permission_grant_request">Če želite prenesti to stvar, potrebuje Mi Mover \"%1$s\" dovoljenje.</string>
   <string name="permission_locale_summary">Za povezovanje bližnjih naprav</string>
   <string name="permission_locale_title">Dostop do lokacije</string>
   <string name="permission_message_summary">Za prenos sporočil v vašo novo napravo</string>
   <string name="permission_message_title">Dostop do SMS vsebine</string>
-  <string name="permission_storage_summary">Za prenos datotek i fotografij v vašo novo napravo</string>
+     <string name="permission_request_title">\"%1$s\" dovoljenje je potrebno</string>
+     <string name="permission_setting_button">Nastavitve</string>
+  <string name="permission_storage_summary">Za prenos datotek in fotografij v vašo novo napravo</string>
   <string name="permission_storage_title">Dostop in shranjevanje datotek in fotografij shranjenih v vaši napravi</string>
   <string name="permission_wifi_summary">Za prenos stvari v vašo novo napravo</string>
   <string name="permission_wifi_title">Vklop in izklop WiFi</string>
@@ -618,8 +627,15 @@ Open WeChat and go to Me > Settings > General > Var. kopija &amp; premakni pogov
     <string name="reconnect">Povežite se ponovno</string>
   <string name="recovery_progress">Vračanje stvari (%1$d/%2$d)…</string>
     <string name="recreate_soft_ap_tips">Tapnite gumb spodaj za ponovni poskus.</string>
+     <string name="request_all_permission_content">"Mi Mover mora dostopati do naslednjega, da lahko prenese stvari v novo napravo:
+- Lokacija
+- Stiki
+- Zgodovina klicev
+- Tekstovna sporočila
+- Shramba"</string>
+     <string name="request_all_permission_title">Zahtevano je dovoljenje</string>
   <string name="restore_data_to_device_content">"Vaše stvari so sinhronizirane z Mi Cloudom.
-Prijavite se v svoj Mi Račun da jih vrnete."</string>
+Prijavite se v svoj Mi Račun da jih povrnete."</string>
   <string name="restore_data_to_device_title">Vrni stvari v to napravo</string>
   <string name="restore_right_now">Vrni</string>
   <string name="retry">Poskusite ponovno</string>

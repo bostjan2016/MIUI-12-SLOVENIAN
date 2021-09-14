@@ -705,13 +705,15 @@
   <string name="folder_no_mails">Ni pošte</string>
      <string name="folder_notification_setting_tip">V mapi »Prejeto« imate več map. Nastavite obvestila o novih sporočilih v določenih mapah.</string>
   <string name="folder_picker_title">Izberi mape</string>
-  <string name="folder_removed">Odstranjeno iz %1$s</string>  <string name="folder_sent_name_en0">Poslano</string>
+     <string name="folder_removed">Odstranjeno iz %1$s</string>
+     <string name="folder_sent_name_en0">Poslano</string>
   <string name="folder_sent_name_en1">Poslana sporočila</string>
   <string name="folder_sent_name_en2">Poslano sporočilo</string>
   <string name="folder_sent_name_en3">Poslano</string>
   <string name="folder_sent_name_en4">[Gmail]/Poslano</string>
   <string name="folder_shortcut_widget_label">E-poštna mapa</string>
-  <string name="folder_synchronization_mail_settings">Nastavitve sinhronizacije map</string>  <string name="folder_trash_name_en0">Koš</string>
+     <string name="folder_synchronization_mail_settings">Nastavitve sinhronizacije map</string>
+     <string name="folder_trash_name_en0">Koš</string>
   <string name="folder_trash_name_en1">Izbrisana sporočila</string>
   <string name="folder_trash_name_en2">Izbrisano sporočilo</string>
   <string name="folder_trash_name_en3">[Gmail]/Koš</string>
@@ -1434,26 +1436,12 @@ da prejmete opomnike o plačilih in potovanjih"</string>
   <string name="quick_reply_hint_cc">(V Kp)</string>
   <string name="quick_reply_hint_reply_only_from">Hitri odgovor (samo pošiljatelj)</string>
   <string name="quick_responses_empty_view">Ni hitrih odzivov</string>
-  <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
-  <string name="quote_divider_1">-------- 原始邮件 --------</string>
-  <string name="quote_divider_11">----- 原文 -----</string>
-  <string name="quote_divider_12"> 原始邮件 </string>
-  <string name="quote_divider_2">---原始邮件---</string>
-  <string name="quote_divider_3">-------- 原始消息 --------</string>
-  <string name="quote_divider_4">-----邮件原件-----</string>
-  <string name="quote_divider_5">-----------用于引用的分割线-------------</string>
   <string name="quote_divider_6">---Original---</string>
   <string name="quote_divider_7">Originalno sporočilo</string>
   <string name="quote_divider_apple">"
 +&gt;"</string>
-  <string name="quote_divider_huawei_zh">来自华为手机</string>
-  <string name="quote_divider_ipad_zh">发自我的 iPad</string>
-  <string name="quote_divider_iphone_en">Sent from my iPhone</string>
+  <string name="quote_divider_iphone_en">Poslano iz iPhone</string>
   <string name="quote_divider_iphone_fwd_en">Začni posredovano sporočilo:</string>
-  <string name="quote_divider_iphone_fwd_zh">以下是转发的邮件：</string>
-  <string name="quote_divider_ks_web">________________________________________</string>
-  <string name="quote_divider_qq_en">------------------ Original ------------------</string>
-  <string name="quote_divider_qq_zh">------------------ 原始邮件 ------------------</string>
   <string name="quoted_text">Vsebuje citirano besedilo</string>
   <string name="quoted_text_label">Citirano besedilo</string>
   <string name="re_download_message_button">Dotakni se za ponovno prevzemanje</string>

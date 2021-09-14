@@ -111,10 +111,10 @@ Poskusite ponovno"</string>
   <string name="cloud_app_restore_wifi_prompt">Obnovi iz var. kopije na Mi Cloudu.</string>
   <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
   <string name="cloud_back_up_detail_discription">"Te stvari bodo kopirane na vaš Mi Cloud kadar boste povezani na WiFi: 
-*\u0009\u0009\u0009Aplikacije, videz zač. zaslona in slike za ozadje
-*\u0009\u0009\u0009Nastavitve alarma, ur in časa 
-*\u0009\u0009\u0009Nastavitve obvestil
-*\u0009\u0009\u0009MIUI in nastavitve sistema 
+*  Aplikacije, videz zač. zaslona in slike za ozadje
+*  Nastavitve alarma, ur in časa 
+*  Nastavitve obvestil
+*  MIUI in nastavitve sistema
 Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</string>
   <string name="cloud_back_up_detail_discription_china">"Te stvari bodo kopirane na vaš Mi Cloud kadar boste povezani na WiFi: 
 *  Aplikacije, videz zač. zaslona in slike za ozadje

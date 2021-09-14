@@ -104,6 +104,7 @@
   <string name="first_back_long_press_message">"Za nastavljanje prilagojenega pritisnite &amp; zadržite opravilo za Navigacijske tipke, pojdite v Nastavitve &gt; Dodatne nastavitve &gt; Tipke</string>
   <string name="flip_screen_camera_tip">Obrnite napravo da uporabite kamero</string>
   <string name="fm_record_smaple_prefix_miui">FM Snemanje</string>
+  <string name="fold_small_not_split">"Zunanji zaslon ne podpira deljenega zaslona"</string>
   <string name="force_exit_message">Prisilno zaprta aplikacija: \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne morem izključiti %1$s ker jo uporablja sistem."</string>
   <string name="fourhours">2 uri</string>

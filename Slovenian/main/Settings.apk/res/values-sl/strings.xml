@@ -3892,6 +3892,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="font_size_summary1">"Če je besedilo vašega sistema še vedno premajhno poskusite "</string>
   <string name="font_size_summary2">Lite način.</string>
   <string name="forbidden_network">(prepovedano)</string>
+     <string name="forbidden_set_unlock_password_msg">Trenutno v načinu vzdrževanja, gesla ni mogoče nastaviti ali spremeniti.</string>
   <string name="forbidden_switch_apn_string">"Izbrane APN nastavitve ne odgovarjajo trenutni vrsti omrežja"</string>
     <string name="force_allow_on_external">Vsili omogočanje aplikacij v zunanji shrambi</string>
     <string name="force_allow_on_external_summary">Poskrbi, da je ne glede na vrednosti v manifestu mogoče vsako aplikacijo zapisati v zunanjo shrambo</string>
@@ -5578,6 +5579,7 @@ Tega dejanja ne moreš preklicati!"</string>
      <string name="miheadset_unpair_device">Prekličem seznanjanje?</string>
      <string name="miheadset_unpair_device_text">%1$s bo odstranil-a vse naprave povezane s tem Mi Računom</string>
      <string name="miheadset_voiceIncrease">Povečajte glasnost</string>
+     <string name="miheadset_windnoise">Veter</string>
   <string name="miliao_account_guide">Uporabite svoj Mi račun da se prijavite v Mi Cloud, MIUI Teme in druge storitve Mi.</string>
   <string name="miliao_account_login">Prijavi se v Mi Talk</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
