@@ -463,7 +463,7 @@ s številko %s"</string>
    <string name="data_usage_warning_title">Opozorilo o prenosu podatkov</string>
    <string name="data_usage_wifi_limit_snoozed_title">Preko omejitve podatkov WiFi</string>
   <string name="data_usage_wifi_limit_title">Dosežena pod. omejitev za WiFi</string>
-  <string name="date_and_time" formatted="false">%d.%m.%Y, %H:%M:%S</string>
+  <string name="date_and_time" formatted="false">%H:%M:%S %-e. %b. %Y</string>
   <string name="date_picker_decrement_day_button">Zmanjšanje vrednosti za dan</string>
   <string name="date_picker_decrement_month_button">Zmanjšanje vrednosti za mesec</string>
   <string name="date_picker_decrement_year_button">Zmanjšanje vrednosti za leto</string>
@@ -898,8 +898,8 @@ Poskusite znova čez %d s."</string>
   <string name="kg_invalid_puk">Vnovič vnesite pravilno kodo PUK. Večkratni poskusi bodo trajno onemogočili kartico SIM.</string>
   <string name="kg_invalid_sim_pin_hint">Vnesite PIN ki vsebuje od štiri do osem številk.</string>
   <string name="kg_invalid_sim_puk_hint">Koda PUK mora biti 8 mestno število.</string>
-  <string name="kg_login_account_recovery_hint">"Ali ste pozabili uporabniško ime ali geslo?
-Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+<string name="kg_login_account_recovery_hint">"Ali ste pozabili uporabniško ime ali geslo?
+Obiščite "<b>google.com/accounts/recovery</b>.</string>
   <string name="kg_login_checking_password">Preverjanje računa….</string>
   <string name="kg_login_instructions">Če želite odkleniti napravo se prijavite z Google računom.</string>
   <string name="kg_login_invalid_input">Neveljavno uporabniško ime ali geslo.</string>
@@ -980,8 +980,8 @@ Za odpenjanje pritisnite in držite istočasno tipko Domov in Vklop."</string>
 Poskusite znova čez %d s."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Telefon ste poskusili %d krat nepravilno odkleniti zato bo ponastavljen na privzete tovarniške nastavitve.</string>
   <string name="lockscreen_forgot_pattern_button_text">Ali ste pozabili vzorec?</string>
-  <string name="lockscreen_glogin_account_recovery_hint">"Ali ste pozabili uporabniško ime ali geslo?
-Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+ <string name="lockscreen_glogin_account_recovery_hint">"Ali ste pozabili uporabniško ime ali geslo?
+Obiščite "<b>google.com/accounts/recovery</b>.</string>
   <string name="lockscreen_glogin_checking_password">Preverjanje…</string>
   <string name="lockscreen_glogin_forgot_pattern">Odklepanje računa</string>
   <string name="lockscreen_glogin_instructions">Če želite odkleniti telefon se prijavite z Google Računom.</string>

@@ -45,6 +45,8 @@
      <string name="delDialog">Opozorilo: Operacija brisanja</string>
      <string name="delDialog_msg">Izbrišite ta parameter igre</string>
     <string name="detect_fakecell">Prepoznajte SMS z lažnih baznih postaj</string>
+     <string name="dynamic_fps">Način delovanja ：</string>
+     <string name="dynamic_fps_M">Ravnotežni model ：</string>
      <string name="early_morning">Jutro</string>
     <string name="end_title">Igre je konec</string>
      <string name="evening">Večer</string>

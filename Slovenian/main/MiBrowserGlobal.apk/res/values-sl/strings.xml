@@ -432,8 +432,9 @@ Strani, ki si jih ogledate ne bodo zabeležene v zgodovini."</string>
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
-    <string name="date_time_picker_dialog_title">Nastavite datum in uro</string>
-    <string name="debug_youtube_in_release">Odpravite napake v YouTubu v izdaji</string>
+    <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
+     <string name="debug_youtube_file">Odpravi napake v YouTube datotekah</string>
+    <string name="debug_youtube_in_release">Odpravi napake v YouTubu v izdaji</string>
     <string name="delete">Izbriši</string>
     <string name="delete_bookmark">Izbriši</string>
     <string name="delete_bookmark_group_warning">Izbrišem \"%s\"? Vsi zaznamki v tej skupini bodo izbrisani.</string>

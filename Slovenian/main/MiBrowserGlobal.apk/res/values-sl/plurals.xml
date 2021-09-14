@@ -115,7 +115,6 @@
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Zadnjih %d dni</item>
-        <item quantity="one">Zadnji %d dan</item>
     </plurals>
     <plurals name="mw_matches_found">
         <item quantity="other">%1$d od %2$d</item>
