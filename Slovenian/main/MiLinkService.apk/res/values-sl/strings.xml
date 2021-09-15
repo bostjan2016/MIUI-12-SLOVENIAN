@@ -304,7 +304,7 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="month_september_shortest">S</string>
      <string name="more">Več</string>
      <string name="morning">Jutro</string>
-  <string name="nfc_connect_failed_toast">"Ne morem predvajati. Poskusite ponovno."</string>
+     <string name="nfc_connect_failed_toast">"Ne morem predvajati. Poskusite ponovno."</string>
      <string name="night">Zvečer</string>
      <string name="noon">Poldne</string>
      <string name="normal_device_desc">"Naprave, s katerimi ste se povezali, vendar jih niste označili kot zanesljive"</string>
@@ -316,7 +316,7 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="notification_desc_scanning">Traženje uređaja u blizini…</string>
   <string name="notification_rc_desc">Najboljši TV pomočnik za prenos vaših videov, fotografij in aplikacij v XiaoMi Box (ali TV) za vaš mobilni telefon, poskusite zdaj!</string>
   <string name="notification_rc_title">XiaoMi TV pomočnik</string>
-  <string name="notification_show_more">Poglejte dodatne storitve</string>
+  <string name="notification_show_more">Pokaži dodatne storitve</string>
      <string name="notify">Casting deluje v ozadju</string>
   <string name="open_game_accelerate">Vključi Game Turbo</string>
      <string name="p2p_location_des">Za povezavo mobilne naprave z zunanjimi monitorji</string>

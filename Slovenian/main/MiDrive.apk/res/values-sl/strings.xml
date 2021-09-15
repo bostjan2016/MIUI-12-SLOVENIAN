@@ -227,6 +227,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="drive_low_memory_description_title">Premalo prostora</string>
   <string name="drive_low_memory_description_toast">Premalo prostora, očistite po uporabi Mi Drive-a</string>
   <string name="drive_low_memory_positive_content">Izbriši</string>
+     <string name="early_morning">Jutro</string>
   <string name="empty_file_download">"Prazne datoteke niso podprte."</string>
   <string name="empty_file_upload">"Prazne datoteke niso podprte."</string>
   <string name="error_dup_binded_email">Ta e-poštni naslov je že povezan z drugim Mi računom.</string>
@@ -440,6 +441,7 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
      <string name="month_august">Avgust</string>
      <string name="month_august_short">Avg</string>
      <string name="month_august_shortest">A</string>
+     <string name="month_day_format">dd/MM</string>
      <string name="month_december">December</string>
      <string name="month_december_short">Dec</string>
      <string name="month_december_shortest">D</string>

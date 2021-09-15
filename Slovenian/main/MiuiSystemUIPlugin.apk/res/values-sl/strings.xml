@@ -328,6 +328,7 @@
   <string name="quick_settings_pcmode_dialog_message_turnoff">Izključi PC način</string>
   <string name="quick_settings_pcmode_dialog_message_turnon">Vključi PC način</string>
   <string name="quick_settings_pcmode_dialog_remember_text">"Ne kaži več"</string>
+     <string name="quick_settings_pcmode_error">Nobena aplikacija ni najdena, namestite jo in poskusite znova.</string>
   <string name="quick_settings_pcmode_label">PC način</string>
   <string name="quick_settings_pcmode_ok_button">V redu</string>
      <string name="quick_settings_pcmode_turn_off_description">Po izhodu iz računalniškega načina boste namizje Mi uporabili na večjem zaslonu. Ali ste prepričani, da želite izhod?</string>

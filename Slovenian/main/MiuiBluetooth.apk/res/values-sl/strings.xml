@@ -495,10 +495,10 @@ Hitrejši protokol povezave."</string>
   <string name="launch_defaults_some">Nastavljene so nekatere privzete nastavitve</string>
      <string name="load_all_features_deferred">Naloži vse funkcije odloženo</string>
      <string name="load_assets">Pokaži sredstva</string>
-     <string name="load_feature_hello">Začni Hello Feature</string>
-     <string name="load_feature_java">Začni Java Feature</string>
-     <string name="load_feature_kotlin">Začni Kotlin Feature</string>
-     <string name="load_native_code">Začni Native Feature</string>
+     <string name="load_feature_hello">Začni Hello storitev</string>
+     <string name="load_feature_java">Začni Java storitev</string>
+     <string name="load_feature_kotlin">Začni Kotlin storitev</string>
+     <string name="load_native_code">Začni Native storitev</string>
      <string name="loading">Nalaganje</string>
   <string name="loading_injected_setting_summary">Nalaganje…</string>
   <string name="local_backup_password_summary_change">Dotaknite se, če želite spremeniti ali odstraniti geslo za varnostno kopiranje zač. zaslona</string>
@@ -746,6 +746,7 @@ Hitrejši protokol povezave."</string>
     <string name="select_webview_provider_dialog_title">Nastavitev izvedbe spletnega pogleda</string>
     <string name="select_webview_provider_title">Izvedba spletnega pogleda</string>
     <string name="select_webview_provider_toast_text">Ta izbira ni več veljavna. Poskusite znova.</string>
+     <string name="send">Pošlji</string>
     <string name="shared_data_delete_failure_text">Pri brisanju deljenih podatkov je prišlo do napake.</string>
     <string name="shared_data_no_accessors_dialog_text">Za te deljene podatke ni pridobljen noben zakup. Ali želite podatke izbrisati?</string>
     <string name="shared_data_no_blobs_text">Za tega uporabnika ni nobenih deljenih podatkov.</string>

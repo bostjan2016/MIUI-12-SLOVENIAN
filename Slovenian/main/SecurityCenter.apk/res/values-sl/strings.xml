@@ -706,7 +706,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="applock_bind_account_dialog_content">Vaš Mi Račun je edini način za vračanje Zakl. aplikacij če ga pozabite. Prijavite se da boste dodali svoj Mi Račun.</string>
   <string name="applock_bind_account_dialog_title">Dodajte svoj Mi Račun</string>
   <string name="applock_bind_account_title">Pozabljeno geslo</string>
-  <string name="applock_close_dialog_summary">Po izključitvi zakl. aplikacij aplikacije ne bodo več zaščitene in vaše geslo se bo izbrisalo.</string>
+  <string name="applock_close_dialog_summary">Geslo za zaklepanje aplikacije bo izbrisano. Želite zdaj izklopiti zaklepanje aplikacij?</string>
   <string name="applock_close_dialog_title">Izključim zakl. aplikacij?</string>
   <string name="applock_exit_account_info">Ko se odjavite bo račun samodejno odstranjen</string>
   <string name="applock_face_unlock_summary">Odklenite aplikacije s pomočjo odklepa z obrazom</string>
@@ -1125,6 +1125,10 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="cetus_invisible_mode_warn_location">"Ste nevidni. Dovoljenja za lokacijo so onemogočena."</string>
      <string name="cetus_invisible_mode_warn_open">Način brez beleženja zgodovine začasno izključi dovoljenja za mikrofon, kamero in lokacijo za vse aplikacije. Vklopim zdaj?</string>
      <string name="cetus_invisible_mode_warn_record_audio">"Ste nevidni. Dovoljenja za mikrofon so onemogočena."</string>
+     <string name="charge_high_temp_warning_dialog_ok">Razumem</string>
+     <string name="charge_high_temp_warning_dialog_text">Kaže, da so polnilna vrata pregreta. Pred ponovnim polnjenjem odklopite polnilnik in pustite, da se baterija ohladi.</string>
+     <string name="charge_high_temp_warning_text">Odklopite polnilnik in pustite, da se baterija ohladi</string>
+     <string name="charge_high_temp_warning_title">Vrata za polnjenje so prevroča</string>
   <string name="charger_detect_button_ok">Razumem</string>
   <string name="charger_detect_info1">Prepričajte se, da sta napajalnik in kabel pravilno priključena.</string>
   <string name="charger_detect_info2">"Polnjenje se lahko upočasni tudi, če uporabljate nestandardne ali stare adapterje in polnilne kable."</string>
@@ -3946,6 +3950,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_app_permission_manage_summary">Urejanje dovoljenj nameščenih aplikacij</string>
   <string name="privacy_app_permission_manage_title">Urejanje dovoljenj</string>
   <string name="privacy_apps">Skrite aplikacije</string>
+     <string name="privacy_apps_add">Dodaj</string>
   <string name="privacy_apps_begin_use">Začetek</string>
   <string name="privacy_apps_button_know">Razumem</string>
   <string name="privacy_apps_category_title">Skrite aplikacije</string>
@@ -3957,9 +3962,13 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_apps_manage_dialog_title">O skritih aplikacijah</string>
   <string name="privacy_apps_manager_dialog_message">"Ikona te aplikacije ne bo prikazana na začetnem zaslonu če aplikacijo skrijete. Želite skriti to aplikacijo?"</string>
   <string name="privacy_apps_next_stup">Naprej</string>
+     <string name="privacy_apps_password_enable_summay">Zaščitite zasebne datoteke z zaklepanjem aplikacije</string>
+     <string name="privacy_apps_password_enable_title">Zaklepanje aplikacij</string>
   <string name="privacy_apps_shield_message_summary">"Ne kaži obvestil zaščitenih aplikacij"</string>
   <string name="privacy_apps_shield_message_title">"Ne kaži obvestil"</string>
-  <string name="privacy_apps_tutorial">Tutorial</string>
+  <string name="privacy_apps_tutorial">Vadnica</string>
+     <string name="privacy_apps_tutorial_dlg_message_1">Na začetnem zaslonu razmaknite dva prsta, da si ogledate skrite aplikacije</string>
+     <string name="privacy_apps_tutorial_dlg_message_2">Opomba: Ko skrijete aplikacijo, je skrita le bližnjica na začetnem zaslonu.</string>
   <string name="privacy_apps_tutorial_dlg_title">Kako najti skrite aplikacije</string>
   <string name="privacy_apps_tutorial_prompt_pageone">"Ta storitev vam omogoča skrivanje ikon aplikacij da se ne bi več pojavljale na začetnem zaslonu."</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Po vnosu gesla se bo pojavila mapa s skritimi aplikacijami.</string>
@@ -4131,6 +4140,12 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_search_key_7">Podatki o lokaciji</string>
   <string name="privacy_search_key_8">Brez sledenja</string>
   <string name="privacy_search_key_9">Virtualna ID</string>
+     <string name="privacy_search_keyword_1">Zasebnost</string>
+     <string name="privacy_search_keyword_2">Skrij aplikacije</string>
+     <string name="privacy_search_keyword_3">Skrij ikone</string>
+     <string name="privacy_search_keyword_4">Skrij bližnjice zač. zaslona</string>
+     <string name="privacy_search_keyword_5">Zasebne aplikacije</string>
+     <string name="privacy_search_keyword_6">Skrij</string>
      <string name="privacy_show_other_permissions">Pokaži druga dovoljenja</string>
   <string name="privacy_show_password">Pokaži geslo</string>
   <string name="privacy_show_password_summary">Kratek čas naj bodo gesla vidna</string>
