@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="0">Uporabite gibe da skrijete/prikažete tipke zaslona.</string>
-  <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
-  <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
+  <string name="abbrev_wday_month_day_no_year">EEEE, d. MMMM</string>
+  <string name="abbrev_wday_month_day_no_year_alarm">EEE, d. MMM</string>
     <string name="abc_action_bar_home_description">Krmarjenje domov</string>
     <string name="abc_action_bar_up_description">Krmarjenje navzgor</string>
     <string name="abc_action_menu_overflow_description">Več možnosti</string>
@@ -155,6 +155,7 @@
      <string name="accessibility_keyguard_face_unlock_view">Odklepanje z obrazom</string>
   <string name="accessibility_left_control_center_button">Bližnjica</string>
   <string name="accessibility_left_lock_screen_magazine_button">Glasba</string>
+     <string name="accessibility_left_xmyzl_button">Xiaomi Čarobna Kontrola</string>
   <string name="accessibility_location_active">Zahteve za lokacijo so aktivne</string>
   <string name="accessibility_long_click_tile">Odpiranje nastavitev</string>
     <string name="accessibility_manage_notification">Urejanje obvestil</string>
@@ -2865,6 +2866,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="user_switch_to_user">Preklop na račun %s</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
+     <string name="velocity_tracker_impl">platforma</string>
     <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije, nameščene preko ADB/ADT, škodljive.</string>
     <string name="verify_apps_over_usb_title">Preveri aplikacije preko USB</string>
     <string name="voice_assist_label">odpri glasovnega pomočnika</string>

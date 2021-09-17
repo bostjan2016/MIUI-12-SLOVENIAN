@@ -1109,7 +1109,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
  2. Potrebna je zahteva predloge omrežja kadar kalibrirate prvič. Povežite se na omrežje in poskusite ponovno.
  3. Vaš mobilni operater morda ne podpira pošiljanje tekstnih sporočil z ostalimi podatki in stanjem računa. Obrnite se na mobilnrga operaterja za več informacij.
  4. Morda je napaka v podatkih operaterja. Poskusite z diagnostiko operaterja rešiti ta problem.
- 5. Kaže da nič ne pomaga? Tapni "Prijavi preko SMS-a" da pošljete povratno informacijo Xiaomi-ju v SMS sporočilu."</string>
+ 5. Kaže da nič ne pomaga? Tapnite "Prijavi preko SMS-a" da pošljete povratno informacijo Xiaomi-ju v SMS sporočilu."</string>
      <string name="card_uninstall_button_text">Urejaj</string>
      <string name="card_uninstall_summary">Odstranite redko uporabljene aplikacije, da sprostite prostor za shranjevanje</string>
      <string name="card_uninstall_title_1">Odstranite redko uporabljene aplikacije</string>
@@ -1777,9 +1777,9 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
   <string name="function_auto_reject_title">Zavrni klice VoLTE na kartice SIM brez podatkovne storitve</string>
   <string name="function_close">Izključi</string>
   <string name="function_gwsd_detail">"O tej storitvi:
-  1. Če uporabljate mobilne podatke na podatkovni SIM ali običajni kartici SIM, ki je povezana z omrežjem VoLTE, dohodni klici ne bodo prekinjeni, dokler ne odgovorite.
-  2. Ko je ta storitev vklopljena, druga oseba ne bo slišala vaših tonov zvonjenja, razen če uporabljate navadno kartico SIM. Dohodni klici bodo samodejno zavrnjeni po 7-10 sekundah neaktivnosti.
-  3. Podprte so podatkovne SIM kartice izdane od China Mobile in China Unicom. Podprte so redne kartice SIM, ki jih izdajo China Mobile, China Unicom in China Telecom."</string>
+1. Če uporabljate mobilne podatke na podatkovni SIM ali običajni kartici SIM, ki je povezana z omrežjem VoLTE, dohodni klici ne bodo prekinjeni, dokler ne odgovorite.
+2. Ko je ta storitev vklopljena, druga oseba ne bo slišala vaših tonov zvonjenja, razen če uporabljate navadno kartico SIM. Dohodni klici bodo samodejno zavrnjeni po 7-10 sekundah neaktivnosti.
+3. Podprte so podatkovne SIM kartice izdane od China Mobile in China Unicom. Podprte so redne kartice SIM, ki jih izdajo China Mobile, China Unicom in China Telecom."</string>
   <string name="function_gwsd_title">"Ne dovoli dohodnim klicem da prekinejo podatkovno SIM povezavo"</string>
   <string name="function_shield_auto_bright">Izključi samod. svetlost</string>
   <string name="function_shield_eye_shield">Izključi način branja</string>
@@ -4128,7 +4128,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
      <string name="privacy_risk_space_uninstall_dialog_msg">Odstranim izbrane aplikacije, vključno z njihovimi dvojnimi aplikacijami？</string>
      <string name="privacy_risk_uninstall_dialog_msg">Odstranim izbrane aplikacije?</string>
      <string name="privacy_risk_uninstall_dialog_title">V redu</string>
-     <string name="privacy_risk_uninstall_title">Odstranim aplikacije</string>
+     <string name="privacy_risk_uninstall_title">Odstrani aplikacije</string>
      <string name="privacy_risk_work_encryption">"Družabna omrežja in pisarniške datoteke niso zaščitene"</string>
   <string name="privacy_search_key_1">Zasebnost</string>
   <string name="privacy_search_key_10">ID naprave</string>
@@ -5372,22 +5372,22 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
 
     Sprejmete to?"</string>
   <string name="traffic_config_alert_body_extra">"
-Kupili ste dodatni splet %1$s ta mesec.
-        To se razlikuje od %2$s kar ste dodali ročno."</string>
+Kupili ste dodatne podatke %1$s ta mesec.
+To se razlikuje od %2$s kar ste dodali ročno."</string>
   <string name="traffic_config_alert_body_extra_notset">"
-     Kupili ste dodatni splet %s ta mesec. 
-        To se ne nanaša na mesečne podatke omejitev kar ste nastavili ročno."</string>
+Kupili ste dodatne podatke %s ta mesec. 
+To se ne nanaša na mesečno omejitev podatkov kar ste nastavili ročno."</string>
   <string name="traffic_config_alert_body_leisure">"
-   Vaša mesečna omejitev uporabe podatkov je %1$s. 
-     To se razlikuje od %2$s omejitve kar ste dodali ročno."</string>
+Vaša mesečna omejitev uporabe podatkov je %1$s. 
+To se razlikuje od %2$s omejitve kar ste dodali ročno."</string>
   <string name="traffic_config_alert_body_leisure_notset">"
-     Vaša maksimalna mesečna omejitev uporabe podatkov je %1$s. 
-     Niste nastavili maks. omejitev podatkov."</string>
+Vaša maksimalna mesečna omejitev uporabe podatkov je %1$s. 
+Niste nastavili maks. omejitev podatkov."</string>
   <string name="traffic_config_alert_body_normal">"
-     Vaša maksimalna mesečna omejitev uporabe podatkov je %1$s. 
-     To se razlikuje od %2$s kar ste dodali ročno."</string>
+Vaša maksimalna mesečna omejitev uporabe podatkov je %1$s. 
+To se razlikuje od %2$s kar ste nastavili ročno."</string>
   <string name="traffic_config_alert_package">"
-     Prekoračeno preko dodatnih podatkov"</string>
+Prekoračeno preko dodatnih podatkov"</string>
   <string name="traffic_config_alert_setted">Nastavitve uporabljene</string>
   <string name="traffic_config_alert_title">%s Popravek</string>
   <string name="traffic_correction_failed">"Ne morem ugotoviti podrobnosti"</string>
@@ -5398,7 +5398,7 @@ Kupili ste dodatni splet %1$s ta mesec.
   <string name="traffic_correction_success_notify_message">Tapnite za prikaz podrobnosti.</string>
   <string name="traffic_limit_error_alert_body">Vaši preostali podatki za ta mesec (%1$s) so večji od vašega mesečnega načrta (%2$s). Zamenjan mesečni plan?</string>
   <string name="traffic_limit_error_alert_package">"
-     Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca."</string>
+Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca."</string>
   <string name="traffic_limit_error_alert_title">Opomnik omejitve podatkov %s</string>
   <string name="traffic_limit_input">Omejitev podatkov (obvezno)</string>
   <string name="traffic_none">Nič</string>
@@ -5628,10 +5628,10 @@ Kupili ste dodatni splet %1$s ta mesec.
      <string name="vb_video_super_division">Povečaj</string>
      <string name="vb_video_super_division_desc">"Samodejno povečaj ločljivost, ko je ≤720p.
 
-Uporaba te funkcije poveča porabo energije.
+Uporaba te storitve poveča porabo energije.
 
-Ta funkcija ne deluje pri glajenju gibov.
-Če vklopite eno funkcijo, se izklopi druga."</string>
+Ta storitev ne deluje pri glajenju gibov.
+Če vklopite eno storitev, se izklopi druga."</string>
      <string name="vb_video_super_division_tips">"Ni dovolj jasno?
 Poskusite povečati ločljivost!"</string>
      <string name="verify_shut_down_password_content">Zahtevajte potrditev zaklepanja zaslona, če je naprava izključena, medtem ko je zaklenjena</string>

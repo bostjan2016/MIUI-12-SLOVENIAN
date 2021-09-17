@@ -2648,9 +2648,9 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
   <string name="data_usage_summary_format">Prenesenih podatkov: %1$s</string>
   <string name="data_usage_summary_title">Uporaba podatkov</string>
   <string name="data_usage_sweep_limit"><font size="18">^1</font> <font size="9">^2</font>"
-"<font size="12">omejitev</font></string>
-<string name="data_usage_sweep_warning"><font size="18">^1</font> <font size="9">^2</font>"
-"<font size="12">opozorilo</font></string>
+"<font size="12">limit</font></string>
+  <string name="data_usage_sweep_warning"><font size="18">^1</font> <font size="9">^2</font>"
+"<font size="12">warning</font></string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -3969,8 +3969,9 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="freeform_guide_notification_drop_down_summary">Pritisnite in držite, nato povlecite navzdol delovno vrstico obvestil</string>
   <string name="freeform_guide_notification_drop_down_title">Odpiranje plavajočih oken</string>
   <string name="freeform_guide_settings">Plavajoče okno</string>
-     <string name="freeform_guide_slide_to_small_freeform_summary">Podrsajte od dna zaslona do zgornjega desnega kota zaslona.
-Ta storitev deluje samo, če je sistemska navigacija nastavljena na gibe. "</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary">"Pritisnite in pridržite spodnji del okna ter ga povlecite v zgornji desni kot.
+Ta storitev deluje samo, če je sistemska navigacija nastavljena na gibe."</string>
+
      <string name="freeform_guide_slide_to_small_freeform_title">Drsna v plavajoča okna</string>
   <string name="freeform_guide_slide_up_to_close_summary">Povlecite navzgor iz delovne vrstice plavajočega okna</string>
   <string name="freeform_guide_slide_up_to_close_title">Zapiranje plavajočih oken</string>
@@ -4239,7 +4240,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="headset_settings_title">Zvočni efekti</string>
      <string name="headset_toast_tip_disconnect_others">Slušalk trenutno ni mogoče nastaviti, morda so povezane z drugim telefonom</string>
      <string name="headset_unsaved_device">Odstrani napravo</string>
-     <string name="headset_unsaved_devices">ne shrani, povežite se na svoj računu v drugem telefonu</string>
+     <string name="headset_unsaved_devices">Ne shrani, povežite se na svoj račun v drugem telefonu</string>
   <string name="hearing_aids_category">Slušna pomožna orodja</string>
   <string name="heavy_weight_stop_description">Aplikacije ni mogoče varno ustaviti. Če jo ustavite boste morda izgubili nekaj svojega trenutnega dela.</string>
      <string name="height_light_list_text">Seznam važnih stvari</string>
@@ -5331,7 +5332,7 @@ Tega dejanja ne moreš preklicati!"</string>
 Tega dejanja ne moreš preklicati!"</string>
   <string name="master_clear_personal_data_sdcard">"Izbrišem vse osebne podatke?
   
-Tega dejanja ne moreš preklicati!"</string>
+Tega ne morete povrniti!"</string>
   <string name="master_clear_progress_text">Počakajte…</string>
   <string name="master_clear_progress_title">Brisanje</string>
   <string name="master_clear_short_title">Izbriši vse podatke (tovarniška ponastavitev)</string>
@@ -7810,7 +7811,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="running_processes_header_system_prefix">Sistem</string>
   <string name="running_processes_header_title">Pomnilnik naprave</string>
   <string name="running_processes_header_used_prefix">Uporabljeno</string>
-  <string name="running_processes_item_description_p_p">%1$d procesov i %2$d storitev</string>
+  <string name="running_processes_item_description_p_p">%1$d procesov in %2$d storitev</string>
   <string name="running_processes_item_description_p_s">Število procesov: %1$d, število storitev: %2$d</string>
   <string name="running_processes_item_description_s_p">%1$d proces, število storitev: %2$d</string>
   <string name="running_processes_item_description_s_s">%1$d proces, %2$d storitev</string>
@@ -8508,9 +8509,10 @@ Prav tako lahko telefon odklene nekdo, ki vam je zelo podoben, na primer vaš en
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Ime</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">V redu</string>
     <string name="security_settings_fingerprint_enroll_disclaimer">Funkcijo Pixel Imprint lahko razen za odklepanje telefona uporabljate tudi za odobritev nakupov in dostop do aplikacij. <annotation id="url">Več o tem</annotation></string>
-    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" Možnost zaklepanja zaslona je onemogočena. Če želite izvedeti več, se obrnite na skrbnika vaše organizacije. "<annotation id="admin_details">Podrobnosti</annotation>"
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" Možnost zaklepanja zaslona je onemogočena. Če želite izvedeti več, se obrnite na skrbnika. "<annotation id="admin_details">More details</annotation>"
 
 S svojim prstnim odtisom lahko še vedno odobrite nakupe in dostop do aplikacij. "<annotation id="url">Izvedite več</annotation></string>
+
   <string name="security_settings_fingerprint_enroll_done">Končano</string>
     <string name="security_settings_fingerprint_enroll_enrolling_skip">Pozneje</string>
   <string name="security_settings_fingerprint_enroll_error_dialog_title">Registracija ni dokončana</string>
@@ -8988,7 +8990,7 @@ Klicanje stikov v sili
 Če se ne strinjate z odobritvijo takšnih dovoljenj, nekaterih funkcij te aplikacije ne boste mogli uporabljati; vendar vam bo njegova osnovna funkcionalnost še vedno na voljo. Vedno lahko to funkcijo izklopite."</string>
   <string name="sos_phone_call_privacy_dialog_message_confirm">Dovoli</string>
   <string name="sos_phone_log_privacy_dialog_message">"Ta aplikacija potrebuje dovoljenje za dostop do zgodovine klicev, preden jo lahko delite s stiki v sili.
-Če se ne strinjate z odobritvijo takšnih dovoljenj, nekaterih funkcij te aplikacije ne boste mogli uporabljati; vendar vam bo njegova osnovna funkcionalnost še vedno na voljo. Vedno lahko to funkcijo izklopite."</string>
+Če se ne strinjate z odobritvijo takšnih dovoljenj, nekaterih storitev te aplikacije ne boste mogli uporabljati; vendar vam bo njegova osnovna funkcionalnost še vedno na voljo. Vedno lahko to funkcijo izklopite."</string>
   <string name="sos_privacy_and_content_policy">Pogoji uporabe in Pravila o zasebnosti</string>
   <string name="sos_privacy_dialog_button_cancel">Prekliči</string>
   <string name="sos_privacy_dialog_button_ok">Strinjam se</string>
@@ -9966,16 +9968,16 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_operate_func_two">Metoda B</string>
   <string name="trans_operate_new_phone_tips">"Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover.
   
-     Dotaknite se [Sem prejemnik] da izdelate QR kodo"</string>
+Dotaknite se [Sem prejemnik] da izdelate QR kodo"</string>
   <string name="trans_operate_old_phone_tips1">"1. namestite aplikacijo Mi Mover na vaši drugi napravi 
-     2. Odprite aplikacijo in tapnite Start 
-     3. Skenirajte QR kodo z vašo drugo napravo"</string>
+2. Odprite aplikacijo in tapnite Start 
+3. Skenirajte QR kodo z vašo drugo napravo"</string>
      <string name="trans_operate_old_phone_tips2">"Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover.
-    Dotaknite se [Sem pošiljatelj]""</string>
+Dotaknite se [Sem pošiljatelj]""</string>
      <string name="trans_operate_reconnect_new_tips">"Počakajte da novi telefon pokaže "Povezava je prekinjena".
-  Nato pritisnite "Ponovno poveži" za izdelavo QR kode."</string>
+Nato pritisnite "Ponovno poveži" za izdelavo QR kode."</string>
      <string name="trans_operate_reconnect_old_tips">"Počakajte da stari telefon pokaže "Povezava je prekinjena".
- Nato pritisnite "Ponovno poveži" in skenirajte QR kodo."</string>
+Nato pritisnite "Ponovno poveži" in skenirajte QR kodo."</string>
   <string name="trans_operate_tip_for_other_android">Odprite Mi Mover na vašem starem telefonu, tapnite \"Začetek\" in skenirajte QR kodo.</string>
   <string name="trans_pausing">Premor…</string>
   <string name="trans_please_waiting">Samo trenutek…</string>
@@ -9992,8 +9994,8 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_progress_subdescript_waiting">Čakanje na sprejem %s</string>
   <string name="trans_receiver">"Sem prejemnik"</string>
   <string name="trans_receiver_time_remained">"%s ostalo.
-     Ne izključite WiFi Hotspot.
-    Imejte obe napravi blizu skupaj."</string>
+Ne izključite WiFi Hotspot.
+Imejte obe napravi blizu skupaj."</string>
   <string name="trans_receiving_completed">Uspešno prejeto</string>
   <string name="trans_restoring">Vračanje…</string>
   <string name="trans_restoring_no_items">Sinhr. stvari</string>
@@ -10004,9 +10006,9 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_security_tips_title">Mi Mover kompatibilnost</string>
   <string name="trans_select_data">Izberite podatke</string>
   <string name="trans_select_data_no_space">"Premalo prostora na novi napravi (%s na voljo).
- Prenesite samo važne datoteke ali osvobodite prostor"</string>
+Prenesite samo važne datoteke ali osvobodite prostor"</string>
   <string name="trans_select_data_tips">"Izberite datoteke za prenos.
- Podobne datoteke na novi napravi bodo presnete"</string>
+Podobne datoteke na novi napravi bodo presnete"</string>
   <string name="trans_select_data_too_large">"Izbrali ste preveč stvari za prenos.
 Izberite samo važne stvari da bo prenos hitrejši."</string>
   <string name="trans_select_device_receive">Izberite napravo za sprejem podatkov.</string>
@@ -10847,7 +10849,7 @@ Med glasovnim klicem ne boste mogli uporabljati spleta in nekatere aplikacije mo
     <string name="wait_for_debugger">Počakaj na iskalnik napak</string>
   <string name="wait_for_debugger_summary">Aplikacija v kateri iščete napako pred izvajanjem čaka na povezavo z iskalnikom napak</string>
   <string name="wait_link">"Odprite Mi Mover v starom uređaju,
-Ne zapuščjte strani dokler se povezava ne vzpostavi. "
+Ne zapuščajte strani dokler se povezava ne vzpostavi. "
 Tapnite \"Sem pošiljatelj\" in izberite hotspot za povezovanje.
 Ne zapirajte stran pred vzpostavljanjem povezave."</string>
   <string name="waiting">Samo trenutek…</string>
@@ -11593,7 +11595,7 @@ Dovolite to vsem aplikacijam, ki želijo iskati?"</string>
   <string name="wifi_wapi_cert_uninstall_button">"Odstrani"</string>
   <string name="wifi_wapi_certification_dont_exist">Vneseno geslo omrežja ni pravilno. Poskusite ponovno.</string>
   <string name="wifi_wapi_fail_to_auth">"WAPI preverjanje ni uspelo
-  Preverite veljavnost certifikata"</string>
+Preverite veljavnost certifikata"</string>
   <string name="wifi_wapi_fail_to_init">"Ne morem odpreti WAPI certifikate.
 Shramba poverilnic morda ne bo omogočena"</string>
   <string name="wifi_wapi_psk_type">Vrsta gesla</string>

@@ -28,8 +28,8 @@
      <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
-    </plurals>
-	<plurals name="are_you_sure_you_want_delete_file">
+     </plurals>
+     <plurals name="are_you_sure_you_want_delete_file">
         <item quantity="other">Izbrišem datoteke: %1$d?</item>
         <item quantity="one">Izbrišem %1$d datoteko?</item>
      </plurals>
@@ -67,6 +67,9 @@
      <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">izbrano %d stvari</item>
         <item quantity="one">izbrana %d stvar</item>
+     </plurals>
+     <plurals name="monitoringHistory_deleteAlert">
+        <item quantity="other">Ali ste prepričani, da želite izbrisati ta zapis %1$d ?</item>
      </plurals>
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>

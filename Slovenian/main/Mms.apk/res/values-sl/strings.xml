@@ -266,6 +266,7 @@
   <string name="dialog_sim_locked_confirm">V redu</string>
   <string name="dialog_sim_locked_message">"Vaša SIM kartica ni popolnoma uporabna v tem telefonu ker ni v skladu z pravili in pogoji vašega predplačila. Za več informacij kontaktirajte Xiaomi servisne centre ali trgovino kjer ste kupili napravo."</string>
   <string name="dialog_smart_message_privacy_tips">Pametna sporočila ponuja Dianhuabang. Pred uporabo se strinjajte z \"%1$s\". Potrebna je spletna povezava in dostop do lokacije. Se strinjate?</string>
+     <string name="dialog_smart_message_privacy_tips_title">Dianhuabang Pravila o zasebnosti</string>
   <string name="dialog_title_correct_as_ad">Premesti v reklamna sporočila</string>
   <string name="dialog_title_correct_as_normal">Premesti v normalna sporočila</string>
   <string name="dialog_title_fake_cell_detect_error">Popravi</string>

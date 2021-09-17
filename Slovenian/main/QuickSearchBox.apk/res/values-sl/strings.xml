@@ -1,56 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_loaction">Najdi na začet. zaslonu</string>
   <string name="about_preference_activity_title">O globalnem iskanju</string>
   <string name="account_prifix">Račun:</string>
+     <string name="app_loaction">Najdi na začet. zaslonu</string>
   <string name="app_name">Iskanje</string>
   <string name="appindex_description">Opravila nameščenih aplik.</string>
   <string name="appindex_search_label">Opravila aplik.</string>
   <string name="application_desc">Aplikacija</string>
   <string name="applications_search_label">Aplikacije</string>
   <string name="apps_search_activity"/>
+     <string name="apps_whites">( \"com.android.quicksearchbox\", \"com.android.browser\", \"com.android.contacts\", \"com.android.mms\", \"com.miui.gallery\", \"com.android.settings\", \"com.android.deskclock\", \"com.android.camera\", \"com.miui.video\", \"com.miui.securitycenter\", \"com.miui.weather2\", \"com.xiaomi.market\", \"com.android.calendar\", \"com.android.fileexplorer\", \"com.miui.player\", \"com.android.thememanager\", \"com.android.calculator2\", \"com.xiaomi.gamecenter\", \"com.miui.notes\", \"com.xiaomi.smarthome\", \"com.xiaomi.account\", \"com.android.updater\", \"com.xiaomi.o2o\", \"com.xiaomi.shop\", \"com.android.soundrecorder\", \"com.mipay.wallet\", \"com.miui.voip\", \"com.miui.voiceassist\", \"com.android.email\", \"com.miui.networkassistant\", \"com.xiaomi.jr\", \"com.miui.compass\", \"com.miui.luckymoney\", \"com.xiaomi.hm.health\", \"com.xiaomi.channel\", \"com.miui.fm\", \"com.miui.bugreport\", \"com.mi.vtalk\", \"com.xiaomi.payment\", \"com.miui.virtualsim\", \"com.xiaomi.router\", \"com.miui.cloudbackup\", \"com.xiaomi.pass\", \"com.xiaomi.mitv.phone.tvassistan\", \"com.xiaomi.tag\", \"com.xiaomi.xy.sportscamera\", \"com.xiaomi.mishare\", \"com.xiaomi.pricecheck\", \"com.miui.userbook\", \"com.xiaomi.mitv.soundbarapp\", \"com.miui.livetalk\", \"com.android.providers.downloads.ui\", \"com.xiaomi.midrop\", \"com.miui.miuibbs\", \"com.xiaomi.scanner\", \"com.miui.voip\", \"com.wali.live\", \"com.miui.milivetalk\", \"com.android.phone\", \"com.miui.cloudservice\", \"com.miui.yellowpage\", \"com.miui.securitycore\", \"com.duokan.reader\", \"com.xiaomi.vip\", \"com.miui.calculator\", \"com.android.providers.downloads.ui\", \"com.mi.misupport\" )</string>
   <string name="autologin_bar_hide_text">Skrij</string>
   <string name="autologin_bar_login_text">Prijavi se</string>
-  <string name="baidu_search_url_from_default">https://www.google.si/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word={searchTerms}&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://www.google.si/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_launcher">https://www.google.si/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_systemui">https://www.google.si/search?q=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
-  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
-  <string name="choose_search_engine">Izberi privzet spletni iskalnik</string>
   <string name="barcode_install_back">Nazaj</string>
   <string name="barcode_install_cancel">Prekliči</string>
   <string name="barcode_install_confirm">Namesti</string>
   <string name="barcode_system_unmatch">Namestite MIUI preden namestite Skener</string>
   <string name="barcode_to_install">Namestite Skener za nadaljevanje</string>
   <string name="barcode_uninstalled">Skener je odstranjen</string>
+     <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="cancel">Prekini</string>
   <string name="cannot_download">Lahko se prenesejo samo \"http\" ali \"https\" povezave</string>
   <string name="category_preference_activity_title">Išči kategorije</string>
   <string name="change_setting_engine">Izberi spletni iskalnik</string>
+     <string name="choose_search_engine">Izberi privzet spletni iskalnik</string>
+     <string name="clear_history">Izbriši zgodovino</string>
+     <string name="clear_history_cancel">Prekini</string>
+     <string name="clear_history_confirm">Izbrišem vso zgodovino zapisov?</string>
   <string name="clear_history_ok">V redu</string>
   <string name="clear_input_description">Izbriši</string>
   <string name="clear_preference_activity_title">Izbriši podatke</string>
   <string name="clear_search_history_confirm">Izbrišem zgodovino iskanja?</string>
   <string name="clear_search_history_dialog_content">Sedaj izbrišem zgodovino iskanja?</string>
   <string name="clear_search_history_dialog_title">Izbriši zgodovino iskanja</string>
-  <string name="clear_history">Izbriši zgodovino</string>
-  <string name="clear_history_cancel">Prekini</string>
-  <string name="clear_history_confirm">Izbrišem vso zgodovino zapisov?</string>
   <string name="clear_shortcuts">Počisti bližnjice</string>
   <string name="clear_shortcuts_agree">Počisti bližnjice</string>
   <string name="clear_shortcuts_disagree">Ne počisti bližnjic</string>
   <string name="clear_shortcuts_prompt">Ali želite izbrisati vse bližnjice do nedavno izbranih predlogov iskanja? Če želite izbrisati zgodovino brskalnika uporabite nastavitve brskalnika.</string>
   <string name="clear_shortcuts_summary">Počisti bližnjice do nedavno izbranih predlogov iskanja</string>
-  <string name="common_category_entrance">Zavihki</string>
-  <string name="common_history">Zgodovina iskanja</string>
-  <string name="common_history_first">Določite prednost zgodovine iskanja</string>
-  <string name="common_history_first_subtitle">Če je to opravilo izključeno se bo najprej pokazala zgodovina iskanja</string>
-  <string name="common_history_subtitle">Ko je to opravilo izključeno  ne boste videli predlogov iskanja</string>
-  <string name="common_personal">Personalizacija</string>
-  <string name="common_recent_apps">Predlogi aplikacij</string>
-  <string name="common_recent_apps_first">Razvrsti predloge aplikacij</string>
-  <string name="common_setting">Splošne nastavitve</string>
   <string name="clear_view_history_confirm">Izbrišem zgodovino iskanja?</string>
   <string name="clear_webview_history_dialog_content">Izbrišem predpomnilnik in zgodovino pregledovanja?</string>
   <string name="clear_webview_history_dialog_title">Izbriši predpomnilnik in zgodovino pregledovanja</string>
@@ -58,14 +50,22 @@
   <string name="common_background_dark">Črna</string>
   <string name="common_background_dialog_title">Barva ozadja</string>
   <string name="common_background_light">Bela</string>
+     <string name="common_category_entrance">Zavihki</string>
   <string name="common_category_entrance_subtitle">Pokaži kategorije iskanja na začetni strani</string>
   <string name="common_category_entrance_title">Pokaži kategorije</string>
   <string name="common_clear_search_history_title">Izbriši zgodovino iskanja</string>
   <string name="common_clear_webview_history_title">Izbriši predspomin in zgodovino pregledovanja</string>
+     <string name="common_history">Zgodovina iskanja</string>
+     <string name="common_history_first">Določite prednost zgodovine iskanja</string>
+     <string name="common_history_first_subtitle">Če je to opravilo izključeno se bo najprej pokazala zgodovina iskanja</string>
+     <string name="common_history_subtitle">Ko je to opravilo izključeno  ne boste videli predlogov iskanja</string>
   <string name="common_hot">Popularno</string>
   <string name="common_hot_subtitle">Prikaz popularnih zahtev za iskanja</string>
   <string name="common_modify_download_path_title">Spremenite lokacijo za prenos</string>
+     <string name="common_personal">Personalizacija</string>
+     <string name="common_recent_apps">Predlogi aplikacij</string>
   <string name="common_recent_apps_category_title">Pokaži</string>
+     <string name="common_recent_apps_first">Razvrsti predloge aplikacij</string>
   <string name="common_recent_apps_first_subtitle">Pokaži predloge aplikacij nad zgodovino iskanja</string>
   <string name="common_recent_apps_first_title">Pokaži najprej predloge aplikacij</string>
   <string name="common_recent_apps_subtitle">Pokaži predloge aplikacij na začetni strani</string>
@@ -74,6 +74,7 @@
   <string name="common_search_history_first_title">Pokaži najprej zgodovino iskanja</string>
   <string name="common_search_history_subtitle">Pokaži zgodovino iskanja na začetni strani</string>
   <string name="common_search_history_title">Pokaži zgodovino iskanja</string>
+     <string name="common_setting">Splošne nastavitve</string>
   <string name="common_setting_engine_title">Brskalnik</string>
   <string name="common_settings_ad_block_title">Filter oglasov</string>
   <string name="common_settings_advanced">Dodatne nastavitve</string>
@@ -104,6 +105,7 @@
   <string name="default_download_path_dialog_title">Vrnem na privzeto lokacijo prenosa?</string>
   <string name="default_download_path_prefix">Privzeta lokacija:</string> 
   <string name="default_hint">Išči aplikacije, glasbo, videoposnetke, knjige…</string>
+     <string name="default_search_domain">.google.com</string>
   <string name="delete_description">Izbriši</string>
   <string name="delete_history">Izbriši to nastavitev</string>
      <string name="desktop_guide_add">Dodaj</string>
@@ -168,8 +170,9 @@
   <string name="remove_from_history_failed">Ne morem odstraniti stvari iz zgodovine.</string>
   <string name="right_protection_title">Posebna izjava</string>
   <string name="search_apps">Išči aplikacije</string>
-  <string name="search_group_fold">Skrij</string>
+     <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
   <string name="search_button">Išči</string>
+     <string name="search_group_fold">Skrij</string>
   <string name="search_group_unfold">Več</string>
   <string name="search_history">Zgodovina</string>
   <string name="search_in_app_store">Iskanje aplikacij v trgovini</string>
@@ -182,6 +185,7 @@
   <string name="search_sources_summary">Izberi kaj iskati v telefonu</string>
   <string name="search_suggestion">Nasveti</string>
   <string name="search_videos">Išči videoposnetke</string>
+     <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
   <string name="search_widget">Iskanje</string>
   <string name="send_secret_code">Pošlji kodo</string>
   <string name="setting_category_edit">Uredi kategorije</string>
@@ -227,8 +231,11 @@
   <string name="voice_search_hint_title">Poskusite povedati:</string>
   <string name="web_search_results">Baidu</string>
   <string name="xiaomi_hint"/>
+     <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v5/hints</string>
   <string name="xiaomi_homepage_suggest"/>
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Rezultati</string>
+     <string name="xiaomi_source_url">https://search.browser.miui.com/</string>
+     <string name="xiaomi_source_url_alpha">https://search.browser.miui.com/alpha/</string>
   <string name="xiaomi_suggest_base"/>
 </resources>

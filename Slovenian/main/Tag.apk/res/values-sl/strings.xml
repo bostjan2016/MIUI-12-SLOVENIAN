@@ -4,7 +4,7 @@
   <string name="action_text">Pošlji sporočilo %s</string>
   <string name="app_name">Oznake</string>
   <string name="button_done">Končano</string>
-  <string name="call_phone_permission_denied">Za klicanje ta aplikacija potrebuje dostop do dovoljen Telefona. Dovoljenja lahko upravljate v nastavitvah</string>
+  <string name="call_phone_permission_denied">Za klicanje ta aplikacija potrebuje dostop do dovoljenj telefona. Dovoljenja lahko urejate v nastavitvah</string>
   <string name="empty_tag_prompt">Ta oznaka je prazna.</string>
   <string name="external_storage_permission_denied">Za dostop do datotek aplikacija potrebuje dovoljenje za dostop zo zunanje shrambe. Dovoljenja lahko upravljate v nastavitvah</string>
   <string name="import_vcard">Uvoz stikov ^1</string>

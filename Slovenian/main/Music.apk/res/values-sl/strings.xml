@@ -77,6 +77,7 @@
   <string name="ad_mark">Oglas</string>
   <string name="ad_recommend">Priporočila</string>
   <string name="ad_setting">Dodatne nastavitve</string>
+  <string name="add">Dodaj</string>
   <string name="add_music">Dodaj skladbe</string>
   <string name="add_to_last_of_playlist">Dodaj na konec seznama pesmi.</string>
      <string name="add_to_playlist">Dodaj v čakalno vrsto</string>
@@ -831,6 +832,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="is_scanning">Preverjam prostor za shranjevanje…</string>
   <string name="is_scanning_support_online">"Preverjam prostor za shranjevanje…      
     (Medtem lahko poslušate glasbo online)"</string>
+     <string name="item_view_role_description">Zavihek</string>
   <string name="japan_korea_female">Ženski izvajalci (Japonska/Koreja)</string>
   <string name="japan_korea_group">Skupine (Japonska/Koreja)</string>
   <string name="japan_korea_male">Moški izvajalci (Japonska/Koreja)</string>

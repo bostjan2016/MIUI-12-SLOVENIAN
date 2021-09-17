@@ -114,6 +114,7 @@
   <string name="expand_button_title">Napredno</string>
   <string name="export_to_note">Izvozi v Beležko</string>
      <string name="exposed_dropdown_menu_content_description">Pokaži spustni meni</string>
+  <string name="fm_record">Radio</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -168,12 +169,15 @@
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
-  <string name="head_set_tip_dialog_msg">izključite svoje slušalke da boste lahko posneli zvok z določenimi elementi (na primer, Glasba, Glas).</string>
+  <string name="head_set_tip_dialog_msg">Izključite svoje slušalke da boste lahko posneli zvok z določenimi elementi (na primer, Glasba, Glas).</string>
   <string name="head_set_tip_dialog_ok">Razumem</string>
   <string name="head_set_tip_dialog_title">Uporabi notranji mikrofon</string>
      <string name="icon_content_description">Pogovorno okno</string>
-  <string name="invalid_argument">Neveljaven argument</string>
+     <string name="invalid_argument">Neveljaven argument</string>
      <string name="item_view_role_description">Zavihek</string>
+     <string name="keywords_search_call_record">Snemanje klicev;Snemanje klicev;Snemanje klicev;Posnetki klicev</string>
+     <string name="keywords_search_record">Novo snemanje;Dodaj posnetek;Snemanje;Posnetki;Prepis;Prepis;Snemalnik;Snemalnik govora;Snemalnik zvoka;Aplikacija Snemalnik;Aplikacija za snemanje;Kako snemam;Kako snemati zvok;Kje je snemalnik;Snemalnik MIUI</string>
+     <string name="keywords_search_record_list">Snemalnik;Prepis;Prepisi;Snemanje;Deljenje posnetka;Deljenje posnetkov;Snemanje;Posnetki</string>
   <string name="korea_permission_phone">Telefon</string>
   <string name="korea_permission_phone_resc">Za dostop statusu naprave in obdealav posnetkov med snemanjem</string>
   <string name="korea_permission_record">Mikrofon</string>

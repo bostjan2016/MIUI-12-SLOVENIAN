@@ -190,7 +190,7 @@
   <string name="location_introduction">Storitve ki temeljijo na lokaciji iščejo proizvode in storitve v vaši bližini.</string>
      <string name="location_location">Reševalne agencije lahko na zahtevo dobijo vašo trenutno lokacijo</string>
   <string name="lockscreen_introduction">Wallpaper Carousel vam omogoča vsakodnevno dobivanje novih slik ozadja za zakl. zaslon.</string>
-     <string name="midnight">Polnič</string>
+     <string name="midnight">Polnoč</string>
   <string name="mint_keyboard_oobe_checkbox">"Prebral sem in se strinam z Pravila o zasebnosti Mint Keyboard"</string>
   <string name="mint_keyboard_oobe_terms">Pravila o zasebnosti Mint Keyboard</string>
   <string name="miui_privacy_policy_no_network">"Niste povezani s spletom. Poglejte Pravila o zasebnosti na %s."</string>
@@ -458,6 +458,7 @@ Pred uporabo MIUI se morate strinjati z Pogoji uporabe in Pravila o zasebnosti.
    <string name="terms_of_use_label_systemhelper">Storitev samoregistriranja</string>
   <string name="terms_of_use_label_updater">, Posodabljanje</string>
   <string name="terms_of_use_lable_apps">Mi storitve, Mi SIM storitve aktivacije, Mi Cloud, Najdi napravo, Začetni zaslon, Center za igre, MAB, MIUI Daemon in MSA komponente sistema, storitve prevajanja, hitre aplikacije, zakl. aplikacij, statistike, Mi Link</string>
+     <string name="terms_of_use_lable_apps_wifi_device">Mi storitve, Xiaomi Cloud, Najdi napravo, Začetni zaslon, Igre, MIUI Daemon, MSA komponente sistema, Storitve prevajanja, MIUI SDK, Hitre aplikacije, Meni bližnjic, statistike, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Morate se strinjati z Facemoji Pravila o zasebnosti pred uporabo te storitve."</string>
@@ -477,26 +478,26 @@ Morate se strinjati z Mint Keyboard Pravila o zasebnosti pred uporabo te storitv
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
-  <string name="title_fingerprint">Dodajte svoj prstni odtis</string>
+     <string name="title_fingerprint">Dodajte svoj prstni odtis</string>
      <string name="title_set_fingerprint">Zaklepanje zaslona</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
-  <string name="two_dimensional_code_scan">Skeniraj QR kodo</string>
-  <string name="user_agreement">Pogoji uporabe</string>
-  <string name="user_agreement_declare">Pred uporabo MIUI-ja morate prebrati in se strinjati z Pogoji uporabe in Pravila o zasebnosti. Ob aktivaciji se bodo storitve omrežne aktivacije Mi SIM, Najdi napravo, Začetni zaslon, Pogosti izrazi, Prevajalska služba, MIUI Daemon, HTML brskalnik in Posodabljanje povezale s spletom. Pametne storitve rabijo splet in lokacijo.</string>
+     <string name="two_dimensional_code_scan">Skeniraj QR kodo</string>
+     <string name="user_agreement">Pogoji uporabe</string>
+     <string name="user_agreement_declare">Pred uporabo MIUI-ja morate prebrati in se strinjati z Pogoji uporabe in Pravila o zasebnosti. Ob aktivaciji se bodo storitve omrežne aktivacije Mi SIM, Najdi napravo, Začetni zaslon, Pogosti izrazi, Prevajalska služba, MIUI Daemon, HTML brskalnik in Posodabljanje povezale s spletom. Pametne storitve rabijo splet in lokacijo.</string>
      <string name="user_agreement_declare_wifi_device">Pred uporabo MIUI-ja morate prebrati in se strinjati z Pogoji uporabe in Pravila o zasebnosti. Ob aktivaciji se bodo storitve Xiaomi Cloud, Var. kopija, Najdi napravo, Začetni zaslon, Pogosti izrazi, Xiaomi spletna komunikacija, Storitve prevajanja, MIUI Daemon, HTML Viewer, MIUI SDK, Secure Element Application, AI Assistant, Baterija in zmogljivost, Power Detector, Joyose, OS AI Nastavitve in Posodabljanje povezale s spletom. Pametne kartice, upravitelj dovoljenj in pametne storitve se bodo povezale na omrežje in dostopale do vaše lokacije.</string>
-  <string name="user_strayed_warning">Ta stran je dizajnirana za tovarniške raziskave. Tapnite \"Nazaj\" za izhod.</string>
+     <string name="user_strayed_warning">Ta stran je dizajnirana za tovarniške raziskave. Tapnite \"Nazaj\" za izhod.</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
-  <string name="voice_assist_advice">Mi AI vam omogoča uporabo glasovnih kontrol, porabi pa več energije (+1% vsako uro).</string>
-  <string name="voice_assist_condition">"V teh primreih na boste mogli uporabljati Mi AI:
+     <string name="voice_assist_advice">Mi AI vam omogoča uporabo glasovnih kontrol, porabi pa več energije (+1% vsako uro).</string>
+     <string name="voice_assist_condition">"V teh primreih na boste mogli uporabljati Mi AI:
 1. Ko je zaslon vključen.
 2. Ko poslušate glasbo z izključenim zaslonom."</string>
-  <string name="voice_assist_desp">Recite \"Mi AI\" v svoj telefon. Mi AI bo prepoznala vaš glas in lahko urejala telefon.</string>
-  <string name="voice_assist_title">Zbudi z glasom</string>
+     <string name="voice_assist_desp">Recite \"Mi AI\" v svoj telefon. Mi AI bo prepoznala vaš glas in lahko urejala telefon.</string>
+     <string name="voice_assist_title">Zbudi z glasom</string>
      <string name="wc_dialog_agree">Strinjam se</string>
      <string name="wc_dialog_reject">"Ne strinjam se"</string>
      <string name="wc_dialog_summary">Wallpaper Carousel na zakl. zaslon vsak dan prinaša osupljive slike in vznemirljive zgodbe.</string>
@@ -509,7 +510,7 @@ Morate se strinjati z Mint Keyboard Pravila o zasebnosti pred uporabo te storitv
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
-  <string name="welcome">Dobrodošli</string>
+     <string name="welcome">Dobrodošli</string>
      <string name="yesterday">Včeraj</string>
-  <string name="zone_picker_title">Izberite časovni pas</string>
+     <string name="zone_picker_title">Izberite časovni pas</string>
 </resources>
