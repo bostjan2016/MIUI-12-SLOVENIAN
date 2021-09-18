@@ -169,8 +169,6 @@
   <string name="daily_forecast_no_data">"Ne morem dobiti podatkov o vremenu
 Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="data_provided_by">Podatki dobljeni od</string>
-     <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ssz"</string>
-     <string name="data_source_timezone">GMT%1$s</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="dialog_internet_error_title">Pojavila se je napaka</string>
      <string name="dialog_msg_score_midrop">Kako vam je všeč Vreme?</string>

@@ -2866,7 +2866,6 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="user_switch_to_user">Preklop na račun %s</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
-     <string name="velocity_tracker_impl">platforma</string>
     <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije, nameščene preko ADB/ADT, škodljive.</string>
     <string name="verify_apps_over_usb_title">Preveri aplikacije preko USB</string>
     <string name="voice_assist_label">odpri glasovnega pomočnika</string>
