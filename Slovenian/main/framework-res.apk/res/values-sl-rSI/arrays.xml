@@ -1,56 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="emailAddressTypes">
-        <item>Začetna</item>
-        <item>Delo</item>
-        <item>Ostalo</item>
-        <item>Po meri</item>
-    </string-array>
-    <string-array name="imProtocols">
-        <item>AIM</item>
-        <item>Windows Live</item>
-        <item>Yahoo</item>
-        <item>Skype</item>
-        <item>QQ</item>
-        <item>Google Talk</item>
-        <item>ICQ</item>
-        <item>Jabber</item>
-    </string-array>
-    <string-array name="organizationTypes">
-        <item>Služba</item>
-        <item>Drugo</item>
-        <item>Po meri</item>
-    </string-array>
-	<string-array name="network_switch_type_name">
-        <item>mobilni podatki</item>
-        <item>WiFi</item>
-        <item>Bluetooth</item>
-        <item>Ethernet</item>
-        <item>VPN</item>
-    </string-array>		
-    <string-array name="phoneTypes">
-        <item>Začetna</item>
-        <item>Mobilni</item>
-        <item>Služba</item>
-        <item>Službeni faks</item>
-        <item>Domači faks</item>
-        <item>Pozivnik</item>
-        <item>Drugo</item>
-        <item>Po meri</item>
-    </string-array>
-    <string-array name="postalAddressTypes">
-        <item>Začetna</item>
-        <item>Delo</item>
-        <item>Ostalo</item>
-        <item>Po meri</item>
-    </string-array>
-    <string-array name="imAddressTypes">
-        <item>Začetna</item>
-        <item>Delo</item>
-        <item>Ostalo</item>
-        <item>Prilagojeno</item>
-    </string-array>
-	<string-array name="app_ops_labels">
+     <string-array name="app_ops_labels">
         <item>Lokacija</item>
         <item>Lokacija</item>
         <item>Lokacija</item>
@@ -101,8 +51,14 @@
         <item>Lokacija</item>
         <item>Lokacija</item>
         <item>Zaženi kodo zagona</item>
-	</string-array>
-	<string-array name="fingerprint_acquired_vendor">
+     </string-array>
+     <string-array name="emailAddressTypes">
+        <item>Začetna</item>
+        <item>Delo</item>
+        <item>Ostalo</item>
+        <item>Po meri</item>
+     </string-array>
+     <string-array name="fingerprint_acquired_vendor">
         <item>Poskusite ponovno</item>
         <item></item>
         <item></item>
@@ -128,13 +84,47 @@
         <item></item>
         <item></item>
         <item></item>
-	<item>Premaknite prst počasi</item>
+        <item>Premaknite prst počasi</item>
         <item>Prstni odtis je dodan, uporabite drugi prst</item>
-    </string-array>	
-    <string-array name="wfcOperatorErrorAlertMessages">
+     </string-array>
+     <string-array name="imAddressTypes">
+        <item>Začetna</item>
+        <item>Delo</item>
+        <item>Ostalo</item>
+        <item>Prilagojeno</item>
+     </string-array>
+     <string-array name="network_switch_type_name">
+        <item>mobilni podatki</item>
+        <item>WiFi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+     </string-array>
+     <string-array name="organizationTypes">
+        <item>Služba</item>
+        <item>Drugo</item>
+        <item>Po meri</item>
+     </string-array>
+     <string-array name="phoneTypes">
+        <item>Začetna</item>
+        <item>Mobilni</item>
+        <item>Služba</item>
+        <item>Službeni faks</item>
+        <item>Domači faks</item>
+        <item>Pozivnik</item>
+        <item>Drugo</item>
+        <item>Po meri</item>
+     </string-array>
+     <string-array name="postalAddressTypes">
+        <item>Začetna</item>
+        <item>Delo</item>
+        <item>Ostalo</item>
+        <item>Po meri</item>
+     </string-array>
+     <string-array name="wfcOperatorErrorAlertMessages">
         <item>Za telefoniranje in klicanje preko WiFi-ja, morate zahtevati od mobilnega operaterja da vam vklopi to storitev. Nato ponovno vključite  klice v Nastavitvah.</item>
-    </string-array>
-    <string-array name="wfcOperatorErrorNotificationMessages">
+     </string-array>
+     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Registrirajte se pri mobilnem operaterju</item>
-    </string-array>
+     </string-array>
 </resources>

@@ -78,8 +78,8 @@
     <string name="ad_download">Prenos</string>
     <string name="ad_join">Pridružitev skupnosti</string>
     <string name="ad_more">Več</string>
-     <string name="add_local_shortcut_add">+Dodaj</string>
-     <string name="add_local_shortcut_des">Dodajte »Moj video« na namizje, da si preprosto ogledate lokalne videoposnetke.</string>
+     <string name="add_local_shortcut_add">Dodaj</string>
+     <string name="add_local_shortcut_des">Dodaj \"Moj video\" na začetni zaslon za dostop do lokalnih video datotek z enim dotikom.</string>
     <string name="add_search_channel_link">Povezava</string>
     <string name="add_search_channel_name">Ime</string>
     <string name="add_search_channel_tip">Na željeni spletni strani poiščite \"%s\", ter kopirajte in zalepite povezavo tukaj.</string>
@@ -285,6 +285,12 @@ Mi Video Team"</string>
     <string name="diagnosis_log_sent_format">"Poročila so bila uspešno poslana.
 ID:%s
 Pošljite to kodo nadzorniku."</string>
+     <string name="dialog_app_comment_cancel">Prekliči</string>
+     <string name="dialog_app_comment_default_content">Kako vam je všeč Mi Video?</string>
+     <string name="dialog_app_comment_ok">V redu</string>
+     <string name="dialog_app_comment_select_feedback">Nam lahko posredujete tudi povratne informacije?</string>
+     <string name="dialog_app_comment_select_praise">Lepo! Boste ocenili Mi Video tudi v Trgovini Play?</string>
+     <string name="dialog_app_comment_title">Ocenite našo aplikacijo</string>
      <string name="dialog_disagree_privacychange_info">"Če se ne strinjate z našo politiko zasebnosti, ne boste mogli uporabljati spletnih storitev pretakanja Mi Video. Dotaknite se \ "Prekliči \", če se želite vrniti, ali \ "Ne strinjam se \", če želite nadaljevati, in uporabite Mi Video samo kot lokalni predvajalnik."</string>
      <string name="dialog_disagree_privacychange_title">"Se ne strinjate?"</string>
      <string name="dialog_privacy_change_info">"Zaradi prilagoditev storitev, ki jih ponujamo, smo posodobili Pravilnik o zasebnosti Mi Video. Če želite v celoti razumeti svoje pravice kot uporabnik in načine, kako uporabljamo vaše podatke, preberite in se strinjate z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> pred uporabo."</string>
@@ -541,6 +547,12 @@ Pošljite to kodo nadzorniku."</string>
     <string name="galleryplus_network_connect_confirm">Povežite se na WiFi omrežje ali vklopite mobilne podatke v nastavitvah omrežja.</string>
     <string name="galleryplus_network_error">Povezava z omrežjem ni uspela</string>
     <string name="galleryplus_network_not_wifi">Uporaba mobilnih podatkov za predvajanje videoposnetkov lahko ustvari dodatne stroške</string>
+     <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Urejaj datoteke %$s Dodaj podnapise %$s Predvajaj videoposnetke %$s</string>
+     <string name="galleryplus_notification_linkvideo_subtitle2">Zaščitite svoje zasebne videoposnetke z geslom %$s</string>
+     <string name="galleryplus_notification_linkvideo_subtitle3">Prenesite videoposnetke iz TikTok-a, Instagram-a in Twitter-ja %$s</string>
+     <string name="galleryplus_notification_linkvideo_title1">%$s Oglejte si vse super storitve Mi Video!</string>
+     <string name="galleryplus_notification_linkvideo_title2">%$s Tapnite za urejanje</string>
+     <string name="galleryplus_notification_linkvideo_title3">%1$s Prenesi videoposnetke brezplačno %2$s Urejaj datoteke</string>
     <string name="galleryplus_online_cta">Mi Video se mora za normalno delovanje povezati z omrežjem. Se strinjate?</string>
     <string name="galleryplus_online_cta_agree">Strinjam se</string>
     <string name="galleryplus_online_cta_disagree">Ne strinjam se</string>
@@ -552,8 +564,11 @@ Pošljite to kodo nadzorniku."</string>
      <string name="galleryplus_permission_content_opt">Mi Video potrebuje dovoljenja za normalno delovanje. Počistite vse podatke aplikacije v nastavitvah in znova odprite aplikacijo.</string>
      <string name="galleryplus_permission_content_xms">Mi Video potrebuje dovoljenja za normalno delovanje. Pojdite v Nastavitve in dajte Mi Video zahtevana dovoljenja.</string>
     <string name="galleryplus_permission_open_settings">Nastavitve</string>
-     <string name="galleryplus_permission_refuse">Ne, hvala</string>
-     <string name="galleryplus_permission_retry">Dovoljenja</string>
+     <string name="galleryplus_permission_refuse">Prekliči</string>
+     <string name="galleryplus_permission_retry">Nastavitve</string>
+     <string name="galleryplus_permission_storage_content_reshowable_video_player">Če želite uporabljati lokalni video predvajalnik, najprej dovolite tej aplikaciji dostop do pomnilnika.</string>
+     <string name="galleryplus_permission_storage_content_unreshowable_video_player">Če želite uporabljati lokalni video predvajalnik, najprej dovolite tej aplikaciji dostop do pomnilnika v \"Dovoljenja\" v Nastavitvah.</string>
+     <string name="galleryplus_permission_storage_title">Zahtevan je dostop do pomnilnika</string>
      <string name="galleryplus_permission_title">Pozor</string>
      <string name="galleryplus_play_speed">%1$.1fX</string>
      <string name="galleryplus_restore_play_speed">Predvajanje normalne hitrosti</string>
@@ -642,6 +657,7 @@ za videoposnetke"</string>
      <string name="local_video_create_a_new_playlist">Nov seznam predvajanja</string>
      <string name="local_video_date">Datum</string>
      <string name="local_video_dialog_default">Privzeto</string>
+     <string name="local_video_edit_playlist">Uredi seznam predvajanja</string>
      <string name="local_video_from_a_to_z">A do Z</string>
      <string name="local_video_from_big_to_small">Veliko do majhno</string>
      <string name="local_video_from_long_to_short">Dolgo do kratko</string>
@@ -1009,6 +1025,7 @@ za videoposnetke"</string>
     <string name="ovp_navigation_language">Jezik</string>
     <string name="ovp_navigation_localvideo">Lokalno</string>
     <string name="ovp_navigation_notice">Obvestila</string>
+     <string name="ovp_navigation_score">Ocenite našo aplikacijo</string>
     <string name="ovp_navigation_setting">Nastavitve</string>
     <string name="ovp_navigation_subscribe">Naročnina</string>
      <string name="ovp_navigation_version_update">Preveri za posodobitve</string>
@@ -1475,6 +1492,7 @@ Izboljša varnost vašega računa."</string>
     <string name="tab_name_trending">V trendu</string>
     <string name="tab_name_video">Videoposnetki</string>
   <string name="temporary_not_available">Ta storitev še ni na voljo</string>
+     <string name="the_item_choosed_tint">%s izbrano</string>
     <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>
@@ -1501,6 +1519,7 @@ Izboljša varnost vašega računa."</string>
     <string name="tool_bar_notification_setting_title">Orodja Plošče obvestil</string>
     <string name="top_bar_game_desc">Tukaj lahko odkrite veliko novih igric</string>
     <string name="top_bar_game_title">Kanal za igre</string>
+     <string name="trending_scroll_load_more">Povlecite navzgor za več videoposnetkov</string>
     <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="animator_duration_scale_entries">
+     <string-array name="animator_duration_scale_entries">
         <item>Animacija izklopljena</item>
         <item>Merilo animacije: 0,5 x</item>
         <item>Merilo animacije: 1 x</item>
@@ -8,69 +8,78 @@
         <item>Merilo animacije: 2 x</item>
         <item>Merilo animacije: 5 x</item>
         <item>Merilo animacije: 10 x</item>
-    </string-array>
-    <string-array name="app_process_limit_entries">
+     </string-array>
+     <string-array name="animator_duration_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array>
+     <string-array name="app_process_limit_entries">
         <item>Standardna omejitev</item>
         <item>Ni postopkov v ozadju</item>
         <item>Največ 1 postopek</item>
         <item>Največ 2 postopka</item>
         <item>Največ 3 postopki</item>
         <item>Največ 4 postopki</item>
-    </string-array>
-    <string-array name="battery_labels">
+     </string-array>
+     <string-array name="battery_labels">
         <item>0 %</item>
         <item>50 %</item>
         <item>100 %</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Uporabi sistemsko izbiro (privzeto)</item>
         <item>16 bitov/vzorec</item>
         <item>24 bitov/vzorec</item>
         <item>32 bitov/vzorec</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
         <item>Uporabi sistemsko izbiro (privzeto)</item>
         <item>16 bitov/vzorec</item>
         <item>24 bitov/vzorec</item>
         <item>32 bitov/vzorec</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>Uporabi sistemsko izbiro (privzeto)</item>
         <item>Mono</item>
         <item>Stereo</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
         <item>Uporabi sistemsko izbiro (privzeto)</item>
         <item>Mono</item>
         <item>Stereo</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Optimizirano za kakovost zvoka</item>
         <item>Uravnotežena kakovost zvoka in povezave</item>
         <item>Optimizirano za kakovost povezave</item>
         <item>Najboljše možno (prilagodljiva bitna hitrost)</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Optimizirano za kakovost zvoka (990/909 kb/s)</item>
         <item>Uravnotežena kakovost zvoka in povezave (660/606 kb/s)</item>
         <item>Optimizirano za kakovost povezave (330/303 kb/s)</item>
         <item>Najboljše možno (prilagodljiva bitna hitrost)</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Uporabi sistemsko izbiro (privzeto)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>Uporabi sistemsko izbiro (privzeto)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_summaries">
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Uporabi sistemsko izbiro (privzeto)</item>
         <item>SBC</item>
         <item>AAC</item>
@@ -79,8 +88,8 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptivni avdio</item>
         <item>Qualcomm® aptX™ TWS+ avdio</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_titles">
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Uporabi sistemsko izbiro (privzeto)</item>
         <item>SBC</item>
         <item>AAC</item>
@@ -89,25 +98,25 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptivni avdio</item>
         <item>Qualcomm® aptX™ TWS+ avdio</item>
-    </string-array>
-    <string-array name="bluetooth_audio_active_device_summaries">
+     </string-array>
+     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
         <item>, aktivno</item>
         <item>, aktivno (predstavnost)</item>
         <item>, aktivno (telefon)</item>
-    </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
+     </string-array>
+     <string-array name="bluetooth_avrcp_version_values">
         <item>avrcp14</item>
         <item>avrcp13</item>
         <item>avrcp15</item>
         <item>avrcp16</item>
-    </string-array>
-    <string-array name="bluetooth_avrcp_versions">
+     </string-array>
+     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (privzeto)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
-    </string-array>
+     </string-array>
      <string-array name="bluetooth_map_version_values">
         <item>map12</item>
         <item>map13</item>
@@ -119,44 +128,44 @@
         <item>MAP 1.4</item>
      </string-array>
      <string-array name="bt_hci_snoop_log_entries">
-       <item>Onemogočeno</item>
-       <item>Omogočeno filtrirano</item>
-       <item>Omogočeno</item>
-       <item>Omogočeno filtrirano glave</item>
-       <item>Omogočeno filtrirano mediji</item>
+        <item>Onemogočeno</item>
+        <item>Omogočeno filtrirano</item>
+        <item>Omogočeno</item>
+        <item>Omogočeno filtrirano glave</item>
+        <item>Omogočeno filtrirano mediji</item>
      </string-array>
-    <string-array name="color_mode_descriptions">
+     <string-array name="color_mode_descriptions">
         <item>Izboljšane barve</item>
         <item>Naravne barve, kot jih vidimo s prostim očesom</item>
         <item>Barve, optimizirane za digitalno vsebino</item>
-    </string-array>
-    <string-array name="color_mode_names">
+     </string-array>
+     <string-array name="color_mode_names">
         <item>Živo (privzeto)</item>
         <item>Naravno</item>
         <item>Standardno</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_entries">
+     </string-array>
+     <string-array name="debug_hw_overdraw_entries">
         <item>Izklop</item>
         <item>Pokaži risanje zunaj vidnega območja</item>
         <item>Pokaži območja za devteranomalijo</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_entries">
+     </string-array>
+     <string-array name="enable_opengl_traces_entries">
         <item>Brez</item>
         <item>Logcat</item>
         <item>Systrace (grafika)</item>
         <item>Klicni snop za storitev glGetError</item>
-    </string-array>
-    <string-array name="hdcp_checking_summaries">
+     </string-array>
+     <string-array name="hdcp_checking_summaries">
         <item>Nikoli ne uporabi preverjanja HDCP</item>
         <item>Preverjanje HDCP uporabi samo za vsebino DRM</item>
         <item>Vedno uporabi preverjanje HDCP</item>
-    </string-array>
-    <string-array name="hdcp_checking_titles">
+     </string-array>
+     <string-array name="hdcp_checking_titles">
         <item>Nikoli ne preveri</item>
         <item>Preveri samo vsebino DRM</item>
         <item>Vedno preveri</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
+     </string-array>
+     <string-array name="overlay_display_devices_entries">
         <item>Brez</item>
         <item>480p</item>
         <item>480p (varno)</item>
@@ -169,52 +178,77 @@
         <item>4K (izboljšan prikaz)</item>
         <item>4K (izboljšan prikaz, varno)</item>
         <item>720p, 1080p (dvojni zaslon)</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
+     </string-array>
+     <string-array name="overlay_display_devices_values">
+        <item></item>
+        <item>720x480/142</item>
+        <item>720x480/142,varno</item>
+        <item>1280x720/213</item>
+        <item>1280x720/213,varno</item>
+        <item>1920x1080/320</item>
+        <item>1920x1080/320,varno</item>
+        <item>3840x2160/320</item>
+        <item>3840x2160/320,varno</item>
+        <item>1920x1080/320|3840x2160/640</item>
+        <item>1920x1080/320|3840x2160/640,varno</item>
+        <item>1280x720/213;1920x1080/320</item>
+     </string-array>
+     <string-array name="select_logd_size_lowram_titles">
         <item>Izklopljeno</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
+     </string-array>
+     <string-array name="select_logd_size_summaries">
         <item>Izklopljeno</item>
         <item>64 K/medpomnilnik dnevnika</item>
         <item>256 K/medpomnilnik dnevnika</item>
         <item>1 M/medpomnilnik dnevnika</item>
         <item>4 M/medpomnilnik dnevnika</item>
         <item>16 M/medpomnilnik dnevnika</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
+     </string-array>
+     <string-array name="select_logd_size_titles">
         <item>Izklopljeno</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
         <item>4M</item>
         <item>16M</item>
-    </string-array>
-    <string-array name="select_logpersist_summaries">
+     </string-array>
+     <string-array name="select_logpersist_summaries">
         <item>Izklopljeno</item>
         <item>Vsi medpomnilniki dnevnika</item>
         <item>Vsi medpomnilniki dnevnika, razen za radio</item>
         <item>samo medpomnilnik dnevnika jedra</item>
-    </string-array>
-    <string-array name="select_logpersist_titles">
+     </string-array>
+     <string-array name="select_logpersist_titles">
         <item>Izklopljeno</item>
         <item>Vse</item>
         <item>Vse (brez rad.)</item>
         <item>samo jedro</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_entries">
+     </string-array>
+     <string-array name="select_logpersist_values">
+        <item></item>
+        <item>vse</item>
+        <item>privzeto,varnost,jedro</item>
+        <item>jedro</item>
+     </string-array>
+     <string-array name="show_non_rect_clip_entries">
         <item>Izklopljeno</item>
         <item>Izris obm. nepravok. izreza z modro</item>
         <item>Ozn. presk. risal. ukazov z zeleno</item>
-    </string-array>
-    <string-array name="track_frame_time_entries">
+     </string-array>
+     <string-array name="show_non_rect_clip_values">
+        <item>skrij</item>
+        <item>regija</item>
+        <item>poudarek</item>
+     </string-array>
+     <string-array name="track_frame_time_entries">
         <item>Izklopljeno</item>
         <item>Na zaslonu kot vrstice</item>
         <item>Čez adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="transition_animation_scale_entries">
+     </string-array>
+     <string-array name="transition_animation_scale_entries">
         <item>Animacija je izključena</item>
         <item>Hitrost animacije 0,5 x</item>
         <item>Hitrost animacije 1 x</item>
@@ -222,8 +256,8 @@
         <item>Hitrost animacije 2 x</item>
         <item>Hitrost animacije 5 x</item>
         <item>Hitrost animacije 10 x</item>
-    </string-array>
-    <string-array name="tts_rate_entries">
+     </string-array>
+     <string-array name="tts_rate_entries">
         <item>Zelo počasi</item>
         <item>Počasi</item>
         <item>Običajno</item>
@@ -233,16 +267,16 @@
         <item>Naglo</item>
         <item>Zelo naglo</item>
         <item>Najhitreje</item>
-    </string-array>
-    <string-array name="usb_configuration_titles">
+     </string-array>
+     <string-array name="usb_configuration_titles">
         <item>Polnjenje</item>
         <item>MTP (protokol za prenos predstavnosti)</item>
         <item>PTP (protokol za prenos slik)</item>
         <item>RNDIS (Ethernet USB)</item>
         <item>Vir zvoka</item>
         <item>MIDI</item>
-    </string-array>
-    <string-array name="wifi_status">
+     </string-array>
+     <string-array name="wifi_status">
         <item></item>
         <item>Iskanje …</item>
         <item>Vzpostavljanje povezave ...</item>
@@ -255,8 +289,8 @@
         <item>Ni uspelo</item>
         <item>Blokirano</item>
         <item>Začasno izogibanje slabi povezavi</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
+     </string-array>
+     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Iskanje …</item>
         <item>Vzpostavljanje povezave z omrežjem %1$s …</item>
@@ -269,8 +303,8 @@
         <item>Ni uspelo</item>
         <item>Blokirano</item>
         <item>Začasno izogibanje slabi povezavi</item>
-    </string-array>
-    <string-array name="window_animation_scale_entries">
+     </string-array>
+     <string-array name="window_animation_scale_entries">
         <item>Animacija je izključena</item>
         <item>Hitrost animacije 0,5 x</item>
         <item>Hitrost animacije 1 x</item>
@@ -278,5 +312,14 @@
         <item>Hitrost animacije 2 x</item>
         <item>Hitrost animacije 5 x</item>
         <item>Hitrost animacije 10 x</item>
-    </string-array>
+     </string-array>
+     <string-array name="window_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array>
 </resources>

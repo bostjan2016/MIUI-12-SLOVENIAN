@@ -22,11 +22,11 @@
         <item>Naslednji mesec</item>
         <item>Izberite datum</item>
      </string-array>
-    <string-array name="compose_modes">
+     <string-array name="compose_modes">
         <item>Odgovor</item>
         <item>Odgovori vsem</item>
         <item>Naprej</item>
-    </string-array>
+     </string-array>
      <string-array name="general_preference_text_zoom_summary_array">
         <item>Majčken</item>
         <item>Majhen</item>
@@ -40,17 +40,17 @@
         <item>Ime</item>
         <item>Pošiljatelj</item>
         <item>Datum prejema</item>
-    </string-array>
-    <string-array name="moveto_folder_sections">
+     </string-array>
+     <string-array name="moveto_folder_sections">
         <item>Sistem</item>
         <item>Pogosto uporab.</item>
         <item>Vse mape</item>
-    </string-array>
-    <string-array name="prefEntries_autoAdvance">
+     </string-array>
+     <string-array name="prefEntries_autoAdvance">
         <item>Novejša sporočila</item>
         <item>Starejša sporočila</item>
         <item>Prihodna pošta</item>
-    </string-array>
+     </string-array>
      <string-array name="prefEntries_contact_add">
         <item>Vsi</item>
         <item>Samo pošiljatelji</item>
@@ -59,23 +59,23 @@
         <item>Pokaži samo arhiviranje</item>
         <item>Pokaži samo brisanje</item>
         <item>Pokaži arhiviranje in brisanje</item>
-    </string-array>
-    <string-array name="prefSummaries_autoAdvance">
+     </string-array>
+     <string-array name="prefSummaries_autoAdvance">
         <item>Prikaz novejšega razgovora po brisanju</item>
         <item>Prikaz starejšega razgovora po brisanju</item>
         <item>Prikaz prihodne pošte po brisanju</item>
-    </string-array>
-    <string-array name="prefSummaries_removal_action_summary">
+     </string-array>
+     <string-array name="prefSummaries_removal_action_summary">
         <item>Pokaži samo arhiviranje</item>
         <item>Pokaži samo brisanje</item>
         <item>Pokaži arhiviranje in brisanje</item>
-    </string-array>
+     </string-array>
      <string-array name="sign_in_dialog_item">
         <item>Outlook za delo (brez koledarja)</item>
         <item>IMAP (brez koledarja)</item>
         <item>EXCHANGE (z koledarjem)</item>
-    </string-array>
-    <string-array name="signature_normal_string_array">
+     </string-array>
+     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Stran:</item>
         <item>E-pošta:</item>
@@ -91,8 +91,8 @@
         <item>E-pošta:</item>
         <item>QQ:</item>
         <item>MSN:</item>
-    </string-array>
-    <string-array name="signature_normal_string_array_next">
+     </string-array>
+     <string-array name="signature_normal_string_array_next">
         <item>Naslov:</item>
         <item>Tel:</item>
         <item>Ime:</item>
@@ -101,8 +101,8 @@
         <item>WeChat:</item>
         <item>Fax:</item>
         <item>Poštna številka:</item>
-	</string-array>
-    <string-array name="signature_special_string_array">
+     </string-array>
+     <string-array name="signature_special_string_array">
         <item>Pogoji:</item>
         <item>E-pošta Pogoji</item>
         <item>Pošlji via WPSMail</item>
@@ -110,8 +110,8 @@
         <item>Poslano z</item>
         <item>Hvala,</item>
         <item>Prisrčen pozdrav</item>
-    </string-array>
-    <string-array name="signature_special_string_array_next">
+     </string-array>
+     <string-array name="signature_special_string_array_next">
         <item>Hvala,</item>
         <item>Prisrčen pozdrav</item>
         <item>Poslano iz mojega</item>

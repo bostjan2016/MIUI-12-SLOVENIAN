@@ -5,11 +5,7 @@
         <item>Meter</item>
         <item>Čevelj</item>
         <item>Inča</item>
-    </string-array>
-    <string-array name="weight_array">
-        <item>Kilogram</item>
-        <item>Funt</item>
-	 </string-array>
+     </string-array>
      <string-array name="mortgage_repayment">
         <item>Enaki obroki</item>
         <item>Manjši obroki</item>
@@ -29,27 +25,11 @@
         <item>moč</item>
         <item>tangens</item>
         <item>sinus</item>
-        <item>cosinus</item>
+        <item>kosinus</item>
         <item>pi</item>
         <item>enako</item>
      </string-array>
-	 <string-array name="unit_data_order_currency_">
-        <item>USD</item>
-        <item>EUR</item>
-        <item>JPY</item>
-     </string-array>
-	  <string-array name="unit_data_order_time_">
-        <item>let</item>
-        <item>teden</item>
-        <item>dan</item>
-        <item>h</item>
-        <item>min</item>
-        <item>s</item>
-        <item>ms</item>
-        <item>us</item>
-        <item>ps</item>
-     </string-array>
-	 <string-array name="unit_data_order_area_">
+     <string-array name="unit_data_order_area_">
         <item>kv.km</item>
         <item>ha</item>
         <item>ar</item>
@@ -69,7 +49,18 @@
         <item>kv.chi</item>
         <item>kv.cun</item>
      </string-array>
-	  <string-array name="unit_data_order_volume_">
+     <string-array name="unit_data_order_time_">
+        <item>let</item>
+        <item>teden</item>
+        <item>dan</item>
+        <item>h</item>
+        <item>min</item>
+        <item>s</item>
+        <item>ms</item>
+        <item>us</item>
+        <item>ps</item>
+     </string-array>
+     <string-array name="unit_data_order_volume_">
         <item>kub.m</item>
         <item>kub.dm</item>
         <item>kub.cm</item>
@@ -83,5 +74,9 @@
         <item>kub.inč</item>
         <item>kub.yard</item>
         <item>kub.af</item>
+     </string-array>
+     <string-array name="weight_array">
+        <item>Kilogram</item>
+        <item>Funt</item>
      </string-array>
 </resources>

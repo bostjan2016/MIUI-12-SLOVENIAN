@@ -17,7 +17,7 @@
         <item>30 minut</item>
         <item>60 minut</item>
      </string-array>
-	 <string-array name="base_day_time_space">
+     <string-array name="base_day_time_space">
         <item>Noč</item>
         <item>Noč</item>
         <item>Jutro</item>
@@ -25,8 +25,8 @@
         <item>Popoldne</item>
         <item>Večer</item>
         <item></item>
-	</string-array>
-	 <string-array name="day_time_space">
+     </string-array>
+     <string-array name="day_time_space">
         <item>Noč</item>
         <item>Jutro</item>
         <item>Dopoldne</item>
@@ -35,11 +35,11 @@
         <item>Pozno popoldne</item>
         <item>Večer</item>
      </string-array>
-	<string-array name="detail_font_size">
-      <item>Majhen</item>
-      <item>Normalen</item>
-      <item>Velik</item>
-    </string-array>
+     <string-array name="detail_font_size">
+        <item>Majhno</item>
+        <item>Normalno</item>
+        <item>Veliko</item>
+     </string-array>
      <string-array name="stock_color_schema">
         <item>Rdeča - gor, zelena - dol</item>
         <item>Zelena - gor, rdeča - dol</item>

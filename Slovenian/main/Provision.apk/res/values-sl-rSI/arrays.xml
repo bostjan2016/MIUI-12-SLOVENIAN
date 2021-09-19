@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
  <resources>
-     <string-array name="popular_language_locales">
-        <item>en_IN</item>
-        <item>en_GB</item>
-        <item>en_US</item>
-        <item>in_ID</item>
-        <item>hi_IN</item>
-        <item>ru_RU</item>
-        <item>zh_TW</item>
-        <item>zh_CN</item>
-     </string-array>
-     <string-array name="indian_popular_language_locales">
-         <item>en_US</item>
-         <item>en_GB</item>
-     </string-array>
-	 <string-array name="other_settings_auto_update_entries">
+     <string-array name="other_settings_auto_update_entries">
         <item>WiFi in mobilni podatki</item>
         <item>samo WiFi</item>
         <item>Izključi</item>
-    </string-array>
  </resources>

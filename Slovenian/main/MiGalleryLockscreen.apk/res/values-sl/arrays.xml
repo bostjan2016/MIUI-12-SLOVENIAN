@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <string-array name="account_user_gender_name">
+     <string-array name="account_user_gender_name">
         <item>Moški</item>
         <item>Ženska</item>
-    </string-array>
-    <string-array name="month12">
+     </string-array>
+     <string-array name="feature_desc">
+        <item>Optimirano za mednarodne uporabnike Xiaomi.eu</item>
+     </string-array>
+     <string-array name="month12">
         <item>Januar</item>
         <item>Februar</item>
         <item>Marec</item>
@@ -17,9 +20,6 @@
         <item>Oktober</item>
         <item>November</item>
         <item>December</item>
-    </string-array>
-    <string-array name="feature_desc">
-        <item>Optimirano za mednarodne uporabnike by Xiaomi.eu</item>
-    </string-array>
+     </string-array>
 </resources>
 
