@@ -840,6 +840,15 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="no_sim">"Ne najdem SIM kartice"</string>
      <string name="noon">Poldne</string>
   <string name="not_set">Ni nastavljeno</string>
+     <string name="noti_quota_button_text">Nadgradi</string>
+     <string name="noti_quota_full_sum">Nadgradite svoj načrt shranjevanja, če želite nadaljevati sinhronizacijo stvari.</string>
+     <string name="noti_quota_full_sum_without_button">Pridobite več prostora za shranjevanje za nadaljevanje sinhronizacije stvari.</string>
+     <string name="noti_quota_full_title">Shramba v oblaku je polna</string>
+     <string name="noti_quota_full_title_without_button">Shramba v oblaku je polna</string>
+     <string name="noti_quota_low_sum">Nadgradite svoj načrt shranjevanja, če želite nadaljevati sinhronizacijo stvari.</string>
+     <string name="noti_quota_low_sum_without_button">Pridobite več prostora za shranjevanje za nadaljevanje sinhronizacije stvari.</string>
+     <string name="noti_quota_low_title">Ni dovolj prostora za shranjevanje v oblaku</string>
+     <string name="noti_quota_low_title_without_button">Ni dovolj prostora za shranjevanje v oblaku</string>
      <string name="notification_reinstall_key_text">Potrdite svojo identiteto in poskusite znova</string>
      <string name="notification_sync_fail_title">"Ne morem sinhronizirati gesel"</string>
      <string name="notification_update_key_text">Geslo upravitelja gesel je spremenjeno. Preverite novo geslo</string>
@@ -936,7 +945,7 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
   <string name="settings_backup_title">Nastavitve var. kopije sistema</string>
   <string name="share_cancel">Deljenje odpovedano</string>
   <string name="share_failed">"Ne morem deliti"</string>
-     <string name="share_location_app_name">Najdi</string>
+     <string name="share_location_app_name">Najdi napravo</string>
      <string name="share_location_dialog_confirm">Razumem</string>
      <string name="share_location_dialog_content">Zdaj lahko za hitrejši dostop do nastavitev uporabite bližnjico na začetnem zaslonu.</string>
      <string name="share_location_dialog_title">Pozor</string>

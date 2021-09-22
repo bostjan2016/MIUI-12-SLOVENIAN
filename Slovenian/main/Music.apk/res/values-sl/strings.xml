@@ -1636,7 +1636,7 @@ Bodite Happy"</string>
   <string name="toast_download_in_process">Prenos poteka</string>
      <string name="toast_favorite_has_been_added">Uspešno dodano na seznam predvajanja</string>
      <string name="toast_follow_success">Sledeno uspešno</string>
-     <string name="toast_hungama_vip_song">Ta pesem je na voljo samo članom PRO. Pridobite naročnino za prenos te pesmi。</string>
+     <string name="toast_hungama_vip_song">Ta pesem je na voljo samo članom PRO. Pridobite naročnino za prenos te pesmi.</string>
   <string name="toast_is_pro">Ste že PRO član.</string>
   <string name="toast_my_playlist_illegal_name">Naslov seznama predvajanja ni veljaven. Preimenujte ga.</string>
   <string name="toast_my_playlist_set_to_private">Seznam predvajanja je zaseben. Drugi ljudje ga ne morejo videti.</string>
