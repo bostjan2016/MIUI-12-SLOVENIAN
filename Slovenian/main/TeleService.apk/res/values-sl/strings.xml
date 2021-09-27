@@ -1403,6 +1403,8 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="incall_error_turn_off_airplane_mode">Izključite Letalski način</string>
   <string name="incall_error_wfc_only_no_wireless_network">Povežite se v omrežje WiFi če želite opraviti klic.</string>
   <string name="incall_number_anonymous">Neznana številka</string>
+     <string name="incall_number_anonymous_kd">ID Neposlano</string>
+     <string name="incall_number_unavailable_kd">Ni podprto</string>
   <string name="incall_status_dialed_mmi">Začetek MMI zaporedja…</string>
   <string name="incoming_video_show_pref_summary">Pokaži video profil klicatelja. Za uporabo te storitve vključite vizitko stika.</string>
   <string name="incoming_video_show_pref_title">"Pokaži video profil klicatelja"</string>

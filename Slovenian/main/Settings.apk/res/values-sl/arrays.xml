@@ -4,8 +4,8 @@
      <string-array name="accessibility_button_gesture_selector_titles">
         <item>Gumb</item>
         <item>Poteza</item>
-    </string-array>
-    <string-array name="accessibility_button_location_selector_titles">
+     </string-array>
+     <string-array name="accessibility_button_location_selector_titles">
         <item>Prekrivanje drugih aplikacij</item>
         <item>Vrstica za krmarjenje</item>
      </string-array>
@@ -132,15 +132,15 @@
         <item>Objavljanje obvestil</item>
         <item>Lokacija</item>
         <item>Telefonski klic</item>
-        <item>Branje SMS-a/MMS-a</item>
-        <item>Pisanje SMS-a/MMS-a</item>
-        <item>Sprejem SMS-a/MMS-a</item>
-        <item>Sprejem SMS-a/MMS-a</item>
-        <item>Sprejem SMS-a/MMS-a</item>
-        <item>Sprejem SMS-a/MMS-a</item>
-        <item>Pošiljanje SMS-a/MMS-a</item>
-        <item>Branje SMS-a/MMS-a</item>
-        <item>Pisanje SMS-a/MMS-a</item>
+        <item>Branje SMS-ov/MMS-ov</item>
+        <item>Pisanje SMS-ov/MMS-ov</item>
+        <item>Sprejem SMS-ov/MMS-ov</item>
+        <item>Sprejem SMS-ov/MMS-ov</item>
+        <item>Sprejem SMS-ov/MMS-ov</item>
+        <item>Sprejem SMS-ov/MMS-ov</item>
+        <item>Pošiljanje SMS-ov/MMS-ov</item>
+        <item>Branje SMS-ov/MMS-ov</item>
+        <item>Pisanje SMS-ov/MMS-ov</item>
         <item>Spreminjanje nastavitev</item>
         <item>Pomik na vrh</item>
         <item>Dostop do obvestil</item>
@@ -204,21 +204,21 @@
         <item>obvestilo</item>
         <item>preverjanje celice</item>
         <item>telefonski klic</item>
-        <item>branje SMS-a</item>
-        <item>pisanje SMS-a</item>
-        <item>sprejem SMS-a</item>
-        <item>sprejem SMS-a v sili</item>
-        <item>sprejem MMS-a</item>
+        <item>branje SMS-ov</item>
+        <item>pisanje SMS-ov</item>
+        <item>sprejem SMS-ov</item>
+        <item>sprejem SMS-ov v sili</item>
+        <item>sprejem MMS-ov</item>
         <item>sprejem WAP obvestil</item>
-        <item>pošiljanje SMS-a</item>
-        <item>branje ICC SMS-a</item>
-        <item>pisanje ICC SMS-a</item>
+        <item>pošiljanje SMS-ov</item>
+        <item>branje ICC SMS-ov</item>
+        <item>pisanje ICC SMS-ov</item>
         <item>spreminjanje nastavitev</item>
         <item>pomik na vrh</item>
         <item>dostop do obvestil</item>
         <item>kamera</item>
         <item>snemanje zvoka</item>
-        <item>predvajanje audiozapisov</item>
+        <item>predvajanje avdioposnetkov</item>
         <item>preberi odložišče</item>
         <item>spremeni odložišče</item>
         <item>medijski gumbi</item>
@@ -511,8 +511,8 @@
      </string-array>
      <string-array name="bt_hci_snoop_log_entries">
         <item>Onemogočeno</item>
-        <item>Filtrirano</item>        
-	<item>Omogočeno</item>
+        <item>Filtrirano</item>
+        <item>Omogočeno</item>
      </string-array>
      <string-array name="bt_hci_snoop_log_values">
         <item>onemogočeno</item>
@@ -1482,7 +1482,7 @@
         <item>IKEv2/IPSec RSA</item>
      </string-array>
      <string-array name="vpn_types_long">
-     <item>PPTP VPN</item>
+        <item>PPTP VPN</item>
         <item>L2TP/IPSec VPN s ključi v predhodni skupni rabi</item>
         <item>L2TP/IPSec VPN s potrdili</item>
         <item>IPSec VPN s ključi v predhodni skupni rabi in preverjanjem pristnosti Xauth</item>
@@ -1708,7 +1708,7 @@
      <string-array name="wifi_tether_security_values">
         <item>3</item>
         <item>2</item>
-	<item>1</item>
+        <item>1</item>
         <item>0</item>
      </string-array>
      <string-array name="wifi_ttls_phase2_entries">

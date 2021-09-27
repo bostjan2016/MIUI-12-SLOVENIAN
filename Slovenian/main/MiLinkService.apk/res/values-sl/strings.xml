@@ -406,6 +406,7 @@ Preberite in se strinjajte z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href
      <string name="time_picker_label_minute">M</string>
   <string name="toast_guide_show_more">Izvedite več</string>
   <string name="toast_guide_title">Raziščite nove storitve</string>
+     <string name="toast_invisible_mode">"Ste brez beleženja zgodovine. Trenutno ni mogoče uporabiti pretakanja."</string>
   <string name="toast_msg_for_multi_window">Ta storitev ni na voljo v načinu z deljenim zaslonom</string>
   <string name="toast_msg_for_small_window">Po odprtju aplikacije ki jo želite predvajati uporabite storitev projekcije malega okna, prikazana aplikacija se ne bo prekinila, mobilni telefon lahko dela z drugimi aplikacijami.</string>
   <string name="toast_nfc_dont_move">"Ne oddaljite telefona predaleč"</string>

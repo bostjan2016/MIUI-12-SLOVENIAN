@@ -1740,9 +1740,9 @@ Z %2$s še niste bili povezani."</string>
   <string name="bluetooth_phonebook_request">Zahteva za dostop do telefonskega imenika</string>
   <string name="bluetooth_pin_values_hint">Običajno 0000 ali 1234</string>
   <string name="bluetooth_pin_values_hint_16_digits">Biti mora 16-mestno število</string>
-     <string name="bluetooth_plugins_check_summary">Preverite posodobitve vtičnikov bluetooth</string>
+     <string name="bluetooth_plugins_check_summary">Povežite se z omrežjem in preverite, ali so na voljo posodobitve</string>
      <string name="bluetooth_plugins_check_summary_new">Najdena je nova različica vtičnika bluetooth</string>
-     <string name="bluetooth_plugins_check_title">Preverite vtičnike bluetooth</string>
+     <string name="bluetooth_plugins_check_title">Posodobi vtičnike bluetooth</string>
     <string name="bluetooth_pref_summary">Omogočite telefonu, da komunicira z napravami Bluetooth v bližini</string>
   <string name="bluetooth_preference_connected_devices">Povezana naprava</string>
   <string name="bluetooth_preference_device_settings">Nastavitve naprave</string>
@@ -4578,6 +4578,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="headset_remove_message">Ali želite odstraniti to napravo iz vašega računa?</string>
      <string name="headset_remove_message_indicate">%1$s bo razdružen iz vseh naprav, povezanih s tem Mi računom</string>
   <string name="headset_settings_title">Zvočni efekti</string>
+     <string name="headset_spatial_audio">Prostorski zvok</string>
      <string name="headset_toast_tip_disconnect_others">Slušalk trenutno ni mogoče nastaviti, morda so povezane z drugim telefonom</string>
      <string name="headset_unsaved_device">Odstrani napravo</string>
      <string name="headset_unsaved_devices">Ne shrani, povežite se na svoj račun v drugem telefonu</string>
@@ -4911,6 +4912,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
   <string name="keyboard_and_input_methods_category">Tipkovnice</string>
   <string name="keyboard_assistance_category">Pomoč za tipkovnico</string>
     <string name="keyboard_disconnected">Ni priključeno</string>
+     <string name="keyboard_funtion_key">Funkcijska tipka</string>
   <string name="keyboard_layout_default_label">Privzeto</string>
   <string name="keyboard_layout_dialog_setup_button">Nastavitev razporeditev tipkovnice</string>
   <string name="keyboard_layout_dialog_switch_hint">Preklopite s Ctrl in preslednico</string>
@@ -9972,6 +9974,7 @@ Pred uporabo naših storitev preberite in sprejmite naše %s."</string>
   <string name="status_network_type">Vrsta mobilnega omrežja</string>
     <string name="status_number">Telefonska številka</string>
     <string name="status_number_sim_slot">Tel. št. (reža za SIM %1$d)</string>
+     <string name="status_number_sim_softbank">Tel. št. %1$d</string>
     <string name="status_number_sim_status">Telefonska št. na kartici SIM</string>
   <string name="status_operator">Omrežje</string>
     <string name="status_prl_version">Različica seznama prednostnih omrežij za gostovanje</string>
@@ -10262,6 +10265,11 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
     <string name="style_and_wallpaper_settings_title">Slogi in ozadja</string>
     <string name="style_suggestion_summary">Preizkusite različne sloge, ozadja, ure in drugo</string>
     <string name="style_suggestion_title">Prilagajanje telefona</string>
+     <string name="stylus_connect_fail">"Povezave ni bilo mogoče vzpostaviti. Ponovno poskusite."</string>
+     <string name="stylus_connect_fail_no_battery">Napolnite pisalo zdaj</string>
+     <string name="stylus_connect_fail_no_reason">"Povezave ni bilo mogoče vzpostaviti"</string>
+     <string name="stylus_connect_fail_not_open_gps">"Povezave ni bilo mogoče vzpostaviti. Vklopite lokacijske storitve in poskusite znova."</string>
+     <string name="stylus_connecting">Povezovanje…</string>
      <string name="stylus_ota_check_failed_battery">"Ni bilo mogoče preveriti. Baterija vašega pisala je skoraj prazna."</string>
      <string name="stylus_ota_check_failed_info">"Različice vdelane programske opreme ni bilo mogoče preveriti. Spet pritrdite pisalo."</string>
      <string name="stylus_ota_check_update">Preveri za posodobitve</string>
