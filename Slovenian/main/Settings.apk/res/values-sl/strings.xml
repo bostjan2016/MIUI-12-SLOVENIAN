@@ -4492,6 +4492,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="handy_mode">Delo z eno roko</string>
   <string name="handy_mode_enable">Delo z eno roko</string>
   <string name="handy_mode_enter_ask">Vprašaj pred vstopom v način Delo z eno roko</string>
+     <string name="handy_mode_no_touch_assistant">"Način z eno roko bo deloval le, če za navigacijo po sistemu uporabljate gumbe. Preklapljate lahko med potezami in gumbi v razdelku \"Navigacija sistema\" v nastavitvah."</string>
   <string name="handy_mode_size">Velikost zaslona</string>
   <string name="handy_mode_tips">Podrsajte s prstom levo ali desno od tipke Domov da pomaknete zaslon bliže enemu robu.</string>
   <string name="handy_mode_tips_full_screen">"Kadar uporabljate gibe na celem zaslonu, lahko vključite Delo z eno roko s pomočjo menija bližnjic. Lahko uporabite tudi tipke namesto gibov celega zaslona."</string>
@@ -4805,6 +4806,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
   <string name="input_pattern_hint_text">Narišite vzorec odklepanja</string>
   <string name="input_settings">Nastavitve vnosa</string>
      <string name="input_text">Okno za vnos besedila</string>
+     <string name="insert_sim_card_and_try_again">Vstavite kartico SIM in poskusite znova.</string>
     <string name="install_all_warning">Neznane aplikacije lažje napadejo telefon in osebne podatke v njem. Če namestite aplikacije iz tega vira, se strinjate, da ste sami odgovorni za morebitno škodo, nastalo v telefonu, ali izgubo podatkov, ki je lahko posledica uporabe teh aplikacij.</string>
   <string name="install_applications">Neznani viri</string>
   <string name="install_applications_title">Dovoli vse vire aplikacij</string>
@@ -11138,6 +11140,7 @@ Iz profila bodo prav tako odstranjeni shranjeni prstni odtisi, tako da z njimi n
     <string name="unrestricted_app_title">Neomejen podatkovni prenos</string>
     <string name="unrestricted_data_saver">Neomejen prenos podatkov</string>
     <string name="unsupported_setting_summary">Telefon ne podpira nastavitve</string>
+     <string name="unsupported_usim_card">Nepodprta kartica USIM.</string>
   <string name="untitled_apn">Brez naslova</string>
     <string name="unused_apps">Neuporabljene aplikacije</string>
     <string name="unused_apps_switch">Odstrani dovoljenja in sprosti prostor</string>

@@ -174,7 +174,7 @@ Obiščite https://appleid.apple.com/#!&amp;page=signin za izklop"</string>
      <string name="dialog_request_network_message">"Dobrodošli v Mi Mover! Aplikacijo lahko uporabite za prenos podatkov iz stare naprave na novo.
 Vaše zasebne podatke bomo varovali glede na ustrezne zakone, predpise in pravilnike o zasebnosti. Bodite pozorni, da Mi Mover mora biti povezan s spletom in zahteva naslednja dovoljenja, da bi zbiral vaše osebne podatke: vklop in izklop WiFi omrežja, dostop do in prenos vaših stikov, zgodovina klicev, SMS, MMS, posnetki klicev ter avdio posnetki."</string>
      <string name="dialog_request_network_message_extra">Če ne želite dodeliti takšna dovoljenja ali deliti in naložiti vaše osebne podatke, ne boste mogli uporabiti to aplikacijo. V takih primerih lahko izberete da aplikacijo odstranite ali ji omejite dovoljenja v Nastavitvah.</string>
-  <string name="dialog_request_permission_message">Dobrodošli v Mi Mover! To aplikacijo lahko uporabite za prenos podatkov iz iClouda ali stare naprave v novo. Ta aplikacija mora biti povezana s spletom in za normalno delovanje potrebuje naslednja dovoljenja:</string>
+  <string name="dialog_request_permission_message">"Dobrodošli v Mi Moverju! S to aplikacijo lahko prenesete podatke iz stare naprave v novo. Podatki bodo preneseni med obema napravama in ne bodo naloženi na naše strežnike. Ta aplikacija se mora povezati s spletom in zahteva naslednja dovoljenja za normalno delovanje: ":</string>
   <string name="dialog_request_permission_message_buttom_content">Dovolite tej aplikaciji da se poveže s spletom in ji dajte potrebna dovoljenja, navedena zgoraj.</string>
   <string name="dialog_request_permission_message_extra_summary">Ta dovoljenja so potrebna za omogočanje osnovnih funkcij in storitev te aplikacije.</string>
   <string name="dialog_request_permission_message_extra_title">Obvezna dovoljenja</string>
@@ -187,11 +187,11 @@ Vaše zasebne podatke bomo varovali glede na ustrezne zakone, predpise in pravil
     <string name="dialog_version_title_tip">Posodobitev je na voljo</string>
      <string name="dialog_wechat_data_transfer_fail_button">Razumem</string>
      <string name="dialog_wechat_data_transfer_fail_message">"Ne morem prenesti WeChat podatkov aplikacije in zgodovine klepetov zaradi omejitev aplikacije. Preizkusite funkcijo varnostnega kopiranja v aplikaciji.
-Open WeChat and go to Me > Settings > General > Var. kopija &amp; premakni pogovore."</string>
+Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; premakni pogovore."</string>
      <string name="dialog_wechat_data_transfer_fail_title">"Ne morem prenesti WeChat podatkov aplikacije"</string>
   <string name="do_not_restore_temporarily">Ne zdaj</string>
     <string name="document">Dokumenti</string>
-     <string name="early_morning">AM</string>
+     <string name="early_morning">Jutro</string>
   <string name="email">E-pošta</string>
     <string name="err_authentication_failed">Ne morem preveriti</string>
     <string name="err_bakfile_broken">Ne morem uporabiti te varnostne kopije.</string>

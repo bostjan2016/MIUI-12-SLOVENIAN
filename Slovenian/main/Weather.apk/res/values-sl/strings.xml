@@ -170,6 +170,7 @@
 Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="data_provided_by">Podatki dobljeni od</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="dialog_internet_error_title">Pojavila se je napaka</string>
      <string name="dialog_msg_score_midrop">Kako vam je všeč Vreme?</string>
      <string name="dialog_msg_score_not_good">Bi nam lahko poslali povratne informacije?</string>
@@ -544,6 +545,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
      <string name="save_to_gallery_success_message">Shranjeno v Galerijo</string>
   <string name="search_menu_title">Išči</string>
   <string name="search_weather">Vreme</string>
+     <string name="send">Pošlji</string>
   <string name="set">Nastavitve</string>
      <string name="set_degree_centigrade">°C</string>
      <string name="set_fahrenheit">°F</string>

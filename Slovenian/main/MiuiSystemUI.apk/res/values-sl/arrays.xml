@@ -226,7 +226,7 @@
      </string-array>
      <string-array name="nav_bar_buttons">
         <item>Medpomnilnik</item>
-        <item>Keycode</item>
+        <item>Ključna koda</item>
         <item>Menjava tipkovnice</item>
         <item>Nič</item>
      </string-array>
@@ -341,6 +341,131 @@
         <item>regija</item>
         <item>poudarek</item>
      </string-array>
+    <string-array name="tile_states_airplane">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_internet">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>Ni na voljo</item>
+        <item>Izključeno</item>
+        <item>Vključeno</item>
+    </string-array>
      <string-array name="track_frame_time_entries">
         <item>Izklopljeno</item>
         <item>Na zaslonu kot vrstice</item>

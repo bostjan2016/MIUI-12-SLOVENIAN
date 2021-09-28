@@ -1724,8 +1724,8 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
     <string name="privacy_authorize_summary">Vklopite ali izklopite za dovoljenje ali preklic pooblastila</string>
     <string name="privacy_authorize_title">Avtorizacija</string>
     <string name="privacy_btn_more">Več</string>
-    <string name="privacy_improve_performance">Pomagajte izboljšati izvedbo Mi brskalnika</string>
-    <string name="privacy_improve_performance_desc">Samodejno pošlji združene podatke in poročila o zrušitvah Mi brskalnika</string>
+    <string name="privacy_improve_performance">Program uporabniških izkušenj</string>
+    <string name="privacy_improve_performance_desc">Dovoli Xiaomi zbiranje in analizo uporabniških podatkov za izboljšanje naših izdelkov in storitev</string>
     <string name="privacy_message">Preden začnete uporabljati brskalnik se morate strinjati z &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Pravila o zasebnosti&lt;/a>&lt;/font>.</string>
     <string name="privacy_message_main_tips_first">Aplikacija Mi brskalnik zahteva zbiranje potrebnih osebnih podatkov, da bi vam zagotovila osnovne storitve. Več o tem kako ravnamo s podatki, ki jih zbiramo si lahko preberete v &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Pravila o zasebnosti&lt;/a>&lt;/font>. Vaše soglasje z Pravili o zasebnosti Mi brskalnika lahko kadarkoli prekličete v Nastavitve > Zasebnost &amp; varnost. Pred uporabo aplikacije Mi brskalnik preberite in se strinjajte z &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Pravila o zasebnosti&lt;/a>&lt;/font>.</string>
     <string name="privacy_message_main_tips_second">Da bo lahko iskala aplikacije na napravi in vedela, katere aplikacije so nameščene, mora aplikacija Mi brskalnik dostopati do podatkov o nastavitvi aplikacij, ki ne bodo shranjeni lokalno, prav tako pa ne bodo naloženi v kakršni koli obliki.</string>
