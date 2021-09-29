@@ -62,7 +62,10 @@
   <string name="atrace_start">Snemanje atrace zapisa…</string>
   <string name="background">Aplikacija se izvaja v ozadju</string>
   <string name="base_info">Osnovne informacije</string>
+     <string name="character_counter_content_description">Vneseni znaki %1$d od %2$d</string>
+     <string name="character_counter_overflowed_content_description">Omejitev znakov je presežena %1$d od %2$d</string>
   <string name="checking_intranet">Preverjam intranet povezavo, počakajte...</string>
+     <string name="clear_text_end_icon_content_description">Izbriši besedilo</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
   <string name="cloud_addr_info">Cloud informacije</string>
@@ -185,6 +188,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="high_temp_state">Pregrevanje</string>
   <string name="high_temp_state_message">Vaša naprava se pregreva. Mobilni podatki, WiFi hotspoti, GPS in kamera bodo omejeni.</string>
   <string name="hints_loading_text">Nalaganje…</string>
+     <string name="icon_content_description">Pogovorno okno</string>
   <string name="important_warning">Pozor</string>
   <string name="insert_data">Vnesite podatke</string>
   <string name="invalid_size_value">"Ne morem dobiti velikosti paketa."</string>
@@ -272,6 +276,14 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
      <string name="more">Več</string>
      <string name="morning">Jutro</string>
   <string name="movie">Film</string>
+     <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
+     <string name="mtrl_picker_cancel">Prekliči</string>
+     <string name="mtrl_picker_confirm">Save</string>
+     <string name="mtrl_picker_date_format">dd/MM, yyyy</string>
+     <string name="mtrl_picker_header_prompt">Izberite datum</string>
+     <string name="mtrl_picker_header_selected">%1$s</string>
+     <string name="mtrl_picker_range_header_prompt">Izberite časovno obdobje</string>
+     <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
   <string name="new_group_name">Način uporabnika</string>
   <string name="new_power_checker_title">PowerChecker(novo)</string>
      <string name="night">Noč</string>
@@ -292,6 +304,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="open_dark_mode_tip">Kvaliteta zaslona nekaterih storitev se lahko zmanjša v temnem načinu dela. Vrnjeno bo na normalno ko zapustite temni način dela. Zamenjam na tamni način dela?</string>
   <string name="operation_create_group">Ime</string>
   <string name="operation_create_group_message">Vnesite novo ime skupine</string>
+     <string name="password_toggle_content_description">Pokaži geslo</string>
   <string name="performance_category">Zmogljivost</string>
   <string name="permstep_description">"Dovolite aplikaciji branje informacij o vaših korakih"</string>
   <string name="permstep_label">Dostop do korakov</string>
@@ -441,6 +454,8 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
+     <string name="title_history">Zgodovina</string>
+     <string name="title_home">Domov</string>
   <string name="today">Danes</string>
   <string name="tomorrow">Jutri</string>
      <string name="tuesday">Torek</string>

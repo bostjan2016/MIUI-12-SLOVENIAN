@@ -97,6 +97,18 @@
         <item quantity="other">%d WiFi omrežij</item>
         <item quantity="one">%d WiFi omrežje</item>
      </plurals>
+     <plurals name="error_retry_hour">
+        <item quantity="other">%s ur</item>
+        <item quantity="one">%s uro</item>
+     </plurals>
+     <plurals name="error_retry_minute">
+        <item quantity="other">%s minut</item>
+        <item quantity="one">%s minuto</item>
+     </plurals>
+     <plurals name="error_retry_second">
+        <item quantity="other">%s sekund</item>
+        <item quantity="one">%s sekundo</item>
+     </plurals>
      <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">Poskusi ponovno čez %d sek.</item>
         <item quantity="one">Poskusi ponovno čez %d sekundo</item>

@@ -474,6 +474,7 @@
      <string name="copy">Kopiraj</string>
   <string name="copy_email">Kopiraj E-poštni naslov</string>
   <string name="copy_number">Kopiraj telefonsko številko</string>
+     <string name="copy_toast_msg">Povezava je kopirana v odložišče</string>
   <string name="create_action">Novo</string>
   <string name="cur_debt">Stanje na računu</string>
   <string name="custom_from_account_label">Pošlji E-pošto kot:</string>
@@ -605,6 +606,9 @@
   <string name="failed_read_phone_state_permission">"Nimate dovoljenja za dostop do stanja telefona"</string>
   <string name="failed_read_write_calendar_permission">"Dostop do koledarja je omejen"</string>
   <string name="failed_read_write_contacts_permission">"Dostop do stikov je omejen"</string>
+     <string name="fallback_menu_item_copy_link">Kopiraj povezavo</string>
+     <string name="fallback_menu_item_open_in_browser">Odpri v brskalniku</string>
+     <string name="fallback_menu_item_share_link">Deli povezavo</string>
   <string name="feedback">Pošlji povratne informacije</string>
   <string name="feedback_body">Sporočilo</string>
   <string name="feedback_sent">"Hvala za vaše povratne informacije"</string>
@@ -1585,6 +1589,9 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="show_images_all">Naloži in pokaži vse slike</string>
   <string name="show_password">Pokaži geslo</string>
      <string name="show_server_cet">Pokaži certifikat</string>
+     <string name="sign_in_dialog_outlook_enterprise">Outlook za podjetja (brez koledarja)</string>
+     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (z koledarjem)</string>
+     <string name="sign_in_dialog_outlook_imap">IMAP (brez koledarja)</string>
      <string name="sign_in_graph_error">"Prijavite se lahko z uporabo protokolov IMAP ali EXCHANGE za prijavo samo, če vaša organizacija ni spremenila splošne konfiguracije strežnika. Če organizacija prilagodi naslov vašega strežnika ali so povezani protokoli onemogočeni, se prijavite z novim Microsoftovim protokolom."</string>
      <string name="sign_in_no_useful_provider_error">"Ne morem dobiti konfiguracij protokola od Microsofta. Uporabite drug protokol ali posodobite protokol Microsofta."</string>
   <string name="signature">"
@@ -1794,6 +1801,9 @@ Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizira
      <string name="x_account_settings_mibill_resolve_label_summary">Račune na kreditnih karticah prepoznajte samodejno</string>
   <string name="xiaomi_auth_toastbar">Prijavi se v avtorizacijo naprave</string>
   <string name="xiaomi_email">Pošta</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">Posodobitev je na voljo</string>
   <string name="xiaomi_under_certification">Avtorizacija…</string>
   <string name="yes">Da</string>
      <string name="yesterday">Včeraj</string>

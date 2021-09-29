@@ -11,6 +11,8 @@
   <string name="connections">Povezave</string>
   <string name="connects_via_network">Povezuje se preko trenutnega omrežja na IP naslovu %1$s</string>
   <string name="connects_via_wifi_direct">Povezuje se preko direktnega WiFi</string>
+     <string name="disable_wifi_direct">Onemogoči WiFi Direkt</string>
+     <string name="enable_location">Dovoli lokacijo</string>
   <string name="failed_connection">Povezovanje s tiskalnikom %1$s ni uspelo</string>
   <string name="failed_printer_connection">Povezovanje s tiskalnikom ni uspelo</string>
   <string name="find_wifi_direct">Najdi tiskalnike z direktnim WiFi</string>
@@ -51,7 +53,9 @@
   <string name="unreadable_input">Dokument se ne more prebrati</string>
   <string name="waiting_to_send">Čaka se pošiljanje</string>
   <string name="wifi_direct">WiFi Direct</string>
+     <string name="wifi_direct_location_rationale">Privzeta storitev tiskanja potrebuje lokacijske storitve, ki omogočajo iskanje naprav v bližini.</string>
   <string name="wifi_direct_permission_rationale">Potrebno je dovoljenje za iskanje naprav v bližini.</string>
   <string name="wifi_direct_printers">iskalniki z direktnim WiFi</string>
   <string name="wifi_direct_printing">WiFi Direkt tiskanje</string>
+     <string name="wifi_direct_problem">Privzeta storitev tiskanja ne najde tiskalnikov WiFi Direkt</string>
 </resources>

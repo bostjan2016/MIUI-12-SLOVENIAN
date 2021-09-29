@@ -186,6 +186,7 @@
      <string name="not_set">Ni nastavljeno</string>
     <string name="not_support_forbidden_fakecell">"Vaša naprava ne podpira zaščite na ravni čipov zaradi ponarejenih osnovnih postaj."</string>
     <string name="open_cta">Dovolite tej aplikaciji, da se poveže s spletom v Varnosti.</string>
+     <string name="package_name">ime paketa ：</string>
     <string name="permstep_description">Dovoli tej aplikaciji dostop do števca korakov</string>
     <string name="permstep_label">Dostop do števca korakov</string>
      <string name="pm">PM</string>

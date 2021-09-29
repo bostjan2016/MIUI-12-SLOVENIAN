@@ -378,10 +378,12 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="local_device">(ta naprava)</string>
   <string name="locating_current_location">Lociranje</string>
   <string name="location_service_not_working">Storitev lociranja ne dela</string>
+     <string name="login_3rd_app_with_system_account">Vpis v %s</string>
   <string name="login_check_find_device">Pridobivanje podatkov o varnosti naprave…</string>
   <string name="login_check_find_device_failed_title">"Ne morem preveriti informacij o varnosti naprave"</string>
   <string name="login_find_device_bind">Ta naprava je povezana z obstoječim ID Mi Računa (%s).</string>
   <string name="login_guard_prompt">Potrebna je kontrola številke telefona kadar se prvič prijavite na svoj Mi Račun z neznane naprave ali v neznano aplikacijo.</string>
+     <string name="login_with_other">Več možnosti</string>
   <string name="logout_account">Odjava</string>
   <string name="logout_failed">Ne morem se vpisati</string>
   <string name="mi_account_identity_title">Potrdite svojo identiteto</string>
@@ -947,6 +949,8 @@ ki ste ga prejeli v vaš poštni predal
   <string name="user_avatar_uploading">Samo trenutek…</string>
      <string name="user_instruction_all_purpose">Dobrodošli v računu Mi! S svojim računom lahko dostopate do storitev, ki jih ponujajo Xiaomi in z njim povezana podjetja, kot so Mi.com, Xiaomi Cloud in GetApps. Lahko dobite Mi Coins, kupite virtualno blago in uživate v storitvah z dodano vrednostjo, vključno z igrami, temami in e-knjigami.</string>
      <string name="user_instruction_tip">Če se želite prijaviti, preberite in se strinjajte s pravili in pogoji.</string>
+     <string name="user_license_with_3rd_app"><Data>"S prijavo s svojim računom Mi potrjujem, da sem prebral in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in Mi računove &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_license_without_3rd_app"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>."</Data></string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
   <string name="verified_apps">Preverjene aplikacije</string>
