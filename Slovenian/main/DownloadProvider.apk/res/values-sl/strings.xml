@@ -72,7 +72,6 @@
   <string name="download_queued">V čakalni vrsti</string>
   <string name="download_remaining">Še %s</string>
      <string name="download_running">V teku</string>
-     <string name="download_running_percent">Poteka, %d%%</string>
   <string name="download_unknown_title">Brez naslova</string>
      <string name="early_morning">Jutro</string>
   <string name="enter_garbage_clean">Očistite notranji pomnilnik.</string>
