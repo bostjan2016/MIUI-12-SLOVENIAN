@@ -29,19 +29,19 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
      </plurals>
-    <plurals name="fast_connect_headset_reset">
+     <plurals name="fast_connect_headset_reset">
         <item quantity="other">Pritisnite in držite gumb na box-u %1$d sek.</item>
         <item quantity="one">Pritisnite in držite gumb na box-u %1$d sek.</item>
-    </plurals>
-	<plurals name="fast_connect_reset_air2_se">
+     </plurals>
+     <plurals name="fast_connect_reset_air2_se">
         <item quantity="other">Pritisnite in držite katerokoli področje slušalk občutljivo na dotik %1$d sek.</item>
         <item quantity="one">Pritisnite in držite katerokoli področje slušalk občutljivo na dotik %1$d sekundo</item>
      </plurals>
      <plurals name="fast_connect_reset_common_seconds">
         <item quantity="other">Pritisnite in držite %1$d sek. za ponastavitev</item>
         <item quantity="one">Pritisnite in držite %1$d sek. za ponastavitev</item>
-    </plurals>
-	<plurals name="fast_connect_reset_nzbt">
+     </plurals>
+     <plurals name="fast_connect_reset_nzbt">
         <item quantity="other">Pritisnite in držite gumb %1$s sek. med izklopom</item>
         <item quantity="one">Pritisnite in držite gumb %1$s sek. med izklopom</item>
     </plurals>
@@ -67,6 +67,10 @@
      <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">izbrano %d stvari</item>
         <item quantity="one">izbrana %d stvar</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
      </plurals>
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>

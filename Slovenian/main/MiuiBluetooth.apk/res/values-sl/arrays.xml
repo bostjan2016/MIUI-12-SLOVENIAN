@@ -97,14 +97,9 @@
         <item>Izbira sistema (privzeto)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD audio</item>
+        <item>Qualcomm® aptX™ avdio</item>
+        <item>Qualcomm® aptX™ HD avdio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC V3</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
         <item>Izbira sistema (privzeto)</item>
@@ -113,13 +108,6 @@
         <item>Qualcomm® aptX™ avdio</item>
         <item>Qualcomm® aptX™ HD avdio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptivni avdio</item>
-        <item>Qualcomm® aptX™ TWS+ avdio</item>
-        <item>LHDC V3</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
-        <item>Omogočanje izbirnih kodekov</item>
-        <item>Onemogočanje izbirnih kodekov</item>
      </string-array>
      <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -153,8 +141,12 @@
         <item>Onemogočeno</item>
         <item>Omogočeno filtrirano</item>
         <item>Omogočeno</item>
-        <item>Glave filtrirane</item>
-        <item>Paketi predstavnosti filtrirani</item>
+
+     </string-array>
+     <string-array name="bt_hci_snoop_log_values">
+        <item>onemogočeno</item>
+        <item>filtrirano</item>
+        <item>polno</item>
      </string-array>
      <string-array name="color_mode_descriptions">
         <item>Izboljšane barve</item>
@@ -339,8 +331,22 @@
         <item>Blokirano</item>
         <item>Začasno izogibanje slabi povezavi</item>
      </string-array>
+     <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Iskanje …</item>
+        <item>Povezovanje …</item>
+        <item>Preverjanje pristnosti …</item>
+        <item>Pridobivanje naslova IP …</item>
+        <item>Povezano</item>
+        <item>Onemogočeno</item>
+        <item>Prekinjanje povezave …</item>
+        <item>Ni povezave</item>
+        <item>Neuspešno</item>
+        <item>Blokirano</item>
+        <item>Začasno izogibanje slabi povezavi</item>
+     </string-array>
      <string-array name="window_animation_scale_entries">
-        <item>Animacija je izključena</item>
+        <item>Animacija izključena</item>
         <item>Hitrost animacije 0,5 x</item>
         <item>Hitrost animacije 1 x</item>
         <item>Hitrost animacije 1,5 x</item>

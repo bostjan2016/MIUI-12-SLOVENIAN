@@ -215,7 +215,7 @@ Te stvari bomo obdelali, preden jih bomo delili, da preprečimo, da bi vas neodv
   <string name="click_finish_stand">Kliknite da končate stanje</string>
   <string name="climb">Vzpenjanje po stopnicah</string>
   <string name="climbing">Vzpenjanje</string>
-  <string name="close">Izkjuči</string>
+  <string name="close">Zapri</string>
   <string name="close_once">Izkjuči enkrat</string>
   <string name="close_stand_detection_tip">Vklopite za sledenje in prejemanje opomnikov</string>
   <string name="close_stand_notice_and_detection_tip">Vključi opomnike</string>
@@ -294,8 +294,8 @@ Te stvari bomo obdelali, preden jih bomo delili, da preprečimo, da bi vas neodv
   <string name="date_picker_label_day"/>
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
-  <string name="date_picker_lunar">Lunarni koledar</string>
-     <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
+  <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+  <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
   <string name="date_week_index">"'T'ww yyyy"</string>
   <string name="day">Dan</string>
   <string name="deep_light_detection_open_prompt">Vaš cikel spanja bo analiziran naslednjič, ko greste spat</string>
@@ -434,7 +434,7 @@ Mi zdravje vas bo obvestil samo o pomembnih stvareh."</string>
   <string name="equivalent_exercise">≈%1$s km prehojeno (%2$s kcal)</string>
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
-  <string name="evening">PM</string>
+  <string name="evening">Večer</string>
   <string name="every_day">Vsak dan</string>
   <string name="excessive">Preveč</string>
   <string name="exercise">Vaje</string>
@@ -895,7 +895,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
      <string name="miao_course_progress_info_2">"%1$d/%2$d''"</string>
   <string name="middle">Srednje</string>
   <string name="middle_intensity_description">Hitrejše dihanje, ki vam omogoča dokončanje stavkov</string>
-  <string name="midnight">AM</string>
+  <string name="midnight">Polnoč</string>
   <string name="mild_abnormal">1. stopnja hipertenzije</string>
   <string name="mild_abnormal_tip">3 dni v tednu po vstajanju in pred odhodom spat</string>
   <string name="min_altitude">Najnižja nadmorska višina</string>
@@ -984,7 +984,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
   <string name="more">Več</string>
   <string name="more_card">Več kartic</string>
   <string name="more_questions">Več</string>
-  <string name="morning">"AM "</string>
+  <string name="morning">Jutro</string>
   <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
      <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
@@ -1006,7 +1006,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
   <string name="network_not_available">"Omrežna povezava ni uspela. Preverite omrežne nastavitve in poskusite znova."</string>
   <string name="network_not_available2">"Ne morem se povezati na omrežje"</string>
   <string name="next_step">Naprej</string>
-  <string name="night">PM</string>
+  <string name="night">noč</string>
   <string name="no_available_data_source">Viri podatkov niso na voljo</string>
   <string name="no_available_device">Ni naprav</string>
   <string name="no_body_weight_record">Še ni zapisov</string>
@@ -1016,7 +1016,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
   <string name="no_snore">"Niste smrčali ali govorili"</string>
   <string name="no_snore_1">"Tu ni ničesar"</string>
   <string name="no_sport_delete">Izbriši napačen zapis</string>
-  <string name="noon">PM</string>
+  <string name="noon">Poldne</string>
   <string name="normal">Normalno</string>
   <string name="normal2">Normalno</string>
   <string name="not_achieve_stand_goals">"Niste dosegli svoj cilj"</string>
@@ -1171,9 +1171,9 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
      <string name="rope_skipping_ways">Prepoznaj preskakovanje vrvi po glasu</string>
   <string name="rowing_machine">Naprava za veslanje</string>
   <string name="run">Tek</string>
-  <string name="saturday">Nedelja</string>
-  <string name="saturday_short">Ned</string>
-  <string name="saturday_shortest">N</string>
+  <string name="saturday">Sobota</string>
+  <string name="saturday_short">Sob</string>
+  <string name="saturday_shortest">S</string>
   <string name="save">Shrani</string>
   <string name="search_menu_title">Preišči</string>
   <string name="sedentary_detail_title">Predolgo sedenje ni zdravo.</string>
