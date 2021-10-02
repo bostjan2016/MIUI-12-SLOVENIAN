@@ -72,8 +72,6 @@
         <item>Qualcomm® aptX™ avdio</item>
         <item>Qualcomm® aptX™ HD avdio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive avdio</item>
-        <item>Qualcomm® aptX™ TWS+ avdio</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
         <item>Izbira sistema (privzeto)</item>
@@ -82,8 +80,6 @@
         <item>Qualcomm® aptX™ avdio</item>
         <item>Qualcomm® aptX™ HD avdio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive avdio</item>
-        <item>Qualcomm® aptX™ TWS+ avdio</item>
      </string-array>
      <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -117,8 +113,11 @@
         <item>Onemogočeno</item>
         <item>Omogočeno filtrirano</item>
         <item>Omogočeno</item>
-        <item>Omogočeno \"Glave filtrirane\"</item>
-        <item>Omogočeno \"Paketi predstavnosti filtrirani\"</item>
+     </string-array>
+     <string-array name="bt_hci_snoop_log_values">
+        <item>nemogočeno</item>
+        <item>filtrirano</item>
+        <item>polno</item>
      </string-array>
      <string-array name="color_mode_descriptions">
         <item>Izboljšane barve</item>

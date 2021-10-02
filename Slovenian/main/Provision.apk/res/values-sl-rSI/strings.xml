@@ -417,7 +417,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
   <string name="service_policy">&lt;Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a >.&lt;/Data</string>
   <string name="service_policy_download">&lt;Data&gt;Pred uporabo preberite in se strinjajte z &amp;lt;a href=%1$s&amp;gt;Xunlei Pravila o zasebnosti&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
   <string name="service_privacy_index">Pravila o zasebnosti</string>
-     <string name="service_security_over_r"><Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a > pred uporabo Varnosti.&lt;br/>&lt;br/>V skladu s standardi Android 11 bo enkratno dovoljenje umaknjeno v 5 sekundah po prenehanju delovanja ustrezne aplikacije. Če aplikacijo odprete v tem kratkem času, bo dovoljenje takrat umaknjeno.</Data></string>
+   <string name="service_security_over_r"><Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a >.&lt;br/>&lt;br/>V skladu s standardi Android R se enkratno dovoljenje odvzame v določenem časovnem obdobju (okoli &lt;xliff:g example=5 sekund id=short>%2$s&lt;/xliff:g>) po prenehanju izvajanja ustrezne aplikacije. Če aplikacijo odprete v tem kratkem času, bo dovoljenje nato odvzeto.</Data></string>
   <string name="servicestate_title">Izjava o osnovnih storitvah</string>
   <string name="setting_locale">Nastavljanje regije…</string>
   <string name="shut_down">Izklop</string>

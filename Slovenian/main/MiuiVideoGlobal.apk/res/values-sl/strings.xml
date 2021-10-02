@@ -191,6 +191,7 @@
      <string name="columbus_player_speed_title">Preskočim Video?</string>
      <string name="columbus_player_speed_video">Preskoči VIDEO</string>
      <string name="columbus_player_unit_sec">sec</string>
+     <string name="columbus_skip_ad">Preskoči</string>
   <string name="com_facebook_device_auth_instructions">Obiščite &lt;b&gt;facebook.com/device&lt;/b&gt; in vnesite zgoraj navedeno kodo.</string>
   <string name="com_facebook_image_download_unknown_error">Nepričakovana napaka med prenosom slike.</string>
   <string name="com_facebook_internet_permission_error_message">Prijava za WebView zahteva dovoljenje spleta</string>
@@ -275,6 +276,7 @@
   <string name="day">dan</string>
   <string name="default_filedownloader_notification_content">Prenosi je vklopljeno.</string>
   <string name="default_filedownloader_notification_title">Prenosi</string>
+     <string name="default_localization_key">system</string>
      <string name="default_upgrade_hint">"Hojla!
 Mi Video je pripravljen za posodobitev.
 Posodobite aplikacijo, če si želite ogledati naše nove zanimive storitve!
@@ -651,6 +653,7 @@ za videoposnetke"</string>
     <string name="live_title">V živo</string>
     <string name="live_tv_title">TV v živo</string>
     <string name="loading">Samo trenutek…</string>
+     <string name="local_empty_guide">Videoposnetki, ki jih posnamete, bodo prikazani tukaj</string>
   <string name="local_play_tip">Predvajanje lokalnega videoposnetka</string>
      <string name="local_push_setting_power_tag">Obvestila o lokalnih videoposnetkih</string>
   <string name="local_push_title">Popularno danes</string>
@@ -1347,6 +1350,7 @@ Izboljša varnost vašega računa."</string>
   <string name="remaining_space_not_enough">"Prenos ni mogoč zaradi nezadostnega prostora za shranjevanje"</string>
   <string name="reminder">Pozor</string>
     <string name="rename">Preimenuj</string>
+     <string name="rename_word_out">To ime datoteke je predolgo</string>
     <string name="report">Prijavi</string>
   <string name="report_content_dislike">Nasilje ali neprimereno obnašanje</string>
   <string name="report_content_fakement">Spam ali prevara</string>

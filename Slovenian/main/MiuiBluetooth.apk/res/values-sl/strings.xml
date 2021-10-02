@@ -137,6 +137,8 @@
     <string name="bluetooth_active_no_battery_level">Aktivna</string>
     <string name="bluetooth_battery_level">Akumulator na %1$s</string>
   <string name="bluetooth_battery_level_untethered">L: baterija na %1$s, D: baterija na %2$s</string>
+     <string name="bluetooth_bc_profile_summary_connected">Povezano s strežnikom BA</string>
+     <string name="bluetooth_bc_profile_summary_use_for">Uporabi za BA</string>
   <string name="bluetooth_connected">Seznanjeno</string>
   <string name="bluetooth_connected_battery_level">Povezano | Baterija %1$s %2$s</string>
   <string name="bluetooth_connected_no_a2dp">Povezano (brez predstavnosti) %1$s</string>
@@ -194,6 +196,8 @@
     <string name="bluetooth_profile_a2dp">Zvok predstavnosti</string>
     <string name="bluetooth_profile_a2dp_high_quality">Zvok visoke kakovosti: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Zvok visoke kakovosti</string>
+     <string name="bluetooth_profile_bc">BC Profil</string>
+     <string name="bluetooth_profile_broadcast">Oddaja</string>
   <string name="bluetooth_profile_dun">Dial-up dostop do omrežja</string>
     <string name="bluetooth_profile_headset">Telefonski klici</string>
     <string name="bluetooth_profile_hearing_aid">Slušni pripomočki</string>
@@ -206,6 +210,7 @@
     <string name="bluetooth_profile_pbap">Dajanje stikov v skupno rabo</string>
     <string name="bluetooth_profile_pbap_summary">Uporabi za dajanje stikov v skupno rabo</string>
     <string name="bluetooth_profile_sap">Dostop do kartice SIM</string>
+     <string name="bluetooth_profile_vcp">Nadzor glasnosti</string>
     <string name="bluetooth_sap_profile_summary_connected">Vzpostavljena povezava s profilom SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do kartice SIM</string>
   <string name="bluetooth_search_for_devices">najdi naprave</string>
@@ -234,6 +239,7 @@ Avdio"</string>
     <string name="bluetooth_show_devices_without_names_summary">Prikazane bodo naprave Bluetooth brez imen (samo z naslovi MAC)</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Računalnik</string>
+     <string name="bluetooth_talkback_group">Skupinske naprave</string>
     <string name="bluetooth_talkback_headphone">Slušalka</string>
     <string name="bluetooth_talkback_headset">Slušalke z mikrofonom</string>
     <string name="bluetooth_talkback_imaging">Naprava za zajem slik</string>
@@ -250,6 +256,7 @@ Avdio"</string>
   <string name="cached_apps_freezer_enabled">Omogočeno</string>
   <string name="cached_apps_freezer_reboot_dialog_text">Za začetek veljavnosti te spremembe je potrebno napravo znova zagnati. Znova zaženite zdaj ali prekličite.</string>
   <string name="cancel">Prekliči</string>
+     <string name="carrier_network_change_mode">Spreminjanje operaterjevega omrežja</string>
     <string name="category_personal">Osebno</string>
     <string name="category_work">Služba</string>
   <string name="cell_data_off_content_description">Mobilni podatki izključeni</string>

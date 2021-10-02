@@ -33,7 +33,7 @@
         <item quantity="other">Telefon bo v stanju nujnega povratnega klica %s minut. V tem načinu ne morete uporabljati aplikacij ki potrebujejo podatkovno povezavo. Želite zapreti ta način?</item>
         <item quantity="one">Telefon bo v stanju nujnega povratnega klica %s minuto. V tem načinu ne morete uporabljati aplikacij ki potrebujejo podatkovno povezavo. Želite zapreti ta način?</item>
      </plurals>
-	     <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
+     <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
         <item quantity="other">"Telefon bo v stanju nujnega povratnega klica %s minut.
 Želite takoj zapreti ta način?"</item>
         <item quantity="one">"Telefon bo v stanju nujnega povratnega klica %s minuto.
@@ -43,21 +43,21 @@
         <item quantity="other">Izbrana opravila niso na voljo v načinu nujnega povratnega klica. Telefon bo v tem načinu %s minut. Želite zapreti ta način?</item>
         <item quantity="one">Izbrano opravilo ni na voljo v načinu nujnega povratnega klica. Telefon bo v tem načinu  %s minuto. Želite zapreti ta način?</item>
      </plurals>
-    <plurals name="auto_answer_summary_delay">
-         <item quantity="other">odloži: %d sek.</item>
-         <item quantity="one">odloži: %d sek.</item>
-    </plurals>
-    <plurals name="call_record_add_white_list_over_reminder">
-         <item quantity="other">Lahko dodate do %s oseb, izberite ponovno.</item>
-         <item quantity="one">Lahko dodate %s osebo, izberite ponovno.</item>
-    </plurals>
-	<plurals name="call_record_auto_whitelist_summary">
-         <item quantity="other">%d številk</item>
-         <item quantity="one">%d številka</item>
+     <plurals name="auto_answer_summary_delay">
+        <item quantity="other">odloži: %d sek.</item>
+        <item quantity="one">odloži: %d sek.</item>
+     </plurals>
+     <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">Lahko dodate do %s oseb, izberite ponovno.</item>
+        <item quantity="one">Lahko dodate %s osebo, izberite ponovno.</item>
+     </plurals>
+     <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d številk</item>
+        <item quantity="one">%d številka</item>
      </plurals>
      <plurals name="call_remove_exception_numbers_confirm">
-         <item quantity="other">%d številk bo izbrisano.</item>
-         <item quantity="one">%d številka bo izbrisana.</item>
+        <item quantity="other">%d številk bo izbrisano.</item>
+        <item quantity="one">%d številka bo izbrisana.</item>
      </plurals>
      <plurals name="day">
         <item quantity="other">%s dni</item>
@@ -90,17 +90,21 @@
         <item quantity="other">izbrano %d stvari</item>
         <item quantity="one">izbrana %d stvar</item>
      </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+     </plurals>
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
      <plurals name="pin_attempts">
-         <item quantity="other">"
+        <item quantity="other">"
  Ostalo vam je še %d poskusov."</item>
-         <item quantity="one">"
+        <item quantity="one">"
  Ostal vam je še %d poskus."</item>
      </plurals>
-	 <plurals name="wifi_tether_connected_summary">
+     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">Povezano je %1$d naprav</item>
         <item quantity="one">Povezana je %1$d naprava</item>
      </plurals>
