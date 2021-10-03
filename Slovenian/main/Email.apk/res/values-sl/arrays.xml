@@ -70,6 +70,11 @@
         <item>Pokaži samo brisanje</item>
         <item>Pokaži arhiviranje in brisanje</item>
      </string-array>
+     <string-array name="sign_in_dialog_item">
+        <item>Outlook za posel (brez koledarja)</item>
+        <item>IMAP (brez koledarja)</item>
+        <item>EXCHANGE (z koledarjem)</item>
+     </string-array>
      <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Stran:</item>

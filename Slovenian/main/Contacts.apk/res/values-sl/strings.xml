@@ -179,6 +179,7 @@
      <string name="bh_pay_success_desc">Vaše stanje bo morda pripisano z zamudo</string>
      <string name="bh_perm_ask_read_contacts">Dovoli Mi storitve operaterja dostop do stikov.</string>
      <string name="bh_perm_desc_read_contacts">Za prikaz stikov med polnjenjem</string>
+     <string name="bh_permission_contact_desc">Za dopolnitev stanja vaših stikov</string>
      <string name="bh_permission_get_accounts_desc">Za oddajo naročil in preverjanje njihovega stanja</string>
      <string name="bh_permission_read_call_log_desc">Za prikaz trajanja klica</string>
      <string name="bh_permission_read_phone_state_desc">Za prikaz telefonskih številk in povezanih informacij o operaterju</string>

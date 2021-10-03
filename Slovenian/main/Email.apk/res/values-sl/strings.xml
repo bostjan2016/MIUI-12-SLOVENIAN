@@ -1803,7 +1803,7 @@ Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizira
   <string name="xiaomi_email">Pošta</string>
      <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
      <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
-     <string name="xiaomi_market_sdk_update_dialog_title">Posodobitev je na voljo</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">%s nova različica</string>
   <string name="xiaomi_under_certification">Avtorizacija…</string>
   <string name="yes">Da</string>
      <string name="yesterday">Včeraj</string>

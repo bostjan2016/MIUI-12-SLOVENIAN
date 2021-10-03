@@ -1809,8 +1809,8 @@ Z %2$s še niste bili povezani."</string>
   <string name="bluetooth_profile_a2dp">Zvok predstavnosti</string>
     <string name="bluetooth_profile_a2dp_high_quality">Zvok visoke kakovosti: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Zvok visoke kakovosti</string>
-     <string name="bluetooth_profile_bc">BC Profile</string>
-     <string name="bluetooth_profile_broadcast">Broadcast</string>
+     <string name="bluetooth_profile_bc">BC Profil</string>
+     <string name="bluetooth_profile_broadcast">Oddaja</string>
   <string name="bluetooth_profile_details">Nastavitve profila</string>
   <string name="bluetooth_profile_dun">Klicni dostop na omrežje</string>
     <string name="bluetooth_profile_headset">Telefonski klici</string>
@@ -1824,7 +1824,7 @@ Z %2$s še niste bili povezani."</string>
   <string name="bluetooth_profile_pbap">Dajanje stikov v skupno rabo</string>
   <string name="bluetooth_profile_pbap_summary">Uporablja se za dajanje stikov v skupno rabo</string>
   <string name="bluetooth_profile_sap">Uporablja se za dostop do kartice SIM</string>
-     <string name="bluetooth_profile_vcp">Volume control</string>
+     <string name="bluetooth_profile_vcp">Nadzor glasnosti</string>
   <string name="bluetooth_quick_toggle_summary">Vklopi Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_remember_choice">Ne sprašuj več</string>
@@ -1836,12 +1836,12 @@ Z %2$s še niste bili povezani."</string>
     <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do kartice SIM</string>
     <string name="bluetooth_sap_request">Zahteva za dostop do kartice SIM</string>
   <string name="bluetooth_scan_for_devices">Išči naprave</string>
-     <string name="bluetooth_scan_source_title">Scan for Broadcast sources for</string>
+     <string name="bluetooth_scan_source_title">Poišči oddajne vire za</string>
      <string name="bluetooth_scanning_on_info_message">""Ko je Bluetooth vklopljen, lahko vaša naprava komunicira z drugimi napravami Bluetooth v bližini.
 
 Za izboljšano izkušnjo pri uporabi naprave lahko aplikacije in storitve še vedno kadar koli iščejo naprave v bližini, tudi ko je Bluetooth izklopljen. To se na primer uporablja za izboljšanje opravil in storitve, ki pri delovanju uporabljajo lokacijo. Izbiro lahko spremenite v "<annotation id="link">nastavitvah iskanja</annotation>."</string>
-     <string name="bluetooth_search_bcast_sources_pref_title">Search Broadcast sources</string>
-     <string name="bluetooth_search_broadcasters">Search Broadcasters</string>
+     <string name="bluetooth_search_bcast_sources_pref_title">Poišči vire oddajanja</string>
+     <string name="bluetooth_search_broadcasters">Išči izdajatelje televizijskih programov</string>
   <string name="bluetooth_search_for_devices">Osveži</string>
   <string name="bluetooth_searching_for_devices">Iskanje…</string>
   <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Bluetooth audio aptX adaptivni način dela</string>
@@ -1889,27 +1889,27 @@ Dokler bo povezava vzpostavljena, bo naprava %2$s prejemala vse klice na števil
     <string name="bluetooth_sim_card_access_dialog_title">Želite dovoliti dostop do kartice SIM?</string>
     <string name="bluetooth_sim_card_access_notification_content">Naprava želi dostopati do kartice SIM. Dotaknite se za podrobnosti.</string>
     <string name="bluetooth_sim_card_access_notification_title">Zahteva za dostop do kartice SIM</string>
-     <string name="bluetooth_source_added_message">Broadcast source added successfully to receiver %1$s.</string>
-     <string name="bluetooth_source_addition_error_message">"Couldn't add the Broadcast source to receiver %1$s."</string>
-     <string name="bluetooth_source_dup_addition_error_message">"Couldn't add the Broadcast source to receiver %1$s . Duplicate source"</string>
-     <string name="bluetooth_source_no_empty_slot_error_message">Consider removing some source from receiver %1$s. No empty slot</string>
-     <string name="bluetooth_source_removal_error_message">"Couldn't remove the Broadcast Source from %1$s."</string>
-     <string name="bluetooth_source_remove_invalid_group_op">"Couldn't remove the Broadcast Source from %1$s.Invalid Group operation, Try non-Group operation"</string>
-     <string name="bluetooth_source_remove_invalid_src_id">"Couldn't remove the Broadcast Source from %1$s.Invalid Source Id"</string>
-     <string name="bluetooth_source_selection_error_message">Invalid Broadcast source selected for Receiver %1$s.</string>
-     <string name="bluetooth_source_selection_error_src_unavail_message">selected source for receiver %1$s. is Unavailable</string>
-     <string name="bluetooth_source_selection_options_detail">"Broadcast source 
-        %1$s is being added to receiver.
-        (Leave Broadcast PIN blank if
-        It is Unencrypted broadcast Source)"</string>
-     <string name="bluetooth_source_selection_options_detail_title">Configure Broadcast receiver</string>
-     <string name="bluetooth_source_setpin_error_message">"Couldn't update the Broadcast PIN code for %1$s."</string>
-     <string name="bluetooth_source_update_error_message">"Couldn't update Broadcast source details of receiver %1$s."</string>
-     <string name="bluetooth_source_update_invalid_group_op">"Couldn't update the Broadcast Source from %1$s.Invalid Group operation, Try non-Group operation"</string>
-     <string name="bluetooth_source_update_invalid_src_id">"Couldn't update the Broadcast Source from %1$s.Invalid Source Id"</string>
+     <string name="bluetooth_source_added_message">Vir oddajanja je bil uspešno dodan sprejemniku %1$s.</string>
+     <string name="bluetooth_source_addition_error_message">"V sprejemnik ni bilo mogoče dodati vira oddajanja %1$s."</string>
+     <string name="bluetooth_source_dup_addition_error_message">"V sprejemnik ni bilo mogoče dodati vira oddajanja %1$s . Podvojen vir"</string>
+     <string name="bluetooth_source_no_empty_slot_error_message">Odstranite vir iz sprejemnika %1$s. Ni prazne reže</string>
+     <string name="bluetooth_source_removal_error_message">"Vira oddajanja ni bilo mogoče odstraniti iz %1$s."</string>
+     <string name="bluetooth_source_remove_invalid_group_op">"Vira oddajanja ni bilo mogoče odstraniti iz %1$s. Neveljavno delovanje skupine, poskusite z operacijo ne-skupine"</string>
+     <string name="bluetooth_source_remove_invalid_src_id">"Vira oddajanja ni bilo mogoče odstraniti iz %1$s.Neveljavna ID vira"</string>
+     <string name="bluetooth_source_selection_error_message">Izbran neveljaven vir oddajanja za sprejemnik %1$s.</string>
+     <string name="bluetooth_source_selection_error_src_unavail_message">izbrani vir za sprejemnik %1$s. ni na voljo</string>
+     <string name="bluetooth_source_selection_options_detail">"Vir oddajanja 
+        %1$s se dodaja sprejemniku.
+        (Koda za oddajanje pusti prazno, če
+        je to nešifriran vir oddajanja)"</string>
+     <string name="bluetooth_source_selection_options_detail_title">Konfigurirajte sprejemnik za oddajanje</string>
+     <string name="bluetooth_source_setpin_error_message">"Kode PIN za oddajanje ni bilo mogoče posodobiti za %1$s."</string>
+     <string name="bluetooth_source_update_error_message">"Podrobnosti o izvoru oddajanja ni bilo mogoče posodobiti %1$s."</string>
+     <string name="bluetooth_source_update_invalid_group_op">"Vira oddajanja ni bilo mogoče posodobiti iz %1$s. Neveljavno delovanje skupine, poskusite z operacijo ne-skupine"</string>
+     <string name="bluetooth_source_update_invalid_src_id">"Vira oddajanja ni bilo mogoče posodobiti iz %1$s. Neveljavna ID vira"</string>
   <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
   <string name="bluetooth_talkback_computer">Računalnik</string>
-     <string name="bluetooth_talkback_group">Group Devices</string>
+     <string name="bluetooth_talkback_group">Skupinske naprave</string>
     <string name="bluetooth_talkback_headphone">Slušalka</string>
     <string name="bluetooth_talkback_headset">Slušalke z mikrofonom</string>
     <string name="bluetooth_talkback_imaging">Naprava za zajem slik</string>
@@ -1981,7 +1981,7 @@ Dokler bo povezava vzpostavljena, bo naprava %2$s prejemala vse klice na števil
   <string name="bootloader_device_bind_server_code">"Ne morem dodati. Koda napake:"</string>
   <string name="bootloader_device_bind_server_token_expired_1">"Ne morem preveriti. Poskusite ponovno dodati svoj račun in napravo"</string>
   <string name="bootloader_device_bind_server_token_expired_2">"Ne morem preveriti. Ponovno se prijavite v svoj račun in začnite znova."</string>
-  <string name="bootloader_device_bind_sim_invalid">SIM kartica ni veljavna. Zamenjajte je in poskusite ponovno.</string>
+  <string name="bootloader_device_bind_sim_invalid">SIM kartica ni veljavna. Zamenjajte jo in poskusite ponovno.</string>
   <string name="bootloader_locked_answer_1">"Naprava je zaklenjena zaradi varnosti in da vaši osebni podatki ne budo odkriti tretjim osebam. Če hočete v Fastboot način dela za flashanje jo morate odkleniti."</string>
   <string name="bootloader_locked_answer_1_warning">"Pozor: Ne boste mogli uporabljati \"Najdi napravo\" ko bo naprava odklenjena."</string>
   <string name="bootloader_locked_answer_2">"1. Preverite ali ste vstavili SIM kartico.
@@ -2220,7 +2220,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="cancel_lock_screen_dialog_button_label">Prekliči</string>
   <string name="cancel_moving_dialog_message">Ste prepričani da želite ustaviti uvoz?</string>
   <string name="cancel_moving_dialog_title">Ustavi uvoz</string>
-     <string name="cancel_refresh_group">Cancel Refresh</string>
+     <string name="cancel_refresh_group">Prekliči Osveži</string>
   <string name="cancel_restore">Ustavi</string>
     <string name="cannot_change_apn_toast">Tega APN-ja ni mogoče spremeniti.</string>
   <string name="cant_sync_dialog_message">Sinhronizacija za to stvar je trenutno onemogočena. Če želite spremeniti nastavitev vklopite podatke v ozadju in samodejno sinhronizacijo.</string>
@@ -2607,7 +2607,7 @@ Ko napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dv
     <string name="confirm_sim_deletion_description">Pred brisanjem prenesenega profila e-SIM potrdite, da ste to res vi</string>
     <string name="confirm_sim_deletion_title">Potrditev brisanja profila e-SIM</string>
     <string name="confirmation_turn_on">Vklopi</string>
-     <string name="connect_group">Connect Group</string>
+     <string name="connect_group">Poveži skupino</string>
     <string name="connect_later">S tem omrežjem trenutno ni mogoče vzpostaviti povezave. Poskusite znova pozneje.</string>
   <string name="connect_mode">Način povezovanja</string>
   <string name="connect_soft_ap_label">Povezovanje z novo napravo…</string>
@@ -3353,13 +3353,13 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
     <string name="disabled_low_ram_device">To opravilo ni na voljo v tej napravi.</string>
   <string name="disallow_lock_screen_summary">Najprej dovolite obvestila v \"Obvestila aplikacij\"</string>
   <string name="disconnect">Prekini povezavo</string>
-     <string name="disconnect_group">Disconnect Group</string>
+     <string name="disconnect_group">Prekini povezavo s skupino</string>
   <string name="disconnected">Ni povezano</string>
   <string name="display_advanced_mode_summary">Opcije razpona barv</string>
   <string name="display_advanced_mode_title">Dodatne nastavitve</string>
      <string name="display_animate_category">Animirani efekti</string>
-     <string name="display_animate_content">Smanji animirane efekte koji se prikazuju dok se uređaj otključava</string>
-     <string name="display_animate_title">Smanji animacije</string>
+     <string name="display_animate_content">Zmanjšaj animirane učinke, ki so prikazani, ko se naprava odklepa</string>
+     <string name="display_animate_title">Zmanjšaj animacije</string>
   <string name="display_auto_rotate_rotate">Vključeno</string>
   <string name="display_auto_rotate_stay_in_current">Izključeno</string>
   <string name="display_auto_rotate_stay_in_landscape">Zakleni vodoravno</string>
@@ -3683,7 +3683,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
      <string name="enable_local_backup">Vklopi</string>
      <string name="enable_local_backup_cancel">Prekliči</string>
      <string name="enable_local_backup_message">Vklopite to storitev, da lahko varnostne kopije shranjujete v tej napravi in jih kopirate v računalnik ali pomnilniško napravo USB. Vklopim zdaj?</string>
-     <string name="enable_local_backup_message_intledition">Vklopite to funkcijo, če želite shraniti varnostne kopije v tej napravi in jih kopirati v računalnik. Vklopim zdaj?</string>
+     <string name="enable_local_backup_message_intledition">Vklopite to storitev, če želite shraniti varnostne kopije v tej napravi in jih kopirati v računalnik. Vklopim zdaj?</string>
      <string name="enable_local_backup_ok">V redu</string>
      <string name="enable_local_backup_title">Lokalne varnostne kopije</string>
     <string name="enable_mms_notification_channel_title">Sporočilo MMS</string>
@@ -3785,7 +3785,7 @@ To je v pomoč pri zaščiti podatkov v izgubljenih ali ukradenih napravah. Ali 
   <string name="encryption_progress_summary">"Šifriranje, ne zaganjajte naprave ponovno."</string>
   <string name="enforce_read_external_confirm_message">"Ko je zunanji pomnilnik zaščiten morajo aplikacije zahtevati dovoljenje za branje podatkov iz njega.  
 
-    Nekatere aplikacije morda ne bodo delovale dokler ne bodo posodobljene."</string>
+Nekatere aplikacije morda ne bodo delovale dokler ne bodo posodobljene."</string>
   <string name="enforce_read_external_confirm_title">Zaščitim zunanji pomnilnik?</string>
   <string name="enforce_read_external_summary">Aplikacije morajo prositi za dovoljenje za branje zunanjega pomnilnika</string>
   <string name="enforce_read_external_title">Zaščiti zunanji pomnilnik</string>
@@ -4328,7 +4328,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="force_touch_enable_tips">"Dolg pritisk na ikono aplikacije bo prikazal izbiro bližnjic aplikacije dokler je 3D Touch vključen."</string>
   <string name="foreground_traffic">V ospredju %s</string>
     <string name="forget">Pozabi</string>
-     <string name="forget_group">Forget Group</string>
+     <string name="forget_group">Pozabi skupino</string>
     <string name="forget_passpoint_dialog_message">Morda boste izgubili dostop do preostalega časa ali podatkov. Pred odstranjevanjem preverite pri operaterju.</string>
   <string name="forget_passpoint_wifi_message">Vaš telefon se bo prenehal samodejno povezovati na to omrežje.</string>
   <string name="forget_password_button_text">Pozabljeno geslo</string>
@@ -4511,25 +4511,23 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
     <string name="graphics_driver_dashboard_title">Nastavitve grafičnega gonilnika</string>
     <string name="graphics_driver_footer_text">Kadar je nameščenih več grafičnih gonilnikov, lahko izberete, naj aplikacije, nameščene v napravi, uporabljajo posodobljeni grafični gonilnik.</string>
      <string name="graphics_driver_main_switch_title">Uporaba nastavitev grafičnega gonilnika</string>
-     <string name="group_active_devices">Active Devices</string>
-     <string name="group_apply_changes_dialog_title">Apply changes for all group members ?</string>
-     <string name="group_bonded_devices">Bonded Device</string>
-     <string name="group_confirm_dialog_apply_button">Apply</string>
-     <string name="group_confirm_dialog_body">Same changes applicable for all members of group %1$s</string>
-     <string name="group_connected_devices">Connected Devices</string>
-     <string name="group_help_url_all_connected_devices" />
-     <string name="group_help_url_previously_connected_devices" />
-     <string name="group_id">Group ID</string>
-     <string name="group_options">Group options</string>
-     <string name="group_previously_connected_screen_title">Previously Connected group</string>
-     <string name="group_remove_source_message">Do you want to remove this Broadcast source from all group members?</string>
-     <string name="group_remove_source_title">Remove from all Group members?</string>
-     <string name="group_settings">Group</string>
-     <string name="group_update_source_message">Do you want to Update this source in all group members?</string>
-     <string name="group_update_source_title">Update to all Group members?</string>
-     <string name="groupaudio_unpair_dialog_body">Your phone will no longer be paired with group %1$s</string>
-     <string name="groupaudio_unpair_dialog_forget_confirm_button">Forget Group</string>
-     <string name="groupaudio_unpair_dialog_title">Forget Group ?</string>
+     <string name="group_active_devices">Aktivne naprave</string>
+     <string name="group_apply_changes_dialog_title">Uporabim spremembe za vse člane skupine ?</string>
+     <string name="group_bonded_devices">Vezana naprava</string>
+     <string name="group_confirm_dialog_apply_button">Uporabi</string>
+     <string name="group_confirm_dialog_body">Enake spremembe veljajo za vse člane skupine %1$s</string>
+     <string name="group_connected_devices">Povezane naprave</string>
+     <string name="group_id">Skupinska ID</string>
+     <string name="group_options">Možnosti skupine</string>
+     <string name="group_previously_connected_screen_title">Prej povezana skupina</string>
+     <string name="group_remove_source_message">Ali želite odstraniti ta vir oddajanja od vseh članov skupine?</string>
+     <string name="group_remove_source_title">Odstranim od vseh članov skupine?</string>
+     <string name="group_settings">Skupina</string>
+     <string name="group_update_source_message">Ali želite posodobiti ta vir pri vseh članih skupine?</string>
+     <string name="group_update_source_title">Posodobitev za vse člane skupine?</string>
+     <string name="groupaudio_unpair_dialog_body">Vaš telefon ne bo več seznanjen s skupino %1$s</string>
+     <string name="groupaudio_unpair_dialog_forget_confirm_button">Pozabi skupino</string>
+     <string name="groupaudio_unpair_dialog_title">Pozabim skupino ?</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WiFi</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Omrežni način</string>
      <string name="gsm_umts_network_preferences_title">Omrežni način</string>
@@ -4950,10 +4948,10 @@ morate najprej napraviti iCloud var. kopijo"</string>
     <string name="interact_across_profiles_summary_2">Povežite samo aplikacije, ki jim lahko zaupate osebne podatke. Delovne aplikacije lahko vaše osebne podatke prikažejo skrbniku za IT.</string>
      <string name="interact_across_profiles_summary_3">Kadarkoli lahko prekinete povezavo aplikacij v nastavitvah zasebnosti naprave.</string>
      <string name="interact_across_profiles_summary_allowed">Povezano</string>
-     <string name="interact_across_profiles_summary_not_allowed">Nije povezano</string>
+     <string name="interact_across_profiles_summary_not_allowed">Ni povezano</string>
      <string name="interact_across_profiles_switch_disabled">Poveži aplikacije</string>
      <string name="interact_across_profiles_switch_enabled">Povezano</string>
-     <string name="interact_across_profiles_title">Povezane poslovne i osobne aplikacije</string>
+     <string name="interact_across_profiles_title">Povezane poslovne in osebne aplikacije</string>
     <string name="interaction_control_category_title">Kontrolniki za interakcije</string>
      <string name="interesting_text">Realistični otipni občutki naredijo vašo interakcijo z zaslonom jasnejšo.</string>
      <string name="interesting_title">Realistični dotik</string>
@@ -7773,13 +7771,12 @@ Pred uporabo preberite in sprejmite %s."</string>
     <string name="platform_compat_default_enabled_title">Privzeto omogočene spremembe</string>
     <string name="platform_compat_dialog_text_no_apps">Spremembe združljivosti aplikacij je mogoče spreminjati samo za aplikacije z možnostjo odpravljanja napak. Namestite aplikacijo z možnostjo odpravljanja napak in poskusite znova.</string>
     <string name="platform_compat_dialog_title_no_apps">Ni aplikacij</string>
-     <string name="platform_compat_selected_app_summary">%1$s targetSdkVersion %2$d</string>
      <string name="platform_compat_target_sdk_title">Dovoljeno za targetSdkVersion &gt; %d</string>
   <string name="play_pause_description">Tipka premor/predvajanje</string>
   <string name="please_select_phase2">Preverjanje pristnosti v fazi 2</string>
   <string name="please_type_passphrase">Geslo</string>
   <string name="plmn_failure_radio_off">Izbira omrežja ni mogoča, ker je radio izključen ali ni na voljo</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="pm_auto_start_by_other">Aktivirani zagon</string>
   <string name="pm_auto_start_by_other_app">Dovoli aplikaciji da bo zagnana s strani druge aplikacije</string>
   <string name="pm_auto_start_by_system">Zaženi aplikacije</string>
@@ -8007,8 +8004,8 @@ Sočasno pritisnite gumba za vklop in povečanje glasnosti."</string>
     <string name="preview_page_indicator_content_description">Predogled, %1$d. stran od %2$d</string>
     <string name="preview_pager_content_description">Predogled</string>
   <string name="previous_connected_see_all">Pokaži vse</string>
-     <string name="previous_connected_see_all_groups">See all groups</string>
-     <string name="previously_connected_group_screen_title">Previously Connected group</string>
+     <string name="previous_connected_see_all_groups">Pokaži vse skupine</string>
+     <string name="previously_connected_group_screen_title">Prej povezana skupina</string>
   <string name="primary_sub_select_title">Privzeto 4G/3G Predplačilo</string>
   <string name="print_blocked_state_title_template">Tiskalnik je blokiral %1$s</string>
   <string name="print_cancel">Prekliči</string>
@@ -8374,7 +8371,7 @@ Vmesnik UT: %5$s"</string>
     <string name="reduce_bright_colors_preference_title">Zelo zatemnjeno</string>
     <string name="reduce_bright_colors_switch_title">Zaslon naj bo zelo zatemnjen</string>
   <string name="refresh">Osveži</string>
-     <string name="refresh_group">Refresh Group</string>
+     <string name="refresh_group">Osveži skupino</string>
   <string name="regional_screen_shot">Delni posnetek zaslona</string>
     <string name="register_automatically">Samodejna registracija …</string>
     <string name="register_on_network">Registriranje v omrežje %s</string>
@@ -8397,7 +8394,7 @@ Vmesnik UT: %5$s"</string>
     <string name="remove_device_admin">Deaktiviraj to skrbniško aplikacijo naprave</string>
   <string name="remove_from_frequently_fragment">Odstranim %s iz Hitrih nastavitev?</string>
   <string name="remove_managed_profile_label">Odstrani delovni profil</string>
-     <string name="remove_sourceinfo_btn_txt">Remove Source Info</string>
+     <string name="remove_sourceinfo_btn_txt">Odstranite podatke o viru</string>
   <string name="repeat">Ponovi</string>
   <string name="repeat_call">Obvestila o ponovljenih klicih</string>
   <string name="repeat_call_info">Dovoli zvok za ponovljene klice znotraj %d minut, ko je Ne moti vklopljen</string>
@@ -9904,7 +9901,7 @@ Za označavanje stikov v sili
 Za pošiljanje besedilnih sporočil stikom v sili
 • Dostop do lokaciji
 Za deljenje svoje lokacije stikom v sili
-AČe se ne strinjate z odobritvijo takšnih dovoljenj ali delitvijo in posredovanjem vaših osebnih podatkov, te aplikacije ne boste mogli uporabljati. V takih primerih se lahko odločite, da boste v nujnih primerih izklopili ali ne uporabljali SOS.
+Če se ne strinjate z odobritvijo takšnih dovoljenj ali delitvijo in posredovanjem vaših osebnih podatkov, te aplikacije ne boste mogli uporabljati. V takih primerih se lahko odločite, da boste v nujnih primerih izklopili ali ne uporabljali SOS.
 Pred uporabo naših storitev preberite in sprejmite naše %s."</string>
   <string name="sos_privacy_dialog_title">Pogoji in Pravila</string>
      <string name="sos_privacy_policy">Pravila o zasebnosti</string>
@@ -9931,18 +9928,18 @@ Pred uporabo naših storitev preberite in sprejmite naše %s."</string>
   <string name="sound_title">Zvok</string>
   <string name="sound_vibrate_settings">Zvok &amp; vibracija</string>
     <string name="sound_work_settings">Zvoki v delovnem profilu</string>
-     <string name="source_info_details_title">Broadcast source Information</string>
+     <string name="source_info_details_title">Informacije o viru oddajanja</string>
   <string name="speaker">Zvočnik</string>
   <string name="speaker_clean">Očistite zvočnik</string>
     <string name="special_access">Posebni dostop za aplikacije</string>
     <string name="special_access_more">Pokaži več</string>
      <string name="special_preview">Demo</string>
-    <string name="speed_label_fast">Hitra</string>
-    <string name="speed_label_medium">Srednje hitra</string>
+    <string name="speed_label_fast">Hitro</string>
+    <string name="speed_label_medium">Srednje hitro</string>
     <string name="speed_label_okay">V redu</string>
-    <string name="speed_label_slow">Počasna</string>
-    <string name="speed_label_very_fast">Zelo hitra</string>
-    <string name="speed_label_very_slow">Zelo počasna</string>
+    <string name="speed_label_slow">Počasno</string>
+    <string name="speed_label_very_fast">Zelo hitro</string>
+    <string name="speed_label_very_slow">Zelo počasno</string>
     <string name="spell_checker_master_switch_title">Uporaba črkovalnika</string>
     <string name="spell_checker_not_selected">Ni izbrano</string>
     <string name="spell_checker_primary_switch_title">Uporabi črkovalnik</string>
@@ -11092,7 +11089,7 @@ Vam je všeč Mi Mover?"</string>
   <string name="turn_update_keyguard_password_wait_dialog">Sprememba gesla…</string>
      <string name="twilight_mode_launch_location">Nastavitve lokacije</string>
      <string name="twilight_mode_location_off_dialog_message">Lokacija naprave je potrebna za določitev časa sončnega zahoda in sončnega vzhoda.</string>
-  <string name="twohours">1 ura</string>
+  <string name="twohours">2 uri</string>
     <string name="tx_link_speed">%1$d Mb/s</string>
   <string name="tx_link_speed_label">Hitrost prenosa:</string>
     <string name="tx_wifi_speed">Hitrost povezave za pošiljanje</string>
@@ -11252,7 +11249,7 @@ Iz profila bodo prav tako odstranjeni shranjeni prstni odtisi, tako da z njimi n
     <string name="unused_apps_switch">Odstrani dovoljenja in sprosti prostor</string>
   <string name="update_new_version">Na voljo je posodobitev</string>
   <string name="update_progress_for_updates">Posodabljam (%s)</string>
-     <string name="update_sourceinfo_btn_txt">Update Source Info</string>
+     <string name="update_sourceinfo_btn_txt">Posodobi podatke o viru</string>
   <string name="updating_settings">Posodabljanje nastavitev…</string>
   <string name="uplmn_list_setting_add_plmn">Nov PLMN</string>
   <string name="uplmn_settings_summary">Določite prednostne PLMN po vrstnem redu</string>
@@ -11968,7 +11965,7 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
   <string name="wifi_ap_choose_auto">Samodejno</string>
   <string name="wifi_ap_choose_dual">Oboje</string>
   <string name="wifi_ap_choose_vendor_both">Oboje</string>
-     <string name="wifi_ap_choose_vendor_dual_band">Dual Band</string>
+     <string name="wifi_ap_choose_vendor_dual_band">Dvojni pas</string>
   <string name="wifi_ap_hidden_ssid">Skrij svoj SSID</string>
   <string name="wifi_ap_prefer_5G">Prednostna frekvenca 5,0 GHz</string>
   <string name="wifi_ap_ssid_off">Izključeno</string>
@@ -12149,7 +12146,7 @@ To lahko izključite v Nastavitve &gt; WiFi &gt; Dodatne nastavitve."</string>
     <string name="wifi_do_not_validate_eap_server_warning">Ni navedenih potrdil. Povezava ne bo zasebna.</string>
   <string name="wifi_dont_skip">Ne preskoči</string>
     <string name="wifi_dpp_add_another_device">Dodaj novo napravo</string>
-    <string name="wifi_dpp_add_device">Dodajte napravo</string>
+    <string name="wifi_dpp_add_device">Dodaj napravo</string>
     <string name="wifi_dpp_add_device_to_network">Dodajanje naprave</string>
     <string name="wifi_dpp_add_device_to_wifi">Želite to napravo dodati v omrežje »%1$s«?</string>
     <string name="wifi_dpp_center_qr_code">Spodnjo kodo QR nastavite na sredino, če želite napravo dodati v omrežje »%1$s«.</string>
@@ -12548,7 +12545,7 @@ Dovolite to vsem aplikacijam, ki želijo iskati?"</string>
   <string name="wifi_traffic_priority_regular">Uravnoteženo</string>
   <string name="wifi_traffic_priority_regular_summary">Dodelite enako pasovno širino aplikacijam in prenosom v ozadju</string>
   <string name="wifi_traffic_priority_summary">Dodelite pasovno širino aplikacijam in prenosom v ozadju</string>
-  <string name="wifi_turned_on_message">WiFi uključen</string>
+  <string name="wifi_turned_on_message">WiFi vključen</string>
      <string name="wifi_type_11AC">WiFi 5</string>
      <string name="wifi_type_11AX">WiFi 6</string>
      <string name="wifi_type_11N">WiFi 4</string>
@@ -12575,7 +12572,7 @@ Dovolite to vsem aplikacijam, ki želijo iskati?"</string>
     <string name="wifi_wakeup_summary_no_location">Ni na voljo, ker je lokacija izklopljena. Vklopite <annotation id="link">lokacijo</annotation>.</string>
     <string name="wifi_wakeup_summary_scanning_disabled">Ni na voljo, ker je iskanje omrežij WiFi izklopljeno</string>
     <string name="wifi_wakeup_summary_scoring_disabled">Za uporabo te storitve morate izbrati ponudnika ocenjevanja omrežij</string>
-     <string name="wifi_wakeup_title">Vklopite dodatne storitve</string>
+     <string name="wifi_wakeup_title">Vklopi dodatne storitve</string>
   <string name="wifi_wapi_as_cert">AS Certifikat</string>
   <string name="wifi_wapi_as_certificate">AS certifikat</string>
   <string name="wifi_wapi_cert_cancel_button">Prekini</string>
@@ -12669,6 +12666,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Poteklo</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Začasno slabo stanje omrežja</string>
     <string name="wifitrackerlib_wifi_remembered">Shranjeno</string>
+     <string name="wifitrackerlib_wifi_security_none">Brez</string>
      <string name="wifitrackerlib_wifi_unmetered_label">Neomejeno</string>
      <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">WiFi se zaenkrat ne bo samodejno povezal</string>
   <string name="wimax_settings">4G</string>
