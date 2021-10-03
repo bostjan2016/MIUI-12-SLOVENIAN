@@ -181,6 +181,10 @@
         <item quantity="other">%1$d aplikacij lahko neomejeno uporablja podatkovni promet kadar je vključeno varčevanje podatkov</item>
         <item quantity="one">%1$d aplikacija lahko neomejeno uporablja podatkovni promet kadar je vključeno varčevanje podatkov</item>
      </plurals>
+     <plurals name="days">
+        <item quantity="other">%s dni</item>
+        <item quantity="one">%s dan</item>
+     </plurals>
      <plurals name="default_camera_app_title">
         <item quantity="other">Aplikacij za snemanje</item>
         <item quantity="one">Aplikacija za snemanje</item>

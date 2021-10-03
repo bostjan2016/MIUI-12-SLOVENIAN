@@ -601,6 +601,12 @@
         <item>PIN</item>
         <item>Geslo</item>
      </string-array>
+     <string-array name="charge_animation_style_entries">
+        <item>Izključeno</item>
+        <item>Tok</item>
+        <item>Sijaj</item>
+        <item>Val</item>
+     </string-array>
      <string-array name="check_importance_entries">
         <item>Priporočeno</item>
         <item>Pomembno</item>
@@ -867,6 +873,15 @@
         <item>Quick snap način (fotografija)</item>
         <item>Quick snap način (videoposnetek)</item>
         <item>Mestni prevoz</item>
+     </string-array>
+     <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>Neomejeno</item>
      </string-array>
      <string-array name="media_feedback_level_entries">
         <item>Močno</item>
