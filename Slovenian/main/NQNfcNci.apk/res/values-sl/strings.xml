@@ -58,6 +58,8 @@
   <string name="beam_touch_to_view">Dotaknite se za prikaz</string>
   <string name="beam_try_again">Znova združi naprave</string>
   <string name="cancel">Prekliči</string>
+     <string name="clearable_edittext_clear_description">Očisti</string>
+     <string name="close">Zapri</string>
   <string name="complete_with">Dokončaj z aplikacijo</string>
   <string name="confirm_pairing">Ste prepričani, da želite seznaniti napravo Bluetooth %1$s?</string>
   <string name="connect_peripheral_failed">Naprave %1$s ni mogoče povezati</string>
@@ -228,6 +230,12 @@
   <string name="tap_again_to_complete">Znova se dotaknite da dokončate z %1$s</string>
   <string name="tap_again_to_pay">Znova se dotaknite da plačate z %1$s</string>
     <string name="tap_to_beam">Dotaknite se za oddajanje</string>
+     <string name="thursday">Četrtek</string>
+     <string name="thursday_short">Čet</string>
+     <string name="thursday_shortest">Č</string>
+     <string name="time_picker_dialog_title">Nastavi čas</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
     <string name="title_bluetooth_pair">Seznani Bluetooth napravo</string>
     <string name="title_confirm_url_open">Odprem povezavo?</string>
     <string name="title_connect_network">Poveži se na omrežje</string>

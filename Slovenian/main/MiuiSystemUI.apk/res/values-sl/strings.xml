@@ -1639,6 +1639,7 @@ Poskusite znova čez %2$d s."</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Novo geslo in potrditev se ne ujemata.</string>
     <string name="local_backup_password_toast_success">Novo geslo je nastavljeno</string>
     <string name="local_backup_password_toast_validation_failure">Nastavitev gesla ni uspela</string>
+     <string name="location_status">Skupna raba lokacije</string>
      <string name="location_status_content_description">%1$s deli lokacijo</string>
      <string name="lock_screen_access_to_5G">Dostop do 5G</string>
   <string name="lock_screen_carrier_airplane_mode_on">Letalski način</string>

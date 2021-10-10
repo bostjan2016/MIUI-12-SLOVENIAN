@@ -401,6 +401,20 @@
         <item>Blokirano</item>
         <item>Začasno izogibanje slabe povezave</item>
      </string-array>
+     <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Iskanje…</item>
+        <item>Povezovanje…</item>
+        <item>Avtentikacija…</item>
+        <item>Pridobivanje IP naslova…</item>
+        <item>Povezano</item>
+        <item>Ustavljeno</item>
+        <item>Izklop iz omrežja…</item>
+        <item>Niste povezani</item>
+        <item>Neuspešno</item>
+        <item>Blokirano</item>
+        <item>Začasno izogibanje slabe povezave</item>
+     </string-array>
      <string-array name="window_animation_scale_entries">
         <item>Animacija izključena</item>
         <item>Hitrost animacije 0,5x</item>
