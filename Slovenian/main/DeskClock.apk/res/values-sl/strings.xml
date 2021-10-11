@@ -73,7 +73,7 @@
   <string name="alert_volume_summary">Nastavite glasnost zvonjenja za alarme in odštevanja</string>
   <string name="allow">Dovoli</string>
   <string name="already_exist">Ta časovnik že obstaja</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="analog_gadget">Analogna ura</string>
   <string name="app_label">Ura</string>
   <string name="app_name">Ura</string>
@@ -117,7 +117,7 @@
   <string name="check_theme_app_install">Preverite ali je aplikacija Teme nameščena v vaši napravi.</string>
   <string name="check_voice_assist_app_version">Posodobite Mi AI na najnovejšo verzijo.</string>
   <string name="city_time_contrast_desc">Tapnite za primerjavo časa v različnih mestih</string>
-     <string name="clearable_edittext_clear_description">Izbriši</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="clock_bg_button_setting_summary_common">izberite barvo ozadja za aplikacijo ura</string>
   <string name="clock_bg_button_setting_summary_follow_sys">Črna bo uporabljena kot barva ozadja vsakič ko izberete Temni način</string>
   <string name="clock_bg_button_setting_title">Barva ozadja</string>
@@ -434,7 +434,7 @@
   <string name="pause">Odmor</string>
      <string name="percentage_sign">%</string>
   <string name="personal_recommend">Priporočila osebne narave</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="privacy_policy_title">Pravila o zasebnosti</string>
@@ -559,8 +559,8 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
   <string name="time">Čas</string>
   <string name="time_picker_colon">:</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
-  <string name="time_picker_label_hour">H</string>
-  <string name="time_picker_label_minute">M</string>
+     <string name="time_picker_label_hour">H</string>
+     <string name="time_picker_label_minute">M</string>
   <string name="time_picker_label_second">S</string>
   <string name="time_settings">Nastavitve ure</string>
   <string name="timer_alarm_alert_pad">%s</string>
@@ -609,7 +609,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
   <string name="today">Danes</string>
   <string name="tomorrow">Jutri</string>
      <string name="tuesday">Torek</string>
-     <string name="tuesday_short">Tot</string>
+     <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
   <string name="turn_off_a_repeat_alarm">Izključi ponavljajoči alarm</string>
   <string name="turn_off_this_repeat_alarm">Izključi ta ponavljajoči alarm</string>

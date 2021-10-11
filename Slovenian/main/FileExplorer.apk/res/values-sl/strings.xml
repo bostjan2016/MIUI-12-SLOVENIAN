@@ -53,7 +53,7 @@
   <string name="all_topic">Vse teme</string>
   <string name="already_liked">"To ste že označili"</string>
   <string name="already_signin_description">"Danes ste se že vpisali".</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="apk_installing">Nameščanje…</string>
   <string name="app_all_purpose">Dobrodošli v raziskovalcu! S to aplikacijo lahko urejate datoteke, shranjene v vaši napravi.</string>
      <string name="app_all_purpose_pad">Dobrodošli v raziskovalcu! S to aplikacijo lahko urejate datoteke, shranjene v vaši napravi.</string>
@@ -1013,7 +1013,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="phone_valid_code_tip">Koda je danes vnešena prevečkrat, poskusite dobiti novo</string>
   <string name="pick_file">Izberite datoteko</string>
   <string name="pick_folder">Izberite mapo</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="popup_msg_qq">Delite ta video z vašimi QQ prijatelji.</string>
   <string name="popup_msg_wb">Cool videoposnetek? Delite ga z vašimi Weibo prijatelji!</string>
   <string name="popup_msg_wx">Delite ta video z vašimi WeChat prijatelji.</string>

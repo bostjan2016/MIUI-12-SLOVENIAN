@@ -29,9 +29,9 @@
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="actionbar_button_up_description">Nazaj</string>
-  <string name="afternoon">PM</string>
+  <string name="afternoon">pop.</string>
      <string name="aggregate_title">Pravila za razvrščanje obvestil v skupine</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_name">Obvestila</string>
   <string name="back">Nazaj</string>
   <string name="cancel">Prekliči</string>
@@ -261,8 +261,8 @@
   <string name="mtrl_picker_toggle_to_text_input_mode">Prestavite na način vnosa teksta</string>
   <string name="mtrl_picker_toggle_to_year_selection">Tapnite za prehod na izbiro let</string>
   <string name="mune_setting_prefix_category">"Združi z "</string>
-  <string name="night">PM</string>
-  <string name="noon">PM</string>
+  <string name="night">Noč</string>
+  <string name="noon">Poldne</string>
   <string name="not_sent_recently">Nedavno</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="notch_and_status_bar_setting">Center za kontrolo &amp; vrstica obvestil</string>
@@ -289,7 +289,7 @@
   <string name="off">Izključi</string>
   <string name="on">Vključi</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
      <string name="rule_keyguard_display">Format</string>
   <string name="saturday">Sobota</string>

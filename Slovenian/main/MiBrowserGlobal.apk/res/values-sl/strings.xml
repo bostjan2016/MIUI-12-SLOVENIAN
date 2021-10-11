@@ -136,7 +136,7 @@
     <string name="alert_tips">Ta stran predstavlja tveganje</string>
     <string name="all">Vse</string>
     <string name="allow">Dovoli</string>
-    <string name="am">AM</string>
+    <string name="am">dop.</string>
     <string name="analytics_version_name">2.8.18</string>
      <string name="app_id">Firebase App ID(Klikni za izvoz)</string>
     <string name="app_name">MarketDeveloper</string>
@@ -1053,7 +1053,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="mw_accessibility_date_picker_year">Leto</string>
     <string name="mw_accessibility_datetime_picker_date">Datum</string>
     <string name="mw_accessibility_datetime_picker_time">Čas</string>
-    <string name="mw_accessibility_time_picker_ampm">AM/PM</string>
+    <string name="mw_accessibility_time_picker_ampm">dop./pop.</string>
     <string name="mw_accessibility_time_picker_hour">Ura</string>
     <string name="mw_accessibility_time_picker_milli">Milisekunda</string>
     <string name="mw_accessibility_time_picker_minute">Minuta</string>
@@ -1262,10 +1262,10 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="mw_search_menu_title">Išči</string>
      <string name="mw_speech_recognition_service_not_found">"Googlovega govornega mehanizma ni mogoče najti"</string>
     <string name="mw_status_bar_notification_info_overflow">999+</string>
-    <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_am">dop.</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
     <string name="mw_time_picker_dialog_minute_second_separator">:</string>
-    <string name="mw_time_picker_dialog_pm">PM</string>
+    <string name="mw_time_picker_dialog_pm">pop.</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Nastavi čas</string>
     <string name="mw_url_copied">Kopiranje povezave uspelo</string>
@@ -1531,7 +1531,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
     <string name="play_pause_video">Predvajaj ali ustavi videoposnetek</string>
     <string name="play_video">Predvajaj videoposnetek</string>
     <string name="players_still_play">&lt;font color=#ff2458>%s&lt;/font> igralcem je všeč tudi</string>
-    <string name="pm">PM</string>
+    <string name="pm">pop.</string>
     <string name="popular_game_video">Popularne Igre Video</string>
     <string name="popup_video">Videoposnetek v pojavnem oknu</string>
     <string name="popup_window_attempt">Dovolim tej strani, da odpre pojavno okno?</string>

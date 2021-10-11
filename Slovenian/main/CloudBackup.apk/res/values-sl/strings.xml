@@ -31,7 +31,7 @@
   <string name="account_error">Napaka računa</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Večer</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
      <string name="app_is_running">Aplikacija se izvaja…</string>
   <string name="app_name">Mi Cloud var. kopija</string>
   <string name="arrange_restore_order">Prerazporeditev aplikacij…</string>
@@ -381,7 +381,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="other_device_main_space">Prvi prostor</string>
   <string name="other_device_second_space">Drugi prostor</string>
      <string name="pc_mode_not_support_restore_warning">"V načinu PC ni mogoče obnoviti elementov. Izklopite način računalnika in poskusite znova."</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="process_whole_recovery">Obnavljam %s</string>
      <string name="provision_back">Nazaj</string>

@@ -50,7 +50,7 @@
   <string name="all_fileter">Vsi</string>
   <string name="all_share_files_content">Izbrane datoteke so že izbrisane.</string>
   <string name="all_the_internet">Vsa omrežja</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s prenosov</string>
   <string name="app_label">Prenosi</string>
@@ -440,7 +440,7 @@ Pošljite to kodo tehnikom."</string>
   <string name="percent_title">%1$s oseb preneslo</string>
   <string name="period_of_validity">Veljavnost:</string>
      <string name="petabyteShort">PB</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="pref_download_revert_default">Shrani na privzeto lokacijo</string>
   <string name="pref_download_settings_title">Omejitev velikosti prenosa</string>
   <string name="pref_download_storage_path">Naredi novo mapo za prenose</string>

@@ -87,7 +87,7 @@
   <string name="alipay_init_success">Alipay storitev je zagnana​</string>
   <string name="all_function_title">Vse bližnjice</string>
     <string name="already">Končano:</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="announce_for_drag">Poteg ene stvari</string>
     <string name="app_agenda_i_known">Razumem</string>
      <string name="app_agenda_need_install_alipay">Pred uporabo te storitve namestite Alipay.</string>
@@ -948,7 +948,7 @@ Prosimo, pošljite to kodo tehnikom."</string>
   <string name="phone_check">Optimizacija</string>
   <string name="place_label">Pogosta mesta</string>
      <string name="plan">Načrtovano</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" kopiran-o v odložišče.</string>
      <string name="preference_privacy_settings">Nastavitve zasebnosti</string>
   <string name="preferences">Nastavitve</string>

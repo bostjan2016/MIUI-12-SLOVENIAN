@@ -46,7 +46,7 @@
      <string name="afternoon">Popoldne</string>
   <string name="allPerms">Vse</string>
   <string name="all_permissions">Vsa dovoljenja</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="anonymous_source_continue">Nadaljuj</string>
   <string name="anonymous_source_warning">Vaš telefon in osebni podatki so podvrženi napadom neznanih aplikacij. Z namestitvijo te aplikacije sprejemate odgovornost za poškodovanje telefona ali krajo podatkov do katere lahko pride z njeno uporabo.</string>
      <string name="anonymous_source_warning_tablet">Naprave in osebni podatki so bolj izpostavljeni napadom neznanih aplikacij. Z namestitvijo te aplikacije se strinjate, da ste odgovorni za kakršno koli škodo na svojih napravah ali izgubo podatkov, ki bi lahko nastala zaradi njene uporabe.</string>
@@ -529,7 +529,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
   <string name="permission_title">Dovoljenja – %1$s</string>
   <string name="permission_warning_template">Dovolim &lt;b&gt;%1$s&lt;/b&gt; da %2$s?</string>
   <string name="permlab_togglePermissions">vključi dovoljenja</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="pref_ads">Priporočila</string>
   <string name="pref_key_about_privacy_title">Pravila o zasebnosti</string>
   <string name="pref_key_antivirus">Kontrola varnosti</string>

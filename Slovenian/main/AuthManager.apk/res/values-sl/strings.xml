@@ -354,7 +354,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
     <string name="abc_toolbar_collapse_description">Strni</string>
     <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_name">Dovoljenja</string>
   <string name="background_location_access_reminder_notification_content">Ta aplikacija lahko zmeraj dostopa do vaše lokacije. Tapnite za spremembo.</string>
   <string name="background_location_access_reminder_notification_title">%s uporablja vašo lokacijo</string>
@@ -594,7 +594,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
   <string name="permission_warning_template_ask">Dovolim %1$s naslednja dovoljenja?</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" nima dovoljenja za %2$s. Dovoljenja aplikacij lahko spreminjate v Aplikacije &gt; Dovoljenja."</string>
   <string name="permisson_reject_notice_toast_text2">"nima dovoljenja za %1$s."</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
      <string name="pp_privacy_lab_operator_introduction">Pozor</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
      <string name="real_location_off">Približna lokacija je vključena</string>

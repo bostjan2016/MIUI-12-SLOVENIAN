@@ -41,7 +41,7 @@
     <string name="action_sms">Pošlji</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
     <string name="android_beam">Android Beam</string>
   <string name="app_name">Storitev Nfc</string>
   <string name="ask_nfc_tap">Dotaknite se druge naprave, če želite dokončati</string>
@@ -212,7 +212,7 @@
   <string name="pairing_peripheral">Seznanjanje naprave %1$s</string>
   <string name="pairing_peripheral_failed">Naprave %1$s ni bilo mogoče seznaniti</string>
   <string name="pay_with">Plačaj z</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
     <string name="prompt_connect_to_network">Se povežem z %1$s?</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>

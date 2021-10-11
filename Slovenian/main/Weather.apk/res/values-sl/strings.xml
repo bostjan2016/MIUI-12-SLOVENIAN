@@ -70,7 +70,7 @@
   <string name="alert_weather_enable_settings_title">Opozorila vremena</string>
   <string name="already_voted">Glasovano</string>
      <string name="already_voted_toast">"Danes ste že glasovali"</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_name">Vreme</string>
   <string name="aqi_15_days_desc">%d-dnevna napoved kvalitete zraka</string>
   <string name="aqi_24_hours_desc">%d-urna napoved kvalitete zraka</string>
@@ -490,7 +490,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="permission_storage">Shramba</string>
   <string name="permission_storage_introduce">Za dostop do stvari v napravi in shranjevanju datotek</string>
   <string name="permission_user_protocol">Pogoji uporabe (obvezno)</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="policy_settings">Pogoji in pravila</string>
   <string name="precipitation_degree_five">nevihta</string>
   <string name="precipitation_degree_four">ploha</string>

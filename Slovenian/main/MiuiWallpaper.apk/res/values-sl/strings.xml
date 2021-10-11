@@ -29,9 +29,9 @@
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="actionbar_button_up_description">Nazaj</string>
-  <string name="afternoon">PM</string>
+  <string name="afternoon">pop.</string>
   <string name="already_newest_version">Trenutna verzija je zadnja</string>
-  <string name="am">AM</string>
+  <string name="am">dop.</string>
   <string name="app_name">Slika za ozadje</string>
   <string name="cancel_download">Prenos je preklican</string>
   <string name="character_counter_content_description">Vnešeno znakov %1$d od %2$d</string>
@@ -45,7 +45,7 @@
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="download_button">Gumb za prenos</string>
   <string name="download_failed">"Ne morem prenesti"</string>
-  <string name="early_morning">AM</string>
+  <string name="early_morning">Jutro</string>
   <string name="earth_id">Zemlja</string>
   <string name="earth_summary">Zemlja je zibelka človeške civilizacije</string>
   <string name="earth_super_wallpaper_label">zemlja</string>
@@ -53,7 +53,7 @@
   <string name="empty" />
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
-  <string name="evening">PM</string>
+  <string name="evening">Večer</string>
   <string name="expand_button_title">Napredno</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
@@ -138,7 +138,7 @@ Mawrth Vallis"</string>
   <string name="mars_view_height_2">286.2 km</string>
      <string name="mi_wallpaper_loading">Nalaganje…</string>
      <string name="mi_wallpaper_title"> Mi ozadje</string>
-  <string name="midnight">AM</string>
+  <string name="midnight">Polnoč</string>
   <string name="miui_clock_city_name_local">Lokalno</string>
      <string name="miui_clock_city_name_second">Druga ura</string>
      <string name="miui_digital_clock_dot">:</string>
@@ -227,13 +227,13 @@ mm"</string>
   <string name="more">Več</string>
   <string name="morning">Jutro</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
-  <string name="night">PM</string>
+  <string name="night">Noč</string>
   <string name="no_cta_agreed">"GetApps nima CTA dovoljenj"</string>
   <string name="no_install_permission">"Nimate dovoljenja za nmestitev te stvari"</string>
-     <string name="noon">PM</string>
+     <string name="noon">Poldne</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
-  <string name="pm">PM</string>
+  <string name="pm">pop.</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>

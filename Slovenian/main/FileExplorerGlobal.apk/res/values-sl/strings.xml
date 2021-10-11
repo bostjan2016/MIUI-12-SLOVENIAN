@@ -584,8 +584,8 @@ Za dodajanje pritisnite in držite mapo ali tapnite \"Več\"."</string>
     <string name="terabyteShort">TB</string>
     <string name="terms_conditions">Pogoji</string>
     <string name="terms_conditions_desc">Dobro preberite spodnja določila in se odločite, če jih sprejemate.</string>
-    <string name="time_am">AM</string>
-    <string name="time_pm">PM</string>
+    <string name="time_am">dop.</string>
+    <string name="time_pm">pop.</string>
     <string name="time_to_upgrade">Posodobitev je na voljo</string>
     <string name="tip">Pozor</string>
     <string name="title_app_tags">Aplikacije</string>

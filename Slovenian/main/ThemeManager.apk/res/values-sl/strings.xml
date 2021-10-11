@@ -71,7 +71,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="all_resources">Vse</string>
   <string name="already_latest_version">Najnovejša verzija</string>
      <string name="already_newest_version">Ta verzija je najnovejša</string>
-  <string name="am">AM</string>
+  <string name="am">dop.</string>
   <string name="anonymous_resource_link_error">"Ne morem dodati"</string>
   <string name="anonymous_resource_link_hint">"Nekatere stvari niso dodane na vaš račun. Jih dodam?"</string>
   <string name="anonymous_resource_link_now">Dodaj</string>
@@ -697,7 +697,7 @@ mm"</string>
      <string name="more_icon_style">Več ikon</string>
   <string name="more_sub_comment">Poglej vse odgovore (%1$d)&gt;</string>
   <string name="more_system_wallpaper">Več ozadij sistema</string>
-  <string name="morning">AM</string>
+  <string name="morning">dop.</string>
   <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Več kot %1$d novih obvestil</string>
@@ -743,7 +743,7 @@ mm"</string>
   <string name="my_gifts_received">Prejeto</string>
   <string name="network_exception">"Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite znova."</string>
   <string name="new_resource_price_unit"> Mi</string>
-  <string name="night">PM</string>
+  <string name="night">Noč</string>
      <string name="no_cta_agreed">"GetApps nima CTA dovoljenja"</string>
   <string name="no_data">"Ne morem se povezati na omrežje"</string>
      <string name="no_install_permission">"Nimate dovoljenj za namestitev tega izdelka"</string>
@@ -752,7 +752,7 @@ mm"</string>
   <string name="no_network_desc">"Ne morem se povezati na omrežje"</string>
   <string name="no_network_please_retry">Preverite omrežne nastavitve in poskusite ponovno</string>
   <string name="no_wallpaper">Ni stvari</string>
-  <string name="noon">PM</string>
+  <string name="noon">Poldne</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="not_support_incall_show">"To ozadje ne dela z profilnimi videoposnetki"</string>
      <string name="official_accounts">WeChat</string>
@@ -799,7 +799,7 @@ mm"</string>
   <string name="personalize_wallpaper_sub_title">Super slike ozadja in poudarjene slike</string>
   <string name="personalize_wallpaper_title">Slike ozadja</string>
   <string name="playing_ringtone">Predvaja se</string>
-  <string name="pm">PM</string>
+  <string name="pm">pop.</string>
      <string name="pref_lockscreen_magazine_summary">Ozadje zamenjajte s diaprojekcijami slik iz različnih kategorij</string>
   <string name="pref_privacy_policy">Pravila o zasebnosti</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>

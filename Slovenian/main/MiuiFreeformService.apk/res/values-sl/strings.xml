@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Strni</string>
     <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_name">Plavajoča okna</string>
      <string name="bottom_bar_smallwindow_text">Sprostite za pripenjanje</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
@@ -188,7 +188,7 @@
      <string name="night">Večer</string>
      <string name="noon">Poldne</string>
      <string name="not_set">Ni nastavljeno</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" kopiran-o v odložišče.</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>

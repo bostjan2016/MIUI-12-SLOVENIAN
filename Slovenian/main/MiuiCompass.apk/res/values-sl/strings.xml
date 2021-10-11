@@ -38,7 +38,7 @@
   <string name="altitude_uncalibrate_refresh">Poskusi ponovno</string>
   <string name="altitude_uncalibrate_tip">"Ne morem kalibrirati nadm. višine"</string>
   <string name="altitude_unit">m</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_description_content">"Kompas je sistemska aplikacija. Po odstranitvi je ne boste mogli uporabljati za preverjanje navodil, koordinat, atmosferskega tlaka in trenutne nadmorske višine."</string> 
   <string name="app_description_title">Odstranim Kompas?</string>
   <string name="app_label">Kompas</string>
@@ -233,7 +233,7 @@
   <string name="open_perm_title">Potrebno je dovoljenje</string>
   <string name="permission_camera_desc">Uporablja se libela</string>
   <string name="permission_location_desc">Prikaz koordinat in atmosferskega tlaka</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="preference_other">Ostalo</string>
   <string name="preference_privacy_title">Pravila o zasebnosti</string>

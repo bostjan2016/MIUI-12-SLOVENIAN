@@ -92,7 +92,7 @@
   <string name="all_apps_setting_title">Začetni zaslon</string>
   <string name="all_apps_slide_up_tips">Poteg gor je rezerviran za odpiranje predala aplikacij. Preklopite na navadni zač. zaslon in poskusite ponovno.</string>
   <string name="all_apps_suggestions">Predlogi aplikacij</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="announce_for_app_move_in_folder">Premeščeno na mesto %1$d v mapi</string>
   <string name="announce_for_checked">%1$s, preverjeno</string>
   <string name="announce_for_choose_default_screen">Nastavi zaslon %1$d za začetni zaslon</string>
@@ -628,7 +628,7 @@
   <string name="photo_confirm">Nastavi</string>
   <string name="photo_load_failed">Fotografije se ni dalo prenesti</string>
   <string name="please_slide_agian">Podrsaj ponovno</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="pref_cell_layout_size">Postavitev ikon aplikacij</string>
   <string name="pref_enable_drawing_cache_summary">Izklopite sproščanje pomnilnika. To lahko povzroči počasnejše delovanje.</string>
   <string name="pref_enable_drawing_cache_title">Spomin risanja</string>

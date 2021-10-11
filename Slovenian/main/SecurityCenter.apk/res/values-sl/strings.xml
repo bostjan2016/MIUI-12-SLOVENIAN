@@ -193,7 +193,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="all_address_choose_hint">Vse številke v tej pokrajini</string>
      <string name="allow_all">Dovoli vse</string>
   <string name="already_close_gamebooster">Pohitritev hitrosti igranja je izključeno</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="anim_gamebooster_text">Samo trenutek…</string>
   <string name="anti_disturb_msg_detail">Izključi vsa obvestila, razen za dohodne klice</string>
   <string name="anti_disturb_msg_title">DND</string>
@@ -3328,7 +3328,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="phone_manager_title">Orodja</string>
   <string name="pkg_traffic">Nastavi omejitev porabe podatkov</string>
   <string name="please_continue_keep">Obdrži</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="pm_auto_start_basic_services_lock">Zakleni</string>
   <string name="pm_auto_start_basic_services_unlock">Odkleni</string>
   <string name="pm_auto_start_by_basic_services">Osnovne storitve</string>

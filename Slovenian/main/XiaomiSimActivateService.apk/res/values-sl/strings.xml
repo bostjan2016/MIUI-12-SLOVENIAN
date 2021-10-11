@@ -178,7 +178,7 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
      <string name="activate_status_title_registering_xiaomi_account_sim">Izdelava Mi Računa s pomočjo SIM %d…</string>
      <string name="afternoon">Večer</string>
   <string name="agree">Strinjam se</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_name">Aktivacija SIM kartice</string>
      <string name="character_counter_content_description">Vnešeno znakov %1$d od %2$d</string>
      <string name="character_counter_overflowed_content_description">Omejitev znakov je presežena %1$d od %2$d</string>
@@ -339,7 +339,7 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
   <string name="phone_verify_processing">Preverjanje…</string>
   <string name="phone_verify_text">"%1$s ne bo dobil vaše telefonske številke. Samo preveril bo veljavnost številke. Se strinjate?"</string>
   <string name="phone_verify_title">Strinjam se da %1$s preveri mojo telefonsko številko</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="privacy_revoke_failed_msg">Aktivacija zahteva avtorizacijo tako da aplikacija Sporočila lahko dobi vašo številko telefona.</string>
      <string name="privacy_revoke_failed_msg_tip">Najprej dovolite tej storitvi, da dostopa do vaše telefonske številke.</string>

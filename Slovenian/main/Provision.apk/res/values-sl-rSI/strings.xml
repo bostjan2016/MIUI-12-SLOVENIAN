@@ -44,7 +44,7 @@
   <string name="ai_button_single_press_desc">Zaženi Mi AI</string>
   <string name="ai_button_title">O tipki AI</string>
   <string name="album_introduction">Galerija vam omogoča upravljanje, optimiziranje in urejanje fotografij in videoposnetkov kot tudi njihovo sinhronizacijo z Mi Cloud.</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_name">Določila</string>
   <string name="application_package_introduction">Ta aplikacija vam omogoča namestitev aplikacij drugih virov, pregled pred namestitvijo in dajanje priporočil po namestitvi.</string>
   <string name="application_permissions">Dovoljenja aplikacije</string>
@@ -359,7 +359,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
   <string name="permission_user_record_introduction">Za snemanje zvoka</string>
   <string name="permission_virusscan_introduction">Za iskanje virusov in optimizacijo vaše naprave</string>
   <string name="permission_xunlei_introduction">Za prijavo in urejanje sistemskih računov zaradi nudenja Xunlei storitev</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="poco_agree_terms_other">(Vključno POCO zaganjalnik Pravila o zasebnosti in Pogoji uporabe)</string>
   <string name="poco_launcher_privacy_policy">POCO Launcher Pravila o zasebnosti</string>
   <string name="poco_launcher_user_agreement">POCO Launcher Pogoji uporabe</string>

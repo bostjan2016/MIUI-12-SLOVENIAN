@@ -31,7 +31,7 @@
   <string name="activate_xiaomi_account">Aktiviraj to napravo</string>
   <string name="adding_or_updating_account">Posodabljam račun…</string>
      <string name="afternoon">Popoldne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_name">Najdi napravo</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Ne morem odkleniti. %s."</string>
@@ -218,7 +218,7 @@
   <string name="phone_locked">Ta naprava je povezana z obstoječim Mi Računom (%s). Vnesite geslo Mi računa da aktivirate to napravo.</string>
   <string name="phone_locked_account_email">, povezana e-pošta: %s</string>
   <string name="phone_locked_account_phone">, povezana številka telefona: %s</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
   <string name="return_to_call">Nazaj na klic</string>
      <string name="saturday">Sobota</string>

@@ -38,7 +38,7 @@
   <string name="actionbar_close_description">Zapri</string>
   <string name="actionbar_home_description">Nazaj</string>
   <string name="add_account_desc">Sinhroniziram beležke z vašim Mi Računom?</string>
-  <string name="afternoon">PM</string>
+  <string name="afternoon">pop.</string>
   <string name="alarm_bar_title">Opomnik</string>
   <string name="alert_action_edit_anyway">Nadaljuj urejanje</string>
   <string name="alert_edit_action_delete">Odstrani</string>
@@ -54,7 +54,7 @@
   <string name="alert_title_restore">Obnovi beležko</string>
   <string name="all_folder_name">Vse beležke</string>
   <string name="all_terms">%1$s in %2$s</string>
-  <string name="am">AM</string>
+  <string name="am">dop.</string>
   <string name="app_name">Beležka</string>
   <string name="app_notification_info">Beležke so zagnane v ozadju</string>
   <string name="app_widget">Beležka</string>
@@ -356,18 +356,18 @@ Tapnite + da napravite mapo"</string>
   <string name="loading_text">Nalaganje…</string>
   <string name="login_sync">Prijavi se &amp; sinhr.</string>
   <string name="lunar_day">Lunar %1$s</string>
-     <string name="material_clock_toggle_content_description">Izberite AM ali PM</string>
+     <string name="material_clock_toggle_content_description">Izberite dop. ali pop.</string>
      <string name="material_hour_selection">Izberite uro</string>
      <string name="material_hour_suffix">"%1$s ur"</string>
      <string name="material_minute_selection">Izberite minute</string>
      <string name="material_minute_suffix">%1$s minut</string>
      <string name="material_slider_range_end">Konec,</string>
      <string name="material_slider_range_start">Začetek,</string>
-     <string name="material_timepicker_am">AM</string>
+     <string name="material_timepicker_am">dop.</string>
      <string name="material_timepicker_clock_mode_description">Za vnos časa preklopi v način ure.</string>
      <string name="material_timepicker_hour">Ura</string>
      <string name="material_timepicker_minute">Minuta</string>
-     <string name="material_timepicker_pm">PM</string>
+     <string name="material_timepicker_pm">pop.</string>
      <string name="material_timepicker_select_time">Izberite čas</string>
      <string name="material_timepicker_text_input_mode_description">Za vnos časa preklopi v način vnosa besedila.</string>
   <string name="menu_add_audio_description">Dodaj avdio beležko</string>
@@ -401,7 +401,7 @@ Tapnite + da napravite mapo"</string>
   <string name="menu_unmark_privacy">Odkrij</string>
   <string name="menu_unstick">Odpni</string>
   <string name="merge_to_folder">Napravi mapo</string>
-  <string name="midnight">AM</string>
+  <string name="midnight">Polnoč</string>
      <string name="mind_note_first_enter_guide">Dotaknite se, da ustvarite miselno mapo</string>
      <string name="miui_penengine_button_cancel">Prekliči</string>
      <string name="miui_penengine_button_confirm">V redu</string>
@@ -537,9 +537,9 @@ Tapnite + da napravite mapo"</string>
   <string name="new_audio_create_guide_tip">Pritisnite in držite za ustvarjanje zvočne beležke</string>
   <string name="new_audio_create_talkback_des">Pritisnite za ustvarinje tekstne beležke. Pritisnite in držite za ustvarjanje zvočne beležke. Spustite tipko da ustavite snemanje in napravite beležko ali podrajte gor da prekličete.</string>
      <string name="new_data_empty_note">Tu ni ničesar</string>
-  <string name="night">PM</string>
+  <string name="night">Noč</string>
      <string name="no_network">"Ne morem se povezati na omrežje"</string>
-  <string name="noon">PM</string>
+  <string name="noon">Poldne</string>
   <string name="not_now">Ne zdaj</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="note_alert_expired">Pretečeno</string>
@@ -619,7 +619,7 @@ Tapnite + da napravite mapo"</string>
      <string name="permission_storage_desc_v12">Za dodajanje slik v beležke in shranjevanje beležk kot slike</string>
   <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI bo zbral vaše zvočne posnetke in ID naprave da prepiše zvok in napravi zvočne beležke. Izvedite več v Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="permlab_accessNote">Dostop do beležk</string>
-  <string name="pm">PM</string>
+  <string name="pm">pop.</string>
      <string name="pref_category_title_quick_func">Hitre storitve</string>
   <string name="pref_desc_alarm_when_silent">Alarmi opomnikov bodo še vedno slišni če bo zvonjenje na tiho.</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne sprašuj za potrditev ob brisanju beležke z uporabo giba"</string>

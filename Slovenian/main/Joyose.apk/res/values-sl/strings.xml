@@ -32,7 +32,7 @@
     <string name="activity_title_fakecell">Zaščita pred lažnimi baznimi postajami</string>
      <string name="add_Ovrride_Config">Dodaj podatke</string>
      <string name="afternoon">Popoldne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
      <string name="app_name">Ponudnik korakov</string>
     <string name="booster_config_version">"Trenutna verzija: "</string>
     <string name="cc_version">"Trenutna verzija: "</string>
@@ -179,8 +179,8 @@
   <string name="month_september_short">Sep</string>
   <string name="month_september_shortest">S</string>
   <string name="more">Več</string>
-  <string name="morning">AM</string>
-  <string name="night">PM</string>
+  <string name="morning">dop.</string>
+  <string name="night">Noč</string>
      <string name="noon">Poldne</string>
     <string name="not_resurge_title">Oživljanje</string>
      <string name="not_set">Ni nastavljeno</string>
@@ -189,7 +189,7 @@
      <string name="package_name">ime paketa ：</string>
     <string name="permstep_description">Dovoli tej aplikaciji dostop do števca korakov</string>
     <string name="permstep_label">Dostop do števca korakov</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
     <string name="restart_details">Če želite vklopiti ali izklopiti to funkcijo, morate znova zagnati napravo. Ponovno zaženem?</string>
     <string name="restart_later">Kasneje</string>

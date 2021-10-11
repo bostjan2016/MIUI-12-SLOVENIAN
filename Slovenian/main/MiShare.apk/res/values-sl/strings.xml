@@ -30,7 +30,7 @@
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Večer</string>
   <string name="agree_desc">Dodelite potrebna dovoljenja, navedena zgoraj.</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
     <string name="app_name">MiShare</string>
     <string name="btn_cancel">Prekliči</string>
   <string name="btn_cancel_send">Odpovej ta prenos</string>
@@ -266,7 +266,7 @@ OPPO, vivo, realme in druge znamke pa bodo kmalu podprte z Mi Share. Spisek napr
     <string name="operate_too_fast">Prehitro! Počakajte da se tekoče operacije končajo.</string>
     <string name="pc_device_model_name">Računalnik</string>
     <string name="permission_denied_hint">Dajte potrebna dovoljenja za uporabo Mi Share</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="preference_copied">\"%1$s\" je kopirano v odložišče.</string>
     <string name="progress_ratio">%1$d%%</string>
     <string name="purpose">"Dobrodošli v Mi Share! To aplikacijo lahko uporabite za prenos datotek med napravami. Zaščitili bomo vaše osebne podatke v skladu z veljavnimi zakonimi, predpisi in pravili.

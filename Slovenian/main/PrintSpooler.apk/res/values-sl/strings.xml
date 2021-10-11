@@ -40,7 +40,7 @@
   <string name="all_printers">Vsi tiskalniki…</string>
   <string name="all_printers_label">Vsi tiskalniki</string>
   <string name="all_services_title">Vse storitve</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_activity_main_title">Tiskanje</string>
   <string name="app_label">Print Spooler</string>
   <string name="blocked_notification_title_template">Tiskalnik je blokiral %1$s</string>
@@ -224,7 +224,7 @@
   <string name="permlab_accessAllPrintJobs">dostop do vseh nalog tiskanja</string>
   <string name="permlab_startPrintServiceConfigActivity">začetek konfiguracije storitve tiskanja</string>
   <string name="please_choose_printer">Najprej izberite tiskalnik.</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
   <string name="print_add_printer">Dodaj tiskalnik</string>
   <string name="print_button">Natisni</string>

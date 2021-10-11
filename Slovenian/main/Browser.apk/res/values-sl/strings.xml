@@ -35,7 +35,7 @@
   <string name="accessibility_date_picker_year">Leto</string>
   <string name="accessibility_datetime_picker_date">Datum</string>
   <string name="accessibility_datetime_picker_time">Čas</string>
-  <string name="accessibility_time_picker_ampm">AM/PM</string>
+  <string name="accessibility_time_picker_ampm">dop./pop.</string>
   <string name="accessibility_time_picker_hour">Ura</string>
   <string name="accessibility_time_picker_milli">Milisekunda</string>
   <string name="accessibility_time_picker_minute">Minuta</string>
@@ -151,7 +151,7 @@
   <string name="agree_permissions_request">Dovoli</string>
   <string name="alert_tips">Ta stran predstavlja tveganje</string>
   <string name="allow">Dovoli</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_continue_downloading_text">Nadaljuj</string>
   <string name="app_download_market_text">Uporabite Mi Market za hitrejši in varnejši prenos</string>
   <string name="app_download_now_text">Prenesi</string>
@@ -993,7 +993,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="mw_accessibility_date_picker_year">Leto</string>
   <string name="mw_accessibility_datetime_picker_date">Datum</string>
   <string name="mw_accessibility_datetime_picker_time">Čas</string>
-  <string name="mw_accessibility_time_picker_ampm">AM/PM</string>
+  <string name="mw_accessibility_time_picker_ampm">dop./pop.</string>
   <string name="mw_accessibility_time_picker_hour">Ura</string>
   <string name="mw_accessibility_time_picker_milli">Milisekunda</string>
   <string name="mw_accessibility_time_picker_minute">Minuta</string>
@@ -1382,8 +1382,8 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="mw_search_menu_title">Išči</string>
   <string name="mw_snippets_disabled_generic_prompt">Predlaganje vsebine</string>
   <string name="mw_snippets_disabled_signed_out_instructions">Prijavite se v Chrome če želite da vam Google predlaga vsebino.</string>
-  <string name="mw_time_picker_dialog_am">AM</string>
-  <string name="mw_time_picker_dialog_pm">PM</string>
+  <string name="mw_time_picker_dialog_am">dop.</string>
+  <string name="mw_time_picker_dialog_pm">pop.</string>
   <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="mw_time_picker_dialog_title">Nastavite čas</string>
   <string name="mw_title_bar_loading">Nalaganje…</string>
@@ -1485,7 +1485,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="player_data_error_tip">Videposnetek trenutno ni na voljo. Poskusite kasneje</string>
   <string name="player_net_error">Niste povezani na omrežje, preverite omrežne nastavitve</string>
   <string name="player_no_data">Žal mi je! Tega posnetka ni več.</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="popup_video">Videoposnetek v pojavnem oknu</string>
   <string name="popup_window_attempt">Dovolim tej strani da odpre pojavno okno?</string>
   <string name="positive_confirm_message">Izključi vseeno</string>
@@ -2000,10 +2000,10 @@ Ne kaže ničesar."</string>
   <string name="thursday">Četrtek</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
-  <string name="time_picker_dialog_am">AM</string>
+  <string name="time_picker_dialog_am">dop.</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
-  <string name="time_picker_dialog_pm">PM</string>
+  <string name="time_picker_dialog_pm">pop.</string>
   <string name="time_picker_dialog_second_subsecond_separator">.</string>
   <string name="time_picker_dialog_title">Nastavi čas</string>
   <string name="time_picker_label_hour">H</string>

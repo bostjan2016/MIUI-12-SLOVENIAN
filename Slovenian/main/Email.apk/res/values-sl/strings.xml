@@ -238,7 +238,7 @@
   <string name="allread">Preberi vse</string>
   <string name="always_bcc_myself">Zmeraj pošlji sebi skrito kopijo</string>
   <string name="always_show_images">Vedno pokaži slike tega pošiljatelja</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
      <string name="app_loading">Delam…</string>
   <string name="app_name">E-pošta</string>
      <string name="app_uninstall_content">E-pošta je sistemska aplikacija MIUI. Po odstranitvi ne boste mogli dodajati e-poštnih računov, pošiljati in prejemati e-pošte ter sinhronizirati e-poštnih urnikov.</string>
@@ -1319,7 +1319,7 @@ Poskusite z ostalo pošto."</string>
   <string name="please_fill_in_your_mailbox_information2">Vnesite vaše podatke za račun e-pošte:</string>
      <string name="pls_parse_bill_discribe">"Analizirajte račune in informacije o potovanju v svoji e-pošti
 da prejmete opomnike o plačilih in potovanjih"</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="policy_app_blacklist">Onemogoči določene aplikacije</string>
   <string name="policy_app_whitelist">Omogoči samo določene aplikacije</string>
   <string name="policy_bluetooth_restricted">Omeji Bluetooth uporabo</string>

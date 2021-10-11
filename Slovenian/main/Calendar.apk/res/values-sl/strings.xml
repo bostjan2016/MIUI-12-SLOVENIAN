@@ -113,7 +113,7 @@
      <string name="all_events">Vsi dogodki</string>
      <string name="all_records">Vsi zapisi</string>
   <string name="allow">Dovoli</string>
-  <string name="am">AM</string>
+  <string name="am">dop.</string>
   <string name="anniversary_event_title">Obletnica: %1$s</string>
   <string name="anniversary_secondary_tag">Obletnica</string>
   <string name="app_label">Koledar</string>
@@ -791,7 +791,7 @@
      <string name="news">Novice</string>
   <string name="next_alarm_time">Naslednji opomnik ob %1$s</string>
      <string name="next_step">Naprej</string>
-  <string name="night">PM</string>
+  <string name="night">Noč</string>
   <string name="no_calendars_found">Preden dodate dogodek morate dodati vsaj en račun koledarja v napravo in ga napraviti vidnega. Da dodate račun, tapnite Dodaj račun (če ste ga že dodali, počakajte konec sinhronizacije in poskusite ponovno). Ali pa tapnite Odpovej in preverite ali je vsaj en koledar viden.</string>
   <string name="no_contact_birthday_hint">Ni rojstnih dni za uvoz</string>
   <string name="no_events_hint">Ni dogodkov</string>
@@ -852,7 +852,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="picker_year">Izbrano leto: %1$d. Povlecite navpično, da izberete.</string>
      <string name="plain_short_month_format">MMM</string>
      <string name="plain_year_format">yyyy</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
      <string name="points_table">Tabela točk</string>
   <string name="portrait_week_view">Tedenski razpored u pokončnem videzu</string>
      <string name="predict_menstruation">Pričakovani ciklus</string>

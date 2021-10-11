@@ -35,7 +35,7 @@
   <string name="airplane_can_not_share">"Pri Načinu za letalo ne morete deliti z Bluetoothom"</string>
   <string name="airplane_error_msg">Uporaba Bluetootha v Načinu za letalo ni mogoča.</string>
   <string name="airplane_error_title">Način za letalo</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_name">Bluetooth deljenje</string>
   <string name="auth_notif_message">Vpiši šifro seje za %1$s</string>
   <string name="auth_notif_ticker">Obex zahteva za avtentikacijo</string>
@@ -328,7 +328,7 @@
   <string name="permlab_bluetoothWhitelist">Seznam dovoljenih Bluetooth naprav.</string>
   <string name="permlab_handoverStatus">Sprejmi Bluetooth oddajanje prenosov.</string>
   <string name="phonebook_advance_feature_support">Podprta napredna funkcija stikov</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="process"/>
   <string name="progress_scanning">Iščem</string>
   <string name="remote_pbap_version_change">Spremenite različico profila oddaljenega imenika</string>

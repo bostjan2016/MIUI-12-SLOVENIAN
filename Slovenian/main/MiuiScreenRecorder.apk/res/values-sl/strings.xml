@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Strni</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_info">Snemanje, pritisnite za zaustavitev</string>
   <string name="app_name">Snemalec zaslona</string>
      <string name="app_notification_channel_record_complete">Obvestila o končanih posnetkih</string>
@@ -233,7 +233,7 @@ Tapni za ogled"</string>
   <string name="permission_intro_microphone">Za snemanje zvoka ko je vir zvoka nastavljen na mikrofon</string>
   <string name="permission_intro_storage">Za shranjevanje posnetkov zaslona</string>
   <string name="permission_microphone_desc">Uporaba mikrofona kot vira zvoka za snemanje zaslona</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
   <string name="quit_recording">Izhod iz Snemanja zaslona</string>
   <string name="recording_failure">Snemanje ni uspelo, ponovno zaženite snemanje</string>

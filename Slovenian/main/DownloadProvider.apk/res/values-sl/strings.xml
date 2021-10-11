@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Strni</string>
     <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_label">Upravitelj prenosov</string>
   <string name="auto_restart_under_wifi">WiFi bo samodejno prenesel to datoteko</string>
   <string name="button_cancel_download">Prekini</string>
@@ -232,7 +232,7 @@
   <string name="permlab_downloadManagerAdvanced">Napredne opravila upravitelja prenosov.</string>
   <string name="permlab_downloadWithoutNotification">Prenesi brez obvestil</string>
   <string name="permlab_seeAllExternal">Odpri vse prenose na zunanjem pomnilniku</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
   <string name="privacy_notif_content">Tapni za ogled podrobnosti.</string>
   <string name="privacy_notif_title">Xunlei Download Accelerator je vklopljen</string>

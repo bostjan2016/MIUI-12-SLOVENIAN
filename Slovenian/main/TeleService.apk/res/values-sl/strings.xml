@@ -257,7 +257,7 @@
   <string name="already_auto">Samodejna izbira je odprta.</string>
   <string name="always_enable_mms">Vedno prejmi MMS</string>
   <string name="always_enable_mms_summary">Pridobi MMS tudi ko so mobilni podatki izklopljeni</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="ambulance_type_description">Prva pomoč</string>
   <string name="animator_duration_scale_title">Merilo dolžine animatorja</string>
   <string name="answer_features_setting_category">Odgovor</string>
@@ -1101,6 +1101,7 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="emergency_information_confirm_hint">Znova se dotaknite, da si ogledate podatke</string>
   <string name="emergency_information_hint">Informacije za nujne primere</string>
   <string name="emergency_information_owner_hint">Lastnik</string>
+     <string name="emergency_medical_records">Zdravstvene kartoteke</string>
   <string name="emm_cause_11">"Trenutni operater ne podpira te storitve."</string>
   <string name="emm_cause_14">"Trenutni operater ne podpira mobilne podatkovne storitve."</string>
   <string name="emm_cause_2">"Registriracija telefonske številke ni uspela. Izključite napravo, jo ponovno vključite in poskusite ponovno."</string>
@@ -2321,7 +2322,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="please_connect_network_title">Ni omrežja</string>
   <string name="please_enter_phone_number">Vnesite številko telefona</string>
   <string name="please_login_mi_accout">Prijavite se</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="pocket_mode_summary">Samodejni zaklep ko gre aparat v žep</string>
   <string name="pocket_mode_title">Prepreči žepne klice</string>
   <string name="pointer_location">Mesto kazalca</string>
@@ -3076,8 +3077,8 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="time_end">Do</string>
   <string name="time_end_hour">Čas in ura</string>
   <string name="time_end_minute">Čas in minuta</string>
-  <string name="time_formate_am">AM</string>
-  <string name="time_formate_pm">PM</string>
+  <string name="time_formate_am">dop.</string>
+  <string name="time_formate_pm">pop.</string>
   <string name="time_next_day">" naslednji dan "</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>

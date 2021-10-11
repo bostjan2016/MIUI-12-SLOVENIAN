@@ -30,7 +30,7 @@
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
     <string name="agree">Strinjam se</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
     <string name="cancel">Prekliči</string>
     <string name="check_protocol_msg">Če želite uporabiti način vzdrževanja, kliknite tukaj in se strinjajte s </string>
     <string name="check_protocol_msg_detail">Pred zagonom načina popravila se prepričajte, ali so bili podatki varnostno kopirani in poprodajna služba ni odgovorna za morebitno izgubo podatkov zaradi popravljenega izdelka.</string>
@@ -178,7 +178,7 @@
     <string name="open_maintenance_mode">Odpri Način vzdrževanja</string>
     <string name="open_maintenance_mode_msg">Da bi se izognili izgubi podatkov, je priporočljivo, da ga potem pošljete v popravilo </string>
     <string name="open_maintenance_mode_msg_sub">varnostno kopiranje vaših podatkov</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
     <string name="reached_max_user">Doseženo največje število uporabnikov</string>
     <string name="reboot_maintenance_mode">izbriši način vzdrževanja končan, za zmogljivost naprave ga znova zaženite</string>
     <string name="reboot_msg">Če vklopite način vzdrževanja, se telefon samodejno znova zažene, potrdite, ali je takoj vklopljen</string>
@@ -205,7 +205,7 @@
   <string name="today">Danes</string>
   <string name="tomorrow">Jutri</string>
      <string name="tuesday">Torek</string>
-     <string name="tuesday_short">Tot</string>
+     <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>

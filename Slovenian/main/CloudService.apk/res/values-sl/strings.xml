@@ -42,7 +42,7 @@
      <string name="afternoon">Večer</string>
   <string name="alert_notif_title_dspt">Ni sinhronizirano</string>
   <string name="all_sync_item_open">Vse stvari so vključene</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="antispam_sync">Nastavitve "Ne moti"</string>
   <string name="app_name">Mi Cloud</string>
   <string name="apple_10gb">20GB</string>
@@ -869,7 +869,7 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="picker_list_empty">Tu ni stikov</string>
   <string name="picker_search_empty">"Ne najdem stikov"</string>
   <string name="picker_search_hint">Išči</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="power_off_locate_summary">"Podatke o lokaciji prijavite z dolgim pritiskom tipke Vklop.
 Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</string>
   <string name="power_off_locate_title">Prijavi lokacijo pred izklopom</string>
@@ -960,6 +960,7 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
      <string name="share_location_guide2_title">Pomagajte prijateljem in družini</string>
      <string name="share_location_guide3_desc">Poskrbite da so prijatelji in družina na varnem, tako da preverite podatke o lokaciji, ki so jih dali v skupno rabo</string>
      <string name="share_location_guide3_title">Ostanite varni</string>
+     <string name="share_location_guide_action_btn_loading_text">Delam…</string>
      <string name="share_location_guide_action_btn_text">Vključi</string>
      <string name="share_location_guide_extra_btn_text">Preskoči</string>
      <string name="share_location_menu_create_shortcut">Bližnjica zač. zaslona</string>
@@ -967,7 +968,7 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
      <string name="share_location_menu_help">Pomoč in povratne informacije</string>
      <string name="share_location_menu_messages">Zgodovina sporočil</string>
      <string name="share_location_start_navigation_error">"Zemljevidov v vaši napravi ni bilo mogoče najti"</string>
-  <string name="share_miliao_not_installed">MiTalk ni nameščen.</string>
+     <string name="share_miliao_not_installed">MiTalk ni nameščen.</string>
      <string name="share_sdk_btn_already_shared_text">Vabilo dostavljeno</string>
      <string name="share_sdk_btn_quit_share_text">Ustavi deljenje</string>
      <string name="share_sdk_btn_resend_share_text">Pošlji ponovno</string>

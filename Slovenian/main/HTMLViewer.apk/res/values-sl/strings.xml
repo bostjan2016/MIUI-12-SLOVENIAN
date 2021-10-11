@@ -30,7 +30,7 @@
     <string name="actionbar_button_up_description">Nazaj</string>
   <string name="ad_service">Oglaševanje</string>
      <string name="afternoon">Popoldne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_label">Pregledovalnik HTML</string>
   <string name="app_name_which_call">Aplikacija: %s</string>
   <string name="app_version_which_call">Verzija: %s</string>
@@ -177,7 +177,7 @@
   <string name="open_wifi_connect_summary">Dotaknite se za prikaz podrobnosti.</string>
   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
   <string name="permdesc_accessDrm">Aplikaciji omogoča pristop DRM zaščiteni vsebini.</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="poco_launcher_privacy_policy">POCO Zaganjalnik Pravila o zasebnosti</string>
   <string name="poco_launcher_user_agreement">POCO Zaganjalnik Pogoji uporabe</string>
   <string name="poco_privacy_policy">POCO Zaganjalnik Pravila o zasebnosti &amp; POCO Zaganjalnik Pogoji uporabe</string>

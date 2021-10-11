@@ -67,7 +67,7 @@
      <string name="activity_not_found_notice">"Ne najdem aplikacije"</string>
   <string name="add_to_trust_device">To so preverjene naprave</string>
      <string name="afternoon">Popoldne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
      <string name="app_name">Plačila</string>
      <string name="auth_fail_warning">Seja je potekla. Prijavite se znova.</string>
      <string name="bind_sign_in_title">Dodajte Mi račun</string>
@@ -469,7 +469,7 @@ povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto
      <string name="phone_num_use_for">Telefonska številka se uporablja za:</string>
      <string name="phone_number">Telefonska številka</string>
      <string name="photoPickerNotFoundText">Ni fotografij.</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
      <string name="psw_hint">Geslo</string>
      <string name="psw_sign_in">Prijavite se z geslom</string>
      <string name="qq_application_id" />

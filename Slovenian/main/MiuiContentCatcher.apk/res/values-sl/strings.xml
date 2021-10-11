@@ -28,8 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="actionbar_button_up_description">Nazaj</string>
-  <string name="afternoon">PM</string>
-  <string name="am">AM</string>
+  <string name="afternoon">pop.</string>
+  <string name="am">dop.</string>
   <string name="app_name">Application Extension Service</string>
   <string name="auth_activity_label">Kontrolne kode</string>
   <string name="auth_fingerprint_content">Potrdite svoj prstni odtis da boste dostopili do shranjenih gesel</string>
@@ -189,7 +189,7 @@
   <string name="ok">V redu</string>
      <string name="password_manager">Upravitelj gesel</string>
      <string name="password_manager_summary">Sinhronizirajte gesla v oblaku</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="preference_copied">\"%1$s\" kopiran/o v odložišče.</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>

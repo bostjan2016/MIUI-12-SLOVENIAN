@@ -49,7 +49,7 @@
   <string name="alter_message_delete">Izbrišem?</string>
   <string name="alter_message_switch_mode">Zamenjam način?</string>
   <string name="alter_message_switch_mode_message">Ko zamenjate način dela se vaše predhodne nastavitve ne bodo več uporabljale za to aplikacijo.</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_invisible_title">Nevidne aplikacije</string>
   <string name="app_list_title">Izberite aplikacije</string>
   <string name="app_list_total">Aplikacija: %d</string>
@@ -308,7 +308,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="performance_category">Zmogljivost</string>
   <string name="permstep_description">"Dovolite aplikaciji branje informacij o vaših korakih"</string>
   <string name="permstep_label">Dostop do korakov</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="power_center">Optimizacija baterije</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s se zaganja nenormalno</string>
   <string name="power_checker_background_cpu_title">%1$s se zaganja nenormalno</string>
@@ -459,7 +459,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="today">Danes</string>
   <string name="tomorrow">Jutri</string>
      <string name="tuesday">Torek</string>
-     <string name="tuesday_short">Tot</string>
+     <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
   <string name="ui">Standardno</string>
   <string name="update_profile_failture_not_connect_wifi">Posodobitev ni uspela, povežite se na WiFi in poskusite ponovno</string>

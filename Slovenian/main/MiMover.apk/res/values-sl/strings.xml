@@ -38,8 +38,8 @@
   <string name="activating">Aktivacija…</string>
   <string name="address">Naslov</string>
   <string name="after_reset_need_restore_system_app">"Kaže da ste naredili ponastavitev na tovarniške nastavitve. Povežite se z omrežjem in obnovite sistemske stvari, tako da lahko normalno uporabljate MIUI."</string>
-  <string name="afternoon">PM</string>
-  <string name="am">AM</string>
+  <string name="afternoon">pop.</string>
+  <string name="am">dop.</string>
   <string name="antispam">Seznam blokiranih</string>
     <string name="app_name">Mi Mover</string>
   <string name="appname_app_data_suffix">%1$s podatki aplikacije</string>
@@ -213,7 +213,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
     <string name="error_permissions">Ta aplikacija nima potrebnih dovoljenj za dostop do koledarja. Pojdite v nastavitve in preverite dovoljenja za nadaljevanje.</string>
   <string name="error_title">"Ne morem sinhronizirati"</string>
   <string name="error_unauthorized">Sinhronizacija je izključena zaradi prevelikega števila poskusov prijave.</string>
-     <string name="evening">PM</string>
+     <string name="evening">Večer</string>
      <string name="expand_button_title">Napredno</string>
   <string name="fail_list_tips">"Naslednjih stvari ni mogoče prenesti v novo napravo."</string>
   <string name="failed_description">Ni uspelo</string>
@@ -392,7 +392,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
   <string name="manual_connection_summary2">"Če te dostopne točke ne najdete, osvežite seznam razpoložljivih omrežij WiFi in poskusite znova."</string>
   <string name="manual_connection_title">Ročno se povežite s staro napravo</string>
     <string name="message_request_package_stats_perm">Tapnite \"Nadaljuj\", da boste odprli Nastavitve in dodelili aplikaciji Mi Mover zahtevana dovoljenja.</string>
-  <string name="midnight">AM</string>
+  <string name="midnight">Polnoč</string>
     <string name="miui_need_location_permission_summary">Dovolite aplikaciji Mi Mover dostop do lokacije, da lahko najde naprave v bližini. Aplikacije ne boste mogli uporabiti dokler ne dodelite to dovoljenje.</string>
     <string name="miui_need_location_permission_title">Dovolite dostop do lokacije</string>
     <string name="miui_need_open_high_accuracy_summary">Dovolite aplikaciji Mi Mover dostop do vaše lokacije v načinu \"Visoka natančnost\", da lahko najde naprave v bližini. Aplikacije ne boste mogli uporabiti dokler ne dodelite to dovoljenje.</string>
@@ -467,7 +467,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
   <string name="month_september_short">Sep</string>
   <string name="month_september_shortest">S</string>
   <string name="more">Več</string>
-  <string name="morning">AM</string>
+  <string name="morning">dop.</string>
      <string name="msg_permission_desc">Za prenos sporočil v druge naprave</string>
   <string name="name">Ime</string>
     <string name="name_password_not_consistent">Apple ID in geslo, ki ste ju vnesli se ne ujemata</string>
@@ -509,11 +509,11 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
    <string name="new_wait_link_title_3">2. Izberite naslednjo dostopno točko WiFi v stari napravi.</string>
     <string name="next">Naprej</string>
   <string name="nickname">Vzdevek</string>
-  <string name="night">PM</string>
+  <string name="night">Noč</string>
     <string name="no_more_memory_title">Mi Mover mora ustvariti lokalno varnostno kopijo na tej napravi. Trenutno ni dovolj prostora v shrambi, da bi ustvaril varnostno kopijo. Najprej sprostite nekaj prostora.</string>
   <string name="no_network">"Ne morem se povezati na omrežje"</string>
   <string name="no_sim">Ni SIM kartice</string>
-     <string name="noon">PM</string>
+     <string name="noon">Poldne</string>
      <string name="not_set">Ni nastavljeno</string>
   <string name="not_support_data_content1">1. Stvari specifične za model naprave</string>
   <string name="not_support_data_content2">2. Podatki izbranih aplikacij</string>
@@ -601,7 +601,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
   <string name="permission_wifi_title">Vklop in izklop WiFi</string>
   <string name="permlab_sendSmsNoConfirmation">Dovoli SMS v ozadju</string>
   <string name="phone">Telefon</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="prompt_before_transmission_message1_summary">Če jih želite prenesti s svoje stare naprave, bodo podatki o aplikacijah (vključno z zgodovino klepeta) prepisani.</string>

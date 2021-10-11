@@ -716,7 +716,7 @@ Avdio"</string>
     <string name="phone_strings_emergency_call_made_dialog_title_txt">Opravljen je klic v sili</string>
     <string name="picture_color_mode">Način barv slike</string>
     <string name="picture_color_mode_desc">Uporaba sRGB-ja</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
     <string name="pointer_location">Mesto kazalca</string>
     <string name="pointer_location_summary">Prekrivanje zaslona prikazuje trenutni dotik</string>
   <string name="power_charging_duration">%1$s – %2$s do napolnjenosti</string>

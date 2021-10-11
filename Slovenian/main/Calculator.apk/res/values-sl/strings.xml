@@ -36,7 +36,7 @@
   <string name="activate_fail_notification_title">Ponovno aktiviraj sinhronizacijo</string>
   <string name="activating">Aktiviranje…</string>
   <string name="address">Naslov</string>
-  <string name="afternoon">PM</string>
+  <string name="afternoon">pop.</string>
   <string name="age_label_add_to_calendar">Dodaj v koledar</string>
   <string name="age_label_dob">Datum rojstva</string>
   <string name="age_label_hours">Ure</string>
@@ -46,7 +46,7 @@
   <string name="age_label_total_summary">Povzetek</string>
   <string name="age_label_weeks">Teden</string>
   <string name="allow">Sprejmem</string>
-  <string name="am">AM</string>
+  <string name="am">dop.</string>
   <string name="angle">kot</string>
   <string name="app_name">Kalkulator</string>
   <string name="app_notification_info">Kalkulator dela v ozadju</string>
@@ -172,7 +172,7 @@
      <string name="e">e</string>
      <string name="eDesc">"Eulerjevo število"</string>
      <string name="e_mathematical_value">e</string>
-     <string name="early_morning">AM</string>
+     <string name="early_morning">Jutro</string>
   <string name="email">E-pošta</string>
      <string name="empty" />
      <string name="enter">↓</string>
@@ -184,7 +184,7 @@
   <string name="error_not_acceptable">Sinhronizacija je izključena.</string>
   <string name="error_title">"Ne morem sinhronizirati"</string>
   <string name="error_unauthorized">Sinhronizacija je izključena zaradi preveč poiskusov prijave.</string>
-  <string name="evening">PM</string>
+  <string name="evening">Večer</string>
   <string name="exit">Izhod</string>
      <string name="expand_button_title">Napredno</string>
   <string name="extra_deduction_instruction">Podrobnosti o odbitku</string>
@@ -396,7 +396,7 @@ Enoletni in petletni LPR bodo objavljeni 20. v mesecu (zamude lahko nastanejo za
      <string name="lpr_tips_title">LPR (Obrestna mera posojila)</string>
   <string name="medical_treatment">Zdravljenje</string>
      <string name="menuDesc">Meni</string>
-  <string name="midnight">AM</string>
+  <string name="midnight">Polnoč</string>
      <string name="minus">−</string>
      <string name="minusDesc">minus</string>
      <string name="minusOne">-1</string>
@@ -463,7 +463,7 @@ Enoletni in petletni LPR bodo objavljeni 20. v mesecu (zamude lahko nastanejo za
   <string name="month_september_short">Sep</string>
   <string name="month_september_shortest">S</string>
   <string name="more">Več</string>
-     <string name="morning">AM</string>
+     <string name="morning">dop.</string>
   <string name="mortgage_amount">Skupaj</string>
   <string name="mortgage_average_repayment_first_month">Prvi mesec odplačila</string>
   <string name="mortgage_average_repayment_monthly">Mesečni obrok</string>
@@ -522,11 +522,11 @@ Enoletni in petletni LPR bodo objavljeni 20. v mesecu (zamude lahko nastanejo za
   <string name="network_purpose">Dobrodošli v Kalkulator! Kalkulator vam omogoča pretvorbo valut, izračunavanje odplačil kredita in še več.</string>
      <string name="new_privacy_string"><Data>"Dobrodošli v Kalkulator!&lt;br/>Ponuja vam:&lt;br/>• Osnovni kalkulator&lt;br/>• Znanstveni kalkulator&lt;br/>• Univerzalni pretvornik (n.pr. valute, merske enote, itd.)&lt;br/>• Predloge za izračun posojil, naložb, EMI in še več&lt;br/>Kalkulator mora zbrati potrebne osebne podatke, da vam omogoči osnovne storitve. Naučite se, kako ravnamo s podatki, ki jih zbiramo v &lt;a href= \"%1$s\">Pravila o zasebnosti&lt;/a>. Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%3$s\">Pravila o zasebnosti&lt;/a> pred uporabo. V nastavitvah lahko kadar koli umaknete svoje soglasje k Pravili o zasebnosti kalkulatorja. Če se ne strinjate z našim pravilnikom o zasebnosti, nekaterih funkcij te aplikacije ne boste mogli uporabljati; osnovna funkcionalnost pa vam bo še vedno na voljo."</Data></string>
   <string name="nickname">Priimek</string>
-  <string name="night">PM</string>
+  <string name="night">Noč</string>
   <string name="no_network">"Ne morem se povezati v omrežje"</string>
   <string name="no_sim">Ni SIM kartice</string>
   <string name="none">Nič</string>
-  <string name="noon">PM</string>
+  <string name="noon">Poldne</string>
      <string name="not_set">Ni nastavljeno</string>
   <string name="not_supported_due_to_language">Ta storitev je dostopna samo za kitajski jezik</string>
   <string name="note">Beležka</string>
@@ -552,7 +552,7 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
      <string name="piDesc">pi</string>
      <string name="plus">+</string>
      <string name="plusDesc">plus</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
      <string name="powerDesc">vklop</string>
      <string name="power_base_number">X!</string>
      <string name="power_index_number">y</string>

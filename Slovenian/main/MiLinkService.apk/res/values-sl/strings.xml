@@ -30,7 +30,7 @@
   <string name="account_other">Ostalo</string>
   <string name="actionbar_button_up_description">Nazaj</string>  
      <string name="afternoon">Popoldne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
      <string name="audio_record_des">Za prenos zvoka iz mobilne naprave na zunanje monitorje</string>
   <string name="casting_tips">Predvajanje…</string>
   <string name="clearable_edittext_clear_description">Očisti</string>
@@ -327,7 +327,7 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="path_setting_cast_demo_game">Povezava &amp; deljenje/Predvajanje/Demo/Igre</string>
      <string name="path_setting_cast_feature">Povezava &amp; deljenje/Predvajanje/Posebne storitve</string>
      <string name="path_setting_cast_help">Povezava &amp; deljenje/Predvajanje/Pomoč</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="privacy_agree">Strinjam se</string>
   <string name="privacy_detail">&lt;Data&gt;Ta aplikacija se mora povezati s spletom in zbrati potrebne osebne podatke, da lahko normalno deluje. Če želite v celoti razumeti svoje pravice kot uporabnika in načine uporabe vaših podatkov, preberite in se strinjate z &amp;lt;a href=%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>

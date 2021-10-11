@@ -1320,7 +1320,7 @@
         <item>Ločeno</item>
      </string-array>
      <string-array name="time_format_entries">
-        <item>12-urni format 1:00 PM</item>
+        <item>12-urni format 1:00 pop.</item>
         <item>24-urni format 13:00</item>
         <item>Samodejno (na osnovi jezika sistema)</item>
      </string-array>

@@ -67,7 +67,7 @@
   <string name="activity_not_found_notice">"Ne najdem aplikacije"</string>
   <string name="add_to_trust_device">To je preverjena naprava</string>
      <string name="afternoon">Popoldne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
     <string name="announcement">Pozor</string>
     <string name="app_empty">Ne najdem aplikacije.</string>
     <string name="app_label">Povratne informacije</string>
@@ -610,7 +610,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="photoPickerNotFoundText">Ni slik.</string>
     <string name="plus_one_submit_dialog_content">Vaše pov. inf. skupaj z priponkami bodo poslane Mi strežnikom.</string>
     <string name="plus_one_submit_dialog_not_show_again">Zapomni si izbiro</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
     <string name="post_miui_bbs_failed">Ne morem objaviti post na MIUI Forum</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="privacy_category_title">Zasebnost</string>

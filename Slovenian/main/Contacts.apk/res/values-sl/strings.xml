@@ -63,13 +63,13 @@
   <string name="add_xiaomi_account_dialog_btn">Uporabi Mi račun</string>
   <string name="add_xiaomi_account_dialog_msg">Varnostno kopiraj stike na vaš Mi račun za dostop do njih kjerkoli!</string>
   <string name="add_xiaomi_account_dialog_title">Izberi račun</string>
-  <string name="afternoon">PM</string>
+  <string name="afternoon">pop.</string>
   <string name="aggregation_suggestion_edit_dialog_message">Preklopim na urejanje stika istega imena? Informacije ki ste jih vnesli se bodo shranile.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Isto ime</string>
   <string name="aggregation_suggestion_join_dialog_message">Pridružim trenutni stik izbranemu stiku?</string>
   <string name="ai_calllog_call_record_menu">AI snemanje klicev</string>
   <string name="all_list_empty">Ni stikov</string>
-  <string name="am">AM</string>
+  <string name="am">dop.</string>
   <string name="antispam_mark_my_contribution">"Pokaži ostalim uporabnikom da sem prijavil to številko."</string>
   <string name="antispam_provider_format">Prijavljena kot nezaželjeno od %s</string>
      <string name="app_name">Prednost</string>
@@ -1212,7 +1212,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"<
   <string name="month_september_shortest">S</string>
   <string name="more">Več</string>
   <string name="more_call_logs">Poglejte podrobno zgodovino klicev na &lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
-  <string name="morning">AM</string>
+  <string name="morning">dop.</string>
   <string name="move_and_resize">Premakni in spremeni velikost</string>
   <string name="multi_number_menu_call">Klic</string>
   <string name="multi_number_menu_delete">Izbriši</string>
@@ -1242,7 +1242,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"<
   <string name="nickname_editor_title">Uredi vzdevek</string>
   <string name="nickname_picker_name_column">Ime stika</string>
   <string name="nickname_picker_nickname_column">Naslov</string>
-  <string name="night">PM</string>
+  <string name="night">Noč</string>
   <string name="noAccounts">Za ustvarjanje skupine morate imeti račun</string>
   <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Obnovi stike s pomočjo Mi računa</string>
@@ -1323,7 +1323,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="non_phone_caption">Telefonska številka</string>
   <string name="non_phone_close">Zapri</string>
   <string name="none_paired">Trenutno ni povezanih naprav</string>
-  <string name="noon">PM</string>
+  <string name="noon">Poldne</string>
   <string name="not_applied">"Ne morem uporabiti"</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="notification_action_voicemail_play">Predvajaj</string>
@@ -1409,7 +1409,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="pkgLabel">Stiki in klicanje številk</string>
   <string name="play_add_incall_show_entry">Predvajaj ali dodaj videoposnetek</string>
   <string name="play_incall_show_entry">Predvajaj videoposnetek</string>
-  <string name="pm">PM</string>
+  <string name="pm">pop.</string>
   <string name="postalLabelsGroup">Naslov</string>
   <string name="postal_address">Naslov</string>
   <string name="postal_city">Mesto</string>

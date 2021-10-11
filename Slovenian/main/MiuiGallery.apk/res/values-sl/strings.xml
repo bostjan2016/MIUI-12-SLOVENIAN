@@ -203,7 +203,7 @@
   <string name="already_cancel_authorize_to_device">Avtorizacija je odpovedana</string>
   <string name="already_create_baby_album">Otroški album že obstaja v Mi Cloudu.</string>
   <string name="already_share">Skupna raba</string>
-  <string name="am">AM</string>
+  <string name="am">dop.</string>
   <string name="and"> in </string>
   <string name="app_is_launching">%s se zaganja…</string>
   <string name="app_is_launching_common">Zagon aplikacije…</string>
@@ -1482,7 +1482,7 @@ za fotografije"</string>
   <string name="mi_drop">Mi Share</string>
      <string name="mi_mover_working_desc">Mi Mover prenaša stvari…</string>
   <string name="micloud_introduce">Samodejno sinhroniziraj fotografije in videoposnetke (potreben je Mi Račun)</string>
-  <string name="midnight">AM</string>
+  <string name="midnight">Polnoč</string>
      <string name="mishare_all_devices">Vse naprave</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
@@ -2022,7 +2022,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="places_album_empty_title">Fotografije so lahko razvrščene glede na lokacijo</string>
   <string name="play_gif_desc">Predvajaj GIF</string>
   <string name="play_video_desc">Predvajaj video</string>
-  <string name="pm">PM</string>
+  <string name="pm">pop.</string>
   <string name="posterize">Posterize</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="prepare_to_drop">Shranjevanje v %s</string>

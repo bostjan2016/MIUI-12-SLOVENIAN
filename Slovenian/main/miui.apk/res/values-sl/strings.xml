@@ -13,7 +13,7 @@
      <string name="address">Naslov</string>
      <string name="after_reset_need_restore_system_app">"Kaže da ste naredili vrnitev na tovarniške nastavitve. Povežite se z omrežjem in obnovite sistemske elemente, tako da lahko normalno uporabljate MIUI."</string>
      <string name="afternoon">Popolne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
      <string name="app_name_which_call">Aplikacija: %s</string>
      <string name="app_version_which_call">Verzija aplikacije: %s</string>
      <string name="birthday">Rojstni dan</string>
@@ -66,7 +66,7 @@
      <string name="error_not_acceptable">Sinhronizacija je izključena</string>
      <string name="error_title">"Ne morem sinhronizirati"</string>
      <string name="error_unauthorized">Sinhronizacija je izključena zaradi prevelikega števila poskusov prijave.</string>
-     <string name="evening">PM</string>
+     <string name="evening">Večer</string>
      <string name="experience_new_system_app">Poglejte nove storitve!</string>
      <string name="fmt_date">D</string>
      <string name="fmt_date_day">d</string>
@@ -132,7 +132,7 @@ Da boste videli te informacije,
 pojdite na: %s."</string>
      <string name="loading">Nalaganje…</string>
      <string name="mibi_license">Mi Krediti Pogoji uporabe</string>
-     <string name="midnight">AM</string>
+     <string name="midnight">Polnoč</string>
      <string name="mobile_data_consume">Za prenos stvari je potrebno %1$s MB  mobilnih podatkov. Vseeno prenesem?</string>
      <string name="mobile_data_remind">Opozorilo mob. podatkov</string>
      <string name="monday">Ponedeljek</string>
@@ -175,13 +175,13 @@ pojdite na: %s."</string>
      <string name="month_september_short">Sep</string>
      <string name="month_september_shortest">S</string>
      <string name="more">Več</string>
-     <string name="morning">AM</string>
+     <string name="morning">dop.</string>
      <string name="name">Ime</string>
      <string name="nickname">Priimek</string>
-     <string name="night">PM</string>
+     <string name="night">Noč</string>
      <string name="no_network">"Ne morem se povezati na omrežje"</string>
      <string name="no_sim">Ni SIM kartice</string>
-     <string name="noon">PM</string>
+     <string name="noon">Poldne</string>
      <string name="note">Beležka</string>
      <string name="organization">Organizacija</string>
      <string name="perm_payment_dspt">Dovolite aplikaciji plačilo z Mi Uslugo plačila</string>
@@ -189,7 +189,7 @@ pojdite na: %s."</string>
      <string name="permdesc_sendSmsNoConfirmation">Aplikacija lahko pošilja SMS-e brez spraševanja za dovoljenje. To lahko povzroči dodatne stroške.</string>
      <string name="permlab_sendSmsNoConfirmation">Pošiljanje SMS sporočil brez potrdila</string>
      <string name="phone">Telefon</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
      <string name="policy_name">Zasebnost: %s</string>
      <string name="privacy_policy">Pravila o zasebnosti</string>
      <string name="recovery_progress">Vračanje stvari (%1$d/%2$d)…</string>

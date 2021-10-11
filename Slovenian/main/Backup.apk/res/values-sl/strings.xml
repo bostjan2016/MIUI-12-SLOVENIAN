@@ -45,7 +45,7 @@
   <string name="alert_title_backup_to_miasist">Izdelam Var. kopijo z uporabo Mi PC Suite?</string>
   <string name="alert_title_restore_from_miasist">Vrnem podatke na vaš telefon?</string>
   <string name="already_enable_encrypt">Šifriranje je že vključeno</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_name">Varnostna kopija</string>
   <string name="apps_and_data_item_desc">Aplikacije in podatki</string>
      <string name="apps_item_desc">Aplikacije</string>
@@ -565,7 +565,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="platform_chooser_item_android_others">Ostale znamke</string>
   <string name="platform_chooser_item_ios">Uvozi iz naprave Apple</string>
   <string name="platform_chooser_title">Izberite staro napravo</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="progress_backup_hint">Izdelava var. kopije…</string>
   <string name="progress_restore_hint">Obnavljam iz var. kopije…</string>

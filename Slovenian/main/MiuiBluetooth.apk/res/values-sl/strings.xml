@@ -101,7 +101,7 @@
     <string name="alarms_and_reminders_title">Alarmi in opomniki</string>
     <string name="allow_mock_location">Dovoli lažne lokacije</string>
     <string name="allow_mock_location_summary">Dovoli lažne lokacije</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
     <string name="animator_duration_scale_title">Merilo trajanja animacije</string>
     <string name="apn_settings_not_available">Nastavitve imena dostopne točke niso na voljo za tega uporabnika</string>
   <string name="app_name">Miui Bluetooth</string>
@@ -323,6 +323,7 @@ Ta storitev je v fazi razvoja, zato morda ne bo delovala pravilno.
   <string name="development_settings_summary">Nastavi možnosti za razvoj aplikacij</string>
   <string name="development_settings_title">Možnosti za razvijalce</string>
   <string name="device_picker">Nastavitve Bluetooth naprave</string>
+     <string name="device_update_plugin">nova različica</string>
     <string name="direct_boot_unaware_dialog_message">"Opomba: po vnovičnem zagonu te aplikacije ni mogoče zagnati, če ne odklenete telefona."</string>
     <string name="disable_overlays">Onem. strojni medp.</string>
     <string name="disable_overlays_summary">Za sestavljanje slike vedno uporabi graf. procesor</string>
@@ -783,12 +784,17 @@ Hitrejši protokol povezave."</string>
      <string name="plugin_install_timeout">Čakanje na časovno omejitev namestitve.</string>
      <string name="plugin_last_update_going">Zadnja posodobitev poteka.</string>
      <string name="plugin_no_update">"To je že zadnja različica."</string>
+     <string name="plugin_ota_finish">posodobitev različice bluetooth je uspela</string>
+     <string name="plugin_ota_indicate">znova zaženite bluetooth in povežite slušalke</string>
+     <string name="plugin_ota_messages1">Dodajte več virov slušalk Bluetooth</string>
+     <string name="plugin_ota_messages2">Posodobite okvir storitve Bluetooth</string>
+     <string name="plugin_ota_progress">posodobi zdaj</string>
      <string name="plugin_start_update">Začni posodabljati vtičnike...</string>
      <string name="plugin_update_failed">Posodobitev ni uspela:</string>
      <string name="plugin_update_notification_summary">Posodobitev vtičnika Bluetooth je končana. Znova zaženite nastavitve in bluetooth, da uporabite spremembe.</string>
      <string name="plugin_update_notification_title">Posodobitev vtičnika Bluetooth</string>
      <string name="plugin_update_success">Posodobitev vtičnika Bluetooth uspešna.</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
     <string name="pointer_location">Mesto kazalca</string>
     <string name="pointer_location_summary">Prekrivanje zaslona prikazuje trenutni dotik</string>
   <string name="power_charging">%1$s - %2$s</string>
@@ -901,6 +907,7 @@ Hitrejši protokol povezave."</string>
     <string name="storage_category">Shramba</string>
   <string name="strict_mode">Strogi način</string>
     <string name="strict_mode_summary">Osveži zaslon pri dolgih postopkih v glavni niti</string>
+     <string name="stylus_ota_check_update">posodobi zdaj</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="summary_empty"/>
      <string name="summary_separator">" / "</string>

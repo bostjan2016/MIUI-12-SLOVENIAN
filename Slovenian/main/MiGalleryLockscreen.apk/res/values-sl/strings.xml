@@ -96,7 +96,7 @@
   <string name="add_wallpaper">Dodaj slike za ozadje</string>
   <string name="addcw_apply_btn_txt">Dodaj sliko ozadja</string>
      <string name="afternoon">Popoldne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="and"> in </string>
   <string name="app_name">Wallpaper Carousel</string>
   <string name="app_self_upgrade_dlg_checkbox_ignore_version">Zanemari to verzijo</string>
@@ -327,6 +327,7 @@ Pošljite to kodo nadzorniku."</string>
   <string name="get_ph_ticket">Pridobite kodo</string>
   <string name="get_phone_bind_exceed_limit">Povežete lahko do 3 Mi Račune s to telefonsko številko. Ne morete dodati novih računov.</string>
   <string name="get_phone_verifycode_exceed_limit">Preveč poslanih kod za potrjevanje na ta naslov e-pošte. Počakajte 24 ur in poskusite ponovno.</string>
+     <string name="goto_confirm">Nastavitve</string>
   <string name="goto_sign_up">Napravi račun</string>
   <string name="history_list_no_data">Ni stvari</string>
   <string name="hour_1">Vsako uro</string>
@@ -824,7 +825,7 @@ mm"</string>
   <string name="platform_unavailable_wechat">Namesti Wechat</string>
   <string name="platform_unavailable_wechatmoment">Namesti Wechat</string>
   <string name="platform_unavailable_weibo">Namesti Weibo</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="privacy_setting">Nastavitve zasebnosti</string>
   <string name="prv_end">" "Ni več stvari za prikaz" "</string>
   <string name="prv_loading">" "Samo trenutek…" "</string>
@@ -845,6 +846,8 @@ mm"</string>
   <string name="refresh_network">Osveži</string>
   <string name="remove">Odstrani</string>
   <string name="req_permission_dis_tip">Potrebno je dovoljenje</string>
+     <string name="require_permission">Potrebna so dovoljenja</string>
+     <string name="require_permission_text">Če želite shraniti in si ogledati stvari, dovolite Wallpaper Carousel dostop do shrambe.</string>
   <string name="resend_active_email">Pošlji ponovno</string>
   <string name="resend_email_reach_limit_message">Zahtevali ste preveč preverjanj po e-pošti. Prepričajte se, da e-poštno sporočilo ni v mapi »Neželena pošta«.</string>
   <string name="resend_email_reach_limit_title">Preveč poskusov</string>
@@ -1001,6 +1004,9 @@ mm"</string>
   <string name="subscribe_update_time_setting">Nastavite drugačen interval</string>
   <string name="summary">"Strinjajte se z &lt;a href='%s'&gt;Pravila o zasebnosti&lt;/a&gt; za pregled online vsebine. Če se ne strinjate bodo lokalne slike za ozadje še naprej na voljo."</string>
   <string name="summary2">"Z uporabo te storitve se strinjate z &lt;font color='#0D84FF'>&lt;a href ='%1$s'>Pogoji uporabe&lt;/font>&lt;/a> in &lt;font color='#0D84FF'>&lt;a href='%2$s'>Pravila o zasebnosti&lt;/font>&lt;/a>. Imeti morate spletno povezavo.​"</string>
+     <string name="summary3">"Dobrodošli v Wallpaper Carousel! Tu se lahko naročite na svoje najljubše kategorije ozadij in redno prejemate nove slike na zaklenjeni zaslon. Ta aplikacija se mora povezati s spletom in zbrati potrebne osebne podatke, da lahko normalno deluje.&lt;br>Za zagotavljanje dodatnih storitev lahko zahtevamo dovoljenje za dostop in shranjevanje elementov v shrambo te naprave.&lt;br>Če želite v celoti razumeti vaše pravice kot uporabnika in načine, na katere uporabljamo vaše podatke, preberite in se strinjajte z &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Pogoji uporabe&lt;/font>&lt;/a> in &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o zasebnosti&lt;/font>&lt;/a> pred uporabo."</string>
+     <string name="summary4">"Dobrodošli v Wallpaper Carousel! Tu se lahko naročite na svoje najljubše kategorije ozadij in redno prejemate nove slike na zaklenjeni zaslon. "</string>
+     <string name="summary5">"Za zagotavljanje dodatnih storitev lahko zahtevamo dovoljenje za dostop in shranjevanje elementov v shrambo te naprave. "</string>
   <string name="summary_international">"Z uporabo te storitve se strinjate z &lt;a href ='%1$s'&gt;Pogoji uporabe&lt;/a&gt; in &lt;a href='%2$s'&gt;Pravila o zasebnosti&lt;/a&gt;. Imeti morate spletno povezavo.​"</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>

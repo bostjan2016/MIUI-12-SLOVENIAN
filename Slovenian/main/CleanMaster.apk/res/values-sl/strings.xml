@@ -56,7 +56,7 @@
   <string name="ad_install_success_dialog_lunch">Odpri</string>
   <string name="ad_install_success_dialog_title">%1$s uspešno nameščen. Odprem?</string>
      <string name="afternoon">Popoldne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="analying">Analiziranje…</string>
   <string name="apk_status_damage">Poškodovano</string>
   <string name="apk_status_duplicate">Dvojniki</string>
@@ -792,7 +792,7 @@
   <string name="permission_dialog_storage_title">Potrebna so dovoljenja</string>
   <string name="petabyteShort">PB</string>
   <string name="phone_search">Google Iskanje</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="positive_confirm">V redu</string>
      <string name="powerful_acceleration">Defragmentacija</string>
     <string name="powerful_acceleration_after">Prej</string>

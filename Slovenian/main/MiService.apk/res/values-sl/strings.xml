@@ -29,7 +29,7 @@
   <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="clearable_edittext_clear_description">Očisti</string>
      <string name="close">Zapri</string>
      <string name="copy">Kopiraj</string>
@@ -340,7 +340,7 @@
     <string name="permission_storage">Pomnilnik</string>
     <string name="permission_storage_introduce">Za shranjevanje predmetov na vaši napravi</string>
     <string name="permission_user_protocol">Pogoji uporabe (obvezno)</string>
-  <string name="pm">PM</string>
+  <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
      <string name="public_authorize_now">Nastavitve</string>
     <string name="public_loading_text">Samo trenutek…</string>

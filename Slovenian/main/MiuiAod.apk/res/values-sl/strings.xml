@@ -45,7 +45,7 @@
      <string name="align_type">Poravnaj</string>
      <string name="always_style">Zmeraj</string>
      <string name="always_style_symmary">Porabi več energije</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
      <string name="ambient_display_screen_title">Vedno na zaslonu</string>
      <string name="ambient_display_screen_title_sp">Ambientalni zaslon</string>
      <string name="animation_clock_panel">Valovno izbiranje</string>
@@ -117,7 +117,7 @@ dd.MM."</string>
      <string name="dual_clock_tip">Vključena je dvojna ura. Dotaknite se, da odprete Nastavitve.</string>
      <string name="early_morning">Zjutraj</string>
      <string name="error_icon_content_description">Napaka</string>
-     <string name="evening">PM</string>
+     <string name="evening">Večer</string>
      <string name="expand_button_title">Napredno</string>
      <string name="exposed_dropdown_menu_content_description">Pokaži padajoči meni</string>
      <string name="fmt_date">D</string>
@@ -184,7 +184,7 @@ dd.MM."</string>
      <string name="material_slider_range_end">Konec,</string>
      <string name="material_slider_range_start">Začetek,</string>
      <string name="memory_leak">Pomanjkanje spomina</string>
-     <string name="midnight">AM</string>
+     <string name="midnight">Polnoč</string>
      <string name="mini_time">Mala ura</string>
      <string name="minimalist_clock">Enostavna ura</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
@@ -306,7 +306,7 @@ dd.MM."</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
      <string name="photo_editor_saving">Shranjevanje…</string>
      <string name="please_input_signature">Vnesite podpis</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>

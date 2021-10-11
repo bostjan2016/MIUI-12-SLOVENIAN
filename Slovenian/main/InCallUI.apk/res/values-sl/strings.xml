@@ -37,7 +37,7 @@
      <string name="ai_mode_auto">Samodejno</string>
      <string name="ai_mode_manual">Ročno</string>
      <string name="ai_mode_subtitles">Naslovi</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="antispam_local_marked">Lokalno označen</string>
   <string name="antispam_notification_title">Neznana številka</string>
   <string name="antispam_provider">Identificiran od %s</string>
@@ -419,7 +419,7 @@
   <string name="pause_prompt_yes">Da</string>
   <string name="payphone">Govorilnica</string>
   <string name="picking_participant">Pridobivanje informacij o stiku…</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="private_num">Skrita številka</string>
   <string name="prompt_no_volte_when_failed">"VoLTE storitve niso na voljo."</string>
      <string name="relay_cal_from_device_name">Od %1$s</string>

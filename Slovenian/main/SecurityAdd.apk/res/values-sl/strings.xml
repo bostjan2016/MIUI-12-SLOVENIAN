@@ -33,7 +33,7 @@
   <string name="add_game">Dodaj igro</string>
   <string name="add_whitelist">Dodaj v izjeme</string>
      <string name="afternoon">Popoldne</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="anim_gamebooster_text">Samo trenutek…</string>
   <string name="anti_disturb_msg_detail">Izključi vsa obvestila razen za dohodne klice</string>
   <string name="anti_disturb_msg_title">Ne moti</string>
@@ -414,7 +414,7 @@
   <string name="other">Ostale nastavitve</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
   <string name="pc_activity_title">Optimiziraj baterijo</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="pm_lable_name">O ROOT dostopu</string>
   <string name="power_autorun_apps_empty">Ni aplik. s samod. zagonom</string>
      <string name="preference_copied">\"%1$s\" kopiran-o v odložišče.</string>

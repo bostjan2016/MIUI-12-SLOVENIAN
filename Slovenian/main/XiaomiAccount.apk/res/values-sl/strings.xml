@@ -117,7 +117,7 @@
     <string name="afternoon">Večer</string>
   <string name="agreement_and_privacy">Pogoji in Pravila</string>
   <string name="alert_title_remove_account">Odstranim račun?</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="app_name">Mi račun</string>
   <string name="auth_fail_warning">Račun za prijavo je potekel, poskusite kasneje</string>
   <string name="authorize_title">Avtorizacija</string>
@@ -796,7 +796,7 @@ ki ste ga prejeli v vaš poštni predal
   <string name="phone_activated">%s aktivirano</string>
   <string name="phone_num_use_for">Telefonska številka se uporablja za:</string>
   <string name="photoPickerNotFoundText">Ni dostopnih fotografij.</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
      <string name="provision_back">Nazaj</string>
      <string name="provision_next">Naprej</string>

@@ -44,7 +44,7 @@ bo to opravilo samodejno dodano v Drugi prostor."</string>
   <string name="air_space_exit">Izhod iz prostora</string>
   <string name="air_space_setting">Nastavitve prostora</string>
   <string name="airspace_users_full">"Delovnega prostora ne morem več izdelati"</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="appData">Nameščene aplikacije</string>
   <string name="app_name">Komponenta varnosti jedra</string>
   <string name="back">Nazaj</string>
@@ -432,7 +432,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="please_diff_finger_print">"Prepričajte se da uporabljate različne prstne odtise v Prvem prostoru in Drugem prostoru.
   
   Drugače ne boste mogli v Drugi prostor iz zakl. zaslona."</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="privacyContactsSummary">Pokaži zasebne nastavitve v Drugem prostoru</string>
   <string name="privacyContactsTitle">Zasebna sporočila in stiki</string>

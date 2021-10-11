@@ -83,7 +83,7 @@
      <string name="add_to_playlist">Dodaj v čakalno vrsto</string>
   <string name="add_to_playlist_successful">Uspešno dodano</string>
   <string name="added_next_play">Dodano za naslednje predvajanje</string>
-     <string name="afternoon">PM</string>
+     <string name="afternoon">pop.</string>
   <string name="agreement_desc">Pogoji uporabe (obvezno)</string>
   <string name="alaka_required">Morate plačati za poslušanje te pesmi</string>
   <string name="alarm_clock_ringtones_successful">Alarm uspešno nastavljen</string>
@@ -118,7 +118,7 @@
   <string name="already_download_btn">Prenos…</string>
   <string name="already_favorited">Že označeno</string>
   <string name="always_use_metered">Zmeraj uporabi mobilne podatke</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="android_sdk_too_low">"Vaša Android verzija je zastarela, aplikacija Glasba se ne more posodobiti. Posodobite sistem Android."</string>
   <string name="apk_filter">APK</string>
      <string name="app_description_content">"Glasba je sistemska aplikacija, ki vsebuje zvočni predvajalnik in omogoča upravljanje zvočnih datotek. Če odstranite bližnjico na začetnem zaslonu, boste lahko še vedno predvajali zvočne datoteke."</string>
@@ -265,6 +265,7 @@
      <string name="columbus_player_speed_title">Preskočim Video?</string>
      <string name="columbus_player_speed_video">Preskoči VIDEO</string>
      <string name="columbus_player_unit_sec">sek</string>
+     <string name="columbus_skip_ad">Preskoči</string>
   <string name="com_facebook_device_auth_instructions">Obiščite &lt;b&gt;facebook.com/device&lt;/b&gt; in vnesite zgoraj navedeno kodo.</string>
   <string name="com_facebook_image_download_unknown_error">Nepričakovana napaka pri prenosu slike.</string>
   <string name="com_facebook_internet_permission_error_message">Prijava za WebView zahteva dovoljenje za spletni dostop</string>
@@ -513,7 +514,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="downloading_pause_apk">Zaustavljeno… Nadaljujte prenos v plošči obvestil.</string>
   <string name="downloads_operating">Obdelava…</string>
      <string name="due_date">Rok: %s</string>
-     <string name="early_morning">AM</string>
+     <string name="early_morning">Jutro</string>
   <string name="edit_playlist_info">Uredi informacije o seznamu predvajanja</string>
   <string name="editmode_menu_delete">Izbriši</string>
   <string name="editmode_menu_share">Deli</string>
@@ -561,7 +562,7 @@ predvsem nudi Ultimate Inc."</string>
      <string name="error_not_support">Ni podprto</string>
   <string name="error_title">"Ne morem sinhronizirati z Mi Računom"</string>
   <string name="error_unauthorized">Sinhronizacija je bila izključena zaradi preveč poskusov prijave.</string>
-     <string name="evening">PM</string>
+     <string name="evening">Večer</string>
   <string name="exo_controls_fastforward_description">Hitro naprej</string>
   <string name="exo_controls_fullscreen_description">Cel zaslon</string>
   <string name="exo_controls_hide">Skrij kontrolnike predvajalnika</string>
@@ -915,7 +916,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="metered_serious_alert_msg_with_data">Preostalo vam je %s mobilnih podakov. Uporabim mobilne podatke za predvajanje pesmi?</string>
   <string name="metered_serious_allow">Vseeno predvajaj</string>
   <string name="middle_sound_quality">Standardno</string>
-     <string name="midnight">AM</string>
+     <string name="midnight">Polnoč</string>
   <string name="milink_unavaliable_please_update">Mi Link opravilo ni na voljo. Morate posodobiti MIUI.</string>
   <string name="min_sleep_time">%d</string>
   <string name="missing_title">&lt;Neznano&gt;</string>
@@ -998,7 +999,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="more_settings_summary">Nastavitve za prenos, stanje mirovanja, mobilne podatke itd.</string>
   <string name="more_share">Skupna raba</string>
   <string name="more_splendid_contents">Več</string>
-     <string name="morning">AM</string>
+     <string name="morning">Polnoč</string>
      <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
      <string name="mtrl_exceed_max_badge_number_content_description">Več kot %1$d novih obvestil</string>
@@ -1062,7 +1063,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="network_traffic">Uporaba podatkov</string>
   <string name="next_time">Naslednjič</string>
   <string name="next_to_play">Naprej</string>
-     <string name="night">PM</string>
+     <string name="night">Noč</string>
   <string name="no_album_info">Ni podrobnosti o albumu</string>
   <string name="no_artist_info">Ni podrobnosti o izvajalcu</string>
   <string name="no_downloads">Ni prenosa</string>
@@ -1084,7 +1085,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="no_song_subtitle">Potopite se v zvok</string>
   <string name="no_song_title">Mi Glasba</string>
   <string name="no_system_cropper_find">"Sistem nima orodja za obrezovanje slik"</string>
-     <string name="noon">PM</string>
+     <string name="noon">Poldne</string>
   <string name="normal_quality">Dobro</string>
   <string name="not_login">Niste vpisani</string>
   <string name="not_now">Ne zdaj</string>
@@ -1222,7 +1223,7 @@ predvsem nudi Ultimate Inc."</string>
   <string name="please_download_first">Skladbo morate najprej prenesti preden jo lahko uporabite za zvonjenje</string>
   <string name="please_search_or_select">Išči ali izberi polje</string>
   <string name="please_select_song">Izberite pesem</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
   <string name="power_save_mode_dialog_msg">Naprava je v varčnem načinu dela. Zaženem prenos?</string>
   <string name="pref_download_settings_title">Omejitev velikosti prenosa</string>
   <string name="pref_summary_any_bytes_popup">Vedno počakaj WiFi povezavo za prenos datotek</string>

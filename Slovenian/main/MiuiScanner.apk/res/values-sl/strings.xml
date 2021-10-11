@@ -53,7 +53,7 @@
   <string name="album_view">Izberi sliko</string>
   <string name="allow_check_website_security">Obvesti me o spletnih varnostnih pregledih</string>
   <string name="always">Vedno</string>
-     <string name="am">AM</string>
+     <string name="am">dop.</string>
   <string name="amazon_assistant_shopping_title">Išči na Amazonu</string>
   <string name="app_description_content">Skener lahko skenira QR kode, dokumente, vizitke in še mnogo drugega.</string>
   <string name="app_description_title">O Skenerju</string>
@@ -543,7 +543,7 @@
   <string name="plant_title">Skenirajte rastlino ki jo želite identificirati</string>
   <string name="please_select_an_item">Izberite stvari</string>
   <string name="please_try_again_later">Počakajte minuto-dve in poskusite ponovno</string>
-     <string name="pm">PM</string>
+     <string name="pm">pop.</string>
      <string name="pref_camera_jpeg_quality_fine">fino</string>
      <string name="pref_camera_jpeg_quality_normal">normalno</string>
      <string name="pref_camera_jpeg_quality_superfine">superfino</string>
