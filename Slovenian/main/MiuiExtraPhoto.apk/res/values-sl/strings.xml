@@ -35,6 +35,7 @@
      <string name="close">Zapri</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
+     <string name="doc_photo_adjust_section_talkback">Obreži in uredi</string>
   <string name="doc_photo_adjust_section_title">Povleci za prilagoditev</string>
   <string name="doc_photo_cancel">Prekliči</string>
   <string name="doc_photo_confirm">Izhod</string>

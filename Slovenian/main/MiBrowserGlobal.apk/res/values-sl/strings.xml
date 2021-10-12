@@ -304,6 +304,7 @@ Preklopite za ustavitev sinhronizacije."</string>
     <string name="collect_video">Zberi videoposnetke</string>
     <string name="collection_articles">Članki</string>
     <string name="collection_videos">Videoposnetki</string>
+     <string name="columbus_ad_flag_text">Oglasi</string>
     <string name="columbus_player_close_desc">Izgubili boste nagrado</string>
     <string name="columbus_player_close_resume">NADALJUJ VIDEO</string>
     <string name="columbus_player_close_title">Zaprem Video?</string>
@@ -312,6 +313,8 @@ Preklopite za ustavitev sinhronizacije."</string>
     <string name="columbus_player_learn_more">Več</string>
      <string name="columbus_player_speed_title">Preskočim Video?</string>
      <string name="columbus_player_speed_video">Preskoči VIDEO</string>
+     <string name="columbus_player_unit_sec">sek</string>
+     <string name="columbus_skip_ad">Preskoči</string>
     <string name="com_facebook_device_auth_instructions">Obiščite &lt;b>facebook.com/device&lt;/b> in vnesite zgoraj prikazano kodo.</string>
     <string name="com_facebook_image_download_unknown_error">Nepričakovana napaka med prenosom slike.</string>
     <string name="com_facebook_internet_permission_error_message">Za prijavo v WebView je potrebno dovoljenje za splet</string>
@@ -1787,7 +1790,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
     <string name="regid">RegId(Kliknite Za izvoz)</string>
     <string name="release_to_refresh">Spustite za osvežitev</string>
     <string name="remember_passwords_confirm_message">Izklop te storitve lahko vpliva na porabo.</string>
-     <string name="remote_config">Remote Config(Klikni za izvoz)</string>
+     <string name="remote_config">Oddaljena konfiguracija(Klikni za izvoz)</string>
     <string name="remove_bookmark">Odstrani zaznamek</string>
     <string name="remove_bookmark_group">Izbriši skupino</string>
     <string name="remove_from_bookmarks">Odstrani iz zaznamkov</string>

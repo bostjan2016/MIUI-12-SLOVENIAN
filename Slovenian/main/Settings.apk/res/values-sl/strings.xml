@@ -1516,6 +1516,7 @@ v časovnem obdobju ^2"</string>
     <string name="biometrics_unlock_skip_biometrics">Nadaljujte brez obraza ali prstnega odtisa</string>
     <string name="biometrics_unlock_title">Telefon lahko odklenete z obrazom ali prstnim odtisom. Zaradi varnosti ta možnost zahteva uporabo nadomestnega načina zaklepanja zaslona.</string>
      <string name="blank_screen_no_device">Ni naprav</string>
+     <string name="blank_screen_no_record">Tu še ni ničesar</string>
   <string name="ble_scan_notify_text">Zaradi večje natančnosti ugotavljanja lokacije lahko sistemske aplikacije in storitve še vedno zaznajo naprave Bluetooth. To lahko spremenite v LINK_BEGINnastavitvah iskanjaLINK_END.</string>
      <string name="blob_expires_text">Poteče %s</string>
      <string name="blob_id_text">ID deljenih podatkov: %d</string>
@@ -1962,6 +1963,8 @@ Dokler bo povezava vzpostavljena, bo naprava %2$s prejemala vse klice na števil
     <string name="bluetooth_unpair_dialog_title">Želite, da vaša naprava pozabi seznanjeno napravo?</string>
     <string name="bluetooth_untether_blank">Spletna povezava z napravo %1$s bo prekinjena.</string>
     <string name="bluetooth_untethered_unpair_dialog_body">Naprava %1$s ne bo več seznanjena z nobeno napravo, povezano s tem računom Google</string>
+     <string name="bluetooth_version">Bluetooth različica</string>
+     <string name="bluetooth_version_message">Posodobi</string>
     <string name="bluetooth_visibility_timeout">Časovna omejitev vidnosti</string>
   <string name="bluetooth_wake">Zbudi z Bluetooth audio</string>
     <string name="boot_sounds_title">Zvoki ob zagonu</string>
@@ -3979,8 +3982,12 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="face_data_manage_unlock_slide_msg">Zamenjaj bližnjice potega z odklepom z obrazom</string>
   <string name="face_data_manage_unlock_title">Odkleni z obrazom</string>
   <string name="face_data_siggesstion_next">Naprej</string>
+     <string name="face_data_siggesstion_next_cn">V redu</string>
   <string name="face_data_siggesstion_next_time">Naprej (%ds)</string>
+     <string name="face_data_siggesstion_next_time_cn">V redu (%ds)</string>
   <string name="face_data_suggesstion_first">Varnostni problemi: Odklepanje obraza je manj varno kot PIN, geslo ali vzorec. Vaša naprava bo morda odklenjena s vašo fotografijo, pa tudi z osebami ali predmeti podobnega videza.</string>
+     <string name="face_data_suggesstion_first_cn">"Če želite uporabljati Odklepanje z obrazom, moramo zbrati vaše podatke o obrazu. Podatki o obrazu bodo lokalno shranjeni v tej napravi. Če ga želite izbrisati, v nastavitvah poiščite \"Odklepanje z obrazom\" in nato izberite Odklepanje z obrazom > Podatki o obrazu.
+Odklepanje z obrazom je manj varno kot koda PIN, geslo ali vzorec. Vašo napravo lahko odklenejo vaša fotografija, pa tudi ljudje ali predmeti s podobnim videzom."</string>
   <string name="face_data_suggesstion_second">"Prepričajte se, da vsi deli obraza niso pokriti z predmeti in so dobro vidni. In vaš obraz naj bo dobro osvetljen.."</string>
     <string name="face_intro_error_max">Dodali ste največje dovoljeno število obrazov</string>
     <string name="face_intro_error_unknown">Obrazov ni več mogoče dodati</string>
@@ -4096,6 +4103,10 @@ Za več informacij se obrnite na ponudnika obročnega odplačila."</string>
   <string name="find_my_device_summary">To zahteva prijavo v Mi Račun</string>
   <string name="findlost_contact">Obnovi stike</string>
   <string name="findlost_contact_online">Obnovi stike iz Mi Clouda</string>
+     <string name="finger_add_user_info_dialog_cancel">Prekliči</string>
+     <string name="finger_add_user_info_dialog_message">"Če želite uporabljati odklepanje prstnih odtisov in plačevati s prstnimi odtisi, moramo zbrati vaš prstni odtis. Prstni odtis bo shranjen lokalno v tej napravi. Če ga želite izbrisati, v nastavitvah poiščite \"Odklepanje s prstnim odtisom\" in nato izberite Odklepanje s prstnim odtisom> Prstni odtis. Če se s tem ne strinjate, te storitve ne boste mogli uporabljati."</string>
+     <string name="finger_add_user_info_dialog_next">Strinjam se</string>
+     <string name="finger_add_user_info_dialog_title">Pozor</string>
   <string name="fingerprint_add_max">Dodate lahko največ toliko prstnih odtisov: %d</string>
   <string name="fingerprint_add_title">Dodaj prstni odtis</string>
   <string name="fingerprint_and_password_entrance_title">Zakl. zaslona &amp; Prstni odtis</string>
@@ -5738,6 +5749,9 @@ kot PIN za Prvi prostor"</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Preveč napačnih poskusov!</string>
   <string name="lockpattern_tutorial_cancel_label">Prekliči</string>
   <string name="lockpattern_tutorial_continue_label">Naprej</string>
+     <string name="lockscreen_access_pattern_cleared">Vzorec izbrisan</string>
+     <string name="lockscreen_access_pattern_detected">Vzorec dokončan</string>
+     <string name="lockscreen_access_pattern_start">Vzorec se začenja</string>
     <string name="lockscreen_bypass_summary">Po odklepanju z obrazom se odpre nazadnje uporabljeni zaslon</string>
     <string name="lockscreen_bypass_title">Preskok zaklenjenega zaslona</string>
   <string name="lockscreen_glogin_checking_password">Preverjanje…</string>
@@ -6256,6 +6270,7 @@ Tega ne morete povrniti!"</string>
   <string name="miui_experience_optimization">Vključi MIUI optimizacijo</string>
      <string name="miui_face_enroll_risk_warning_btn_cancel">Prekliči</string>
      <string name="miui_face_enroll_risk_warning_title_text">Pozor</string>
+     <string name="miui_face_enroll_risk_warning_title_text_cn">Izjava o varnosti</string>
   <string name="miui_face_enroll_success">"Zdaj lahko to napravo odklenete s svojim obrazom.
 Nadaljujte k dodatnim nastavitvam."</string>
   <string name="miui_ime_xiaoai_voice_hint">Hitrejši in bolj praktičen način vnosa besedila</string>

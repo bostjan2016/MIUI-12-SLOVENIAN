@@ -134,6 +134,9 @@
   <string name="binded">Dodan</string>
      <string name="binded_description" formatted="false">"%s je povezan na vaš Mi Računu.
 Vaš profil je bil posodobljen z informacijami iz vašega %s Računa ."</string>
+     <string name="button_agree">Strinjam se</string>
+     <string name="button_close">Zapri</string>
+     <string name="button_refuse">"Ne strinjam se"</string>
   <string name="button_unbind">Prekini povezavo</string>
      <string name="cancel">Prekliči</string>
   <string name="change_activate_email">Zamenjaj naslov e-pošte</string>
@@ -790,7 +793,9 @@ ki ste ga prejeli v vaš poštni predal
   <string name="permission_group_phone">Telefon</string>
   <string name="permission_group_sms">SMS</string>
   <string name="permission_group_storage">Shramba</string>
+     <string name="permission_instructions">Uporaba dovoljenj</string>
      <string name="permission_read_sms">Dostop do sporočil</string>
+     <string name="permission_withdraw">Umakni</string>
      <string name="permission_write_external_storage">Dostop in shranjevanje stvari</string>
      <string name="personal_info_desc">Fotografija, vzdevek in drugo</string>
   <string name="phone_activated">%s aktivirano</string>
@@ -798,6 +803,10 @@ ki ste ga prejeli v vaš poštni predal
   <string name="photoPickerNotFoundText">Ni dostopnih fotografij.</string>
      <string name="pm">pop.</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
+     <string name="privacy_policy_reject_confirm_msg">"Računa Mi ne boste mogli še naprej uporabljati, če se ne strinjate z novo različico njegove politike zasebnosti. Se strinjate se s posodobljenimi Mi račun &lt;a href=%1$s>Pravila o zasebnosti&lt;/a> zdaj?"</string>
+     <string name="privacy_policy_reject_confirm_title">"Računa Mi ni mogoče uporabiti"</string>
+     <string name="privacy_policy_update_msg">Pravila o zasebnosti računa Mi so bila posodobljena:&lt;br/>%1$s&lt;br/>Preberite in se strinjajte z novo različico &lt;a href=%2$s>&lt;u>Pravila o zasebnosti&lt;/u>&lt;/a> preden nadaljujete.</string>
+     <string name="privacy_policy_update_title">Posodobljena Pravila o zasebnosti</string>
      <string name="provision_back">Nazaj</string>
      <string name="provision_next">Naprej</string>
      <string name="provision_skip_underline">Preskoči</string>
@@ -831,6 +840,9 @@ ki ste ga prejeli v vaš poštni predal
   <string name="restart_action">Začni znova</string>
   <string name="restart_phone_bind_message">Potrebno je nekaj časa za prejem SMS sporočila. Vseeno začnem znova?</string>
   <string name="restart_phone_bind_title">Spremeni telefon za obnovitev</string>
+     <string name="revoke_privacy_policy">Preklic privolitve</string>
+     <string name="revoke_privacy_policy_instructions">"Če nadaljujete, boste umaknili svoje soglasje k pravilniku o zasebnosti računa Mi. Ne bomo več zbirali vaših osebnih podatkov. Osebni podatki, ki so že zbrani in shranjeni, bodo v določenem roku izbrisani v skladu z veljavnimi zakoni in drugimi predpisi, razen če ni zahtevano drugače. Ker Mi Račun ponuja svoje storitve na podlagi zbiranja potrebnih osebnih podatkov, bo vaš preklic privolitve obravnavan kot zavrnitev sprejema storitev Mi Računa. Umaknem soglasje?"</string>
+     <string name="revoke_privacy_policy_title">Preklic privolitve</string>
   <string name="risky_pwd_not_allow">"Novo geslo ni varno. Nastavite drugega."</string>
   <string name="same_new_and_old_pwd">Novo geslo se mora razlikovati od starega</string>
     <string name="saturday">Sobota</string>
@@ -949,8 +961,16 @@ ki ste ga prejeli v vaš poštni predal
   <string name="user_avatar_uploading">Samo trenutek…</string>
      <string name="user_instruction_all_purpose">Dobrodošli v računu Mi! S svojim računom lahko dostopate do storitev, ki jih ponujajo Xiaomi in z njim povezana podjetja, kot so Mi.com, Xiaomi Cloud in GetApps. Lahko dobite Mi Coins, kupite virtualno blago in uživate v storitvah z dodano vrednostjo, vključno z igrami, temami in e-knjigami.</string>
      <string name="user_instruction_tip">Če se želite prijaviti, preberite in se strinjajte s pravili in pogoji.</string>
-     <string name="user_license_with_3rd_app"><Data>"S prijavo s svojim računom Mi potrjujem, da sem prebral in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in Mi računove &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_license_with_3rd_app"><Data>"S prijavo s svojim računom Mi potrjujem, da sem prebral in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_license_with_3rd_app_mobile"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%5$s>Pravila in pogoji China Mobile storitve preverjanja&lt;/a>."</Data></string>
+     <string name="user_license_with_3rd_app_no_operator"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_license_with_3rd_app_telcom"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%5$s>Pravila in pogoji eSurfing račun storitve preverjanja&lt;/a>."</Data></string>
+     <string name="user_license_with_3rd_app_unicom"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%5$s>Pravila in pogoji China Unicom storitve preverjanja&lt;/a>."</Data></string>
+     <string name="user_license_with_out_3rd_app_no_operator"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> and &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>."</Data></string>
      <string name="user_license_without_3rd_app"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_license_without_3rd_mobile"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pravila in pogoji China Mobile storitve preverjanja&lt;/a>."</Data></string>
+     <string name="user_license_without_3rd_telcom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pravila in pogoji eSurfing račun storitve preverjanja&lt;/a>."</Data></string>
+     <string name="user_license_without_3rd_unicom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pravila in pogoji China Unicom storitve preverjanja&lt;/a>."</Data></string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
   <string name="verified_apps">Preverjene aplikacije</string>
