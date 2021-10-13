@@ -40,6 +40,8 @@
   <string name="add_short_cut">Dodaj</string>
   <string name="added_successfully">Uspešno dodano</string>
      <string name="afternoon">Večer</string>
+     <string name="agree_and_continue">Strinjam se</string>
+     <string name="agreement_and_privacy_description">"Preberite in se strinjajte z Xiaomi Cloud &lt;a href=%1$s>&lt;u>Pravila o zasebnosti&lt;/u>&lt;/a> in &lt;a href=%2$s>&lt;u>Pogoji uporabe;/u>&lt;/a> preden nadaljujete."</string>
   <string name="alert_notif_title_dspt">Ni sinhronizirano</string>
   <string name="all_sync_item_open">Vse stvari so vključene</string>
      <string name="am">dop.</string>
@@ -51,7 +53,10 @@
   <string name="apple_cloud_price">Okoli RMB 72 na leto</string>
   <string name="bad_authentication">Nepravilen račun ali geslo</string>
   <string name="btn_return">Nazaj</string>
+     <string name="button_agree">Strinjam se</string>
   <string name="button_cancel">Prekliči</string>
+     <string name="button_quit">Izhod</string>
+     <string name="button_revoke">Preklic</string>
   <string name="buy_more_space_b_class">"Prijavite se na mi.com/micloud da dobite več prostora za shranjevanje. 
 Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string>
   <string name="buy_more_space_c_class">"To opravilo zahteva Mainland China bančno kartico.
@@ -144,6 +149,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="dialog_storage_full_title">Cloud shramba je polna</string>
      <string name="dialog_storage_low_content">Nadgradite svoj načrt shranjevanja v oblaku, da boste lahko normalno sinhronizirali stvari.</string>
      <string name="dialog_storage_low_title">Premalo prostora v oblaku</string>
+     <string name="dialog_title_prompt">Pozor</string>
   <string name="disable_find_device_error">"Ne morem izklopiti opravila Najdi napravo. %1$s"</string>
   <string name="disable_find_device_success">"Najdi napravo" je izključeno.</string>
   <string name="do_not_merge">Prekliči</string>
@@ -210,6 +216,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="find_device_pref_alert_positive">V redu</string>
   <string name="find_device_pref_alert_title">Zapomnite si svoj ID Mi Računa in geslo</string>
   <string name="find_device_pref_initializing">Zagon…</string>
+     <string name="find_device_privacy_policy_update_msg">Posodobljen je bil pravilnik o zasebnosti Poišči napravo:&lt;br/>%1$s&lt;br/>Preberite in se strinjajte z novo različico &lt;a href=%2$s>&lt;u>Pravila o zasebnosti&lt;/u>&lt;/a> preden nadaljujete.</string>
   <string name="find_device_reading_status">Branje statusa…</string>
   <string name="find_device_reading_status_failure">"Ne morem prebrati statusa."</string>
   <string name="find_device_send_sms_alert">"Če zamenjate SIM kartico bo poslan še en SMS za ponovno aktiviranje storitve."</string>
@@ -222,6 +229,12 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="find_device_status_title_pad">Najdi napravo</string>
   <string name="find_device_status_title_phone">Najdi napravo</string>
   <string name="find_device_success_title">Najdi napravo</string>
+     <string name="find_permission_location_summary">Za lociranje naprave</string>
+     <string name="find_permission_location_title">Dostop do lokacije</string>
+     <string name="find_permission_phone_summary">"Za dostop do telefonske številke za iskanje te naprave, ko ni povezana s spletom"</string>
+     <string name="find_permission_phone_title">Dostop do informacij o napravi</string>
+     <string name="find_permission_sms_summary">"Za lociranje te naprave, ko ni povezana s spletom"</string>
+     <string name="find_permission_sms_title">Pošiljanje SMS</string>
   <string name="finddevice_miservice_notification_content">"Zaklenite svojo napravo na daljavo če jo izgubite"</string>
   <string name="finddevice_miservice_notification_title">Vključi Najdi napravo</string>
      <string name="fmt_date">D</string>
@@ -863,6 +876,7 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="pay_info_dialog_confirm_to_pay">Plačaj %s</string>
   <string name="pay_info_dialog_mibi_balance_prefix">Uporabi preostale Mi kredite: %s</string>
   <string name="pay_info_dialog_title">Izberite način plačila</string>
+     <string name="permission_management">Podrobnosti o dovoljenjih</string>
   <string name="phone_number_may_required_dspt_provision">"Ta storitev lahko zahteva vašo telefonsko številko."</string>
   <string name="phone_number_required_dspt_provision">"Ta storitev zahteva vašo telefonsko številko."</string>
   <string name="photo">Fotografije</string>
@@ -914,6 +928,12 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
      <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_domestic_charge_hint">"Dobrodošli v Najdi napravo! S to storitvijo lahko poiščete, zaklenete ali izbrišete podatke v napravi, če jo izgubite. Obisk &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> omogoča iskanje, zaklepanje ali ponastavitev.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domač plačljiv SMS&lt;/b>&lt;/font> bo samodejno poslan za vklop te storitve. Ko zamenjate kartici SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>bo domač plačljiv SMS&lt;/b>&lt;/font> samodejno poslan za obnovitev.&lt;br/>Vse pristojbine za SMS, ki jih ustvarijo zgoraj omenjena dejanja, bo pobral vaš operater. Xiaomi vam teh sporočil ne bo zaračunal.&lt;br />&lt;br />Vaše osebne podatke bomo zaščitili v skladu z ustreznimi zakoni, predpisi in politiko zasebnosti.&lt;br />Da lahko ta storitev normalno deluje, se mora za zbiranje vaših osebnih podatkov povezati s spletom in zahtevati naslednja dovoljenja:&lt;br />• Dostop do informacij o napravi:&lt;br />Za identifikacijo vaše naprave&lt;br />• Lokacija:&lt;br />Za iskanje naprave in preklop v izgubljeni način&lt;br />Če se ne strinjate s temi dovoljenji ali če delite in naložite svoje osebne podatke, te storitve ne boste mogli uporabljati. V takih primerih lahko v nastavitvah odstranite to aplikacijo, se odjavite ali omejite dovoljenja v Nastavitvah.&lt;br />Preberite in se strinjajte z &lt;a href=%1$s>&lt;u>Pogoji uporabe&lt;/u>&lt;/a> in &lt;a href=%2$s>&lt;u>Pravila o zasebnosti&lt;/u>&lt;/a> pred uporabo&lt;/u>&lt;/a>.&lt;br />"</string>
      <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_inter_charge_hint">"Welcome to Find device! You can use this service to locate, lock, or erase data on your device if it's lost. Visiting &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> allows you to locate, lock, or reset it.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>international plačljiv SMS&lt;/b>&lt;/font> bo samodejno poslan za vklop te storitve. Ko zamenjate kartici SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>bo mednarodni SMS&lt;/b>&lt;/font> samodejno poslan za obnovitev.&lt;br/>Vse pristojbine za SMS, ki jih ustvarijo zgoraj omenjena dejanja, bo pobral vaš operater. Xiaomi vam teh sporočil ne bo zaračunal.&lt;br />&lt;br />Vaše osebne podatke bomo zaščitili v skladu z ustreznimi zakoni, predpisi in politiko zasebnosti.&lt;br />Da lahko ta storitev normalno deluje, se mora za zbiranje vaših osebnih podatkov povezati s spletom in zahtevati naslednja dovoljenja:&lt;br />• Dostop do informacij o napravi:&lt;br />Za identifikacijo vaše naprave&lt;br />• Lokacija:&lt;br />Za iskanje naprave in preklop v izgubljeni način&lt;br />Če se ne strinjate s temi dovoljenji ali če delite in naložite svoje osebne podatke, te storitve ne boste mogli uporabljati. V takih primerih lahko v nastavitvah odstranite to aplikacijo, se odjavite ali omejite dovoljenja v Nastavitvah.&lt;br />Preberite in se strinjajte z &lt;a href=%1$s>&lt;u>Pogoji uporabe&lt;/u>&lt;/a> in &lt;a href=%2$s>&lt;u>Pravila o zasebnosti&lt;/u>&lt;/a> pred uporabo&lt;/u>&lt;/a>.&lt;br />"</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
+     <string name="privacy_policy_reject_confirm_msg">"Xiaomi Clouda ne boste mogli še naprej uporabljati, če se ne strinjate z novo različico &lt;a href=%1$s>&lt;u>Pravila o zasebnosti&lt;/u>&lt;/a>. Se strinjate z posodobljenim?"</string>
+     <string name="privacy_policy_reject_confirm_title">Pozor</string>
+     <string name="privacy_policy_revoked_msg">Soglasje k pravilniku o zasebnosti podjetja Xiaomi Cloud je bilo za ta račun umaknjeno. Poskusite uporabiti drug račun.</string>
+     <string name="privacy_policy_update_msg">Politika zasebnosti Xiaomi Cloud je bila posodobljena:&lt;br/>%1$s&lt;br/>Preberite in se strinjajte z novo različico &lt;a href=%2$s>&lt;u>Pravila o zasebnosti&lt;/u>&lt;/a> preden nadaljujete.</string>
+     <string name="privacy_policy_update_title">Posodobljena Pravila o zasebnosti</string>
+     <string name="privacy_settings">Zasebnost</string>
      <string name="provision_back">Nazaj</string>
      <string name="provision_next">Naprej</string>
      <string name="provision_skip_underline">Preskoči</string>
@@ -932,6 +952,12 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
   <string name="restoreSync">Sinhroniziraj zdaj</string>
      <string name="retain_data_high_quality_photo_waring_message">Ko se odjavite, bodo kakovostne kopije vaših fotografij in videoposnetkov izbrisane iz Galerije. Ustrezne izvirne datoteke bodo še vedno shranjene v oblaku. Pred odjavo lahko prenesete tudi izvirne datoteke.</string>
      <string name="retain_data_high_quality_photo_waring_title">"Visokokakovostne slike ne bodo na voljo"</string>
+     <string name="revoke_block_by_find_device">"Če prekličete soglasje, bo tudi izklopljeno Najdi napravo. Po nadaljevanju boste morali potrditi geslo."</string>
+     <string name="revoke_privacy_agreement_msg">"Če nadaljujete, boste preklicali privolitev v Pravila o zasebnosti Xiaomi Cloud. Osebni podatki, ki so že zbrani in shranjeni, bodo v določenem roku izbrisani v skladu z veljavnimi zakoni in drugimi predpisi, razen če ni zahtevano drugače. Ker Xiaomi Cloud ponuja svoje storitve na podlagi zbiranja potrebnih osebnih podatkov, bo vaš preklic privolitve obravnavan kot zavrnitev sprejema storitev Xiaomi Cloud. Umaknem soglasje zdaj?"</string>
+     <string name="revoke_privacy_confirm">Umakni</string>
+     <string name="revoke_privacy_content">"Če nadaljujete, boste umaknili privolitev v &lt;a href=app://com.miui.cloudservice.gdpr.license>Pravila o zasebnosti&lt;/a> Najdi napravo. Osebni podatki, ki so že zbrani in shranjeni, bodo v določenem roku izbrisani v skladu z veljavnimi zakoni in drugimi predpisi, razen če ni zahtevano drugače. Ker Najdi napravo ponuja svoje storitve na podlagi zbiranja potrebnih osebnih podatkov, se vaš umik privolitve šteje kot zavrnitev sprejema storitev Najdi napravo. Umaknem soglasje zdaj?"</string>
+     <string name="revoke_privacy_failed">"Soglasja ni bilo mogoče preklicati"</string>
+     <string name="revoke_privacy_title">Preklic soglasja</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>

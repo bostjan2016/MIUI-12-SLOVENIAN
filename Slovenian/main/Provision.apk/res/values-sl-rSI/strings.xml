@@ -27,14 +27,18 @@
     <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
+     <string name="access_non_personal_data">Če iz svoje naprave umaknete privolitev za dostop in uporabo neosebnih podatkov, bodo storitve Wallpaper Carousel deaktivirane, vsi zbrani podatki pa bodo izbrisani v roku, določenem v veljavnih zakonih in drugih predpisih..</string>
   <string name="accessibility_enabled">Dostopnost je omogočena.</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Večer</string>
   <string name="agree">Strinjam se</string>
   <string name="agree_and_next">Strinjam se</string>
+     <string name="agree_cookie">Sprejmi piškotke</string>
   <string name="agree_terms">"Strinjam se s Pogoji uporabe in Pravili o zasebnosti"</string>
   <string name="agree_terms_input_method_facemoji">"Prebral sem in se strinjam z Facemoji Pravila o zasebnosti."</string>
   <string name="agree_terms_input_method_kika">"Prebral sem in se strinjam z Kika Pravila o zasebnosti."</string>
+     <string name="agreement_declare_use_network_and_location_china">"Poleg tega se bodo naslednje storitve povezale z omrežjem in dostopale do vaše lokacije: "</string>
+     <string name="agreement_declare_use_network_china">se bo povezal z omrežjem.</string>
   <string name="ai_button_desc">AI tipka vam omogoča zagon Mi AI in uporabo Mi AI bližnjic.</string>
   <string name="ai_button_double_press">Dvakrat pritisnite</string>
   <string name="ai_button_double_press_desc">Nastavite opravila Mi AI</string>
@@ -73,6 +77,9 @@
   <string name="content_description_start">Start</string>
   <string name="content_introduction">Center vsebine poenoti vsebino in storitve z več kanali. Tu lahko berete članke, gledate videoposnetke, pregledujete vsakodnevno predstavljene stvari in prejemate priporočila za vsebino.</string>
   <string name="continue_to_enable_accessibility">Pridržite z dvema prstoma da omogočite dostopnost.</string>
+     <string name="cookies_content_one">"Ko se dotaknete slik in zgodb v vrtiljaku za ozadje, bomo v brskalniku odprli njihove polne različice. Taboola, naš zaupanja vreden ponudnik vsebine, lahko nato priporoči dodatno vsebino in oglase, ki so prilagojeni vašim interesom. Če se strinjate z aktiviranjem te storitve, bo Taboola v vašo napravo prek brskalnika namestila piškotke, kot je opisano v Taboola's &lt;a href =%1$s>Pravila o piškotkih&lt;/a>. Če zavrnete uporabo piškotkov, se bodo elementi Wallpaper Carousel še naprej pojavljali na zaklenjenem zaslonu, v brskalniku pa se bodo odprle celotne zgodbe, vendar dodatna priporočila za vas ne bodo posebej izbrana. Nastavitve lahko kadar koli spremenite v nastavitvah."</string>
+     <string name="cookies_content_two">"Odločite se, ali želite, da naši zaupanja vredni ponudniki vsebin uporabljajo piškotke za prilagajanje priporočil vsebine in oglasov glede na vaša zanimanja."</string>
+     <string name="cookies_title">Prilagojena vsebina in piškotki</string>
      <string name="copy">Kopiraj</string>
   <string name="data_traffic_enable_dialog_title">"Če niste povezani z WiFi bo naprava uporabila mobilne podatke. To lahko povzroči stroške."</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
@@ -368,11 +375,14 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
   <string name="pref_title_data_slot">Izbrana SIM kartica za podatke</string>
   <string name="pref_title_voice_slot">Izbrana SIM kartica za klice</string>
      <string name="preference_copied">\"%1$s\" kopiran v odložišče.</string>
+     <string name="privacy_content_one">"Priporočila za Wallpaper Carousel poganja Taboola, naš zaupanja vreden ponudnik vsebine tretjih oseb. Za zagotavljanje te vsebine mora Taboola dostopati in shranjevati neosebne podatke iz vaše naprave, vključno z jezikom vašega sistema in vrsto brskalnika. Kako Taboola uporablja zbrane podatke, se lahko naučite v Taboola &lt;a href =%1$s>Pravila o zasebnosti&lt;/a> in &lt;a href =%2$s>Pogoji uporabe&lt;/a>. Preden nadaljujete, preberite in se strinjajte s pravili in pogoji, navedenimi v teh dokumentih. Če se ne strinjate, bodo storitve Wallpaper Carousel deaktivirane."</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
      <string name="privacy_provision_more">Izvedite več o zaščiti zasebnosti</string>
      <string name="privacy_provision_summary">Zaščita zasebnosti je obveznost zasnove naših izdelkov</string>
      <string name="privacy_provision_text">Zavezani smo k spoštovanju in zaščiti vaše zasebnosti. Z dajanjem prednosti raziskavam in razvoju na področju informacijske varnosti si Xiaomi nenehno prizadeva za izboljšanje metod, praks in tehničnih rešitev, ki ščitijo vaše podatke. S svojimi partnerji delimo tudi svoje najnovejše dosežke, da zagotovimo vašo zasebnost na vseh področjih.</string>
      <string name="privacy_provision_title">Zasebnost</string>
+     <string name="privacy_refuse">"Ne strinjam se"</string>
+     <string name="privacy_title">Pogoji &amp; Pravila o zasebnosti</string>
   <string name="protect_persoanl_info_statement">Zaščitili bomo vaše osebne podatke v skladu z zakoni, predpisi in pravili o zasebnosti.</string>
      <string name="provision_back">Nazaj</string>
 <string name="provision_inputmethod_policy_description"><Data>Pokaži &lt;a href=%1$s>Pravila o zasebnosti&lt;/a > izbranih tipkovnic.</Data></string>
@@ -380,6 +390,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="provision_next">Naprej</string>
      <string name="provision_skip_underline">Preskoči</string>
   <string name="recorder_introduction">Aplikacijo lahko uporabite za snemanje zvoka in shranjevanje posnetkov na Mi Cloud.</string>
+     <string name="refuse_cookie">Zavrni piškotke</string>
   <string name="require_authority_statement">Da vam lahko ponudimo osnovne storitve morate odobriti naslednja dovoljenja za zbiranje vaših osebnih podatkov:</string>
   <string name="require_miuidaemon_authority_statement">Če želite, da vam omogočimo to storitev, morate podeliti naslednja dovoljenja, da bomo lahko zbirali vaše osebne podatke:</string>
   <string name="require_network_authority_statement">Da vam lahko ponudimo osnovne storitve se morate povezati na splet in odobriti naslednja dovoljenja za zbiranje vaših osebnih podatkov:</string>
@@ -446,17 +457,48 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
   <string name="system_navigation_mode">Način navigacije s sistemom</string>
+     <string name="term_condition_detail">"Vsak dan prejmite osupljive slike in vznemirljive zgodbe na zaklenjeni zaslon. Ta storitev ne bo uporabljala vaših podatkov za prilagajanje brez vašega soglasja. Preberite in se strinjajte s ponudniki vsebine tretjih oseb &lt;a href =%1$s>Pravila o zasebnosti&lt;/a> in &lt;a href =%2$s>Pogoji uporabe&lt;/a> pred uporabo."</string>
   <string name="terms_of_use">Pogoji in pravila</string>
-  <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTMLViewer</string>
+  <string name="terms_of_use_ble_htmlViewer">, Ponudnik združene lokacije, HTMLViewer</string>
     <string name="terms_of_use_label">"Preberite naše Pogoje uporabe in Pravila o zasebnosti, da boste razumeli katere podatke zbiramo, kako jih uporabljamo in kakšne možnosti so vam na voljo.
 Pred uporabo MIUI se morate strinjati z Pogoji uporabe in Pravila o zasebnosti.
 %s in komponente Mi računa se bodo povezale s spletom in pridobile vašo lokacijo."</string>
-  <string name="terms_of_use_label_Mistore">, Mi Store sistemski dodatek</string>
-  <string name="terms_of_use_label_mab">, MAB</string>
+     <string name="terms_of_use_label_MSA">MSA</string>
+     <string name="terms_of_use_label_Mistore">, Mi Store sistemski dodatek</string>
+     <string name="terms_of_use_label_RMS">Upravitelj dovoljenj</string>
+     <string name="terms_of_use_label_ai_assistant">AI Asistent</string>
+     <string name="terms_of_use_label_app_vault">Os. asistent</string>
+     <string name="terms_of_use_label_back">Storitev varnostnega kopiranja</string>
+     <string name="terms_of_use_label_ble">Ponudnik združene lokacije</string>
+     <string name="terms_of_use_label_cloud">Xiaomi Cloud</string>
+     <string name="terms_of_use_label_communication_service">Spletna komunikacijska storitev Xiaomi</string>
+     <string name="terms_of_use_label_finddevice">Najdi napravo</string>
+     <string name="terms_of_use_label_game">Igre</string>
+     <string name="terms_of_use_label_home">Zač. zaslon</string>
+     <string name="terms_of_use_label_htmlViewer">HTML Viewer</string>
+     <string name="terms_of_use_label_htmlviewer">HTML Viewer</string>
+     <string name="terms_of_use_label_info_assistant">Mi Link</string>
+     <string name="terms_of_use_label_joyose">Joyose</string>
+     <string name="terms_of_use_label_landscape">funkcionalnost optimizacije ležečega pogleda</string>
+     <string name="terms_of_use_label_mab">, MAB</string>
+     <string name="terms_of_use_label_mi_account">Komponente računa Mi</string>
+     <string name="terms_of_use_label_os">OS AI nastavitve</string>
   <string name="terms_of_use_label_package">, Orodje za namestitev paketa</string>
+     <string name="terms_of_use_label_parallel_windows">Paralelna okna</string>
   <string name="terms_of_use_label_phrase">, Pogosti izrazi</string>
-   <string name="terms_of_use_label_systemhelper">Storitev samoregistriranja</string>
-  <string name="terms_of_use_label_updater">, Posodabljanje</string>
+     <string name="terms_of_use_label_power_detection">Detektor moči</string>
+     <string name="terms_of_use_label_power_performance">Baterija in zmogljivost</string>
+     <string name="terms_of_use_label_quickapp">Hitre aplikacije</string>
+     <string name="terms_of_use_label_secure">Aplikacija Varni Element</string>
+     <string name="terms_of_use_label_simcard">Storitve aktiviranja Mi SIM</string>
+     <string name="terms_of_use_label_smart_service">pametne storitve</string>
+     <string name="terms_of_use_label_statistics">Statistike</string>
+     <string name="terms_of_use_label_systemhelper">Storitev samoregistriranja</string>
+     <string name="terms_of_use_label_translation">Storitev prevajanja</string>
+     <string name="terms_of_use_label_updater">, Posodabljanje</string>
+     <string name="terms_of_use_label_use_location_and_network_global">"Pred uporabo MIUI morate prebrati in se strinjati z našo uporabniško pogodbo in politiko zasebnosti. Med aktiviranjem vaše naprave se bodo naslednje storitve povezale z omrežjem in dostopale do vaše lokacije: "</string>
+     <string name="terms_of_use_label_use_network_china">"Pred uporabo MIUI morate prebrati in se strinjati z našo uporabniško pogodbo in politiko zasebnosti. Med aktiviranjem vaše naprave se bodo naslednje storitve povezale z omrežjem in dostopale do vaše lokacije: "</string>
+     <string name="terms_of_use_label_wallpaper">Ozadja</string>
   <string name="terms_of_use_lable_apps">Mi storitve, Mi SIM storitve aktivacije, Mi Cloud, Najdi napravo, Začetni zaslon, Center za igre, MAB, MIUI Daemon in MSA komponente sistema, storitve prevajanja, hitre aplikacije, zakl. aplikacij, statistike, Mi Link</string>
      <string name="terms_of_use_lable_apps_wifi_device">Mi storitve, Xiaomi Cloud, Najdi napravo, Začetni zaslon, Igre, MIUI Daemon, MSA komponente sistema, Storitve prevajanja, MIUI SDK, Hitre aplikacije, Meni bližnjic, statistike, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
@@ -513,6 +555,7 @@ Morate se strinjati z Mint Keyboard Pravila o zasebnosti pred uporabo te storitv
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
      <string name="welcome">Dobrodošli</string>
+     <string name="withdraw_consent">Če prekličete privolitev, bodo storitve Wallpaper Carousel deaktivirane.</string>
      <string name="yesterday">Včeraj</string>
      <string name="zone_picker_title">Izberite časovni pas</string>
 </resources>

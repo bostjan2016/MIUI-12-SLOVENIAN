@@ -69,6 +69,7 @@
   <string name="app_name_miuimusic">Glasba</string>
   <string name="app_name_miuiringtone">Melodija zvonjenja</string>
   <string name="app_name_miuiwallpaper">Slike za ozadje</string>
+     <string name="app_name_recorder">Snemalnik</string>
   <string name="app_name_screenshot">Posnetki zaslona</string>
   <string name="archive_send_to">Pošlji…</string>
   <string name="auto_play">Predvajaj samodeljno ko je vključeno na WiFi</string>
@@ -1112,7 +1113,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="search_activity_hint">Iskanje</string>
   <string name="search_app">Aplik. &amp; mape</string>
   <string name="search_app_more">Več</string>
-  <string name="search_category">Vrsta</string>
+  <string name="search_category">Kategorije</string>
      <string name="search_category_folder">Mape</string>
   <string name="search_description">Preišči vse datoteke v napravi</string>
   <string name="search_empty_view_hint">Ni rezultatov</string>

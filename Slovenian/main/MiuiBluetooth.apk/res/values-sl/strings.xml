@@ -789,6 +789,7 @@ Hitrejši protokol povezave."</string>
      <string name="plugin_ota_messages1">Dodajte več virov slušalk Bluetooth</string>
      <string name="plugin_ota_messages2">Posodobite okvir storitve Bluetooth</string>
      <string name="plugin_ota_progress">posodobi zdaj</string>
+     <string name="plugin_ota_tip_text">Znova zaženite Bluetooth in povezane sistemske storitve, povežite slušalke Bluetooth</string>
      <string name="plugin_start_update">Začni posodabljati vtičnike...</string>
      <string name="plugin_update_failed">Posodobitev ni uspela:</string>
      <string name="plugin_update_notification_summary">Posodobitev vtičnika Bluetooth je končana. Znova zaženite nastavitve in bluetooth, da uporabite spremembe.</string>
@@ -907,7 +908,14 @@ Hitrejši protokol povezave."</string>
     <string name="storage_category">Shramba</string>
   <string name="strict_mode">Strogi način</string>
     <string name="strict_mode_summary">Osveži zaslon pri dolgih postopkih v glavni niti</string>
-     <string name="stylus_ota_check_update">posodobi zdaj</string>
+     <string name="stylus_firmware_failed_summary">Ponovno pritrdite pisalo, znova zaženite Bluetooth in poskusite znova.</string>
+     <string name="stylus_firmware_failed_title">"Vdelane programske opreme ni bilo mogoče posodobiti"</string>
+     <string name="stylus_firmware_success_summary">Pritrdite pisalo za seznanitev.</string>
+     <string name="stylus_firmware_success_title">Uspešno posodobljeno</string>
+     <string name="stylus_firmware_timeout_summary">Povezava je potekla. Poskusite ponovno.</string>
+     <string name="stylus_firmware_update_summary">Posodabljanje vdelane programske opreme pisala…</string>
+     <string name="stylus_firmware_update_title">Vdelana programska oprema pisala</string>
+     <string name="stylus_ota_check_update">Posodobi zdaj</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="summary_empty"/>
      <string name="summary_separator">" / "</string>

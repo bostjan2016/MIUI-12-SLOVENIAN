@@ -759,6 +759,7 @@
   <string name="word_to_be_recognized_is_aligned_with_cross">Beseda, ki jo je potrebno prepoznati, je poravnana s križem</string>
   <string name="word_translation">Prevod besed</string>
   <string name="wx_not_installed_toast">Ta storitev uporablja WeChat. Najprej namestite WeChat.</string>
+     <string name="xiaoai_classmate_scan_text">Išči z Mi AI</string>
   <string name="xiaoai_dialog">"Poskusite reči Mi AI
 kaj želite skenirati"</string>
   <string name="xiaoai_text">Tipka</string>

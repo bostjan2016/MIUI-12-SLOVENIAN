@@ -9928,6 +9928,23 @@ Za deljenje svoje lokacije stikom v sili
 Pred uporabo naših storitev preberite in sprejmite naše %s."</string>
   <string name="sos_privacy_dialog_title">Pogoji in Pravila</string>
      <string name="sos_privacy_policy">Pravila o zasebnosti</string>
+     <string name="sos_privacy_policy_change_endtitle">Preden nadaljujete, preberite in se strinjajte z novo različico %s.</string>
+     <string name="sos_privacy_policy_change_message_reject">"SOS v sili ne boste mogli še naprej uporabljati, če se ne strinjate z novo različico pravilnika o zasebnosti. Se strinjate s posodobljenim %s zdaj?"</string>
+     <string name="sos_privacy_policy_change_subtitle">Politika zasebnosti SOS za nujne primere je bila posodobljena:</string>
+     <string name="sos_privacy_policy_change_title">Posodobljena Pravila o zasebnosti</string>
+     <string name="sos_privacy_policy_change_title_reject">"Aplikacije ni mogoče uporabljati"</string>
+     <string name="sos_privacy_policy_no_net_button">Razumem</string>
+     <string name="sos_privacy_policy_no_net_message">Vaša naprava se mora povezati z omrežjem, da lahko prekličete soglasje. Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="sos_privacy_policy_no_net_title">"Povezave z omrežjem ni bilo mogoče vzpostaviti"</string>
+     <string name="sos_privacy_policy_revoke">Preklic soglasja</string>
+     <string name="sos_privacy_policy_revoke_message_reject">"Če nadaljujete, boste umaknili privolitev v Politiko zasebnosti SOS v sili. Osebni podatki, ki so že zbrani in shranjeni, bodo v določenem roku izbrisani v skladu z veljavnimi zakoni in drugimi predpisi, razen če ni zahtevano drugače.
+
+Ker SOS za nujne primere ponuja svoje storitve na podlagi zbiranja potrebnih osebnih podatkov, bo vaš preklic privolitve obravnavan kot zavrnitev sprejema varnostnih storitev.
+
+Umaknem privolitev %s zdaj?"</string>
+     <string name="sos_privacy_policy_revoke_title_reject">Pozor</string>
+     <string name="sos_privacy_revoke_failed_dialog_content">Prišlo je do napake strežnika. Počakajte minuto ali dve in poskusite znova.</string>
+     <string name="sos_privacy_revoke_failed_dialog_title">"Soglasja ni bilo mogoče preklicati"</string>
   <string name="sound_assist_summary">Prilagodite svoje nastavitve zvoka</string>
   <string name="sound_assist_title">Zvočni pomočnik</string>
     <string name="sound_category_call_ringtone_vibrate_title">Ton zvonjenja in vibriranje</string>

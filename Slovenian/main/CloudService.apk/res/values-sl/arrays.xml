@@ -64,6 +64,14 @@
         <item>Za sinhronizacijo stikov</item>
         <item>Za shranjevanje stvari v vašo napravo (npr. slike, videoposnetki, pesmi)</item>
      </string-array>
+     <string-array name="privacy_dialog_sync_runtime_perm_title">
+        <item>Dostop do dogodkov koledarja</item>
+        <item>Pošiljanje SMS</item>
+        <item>Branje MMS</item>
+        <item>Dostop do stikov</item>
+        <item>Urejanje in brisanje stikov</item>
+        <item>Dostop do fotografij in datotek</item>
+     </string-array>
      <string-array name="settings_search_backup_manage">
         <item>Var. kopije</item>
         <item>Nastavitve var. kopije</item>
