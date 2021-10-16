@@ -3460,6 +3460,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="dndm_wristband">Vključite z Mi Bandom</string>
   <string name="dndm_wristband_detailed">"Vključite Ne moti če Mi Band odkrije da spite v roku ene ure pred predvidenim časom začetka"</string>
   <string name="dndm_wristband_detailed2">"Izključite Ne moti če Mi Band odkrije da ste budni v roku ene ure pred predvidenim časom konca"</string>
+     <string name="dns_select_dialog_title">Izberite zasebni način DNS</string>
     <string name="do_disclosure_generic">To napravo upravlja vaša organizacija.</string>
     <string name="do_disclosure_learn_more">Več o tem</string>
   <string name="do_disclosure_learn_more_separator">" "</string>

@@ -26,6 +26,19 @@
         <item>PIN</item>
         <item>Geslo</item>
      </string-array>
+     <string-array name="auto_task_screen_zoom_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+     </string-array>
+     <string-array name="auto_task_text_layout_size_level">
+        <item>Zelo majhno</item>
+        <item>Majhno</item>
+        <item>Srednje</item>
+        <item>Veliko</item>
+        <item>Zelo veliko</item>
+        <item>XXL</item>
+     </string-array>
      <string-array name="cellular_data_unit">
         <item>GB</item>
         <item>MB</item>

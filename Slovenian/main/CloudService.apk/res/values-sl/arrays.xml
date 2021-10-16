@@ -54,7 +54,12 @@
      </string-array>
      <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
         <item>Za identifikacijo vaše naprave</item>
-        <item>Za lociranje naprave im premik na izgubljeni način dela</item>
+        <item>Za lociranje naprave in premik na izgubljeni način dela</item>
+     </string-array>
+     <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Za iskanje naprave in preklop v izgubljeni način</item>
+        <item>"Za iskanje te naprave, ko ni povezana s spletom"</item>
+        <item>"Za dostop do telefonske številke za iskanje te naprave, ko ni povezana s spletom"</item>
      </string-array>
      <string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>Za sinhronizacijo dogodkov</item>

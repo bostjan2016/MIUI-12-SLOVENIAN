@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-       <item quantity="other">Pred 1 uro</item>
+     <plurals name="a_hour_ago">
+        <item quantity="other">Pred 1 uro</item>
      </plurals>
      <plurals name="abbrev_a_hour_ago">
         <item quantity="other">Pred 1 uro</item>
@@ -978,13 +978,29 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">%d številk</item>
         <item quantity="one">%d številka</item>
      </plurals>
+     <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Vklopi način ostrenja za %d minut</item>
+        <item quantity="one">Vklopi način ostrenja za %d minuto</item>
+     </plurals>
      <plurals name="summary_app_update">
         <item quantity="other">Posodobitve na voljo za (%d) aplikacij</item>
         <item quantity="one">Posodobitev na voljo za (%d) aplikacijo</item>
      </plurals>
+     <plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">Ko je zaslon zaklenjen %d min</item>
+        <item quantity="one">Ko je zaslon zaklenjen %d min</item>
+     </plurals>
      <plurals name="summary_flow_verify">
         <item quantity="other">"Statistični podatki o uporabi podatkov niso sinhronizirani %d dni"</item>
         <item quantity="one">"Statistični podatki o uporabi podatkov niso sinhronizirani %d dan"</item>
+     </plurals>
+     <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+     </plurals>
+     <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">Zaklep zaslona čez %d min</item>
+        <item quantity="one">Zaklep zaslona čez %d min</item>
      </plurals>
      <plurals name="system_check_content">
         <item quantity="other">%1$d stvari zavarovanih</item>
