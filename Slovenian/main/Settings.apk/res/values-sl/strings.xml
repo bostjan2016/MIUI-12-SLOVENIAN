@@ -2371,7 +2371,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="choose_spell_checker">Izbira črkovalnika</string>
   <string name="choose_timezone">Izberite časovni pas</string>
   <string name="choose_unlock_face_msg">Nastavite zakl. zaslona pred snemanjem obraza.</string>
-  <string name="choose_unlock_fingerprint_msg">Nastavite zaklj. zaslona pred dodajanjem prstnega odtisa.</string>
+  <string name="choose_unlock_fingerprint_msg">Nastavite zakl. zaslona pred dodajanjem prstnega odtisa.</string>
   <string name="choose_voice_input_title">Izbira glasovnega vnosa</string>
   <string name="classic_mode_summary">Preklopite na toplejše barve, da zmanjšate količino modre svetlobe</string>
   <string name="classic_mode_title">Klasično</string>
