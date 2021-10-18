@@ -45,6 +45,10 @@
   <string name="backup_action_buy_cloud_space">Nabavite več prostora za shranjevanje</string>
   <string name="backup_action_check_network">Preverite omrežne nastavitve</string>
   <string name="backup_action_clean_disk_space">Osvobodite prostor</string>
+     <string name="backup_action_no_space_with_wechat_off_content">Ni dovolj prostora za shranjevanje v oblaku za varnostno kopiranje stvari iz te naprave. Dotaknite se za ogled možnosti shranjevanja v oblaku, ki so vam na voljo.</string>
+     <string name="backup_action_no_space_with_wechat_off_title">"Stvari ni bilo mogoče varnostno kopirati"</string>
+     <string name="backup_action_no_space_with_wechat_on_content">Ni dovolj prostora za shranjevanje v oblaku za varnostno kopiranje podatkov WeChat. Nadgradite svoj načrt shranjevanja za varnostno kopiranje stvari.</string>
+     <string name="backup_action_no_space_with_wechat_on_title">"Podatkov WeChat ni bilo mogoče varnostno kopirati"</string>
   <string name="backup_action_retry_now">Poskusi ponovno</string>
   <string name="backup_fail">"Ne morem izdelati var. kopije"</string>
   <string name="backup_fail_wifi_needed">"Za izdelavo var. kopije je potreben WiFi."</string>

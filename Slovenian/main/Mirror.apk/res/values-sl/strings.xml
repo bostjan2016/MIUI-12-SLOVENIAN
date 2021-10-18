@@ -38,6 +38,8 @@
      <string name="close">Zapri</string>
      <string name="confirm_device_credential_password">Uporabi geslo</string>
   <string name="copy">Kopiraj</string>
+     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Za prenos zvoka med oddajanjem</string>
+     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za prenos datotek med napravami</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
   <string name="default_boss_terminal_name">Mi Notebook</string>
@@ -284,6 +286,7 @@
      <string name="settings_pc_history_title">Zgodovina povezav</string>
      <string name="settings_pc_trusted_title">Connect automatically</string>
      <string name="settings_pc_use_tile">About this feature</string>
+     <string name="settings_permission_description">Podrobnosti o dovoljenjih</string>
   <string name="settings_privacy_policy">Pravila o zasebnosti</string>
   <string name="settings_scanner_button">Skener</string>
      <string name="settings_scanner_summary">Povežite se z MIUI + s pomočjo QR kode</string>

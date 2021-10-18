@@ -802,9 +802,9 @@
         <item>"Ne uporabi (nevarno)"</item>
      </string-array>
      <string-array name="keyguard_notification_status_entries">
+        <item>Ne vključi zaslona</item>
         <item>Vključi zaslon</item>
         <item>Pokaži animacijo</item>
-        <item>"Ne vključi zaslona"</item>
      </string-array>
      <string-array name="keyguard_notification_status_values">
         <item>0</item>

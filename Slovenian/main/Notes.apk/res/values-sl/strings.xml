@@ -552,6 +552,7 @@ Tapnite + da napravite mapo"</string>
   <string name="note_gesture_guide_step3">Pritisnite in držite beležko in jo premaknite nad mapo, da jo dodate v mapo</string> 
      <string name="note_header_first_enter_guide">Podrsajte dol da pokažete več</string>
      <string name="note_invalid_mindnote_hint">"Mape misli niso na voljo v tej različici. Posodobite aplikacijo, če želite uporabljati to funkcijo."</string>
+     <string name="note_item_default_title">Prazna beležka</string>
   <string name="note_link_email">"Nova e-pošta"</string>
   <string name="note_link_other">Odpri s pomočjo aplikacije Karte</string>
   <string name="note_link_select">Izberi besedilo</string>
@@ -625,6 +626,12 @@ Tapnite + da napravite mapo"</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne sprašuj za potrditev ob brisanju beležke z uporabo giba"</string>
   <string name="pref_desc_todo_float_mode">Podrsajte s prstom od roba zaslona da odprete okvir orodja z nalogami</string>
      <string name="pref_excerpt_link_float">Prejmite opomnik, da ustvarite izvleček kadar koli se URL kopira</string>
+     <string name="pref_permission_allowed">Dovoljeno</string>
+     <string name="pref_permission_manage">Podrobnosti o dovoljenjih</string>
+     <string name="pref_permission_manage_key_contact">Dostop do stikov</string>
+     <string name="pref_permission_manage_key_recording">Snemanje zvoka</string>
+     <string name="pref_permission_manage_key_storage">Dostop do shrambe</string>
+     <string name="pref_permission_not_allowed">Ni dovoljeno</string>
      <string name="pref_quick_note_desc">Uporabite bližnjico na robu zaslona za ustvarjanje zapiskov in opravil ter za shranjevanje kopiranih URL-jev, besedila in slik v Beležke.</string>
   <string name="pref_remind_type_summary">Predvajaj zvok opomnika v tihem načinu dela</string>
   <string name="pref_remind_type_summary_new">Ignoriraj Tihi način in nadaljuj s predvajanjem zvoka, dokler se alarm ne izklopi</string>
@@ -913,6 +920,9 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
   <string name="widget_havenot_content">"Dotaknite se da napravite beležko. Držite pripomoček za menjavo velikosti."</string>
      <string name="widget_havenot_content_new">Dotaknite se da napravite beležko. Pritisnite in podržite za menjavo velikosti.</string>
      <string name="widget_note_list_page_title">Izberite beležko</string>
+     <string name="widget_size_item_big">Veliko</string>
+     <string name="widget_size_item_medium">Srednje</string>
+     <string name="widget_size_item_small">Majhno</string>
      <string name="widget_take_notes_title">Beležke</string>
   <string name="widget_under_privacy_mode">"Ne morem pregledati beležke v načinu Gost"</string>
      <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>

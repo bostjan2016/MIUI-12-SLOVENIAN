@@ -707,7 +707,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
      <string name="aod_notification_style">Učinek obveščanja</string>
   <string name="aod_notification_style_animation">Pokaži animacijo</string>
   <string name="aod_notification_style_none">Nič</string>
-  <string name="aod_notification_style_screen_on">Vključi zaslon</string>
+  <string name="aod_notification_style_screen_on">Osvetli zaslon</string>
   <string name="aod_sample_date">10. Maj Torek</string>
   <string name="aod_sample_hour">2</string>
   <string name="aod_sample_hour_vertical">02</string>
@@ -2185,7 +2185,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
     <string name="calls_preference">Nastavitev za klice</string>
     <string name="calls_preference_title">Klici</string>
     <string name="calls_sms_calls_preferred">prednostno za klice</string>
-    <string name="calls_sms_footnote">Klicanje prek WiFi-ja omogoča opravljanje in prejemanje klicev v omrežjih Wi-Fi, ki niso operaterjeva. <annotation id="url">Več o tem</annotation></string>
+    <string name="calls_sms_footnote">Klicanje prek WiFi-ja omogoča opravljanje in prejemanje klicev v omrežjih WiFi, ki niso operaterjeva. <annotation id="url">Več o tem</annotation></string>
     <string name="calls_sms_no_sim">Ni kartice SIM</string>
     <string name="calls_sms_preferred">prednostno</string>
     <string name="calls_sms_sms_preferred">prednostno za sporočila SMS</string>
@@ -6414,7 +6414,7 @@ Nadaljujte k dodatnim nastavitvam."</string>
   <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava WiFi (za hiter preklop med omrežji).</string>
     <string name="mobile_data_ap_mode_disabled">Ni na voljo v načinu za letalo</string>
     <string name="mobile_data_connection_active">Povezano</string>
-    <string name="mobile_data_disable_message">Prek omrežja %s ne boste imeli dostopa do podatkovne povezave ali interneta. Internet bo na voljo samo prek povezave Wi-Fi.</string>
+    <string name="mobile_data_disable_message">Prek omrežja %s ne boste imeli dostopa do podatkovne povezave ali interneta. Internet bo na voljo samo prek povezave WiFi.</string>
     <string name="mobile_data_disable_message_default_carrier">vašega operaterja</string>
     <string name="mobile_data_disable_title">Želite izklopiti prenos podatkov v mobilnih omrežjih?</string>
     <string name="mobile_data_no_connection">Ni povezave</string>
@@ -6823,7 +6823,7 @@ Znova zaženite napravo in poskusite znova."</string>
     <string name="network_dashboard_summary_data_usage">prenesena količina podatkov</string>
     <string name="network_dashboard_summary_hotspot">dostopna točka</string>
     <string name="network_dashboard_summary_mobile">mobilno</string>
-    <string name="network_dashboard_summary_no_mobile">Wi-Fi, dostopna točka</string>
+    <string name="network_dashboard_summary_no_mobile">WiFi, dostopna točka</string>
     <string name="network_dashboard_title">Omrežje in splet</string>
   <string name="network_detail">Podrobnosti omrežja %s</string>
     <string name="network_disconnected">Brez povezave</string>
@@ -12428,7 +12428,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
 
 Dovolite to vsem aplikacijam, ki želijo iskati?"</string>
     <string name="wifi_scan_always_turnoff_message">Če želite to možnost izklopiti, v meniju z dodatnimi elementi odprite »Dodatno«.</string>
-    <string name="wifi_scan_always_turnon_message">"Za izboljšanje natančnosti lokacijskih podatkov in druge namene želi %1$s vklopiti iskanje omrežij, tudi ko je Wi-Fi izklopljen.
+    <string name="wifi_scan_always_turnon_message">"Za izboljšanje natančnosti lokacijskih podatkov in druge namene želi %1$s vklopiti iskanje omrežij, tudi ko je WiFi izklopljen.
 
 Želite to dovoliti vsem aplikacijam, ki želijo iskati omrežja?"</string>
   <string name="wifi_scan_notify_remember_choice">Ne kaži več</string>

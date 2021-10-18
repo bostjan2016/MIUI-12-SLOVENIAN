@@ -42,7 +42,7 @@
     <string name="accessibility_no_calling">Klicanje ni mogoče.</string>
     <string name="accessibility_no_data">Ni podatkov.</string>
     <string name="accessibility_no_phone">Ni telefona.</string>
-    <string name="accessibility_no_wifi">Povezava Wi-Fi je prekinjena.</string>
+    <string name="accessibility_no_wifi">Povezava WiFi je prekinjena.</string>
     <string name="accessibility_phone_one_bar">Telefon z eno črtico.</string>
     <string name="accessibility_phone_signal_full">Signal telefona je poln.</string>
     <string name="accessibility_phone_three_bars">Telefon s tremi črticami.</string>

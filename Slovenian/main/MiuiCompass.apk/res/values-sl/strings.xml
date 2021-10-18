@@ -30,6 +30,7 @@
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
   <string name="allow">Dovoli</string>
+     <string name="allowed">Dovoljeno</string>
   <string name="altitude">%.1f</string>
   <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
   <string name="altitude_title">Nadmorska višina</string>
@@ -136,6 +137,7 @@
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
+     <string name="get_location">Dostop do lokacije</string>
   <string name="getting_location">Kalibriranje...</string>
      <string name="gradienter_title">Raven</string>
   <string name="guide_toast">"Za kalibracijo premikajte telefon kot vidite spodaj."</string>
@@ -225,17 +227,25 @@
   <string name="month_september_shortest">S</string>
   <string name="more">Več</string>
   <string name="morning">Jutro</string>
+     <string name="new_cta_v2_app_purpose">Prikaz smeri, koordinat, atmosferskega tlaka in trenutne nadmorske višine</string>
+     <string name="new_permission_camera_desc">Za umerjanje</string>
+     <string name="new_permission_location_desc">Za prikaz koordinat</string>
      <string name="night">Evening</string>
      <string name="noon">Midday</string>
+     <string name="not_allowed">Ni dovoljeno</string>
   <string name="not_set">Ni nastavljeno</string>
+     <string name="open_camera">Uporabi kamero</string>
   <string name="open_perm_msg">Kompas potrebuje dostop do lokacije in kamere. To je potrebno za določanje koordinat in ponujanja pregleda v živo. Dovolim?</string>
      <string name="open_perm_msg_no_camera">Kompas mora dostopati do informacij o lokaciji, da lahko določi koordinate. Dovolim?</string>
   <string name="open_perm_title">Potrebno je dovoljenje</string>
   <string name="permission_camera_desc">Uporablja se libela</string>
+     <string name="permission_description">Podrobnosti o dovoljenjih</string>
   <string name="permission_location_desc">Prikaz koordinat in atmosferskega tlaka</string>
      <string name="pm">pop.</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="preference_other">Ostalo</string>
+     <string name="preference_privacy_policy">Pokaži Pravila o zasebnosti</string>
+     <string name="preference_privacy_setting">Zasebnost</string>
   <string name="preference_privacy_title">Pravila o zasebnosti</string>
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Pritisk</string>

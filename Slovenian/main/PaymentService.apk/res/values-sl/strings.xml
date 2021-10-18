@@ -170,6 +170,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="login_check_find_device">Dobivanje informacij o varnosti naprave…</string>
   <string name="logout_account">Odjava</string>
      <string name="mibi_all_license_message">"Uporabljali boste Mi Coin, ki je storitev, ki jo ponuja Xiaomi Inc. Preden lahko začnete uporabljati to storitev, se morate strinjati s pogoji storitve. Dotaknite se V redu, če se strinjate s pogoji in določili, opisanimi v %1$s in %2$s. Če želite uporabljati Mi Coin, se morate povezati s spletom in poiskati svojo napravo."</string>
+     <string name="mibi_all_purpose">Dobrodošli v MiCoin, s to aplikacijo lahko napolnite MiCoin, preverite svoje darilne kartice itd.</string>
   <string name="mibi_app_name">Mi Kredit</string>
   <string name="mibi_applock_config">"Ne morem nastaviti zakl. aplikacije med uporabo deljenega zaslona."</string>
      <string name="midnight">Noč</string>

@@ -665,12 +665,15 @@ niso ustvarjene v drugem prostoru"</string>
   <string name="usage_app_over_content">"Danes ste to aplikacijo uporabljali že %s."</string>
   <string name="usage_app_over_summary">"Dosegli ste svoj limit. Čas je potekel!"</string>
   <string name="usage_app_set_limit_time">Nastavi omejitev</string>
+     <string name="usage_app_stop_desc">Ko izklopite to funkcijo, bodo izbrisani vsi podatki in dovoljenja o času uporabe, vključno s posameznimi nastavitvami, in z njimi povezani elementi, shranjeni lokalno.</string>
   <string name="usage_app_system_app_summary">"Ne morem omejiti čas zaslona za sistemske aplikacije"</string>
   <string name="usage_app_weekday_limit">Delovniki</string>
   <string name="usage_app_weekend_limit">Vikendi</string>
   <string name="usage_beat_fans">Boljše od %s Mi Fanov</string>
   <string name="usage_continuous_days">Niz</string>
   <string name="usage_creating_weekly_report">Pripravljanje tedenskega poročila…</string>
+     <string name="usage_cta_desc">"Dobrodošli v nastavitvah! Za zagotovitev statističnih podatkov o času uporabe in načinu ostrenja mora ta aplikacija zbrati naslednje podatke: kolikokrat odklenete napravo, seznam aplikacij skupaj z ustreznim trajanjem uporabe, kolikokrat zasveti zaslon, in nastavitve načina izostritve. Zbrani podatki bodo shranjeni samo lokalno v tej napravi.
+"</string>
   <string name="usage_current_week_usage">%s povprečno zadnjih 7 dni</string>
   <string name="usage_device_limit_app_prolong">Dodaj čas</string>
   <string name="usage_device_limit_app_prolong_time1">Dodaj 20 minut</string>
