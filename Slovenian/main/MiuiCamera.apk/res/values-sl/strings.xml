@@ -535,7 +535,7 @@ in za trenutek zapustite pregled"</string>
   <string name="cta_perm_type">"Neobvezna dovoljenja (uporabljajo se za dodatne storitve, medtem ko jih uporabljate)"</string>
      <string name="cta_perm_voice">Uporaba mikrofona</string>
      <string name="cta_perm_voice_desc">Za snemanje zvoka med snemanjem video posnetkov</string>
-  <string name="cta_user_tips">&lt;Data&gt;Če želite v celoti razumeti svoje pravice kot uporabnika in načine uporabe vaših podatkov, preberite in se strinjate z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="cta_user_tips"><Data>Če želite v celoti razumeti vaše pravice kot uporabnika in načine, na katere uporabljamo vaše podatke, preberite in se strinjajte z &lt;a href =%1$s>Pogoji uporabe&lt;/a> in &lt;a href =%2$s>Pravila o zasebnosti&lt;/a>.</Data></string>
   <string name="custom_sound_art">Retro</string>
   <string name="custom_sound_default">Privzeto</string>
   <string name="custom_sound_modern">Moderno</string>

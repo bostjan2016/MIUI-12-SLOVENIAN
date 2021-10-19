@@ -492,20 +492,26 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
   <string name="service_name_fast_pairing">Mi Link</string>
   <string name="service_name_game">Dodatek za igre</string>
   <string name="service_name_google_service">Izjava o Googleovih storitvah</string>
+     <string name="service_name_ims">Storitev IMS</string>
   <string name="service_name_location">Storitve ki temeljijo na lokaciji</string>
   <string name="service_name_lockscreen">Wallpaper Carousel</string>
+     <string name="service_name_message">Sporočila</string>
   <string name="service_name_note">Beležke</string>
   <string name="service_name_recorder">Snemalnik</string>
   <string name="service_name_screen_recording">Snemalnik zaslona</string>
   <string name="service_name_security">Varnost</string>
   <string name="service_name_service_framework">Mi Services Framework</string>
+     <string name="service_name_systemdesktop">Storitveni vtičnik za domači zaslon</string>
   <string name="service_policy">&lt;Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a >.&lt;/Data</string>
-  <string name="service_policy_download">&lt;Data&gt;Pred uporabo preberite in se strinjajte z &amp;lt;a href=%1$s&amp;gt;Xunlei Pravila o zasebnosti&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
+     <string name="service_policy_adjust_content">Xunlei Pravila o zasebnosti</string>
+  <string name="service_policy_download"><Data>Omrežne storitve Xunlei &lt;a href=%1$s>Xunlei Pravila o zasebnosti&lt;/a > in &lt;a href=%1$s>Omrežne storitve Xunlei Pogoji uporabe&lt;/a > pred uporabo.</Data></string>
   <string name="service_privacy_index">Pravila o zasebnosti</string>
-   <string name="service_security_over_r"><Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a >.&lt;br/>&lt;br/>V skladu s standardi Android R se enkratno dovoljenje odvzame v določenem časovnem obdobju (okoli &lt;xliff:g example=5 sekund id=short>%2$s&lt;/xliff:g>) po prenehanju izvajanja ustrezne aplikacije. Če aplikacijo odprete v tem kratkem času, bo dovoljenje nato odvzeto.</Data></string>
+   <string name="service_security_over_r"><Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a > pred uporabo Varnosti.&lt;br/>&lt;br/>V skladu s standardi Android 11 bo enkratno dovoljenje preklicano v 5 sekundah po prenehanju izvajanja ustrezne aplikacije. Če aplikacijo odprete v tem kratkem času, bo dovoljenje nato odvzeto.</Data></string>
+     <string name="service_sim_activation">Aktiviranje kartice SIM</string>
   <string name="servicestate_title">Izjava o osnovnih storitvah</string>
   <string name="setting_locale">Nastavljanje regije…</string>
   <string name="shut_down">Izklop</string>
+     <string name="sim_activation_introduction">Storitev za aktiviranje kartice SIM preveri podatke o trenutno vstavljeni kartici SIM in se prepriča, da lahko storitve MIUI delujejo normalno. Te storitve vključujejo Najdi napravo, Mi sporočilo, ustvarjanje računov Mi s telefonskimi številkami ter sinhronizacijo sporočil in zgodovine klicev.</string>
   <string name="sim_card_detecting">Preverjam SIM kartico…</string>
   <string name="sim_card_detecting_check">"Ne najdem SIM kartice. Preverite ali je SIM kartica pravilno vstavljena in če imate li dovolj sredstev na svojem računu."</string>
   <string name="sim_card_detecting_confirm_turn_on_network">Dovolim povezovanje z mobilnimi podatkovnimi omrežji? SIM kartica bo uporabljena za povezovanje z mobilnimi podatkovnimi omrežji.</string>
@@ -531,6 +537,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
   <string name="system_navigation_mode">Način navigacije s sistemom</string>
+     <string name="systemdesktop_introduction">Storitveni vtičnik za domači zaslon ponuja osnovne funkcije, kot so začetni zaslon, sistemski uporabniški vmesnik in posnetki zaslona.</string>
      <string name="term_condition_detail">"Vsak dan prejmite osupljive slike in vznemirljive zgodbe na zaklenjeni zaslon. Ta storitev ne bo uporabljala vaših podatkov za prilagajanje brez vašega soglasja. Preberite in se strinjajte s ponudniki vsebine tretjih oseb &lt;a href =%1$s>Pravila o zasebnosti&lt;/a> in &lt;a href =%2$s>Pogoji uporabe&lt;/a> pred uporabo."</string>
   <string name="terms_of_use">Pogoji in pravila</string>
   <string name="terms_of_use_ble_htmlViewer">, Ponudnik združene lokacije, HTMLViewer</string>
@@ -570,8 +577,8 @@ Pred uporabo MIUI se morate strinjati z Pogoji uporabe in Pravila o zasebnosti.
      <string name="terms_of_use_label_systemhelper">Storitev samoregistriranja</string>
      <string name="terms_of_use_label_translation">Storitev prevajanja</string>
      <string name="terms_of_use_label_updater">, Posodabljanje</string>
-     <string name="terms_of_use_label_use_location_and_network_global">"Pred uporabo MIUI morate prebrati in se strinjati z našo uporabniško pogodbo in politiko zasebnosti. Med aktiviranjem vaše naprave se bodo naslednje storitve povezale z omrežjem in dostopale do vaše lokacije: "</string>
-     <string name="terms_of_use_label_use_network_china">"Pred uporabo MIUI morate prebrati in se strinjati z našo uporabniško pogodbo in politiko zasebnosti. Med aktiviranjem vaše naprave se bodo naslednje storitve povezale z omrežjem in dostopale do vaše lokacije: "</string>
+     <string name="terms_of_use_label_use_location_and_network_global">Pred uporabo MIUI morate prebrati in se strinjati z našo uporabniško pogodbo in politiko zasebnosti. Vaše osebne podatke bomo varovali v skladu z ustreznimi zakoni, predpisi in politiko zasebnosti. Ko je naprava aktivirana, se bodo naslednje storitve povezale z omrežjem in dostopale do vaše lokacije:</string>
+     <string name="terms_of_use_label_use_network_china">Pred uporabo MIUI morate prebrati in se strinjati z našo uporabniško pogodbo in politiko zasebnosti. Vaše osebne podatke bomo varovali v skladu z ustreznimi zakoni, predpisi in politiko zasebnosti. Ko je naprava vklopljena, se bodo v omrežje povezale naslednje storitve:</string>
      <string name="terms_of_use_label_wallpaper">Ozadja</string>
   <string name="terms_of_use_lable_apps">Mi storitve, Mi SIM storitve aktivacije, Mi Cloud, Najdi napravo, Začetni zaslon, Center za igre, MAB, MIUI Daemon in MSA komponente sistema, storitve prevajanja, hitre aplikacije, zakl. aplikacij, statistike, Mi Link</string>
      <string name="terms_of_use_lable_apps_wifi_device">Mi storitve, Xiaomi Cloud, Najdi napravo, Začetni zaslon, Igre, MIUI Daemon, MSA komponente sistema, Storitve prevajanja, MIUI SDK, Hitre aplikacije, Meni bližnjic, statistike, Mi Link</string>
@@ -586,6 +593,7 @@ Morate se strinjati z Kika Pravila o zasebnosti pred uporabo te storitve."</stri
 Morate se strinjati z Mint Keyboard Pravila o zasebnosti pred uporabo te storitve."</string>
   <string name="terms_of_use_lable_gms">, Storitve Google Playa</string>
   <string name="terms_of_use_lable_smart_cards">, Pametne kartice</string>
+     <string name="terms_of_use_lable_xmsf">Okvir storitve Xiaomi</string>
   <string name="terms_privacy_policy_input_method_facemoji">Facemoji Pravila o zasebnosti</string>
   <string name="terms_privacy_policy_input_method_kika">Kika Pravila o zasebnosti</string>
      <string name="thursday">Četrtek</string>

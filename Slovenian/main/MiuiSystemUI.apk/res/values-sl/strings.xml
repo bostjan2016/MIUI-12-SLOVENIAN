@@ -429,8 +429,8 @@
     <string name="alarms_and_reminders_label">Alarmi in opomniki</string>
     <string name="alarms_and_reminders_switch_title">Dovoli nastavljanje alarmov in opomnikov</string>
     <string name="alarms_and_reminders_title">Alarmi in opomniki</string>
-  <string name="allow_mock_location">Dovoli poskusne lokacije</string>
-  <string name="allow_mock_location_summary">Dovoli poskusne lokacije</string>  
+  <string name="allow_mock_location">Dovoli lažne lokacije</string>
+  <string name="allow_mock_location_summary">Dovoli lažne lokacije</string>  
   <string name="always_use_accessory">Zmeraj odpri aplikacijo %1$s ko se poveže naprava %2$s</string>
   <string name="always_use_device">Zmeraj odpri aplikacijo %1$s ko se poveže naprava %2$s</string>
      <string name="am">dop.</string>
@@ -600,8 +600,8 @@ Poskusite znova čez %d s."</string>
   <string name="bluetooth_hid_profile_summary_use_for">Uporabi za vhod</string>
      <string name="bluetooth_le_audio_profile_summary_connected">Povezano z LE_AUDIO</string>
      <string name="bluetooth_le_audio_profile_summary_use_for">Uporabi za LE_AUDIO</string>
-  <string name="bluetooth_map_profile_summary_connected">Povezano s MAP-om</string>
-  <string name="bluetooth_map_profile_summary_use_for">Uporabi za MAP</string>
+  <string name="bluetooth_map_profile_summary_connected">Povezano z zemljevidom</string>
+  <string name="bluetooth_map_profile_summary_use_for">Uporabi za zemljevid</string>
   <string name="bluetooth_opp_profile_summary_connected">Povezano s strežnikom za prenos datotek</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Niste povezani s strežnikom za prenos datotek</string>
   <string name="bluetooth_opp_profile_summary_use_for">Uporabi za prenos datoteke</string>
@@ -629,7 +629,7 @@ Poskusite znova čez %d s."</string>
   <string name="bluetooth_profile_map">SMS-i</string>
   <string name="bluetooth_profile_opp">Prenos datotek</string>
   <string name="bluetooth_profile_pan">Dostop do spleta</string>
-  <string name="bluetooth_profile_pan_nap">Delenje spletne povezave</string>
+  <string name="bluetooth_profile_pan_nap">Deljenje spletne povezave</string>
   <string name="bluetooth_profile_pbap">Deljenje stikov</string>
   <string name="bluetooth_profile_pbap_summary">Uporabi za deljenje stikov</string>
   <string name="bluetooth_profile_sap">Pristop SIM kartici</string>

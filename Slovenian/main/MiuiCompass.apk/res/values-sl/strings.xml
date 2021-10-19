@@ -57,7 +57,7 @@
      <string name="close">Zapri</string>
   <string name="compass_settings">Postavke</string>
   <string name="copy">Kopiraj</string>
-  <string name="cta_agree_desc">Dovoli, da se ta aplikacija poveže s spletom in ji daj neobvezna dovoljenja, tako da lahko uporabite vse njene storitve.</string>
+  <string name="cta_agree_desc">Dovolite, da se ta aplikacija poveže s spletom in ji dajte neobvezna dovoljenja, tako da lahko uporabite vse njene storitve.</string>
   <string name="cta_v2_app_purpose">prikazovanje smeri, koordinat, zračnega pritiska in trenutne višine</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavite datum in čas</string>

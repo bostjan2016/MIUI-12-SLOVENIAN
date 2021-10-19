@@ -3951,6 +3951,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="external_ram_dialog_btn_ok">Ponovni zagon</string>
      <string name="external_ram_dialog_message">Ponovni zagon naprave za uporabo sprememb.</string>
      <string name="external_ram_dialog_title">Ponovni zagon naprave</string>
+     <string name="external_ram_remind_toast">Prostora za shranjevanje primanjkuje. Zaenkrat sem izklopil razširitev pomnilnika.</string>
      <string name="external_ram_summary">"Dodaj %1$s %2$s RAM-a z uporabo shrambe. Uporabite to storitev samo, če je v vaši napravi na voljo dovolj prostora za shranjevanje."</string>
      <string name="external_ram_title">Razširitev pomnilnika</string>
      <string name="external_ram_toast">"Razširitve pomnilnika ni mogoče uporabiti zaradi premalo prostora za shranjevanje"</string>

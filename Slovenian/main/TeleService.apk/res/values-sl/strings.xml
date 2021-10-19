@@ -2911,7 +2911,7 @@ Potrdite privzeto nastavitev računa za klicanje."</string>
   <string name="smart_dual_sim_prompt_ok">Nastavitve</string>
   <string name="smart_dual_sim_prompt_title">Opozorilo porabe podatkov (SIM %s)</string>
   <string name="smart_dual_sim_summary">Preklopite na sekundarno kartico SIM in samodejno uporabite njene mobilne podatke, kadar je trenutna povezava slaba. Ko se povezava izboljša, se vrnite na prvotno kartico SIM.</string>
-  <string name="smart_dual_sim_title">Smart dual SIM</string>
+  <string name="smart_dual_sim_title">Pametna dvojna SIM</string>
     <string name="smart_forwarding_settings_menu">Pametno posredovanje</string>
     <string name="smart_forwarding_settings_menu_summary">Če številka ni dosegljiva, vedno posredujte klice na svojo drugo številko.</string>
   <string name="sms_messages_title">SMS</string>

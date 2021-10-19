@@ -91,6 +91,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="app_disable_transparent_wallpaper">Brez transparentnega ozadja</string>
   <string name="app_enable_transparent_wallpaper">Z transparentnim ozadjem</string>
   <string name="app_name">Teme</string>
+     <string name="application_list_permission_desc">Za prikaz aplikacij, združljivih s prozornimi ozadji</string>
   <string name="apply_choosen_type_resource">Nastavi izbrane stvari</string>
   <string name="apply_default_font_tip">"Uporabljam trenutno sistemsko pisavo?"</string>
   <string name="apply_failed">"Ne morem nastaviti"</string>
@@ -486,6 +487,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="has_mamual_hide_icons">Skrite ikone</string>
   <string name="has_mamual_hide_theme">Skrito</string>
   <string name="has_mamual_hide_wallpaper">Skrito</string>
+     <string name="head_portraits">Fotografija profila</string>
   <string name="hide_free">Skrij brezplačne stvari</string>
   <string name="hide_free_aod">"Ne kaži brezplačne teme"</string>
   <string name="hide_free_font">Skrij brezplačne fonte</string>
@@ -741,6 +743,9 @@ mm"</string>
   <string name="my_gifts">Darila</string>
   <string name="my_gifts_purchased">Kupljeno</string>
   <string name="my_gifts_received">Prejeto</string>
+     <string name="need_to_open_application_permission_desc">Če želite izvedeti, katere aplikacije so združljive s prozornimi ozadji, dovolite Temam dostop do seznama aplikacij, nameščenih v vaši napravi.</string>
+     <string name="need_to_open_permission">Potrebna so dovoljenja</string>
+     <string name="need_to_open_storage_permission_desc">Če želite uporabljati in nalagati stvari v Temah, aplikaciji najprej omogočite dostop do shrambe.</string>
   <string name="network_exception">"Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite znova."</string>
   <string name="new_resource_price_unit"> Mi</string>
   <string name="night">Noč</string>
@@ -810,6 +815,7 @@ mm"</string>
   <string name="present_local_themes_subtitle">Prilagodite svojo napravo</string>
   <string name="present_official_themes">Naša izbira</string>
   <string name="present_online_themes">Prenesite brezplačno več tem</string>
+     <string name="privacy_settings">Zasebnost</string>
   <string name="provision_default_theme_title">Privzeto</string>
   <string name="provision_loading_tips">Samo trenutek…</string>
   <string name="provision_second_title">Izberite eno od nekaj privzetih tem</string>
@@ -1144,6 +1150,8 @@ mm"</string>
   <string name="show_mamual_hide_theme">Pokaži brezplačne teme</string>
   <string name="show_mamual_hide_wallpaper">Pokaži brezplačna ozadja</string>
      <string name="still_apply">Uporabi</string>
+     <string name="storage_migration_exit_msg">Da bi bile teme združljive s prihajajočimi različicami Androida, smo prenesene elemente premaknili na novo lokacijo. Znova zaženite aplikacijo, da uporabite spremembe in si ogledate preneseno vsebino.</string>
+     <string name="storage_permission_denied_desc">Dovolite Temam dostop do shrambe za ogled stvari</string>
   <string name="sunday">Nedelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
