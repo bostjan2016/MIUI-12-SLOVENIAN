@@ -89,6 +89,7 @@
   <string name="copy_info">Kopirano v odložišče. Lahko podelite s prijatelji!</string>
   <string name="creat_task_success">Dodano v vrsto za prevzemanje</string>
   <string name="create_task">Ustvari nalogo</string>
+     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za nalaganje stvari ter prikaz in upravljanje prenosov</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavite datum in uro</string>
   <string name="delete">Izbriši</string>
@@ -123,6 +124,9 @@ Pošljite to kodo tehnikom."</string>
   <string name="dialog_media_not_found">Povežite zunanji pomnilnik za shranjevanje da boste lahko prenesli.</string>
   <string name="dialog_msg_disabled_net">%1$s omejuje prenose v trenutnem omrežju. Tapnite Nastavitve omrežja za vstop v Varnost.</string>
   <string name="dialog_msg_recommend">"Ne boste mogli videti priporočenih virov po izklopu. Lahko izberete \"Naloži ko je povezano na WiFi\" da prihranite mobilne podatke."</string>
+     <string name="dialog_privacy_update_button1">Prekliči</string>
+     <string name="dialog_privacy_update_button2">Strinjam se</string>
+     <string name="dialog_privacy_update_title">Posodobljena Pravila o zasebnosti</string>
   <string name="dialog_queued_body">Datoteka je dodana v vrsto in bo kmalu prenešena.</string>
   <string name="dialog_speed_cancel">Prekliči</string>
   <string name="dialog_speed_msg">Uporaba mobilnih podatakov za testiranje omrežja lahko povzroči velike količine mobilnih podatakov. Nadaljujem?</string>
@@ -132,6 +136,10 @@ Pošljite to kodo tehnikom."</string>
   <string name="dialog_title_not_available">Prenos ni uspel</string>
   <string name="dialog_title_queued_body">Datoteka še ni pripravljena</string>
   <string name="dialog_title_recommend">Izključi priporočene vire</string>
+     <string name="dialog_user_know_button1">Izhod</string>
+     <string name="dialog_user_know_button2">Strinjam se</string>
+     <string name="dialog_user_know_content"><Data>"Te funkcije ne boste mogli še naprej uporabljati, če se ne strinjate z novo različico &lt;a href=\"%1$s\">Pravila uporabe&lt;/a>. Se strinjate s posodobitvijo?"</Data></string>
+     <string name="dialog_user_know_title">Pozor</string>
   <string name="disable">Izključeno</string>
   <string name="display_expire_netiv1">Ta mesec</string>
   <string name="do_not_support_url">"Ta vrsta povezave ni podprta</string>
@@ -439,11 +447,13 @@ Pošljite to kodo tehnikom."</string>
   <string name="paused_waiting_to_retry">Čakam na ponovitev</string>
   <string name="percent_title">%1$s oseb preneslo</string>
   <string name="period_of_validity">Veljavnost:</string>
+     <string name="permission">Dovoljenja</string>
      <string name="petabyteShort">PB</string>
      <string name="pm">pop.</string>
   <string name="pref_download_revert_default">Shrani na privzeto lokacijo</string>
   <string name="pref_download_settings_title">Omejitev velikosti prenosa</string>
   <string name="pref_download_storage_path">Naredi novo mapo za prenose</string>
+     <string name="pref_permission_description">Podrobnosti o dovoljenjih</string>
   <string name="pref_sniff_shortcut">Naredi bližnjico</string>
   <string name="pref_summary_any_bytes_popup">Vedno čakaj na WiFi povezavo za prenos datotek</string>
   <string name="pref_summary_enable_max_bytes_popup">Pokaži pojavno okno pri uporabi podatkovne povezave da prenesete vsebino.</string>
@@ -452,6 +462,7 @@ Pošljite to kodo tehnikom."</string>
   <string name="pref_title_enable_max_bytes_popup">Pokaži podatke o porabi</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="preferences_title">Nastavitve</string>
+     <string name="privacy">Zasebnost</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="privacy_tip_cancel">Prekliči</string>
   <string name="privacy_tip_content">"Uporabim Xunlei Accelerator za pospešitev prenosov? Povezava gostitelja za prenos bo naložena na strežnike Xunlei. Vaši podatki Mi računa se bodo naložili zaradi preverbe če imate kakršne koli aktivne naročnine za to storitev."</string>

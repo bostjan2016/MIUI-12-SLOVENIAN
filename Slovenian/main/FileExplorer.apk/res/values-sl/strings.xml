@@ -48,6 +48,7 @@
   <string name="adding_upload_tasks">Dodajam opravila</string>
      <string name="afternoon">Popoldne</string>
   <string name="aggree_desc">Dovolite, da se ta aplikacija poveže s spletom in ji dajte zgoraj navedena obvezna dovoljenja.</string>
+     <string name="agree">Strinjam se</string>
   <string name="album_creator">Izdelal %s</string>
   <string name="album_name">Dnevni izbor: %s</string>
   <string name="all_topic">Vse teme</string>
@@ -341,6 +342,7 @@
   <string name="error_not_support">Ni podprto</string>
   <string name="error_open_file_failed_no_app_found">Najdena ni bila nobena aplikacija za izvedbo te naloge.</string>
      <string name="evening">Večer</string>
+     <string name="exit">Izhod</string>
   <string name="exo_controls_fastforward_description">Hitro naprej</string>
   <string name="exo_controls_next_description">Naslednja pesem</string>
   <string name="exo_controls_pause_description">Premor</string>
@@ -889,6 +891,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="open_chest">Odprite da boste dobili darilo</string>
   <string name="open_chest_failed">"Ne morem odpreti, preverite omrežne nastavitve in poskusite ponovno"</string>
   <string name="open_file_failed">"Ne morem odpreti"</string>
+     <string name="open_or_close_wlan">Vklopite in izklopite WiFi</string>
   <string name="open_private_folder">Spustite za prikaz skritih map…</string>
   <string name="operate_confirm_in_3g">Uporabim podatkovno povezavo za prenos te datoteke? To bo povzročilo stroške.</string>
   <string name="operating">Obdelujem...</string>
@@ -978,6 +981,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="path_recent_file">Urejaj datoteke v napravi</string>
   <string name="paused">Ustavljeno</string>
   <string name="permission_denial">"Ne morem dostopiti do datotek. Dovolite aplikaciji Raziskovalec dostop do datotek v nastavitvah."</string>
+     <string name="permission_description">Podrobnosti o dovoljenjih</string>
   <string name="permission_required">"Ne morem dostopiti do datotek. Dovolite aplikaciji Raziskovalec dostop do datotek v nastavitvah.​"</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Notranji pomnilnik</string>
@@ -1019,9 +1023,14 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="popup_msg_wb">Cool videoposnetek? Delite ga z vašimi Weibo prijatelji!</string>
   <string name="popup_msg_wx">Delite ta video z vašimi WeChat prijatelji.</string>
   <string name="port_range">Vrata morajo biti med 1024–65535</string>
+     <string name="pref_permission_allowed">Dovoljeno</string>
+     <string name="pref_permission_manage_key_storage">Dostop do fotografij in datotek v napravi</string>
+     <string name="pref_permission_not_allowed">Ni dovoljeno</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="pretty_girl">Ženska</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
+     <string name="privacy_policy_renew">Posodobljena Pravila o zasebnosti</string>
+     <string name="privacy_policy_renew_content"><Data>"Raziskovalčeva &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> so bila posodobljena. Če želite v celoti razumeti vaše pravice kot uporabnika in načine, na katere uporabljamo vaše podatke, pred nadaljevanjem preberite in se strinjajte z novo različico pravilnika o zasebnosti."</Data></string>
   <string name="private_files">Skrito</string>
   <string name="private_folder">Skrita mapa</string>
   <string name="private_folder_no_file_hints">Ni skritih datotek.</string>
@@ -1559,6 +1568,10 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="welcome_to_my_page_1">Spremljajte me!</string>
   <string name="welcome_to_my_page_2">Spremljajte me!</string>
   <string name="wifi_state">WiFi omrežje</string>
+     <string name="withdraw">Preklic</string>
+     <string name="withdraw_consent">Preklic soglasja</string>
+     <string name="withdraw_consent_content">"Če nadaljujete, boste umaknili svoje soglasje k pravilniku o zasebnosti Raziskovalca. Osebni podatki, ki so že zbrani in shranjeni, bodo v določenem roku izbrisani v skladu z veljavnimi zakoni in drugimi predpisi, razen če ni zahtevano drugače. Ker Raziskovalec ponuja svoje storitve na podlagi zbiranja potrebnih osebnih podatkov, se vaš umik privolitve šteje za zavrnitev sprejemanja storitev Raziskovalca."</string>
+     <string name="withdraw_consent_summary">Preklic soglasja za Pravila o zasebnosti Raziskovalca</string>
   <string name="wxcircle_platform">Trenutki</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_btn_bind">Mi Račun</string>

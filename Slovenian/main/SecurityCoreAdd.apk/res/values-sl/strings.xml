@@ -267,8 +267,7 @@ Preverite ali je ime vaše korporacije točno. Pred aktivacijo preberite in spre
   <string name="green_guard_title3">Urejaj aplikacije</string>
   <string name="greenguard_child_des">Urejajte naprave svojih prijateljev in družine</string>
   <string name="greenguard_child_des_title">Skenirajte QR kodo za dodajanje naprave</string>
-  <string name="greenguard_functional_description">"Urejajte naprave na daljavo, poglejte informacije o lokaciji,
-kontrolirajte nameščene aplikacije in omejite uporabo"</string>
+  <string name="greenguard_functional_description">"Urejajte naprave na daljavo, poglejte informacije o lokaciji in kontrolirajte nameščene aplikacije</string>
   <string name="greenguard_install_cancle">Ne, hvala</string>
   <string name="greenguard_install_confirm">Namesti</string>
   <string name="greenguard_install_message">"Family Guard je sistemska aplikacija. Za namestitev ne potrebujete spl. povezave."</string>

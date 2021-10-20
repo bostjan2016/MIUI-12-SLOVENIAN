@@ -608,9 +608,17 @@
         <item quantity="other">%1$s, %2$s stvari</item>
         <item quantity="one">%1$s, %2$s stvar</item>
      </plurals>
+     <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d izbranih stvari bo trajno izbrisano iz oblaka in vseh sinhroniziranih naprav. Vseeno izbrišem?</item>
+        <item quantity="one">%d izbrana stvar bo trajno izbrisana iz oblaka in vseh sinhroniziranih naprav. Vseeno izbrišem?</item>
+     </plurals>
 	 <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">"Ne boste mogli vrniti izbrane stvari (%d) če jih izbrišete. Izbrišem vseeno?"</item>
         <item quantity="one">"Ne boste mogli vrniti %d izbrano stvar če jo izbrišete. Izbrišem vseeno?"</item>
+     </plurals>
+     <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d izbranih stvari bo trajno izbrisano. Vseeno izbrišem?</item>
+        <item quantity="one">%d izbrana stvar bo trajno izbrisana. Vseeno izbrišem?</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
         <item quantity="other">"Ne boste mogli vrniti izbrane stvari (%d) če jih izbrišete. Izbrišem vseeno?"</item>

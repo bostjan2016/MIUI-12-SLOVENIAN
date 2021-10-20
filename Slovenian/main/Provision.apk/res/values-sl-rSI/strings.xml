@@ -301,7 +301,7 @@
      <string name="noon">Poldne</string>
      <string name="not_set">Ni nastavljeno</string>
   <string name="note_introduction">Ta aplikacija vam omogoča ustvarjanje, pregled in urejanje beležk.</string>
-  <string name="other_settings">Dodatne nastavitve</string>
+  <string name="other_settings">Osnovne nastavitve</string>
   <string name="other_settings_ad_dialog_agree">Vklop</string>
   <string name="other_settings_ad_dialog_content">"Ko so priporočila za oglase po meri izklopljena, boste še vedno videli enako količino oglasov kot ob vklopu storitve. Oglasi pa ne bodo več ustrezni, ker ne bodo temeljili na vaših osebnih željah."</string>
 <string name="other_settings_ad_dialog_disagree">Izklopi</string>
