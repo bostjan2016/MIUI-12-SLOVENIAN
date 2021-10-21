@@ -616,7 +616,7 @@
      <string name="privacy_policy">Pravila o zasebnosti</string>
      <string name="privacy_policy_update">Posodobljena Pravila o zasebnosti</string>
      <string name="privacy_policy_update_message"><Data>"Skenerja ne boste mogli še naprej uporabljati, če se ne strinjate z njegovo novo različico &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. Se strinjate z posodobitvijo?"</Data></string>
-     <string name="privacy_policy_update_welcome"Pravila o zasebnosti Skenerja so bila posodobljena:</string>
+     <string name="privacy_policy_update_welcome">Pravila o zasebnosti Skenerja so bila posodobljena:</string>
      <string name="privacy_policy_withdrawal_error">"Soglasja ni bilo mogoče preklicati. Počakajte minuto ali dve in poskusite znova."</string>
      <string name="privacy_policy_withdrawal_message"><Data>"Če nadaljujete, boste preklicali privolitev v Pravila o zasebnosti skenerja. To bo označeno kot zavrnitev sprejema storitev skenerja. Morate se strinjati z &lt;a href=\"%1$s\">Privacy Policy&lt;/a> again if you decide to use Scanner. Wothdraw consent now?"</Data></string>
   <string name="processing">Obdelava…</string>
@@ -632,7 +632,7 @@
      <string name="query_tracking">Dostava</string>
      <string name="query_tracknum">Preverite naročilo za hitro dostavo</string>
   <string name="qureyGoods">Išči izdelke</string>
-     <string name="read_contacts_permissions_text">Dovoli Scannerju dostop do stikov, da boste lahko uporabljalo to storitev.</string>
+     <string name="read_contacts_permissions_text">Dovolite skenerju dostop do stikov, da boste lahko uporabljali to storitev.</string>
   <string name="recognition_error_download_cancel">Kasneje</string>
   <string name="recognition_error_download_data_msg">Skeniranje kartic zahteva da prenesete orodje za prepoznavanje velikosti okoli 15M, bodite pozorni na uporabo podatkov</string>
   <string name="recognition_error_download_fail">Ne morem prenesti</string>
