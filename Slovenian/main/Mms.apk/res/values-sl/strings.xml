@@ -850,6 +850,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam ga 
      <string name="pref_title_ad_mms_recognition">Prepoznaj reklamna sporočila</string>
   <string name="pref_title_allow_si_sl_push">Dovoli WAP push sporočila (SI/SL)</string>
   <string name="pref_title_allow_upload_message_info">Pošlji spam sporočila</string>
+     <string name="pref_title_authority_management">Podrobnosti o dovoljenjih</string>
   <string name="pref_title_auto_delete">Izbriši stara sporočila</string>
   <string name="pref_title_card_format">Deli kartični format</string>
   <string name="pref_title_collapse_ad_notification">Skupinska obvestila o reklamnih sporočilih</string>
@@ -870,6 +871,17 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam ga 
   <string name="pref_title_mms_validity_period">Veljavnost MMS-a</string>
   <string name="pref_title_msg_blocked">Seznam blokiranih</string>
   <string name="pref_title_notification_body_enabled">Predogled sporočil</string>
+     <string name="pref_title_perm_audio">Snemanje zvoka</string>
+     <string name="pref_title_perm_calander">Dostop do koledarja</string>
+     <string name="pref_title_perm_call">Klicanje</string>
+     <string name="pref_title_perm_camera">Uporaba kamere</string>
+     <string name="pref_title_perm_location">Lokacija</string>
+     <string name="pref_title_perm_read_call_log">Dostop do zgodovine klicev</string>
+     <string name="pref_title_perm_read_contacts">Dostop do stikov</string>
+     <string name="pref_title_perm_read_mms">Branje SMS</string>
+     <string name="pref_title_perm_send_mms">Pošiljanje SMS</string>
+     <string name="pref_title_perm_storage">Dostop do shrambe</string>
+     <string name="pref_title_perm_write_contacts">Urejanje stikov</string>
   <string name="pref_title_privacy_authority">Avtorizacija</string>
   <string name="pref_title_privacy_policy_detail">Pravila o zasebnosti</string>
   <string name="pref_title_ringtone_repeat">Število zvonjenj</string>
@@ -895,6 +907,16 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam ga 
   <string name="priority_label">Prioriteta:</string>
   <string name="priority_low">Nizka</string>
   <string name="priority_normal">Normalna</string>
+     <string name="privacy_dialog_error_service">Prišlo je do napake strežnika. Počakajte minuto ali dve in poskusite znova.</string>
+     <string name="privacy_dialog_text_policy_link">Pravila o zasebnosti</string>
+     <string name="privacy_dialog_tips_revoke" formatted="false">"Če nadaljujete, boste umaknili svoje soglasje s pravilnikom o zasebnosti %s. Osebni podatki, ki so že zbrani in shranjeni, bodo izbrisani v določenem roku v skladu z veljavnimi zakoni in predpisi, razen če je zahtevano drugače. Ker %s ponuja svoje storitve na podlagi zbiranja potrebnih osebnih podatkov, se bo vaš preklic privolitve štel za zavrnitev sprejemanja storitev %s. Umaknem soglasje zdaj?"</string>
+     <string name="privacy_dialog_tips_update" formatted="false">"%s Pravila o zasebnosti so posodobljena:
+%s
+Preden nadaljujete, preberite in se strinjajte z novo različico pravilnika o zasebnosti."</string>
+     <string name="privacy_dialog_tips_update_confim" formatted="false">"Ne boste mogli še naprej uporabljati %s, razen če se strinjate z novo različico pravilnika o zasebnosti %s. Se strinjate z posodobljeno politiko zasebnosti?"</string>
+     <string name="privacy_dialog_title_revoke_confim">Preklic soglasja</string>
+     <string name="privacy_dialog_title_update">Posodobljena Pravila o zasebnosti</string>
+     <string name="privacy_dialog_title_update_confim">"Ne morem uporabiti aplikacije"</string>
   <string name="privacy_mode_hint">Ne morem poslati sporočila v načinu za goste</string>
   <string name="privacy_password_message1">Geslo za zaščito zasebnosti zaščiti fotografije, beležke in skrite mape.</string>
   <string name="privacy_password_message2">Uporabi Geslo za zaščito zasebnosti. Zaščiti fotografije, beležke in skrite mape</string>
@@ -905,6 +927,10 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam ga 
   <string name="privacy_password_title3">Posodobite vaše geslo</string>
   <string name="privacy_password_title4">Geslo je posodobljeno</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
+     <string name="privacy_policy_name_5g_mms">5G Sporočila</string>
+     <string name="privacy_policy_name_mms">Sporočila</string>
+     <string name="privacy_policy_name_smart_sms">Pametna Sporočila</string>
+     <string name="privacy_policy_name_websms">Mi Sporočila</string>
      <string name="privacy_revoke_nonetwork_msg">Vaša naprava se mora povezati z omrežjem, da boste lahko umaknili soglasje. Preverite omrežne nastavitve in poskusite znova.</string>
      <string name="privacy_revoke_nonetwork_ok">Razumem</string>
      <string name="privacy_revoke_nonetwork_title">"Ne morem se povezati na omrežje"</string>

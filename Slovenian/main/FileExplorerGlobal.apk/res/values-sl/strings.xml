@@ -176,7 +176,7 @@
     <string name="decrypt_to">Dešifriraj in shrani v…</string>
     <string name="decrypting">Dešifriranje…</string>
     <string name="deepclean_apk_content">Izbriši APK datoteke ali nepotrebne aplikacije</string>
-    <string name="deepclean_apk_summary_empty">Vse zgleda vredu, ni APK datotek za počistiti</string>
+    <string name="deepclean_apk_summary_empty">Vse zgleda v redu, ni APK datotek za počistiti</string>
     <string name="deepclean_cache_content">Izbriši podatke ustvarjene v aplikacijah</string>
     <string name="deepclean_cache_summary_empty">Vse zgleda v redu, ni podatkov za počistiti</string>
     <string name="deepclean_large_content">Izbriši datoteke, večje od 10MB</string>
@@ -188,7 +188,7 @@
     <string name="deepclean_list_item_from_music">Glasba</string>
     <string name="deepclean_list_item_from_sdcard">SD kartica</string>
     <string name="deepclean_video_content">Izbriši že ogledane ali nepotrebne videoposnetke</string>
-    <string name="deepclean_video_summary_empty">Vse zgleda vredu</string>
+    <string name="deepclean_video_summary_empty">Vse zgleda v redu</string>
     <string name="default_cache_type">Podatkovne datoteke</string>
     <string name="default_change_log">Posodobite aplikacijo, da preverite nove storitve.</string>
     <string name="delete_dialog_button">Izbriši</string>

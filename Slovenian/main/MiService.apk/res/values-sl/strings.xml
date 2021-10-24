@@ -186,6 +186,7 @@
     <string name="miui_feedback_main_menu_catch_full_log">Ustvari zapise</string>
     <string name="miui_feedback_main_menu_feedback_list">Oglejte si zgodovino povratnih informacij</string>
      <string name="miui_feedback_main_menu_view_privacy">Pravila o zasebnosti</string>
+     <string name="miui_feedback_main_menu_view_withdraw_consent">Preklic soglasja</string>
     <string name="miui_feedback_main_search_footer">Ali to niso vprašanja, ki jih želite vprašati?</string>
   <string name="miui_feedback_main_search_footer_submit">Pošljite povratne informacije</string>
     <string name="miui_feedback_main_search_issue">Vpišite iskalni niz za iskanje</string>
@@ -195,6 +196,8 @@
     <string name="miui_feedback_main_submit_dialog_content">Kaže, da ne moremo najti rešitve za vaš problem. Lahko nam pošljete povratne informacije.</string>
     <string name="miui_feedback_main_submit_dialog_title">Pošljite povratne informacije</string>
     <string name="miui_feedback_main_title">Povratne informacije</string>
+     <string name="miui_feedback_main_withdraw">Preklic</string>
+     <string name="miui_feedback_main_withdraw_consent_hint">"Če nadaljujete, boste umaknili svoje soglasje s politiko zasebnosti %1$s. Osebni podatki, ki so že zbrani in shranjeni, bodo izbrisani v določenem roku v skladu z veljavnimi zakoni in predpisi, razen če je zahtevano drugače. Ker %2$s ponuja svoje storitve na podlagi zbiranja potrebnih osebnih podatkov, bo vaš preklic privolitve štel, da zavračate sprejemanje storitev %3$s. Umaknem soglasje zdaj?"</string>
   <string name="miui_guide_accessibility_image_desc">Slika</string>
     <string name="miui_guide_clear_db_service">\"Storitve in povratne informacije\" brišejo predspomin jezika…</string>
     <string name="miui_guide_footer_desc">Priročnik za začetnike je ustvarjen tako, da vam pomaga izvedeti več o vaši napravi in MIUI. Nekatere slike in videoposnetki v priročniku so narejeni le v referenčne namene in se lahko razlikujejo od dejanskega izdelka. Storitve opisane v tem priročniku se lahko razlikujejo glede na model vaše naprave, različico MIUI in okolje uporabe.</string>
@@ -347,7 +350,7 @@
     <string name="public_net_error_retry">Poskusite ponovno</string>
     <string name="public_net_error_sub_title">Preverite omrežne nastavitve in poskusite ponovno</string>
     <string name="public_net_error_title">Povezava z omrežjem ni uspela</string>
-     <string name="public_open_feedback_service">Odprta storitev</string>
+     <string name="public_open_feedback_service">Začetek</string>
      <string name="public_please_authorize">Za nadaljevanje so potrebna dovoljenja</string>
      <string name="public_welcome_use_feedback_service">Dobrodošli pri uporabi storitev in povratnih informacij. Če imate kakršna koli vprašanja v procesu uporabe izdelkov Xiaomi, lahko v razdelku o storitvah in povratnih informacijah pošljete povratne informacije uporabnikov, si ogledate pogoste težave in oddate poprodajne vloge za izdelke.</string>
   <string name="rationale_ask">Ta aplikacija morda ne bo delovala brez potrebnih dovoljenj.</string>

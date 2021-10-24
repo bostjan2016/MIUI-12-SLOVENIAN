@@ -55,7 +55,7 @@
   <string name="wifi_direct">WiFi Direct</string>
      <string name="wifi_direct_location_rationale">Privzeta storitev tiskanja potrebuje lokacijske storitve, ki omogočajo iskanje naprav v bližini.</string>
   <string name="wifi_direct_permission_rationale">Potrebno je dovoljenje za iskanje naprav v bližini.</string>
-  <string name="wifi_direct_printers">iskalniki z direktnim WiFi</string>
+  <string name="wifi_direct_printers">Tiskalniki z direktnim WiFi</string>
   <string name="wifi_direct_printing">WiFi Direkt tiskanje</string>
      <string name="wifi_direct_problem">Privzeta storitev tiskanja ne najde tiskalnikov WiFi Direkt</string>
 </resources>

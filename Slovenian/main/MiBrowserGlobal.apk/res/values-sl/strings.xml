@@ -1656,7 +1656,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
     <string name="pref_security_remember_passwords_summary">Shrani uporabniška imena in gesla za spletna mesta in jih samodejno izpolni. Shranjene stvari bodo šifrirane in shranjene samo na tej napravi.</string>
     <string name="pref_security_report_url">Izboljša iskanje in brskanje</string>
     <string name="pref_security_report_url_summary">Deli povezave do spletnih mest, ki ste jih obiskali z Xiaomi</string>
-    <string name="pref_security_save_form_data">Zapomni podatke obrazcev</string>
+    <string name="pref_security_save_form_data">Zapomni si podatke obrazcev</string>
     <string name="pref_security_save_form_data_summary">Zapomni si podatke, ki jih vnesete v obrazce, in jih samodejno izpolni. Shranjene stvari bodo šifrirane in shranjene samo na tej napravi.</string>
     <string name="pref_security_show_security_warning">Pokaži varnostna opozorila</string>
     <string name="pref_security_show_security_warning_summary">Pokaži varnostno opozorilo, če pride do težave s certifikatom spletnega mesta</string>

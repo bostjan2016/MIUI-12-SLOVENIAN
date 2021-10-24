@@ -4460,6 +4460,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="game_settings_summary">Vklop bližnjice na nadzorni plošči igre itd</string>
     <string name="game_settings_title">Nastavitve iger</string>
     <string name="game_storage_settings">Igre</string>
+     <string name="gd_setting_title">Pametna orodja</string>
     <string name="general_category_title">Splošno</string>
     <string name="general_notification_header">Upravljanje</string>
      <string name="general_text">Polje za besedilo</string>

@@ -26,7 +26,7 @@
   <string name="create_voip_shortcut_success">Bližnjica ustvarjena</string>
   <string name="cur_activated_number_tag">%s (trenutna številka)</string>
   <string name="dialog_cancel">Prekini</string>
-  <string name="dialog_positive">Vredu</string>
+  <string name="dialog_positive">V redu</string>
   <string name="dlg_add_blacklist">Blokiram to številko?</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Konflikt izjem</string>
   <string name="dlg_black_address_antispam_message">Dodati to lokacijo na Seznam blokiranih?</string>

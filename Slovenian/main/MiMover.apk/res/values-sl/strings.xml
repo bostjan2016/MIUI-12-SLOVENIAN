@@ -403,7 +403,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
   <string name="manual_connection_content3">3. To geslo vnesite v stari napravi za povezovanje.</string>
      <string name="manual_connection_hint">Tapni \"Ročno poveži\" v stari napravi.</string>
   <string name="manual_connection_summary2">"Če te dostopne točke ne najdete, osvežite seznam razpoložljivih omrežij WiFi in poskusite znova."</string>
-  <string name="manual_connection_title">Na to dotopno točko priključite staro napravo</string>
+  <string name="manual_connection_title">Na to dostopno točko priključite staro napravo</string>
     <string name="message_request_package_stats_perm">Tapnite \"Nadaljuj\", da boste odprli Nastavitve in dodelili aplikaciji Mi Mover zahtevana dovoljenja.</string>
   <string name="midnight">Polnoč</string>
     <string name="miui_need_location_permission_summary">Dovolite aplikaciji Mi Mover dostop do lokacije, da lahko najde naprave v bližini. Aplikacije ne boste mogli uporabiti dokler ne dodelite to dovoljenje.</string>

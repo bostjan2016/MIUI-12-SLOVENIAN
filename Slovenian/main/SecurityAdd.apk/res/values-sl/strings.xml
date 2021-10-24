@@ -43,6 +43,9 @@
   <string name="application_item_already_permission">Dovoljeno</string>
   <string name="application_item_disable">Omejeno</string>
   <string name="auto_import_games">Postavite vse vaše igre na eno mesto</string>
+     <string name="auto_task_now_city">Trenutna lokacija</string>
+     <string name="auto_task_search_address_point">Išči lokacijo</string>
+     <string name="auto_task_select_city">Izberi mesto</string>
   <string name="boost_done">Uspešno pohitreno</string>
   <string name="booster_suc">Uspešno pohitreno</string>
   <string name="boostering">Hitrost pospeška…</string>
@@ -260,6 +263,9 @@
   <string name="gs_open_game_booster">Pohitritev hitrosti</string>
   <string name="gs_performance_mode">Način za zmogljivost</string>
   <string name="gs_performance_mode_detail">Povečajte uporabo CPU da zagotovite zmogljivost</string>
+     <string name="gtb_dialog_privacy_speed_message">"Uporabili boste Xunyou pospeševalnik iger. Ta storitev bo zbrala vaš ID računa Mi za beleženje trajanja vašega članstva."</string>
+     <string name="gtb_dialog_privacy_speed_tips"><Data>"Prebral sem in se strinjam z Xunyou pospeševalnik iger &lt;a href=\"%1$s\">Pravila o zasebnosti.&lt;/a>"</Data></string>
+     <string name="gtb_dialog_privacy_speed_title">Xunyou pospeševalnik iger</string>
      <string name="hybrid_provider">Ponuja %1$s</string>
   <string name="i_know">Razumem</string>
      <string name="icon_content_description">Pogovorni okvir</string>
