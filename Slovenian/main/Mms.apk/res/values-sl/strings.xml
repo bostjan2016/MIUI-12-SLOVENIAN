@@ -158,7 +158,9 @@
   <string name="cm_privacy_dialog_spannable_tips">Pravila o zasebnosti</string>
   <string name="cm_privacy_dialog_tips">"Storitev pametnih sporočil ponuja vaš mobilni operater. Sporočila se morajo povezati na splet in dostopiti do vaše lokacije za nemoteno delovanje storitve. Pred začetkom uprabe se morate strinjati z %1s vašega mob. operaterja. Se strinjate?"</string>
   <string name="cm_privacy_dialog_title">Pozor</string>
-     <string name="cmcc_privacy">China Mobile Carrier Pravila o zasbnosti</string>
+     <string name="cmcc_privacy">China Mobile Carrier Pravila o zasebnosti</string>
+     <string name="cn_privacy_dialog_title">Pozor</string>
+     <string name="cn_privacy_update_dialog_title">Posodobljena Pravila o zasebnosti</string>
   <string name="complain_input_number">Vnesite številko telefona</string>
   <string name="complain_jump">Preskoči</string>
   <string name="complain_message_title">Prijavi</string>
@@ -250,6 +252,8 @@
   <string name="delete_wild_sims_title">Izbriši izbrane številke</string>
   <string name="delivery_report_activity">Poročilo o dostavi</string>
   <string name="delivery_toast_body">Sporočilo prejeto od %s.</string>
+     <string name="dialog_agree">Strinjam se</string>
+     <string name="dialog_cancel">Prekliči</string>
   <string name="dialog_choice_all_correct_as_normal">Vsa sporočila od %s</string>
   <string name="dialog_complain_tips">Dovolite aplikaciji sporočila povezavo na omrežje.</string>
   <string name="dialog_message_correct_as_ad">Vsa sporočila od %s (razen kontrolnih kod)bodo premeščena v reklamna sporočila.</string>
@@ -263,6 +267,8 @@
   <string name="dialog_message_networking_rcs">China Mobile Messaging vam omogoča pošiljanje sporočil drugim uporabnikom China Mobile brez stroškov. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Sporočila se marajo povezati na splet in dobiti vašo lokacijo za ponudbo Smart Messaging, prepoznavo ID-ja pošiljatelja in druge storitve. Se strinjate?</string>
   <string name="dialog_message_rcs">China Mobile Messaging vam omogoča pošiljanje sporočil drugim uporabnikom China Mobile brez stroškov. Morate se strinjati z našimi \"%1$s\" pred začetkom uporabe. Se strinjate?</string>
   <string name="dialog_message_sms_report">"Spam sporočila in informacije o pošiljatelju bodo poslani MIUI če jih prijavite. Uporabile se bodo samo za izboljšanje MIUI spam filtra."</string>
+     <string name="dialog_quit">Izhod</string>
+     <string name="dialog_revoke">Preklic</string>
   <string name="dialog_sim_locked_confirm">V redu</string>
   <string name="dialog_sim_locked_message">"Vaša SIM kartica ni popolnoma uporabna v tem telefonu ker ni v skladu z pravili in pogoji vašega predplačila. Za več informacij kontaktirajte Xiaomi servisne centre ali trgovino kjer ste kupili napravo."</string>
   <string name="dialog_smart_message_privacy_tips">Pametna sporočila ponuja Dianhuabang. Pred uporabo se strinjajte z \"%1$s\". Potrebna je spletna povezava in dostop do lokacije. Se strinjate?</string>
@@ -579,6 +585,8 @@ Preverite SIM kartico."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne morem naložiti stvari"</string>
   <string name="mms">MMS</string>
+     <string name="mms_5g_mms_privacy_policy">5G Sporočila Pravila o zasebnosti</string>
+     <string name="mms_5g_mms_privacy_policy_revoke">Preklic soglasja za Pravila o zasebnosti 5G sporočila</string>
   <string name="mms_block_alert_message">Vsa MMS sporočila razen poslanih od pooblaščenih pošiljateljev bodo blokirana. Pooblaščeni pošiljatelji vključujejo omrežne operaterje, državne sisteme za rezervacijo železnic itd.</string>
   <string name="mms_block_alert_ok">Blokiraj</string>
   <string name="mms_block_alert_title">Blokiraj MMS</string>
@@ -708,6 +716,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam ga 
   <string name="mx_on_sim_2">Mi sporočila SIM reža 2</string>
   <string name="mx_online">Aktivirano</string>
   <string name="mx_privacy_policy">Mi sporočila Pravila o zasebnosti</string>
+     <string name="mx_privacy_policy_revoke">Preklic soglasja k politiki zasebnosti Mi sporočila</string>
   <string name="mx_reactivate">Ponovno aktiviraj Mi sporočila</string>
   <string name="mx_recommend_msg">Dotakni se za vklop Mi sporočila.</string>
   <string name="mx_stranger_recommend_msg">Pritisni za blokiranje Mi Sporočil iz neznanih številk</string>
@@ -776,6 +785,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam ga 
   <string name="perm_purpose_rcs_account">"Za prikazovanje začetnih nasvetov novim uporabnikom"</string>
   <string name="perm_purpose_rcs_phone_state">Za dostop do IMEI zaradi identifikacije vaše naprave</string>
   <string name="perm_purpose_rcs_storage">Za shranjevanje slik, videoposnetkov, datotek in ostalih RCS priponk</string>
+     <string name="permission_new_retry_dialog_msg">Sporočila mora imeti dostop do stikov, da lahko normalno deluje. Dovoljenja lahko spremenite v Nastavitve > Aplikacije > Nastavitve sistemskih aplikacij.</string>
   <string name="permission_retry_deny">Prekliči</string>
   <string name="permission_retry_dialog_msg">Aplikacija Sporočila potrebuje dovoljenje za pravilno delovanje. Če želite dodeliti potrebna dovoljenja, tapnite \"Nastavitve\", izberite \"Dovoljenja za aplikacije\" in aplikaciji omogočite dostop do telefona, sporočil SMS in stikov.</string>
   <string name="permission_retry_setting">Nastavitve</string>
@@ -1204,7 +1214,7 @@ Oglejte si priporočene!"</string>
   <string name="second_mms_introduction">pojdite v Drugi prostor</string>
   <string name="second_mms_switch">Zamenjaj uporabnika</string>
   <string name="secs">sek</string>
- <string name="security_alert_desc"><font color="#7f000000">"Pošiljatelja ni med vašimi stiki.
+  <string name="security_alert_desc"><font color="#7f000000">"Pošiljatelja ni med vašimi stiki.
  "</font></string>
   <string name="security_alert_desc_highlight">Prijavi to številko</string>
   <string name="security_alert_dialog_desc">Pošlji to številko (%s) in sporočila Xiaomi-ju v pregled.</string>
@@ -1277,6 +1287,7 @@ Oglejte si priporočene!"</string>
   <string name="smart_messages_network_allow_title">Spletna povezava je obvezna</string>
   <string name="smart_msg_main_purpose">Pametna sporočila ponuja prepoznavanje ID-a pošiljatelja in storitve pametnega menija.</string>
   <string name="smart_msg_privacy_policy">Pametna sporočila Pravila o zasebnosti</string>
+     <string name="smart_msg_privacy_policy_revoke">Umakni soglasje k politiki zasebnosti za pametna sporočila</string>
      <string name="smart_msg_upgrade_main_purpose">"Pametna sporočila zdaj dela z MMS. Uporabili boste lahko več storitev pošiljateljev in prejemali sporočila v novih oblikah."</string>
   <string name="sms_card_partner_label">"Sms kartica partnerja: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
@@ -1354,10 +1365,37 @@ Oglejte si priporočene!"</string>
   <string name="system_permission_declare_single_link">Preberite in sprejmite naše %1s pred uporabo.</string>
   <string name="system_permission_declare_triple_link" formatted="false">Preberite in sprejmite naše %1s, %2s, in %3s pred uporabo.</string>
   <string name="system_permission_declare_use_network">Povežite se na omrežje</string>
+     <string name="system_permission_disabled">Ni dovoljeno</string>
+     <string name="system_permission_enabled">Dovoljeno</string>
+     <string name="system_permission_perm_agree_desc">Dovolite tej aplikaciji, da se poveže s spletom in dodelite neobvezna dovoljenja za uporabo vseh njenih funkcij.</string>
+     <string name="system_permission_perm_all_purpose">Dobrodošli v Sporočila! To aplikacijo lahko uporabite za pošiljanje in prejemanje besedilnih in večpredstavnostnih sporočil.</string>
   <string name="system_permission_perm_answer_call">Klicanje</string>
+     <string name="system_permission_perm_calendar">Za ustvarjanje koledarskih dogodkov</string>
+     <string name="system_permission_perm_call_log">Za dostop do vaših nedavnih stikov pri ustvarjanju sporočil</string>
+     <string name="system_permission_perm_call_phone">Za klicanje</string>
+     <string name="system_permission_perm_copy_menu_text">Za dostop do stvari, kopiranih v odložišče</string>
+     <string name="system_permission_perm_email">Za ustvarjanje in pošiljanje e-pošte</string>
+     <string name="system_permission_perm_get_account">Za varnostno kopiranje v oblaku</string>
+     <string name="system_permission_perm_get_phone_state">Za dostop do telefonske številke in stanja naprave</string>
+     <string name="system_permission_perm_location">Za dostop in skupno rabo vaše lokacije</string>
+     <string name="system_permission_perm_new_read_sms">Za dostop do vsebine sporočila</string>
+     <string name="system_permission_perm_new_receive_mms">Za dostop do vsebine sporočila</string>
+     <string name="system_permission_perm_paste_menu_text">Za dostop in shranjevanje stvari v odložišče</string>
+     <string name="system_permission_perm_rcs_call_phone">Za sprejemanje, prekinitev in spremljanje klicev</string>
+     <string name="system_permission_perm_read_contact">Za dostop do stikov pri ustvarjanju sporočil</string>
   <string name="system_permission_perm_read_mms">Branje MMS-ov</string>
   <string name="system_permission_perm_read_numbers">Branje številk telefona</string>
-  <string name="system_permission_perm_send_mms">Poslati MMS</string>
+     <string name="system_permission_perm_read_sms">Dovolite aplikaciji Sporočila, da bere SMS</string>
+     <string name="system_permission_perm_record_audio">Za snemanje zvoka</string>
+  <string name="system_permission_perm_send_mms">Pošiljanje MMS</string>
+     <string name="system_permission_perm_send_sms">Za pošiljanje besedilnih sporočil</string>
+     <string name="system_permission_perm_sms">Za ogled in pošiljanje sporočil</string>
+     <string name="system_permission_perm_storage">Za ogled, pošiljanje in shranjevanje datotek</string>
+     <string name="system_permission_perm_takephoto">Za snemanje fotografij in videov</string>
+     <string name="system_permission_perm_write_contact">Za ustvarjanje in urejanje stikov</string>
+     <string name="system_permission_perm_write_mms">Dovolite aplikaciji Sporočila, da piše MMS</string>
+     <string name="system_permission_perm_write_sms">Dovolite aplikaciji Sporočila, da piše SMS</string>
+     <string name="system_permission_requested">Vprašaj</string>
   <string name="tab_finance">Finance</string>
   <string name="tab_message">Sporočila</string>
   <string name="tab_promotions">Reklame</string>
@@ -1392,9 +1430,19 @@ Oglejte si priporočene!"</string>
   <string name="to_label">"Za "</string>
   <string name="to_send_wrapper">Poslano bo ob %s</string>
   <string name="toast_failed_to_close_priv_auth">"Avtorizacija ne more biti preklicana. Preverite omrežne nastavitve in poskusite ponovno."</string>
+     <string name="toast_new_not_show_microphone_perm_req">Dovolite aplikaciji Sporočila dostop do mikrofona za uporabo te storitve</string>
+     <string name="toast_not_show_account_perm_req">Dovolite aplikaciji Sporočila dostop do računov, shranjenih v vaši napravi, za uporabo te storitve</string>
+     <string name="toast_not_show_calendar_perm_req">Dovolite aplikaciji Sporočila dostop do koledarja za uporabo te storitve</string>
+     <string name="toast_not_show_call_log_perm_req">Dovolite aplikaciji Sporočila dostop do vaše zgodovine klicev, če želite uporabljati to storitev</string>
+     <string name="toast_not_show_call_perm_req">Za uporabo te funkcije dovolite aplikaciji Sporočila, da kliče</string>
   <string name="toast_not_show_camera_perm_req">Aplikaciji Sporočila omogočite uporabo kamere za uporabo te storitve</string>
-  <string name="toast_not_show_microphone_perm_req">Dovoli aplikaciji Sporočila uporabo mikrofona za uporabo te storitve</string>
+     <string name="toast_not_show_clipboard_perm_req">Dovolite aplikaciji Sporočila dostop do odložišča za uporabo te storitve</string>
+     <string name="toast_not_show_email_perm_req">Dovolite aplikaciji Sporočila dostop do vaše e-pošte za uporabo te storitve</string>
+     <string name="toast_not_show_location_perm_req">Dovolite aplikaciji Sporočila dostop do vaše lokacije za uporabo te storitve</string>
+  <string name="toast_not_show_microphone_perm_req">Dovolite aplikaciji Sporočila uporabo mikrofona za uporabo te storitve</string>
+     <string name="toast_not_show_send_sms_perm_req">Če želite uporabljati to storitev, najprej dovolite tej aplikaciji, da pošilja sporočila.</string>
   <string name="toast_not_show_storage_perm_req">Dovolite aplikaciji Sporočila dostop do pomnilnika, da boste lahko uporabljali to storitev</string>
+     <string name="toast_not_show_write_contacts_perm_req">Dovoli aplikaciji Sporočila, da ureja stike za uporabo te storitve</string>
   <string name="toast_pending_hangup_msg">Sporočilo bo poslano po koncu klica</string>
   <string name="today">Danes</string>
   <string name="tomorrow">Jutri</string>
@@ -1473,7 +1521,7 @@ Oglejte si priporočene!"</string>
   <string name="wild_msg_title">Izberite številke telefona za sinhr.</string>
      <string name="xiaomi_market_sdk_update_dialog_cancel">Prekliči</string>
      <string name="xiaomi_market_sdk_update_dialog_ok">V redu</string>
-     <string name="xiaomi_market_sdk_update_dialog_title">%s nova različica</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">Posodobitev na voljo</string>
   <string name="xiaomi_service_number">Številka storitve</string>
   <string name="yellowpage_recommend_msg">"Preverite MIUI opravilo za pošiljanje sporočil"</string>
   <string name="yes">V redu</string>

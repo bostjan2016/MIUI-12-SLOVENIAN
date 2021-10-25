@@ -8615,6 +8615,7 @@ To velja za vse uporabnike telefona."</string>
     <string name="rx_link_speed">%1$d Mb/s</string>
   <string name="rx_link_speed_label">Hitrost prejemanja:</string>
     <string name="rx_wifi_speed">Hitrost povezave za prejemanje</string>
+     <string name="safe_install_mode_settings">Varni način</string>
     <string name="safety_and_regulatory_info">Priročnik z varn. in zak. predpis. inf.</string>
      <string name="sar">Informacije o izpostavljenosti RF</string>
      <string name="saturday">Sobota</string>

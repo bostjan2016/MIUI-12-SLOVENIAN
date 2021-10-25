@@ -1495,6 +1495,7 @@ Izboljša varnost vašega računa."</string>
     <string name="tab_name_moment">Trenutki</string>
     <string name="tab_name_trending">V trendu</string>
     <string name="tab_name_video">Videoposnetki</string>
+     <string name="target_sdk_version_30_upgrade_tips">Nekaterih videoposnetkov si tukaj morda ne boste mogli ogledati zaradi omejitev Android 11. Tapnite \"Datoteke\", da poiščete druge videoposnetke.</string>
   <string name="temporary_not_available">Ta storitev še ni na voljo</string>
      <string name="the_item_choosed_tint">%s izbrano</string>
     <string name="thursday">Četrtek</string>

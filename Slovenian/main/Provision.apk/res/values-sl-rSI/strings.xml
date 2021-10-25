@@ -289,7 +289,7 @@
      <string name="msim_setting_default_data">Podatkovna SIM</string>
      <string name="msim_setting_default_voice">Privzeta SIM za klice</string>
   <string name="multisim_settings_category">Nastavitve izbrane SIM kartice</string>
-     <string name="multisim_settings_sb_title">Najdena 1 SIM kartica</string>
+     <string name="multisim_settings_sb_title">Najdena %d SIM kartica</string>
   <string name="multisim_settings_title">Najdeni 2 SIM kartici</string>
   <string name="navigation_picker_gesture_guide">Vodič za gibe</string>
   <string name="navigation_picker_radio_text_full_screen">Gibi v celem zaslonu</string>
@@ -506,7 +506,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="service_policy_adjust_content">Xunlei Pravila o zasebnosti</string>
   <string name="service_policy_download"><Data>Omrežne storitve Xunlei &lt;a href=%1$s>Xunlei Pravila o zasebnosti&lt;/a > in &lt;a href=%1$s>Omrežne storitve Xunlei Pogoji uporabe&lt;/a > pred uporabo.</Data></string>
   <string name="service_privacy_index">Pravila o zasebnosti</string>
-   <string name="service_security_over_r"><Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a > pred uporabo Varnosti.&lt;br/>&lt;br/>V skladu s standardi Android 11 bo enkratno dovoljenje preklicano v 5 sekundah po prenehanju izvajanja ustrezne aplikacije. Če aplikacijo odprete v tem kratkem času, bo dovoljenje nato odvzeto.</Data></string>
+   <string name="service_security_over_r"><Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a >.&lt;br/>&lt;br/>V skladu s standardi Android R bo enkratno dovoljenje umaknjeno v določenem časovnem obdobju (okoli &lt;xliff:g example=5 sekund id=short>%2$s&lt;/xliff:g>) ko se ustrezna aplikacija neha izvajati. Če aplikacijo odprete v tem kratkem času, bo dovoljenje umaknjeno.</Data></string>
      <string name="service_sim_activation">Aktiviranje kartice SIM</string>
   <string name="servicestate_title">Izjava o osnovnih storitvah</string>
   <string name="setting_locale">Nastavljanje regije…</string>

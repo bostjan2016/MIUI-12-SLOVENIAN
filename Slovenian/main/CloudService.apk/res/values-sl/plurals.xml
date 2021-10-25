@@ -113,8 +113,12 @@
         <item quantity="other">Poskusi ponovno čez %d sek.</item>
         <item quantity="one">Poskusi ponovno čez %d sekundo</item>
      </plurals>
+     <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">"Nisem mogel sinh. %s stvari"</item>
+        <item quantity="one">"Nisem mogel sinh. %s stvar"</item>
+     </plurals>
      <plurals name="half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">Pred pol ure</item>
      </plurals>
      <plurals name="in_a_hour">
         <item quantity="other">Čez 1 uro</item>

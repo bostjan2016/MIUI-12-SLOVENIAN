@@ -157,6 +157,8 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
   <string name="HIPS_Perm_Mobile_Connectivity">Sprememba podatkovne povezave</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Desc">vključiti/izključiti podatkovno povezavo</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Hint">(%1$s) aplikacij lahko vključi/izključi podatkovno povezavo</string>
+     <string name="HIPS_Perm_NEARBY_DEVICES">Poveži se z napravami v bližini</string>
+     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Odkrij in se poveži z napravami v bližini</string>
   <string name="HIPS_Perm_Network_Accept">Sprejmem povezavo z %1$s?</string>
   <string name="HIPS_Perm_Network_Connect">Povezano na %1$s</string>
   <string name="HIPS_Perm_Network_Listen">Poslušam na vratih %1$s</string>

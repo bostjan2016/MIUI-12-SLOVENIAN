@@ -988,6 +988,7 @@ za fotografije"</string>
   <string name="filter_people_sepia">Sepia</string>
   <string name="filter_people_story">Zgodba</string>
   <string name="filter_people_tea">Čaj</string>
+     <string name="filter_popular_agave">Agava</string>
      <string name="filter_popular_autumn">Jesen</string>
      <string name="filter_popular_blackred">Sangria</string>
      <string name="filter_popular_bluedream">Dremanje</string>
@@ -1005,9 +1006,12 @@ za fotografije"</string>
      <string name="filter_popular_kamakura">Kamakura</string>
      <string name="filter_popular_lnk">Črnilo</string>
      <string name="filter_popular_mango">Mango</string>
+     <string name="filter_popular_navy">Mornarica</string>
+     <string name="filter_popular_pearl">Biser</string>
      <string name="filter_popular_pinellia">Pinellia</string>
      <string name="filter_popular_polaroid">Polaroid</string>
      <string name="filter_popular_purple">Viola</string>
+     <string name="filter_popular_retro_powder">Prah</string>
      <string name="filter_popular_shallow_summer">Junij</string>
      <string name="filter_popular_smokegreen">Sage</string>
      <string name="filter_popular_summercloud">Vesper</string>
@@ -1019,9 +1023,14 @@ za fotografije"</string>
      <string name="filter_popular_youth">Juventas</string>
      <string name="filter_portrait_greyish">Pepel</string>
   <string name="filter_portrait_hint">Fokus v barvi</string>
+     <string name="filter_portrait_holiday">Počitnice</string>
+     <string name="filter_portrait_light_oxygen">Kisik</string>
+     <string name="filter_portrait_mint">Meta</string>
   <string name="filter_portrait_mist">Meglica</string>
      <string name="filter_portrait_mojito">Mojito</string>
-  <string name="filter_portrait_painting">Barvanje</string>
+     <string name="filter_portrait_painting">Barvanje</string>
+     <string name="filter_portrait_pink_orange">Citrus</string>
+     <string name="filter_portrait_protist">Original</string>
      <string name="filter_portrait_waterblue">Aquamarine</string>
   <string name="filter_scene_city">Mesto</string>
   <string name="filter_scene_df">Meglica</string>
@@ -1524,6 +1533,7 @@ za fotografije"</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
+     <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>

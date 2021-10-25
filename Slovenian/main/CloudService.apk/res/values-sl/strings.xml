@@ -294,6 +294,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
+     <string name="gallery_auto_sync_fail_noti_content">V oblaku ni dovolj prostora za shranjevanje. Nadgradite načrt prostora za shranjevanje za sinhronizacijo fotografij in videoposnetkov.</string>
   <string name="get_first_month_gb">Pridobi %s brezplačnega prostora</string>
   <string name="get_this_month_gb">Pridobi %s brezplačnega prostora ta mesec</string>
   <string name="google_100gb">100GB</string>

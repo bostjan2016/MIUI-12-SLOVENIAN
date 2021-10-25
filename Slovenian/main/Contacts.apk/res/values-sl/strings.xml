@@ -182,6 +182,8 @@
      <string name="bh_permission_contact_desc">Za dopolnitev stanja vaših stikov</string>
      <string name="bh_permission_get_accounts_desc">Za oddajo naročil in preverjanje njihovega stanja</string>
      <string name="bh_permission_read_call_log_desc">Za prikaz trajanja klica</string>
+     <string name="bh_permission_read_call_log_desc_and_reason">Branje dnevnika klicev za prikaz trajanja klica</string>
+     <string name="bh_permission_read_contact_desc_and_reason">Branje stikov, da napolnite stanje svojih stikov</string>
      <string name="bh_permission_read_phone_state_desc">Za prikaz telefonskih številk in povezanih informacij o operaterju</string>
      <string name="bh_pkg_data_cant_query">"Podrobnosti ni mogoče pokazati zaradi omejitev operaterja"</string>
      <string name="bh_please_check_operation">Preverite, ali je nosilec pravilno nastavljen</string>

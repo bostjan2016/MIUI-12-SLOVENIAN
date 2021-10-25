@@ -37,6 +37,7 @@
   <string name="alert_message_delete_record">Brisanje posnetka z vaše naprave bo izbrisal ta posnetek v Mi Cloudu. Izbrišem zdaj?</string>
   <string name="alert_message_delete_record_title">Izbriši posnetek</string>
      <string name="all_record">Vsi posnetki</string>
+     <string name="allowed">Dovoljeno</string>
      <string name="am">dop.</string>
   <string name="app_name">Snemanje</string>
   <string name="app_record">Posnetki aplikacij</string>
@@ -334,6 +335,7 @@
      <string name="no_records">Tu še ni ničesar</string>
      <string name="noon">Poldne</string>
      <string name="normal_settings_pref_title">Splošne nastavitve</string>
+     <string name="not_allowed">Ni dovoljeno</string>
   <string name="not_set">Ni nastavljeno</string>
   <string name="notification_message_all_paused">Čakam na povezavo WiFi.</string>
   <string name="notification_playback">Predvajanje...</string>
@@ -379,6 +381,15 @@
      <string name="pay_error_cancel">Plačilo je bilo preklicano</string>
      <string name="pay_error_null">"Plačila ni bilo mogoče dokončati. Preverite svoj račun."</string>
      <string name="pay_error_unknown">Neznana napaka</string>
+     <string name="permission_desc">Podrobnosti o dovoljenjih</string>
+     <string name="permission_dialog_cancel">Prekliči</string>
+     <string name="permission_dialog_ok">Nastavitve</string>
+     <string name="permission_record">Snemaj zvok</string>
+     <string name="permission_record_description">Za zagotavljanje storitev snemanja zvoka</string>
+     <string name="permission_storage">Dostop do shrambe</string>
+     <string name="permission_storage_description">Za upravljanje posnetkov in njihovo prenašanje iz oblaka</string>
+     <string name="permission_storage_description_for_download">Za prenos posnetkov iz oblaka</string>
+     <string name="permission_storage_description_for_manage_files">Za upravljanje posnetkov</string>
   <string name="playback_delete_records">Izbriši posnetek</string>
   <string name="playback_share_records">Deli posnetek</string>
      <string name="pm">pop.</string>
@@ -399,6 +410,7 @@
   <string name="preference_status_bar_indicator_prompt">Pokaži bližnjico v obvestilni vrstici med snemanjem</string>
   <string name="preference_tip_rename">Ročno poimenuj posnetek</string>
   <string name="privacy_policy_title">Pravila o zasebnosti</string>
+     <string name="privacy_settings">Zasebnost</string>
   <string name="recognition_button_add_to_queue">Dodaj v čakalno vrsto</string>
   <string name="recognition_button_cancel">Ne zdaj</string>
   <string name="recognition_button_start">Prepoznavanje</string>
@@ -466,6 +478,7 @@
   <string name="record_mark_point">Označi %s</string>
   <string name="record_name_hour">.</string>
   <string name="record_name_minute">​</string>
+     <string name="record_permission_dialog_title">Potrebna so dovoljenja za mikrofon</string>
   <string name="record_quliaty_preference_title">Kvaliteta snemanja</string>
   <string name="record_resotre">Obnovi posnetke</string>
      <string name="recorder_record">Avdio</string>
@@ -530,6 +543,7 @@
   <string name="status_bar_back">Dotaknite se da se vrnete na snemanje</string>
   <string name="status_bar_recording">Snemam...</string>
   <string name="status_bar_recording_pause">Snemanje zaustavljeno</string>
+     <string name="storage_permission_dialog_title">Potrebna so dovoljenja za shrambo</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
@@ -579,6 +593,7 @@
   <string name="user_feedback">Povratna inf.</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
+     <string name="view_privacy">Pokaži Pravila o zasebnosti</string>
   <string name="webview_check_network">Omrežne nastavitve</string>
   <string name="webview_data_error">Prišlo je do napake</string>
   <string name="webview_locating_fail">"Ne morem najti vaše lokacije"</string>
