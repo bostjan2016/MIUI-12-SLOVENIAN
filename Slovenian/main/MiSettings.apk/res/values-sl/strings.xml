@@ -157,6 +157,7 @@
   <string name="dc_lignt_enable_hint">Način proti utripanju nastavi osvežitev zaslona na 60 Hz. Spremenim na način preprečevanja utripanja?</string>
      <string name="delete_first_to_add_animal">Če želite dodati novo stvar, najprej izbrišite kako.</string>
      <string name="desktop_widget_authorization">Dotaknite se, če želite odobriti dovoljenja za ogled statistike</string>
+     <string name="desktop_widget_authorization_new">Tapnite za ogled statistike časa uporabe</string>
      <string name="desktop_widget_not_support">"Statistike časa zaslona
 niso ustvarjene v drugem prostoru"</string>
      <string name="desktop_widget_screen_use_time">Čas zaslona</string>

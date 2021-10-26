@@ -1171,6 +1171,8 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
   <string name="system_busy_or_network_error">Prišlo je do napake. Počakajte minuto ali dve in poskusite ponovno.</string>
      <string name="system_cta_retry_get_permission_btn_pad">Začni</string>
      <string name="system_cta_retry_get_permission_msg_pad">Zahtevana so dovoljenja</string>
+     <string name="talkback_hide_passcode">Skrij geslo</string>
+     <string name="talkback_show_passcode">Pokaži geslo</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>

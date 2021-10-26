@@ -172,8 +172,8 @@
      <string name="fmt_weekday_timezone">W z</string>
   <string name="font_hint_large">Privzeta velikost teksta</string>
   <string name="font_hint_normal">Povečaj velikost teksta</string>
-  <string name="framework_introduction">Mi Services Framework vam omogoča uporabo Mi Računa, Mi Push, Mi Stats in MIUI BI.</string>
-  <string name="framwork_base_service">Za nudenje teh storitev Mi Services Framework (Mi Račun, Mi Push, Mi Stats, MIUI BI) potrebuje povezavo s spletom, dostop do št. telefona, IMEI in IMSI in sprejem pojavnih obvestil.</string>
+  <string name="framework_introduction">Mi Services Framework vam omogoča uporabo Mi Računa, Mi Push, Analitika in MIUI BI.</string>
+  <string name="framwork_base_service">Za nudenje teh storitev Mi Services Framework (Mi Račun, Mi Push, Analitika, MIUI BI) potrebuje povezavo s spletom, dostop do št. telefona, IMEI in IMSI in sprejem pojavnih obvestil.</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>

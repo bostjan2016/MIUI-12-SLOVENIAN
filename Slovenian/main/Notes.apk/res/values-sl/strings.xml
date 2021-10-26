@@ -27,6 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
+     <string name="action_collapse">Skrij</string>
+     <string name="action_expand">Pokaži več</string>
   <string name="action_folder_description">Pokaži mape</string>
   <string name="action_mode_cancel_folder_priority">"Ne kaži najprej map"</string>
   <string name="action_mode_switcher_folder_priority">Najprej pokaži mape</string>
@@ -118,6 +120,7 @@
   <string name="call_folder_name">Beležka klicev</string>
   <string name="call_record_folder_name">Beležka klicev</string>
   <string name="cancel_alarm_description">Odpovej alarm</string>
+     <string name="canvas_is_too_large_to_share_phone">Ta stvar je prevelika za deljenje</string>
      <string name="character_counter_content_description">Vnešeno znakov %1$d od %2$d</string>
      <string name="character_counter_overflowed_content_description">Preseženo znakov %1$d od %2$d</string>
   <string name="check_in_todo_app">Pokaži naloge</string>
@@ -334,6 +337,7 @@ Tapnite + da napravite mapo"</string>
   <string name="gesture_guide_ok">Nauči me</string>
   <string name="gesture_guide_title">Kretnje</string>
      <string name="hand_write_only_support_tablet_editing">Ročno napisane beležke je možno urejati samo na tabličnih računalnikih</string>
+     <string name="hand_write_syncing_phone">Sinhronizacija…</string>
      <string name="handwrite_description">Rokopis</string>
   <string name="hear_note">Govorjene beležke</string>
   <string name="hidden_notes_fragment_title">Skrite beležke</string>

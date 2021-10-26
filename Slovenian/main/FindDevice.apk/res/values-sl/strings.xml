@@ -235,6 +235,9 @@
   <string name="sys_notification_async_open_failed_title">"Ne morem vključiti Najdi napravo"</string>
   <string name="sys_notification_async_verify_content">Naša posodobljena varnostna pravila zahtevajo da je Najdi napravo ponovno aktiviran.</string>
   <string name="sys_notification_async_verify_title">Ponovno aktiviraj Najdi napravo</string>
+     <string name="talkback_back">Nazaj</string>
+     <string name="talkback_hide_pwd">Skrij geslo</string>
+     <string name="talkback_show_pwd">Pokaži geslo</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>

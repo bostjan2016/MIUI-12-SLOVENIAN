@@ -168,6 +168,9 @@
      <string name="friday_short">Fri</string>
      <string name="friday_shortest">Fri</string>
     <string name="functions_are_being_developed">Ta storitev bo na voljo kmalu. Ostanite v stiku!</string>
+     <string name="global_pad">Moja tablica</string>
+     <string name="global_pc">Moj prenosnik</string>
+     <string name="global_phone">Moj telefon</string>
   <string name="go_to_settings">Nastavitve</string>
   <string name="guide_summary_1">Druga oseba se lahko dotakne preklopnika v plošči za obvestila</string>
      <string name="guide_summary_2">"Izberite napravo, v katero želite poslati predmete, in tapnite njeno ikono"</string>
