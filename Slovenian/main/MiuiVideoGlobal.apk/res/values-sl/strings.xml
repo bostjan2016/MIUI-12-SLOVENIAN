@@ -117,6 +117,8 @@
      <string name="background_playback_enabled">Predvajanje v ozadju je vklopljeno</string>
     <string name="before_yestoday">Pred 2 dnevoma</string>
   <string name="bind_sign_in_title">Dodaj Mi račun</string>
+     <string name="box_title_gallery">Video orodjarna</string>
+     <string name="box_title_mivideo">Dodatne lastnosti</string>
      <string name="brvah_app_name">Knjižnica</string>
     <string name="cancel">Prekliči</string>
     <string name="cancel_choose">Prekliči izbrano</string>
@@ -173,6 +175,7 @@
     <string name="choose_to_signup">Ne, ga bom ustvaril</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="click_to_open_pip">Dotaknite se za preklop na sliko v sliki</string>
+     <string name="click_to_play_video_push_context">Tapnite za predvajanje videoposnetka</string>
     <string name="click_to_reload_more">Tapnite, da naložite več</string>
     <string name="click_to_retry">Poskusite ponovno</string>
      <string name="close">Zapri</string>
@@ -293,8 +296,15 @@ Pošljite to kodo nadzorniku."</string>
      <string name="dialog_app_comment_select_feedback">Nam lahko posredujete tudi povratne informacije?</string>
      <string name="dialog_app_comment_select_praise">Lepo! Boste ocenili Mi Video tudi v Trgovini Play?</string>
      <string name="dialog_app_comment_title">Ocenite našo aplikacijo</string>
+     <string name="dialog_bookmark_add">Prekliči</string>
+     <string name="dialog_bookmark_cancel">Cancel</string>
      <string name="dialog_disagree_privacychange_info">"Če se ne strinjate z našo politiko zasebnosti, ne boste mogli uporabljati spletnih storitev pretakanja Mi Video. Dotaknite se \ "Prekliči \", če se želite vrniti, ali \ "Ne strinjam se \", če želite nadaljevati, in uporabite Mi Video samo kot lokalni predvajalnik."</string>
      <string name="dialog_disagree_privacychange_title">"Se ne strinjate?"</string>
+     <string name="dialog_edit_hint_bookmarks_name">Ime zaznamka</string>
+     <string name="dialog_edit_hint_bookmarks_url">URL</string>
+     <string name="dialog_jumpto_choose">"Ne kaži več"</string>
+     <string name="dialog_jumpto_content">Za dostop do dodatnih storitev predvajanja preklopim na Mi Video?</string>
+     <string name="dialog_jumpto_title">Mi Video</string>
      <string name="dialog_privacy_change_info">"Zaradi prilagoditev storitev, ki jih ponujamo, smo posodobili Pravilnik o zasebnosti Mi Video. Če želite v celoti razumeti svoje pravice kot uporabnik in načine, kako uporabljamo vaše podatke, preberite in se strinjate z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> pred uporabo."</string>
      <string name="dialog_privacy_change_title">Posodobitev Pravil o zasebnosti</string>
     <string name="dialog_privacy_info_new2">Za uporabo storitev se morate strinjati s tem, da bo aplikacija %1$s zbirala, obdelovala in uporabljala vaše osebne informacije. Potrjujete, da ste prebrali in razumete &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> s pritiskom na spodnji gumb \"Strinjam se\".</string>
@@ -310,12 +320,16 @@ Pošljite to kodo nadzorniku."</string>
     <string name="dialog_privacy_title">Pogoji in pravila</string>
     <string name="dialog_revoke_privacy_info_new2">Ko prekličete dovoljenje bo aplikacija prenehala zbirati podatke, vsi povezani podatki pa bodo izbrisani iz naših strežnikov. Zaradi tega je lahko aplikacija tako rekoč neuporabna. Želite vseeno preklicati dovoljenje?</string>
     <string name="dialog_revoke_privacy_title">Preklic dovoljenja</string>
+     <string name="dialog_set_default_later">Ne, hvala</string>
+     <string name="dialog_set_default_set">Nastavi</string>
+     <string name="dialog_set_default_text">Nastavim Mi Video za privzeti video predvajalnik?</string>
      <string name="disagree">"Ne strinjam se"</string>
     <string name="diy_channels_tips">Zdaj si lahko prilagodite seznam kanalov.</string>
     <string name="do_not_show_again">Ne kaži več</string>
   <string name="download">Prenos</string>
     <string name="download_checking_tip">Pripravljanje na prenos…</string>
     <string name="download_complete">Prenešeno</string>
+     <string name="download_completed_push_title">Prenos končan</string>
   <string name="download_delete_tip">Izbrišem izbrano?</string>
   <string name="download_delete_title">Izbriši</string>
      <string name="download_guide_click_icon_to_website_or_enter_url">Dotaknite se bližnjice, da odprete spletno mesto, ali vnesite URL</string>
@@ -615,6 +629,8 @@ Pošljite to kodo nadzorniku."</string>
     <string name="have_learned">Razumem</string>
     <string name="hidden_channels">Spodnji kanali ne bodo prikazani na Začetni strani.</string>
   <string name="hide">Skrij</string>
+     <string name="hint_icon_ad_title">Priporočeno</string>
+     <string name="hint_in_mivideo">Lahko preverite stransko ploščo za dodatne storitve</string>
     <string name="history">Zgodovina</string>
     <string name="history_local_video">Lokalno</string>
     <string name="history_online_video">Na spletu</string>
@@ -1515,6 +1531,13 @@ Izboljša varnost vašega računa."</string>
 	<string name="title_firework_recommend">Firework priporočila</string>
     <string name="title_publisher">Ustvarjalci</string>
     <string name="title_subscribe">Naročnine</string>
+     <string name="toast_bookmark_add_success">Dodan zaznamek</string>
+     <string name="toast_bookmark_already_created">Ta zaznamek že obstaja</string>
+     <string name="toast_bookmark_input_name">Vnesite ime zaznamka</string>
+     <string name="toast_bookmark_input_url">Vnesite URL</string>
+     <string name="toast_bookmark_success_to_add">Dodan zaznamek</string>
+     <string name="toast_bookmark_success_to_delete">Zaznamek je izbrisan</string>
+     <string name="toast_bookmark_url_error">Vnesite veljaven URL</string>
     <string name="toast_no_data">"Stvar ni več na voljo. Poskusite ponovno kasneje."</string>
     <string name="toast_request_too_frequently">Ne tako hitro!</string>
     <string name="toast_share_failed">Deljenje ni bilo mogoče. Počakajte minuto ali dve in poskusite ponovno.</string>
@@ -1612,6 +1635,7 @@ Izboljša varnost vašega računa."</string>
     <string name="vp_replay">Ponovno predvajaj</string>
     <string name="vp_upcoming_auto_play">Samodejno predvajanje</string>
     <string name="vp_upcoming_title">Naslednje</string>
+     <string name="website_button_add_bookmarks">Dodaj zaznamek</string>
     <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>

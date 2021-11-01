@@ -347,6 +347,8 @@ in samodejno prilagodi nastavitve"</string>
      <string name="beauty_makeups_solid">Contour</string>
      <string name="beauty_makeups_toughman">Bron</string>
   <string name="beauty_mode_reset_toast">Efekti remodeliranja odstranjeni</string>
+     <string name="beauty_ne">Original</string>
+     <string name="beauty_no_t">Olepšanje je izklopljeno</string>
      <string name="beauty_origin_skincolor">Original</string>
   <string name="beauty_reset">Ponastavi</string>
   <string name="beauty_reset_toast">Efekti figure ponastavljeni</string>
@@ -379,6 +381,11 @@ in za trenutek zapustite pregled"</string>
   <string name="camera_liveshot_off_tip">Dinamični posnetki so izklj.</string>
   <string name="camera_liveshot_on_tip">Dinamični posnetki</string>
   <string name="camera_mode_options">Načini</string>
+     <string name="camera_newcta_audio_message">Za snemanje videoposnetkov z zvokom</string>
+     <string name="camera_newcta_camera_message">Za fotografiranje in snemanje videoposnetkov</string>
+     <string name="camera_newcta_message">"Dobrodošli v kameri! To aplikacijo lahko uporabite za fotografiranje in snemanje videoposnetkov. "</string>
+     <string name="camera_newcta_other_message">"Za zagotavljanje dodatnih storitev med uporabo aplikacije bomo morda potrebovali dovoljenja za dostop do vaše lokacije."</string>
+     <string name="camera_newcta_storage_message">Za shranjevanje in prikazovanje fotografij in videov</string>
   <string name="camera_setting">Kamera</string>
   <string name="camera_settings_category_development">Poskusne storitve</string>
   <string name="camera_settings_label">Kamera</string>
@@ -621,6 +628,8 @@ skenirane dokumente samodejno"</string>
      <string name="download_cancel_hint">Prekličem prenos %1$s?</string>
      <string name="download_confirm">Prenos</string>
      <string name="download_hint">%1$s MB mobilnih podatkov bo uporabljenih za prenos stvari. Vseeno prenesem?</string>
+     <string name="download_hint_cn">"Kaže da vaša naprava ni povezana z omrežjem WiFi. Uporabim %1$s MB mobilnih podatkov za prenos stvari?"</string>
+     <string name="download_hint_wifi">"Kaže da vaša naprava ni povezana z omrežjem WiFi. Uporabim %1$s MB mobilnih podatkov za prenos stvari?"</string>
      <string name="download_in_progress">Prenos…</string>
      <string name="download_qq">Prenesi QQ</string>
      <string name="download_title">Opozorilo o porabi podatkov</string>
@@ -821,6 +830,7 @@ Dvojno snemanje s telefonom omogoča tudi povezavo z drugo napravo in ustvarjanj
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
+     <string name="fromkeyguard_not_permission">Če želite uporabljati to storitev, najprej odklenite napravo.</string>
   <string name="front_camera_hint_text_place">Snemanje selfijev bo lažje če obrnete telefon</string>
   <string name="front_camera_hint_text_rotate">Obrnite telefon</string>
   <string name="group_by">Razvrsti po</string>
@@ -949,6 +959,7 @@ Natisnite kopijo brezžično na papir A4."</string>
   <string name="loading_video">Nalaganje videoposnetka…</string>
   <string name="location">Lokacija</string>
   <string name="location_access_allow">Strinjam se</string>
+     <string name="location_fromkeyguard_not_permission">"Kamera zdaj nima dovoljenja za dostop do vaše lokacije. Najprej odklenite napravo."</string>
   <string name="location_permission_des">Zapomni si lokacije za fotografije in videoposnetke</string>
   <string name="location_permission_not_ask_again">Dovolite Kameri dostop do lokacije v nastavitvah.</string>
   <string name="location_permission_not_ask_again_go_to_settings">Dovoli</string>
@@ -957,6 +968,19 @@ Natisnite kopijo brezžično na papir A4."</string>
   <string name="lpl_dialog_item_name_burst">Pritisnite in držite za hitro snemanje</string>
   <string name="lpl_dialog_item_name_record">Pritisnite in držite za snemanje</string>
   <string name="lpl_dialog_title">Izberite opravilo za sprožilec</string>
+     <string name="lunch_audio_permission_des">Za snemanje videoposnetkov z zvokom</string>
+     <string name="lunch_audio_permission_not_ask_again">Dovolite tej aplikaciji snemanje zvoka, da boste lahko uporabljali to storitev.</string>
+     <string name="lunch_camera_audio_permission_not_ask_again">Dovolite tej aplikaciji uporabo kamere in snemanje zvoka, da boste lahko uporabljali to storitev.</string>
+     <string name="lunch_camera_permission_des">Za fotografiranje in snemanje videoposnetkov</string>
+     <string name="lunch_camera_permission_not_ask_again">Dovolite tej aplikaciji uporabo kamere, da boste lahko uporabljali to storitev.</string>
+     <string name="lunch_camera_storge_permission_not_ask_again">Dovolite tej aplikaciji uporabo kamere in dostop do shrambe, da boste lahko uporabljali to storitev.</string>
+     <string name="lunch_dialog_setting">Nastavitve</string>
+     <string name="lunch_fromkeyguard_not_permission">"Kamera zdaj nima dovoljenja za izvedbo tega dejanja. Najprej odklenite napravo."</string>
+     <string name="lunch_fromkeyguard_not_permission_dialog_ok">Razumem</string>
+     <string name="lunch_permission_not_ask_again">Dovolite tej aplikaciji uporabo kamere, dostop do shrambe in snemanje zvoka, da boste lahko uporabljali to storitev.</string>
+     <string name="lunch_storge_audio_permission_not_ask_again">Dovolite tej aplikaciji dostop do shrambe in snemanje zvoka, da boste lahko uporabljali to storitev.</string>
+     <string name="lunch_storge_permission_des">Za shranjevanje in prikazovanje fotografij in videov</string>
+     <string name="lunch_storge_permission_not_ask_again">Dovolite tej aplikaciji dostop do shrambe, da boste lahko uporabljali to storitev.</string>
   <string name="lying_direct_hint">Trenutna orientacija</string>
   <string name="macro_mode">Macro</string>
   <string name="macro_mode_tip">"Oddaljenost med objektivom in predmetom ne sme presegati 10 cm"</string>
@@ -973,6 +997,7 @@ zgledali večji na fotografijah"</string>
   <string name="manual">Ročno</string>
      <string name="manual_picture_style">Parametri</string>
      <string name="manually_raw_hint">RAW</string>
+     <string name="manually_raw_tip">"Povečave ni mogoče uporabiti v formatu RAW"</string>
      <string name="masterfilter_description_title">Filmski filtri</string>
   <string name="measure_whitebalance_button">Izmeri</string>
   <string name="measure_whitebalance_text">"Postavite list belega papirja 6 cm oddaljenega od objektiva zadnje kamere in fotografirajte."</string>
@@ -1115,6 +1140,11 @@ zgledali večji na fotografijah"</string>
   <string name="mode_edit_cancel">Prekliči</string>
   <string name="mode_edit_exit">Izhod</string>
   <string name="mode_edit_exit_message">Če zapustite zdaj, bodo vse spremembe izgubljene. Vseeno izhod?</string>
+     <string name="mode_edit_hold_on">Prevzel stvar</string>
+     <string name="mode_edit_moved">Postavi v vrstico %1$d, položaj %2$d</string>
+     <string name="mode_edit_moving">Premaknjeno v vrstico %1$d, položaj %2$d</string>
+     <string name="mode_edit_photo_disable">Končanje slikanja</string>
+     <string name="mode_edit_video_disable">Končanje snemanja</string>
   <string name="model">Model</string>
   <string name="module_name_beauty">Olepšanje</string>
   <string name="module_name_capture">Fotografija</string>
@@ -1344,6 +1374,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_audio_focus_title">Izostritev zvoka</string>
   <string name="pref_audio_indicator_entry_off">Zvok izklj.</string>
   <string name="pref_audio_indicator_entry_on">Zvok vklj.</string>
+     <string name="pref_auto_boot">Samod. zagon</string>
+     <string name="pref_auto_boot_summary">Poskrbite, da bo kamera bolj odzivna, tako da ji omogočite samodejni zagon. Dovoljenja za samodejni zagon lahko urejate v podrobnostih aplikacije.</string>
   <string name="pref_burst_shoot_title">Hitro slikanje</string>
   <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Nastavitve</string>
@@ -1782,7 +1814,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_grp_capture_settings">Nastavitve snemanja</string>
   <string name="pref_grp_picture_settings">Nastavitve slike</string>
   <string name="pref_grp_restore_settings">Obnovi nastavitve</string>
-     <string name="pref_hdr10_hdr10plus_video_mode_description">Optimizirajte barve za videoposnetke 4K (HDR10 +) in 8K (HDR10). Ta storitev deluje samo na napravah, združljivih s HDR10 + / HDR10.</string>
+     <string name="pref_hdr10_hdr10plus_video_mode_description">Snemajte videoposnetke visoke ločljivosti v HDR10+/HDR10, da optimizirate barve in dinamični razpon. Posnete videoposnetke je mogoče predvajati samo v napravah, združljivih z HDR10+/HDR10.</string>
   <string name="pref_hdr10_video_mode_description">Samodejno optimizira barvo in kontrast za videoposnetke 4K in 8K. Optimizirane videoposnetke je mogoče predvajati samo v napravah, združljivih z HDR10</string>
   <string name="pref_hdr10_video_mode_title">HDR10</string>
   <string name="pref_hdr10plus_video_mode_description">Optimizira barvo in kontrast za videoposnetke 4K in 8K. Deluje samo v napravah, združljivih z HDR10 +.</string>
@@ -1840,6 +1872,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_userdefine_watermark_title">Lastna oznaka</string>
      <string name="pref_video_ai_audio_effect_comparation_3d_i">3D zvok</string>
      <string name="pref_video_ai_audio_effect_comparation_3d_ii">Predstavitev</string>
+     <string name="pref_video_ai_audio_effect_comparation_3d_original">Original</string>
      <string name="pref_video_ai_audio_single">Sprednji zvok</string>
   <string name="pref_video_captrue_ability_title">Snemanje fotografij med snemanjem</string>
      <string name="pref_video_cast_setting_summary">Vklopite, če želite snemati en video z več napravami</string>
@@ -1900,8 +1933,10 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="prek_b_j_p">Zmanjšaj vpliv vetra na snemanje zvoka</string>
      <string name="prep_video_ai_audio_new_desc_tip">Zvoki iz izostrenega motiva so izboljšani</string>
      <string name="prep_video_ai_audio_new_desc_tip_alone">Zvoki iz ostrenega motiva so izboljšani v ležečem načinu</string>
+     <string name="prep_video_ai_audio_new_mutex_tip">"Zdaj ni mogoče uporabiti zvočne povečave"</string>
      <string name="prep_video_ai_audio_single_desc_tip">Zvoki izza zaslona se filtrirajo</string>
      <string name="prep_video_ai_audio_single_desc_tip_alone">Zvoki izza zaslona se filtrirajo v ležečem načinu</string>
+     <string name="prep_video_ai_audio_single_mutex_tip">"Zdaj ne morem snemati čelnega zvoka"</string>
      <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Zvočni zoom ne deluje z vgrajenim monitorjem v ušesu in zunanjim mikrofonom"</string>
   <string name="preparing_sd">Pripravljam notranji pomnilnik…</string>
   <string name="preview_back_pressed_hint">Tapnite ponovno za vrnitev na pregled</string>

@@ -192,6 +192,9 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Posodobljeno pred 2 dnevoma</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Posodobljeno včeraj ob %s</string>
   <string name="adjust_traffic_data">Nastavite porabo podatkov</string>
+     <string name="adv_permission_text">Dovoljenja</string>
+     <string name="adv_privacy_text">Zasebnost</string>
+     <string name="adv_version_text">Različica: %s</string>
   <string name="after_the_lock_screen">"Zakleni aplikacije skupaj z zaslonom."</string>
      <string name="afternoon">Popoldne</string>
   <string name="ai_allow_all">Obvesti, ko se dovoljenje uporablja za vse</string>
@@ -1020,6 +1023,15 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="battery_status_overheat">Pregreta</string>
   <string name="battery_status_unknown">Neznana napaka</string>
   <string name="battery_temperature_title">Temperatura</string>
+     <string name="beauty_fc_assistant">Pomočnik za sprednjo kamero</string>
+     <string name="beauty_fc_assistant_summary">Uporabite polno svetlobo in Olepšanje s sprednjo kamero</string>
+     <string name="beauty_fc_fill_lamp">Polna svetloba</string>
+     <string name="beauty_fc_light">Svetlost polne svetlobe</string>
+     <string name="beauty_fc_video_call">Olepšanje za video klice</string>
+     <string name="beauty_fc_video_call_summary">Pokaži možnosti Olepšanje med videoklici WeChat</string>
+     <string name="beauty_fun_filter">Olepšanje</string>
+     <string name="beauty_fun_light">Polna svetloba</string>
+     <string name="beauty_settings">Nastavitve</string>
   <string name="begin_date">Datum ponastavitve uporabe</string>
      <string name="behavior_widget_get_installed_apps">Dostopane aplikacije</string>
      <string name="behavior_widget_get_location">Dostopane lokacije</string>
@@ -2253,10 +2265,10 @@ vašega igranja"</string>
   <string name="gtb_dialog_btn_open">Vključi</string>
   <string name="gtb_dialog_hint_smart_5g">Lahko vključite in izključite to storitev v Game Turbo &gt; Nastavitve.</string>
      <string name="gtb_dialog_privacy_speed_message">"Uporabili boste Xunyou Pospeševalnik iger. Ta storitev bo zbrala vaš ID računa Mi, da zabeleži trajanje vašega članstva."</string>
-     <string name="gtb_dialog_privacy_speed_tips">"Prebral sem in se strinjam z Xunyou Pospeševalnik iger Pravila o zasebnosti."</string>
+     <string name="gtb_dialog_privacy_speed_tips"><Data>"Prebral sem in se strinjam z Xunyou Pospeševalnik iger &lt;a href=\"%1$s\">Pravila o zasebnosti.&lt;/a>"</Data></string>
      <string name="gtb_dialog_privacy_speed_title">Xunyou Pospeševalnik iger</string>
      <string name="gtb_dialog_privacy_voice_message">"Uporabili boste Xunyou Menjalec glasu. Ta storitev bo zbrala vaš ID računa Mi, da zabeleži trajanje vašega članstva."</string>
-     <string name="gtb_dialog_privacy_voice_tips">"I've read and agreed to Xunyou Menjalec glasu Pravila o zasebnosti."</string>
+     <string name="gtb_dialog_privacy_voice_tips"><Data>"Prebral sem in se strinjam z Xunyou Menjalec glasu &lt;a href=\"%1$s\">Pravila o zasebnosti.&lt;/a>"</Data></string>
      <string name="gtb_dialog_privacy_voice_title">Xunyou Menjalec glasu</string>
   <string name="gtb_dialog_summary_smart_5g">Kadar koli Game Turbo zazna omrežje 5G, se lahko naprava poveže z najboljšim omrežjem, ki je na voljo, da zmanjša zaostajanje omrežja. Ali želite zdaj to storitev vklopiti?</string>
   <string name="gtb_dialog_title_smart_5g">5G optimizacija omrežja</string>
@@ -5870,14 +5882,19 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
      <string name="vb_ve_settings_display_style_tips_new">*Učinki bodo uporabljeni samo za območje predvajanja videoposnetkov</string>
   <string name="vb_ve_settings_pic_border_stronger">Izboljšani obrisi</string>
   <string name="vb_ve_settings_picture_stronger">Izboljšane animacije</string>
+     <string name="vb_video_effects_3d">Prostorski zvok</string>
+     <string name="vb_video_effects_3d_summary">Izboljšajte globino reprodukcije zvoka za slušalke in zvočnike</string>
+     <string name="vb_video_effects_3d_surround">Prostorski zvok</string>
   <string name="vb_video_effects_display_style">Stil</string>
      <string name="vb_video_effects_dolby">Dolby Atmos</string>
      <string name="vb_video_effects_dolby_dialog_enhancer">Okrepljen dialog</string>
      <string name="vb_video_effects_dolby_headset">" (Samo slušalke)"</string>
      <string name="vb_video_effects_dolby_open">Dolby Atmos vklj.</string>
      <string name="vb_video_effects_dolby_stereo_expansion">Razširjeni stereo</string>
+     <string name="vb_video_effects_liquid_summary">Izboljšajte jasnost dialoga v videoposnetkih</string>
+     <string name="vb_video_effects_only_headphone">Deluje samo s slušalkami</string>
   <string name="vb_video_effects_setting_black_white">Č&amp;B</string>
-  <string name="vb_video_effects_setting_cinema">Cinema</string>
+  <string name="vb_video_effects_setting_cinema">Kino</string>
   <string name="vb_video_effects_setting_girl">Blush</string>
   <string name="vb_video_effects_setting_gorgeous">Vibrant</string>
   <string name="vb_video_effects_setting_green_orange">Oranžno</string>
@@ -5893,6 +5910,10 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
   <string name="vb_video_effects_setting_warmth">Toplo</string>
   <string name="vb_video_effects_settings_liquid">Jasnost</string>
   <string name="vb_video_effects_settings_stereo">Glasnost</string>
+     <string name="vb_video_effects_some_headphone">Podprto z izbranimi modeli slušalk</string>
+     <string name="vb_video_effects_spatial">Sledi gibanju glave</string>
+     <string name="vb_video_effects_spatial_summary">"Prilagodi prostorski zvok glede na gibanje glave
+*Podprto samo na modelih igralnih slušalk"</string>
   <string name="vb_video_effects_srs_premium_sound">Zvok</string>
      <string name="vb_video_super_division">Povečaj</string>
      <string name="vb_video_super_division_desc">"Samodejno povečaj ločljivost, ko je ≤720p.

@@ -601,7 +601,7 @@
   <string name="online_wallpaper">Mrežno</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Prekliči</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Izključi</string>
-  <string name="open_personal_assistant_dialog_desc">"Ne boste mogli uporabljati os. asistenta in prejemati posodobitve. Izključim?"</string>
+  <string name="open_personal_assistant_dialog_desc">"Ko izklopite os. asistenta, ne boste mogli videti ali uporabljati pripomočkov za meni aplikacij. Njihove posodobljene različice vam tudi ne bodo na voljo. Vseeno izklopim?"</string>
   <string name="open_personal_assistant_dialog_desc_international">"Ne boste mogli uporabljati os. asistenta (delnice, bližnjice ipd.) in prejemati posodobitve če izklopite to storitev."</string>
   <string name="open_personal_assistant_dialog_title">Izključi os. asistenta</string>
      <string name="open_personal_assistant_settings">Nastavitve os. asistenta</string>

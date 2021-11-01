@@ -229,7 +229,7 @@
     <string name="public_mi_other_app_open_save_choose">Zapomni si</string>
     <string name="public_mi_other_app_open_title">Odprite s pomočjo</string>
     <string name="public_mi_privacy_desc">Za ogled in upravljanje dokumentov v tej napravi</string>
-    <string name="public_mi_privacy_purpose">Dobrodošli v Mi Document Viewer. Ta aplikacija vam omogoča ogled dokumentov različnih formatov.</string>
+    <string name="public_mi_privacy_purpose">Dobrodošli v pregledovalniku Mi Dokument (Poganja ga WPS)! To je različica aplikacije po meri, ki jo je ustvaril Kingsoft za Xiaomi. To aplikacijo lahko uporabite za ogled dokumentov v svoji napravi.</string>
     <string name="public_no_format">Ni formata</string>
     <string name="public_not_support_in_multiwindow">"Ta storitev ni podprta pri uporabi razdeljenega zaslona"</string>
     <string name="public_ok">V redu</string>

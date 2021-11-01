@@ -6181,6 +6181,8 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_formal">ostani</string>
      <string name="miheadset_game_mode">Način igranja</string>
      <string name="miheadset_game_mode_summary">Zmanjšaj zakasnitev zvoka med igranjem iger</string>
+     <string name="miheadset_hd_audio_summary">Predvajaj %1$d-bit/%2$d kHz zvok visoke ločljivosti</string>
+     <string name="miheadset_hd_audio_title">HD zvok</string>
      <string name="miheadset_ignore">Izbriši to napravo</string>
      <string name="miheadset_in_ear_check">Zaznavanje v ušesu</string>
      <string name="miheadset_in_ear_check_summary">"Začasno ustavi zvok, ko vzamete slušalke, in se samodejno nadaljuje, ko jih vstavite nazaj"</string>
@@ -9769,7 +9771,7 @@ Morda je koda PIN napačna."</string>
     <string name="sim_pin_enable_failed">Kode PIN ni mogoče omogočiti.</string>
   <string name="sim_pin_enabled">PIN1 omogočen!</string>
   <string name="sim_pin_toggle">Zakleni kartico SIM</string>
-  <string name="sim_pins_dont_match">Kodi PIN se ne ujemata</string>
+  <string name="sim_pins_dont_match">"Kodi PIN se ne ujemata"</string>
   <string name="sim_pref_divider">Prednostna kartica SIM za:</string>
     <string name="sim_preferred_message">%1$s je edina kartica SIM v napravi. Ali želite to kartico SIM uporabljati za prenos podatkov v mobilnih omrežjih, klice in pošiljanje sporočil SMS?</string>
     <string name="sim_preferred_title">Želite sprem. pred. kart. SIM?</string>

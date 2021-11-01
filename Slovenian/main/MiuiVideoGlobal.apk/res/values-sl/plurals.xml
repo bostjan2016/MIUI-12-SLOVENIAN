@@ -164,4 +164,8 @@
         <item quantity="other">Podnapisi so odloženi za %.1f sekunde</item>
         <item quantity="one">Podnapisi so odloženi za %.1f sekundo</item>
      </plurals>
+     <plurals name="toast_bookmark_max_size">
+        <item quantity="other">Dodaj do %d zaznamkov</item>
+        <item quantity="one">Dodaj do %d zaznamek</item>
+     </plurals>
 </resources>

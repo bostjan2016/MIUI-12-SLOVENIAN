@@ -410,6 +410,9 @@ Preklopite za ustavitev sinhronizacije."</string>
     <string name="copy">Kopiraj</string>
     <string name="copy_url">Kopiraj povezavo</string>
     <string name="could_not_load_data">"Ne morem naložiti podatkov, osvežite in poskusite ponovno"</string>
+     <string name="crash_page_button">Poskusite ponovno</string>
+     <string name="crash_page_description">Pri prikazovanju te spletne strani je šlo nekaj narobe.</string>
+     <string name="crash_page_title">Ojoj, zaskok!</string>
     <string name="create_qr_code">QR koda</string>
     <string name="current_version_pad">Pad</string>
     <string name="current_version_pc">Namizje</string>
@@ -436,6 +439,7 @@ Strani, ki si jih ogledate ne bodo zabeležene v zgodovini."</string>
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
     <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
+     <string name="debug_crash">Omogoči odpravljanje napak pri zrušitvah</string>
      <string name="debug_youtube_file">Odpravi napake v YouTube datotekah</string>
     <string name="debug_youtube_in_release">Odpravi napake v YouTubu v izdaji</string>
     <string name="delete">Izbriši</string>

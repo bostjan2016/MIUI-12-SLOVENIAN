@@ -42,6 +42,7 @@
   <string name="am">dop.</string>
   <string name="antispam">Seznam blokiranih</string>
     <string name="app_name">Mi Mover</string>
+     <string name="app_update_title">Posodobi vse aplikacije</string>
   <string name="appname_app_data_suffix">%1$s podatki aplikacije</string>
     <string name="audio">Avdio</string>
     <string name="audio_video_document">Avdio, video in dokumenti</string>
@@ -289,6 +290,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
     <string name="guest_unfinished_task_alert_title">Nedokončane naloge prenosa</string>
      <string name="guest_wainting_title">Nadaljujte v novi napravi</string>
     <string name="hide_password_description">Skrij geslo</string>
+     <string name="high_temp_summary">Vaša naprava se lahko med prenosom velikih količin podatkov segreje. To je normalno in vaša naprava se bo po končanem prenosu ohladila.</string>
     <string name="host_boot_installation_bottom_tips">Ne najdete Mi Mover? Tapnite za prenos.</string>
     <string name="host_boot_installation_button">Naprej</string>
     <string name="host_boot_installation_content">"1. Na stari napravi pojdite na Nastavitve.
@@ -404,6 +406,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="manual_connection_hint">Tapni \"Ročno poveži\" v stari napravi.</string>
   <string name="manual_connection_summary2">"Če te dostopne točke ne najdete, osvežite seznam razpoložljivih omrežij WiFi in poskusite znova."</string>
   <string name="manual_connection_title">Na to dostopno točko priključite staro napravo</string>
+     <string name="message_request_manage_external_storage_perm">Mi Mover mora dostopati do vseh datotek v tej napravi, da jih lahko premakne iz stare naprave v novo.</string>
     <string name="message_request_package_stats_perm">Tapnite \"Nadaljuj\", da boste odprli Nastavitve in dodelili aplikaciji Mi Mover zahtevana dovoljenja.</string>
   <string name="midnight">Polnoč</string>
     <string name="miui_need_location_permission_summary">Dovolite aplikaciji Mi Mover dostop do lokacije, da lahko najde naprave v bližini. Aplikacije ne boste mogli uporabiti dokler ne dodelite to dovoljenje.</string>
@@ -432,6 +435,8 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
+     <string name="miuix_indexer_collect">Zbirke</string>
+     <string name="miuix_indexer_selected">Izbrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -583,6 +588,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
     <string name="password">Vnesite geslo</string>
     <string name="password_null">Geslo ne sme biti prazno</string>
     <string name="perm_location">Lokacija</string>
+     <string name="perm_manage_external_storage">Dostop do vseh datotek</string>
     <string name="perm_package_stats">Dostop do statistike uporabe aplikacij</string>
   <string name="perm_payment_dspt">Dovolite aplikaciji plačevanje z Mi storitve plačevanja</string>
   <string name="perm_payment_lab">Mi storitve plačevanja</string>
@@ -778,6 +784,7 @@ Sprostite najmanj %s."</string>
   <string name="time_spent">Čas: &lt;g id="time"&gt;%1$s&lt;/g&gt;</string>
      <string name="title_open_wlan">Vklopi WiFi</string>
      <string name="title_request_alert_window_perm">Dovoli plavajoča okna</string>
+     <string name="title_request_manage_external_storage_perm">Zahtevana so dovoljenja</string>
     <string name="title_request_package_stats_perm">Zahtevana so dovoljenja</string>
   <string name="title_request_write_settings_perm">Za spreminjanje sistemskih nastavitev je potrebno dovoljenje</string>
   <string name="today">Danes</string>

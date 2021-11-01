@@ -37,6 +37,12 @@
      <string name="account_add_other_sub_des">Ostali računi</string>
      <string name="account_add_title">Izberite ponudnika pošte</string>
      <string name="account_change">Preklopite med računi</string>
+     <string name="account_child_dialog_neg_text">Izhod</string>
+     <string name="account_child_dialog_pos_text">Skrbnik se strinja</string>
+     <string name="account_child_dialog_text">"Če ste mladoletnik, mlajši od 14 let, obvestite svojega skrbnika, da mora prebrati in se strinjati z \"Kingsoft izjava o varstvu osebnih podatkov mladoletnikov\". Prav tako morate poiskati njihovo soglasje in navodila, preden uporabite naše storitve ali nam posredujete kakršne koli osebne podatke.
+Če želite v celoti razumeti vaše pravice kot uporabnika, kot tudi načine, na katere obdelujemo vaše podatke, preberite \"Kingsoft izjava o varstvu osebnih podatkov mladoletnikov\"."</string>
+     <string name="account_child_dialog_title">"Izjava o varstvu osebnih podatkov mladoletnikov"</string>
+     <string name="account_child_save_statement">"Kingsoft izjava o varstvu osebnih podatkov mladoletnikov"</string>
   <string name="account_duplicate_dlg_message_fmt">To uporabniško ime že uporabljate za račun \"%s\".</string>
   <string name="account_duplicate_dlg_title">Podvojeni račun</string>
   <string name="account_failure">Napaka računa</string>
@@ -45,6 +51,12 @@
   <string name="account_options_actionbar_title">Nastavitve računa</string>
   <string name="account_options_sync_title">Nastavitve sinhronizacije</string>
   <string name="account_password_spaces_error">"To geslo se začne ali konča z enim ali več presledki. Številni strežniki ne podpirajo gesel s presledki."</string>
+     <string name="account_permission_child_statement">"Izjava o varstvu osebnih podatkov mladoletnikov"</string>
+     <string name="account_permission_dialog_cancel_text">Preklic</string>
+     <string name="account_permission_dialog_text">"Če nadaljujete, boste umaknili svoje soglasje k licenčni pogodbi za končnega uporabnika, pravilniku o zasebnosti in izjavi o varstvu osebnih podatkov mladoletnikov. Po tem ne boste mogli uporabljati WPS Mail in vsi podatki, ustvarjeni v tej napravi, bodo izbrisani."</string>
+     <string name="account_permission_dialog_title">Preklic soglasja</string>
+     <string name="account_permission_private_policy">Pravila o zasebnosti</string>
+     <string name="account_permission_user_privacy">Licenčna pogodba za končnega uporabnika</string>
   <string name="account_security_dialog_content_fmt">%s zahteva da posodobite varnostne nastavitve.</string>
   <string name="account_security_dialog_title">Varnostna posodobitev</string>
   <string name="account_security_policy_explanation_fmt">Strežnik %s zahteva da mu dovolite nastavitev nekaterih varnostnih opravil vaše Android naprave.</string>
@@ -1376,6 +1388,7 @@ da prejmete opomnike o plačilih in potovanjih"</string>
   <string name="print">Izpiši</string>
   <string name="print_scheduler_title">Izpiši vse urnike</string>
      <string name="privacy_and_help">Zasebnost in pomoč</string>
+     <string name="privacy_and_private_permission">Soglasje z Pogoji uporabe in Pravila o zasebnosti</string>
   <string name="privacy_des">"Zapisi vsebujejo informacije o odpravljanju napak klienta e-pošte in podatke o napravi. Te informacije se uporabljajo za hitrejše iskanje problema. Z tapom na na \"%1$s\" spodaj se strinjaš z našimi \"%2$s\"."</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="privacy_setting_agree">Strinjam se</string>
