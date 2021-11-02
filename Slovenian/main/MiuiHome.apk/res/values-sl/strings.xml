@@ -217,6 +217,13 @@
   <string name="copy">Kopiraj</string>
   <string name="current_preview">Pregled</string>
   <string name="current_wallpaper">Trenutno</string>
+     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Za klicanje stikov za nujne primere v Lite načinu</string>
+     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Za prikaz stikov za nujne primere v Lite načinu</string>
+     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Za prikaz stanja naprave</string>
+     <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Za prikaz vtičnikov Koledarja</string>
+     <string name="custom_define_permission_desc_android.permission_group.CAMERA">Za prikaz vtičnikov Galerije</string>
+     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Za dostop do imena pripomočka WiFi v sistemu Android Q</string>
+     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za dostop in shranjevanje podatkov začetnega zaslona</string>
   <string name="custom_wallpaper_picker">Po meri</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>

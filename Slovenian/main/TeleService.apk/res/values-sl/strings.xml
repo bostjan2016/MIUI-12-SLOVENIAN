@@ -272,6 +272,8 @@
   <string name="area_code_preference_be_set_summary">Trenutna lokacija: %s</string>
   <string name="area_code_preference_summary">Samod. izberi klicno številko</string>
   <string name="areacode_set_default">Privzeto</string>
+     <string name="arrears_sim_summary">Kaže, da je vaša kartica v območju zaostalih plačil, kar lahko vpliva na normalno omrežje</string>
+     <string name="arrears_sim_title">Opomnik kartice za zamudo</string>
   <string name="atr_disable">Prometna poročila so izklopljena</string>
   <string name="atr_enable">Prometna poročila so vklopljena</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -1756,6 +1758,8 @@ Zmeraj uporabi to številko"</string>
      <string name="mi_mobile_sim_activate_message">Aktivirajte SIM %d da lahko uporabljate Mi Mobilno. To lahko traja do 5 minut.</string>
      <string name="mi_mobile_sim_activate_ok">Aktiviraj</string>
      <string name="mi_mobile_sim_activate_title">Dobrodošli v Mi Mobilno!</string>
+     <string name="mi_sim_not_active">"Mi Mobilno SIM ni aktivirana"</string>
+     <string name="mi_sim_not_active_tips">"Mi Mobilno je zdaj vaša sekundarna kartica SIM. Kaže, da je že dolgo niste aktivirali. Mi Mobilno lahko izklopite, da bo vaša primarna kartica SIM delovala bolje."</string>
   <string name="mi_sim_settings_summary">Uporabite mobilne podatke brez SIM kartice</string>
   <string name="mi_sim_settings_title">Mi SIM</string>
      <string name="midnight">Polnoč</string>

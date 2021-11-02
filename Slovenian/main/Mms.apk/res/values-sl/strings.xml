@@ -88,6 +88,7 @@
   <string name="attach_transaction">Pošlji denar</string>
   <string name="attach_video">Video posnetek</string>
   <string name="attach_video_call">Video klic</string>
+     <string name="attachment_panel_show_part">Stran %1$d</string>
   <string name="audio_download_failed">"Ne morem prenesti zvoka"</string>
   <string name="audio_message_expired">Glasovno sporočilo je poteklo.</string>
   <string name="audio_message_mx_offline">"Ne morem prenesti zvoka. Mi sporočila so offline ali niso na voljo."</string>

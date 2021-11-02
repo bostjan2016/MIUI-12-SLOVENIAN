@@ -104,9 +104,9 @@
      <string name="friday_shortest">P</string>
     <string name="maintenance_mode">Način vzdrževanja</string>
     <string name="maintenance_mode_close_title">V načinu vzdrževanja</string>
-    <string name="maintenance_mode_loading">Zagon načina popravila, telefon se bo kmalu znova zagnal …</string>
+    <string name="maintenance_mode_loading">Zagon načina popravila, naprava se bo kmalu znova zagnala …</string>
     <string name="maintenance_mode_reboot">Vnovični zagon načina vzdrževanja</string>
-    <string name="maintenance_mode_title">Celovita zaščita podatkov mobilnega telefona</string>
+    <string name="maintenance_mode_title">Celovita zaščita podatkov naprave</string>
     <string name="maintenance_mode_watch_out">Med poprodajnim vzdrževanjem zaščitite pomembne zasebne podatke, kot so fotografije, videoposnetki, stiki, dnevniki klicev in besedilna sporočila</string>
      <string name="midnight">Noč</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
@@ -181,7 +181,7 @@
      <string name="pm">pop.</string>
     <string name="reached_max_user">Doseženo največje število uporabnikov</string>
     <string name="reboot_maintenance_mode">izbriši način vzdrževanja končan, za zmogljivost naprave ga znova zaženite</string>
-    <string name="reboot_msg">Če vklopite način vzdrževanja, se telefon samodejno znova zažene, potrdite, ali je takoj vklopljen</string>
+    <string name="reboot_msg">Če vklopite način vzdrževanja, se naprava samodejno znova zažene, potrdite, ali je takoj vklopljena</string>
     <string name="reopen_maintenance_mode">Zaznano je, da je glavni uporabnik naprave odklenjen. Da boste zaščitili zasebnost uporabnikov in varnost podatkov, je priporočljivo, da znova vstopite v način vzdrževanja</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>

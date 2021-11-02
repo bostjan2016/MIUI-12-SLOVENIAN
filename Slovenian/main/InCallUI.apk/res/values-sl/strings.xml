@@ -38,6 +38,8 @@
      <string name="ai_mode_manual">Ročno</string>
      <string name="ai_mode_subtitles">Naslovi</string>
      <string name="am">dop.</string>
+     <string name="antifraud_center">Platforma za opozorilo proti goljufijam</string>
+     <string name="antifraud_center_incoming_prompt">"Ne zamudite nobenega klica z uradne platforme za opozarjanje na goljufije"</string>
   <string name="antispam_local_marked">Lokalno označen</string>
   <string name="antispam_notification_title">Neznana številka</string>
   <string name="antispam_provider">Identificiran od %s</string>

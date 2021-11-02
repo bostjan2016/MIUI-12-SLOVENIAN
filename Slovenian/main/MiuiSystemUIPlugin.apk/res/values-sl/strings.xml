@@ -47,6 +47,7 @@
   <string name="chip_text">Chip tekst</string>
   <string name="clear_text_end_icon_content_description">Izbriši besedilo</string>
   <string name="clearable_edittext_clear_description">Očisti</string>
+     <string name="close">Zapri</string>
   <string name="controls_confirmation_message">Potrdite spremembo za %s</string>
   <string name="controls_dialog_confirmation">Kontrole su posodobljene</string>
   <string name="controls_dialog_message">%s predlaga dodajanje te kontrole med priljubljene.</string>
@@ -92,6 +93,7 @@
   <string name="controls_structure_tooltip">Povlecite, če želite videti več</string>
   <string name="copy">Kopiraj</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
+     <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
   <string name="disabled">Onemogočeno</string>
      <string name="dnd_popup_close_message">Razumem</string>
      <string name="dnd_popup_message">Način Ne moti lahko vklopite, da utišate klice in obvestila, ne da bi izklopili zvoke predstavnosti.</string>
@@ -222,10 +224,13 @@
   <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
+     <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
   <string name="miuix_appcompat_search_input_description">Išči</string>
+     <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
+     <string name="miuix_appcompat_select_item">Izberi stvari</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -350,6 +355,7 @@ Dolgotrajno poslušanje visoke glasnosti lahko poškoduje vaš sluh."</string>
   <string name="saturday_shortest">S</string>
   <string name="save">Shrani</string>
   <string name="search_menu_title">Išči</string>
+     <string name="send">Pošlji</string>
   <string name="slider_view_content_description">Podrsajte gor za izklop ali dol za ponovni zagon</string>
      <string name="smart_home_title">Pametne naprave</string>
   <string name="status_bar_setting_title">Center za kontrolo &amp; vrstica obvestil</string>

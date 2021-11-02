@@ -621,6 +621,10 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="tuesday_shortest">T</string>
   <string name="turn_off_a_repeat_alarm">Izključi ponavljajoči alarm</string>
   <string name="turn_off_this_repeat_alarm">Izključi ta ponavljajoči alarm</string>
+     <string name="tv_blank_list_other_text">Tu še ni ničesar</string>
+     <string name="tv_blank_list_show_text">Tu še ni ničesar. Poiščite lokacijo, da jo dodate na svojo svetovno uro.</string>
+     <string name="tv_world_clock_edit_title1">Lokacije, prikazane na začetnem zaslonu</string>
+     <string name="tv_world_clock_edit_title2">Druge shranjene lokacije</string>
   <string name="upcoming_alarm">Prihodnji alarm: %s</string>
   <string name="upcoming_alarm_hint">Zdaj lahko izključite ta alarm</string>
   <string name="update_health_app">Posodobite Mi Zdravje</string>
@@ -649,8 +653,10 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
      <string name="week_ringtone_recommend_desc">Alarm narave predvaja različne zvoke, odvisno od datuma. Nastavim kot privzeti alarm?</string>
+     <string name="white_noise">Hrup iz okolice</string>
   <string name="white_noise_selector">Izberi zvok</string>
   <string name="workday_alarm_clock">Alarm ob delavnikih</string>
+     <string name="worldclock_edit_label">Svetovna ura</string>
   <string name="worldclock_empty_text">Ni svetovnih ur</string>
   <string name="worldclock_input_hint_text">Vnesite mesto</string>
   <string name="worldclock_local_time">Lokalni čas</string>

@@ -120,6 +120,8 @@
     <string name="answering_ends_other_managed_calls">Če sprejmete, bodo končani aktivni klici</string>
     <string name="answering_ends_other_managed_video_call">Če sprejmete, bo končan aktivni videoklic</string>
     <string name="answering_ends_other_video_call">Če sprejmete, bo končan videoklic preko aplikacije %1$s</string>
+     <string name="anti_fraud_notification_msg">Zavrnite ta klic, da se izognete telekomunikacijskim goljufijam</string>
+     <string name="anti_fraud_notification_title">Opozorilo proti goljufijam</string>
     <string name="apn_settings_not_available">Nastavitve imena dostopne točke niso na voljo za tega uporabnika</string>
     <string name="app_process_limit_title">Omejitev postopkov v ozadju</string>
     <string name="auto_connect_disable">Samodejno povezovanje je izklopljeno</string>
