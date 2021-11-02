@@ -364,7 +364,7 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="privacy_setting_category_2">HappyCast Pravila o zasebnosti</string>
      <string name="privacy_setting_category_3">Dovoljenja</string>
      <string name="privacy_setting_permission_manager">Urejaj dovoljenja</string>
-     <string name="privacy_setting_revoke_lelink_policy"Preklic soglasja k HappyCast Pravila o zasebnosti</string>
+     <string name="privacy_setting_revoke_lelink_policy">Preklic soglasja k HappyCast Pravila o zasebnosti</string>
      <string name="privacy_setting_show_authority">Permissions details</string>
      <string name="privacy_setting_show_lelink_law">Pokaži HappyCast Pravna izjava</string>
      <string name="privacy_setting_show_lelink_policy">Pokaži HappyCast Pravila o zasebnosti</string>
