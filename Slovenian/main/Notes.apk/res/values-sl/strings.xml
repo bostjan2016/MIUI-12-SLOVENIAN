@@ -375,7 +375,7 @@ Tapnite + da napravite mapo"</string>
      <string name="manage_folders">Urejaj mapr</string>
      <string name="material_clock_toggle_content_description">Izberite dop. ali pop.</string>
      <string name="material_hour_selection">Izberite uro</string>
-     <string name="material_hour_suffix">"%1$s ur"</string>
+     <string name="material_hour_suffix">"%1$s"</string>
      <string name="material_minute_selection">Izberite minute</string>
      <string name="material_minute_suffix">%1$s minut</string>
      <string name="material_slider_range_end">Konec,</string>

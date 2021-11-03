@@ -76,6 +76,17 @@
   <string name="call_description_recording">Snemanje…</string>
   <string name="call_extension_conference_mode">Konferenca</string>
      <string name="call_not_support_high_frequency_click">"Ne dotikajte se te tipke tako pogosto"</string>
+     <string name="call_progress_info_call_forwarding">Klic je preusmerjen na drugo številko</string>
+     <string name="call_progress_info_call_rejected">klic zavrnjen</string>
+     <string name="call_progress_info_call_waiting">Klic, počakajte</string>
+     <string name="call_progress_info_no_answer_from_user">ni odgovora uporabnika</string>
+     <string name="call_progress_info_no_user_responding">noben uporabnik se ne odziva</string>
+     <string name="call_progress_info_nonuser_call_rejected">ni uporabnikov - klic zavrnjen</string>
+     <string name="call_progress_info_remote_available">Daljinski upravljalnik je opozorjen</string>
+     <string name="call_progress_info_subscriber_absent">Naročnik je odsoten</string>
+     <string name="call_progress_info_unallocated_number">Nedodeljena številka</string>
+     <string name="call_progress_info_user_busy">uporabnik zaseden</string>
+     <string name="call_progress_info_user_call_rejected">uporabnik - klic zavrnjen</string>
   <string name="call_record_button_label">Snemanje %s</string>
   <string name="call_record_wait_label">Čakam</string>
   <string name="call_recording_deny_permission_msg">"Zavrnili ste dovoljenje  za snemanje, ne morem snemati."</string>
@@ -107,6 +118,7 @@
   <string name="card_title_hanging_up_weak_signal">Slab signal mobilnega omrežja. Prekintev klica…</string>
   <string name="card_title_in_call">Med klicem</string>
   <string name="card_title_in_call_short">Klic</string>
+     <string name="card_title_in_crbt">Čaka na odgovor</string>
   <string name="card_title_in_video">Video </string>
   <string name="card_title_incoming_call">Dohodni klic</string>
   <string name="card_title_incoming_conference_call">Dohodni konferenčni klic</string>
@@ -269,6 +281,7 @@
   <string name="incoming_circle_text_reject_p">Podrsajte navzgor</string>
   <string name="incoming_circle_text_video_answer">Spustite da odgovorite z videoposnetkom</string>
   <string name="incoming_circle_text_video_answer_p">Podrsajte gor da odgovorite z videoposnetkom</string>
+     <string name="incoming_video_crs_call">Video CRS klic od</string>
   <string name="ivr_menu_dialing_msg">Preusmerjam…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Pojdi na izbrano storitev...[Samodejno popravljanje napak omogočeno]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Pritisnite %s</string>

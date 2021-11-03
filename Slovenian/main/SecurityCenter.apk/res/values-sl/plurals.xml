@@ -347,6 +347,10 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">Dobite %d-dnevni brezplačni preizkus</item>
         <item quantity="one">Dobite %d-dnevni brezplačni preizkus</item>
      </plurals>
+     <plurals name="gd_app_edit_desc">
+        <item quantity="other">Dodajte največ %d aplikacij. Povlecite dodane elemente, da jih prerazporedite.</item>
+        <item quantity="one">Dodajte največ %d aplikacijo. Povlecite dodane elemente, da jih prerazporedite.</item>
+     </plurals>
      <plurals name="gtb_brightness_dialog_message">
         <item quantity="other">Ta storitev samodejno zmanjša svetlost zaslona po %d minutah nedejavnosti, da prihrani energijo. Naj bo ta storitev vklopljena?</item>
         <item quantity="one">Ta storitev samodejno zniža svetlost zaslona po %d minuti neaktivnosti, da prihrani energijo. Naj bo ta storitev vklopljena?</item>

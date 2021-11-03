@@ -162,6 +162,9 @@
   <string name="global_actions_reboot">"Ponovno zaženi"</string>
   <string name="global_actions_shutdown">"Izključi"</string>
   <string name="global_actions_silent_mode">"Tiho"</string>
+     <string name="global_pad">Moja tablica</string>
+     <string name="global_pc">Moj prenosnik</string>
+     <string name="global_phone">Moj telefon</string>
      <string name="glorious">Slava</string>
      <string name="greenandblue">Mavrica</string>
      <string name="guitar">Kitara</string>

@@ -272,8 +272,8 @@
   <string name="area_code_preference_be_set_summary">Trenutna lokacija: %s</string>
   <string name="area_code_preference_summary">Samod. izberi klicno številko</string>
   <string name="areacode_set_default">Privzeto</string>
-     <string name="arrears_sim_summary">Kaže, da je vaša kartica v območju zaostalih plačil, kar lahko vpliva na normalno omrežje</string>
-     <string name="arrears_sim_title">Opomnik kartice za zamudo</string>
+     <string name="arrears_sim_summary">Dopolnite stanje telefona, da ostanete povezani</string>
+     <string name="arrears_sim_title">Nezadostno sredstev</string>
   <string name="atr_disable">Prometna poročila so izklopljena</string>
   <string name="atr_enable">Prometna poročila so vklopljena</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>

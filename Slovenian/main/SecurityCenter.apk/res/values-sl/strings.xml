@@ -2195,7 +2195,24 @@ vašega igranja"</string>
      <string name="gb_xunyou_gift_type_one">Xunyou 1-dan pospeševanje</string>
      <string name="gb_xunyou_gift_type_three">Xunyou 3-dni pospeševanje</string>
      <string name="gb_xunyou_gift_type_two">Xunyou 2-dni pospeševanje</string>
-  <string name="gdpr_msg">"&lt;Data&gt;"Da bi zaznali varnostna tveganja in zaščitili vaše podatke, moramo zbrati potrebno količino informacij o vaši napravi. Preberite in se strinjajte z &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo naših storitev. V primeru, da nam ne dovolite zbiranja takšnih podatkov, boste to aplikacijo še vedno lahko uporabljali, vendar vam nekatere storitve ne bodo na voljo. "&lt;/Data&gt;</string>
+     <string name="gd_app_edit_done">Končano</string>
+     <string name="gd_app_edit_title">Dodaj aplikacije</string>
+     <string name="gd_setting_desc_action1">Odpri plavajoče okno</string>
+     <string name="gd_setting_desc_action2">Uporabi bližnjico</string>
+     <string name="gd_setting_group_custom_gtb_apps">Igre</string>
+     <string name="gd_setting_group_custom_line_location">Položaj orodij</string>
+     <string name="gd_setting_group_custom_settings">Personalizacija</string>
+     <string name="gd_setting_group_custom_vtb_apps">Video aplikacije</string>
+     <string name="gd_setting_group_smart_tool_box">Pametna orodja</string>
+     <string name="gd_setting_group_title_switch">Prizori</string>
+     <string name="gd_setting_gtb">Pokaži med igranjem iger</string>
+     <string name="gd_setting_gtb_desc">Posebne storitve za igranje iger</string>
+     <string name="gd_setting_miui_dock">Vedno pokaži</string>
+     <string name="gd_setting_shorthand">Hitre beležke</string>
+     <string name="gd_setting_title">Pametna orodja</string>
+     <string name="gd_setting_vtb">Prikaži med predvajanjem videoposnetkov</string>
+     <string name="gd_setting_vtb_desc">Posebne storitve za predvajanje videa</string>
+  <string name="gdpr_msg">"&lt;Data&gt;"Da boste zaznali varnostna tveganja in zaščitili vaše podatke, moramo zbrati potrebno količino informacij o vaši napravi. Preberite in se strinjajte z &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo naših storitev. V primeru, da nam ne dovolite zbiranja takšnih podatkov, boste to aplikacijo še vedno lahko uporabljali, vendar vam nekatere storitve ne bodo na voljo. "&lt;/Data&gt;</string>
   <string name="get_detail_by_click">Tapnite za prikaz posrobnosti</string>
   <string name="get_sys_info">Dobivanje informacij…</string>
   <string name="gigabyteShort">GB</string>
@@ -2961,6 +2978,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="no_network">"Ne morem se povezati na omrežje, poskusite ponovno kasneje"</string>
   <string name="no_network_btn">Poskusi ponovno</string>
      <string name="no_open">Ne zdaj</string>
+     <string name="no_privacy_permission">Soglasje z Pravila o zasebnosti ni potrebno</string>
   <string name="none_mi_service_app_detail">Prazno</string>
      <string name="noon">Poldne</string>
   <string name="not_limited_brand">Neomejeno</string>
@@ -3297,7 +3315,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="pc_hidemode_normal_title">Uravnoteženo</string>
      <string name="pc_hidemode_performance">Zmogljivost</string>
      <string name="pc_hidemode_performance_title">Način zmogljivost</string>
-     <string name="pc_hidemode_power_save">Moč</string>
+     <string name="pc_hidemode_power_save">Varčevanje baterije</string>
   <string name="pc_install_manager">Namesti preko USB-a</string>
   <string name="pc_main_activity_back">Nazaj</string>
   <string name="pc_main_battery_text_day">Dodano %1$sm, ostalo okoli %2$sd</string>
@@ -5210,6 +5228,7 @@ Z formatiranjem bo izbrisana vsebina ^2. Če želite preprečiti izgubo vsebine,
   <string name="summary_realname_verify">Potrdite svojo identiteto za varnost vaših plačil.</string>
   <string name="summary_restrict_data_usage">Za to aplikacijo ste omejili porabo podatkov.</string>
      <string name="summary_result_screen_brightness_format">Svetlost zaslona nastavi na %s</string>
+     <string name="summary_safe_mode">Nevtralizirajte tveganja med namestitvijo</string>
   <string name="summary_saving_switch">Prepreči aplikacijam da uporabljajo mobilne podatke za prenos datotek</string>
   <string name="summary_show_notification">"Pripni Varnost v obvestilno vrstico"</string>
   <string name="summary_telecom_operator">Pridobite svoj mesečni zakup mobilnih podatkov vašega operaterja</string>
@@ -5596,6 +5615,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
      <string name="title_result_typeface">Velikost besedila &amp; velikost fontov</string>
      <string name="title_result_wlan">WiFi</string>
      <string name="title_result_zen_mode">Način Ne moti</string>
+     <string name="title_safe_mode">Vklopi varni način</string>
   <string name="title_saving_switch">Varčevanje podatkov</string>
   <string name="title_share_link">Deli povezavo</string>
   <string name="title_show_notification">Kontrole vrstice obvestil</string>
