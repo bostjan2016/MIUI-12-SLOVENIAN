@@ -92,6 +92,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="cloud_find_device_on">Vključeno</string>
      <string name="cloud_lab_title">Cloud Lab</string>
      <string name="cloud_restore_title">Obnovi iz var. kopije</string>
+     <string name="cloud_service_open_authorization">"Dobrodošli v storitvah Xiaomi Cloud! Xiaomi Cloud lahko uporabite za sinhronizacijo zapiskov, fotografij in videoposnetkov, posnetkov in drugih elementov iz sistemskih aplikacij v vseh povezanih napravah. Varnostne kopije postavitve domačega zaslona bodo shranjene tudi v Xiaomi Cloud. Ogledali si boste lahko vse sinhronizirane stvari na i.mi.com."</string>
+     <string name="cloud_service_title">Xiaomi Cloud</string>
      <string name="cloud_space_full_gallery_notification_content_text">Nadgradite svoj plan da boste dobili več cloud prostora za shranjevanje</string>
      <string name="cloud_space_upgrade_message">Tapni za dodajanje %s GB na tvoj oblak.</string>
      <string name="cloud_space_upgrade_no_quota_info">"Ne morem pridobiti informacij o prostoru za shranjevanje"</string>
@@ -872,6 +874,7 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
      <string name="notification_sync_fail_title">"Ne morem sinhronizirati gesel"</string>
      <string name="notification_update_key_text">Geslo upravitelja gesel je spremenjeno. Preverite novo geslo</string>
      <string name="open_micloud_sync">Vključite sinhr. z Mi Cloudom</string>
+     <string name="open_service_title">Vključi</string>
      <string name="other_settings">Ostale nastavitve</string>
      <string name="password">Vpišite geslo</string>
      <string name="pay_info_dialog_confirm_to_pay">Plačaj %s</string>

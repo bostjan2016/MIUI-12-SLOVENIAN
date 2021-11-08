@@ -533,6 +533,7 @@
   <string name="dialog_system_auto_sync_account_no_open">Sinhronizacija računa je izključena. E-pošta se ne more sinhronizirati</string>
   <string name="dialog_system_auto_sync_master_no_open">Sinhronizacija sistema je izključena. E-pošta se ne more sinhronizirati</string>
   <string name="disable_admin_warning">Opozorilo: Z deaktivacijo pooblastil aplikacije E-pošta za urejanje z napravo bodo izbrisani vsi računi e-pošte ki to zahtevajo, kot tudi e-pošta, stiki, dogodki koledarja itd.</string>
+     <string name="disallow_qq_auth_how_get_auth_code">Kako dobim avtorizacijsko kodo?</string>
   <string name="discard">Opusti</string>
   <string name="discard_drafts">Opusti osnutke</string>
   <string name="dismiss_tip_hover_text">Opusti nasvete</string>
@@ -1215,6 +1216,7 @@ Poskusite z ostalo pošto."</string>
      <string name="ntes_send_to_content">Če je vaša trenutna telefonska številka povezana z računom, tapnite \"Pošlji SMS\".</string>
      <string name="ntes_verification_code">Vnesite kodo: %s</string>
   <string name="oauth_error_description">"Ne morem preveriti avtentičnosti"</string>
+     <string name="oauth_find_browser_error_description">Prosimo, namestite brskalnik, preden se prijavite</string>
   <string name="oauth_gmail_login_notify">"Vnesite svoje uporabniško ime in geslo Google računa na naslednji strani za prijavo"</string>
   <string name="oauth_login_continue">Nadaljuj</string>
   <string name="oauth_login_continue_qq">Pridobitev kode za preverjanje za prijavo &gt;</string>

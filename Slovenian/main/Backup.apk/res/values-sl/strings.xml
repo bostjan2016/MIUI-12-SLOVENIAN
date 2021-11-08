@@ -192,6 +192,7 @@ https://appleid.apple.com/#!&amp;page=signin da zaprete"</string>
      <string name="enable_local_backup">Vklopi lokalne varnostne kopije</string>
      <string name="enable_local_backup_and_restore">Vklopite lokalne varnostne kopije</string>
      <string name="enable_local_backup_tips">Vklopite to storitev, da lahko varnostne kopije shranjujete v tej napravi in jih kopirate v računalnik ali pomnilniško napravo USB. Vklopim zdaj?</string>
+     <string name="enable_local_backup_tips_global">Vklopite to storitev, da lahko varnostne kopije shranjujete v tej napravi in jih kopirate v računalnik. Vklopim zdaj?</string>
      <string name="err_acquire_system_service">"Ne morem zagnati sistemsko storitev."</string>
      <string name="err_authentication_failed">Kontrola ni uspela</string>
      <string name="err_bakfile_broken">"Ne morem uporabiti te var. kopije."</string>

@@ -44,6 +44,7 @@
      <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
   <string name="default_boss_terminal_name">Mi Notebook</string>
      <string name="default_error_msg">Neznana napaka</string>
+     <string name="device_max_screen_count_toast">Ta naprava podpira samo odpiranje dveh oken hkrati</string>
   <string name="display_max_screen_count_toast">V tej različici lahko odprete do 2 okna</string>
   <string name="display_not_support_secondary_toast">"Te aplikacije ne morem odpreti v novem oknu"</string>
      <string name="download_aborted">"Ne morem prenesti zaradi prekinjene povezave"</string>

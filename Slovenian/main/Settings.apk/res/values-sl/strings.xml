@@ -5270,7 +5270,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
   <string name="launch_noapp_dialog_replace">Nastavitve</string>
      <string name="launch_notification_center">Plošča obvestil</string>
   <string name="launch_recents">Zaženi Nedavno</string>
-     <string name="launch_smarthome">Xiaomi Hitra povezava</string>
+     <string name="launch_smarthome">Xiaomi Magic Control</string>
   <string name="launch_voice_assistant">Zaženi glasovni pomočnik</string>
      <string name="launch_wechat_health_code">Zdravstvena koda WeChat</string>
      <string name="launch_wechat_health_code_auto_close">Bližnjica do zdravstvene kode WeChat ni več na voljo. Lahko preklopite na drugo bližnjico.</string>
@@ -5308,6 +5308,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
   <string name="led_settings">LED lučka</string>
     <string name="left_edge">Levi rob</string>
   <string name="left_function_key">Leva bližnjica</string>
+     <string name="left_shoulder_key">Levo</string>
      <string name="legacy_control_center_desc">Povlecite dol vrstico obvestil za prikaz bližnjic in obvestil</string>
      <string name="legacy_control_center_title">Stara verzija</string>
   <string name="legacy_dhcp_client">Uporaba starejšega odjemalca DHCP</string>
@@ -6397,6 +6398,7 @@ Nadaljujte k dodatnim nastavitvam."</string>
     <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
+     <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
@@ -8103,6 +8105,7 @@ Sočasno pritisnite gumba za vklop in povečanje glasnosti."</string>
   <string name="privacy_file">Datoteke</string>
   <string name="privacy_gallery">Fotografije</string>
   <string name="privacy_header_text_less_than_half">Premalo prostora. Povlecite omejevalec naprej.</string>
+     <string name="privacy_lab_settings">Laboratorij za varstvo zasebnosti</string>
   <string name="privacy_mms">Sporočila</string>
   <string name="privacy_mode_dialog_message">Sporočila, beležke, fotografije in nastavitve bodo skrite v načinu Gost. Prav tako ne boste mogli urejati začetnega zaslona. Preklopim na način Gost?</string>
   <string name="privacy_mode_dialog_title">Način Gost</string>
@@ -8556,6 +8559,7 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="rgb_manage_facerecoginition_text">Urejaj podatke 2D obraza</string>
      <string name="right_edge">Desni rob</string>
   <string name="right_function_key">Desna bližnjica</string>
+     <string name="right_shoulder_key">Desno</string>
   <string name="ring_to_you">FeelRing</string>
   <string name="ring_to_you_address">http://ringtoyou.kt.com</string>
   <string name="ring_to_you_info">Nastavite prilagojen ton ki ga bodo drugi ljudje sliašali preden se javite</string>
@@ -9503,6 +9507,11 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
   <string name="set_password_message">Nastavi geslo za izključitev Otroškega načina kot tudi za odklepanje te naprave.</string>
   <string name="set_password_title">Nastavi geslo</string>
   <string name="set_screen_paper_mode">Način branja</string>
+     <string name="set_shoulder_key_shortcut_checkbox_message">"Ne kaži več"</string>
+     <string name="set_shoulder_key_shortcut_message">"Virtualnim tipkam še niste dodelili nobene bližnjice. Jih zdaj konfiguriram?"</string>
+     <string name="set_shoulder_key_shortcut_negative_button">Ne</string>
+     <string name="set_shoulder_key_shortcut_positive_button">Da</string>
+     <string name="set_shoulder_key_shortcut_title">Konfiguriraj virtualne tipke</string>
   <string name="setting_privacy_password">Nastavite geslo za zaščito zasebnosti</string>
   <string name="settings_ad_loading">Samo trenutek…</string>
   <string name="settings_ad_loading_unavailable">"Informacije ne morem prenesti."</string>
@@ -9583,6 +9592,18 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
      <string name="shoulder_key_game_light_settings">Animacije</string>
      <string name="shoulder_key_settings">Virtualne tipke</string>
      <string name="shoulder_key_settings_title">Virtualne tipke</string>
+     <string name="shoulder_key_shortcut_double_click">Dvojni tap</string>
+     <string name="shoulder_key_shortcut_launch_camera">Kamera</string>
+     <string name="shoulder_key_shortcut_launch_screen_recorder">Posnemi zaslon</string>
+     <string name="shoulder_key_shortcut_launch_sound_recorder">Posnemi zvok</string>
+     <string name="shoulder_key_shortcut_launch_video">Posnemi video</string>
+     <string name="shoulder_key_shortcut_long_press">Pritisnite in držite</string>
+     <string name="shoulder_key_shortcut_mute">Tihi način</string>
+     <string name="shoulder_key_shortcut_none">Nič</string>
+     <string name="shoulder_key_shortcut_settings">Virtualne tipke</string>
+     <string name="shoulder_key_shortcut_single_click">Pritisni</string>
+     <string name="shoulder_key_shortcut_turn_on_torch">Bliskavica</string>
+     <string name="shoulder_key_shortcut_vibrate">Vibriraj</string>
      <string name="shoulder_key_sound_settings">Zvočni efekti</string>
      <string name="shoulder_key_sound_switch_title">Zvočni efekti</string>
      <string name="shoulder_key_sound_text_bullet">Krogla</string>

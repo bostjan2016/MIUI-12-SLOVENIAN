@@ -199,6 +199,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
     <string name="err_bakfile_broken">Ne morem uporabiti te varnostne kopije.</string>
     <string name="err_bakfile_not_exist">Datoteka varnostne kopije ne obstaja.</string>
     <string name="err_binder_died">Aplikacija se je nepričakovano ustavila.</string>
+     <string name="err_install_incompatible">Težava z združljivostjo</string>
     <string name="err_low_storage">Ni dovolj prostora za shranjevanje</string>
     <string name="err_no_gms">Nezdružljiva različica aplikacije. To aplikacijo namestite ločeno.</string>
     <string name="err_not_allow">Ni podprto</string>
