@@ -842,7 +842,6 @@ Razlog: \"%s\""</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
-     <string name="from_account_format">%1$s</string>
      <string name="full_name">Ime</string>
      <string name="gallery">Galerija</string>
      <string name="generic_no_account_prompt">Ohranite svoje stike varne če izgubite telefon. Sinhronizirajte s spletno storitvijo.</string>
@@ -1753,7 +1752,6 @@ Napravite varnostno kopijo stikov."</string>
      <string name="sim_unloaded">SIM kartica ni vstavljena</string>
      <string name="sina_weibo">Sina Weibo</string>
      <string name="single_group_list_empty">Ni članov skupine</string>
-     <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
      <string name="smart_group_company_label">Podjetja</string>
      <string name="smart_group_company_unavailable">Ni podatkov o podjetju</string>
      <string name="smart_group_frequency_1">V zadnjem mesecu</string>

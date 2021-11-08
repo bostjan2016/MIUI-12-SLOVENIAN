@@ -2768,7 +2768,6 @@ Vaša naprava je zdaj %d%% hitrejša."</string>
      <string name="menu_text_optimize_manage_1">Povečaj hitrost</string>
      <string name="menu_text_power_manager">Baterija</string>
      <string name="menu_text_power_percent">%s</string>
-     <string name="menu_text_power_percent_title">%s</string>
      <string name="menu_wh_remove">Odstrani iz izjem</string>
      <string name="menu_white">Dodaj v izjeme</string>
      <string name="mi_ime_not_used">Uporabite tipkovnico, ki jo je odobril Xiaomi</string>

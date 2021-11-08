@@ -993,8 +993,6 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
      <string name="xiaomi_calculator_remove_icon_title">Odstranim \"Kalkulator\" iz zač. zaslona?</string>
      <string name="xiaomi_connect_download_manager_fail">"Ne morem se povezati z aplikacijo v prenosu. Preverite ali ima aplikacija vsa potrebna dovoljenja v Nastavitve &gt; Nameščene aplikacije."</string>
      <string name="xiaomi_external_storage_unavailable">Shranjevanje ni možno, preverite SD kartico.</string>
-     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-     <string name="xiaomi_megabytes_unit">%1$sMB</string>
      <string name="xiaomi_mobile">Mi Mobile</string>
      <string name="xiaomi_update_dialog_message">"Predstavljamo verzijo %1$s
 Velikost: %2$s"</string>
