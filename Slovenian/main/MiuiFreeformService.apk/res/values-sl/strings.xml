@@ -97,6 +97,8 @@
   <string name="freeform_demo_final_restart">Začni znova</string>
   <string name="freeform_demo_final_title">"Pripravljeni ste!"</string>
   <string name="freeform_demo_go_on">Naprej</string>
+     <string name="freeform_demo_next_tutorial">Naprej</string>
+     <string name="freeform_demo_previous_tutorial">Nazaj</string>
   <string name="freeform_demo_title_finish">Lepo!</string>
   <string name="freeform_demo_title_skip">Preskoči</string>
      <string name="freeform_slide_to_small_freeform">Zmanjšajte plavajoče okno</string>

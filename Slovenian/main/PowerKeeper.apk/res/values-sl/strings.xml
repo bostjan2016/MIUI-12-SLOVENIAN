@@ -503,6 +503,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
+     <string name="title_dry_history">Suha zgodovina</string>
      <string name="title_history">Zgodovina</string>
      <string name="title_home">Domov</string>
   <string name="today">Danes</string>

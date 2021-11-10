@@ -1456,6 +1456,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
      <string name="descx_start_scan_system">Začenjam zaščiteno sistemsko preverjanje</string>
      <string name="detail_app_button">Podrobnosti aplikacije</string>
      <string name="details_subtitle">Podrobnosti uporabe</string>
+     <string name="dev_sign_notification_content">"Zdaj uporabljate Android 12 Beta. Povratne informacije, ki jih posredujete, nam bodo pomagale prepoznati in odpraviti težave. Hvala za sodelovanje v tem programu!"</string>
+     <string name="dev_sign_notification_title">Android 12 Beta</string>
      <string name="device_manager_apply_step_1">Aktiviram administratorja naprave za to aplikacijo?</string>
      <string name="device_manager_apply_step_2">"Aktivacija administratorja naprave za to aplikacijo lahko povzroči prikaz vaših osebnih podatkov.
 Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</string>

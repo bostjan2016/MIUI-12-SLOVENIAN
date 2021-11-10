@@ -2423,6 +2423,7 @@ Ko napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dv
   <string name="close_twice_auth_step_3">3. Kliknite \"Izključi avtorizacijo z dvemaa faktorjema\". Kliknite ponovno za potrditev.</string>
   <string name="close_twice_auth_steps">Sledite te korake da boste izključili avtorizacijo z dvema faktorjema za Apple ID:</string>
   <string name="close_twice_auth_tutor">Izključite Apple ID avtorizacijo z dvema faktorjema</string>
+     <string name="closed_beta">Stabilno (notranje)</string>
   <string name="cloud_app_name">Mi Cloud varnostna kopija</string>
   <string name="cloud_backup_hint">Za dostop do varnostnih kopij se vpišite</string>
   <string name="cloud_backup_login">Vpišite se v vaš Mi račun</string>

@@ -771,9 +771,9 @@ Hitrejši protokol povezave."</string>
      <string name="play_decode_audio">predvajaj avdio</string>
      <string name="plugin_alert_cancel">Kasneje</string>
      <string name="plugin_alert_kill">Ponovni zagon</string>
-     <string name="plugin_alert_text">Ustavite nastavitve in znova zaženite storitev Bluetooth, da uporabite spremembe.</string>
-     <string name="plugin_alert_title">Posodobitev vtičnika</string>
-     <string name="plugin_download_create_client_failed">Ustvarjanje odjemalca ni uspelo.</string>
+     <string name="plugin_alert_text">Vtičniki Bluetooth so bili uspešno posodobljeni. Vklopite in izklopite Bluetooth, da uveljavite spremembe.</string>
+     <string name="plugin_alert_title">Znova zaženite Bluetooth</string>
+     <string name="plugin_download_create_client_failed">Stvari ni bilo mogoče prenesti zaradi napake strežnika.</string>
      <string name="plugin_download_get_object_failed">Pridobivanje informacij s strežnika ni uspelo.</string>
      <string name="plugin_download_network_timeout">Časovna omejitev omrežja.</string>
      <string name="plugin_download_no_storage">Ni prostora.</string>

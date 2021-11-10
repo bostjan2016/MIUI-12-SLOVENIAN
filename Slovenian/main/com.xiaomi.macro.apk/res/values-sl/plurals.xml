@@ -5,7 +5,7 @@
         <item quantity="one">%d krat</item>
     </plurals>
     <plurals name="gb_game_macro_action_unit_seconds">
-        <item quantity="other">%d sek.</item>
-        <item quantity="one">%d sek.</item>
+        <item quantity="other">%d sek</item>
+        <item quantity="one">%d sek</item>
     </plurals>
 </resources>
