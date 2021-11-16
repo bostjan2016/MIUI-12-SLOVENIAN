@@ -471,6 +471,10 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="new_local_detail_description">"Opomba:
 %1$d. Kopirajte var. kopije v računalnik da boste preprečili izgubo podatkov. %2$s.
 %3$d. Var. kopije bodo shranjene v MIUI-Backup-All Backup."</string>
+     <string name="new_local_detail_description_global">"Opomba:
+%1$d. Kopirajte var. kopije v računalnik da boste preprečili izgubo podatkov. %2$s.
+%3$d. Var. kopije bodo shranjene v MIUI-Backup-All Backup.
+%4$d. Nekatere aplikacije morda ne podpirajo varnostnih kopij."</string>
      <string name="new_local_tab_backup">Var. kopiranje na mobilno napravo</string>
      <string name="new_local_tab_backup_pad">Var. kopiraj</string>
      <string name="new_local_tab_restore">Vrnite iz mobilne naprave</string>

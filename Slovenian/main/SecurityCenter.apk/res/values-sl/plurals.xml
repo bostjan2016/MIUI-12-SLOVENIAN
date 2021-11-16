@@ -850,6 +850,10 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">%s aplikacij ima stalni dostop</item>
         <item quantity="one">%s aplikacija ima stalni dostop</item>
      </plurals>
+     <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Dovoljeno za %s aplikacij</item>
+        <item quantity="one">Dovoljeno za %s aplikacijo</item>
+     </plurals>
      <plurals name="privacy_pop_times">
         <item quantity="other">%s krat</item>
         <item quantity="one">%s krat</item>

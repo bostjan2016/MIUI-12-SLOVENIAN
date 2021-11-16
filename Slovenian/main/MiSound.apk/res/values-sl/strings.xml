@@ -448,6 +448,8 @@
      <string name="sound_transmission_title">Brezžični mikrofon</string>
      <string name="spatial_audio">Sledi gibanju glave</string>
      <string name="spatial_audio_summary">Prilagodi prostorski zvok glede na gibanje glave</string>
+     <string name="speaker_scenario_selection">Zvok zvočnikov</string>
+     <string name="speaker_scenario_selection_another">Original</string>
      <string name="start_test_sound">Začni test</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="sunday">Nedelja</string>

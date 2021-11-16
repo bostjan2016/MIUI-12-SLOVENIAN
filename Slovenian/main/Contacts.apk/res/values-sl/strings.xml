@@ -105,6 +105,9 @@
      <string name="bh_buy_now">Kupi</string>
      <string name="bh_call_used">Iskoriščene minute</string>
      <string name="bh_cancel">Prekliči</string>
+     <string name="bh_cancellation_of_carrier_services">Prekliči storitve</string>
+     <string name="bh_cancellation_of_carrier_services_des">Prekliči Mi Carrier storitve</string>
+     <string name="bh_cancellation_of_carrier_services_result">"Če nadaljujete, boste preklicali Mi Carrier storitve. After that, we'll stop collecting and using your personal information and delete your order history permanently. Make sure all your transactions are completed before you cancel services."</string>
      <string name="bh_cannot_action">"Ne morem uporabiti %1$s. Najprej namestite ustrezno aplikacijo."</string>
      <string name="bh_cannot_fetch_num">Neznana številka telefona</string>
      <string name="bh_cannot_login_miacount">"Ne morem se prijaviti v Mi Račun"</string>
@@ -132,6 +135,9 @@
      <string name="bh_delete_charged_phone_number">Izbriši nedavno uporabljeno številko telefona</string>
      <string name="bh_delete_edited_phone_number">Izbriši vnešeno številko telefona</string>
      <string name="bh_delete_success">Uspešno izbrisano</string>
+     <string name="bh_deregister_service_failure_description">Počakajte minuto ali dve in poskusite znova.</string>
+     <string name="bh_deregister_service_failure_title">"Storitve ni bilo mogoče preklicati"</string>
+     <string name="bh_deregister_service_success">Storitve so bile uspešno preklicane</string>
      <string name="bh_edit_saved_phone_number">Uredi oznako za shranjeno številko</string>
      <string name="bh_edit_sim_num">Uredi SIM številko telefona</string>
      <string name="bh_exchange_number">Zamenjaj številko</string>
@@ -143,12 +149,17 @@
      <string name="bh_gb">GB</string>
      <string name="bh_get_balance_success">Uspešno preverjeno. Informacije tukaj lahko posodobite z zamudo.</string>
      <string name="bh_get_charge_phone_number">Izberite iz stikov</string>
+     <string name="bh_goto_open">Ni odobreno</string>
      <string name="bh_goto_set">Nastavi</string>
+     <string name="bh_i_got_it">Razumem</string>
      <string name="bh_input_hint">Vnesite številko telefona</string>
      <string name="bh_input_total_limit">Vnesite količino podatkov</string>
      <string name="bh_insert_card_number">Dodaj SIM %1$d številko telefona</string>
+     <string name="bh_is_open">Dovoljeno</string>
      <string name="bh_just_now">Prav zdaj</string>
      <string name="bh_kb">KB</string>
+     <string name="bh_login_to_cancellation">Če želite preklicati storitve, se najprej prijavite.</string>
+     <string name="bh_login_to_withdrawal">Če želite preklicati privolitev, se najprej prijavite.</string>
      <string name="bh_mb">MB</string>
      <string name="bh_minute">m</string>
      <string name="bh_misim_recharge">Napolni</string>
@@ -158,6 +169,8 @@
      <string name="bh_more_value">Ostala količina</string>
      <string name="bh_ms">Mi SIM</string>
      <string name="bh_net_error">Omrežna napak</string>
+     <string name="bh_no_permission_read_call_log_desc">To dovoljenje omogoča prikaz trajanja klica</string>
+     <string name="bh_no_permission_read_contact_desc">To dovoljenje omogoča dostop do telefonskih številk v stikih</string>
      <string name="bh_no_sim">"SIM kartica ni vstavljena"</string>
      <string name="bh_no_sim_inserted">"SIM kartica ni vstavljena"</string>
      <string name="bh_none">Nič</string>
@@ -179,12 +192,15 @@
      <string name="bh_pay_success_desc">Vaše stanje bo morda pripisano z zamudo</string>
      <string name="bh_perm_ask_read_contacts">Dovoli Mi storitve operaterja dostop do stikov.</string>
      <string name="bh_perm_desc_read_contacts">Za prikaz stikov med polnjenjem</string>
+     <string name="bh_permission_contact">Dostop do stikov</string>
      <string name="bh_permission_contact_desc">Za dopolnitev stanja vaših stikov</string>
      <string name="bh_permission_get_accounts_desc">Za oddajo naročil in preverjanje njihovega stanja</string>
+     <string name="bh_permission_read_call_log">Dostop do zgodovine klicev</string>
      <string name="bh_permission_read_call_log_desc">Za prikaz trajanja klica</string>
      <string name="bh_permission_read_call_log_desc_and_reason">Branje dnevnika klicev za prikaz trajanja klica</string>
      <string name="bh_permission_read_contact_desc_and_reason">Branje stikov, da napolnite stanje svojih stikov</string>
      <string name="bh_permission_read_phone_state_desc">Za prikaz telefonskih številk in povezanih informacij o operaterju</string>
+     <string name="bh_permission_showing">Podrobnosti o dovoljenjih</string>
      <string name="bh_pkg_data_cant_query">"Podrobnosti ni mogoče pokazati zaradi omejitev operaterja"</string>
      <string name="bh_please_check_operation">Preverite, ali je nosilec pravilno nastavljen</string>
      <string name="bh_please_complete_sim_before_charge">Za dopolnitev najprej dodajte telefonsko številko.</string>
@@ -206,6 +222,9 @@
      <string name="bh_should_login_to_buy">Prijavite se v Mi račun če želite kupiti minute klicev in mobilne podatke</string>
      <string name="bh_sim">SIM %1$d</string>
      <string name="bh_similar_number_hint">Ta številka je podobna %1$s. Vseeno napolnim?</string>
+     <string name="bh_stop_carrier_services">Izklopi Mi Carrier storitve</string>
+     <string name="bh_stop_carrier_services_short">Izklopi Mi Carrier storitve</string>
+     <string name="bh_stop_result">"Če izklopite Mi Carrier storitve ne boste mogli upravljati svojega operaterskega načrta ali kupovati podatkov in minut klicev. Vseeno izklopim?"</string>
      <string name="bh_system_recommend">Sistemska priporočila</string>
      <string name="bh_system_recommend_des">Dovolite nam, da analiziramo vaš promet in na podlagi rezultatov priporočimo digitalne izdelke</string>
      <string name="bh_tag">*%1$s</string>
@@ -231,7 +250,16 @@
      <string name="bh_used_today">Porabljeno danes</string>
      <string name="bh_user_agreement">Pogoji uporabe</string>
      <string name="bh_vs">Mi gostovanje</string>
+     <string name="bh_where_to_restart_carrier_services">Storitve Mi Carrier lahko vedno znova vklopite v Stiki > Nastavitve.</string>
      <string name="bh_will_open">Odpiram %1$s…</string>
+     <string name="bh_withdraw_permission_failure_description">Počakajte minuto ali dve in poskusite znova.</string>
+     <string name="bh_withdraw_permission_failure_title">"Privolitve ni bilo mogoče preklicati"</string>
+     <string name="bh_withdraw_permission_success">Privolitev je bila uspešno umaknjena</string>
+     <string name="bh_withdrawal_of_consent">Preklic soglasja</string>
+     <string name="bh_withdrawal_of_consent_and_cancellation_of_services">Preklic soglasja in storitev</string>
+     <string name="bh_withdrawal_of_consent_des">Preklic soglasja za Pravila o zasebnosti Mi Carrier storitve</string>
+     <string name="bh_withdrawal_of_consent_long">Preklic soglasja</string>
+     <string name="bh_withdrawal_of_consent_result">"Če nadaljujete, boste umaknili svoje soglasje s politiko zasebnosti storitev Mi Carrier. Po tem bomo prenehali zbirati in uporabljati vaše osebne podatke ter trajno izbrisali zgodovino naročil. Preden prekličete soglasje, se prepričajte, da so vse vaše transakcije zaključene."</string>
      <string name="bh_wrong_number_hint">Vnesite veljavno telefonsko številko</string>
      <string name="bh_yuan">CNY</string>
      <string name="bills_info_label">Podrobnosti</string>
@@ -546,7 +574,7 @@ Vizitke stikov so izključene"</string>
      <string name="create_qrcode_fail_message">Ne morem kreirati QR kode</string>
      <string name="create_voip_shortcut_success">Bližnjica je napravljena</string>
      <string name="cta_content_seg1"><Data>"&lt;strong>Važno obvestilo
-Z dotikom \"Strinjam se\" se strinjam z &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Mi Račun Pogoji uporabe&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Mi gostovanje Pogoji uporabe&lt;/a>&lt;/font>, in &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Pravila o zasebnosti&lt;/a>&lt;/font>. Preden se strinjate, natančno preberite te dokumente in v celoti razumite vse povezane pogoje in določila.&lt;/strong>"</Data></string>
+Če tapnete \"Strinjam se\" se strinjate z &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Mi Račun Pogoji uporabe&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Mi gostovanje Pogoji uporabe&lt;/a>&lt;/font>, in &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Pravila o zasebnosti&lt;/a>&lt;/font>. Preden se strinjate, natančno preberite te dokumente in v celoti razumite vse povezane pogoje in določila.&lt;/strong>"</Data></string>
      <string name="cta_content_seg2">"
 Mi gostovanje se mora za normalno delovanje povezati s spletom in dostopati do informacij o vaši lokaciji. Poleg tega lahko Mi gostovanje zbira, uporablja in deli vaše osebne podatke. Vaši osebni podatki bodo zaščiteni v skladu z lokalnimi zakoni in predpisi."</string>
      <string name="cta_dialog_cancel">Izhod</string>
@@ -1633,6 +1661,10 @@ Napravite varnostno kopijo stikov."</string>
      <string name="return_call_dialing">Klicanje</string>
      <string name="return_call_incoming">Dohodni klic</string>
      <string name="ringLabelsGroup">"Melodija zvonjenja"</string>
+     <string name="saf_permission_dialog_content">"Android Stikom in telefonu privzeto ne omogoča dostopa do posnetkov klicev. Tem aplikacijam dovolite dostop do posnetkov klicev, da si jih lahko ogledate."</string>
+     <string name="saf_permission_dialog_grant_permission_immediately">Dovoli</string>
+     <string name="saf_permission_dialog_later">Kasneje</string>
+     <string name="saf_permission_dialog_title">Dovoli Stikom in Telefonu dostop do posnetkov klicev</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>

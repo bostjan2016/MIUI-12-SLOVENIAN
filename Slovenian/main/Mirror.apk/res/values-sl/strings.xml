@@ -160,6 +160,7 @@
      <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
+     <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
@@ -285,8 +286,8 @@
   <string name="settings_log_options">Zapisi</string>
   <string name="settings_more_help">Pomoč</string>
      <string name="settings_pc_history_title">Zgodovina povezav</string>
-     <string name="settings_pc_trusted_title">Connect automatically</string>
-     <string name="settings_pc_use_tile">About this feature</string>
+     <string name="settings_pc_trusted_title">Poveži samodejno</string>
+     <string name="settings_pc_use_tile">O tej storitvi</string>
      <string name="settings_permission_description">Podrobnosti o dovoljenjih</string>
   <string name="settings_privacy_policy">Pravila o zasebnosti</string>
   <string name="settings_scanner_button">Skener</string>

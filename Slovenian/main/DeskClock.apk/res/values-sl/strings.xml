@@ -71,6 +71,7 @@
      <string name="alert_vibrate_enable_summary">Vibriraj ko se alarm ugasne</string>
      <string name="alert_volume">Glasnost alarma</string>
      <string name="alert_volume_summary">Nastavite glasnost zvonjenja za alarme in odštevanja</string>
+     <string name="alert_xiaoai_ringtone_desc">Mi AI govori…</string>
      <string name="allow">Dovoli</string>
      <string name="already_exist">Ta časovnik že obstaja</string>
      <string name="am">dop.</string>
@@ -475,7 +476,9 @@
      <string name="search_stopwatch_keywords">Štoparica</string>
      <string name="search_timer_keywords">Kronometer</string>
      <string name="search_worldclock_keywords">Čas;Svetovna ura;Ura</string>
+     <string name="select_all">Izberi vse</string>
      <string name="select_operation">Izberi</string>
+     <string name="selected">Izbrano</string>
      <string name="send">Pošlji</string>
      <string name="set_alarm">Nastavi alarm</string>
      <string name="set_alarm_choose_ringtone">Izberite melodijo zvonjenja</string>
@@ -626,6 +629,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="tv_blank_list_show_text">Tu še ni ničesar. Poiščite lokacijo, da jo dodate na svojo svetovno uro.</string>
      <string name="tv_world_clock_edit_title1">Lokacije, prikazane na začetnem zaslonu</string>
      <string name="tv_world_clock_edit_title2">Druge shranjene lokacije</string>
+     <string name="unselect_all">Prekliči vse</string>
      <string name="upcoming_alarm">Prihodnji alarm: %s</string>
      <string name="upcoming_alarm_hint">Zdaj lahko izključite ta alarm</string>
      <string name="update_health_app">Posodobite Mi Zdravje</string>
@@ -674,6 +678,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="worldcolock_timezone_date">dd.MM</string>
      <string name="worldcolock_timezone_gap">%s H</string>
      <string name="worldcolock_timezone_local">Isto kot lokalni čas</string>
+     <string name="xiaoai_ringtone_title">Mi AI zvonjenja</string>
      <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
      <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
      <string name="xiaomi_market_sdk_update_dialog_title">Posodobitev na voljo</string>

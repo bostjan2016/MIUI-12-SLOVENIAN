@@ -1938,6 +1938,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="gamebooster_network_dialog_cn_message">"Game Turbo ne morete uporabljati, če varnost ni dovoljena za povezavo s spletom in dostop do vaše lokacije. Dovolim zdaj?"</string>
      <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost povezavo na splet da uporabite vse storitve Game Turbo?</string>
      <string name="gamebooster_network_dialog_title">"Nekatere stvari niso na voljo"</string>
+     <string name="gamebox_ai_subtitle">AI podnapisi</string>
      <string name="gamebox_app_not_find">Najprej namestite aplikacijo.</string>
      <string name="gamebox_brightness">Svetlost</string>
      <string name="gamebox_browser_not_find">Najprej namestite Mi brskalnik</string>
@@ -3607,6 +3608,11 @@ To skrajšuje trajanje baterije."</string>
      <string name="power_center_super_wireless_charge_noti_title">Hitro brezžično polnjenje je vklopljeno</string>
      <string name="power_center_super_wireless_charge_summary">"Povečajte hitrost ventilatorja hladilnika brezžičnega polnilca"</string>
      <string name="power_center_super_wireless_charge_toast_close">Hitro brezžično polnjenje je izklopljeno</string>
+     <string name="power_center_surface_temp_high">Toplo</string>
+     <string name="power_center_surface_temp_higher">Vroče</string>
+     <string name="power_center_surface_temp_low">Hladno</string>
+     <string name="power_center_surface_temp_lower">Mrzlo</string>
+     <string name="power_center_surface_temp_normal">Normalno</string>
      <string name="power_center_time_to_boot">Čas vklopa</string>
      <string name="power_center_time_to_shutdown">Čas izklopa</string>
      <string name="power_center_title">Baterija</string>

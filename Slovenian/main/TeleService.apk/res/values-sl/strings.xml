@@ -167,6 +167,7 @@
     <string name="accessor_expires_text">Zakup poteče dne %s</string>
     <string name="accessor_info_title">Aplikacije, ki si delijo podatke</string>
     <string name="accessor_no_description_text">Aplikacija ni posredovala opisa.</string>
+     <string name="according_to_carrier">Pokaži možnosti</string>
   <string name="account_changed_title">Račun je zamenjan</string>
      <string name="actionbar_button_up_description">Nazaj</string>
   <string name="active_input_method_subtypes">Aktivni načini vnosa</string>
@@ -1072,6 +1073,8 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="domain_address_title">Strežnik</string>
   <string name="domestic_calls">Samo domači</string>
   <string name="doneButton">Končano</string>
+     <string name="dsda_summary">Izbrana omrežja podpirajo stanje pripravljenosti 5G+4G z dvojno kartico SIM</string>
+     <string name="dsda_title">Vklopi 5G+4G DSDA</string>
     <string name="dsds_dialog_cancel">Prekliči</string>
     <string name="dsds_dialog_confirm">Vnovičen zagon</string>
     <string name="dsds_dialog_message">Če želite spremeniti to nastavitev, znova zaženite napravo.</string>
@@ -1251,6 +1254,7 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="fiveg_hosted_mode_summary">Samodejno izberi najboljše omrežje, da prihranite baterijo</string>
   <string name="fiveg_hosted_mode_title">5G Pametna menjava</string>
   <string name="fiveg_icon_type1">Nr Vrsta ikone :</string>
+     <string name="fiveg_info">Pokaži 5G informacije</string>
   <string name="fiveg_infos">5G informacije</string>
   <string name="fiveg_network_config_type1">Vrsta omrežne konfiguracije:</string>
   <string name="fiveg_network_mode_default">Samod.</string>
@@ -1260,6 +1264,8 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="fiveg_network_title">5G omrežje</string>
   <string name="fiveg_plmn_info_list1">PLMN seznam podatkov:</string>
   <string name="fiveg_power_secret_code_tip">Urejajte v Varnost - Baterija - 5G Varčevanje baterije</string>
+     <string name="fiveg_power_switch_summary">Poskrbite, da bo povezljivost 5G v določenih scenarijih manjša</string>
+     <string name="fiveg_power_switch_title">5G varčevalnik baterije</string>
   <string name="fiveg_restrict_dcnr1">Omeji DCNR:</string>
   <string name="fiveg_sa_switch_open_dialog_content">5G povezava je lahko nestabilna v samostojnem načinu dela, kar lahko vpliva na storitve telefonije. Vključim SA način dela?</string>
   <string name="fiveg_sa_switch_open_dialog_title">Pozor</string>
@@ -1268,6 +1274,7 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="fiveg_sa_switch_title_slot0">SIM %d SA način</string>
   <string name="fiveg_sa_switch_title_slot1">SIM %d SA način</string>
   <string name="fiveg_sa_switch_warning_toast">Ponovno zaženite telefon zaradi efekta.</string>
+     <string name="fiveg_sa_vice_switch_summary">Dovolite sekundarni kartici SIM, da uporablja neodvisno omrežje 5G</string>
   <string name="fiveg_sa_vice_switch_title">SA na sekundarni SIM</string>
   <string name="fiveg_signal_strength1">5G Moč signala:</string>
   <string name="fiveg_switch_status1">5G stanje stikala:</string>
@@ -1341,6 +1348,8 @@ Vseeno uporabim mobilne podatke?"</string>
   <string name="force_resizable_activities_summary">Omogoči spremembo velikosti vseh aktivnosti za več oken, neglede na vrednosti manifesta.</string>
   <string name="force_rtl_layout_all_locales">Vsili z desne v levo</string>
   <string name="force_rtl_layout_all_locales_summary">Vsili smer z desne v levo za vse države/jezike</string>
+     <string name="forced_to_display">Pokaži</string>
+     <string name="forced_to_hide">Skrij</string>
      <string name="four_point_five_switch_summary">Uporabi 4.5G za povečanje hitrosti mobilne podatkovne povezave in izboljšanje kakovosti glasu.</string>
      <string name="four_point_five_switch_title">4.5G</string>
      <string name="frequecy_num">lte kanal št.</string>
@@ -1362,6 +1371,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="general_news_settings">Splošne novice</string>
   <string name="general_remove">Odstrani</string>
   <string name="general_setting">Nastavitve</string>
+     <string name="general_settings_category">Splošno</string>
   <string name="get_pin2">Vnesite kodo PIN2</string>
   <string name="get_product_list_failed">"Ne morem prebrati zapisa"</string>
   <string name="get_purchase_history_failed">"Ne morem dobiti zgodovine nakupov"</string>
@@ -1998,6 +2008,8 @@ Zmeraj uporabi to številko"</string>
   <string name="multi_category_disable">Več kategorij onemogočenih</string>
   <string name="multi_category_enable">Omogočenih več kategorij</string>
   <string name="multi_sim_settings_title">Dual SIM Nastavitve</string>
+     <string name="n28_summary">Uporabi frekvenčni pas 803MHz</string>
+     <string name="n28_title">Pas N28</string>
   <string name="name">Ime</string>
   <string name="name_hint_text">Ime</string>
   <string name="national_disable">Državne novice so izključene</string>
@@ -2007,6 +2019,8 @@ Zmeraj uporabi to številko"</string>
   <string name="network_2G">2G</string>
   <string name="network_3G">3G</string>
   <string name="network_4G">4G (priporočeno)</string>
+     <string name="network_4G_pure">4G</string>
+     <string name="network_5G">5G</string>
   <string name="network_active">Aktivna omrežja</string>
   <string name="network_available">Omrežja na voljo</string>
   <string name="network_connected">Povezano</string>
@@ -2155,6 +2169,7 @@ Kontaktirajte vašega operaterja."</string>
   <string name="onscreenShowDialpadText">Številčnica</string>
   <string name="onscreenSwapCallsText">Zamenjaj</string>
   <string name="onscreenVideoCallText">Videoklic</string>
+     <string name="opconfig_info">Pokaži OpConfig info</string>
   <string name="open_miui">Odpri</string>
   <string name="opened_dual_4g_confirm_prompt">Kaže da imate samo 4G SIM kartico. Dvojni 4G je samodejno vključen.</string>
   <string name="opened_dual_4g_confirm_prompt_with_sim">Samo SIM %1$s podpira 4G. Da boste sigurni da vaša SIM kartica dela normalno, je dvojni 4G vključen.</string>
@@ -2172,6 +2187,7 @@ Kontaktirajte vašega operaterja."</string>
   <string name="operator_mins_first">"Načrt operaterja ima prednost"</string>
   <string name="operator_mins_first_close">Izključi</string>
   <string name="operator_remain_mins">Paket minut Operatorja</string>
+     <string name="optimization_settings_category">Optimizacija</string>
   <string name="optional_summary">Opcija</string>
   <string name="order_by_name">Po abesedi</string>
   <string name="order_by_recent">Pogosto uporabljano</string>
@@ -2219,6 +2235,7 @@ Poskusite ponovno ali pokličite podporo"</string>
   <string name="other_countries_and_regions">Ostale države</string>
   <string name="other_settings">Ostale nastavitve klicev</string>
   <string name="other_settings_category">Drugo</string>
+     <string name="other_settings_categorys">Dodatne storitve</string>
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>
   <string name="overseas_roaming_setting">Mednarodno gostovanje</string>
     <string name="pane_title_emergency_dialpad">Tipkovnica za klic v sili</string>
@@ -2734,6 +2751,8 @@ Vmesnik UT: %5$s"</string>
   <string name="running_process_item_user_label">Uporabnik: %1$s</string>
   <string name="runningservices_settings_summary">Poglejte in nadzirajte zagnane procese</string>
   <string name="runningservices_settings_title">Zaženite storitve</string>
+     <string name="sa_switch_debug_summary">Prikaži možnosti omrežnega načina 5G v dodatnih nastavitvah kartice SIM</string>
+     <string name="sa_switch_debug_title">Pokaži možnosti omrežnega načina 5G</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>
@@ -2813,6 +2832,12 @@ Vmesnik UT: %5$s"</string>
   <string name="show_screen_updates_summary">Površina okna utripa pri posodabljanju.</string>
   <string name="show_touches">Pokaži dotike</string>
   <string name="show_touches_summary">Pokaži vizualne povratne informacije dotikov</string>
+     <string name="show_volte_switch_summary">Pokaži stikalo VoLTE v podrobnostih SIM</string>
+     <string name="show_volte_switch_title">Pokaži VoLTE stikalo</string>
+     <string name="show_vonr_switch_summary">Pokaži VoNR stikalo v podrobnostih SIM</string>
+     <string name="show_vonr_switch_title">Pokaži VoNR stikalo</string>
+     <string name="show_vowifi_switch_summary">Pokaži WiFi stikalo klicev v podrobnostih SIM</string>
+     <string name="show_vowifi_switch_title">Pokaži WiFi stikalo klicev</string>
   <string name="sim1_activated">SIM kartica 1</string>
   <string name="sim1_no_activated">"Ne morem potrditi SIM kartice 1"</string>
   <string name="sim2_activated">, SIM kartica 2</string>
@@ -3010,6 +3035,7 @@ Potrdite privzeto nastavitev računa za klicanje."</string>
      <string name="support_forbidden_fakecell">Opomba: Omejitev povezave s ponarejenimi baznimi postajami lahko zmanjša signal na območjih s slabo pokritostjo.</string>
   <string name="switch_dds_to_sub_alert">Nastavi to kartico kot privzeto podatkovno kartico.</string>
   <string name="switch_dds_to_sub_alert_msg">Prenesite mobilne podatke na CT SIM</string>
+     <string name="switch_debug_menu">Dodatne omrežne nastavitve</string>
   <string name="switch_off">Izključi</string>
   <string name="switch_on">Vključi</string>
   <string name="system_visual_voicemail_client"/>
@@ -3174,6 +3200,8 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="uplmn_list_setting_add_plmn">Nov PLMN</string>
   <string name="uplmn_list_setting_title">Prednostna omrežja</string>
   <string name="uplmn_numeric_is_empty">Vnesi ID omrežja</string>
+     <string name="uplmn_summary">Pokaži razpoložljive nastavitve omrežja operaterja v podrobnostih SIM</string>
+     <string name="uplmn_title">Nastavitve omrežja operaterja</string>
   <string name="usb_audio_disable_routing">Onemogoči USB audiousmer.</string>
   <string name="usb_audio_disable_routing_summary">Onemogoči samod. usmerjanje na USB audioperiferijo</string>
   <string name="use_current_account_creat_livetalk">Naprej</string>

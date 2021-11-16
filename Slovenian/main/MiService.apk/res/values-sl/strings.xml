@@ -92,6 +92,7 @@
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
+     <string name="i_get_it">Razumem</string>
   <string name="icon_add_description">Dodajte bližnjico na zač. zaslon</string>
   <string name="icon_remove_confirm">Odstrani</string>
   <string name="icon_remove_description_content">"\"Storitve &amp; Povratne inf.\" je sistemska aplikacija. Lahko jo boste še vedno uporabljali v Nastavitvah, če izbrišete bližnjico na zač. zaslonu."</string>
@@ -345,6 +346,10 @@
     <string name="permission_user_protocol">Pogoji uporabe (obvezno)</string>
   <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
+     <string name="privacy_policy_update_hint">"%1$s Pravila o zasebnosti so posodobljena:
+%2$s
+Preberite in se strinjajte z novo različico %3$s preden nadaljujete."</string>
+     <string name="privacy_policy_update_title">Posodobljena Pravila o zasebnosti</string>
      <string name="public_authorize_now">Nastavitve</string>
     <string name="public_loading_text">Samo trenutek…</string>
     <string name="public_net_error_retry">Poskusite ponovno</string>
@@ -385,10 +390,16 @@
   <string name="tuesday">Torek</string>
   <string name="tuesday_short">Tor</string>
   <string name="tuesday_shortest">T</string>
+     <string name="user_must_known">Pozor</string>
+     <string name="user_must_known_content">"Ne boste mogli še naprej uporabljati naših storitev, razen če se strinjate z novo različico %s. Se strinjate z posodobljeno politiko zasebnosti?"</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
    <string name="wednesday">Sreda</string>
   <string name="wednesday_short">Sre</string>
   <string name="wednesday_shortest">S</string>
+     <string name="withdraw_consent_failed">"Soglasja ni bilo mogoče preklicati"</string>
+     <string name="withdraw_consent_failed_hint">Prišlo je do napake strežnika. Počakajte minuto ali dve in poskusite znova.</string>
+     <string name="withdraw_consent_failed_hint_connect_net">Vaša naprava se mora povezati z omrežjem, da lahko prekličete soglasje. Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="withdrawing">Preklic soglasja…</string>
   <string name="yesterday">Včeraj</string>
 </resources>

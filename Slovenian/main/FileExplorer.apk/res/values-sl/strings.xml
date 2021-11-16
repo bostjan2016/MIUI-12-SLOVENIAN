@@ -805,6 +805,8 @@
   <string name="my_video_desc"/>
   <string name="name_empty">Vnesite ime</string>
   <string name="need_login">Najprej se prijavite</string>
+     <string name="need_open_content">Raziskovalcu dovolite dostop do vaših fotografij in datotek za uporabo te storitve.</string>
+     <string name="need_open_permission">Zahtevana so dovoljenja</string>
   <string name="need_read_storage_permission">"Aplikacija Raziskovalec za normalno delovanje potrebuje dovoljenje za dostop do pomnilnika naprave"</string>
   <string name="net_lose_connected">Povezava izgubljena.</string>
   <string name="networkView_notConnected">"Ne morem se povezati na omrežje"</string>
@@ -846,6 +848,7 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="no_network_str">"Ne morem se povezati na omrežje. Preverite povezavo in poskusite ponovno."</string>
   <string name="no_network_tip">"Ne morem se povezati na omrežje. Preverite povezavo in poskusite ponovno."</string>
   <string name="no_new_content_tip">Vsa vsebina je posodobljena</string>
+     <string name="no_permission">Dodelite zahtevana dovoljenja za dostop do te storitve</string>
   <string name="no_recent_files">Ni nedavnih datotek</string>
   <string name="no_search_content">"Ne najdem rezultate"</string>
   <string name="no_tasks">Ni nalog.</string>
@@ -1331,6 +1334,8 @@ in ne spreglejte novih cool nalepk!"</string>
   <string name="title_report_video">Prijavi</string>
   <string name="title_select_volume">Izberite mapo</string>
   <string name="title_upload_video">Delite male videoposnetke</string>
+     <string name="to_open">Nastavitve</string>
+     <string name="to_setting">Nastavitve</string>
   <string name="toast_file_not_can_read">Najdene ni nobene aplikacije ki bi znala opraviti to nalogo.</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>

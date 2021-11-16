@@ -165,6 +165,10 @@ Opomba: Datoteka bo izbrisana tudi iz te naprave."</item>
         <item quantity="other">Izbrišem %d pesmi iz Mi Clouda? Izbrisane bodo tudi iz lokalnega seznama predvajanja.</item>
         <item quantity="one">Izbrisati %d pesem iz Mi Clouda? Izbrisane bodo tudi iz lokalnega seznama predvajanja</item>
      </plurals>
+     <plurals name="dialog_request_delete_permission_descript">
+        <item quantity="other">%d izbranih skladb je shranjeno v zunanji mapi. Dajte zahtevana dovoljenja, da jih izbrišete.</item>
+        <item quantity="one">%d izbrana skladba je shranjena v zunanji mapi. Dajte zahtevana dovoljenja, da jo izbrišete.</item>
+     </plurals>
      <plurals name="download_finished">
         <item quantity="other">&lt;font color=\"red\">%d pesmi&lt;/font> prenešeno</item>
         <item quantity="one">&lt;font color==\"red\">%d pesem&lt;/font> prenešena</item>

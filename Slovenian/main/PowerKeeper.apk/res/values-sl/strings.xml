@@ -478,9 +478,9 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="set_lcd_mode">Način zaslona</string>
   <string name="settings_safetylegal_activity_loading">Samo trenutek…</string>
   <string name="show_system_app">Pokaži aplikacije sistema</string>
-  <string name="sleep_config_enhance_description">Kadar MIUI odkrije da spite bo zaprl aplikacije v ozadju, omejil NFC, Bluetooth, GPS, mobilne podatke in WiFi, ravno tako pa ne bo vklopil ekran pri obvestilih</string>
-  <string name="sleep_config_enhance_description_non_nfc">"Kadar MIUI odkrije da spite bo zaprl aplikacije v ozadju, Bluetooth, GPS, mobilne podatke in WiFi, ravno tako pa ne bo vklopil ekran pri obvestilih."</string>
-  <string name="sleep_config_enhance_description_pad">"Kadar MIUI odkrije da spite bo zaprl aplikacije v ozadju, Bluetooth, GPS, mobilne podatke in WiFi, ravno tako pa ne bo vklopil ekran pri obvestilih."</string>
+  <string name="sleep_config_enhance_description">Za prihranek baterije bo MIUI zaprl aplikacije v ozadju, omejil NFC, Bluetooth, GPS, mobilne podatke in WiFi, ravno tako pa ne bo vklopil ekran pri obvestilih</string>
+  <string name="sleep_config_enhance_description_non_nfc">"Za prihranek baterije bo MIUI zaprl aplikacije v ozadju, Bluetooth, GPS, mobilne podatke in WiFi, ravno tako pa ne bo vklopil ekran pri obvestilih."</string>
+  <string name="sleep_config_enhance_description_pad">"Za prihranek baterije bo MIUI zaprl aplikacije v ozadju, Bluetooth, GPS, mobilne podatke in WiFi, ravno tako pa ne bo vklopil ekran pri obvestilih."</string>
      <string name="sleep_config_enhance_title">Način mirovanja</string>
   <string name="sleepmode_disclaimer_agree">Strinjam se</string>
   <string name="sleepmode_disclaimer_cancel">Prekini</string>

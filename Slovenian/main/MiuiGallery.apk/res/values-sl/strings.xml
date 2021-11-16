@@ -596,6 +596,8 @@
   <string name="create_new_face">Nova oseba</string>
   <string name="create_quick_icon_on_desk">Napravi bližnjico</string>
   <string name="creating_baby_album">Izdelava albuma…</string>
+     <string name="creativity_summary">Pokaži dodatno ustvarjalnost in funkcije urejanja</string>
+     <string name="creativity_title">Ustvarjalnost</string>
   <string name="crop">Obreži</string>
   <string name="crop_and_rotate">Prilagodi</string>
   <string name="crop_label">Obreži</string>

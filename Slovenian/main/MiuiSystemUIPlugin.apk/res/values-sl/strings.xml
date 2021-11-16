@@ -328,6 +328,7 @@
   <string name="preference_copied">\"%1$s\" je kopirano v odložišče.</string>
   <string name="quick_controls_subtitle">Dodajte kontrole za svoje povezane naprave</string>
   <string name="quick_controls_title">Kontrole naprav</string>
+     <string name="quick_settings_aitranslate_label">MI AI Prevod</string>
   <string name="quick_settings_hang_label">Plavajoča okna</string>
   <string name="quick_settings_hang_on">Zdaj lahko uporabite plavajoča okna</string>
   <string name="quick_settings_pcmode_cancel_button">Prekliči</string>
