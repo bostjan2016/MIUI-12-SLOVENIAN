@@ -67,6 +67,7 @@
   <string name="clock_introduction">Aplikacijo lahko uporabite za prikaz časa, uporabo časovnika, svetovne ure, štoparice, nastavljanje alarma in še več.</string>
      <string name="close">Zapri</string>
   <string name="close_location_service_setting">Dostop do lokacije lahko izključiti v Nastavitve &gt; Zaščita zasebnosti &gt; Urejajte ali pa omejite dovoljenja posameznim aplikacijam v aplikaciji Varnost.</string>
+     <string name="cloud_service_discount">Popust na storitve v oblaku</string>
   <string name="cm_terms_content">"Z namenom izboljšanja storitev ki vam jih ponuja operater mobilnega omrežja po vaši izbiri lahko prebere vaše osebne podatke in informacije o tej napravi na svojih strežnikih ki uporabljajo Wifi omrežje ali mobilno podatkovno povezavo. Informacije se bodo uporabile izključno v statistične namene da bi se izboljšala kvaliteta storitev in da vam ponudi več osebnih vsebin. Podatki se ne bodo uporabljali za vašo osebno identifikacijo in ne bodo dani na vpogled tretjim osebam."</string>
   <string name="cm_terms_title">Sporazum operaterja mobilnega omrežja</string>
   <string name="compass_introduction">Aplikacijo lahko uporabite za navigacijo, pregled koordinat, zračnega pritiska in nadmorske višine.</string>
@@ -115,6 +116,7 @@
   <string name="enable_accessibility_dialog_negative_btn">Prekliči</string>
   <string name="enable_accessibility_dialog_positive_btn">V redu</string>
      <string name="evening">Večer</string>
+     <string name="exclusive_member_merchandise">Ekskluzivno blago za člane</string>
      <string name="expand_button_title">Napredno</string>
   <string name="fail_to_generate_qr_code">"Ne morem generirati QR kodo. Ponovno naložite to stran."</string>
   <string name="fast_application_introduction">Framework za hitre aplikacije vam omogoča ustvarjanje in ponujanje uslug v hitrih aplikacijah.</string>
@@ -206,6 +208,8 @@
   <string name="location_introduction">Storitve ki temeljijo na lokaciji iščejo proizvode in storitve v vaši bližini.</string>
      <string name="location_location">Reševalne agencije lahko na zahtevo dobijo vašo trenutno lokacijo</string>
   <string name="lockscreen_introduction">Wallpaper Carousel vam omogoča vsakodnevno dobivanje novih slik ozadja za zakl. zaslon.</string>
+     <string name="member_exclusive_medal"Članska ekskluzivna medalja</string>
+     <string name="membership_rights_tip">Prijavite se v svoj račun Xiaomi, da pridobite ekskluzivne pravice</string>
      <string name="message_introduction">S to aplikacijo lahko pošiljate in prejemate SMS.</string>
      <string name="mi_account_introduction">Mi račun vam omogoča registracijo, prijavo in upravljanje sistemskih računov.</string>
      <string name="midnight">Polnoč</string>
@@ -510,7 +514,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="service_policy_adjust_content">Xunlei Pravila o zasebnosti</string>
      <string name="service_policy_download"><Data>Omrežne storitve Xunlei &lt;a href=%1$s>Xunlei Pravila o zasebnosti&lt;/a > in &lt;a href=%1$s>Omrežne storitve Xunlei Pogoji uporabe&lt;/a > pred uporabo.</Data></string>
      <string name="service_privacy_index">Pravila o zasebnosti</string>
-     <string name="service_security_over_r"><Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a >.&lt;br/>&lt;br/>V skladu s standardi Android R bo enkratno dovoljenje umaknjeno v določenem časovnem obdobju (okoli &lt;xliff:g example=5 sekund id=short>%2$s&lt;/xliff:g>) ko se ustrezna aplikacija neha izvajati. Če aplikacijo odprete v tem kratkem času, bo dovoljenje umaknjeno.</Data></string>
+     <string name="service_security_over_r"><Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a>.&lt;br/>&lt;br/>V skladu z Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g> standardi bo enkratno dovoljenje v določenem časovnem obdobju umaknjeno (okoli &lt;xliff:g example=5 sekund id=short>%3$s&lt;/xliff:g>) after the corresponding app stops running. If you open the app during this short period of time, the permission will be withdrawn then.</Data></string>
      <string name="service_sim_activation">Aktiviranje kartice SIM</string>
      <string name="servicestate_title">Izjava o osnovnih storitvah</string>
      <string name="setting_locale">Nastavljanje regije…</string>
@@ -610,6 +614,7 @@ Morate se strinjati z Mint Keyboard Pravila o zasebnosti pred uporabo te storitv
      <string name="title_set_fingerprint">Zaklepanje zaslona</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
+     <string name="trade_in">Menjava</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
@@ -642,6 +647,9 @@ Morate se strinjati z Mint Keyboard Pravila o zasebnosti pred uporabo te storitv
      <string name="wednesday_shortest">S</string>
      <string name="welcome">Dobrodošli</string>
      <string name="withdraw_consent">Če prekličete privolitev, bodo storitve Wallpaper Carousel deaktivirane.</string>
+     <string name="xiaomi_game_discounts">Popusti za igre Xiaomi</string>
+     <string name="xiaomi_membership_rights">Članske pravice Xiaomi</string>
+     <string name="xiaomi_video_discount">Xiaomi video popust</string>
      <string name="yesterday">Včeraj</string>
      <string name="zone_picker_title">Izberite časovni pas</string>
 </resources>

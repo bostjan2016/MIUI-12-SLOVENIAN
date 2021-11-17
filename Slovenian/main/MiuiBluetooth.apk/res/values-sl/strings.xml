@@ -629,6 +629,7 @@ Hitrejši protokol povezave."</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
+     <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
@@ -716,6 +717,7 @@ Hitrejši protokol povezave."</string>
      <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
      <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
      <string name="mtrl_exceed_max_badge_number_content_description">Več kot %1$d novih obvestil</string>
+     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Spremeni na naslednji mesec</string>
     <string name="mtrl_picker_a11y_prev_month">Spremeni na prejšnji mesec</string>
     <string name="mtrl_picker_announce_current_selection">Trenutna izbira: %1$s</string>

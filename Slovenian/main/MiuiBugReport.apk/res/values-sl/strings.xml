@@ -624,6 +624,10 @@ Pošljite to kodo nadzorniku."</string>
   <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
   <string name="privacy_category_title">Zasebnost</string>
   <string name="privacy_policy_title">Pravila o zasebnosti</string>
+     <string name="privacy_policy_update_hint">"%1$s Pravila o zasebnosti so posodobljena:
+%2$s
+Preberite in se strinjajte z novo različico %3$s preden nadaljujete."</string>
+     <string name="privacy_policy_update_title">Posodobljena Pravila o zasebnosti</string>
     <string name="psw_hint">Geslo</string>
     <string name="psw_sign_in">Prijavite se z geslom</string>
     <string name="refresh">Osveži</string>
@@ -758,6 +762,8 @@ Velikost: %2$s"</string>
   <string name="user_avatar_update_title">Zamenjaj sliko profila</string>
   <string name="user_avatar_uploading">Samo trenutek…</string>
   <string name="user_id_hint">E-pošta/Telefon/ID Mi Računa</string>
+     <string name="user_must_known">Pozor</string>
+     <string name="user_must_known_content">"Ne boste mogli še naprej uporabljati naših storitev, razen če se strinjate z novo različico %s. Se strinjate z posodobljeno politiko zasebnosti?"</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
     <string name="v_code_title">Vnesite kodo za preverjanje</string>
@@ -768,7 +774,11 @@ Velikost: %2$s"</string>
      <string name="wednesday_shortest">S</string>
      <string name="withdraw">Preklic</string>
      <string name="withdraw_consent">Preklic soglasja</string>
+     <string name="withdraw_consent_failed">"Ne morem preklicati"</string>
+     <string name="withdraw_consent_failed_hint">Prišlo je do napake strežnika. Počakajte minuto ali dve in poskusite znova.</string>
+     <string name="withdraw_consent_failed_hint_connect_net">Vaša naprava se mora povezati na omrežje, da lahko prekličete soglasje. Preverite omrežne nastavitve in poskusite znova.</string>
      <string name="withdraw_consent_hint">"Če nadaljujete, boste umaknili svoje soglasje s pravilnikom o zasebnosti %1$s. Osebni podatki, ki so že zbrani in shranjeni, bodo izbrisani v določenem roku v skladu z veljavnimi zakoni in predpisi, razen če je zahtevano drugače. Ker %2$s ponuja svoje storitve na podlagi zbiranja potrebnih osebnih podatkov, bo vaš preklic privolitve štel, da zavračate sprejemanje storitev %3$s. Umaknem soglasje zdaj?"</string>
+     <string name="withdrawing">Preklic soglasja…</string>
      <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezovanje datotek ni uspelo, preverite stanje v aplikaciji.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo različico %1$s
