@@ -1247,6 +1247,7 @@ Vseeno uporabim mobilne podatke?"</string>
     <string name="fdn_with_label">Številke za omejeno klicanje (%s)</string>
   <string name="feedback">Povratna inf.</string>
     <string name="fire_type_description">Gasilci</string>
+     <string name="fiveg_available_status1">NR na voljo :</string>
   <string name="fiveg_bearer_status1">5G status nosilca :</string>
      <string name="fiveg_carrier_aggregation_title">5Združevanje nosilcev 5G</string>
   <string name="fiveg_endc_available1">NR ENDC na voljo :</string>

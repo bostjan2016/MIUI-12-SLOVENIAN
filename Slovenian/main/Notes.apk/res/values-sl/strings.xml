@@ -760,7 +760,8 @@ Tapnite + da napravite mapo"</string>
   <string name="rich_text_font_increase_description">Večje besedilo</string>
   <string name="rich_text_hightlight_description">Poudarjeno</string>
   <string name="rich_text_italic_description">Italic</string>
-  <string name="rich_text_right_description">Desno</string>
+     <string name="rich_text_left_description">Poravnaj levo</string>
+     <string name="rich_text_right_description">Poravnaj desno</string>
   <string name="rich_text_size_description">Velikost</string>
   <string name="rich_text_underline_description">Podčrtano</string>
   <string name="root_folder_name">Hitra beležka</string>

@@ -812,6 +812,7 @@ Ogled in uporaba stvari, ki ste jih kupili ali dodali med priljubljene."</string
      <string name="pad_fold_no_permission">Potrebna so dovoljenja za shrambo</string>
      <string name="pad_fold_no_permission_detail">Če želite spremeniti nastavitve prilagajanja in shraniti prenesene stvari, najprej dovolite tej storitvi dostop do prostora za shranjevanje.</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
+     <string name="personalize">Personalizacija</string>
   <string name="personalize_alarm_ringtone_title">Alarmi</string>
   <string name="personalize_aod_title">AOD</string>
   <string name="personalize_call_ringtone_title">Melodije zvonjenja</string>
