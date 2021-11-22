@@ -4395,6 +4395,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="freeform_guide_move_title">Premikanje plavajočih oken</string>
   <string name="freeform_guide_move_to_small_freeform_window_summary">Povlecite plavajoče okno v kot zaslona</string>
   <string name="freeform_guide_move_to_small_freeform_window_title">Minimiziranje plavajočih oken</string>
+     <string name="freeform_guide_multi_window">Večopravilnost</string>
   <string name="freeform_guide_notification_drop_down_summary">Pritisnite in držite, nato povlecite navzdol delovno vrstico obvestil</string>
   <string name="freeform_guide_notification_drop_down_title">Odpiranje plavajočih oken</string>
   <string name="freeform_guide_settings">Plavajoče okno</string>
@@ -4405,6 +4406,7 @@ Ta storitev deluje samo, če je sistemska navigacija nastavljena na gibe."</stri
   <string name="freeform_guide_slide_up_to_close_title">Zapiranje plavajočih oken</string>
   <string name="freeform_vedio_description">"·Pritisnite in zadržite, nato povlecite dol da odprete obvestilo v plavajočem oknu.
 ·Tapnite \"Plavajoča okna\" v Nedavno za izbiro aplikacij."</string>
+     <string name="freeform_vedio_description_pad">Povlecite predmete da odprete plavajoča okna</string>
   <string name="frequently_fragment_delete">Odstrani</string>
   <string name="frequently_fragment_tempty">Pogosto uporabljene stvari bodo tukaj prikazane</string>
      <string name="friday">Petek</string>
@@ -9177,6 +9179,7 @@ Za uporabo pripenjanja aplikacije: \u0009
   <string name="secure_keyguard_business_title">Nastavi zakl. zaslona</string>
     <string name="secure_lock_encryption_warning">Vaša naprava ne bo uporabljala zaklepanja zaslona za izboljšanje šifriranja podatkov, ker ste vklopili storitev za ljudi s posebnimi potrebami.</string>
      <string name="security_center_title">Varnost</string>
+     <string name="security_check_progress_dialog_message">Checking for security issues…</string>
     <string name="security_dashboard_summary">Play Protect, zaklepanje zaslona, prstni odtis</string>
     <string name="security_dashboard_summary_face">Play Protect, zaklepanje zaslona, odklepanje z obrazom</string>
     <string name="security_dashboard_summary_no_fingerprint">Play Protect, zaklepanje zaslona</string>

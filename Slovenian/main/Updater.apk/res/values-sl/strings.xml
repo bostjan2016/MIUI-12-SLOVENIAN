@@ -40,6 +40,7 @@
      <string name="download_title_full_download">Pridobivanje informacij…</string>
      <string name="downloading">Prenos:</string>
      <string name="downloading_desc">Poteka prenos, preverite status v področju obvestil.</string>
+     <string name="fastboot_update_warning">Ta posodobitev je samo za fastboot namestitev!</string>
      <string name="fetching_data">Sprejem povezave za prenos…</string>
      <string name="install_desc">"Naprava se bo ponovno zagnala v TWRP in namestila izbrano datoteko: %1$s
 Podatki ne bodo izbrisani."</string>

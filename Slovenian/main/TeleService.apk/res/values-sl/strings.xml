@@ -2944,6 +2944,7 @@ Potrdite privzeto nastavitev računa za klicanje."</string>
   <string name="smart_dual_sim_title">Pametna dvojna SIM</string>
     <string name="smart_forwarding_settings_menu">Pametno posredovanje</string>
     <string name="smart_forwarding_settings_menu_summary">Če številka ni dosegljiva, vedno posredujte klice na svojo drugo številko.</string>
+     <string name="smart_multinetwork_acceleration_title">Pametno večomrežno pospeševanje</string>
   <string name="sms_messages_title">SMS</string>
   <string name="smsc_dialog_message">"Preverite pravilnost vnešene številke, drugače ne boste mogli prejemati in pošiljati SMS. Za potrditev vaše SMSC številke kontaktirajte svojega operaterja."</string>
   <string name="sp_unlock_failed">SIM zahtevek odklepa ponudnika storitev neuspešen.</string>
@@ -3376,7 +3377,7 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
     <string name="wifi_ap_unable_to_handle_new_sta">Dostopna točka je trenutno zasedena</string>
   <string name="wifi_auth_password_wrong">Geslo mogoče ni pravilno</string>
   <string name="wifi_auto_sel_wapi_cert">Izberi samodejno</string>
-  <string name="wifi_call_accept">Preskoči</string>
+  <string name="wifi_call_accept">Sprejmi</string>
   <string name="wifi_call_available_message">"Zdaj lahko kličete preko WiFi-ja. Če ni mobilnega omrežja, WiFi pa je uporabite to možnost."</string>
      <string name="wifi_call_available_message_for_ATT_MX">Povezali se boste z omrežjem WiFi. Kakovost klica se lahko razlikuje glede na omrežje.</string>
   <string name="wifi_call_available_title">Vklop WiFi klicev</string>

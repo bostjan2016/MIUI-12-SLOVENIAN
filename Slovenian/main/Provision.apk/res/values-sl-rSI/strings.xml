@@ -531,6 +531,11 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="sim_card_detection_mobile_not_available">"SIM kartica se ne more povezati na omrežje"</string>
      <string name="sim_card_detection_sb_esim">Aktiviraj eSIM></string>
      <string name="sim_card_detection_sb_nonactivated">Ni aktivirano</string>
+     <string name="sim_card_dial_card1">SIM1 za klice</string>
+     <string name="sim_card_dial_card2">SIM2 za klice</string>
+     <string name="sim_card_do_not_select_dial_card">Izberite SIM za klice</string>
+     <string name="sim_card_network_card1">Podatki SIM1</string>
+     <string name="sim_card_network_card2">Podatki SIM2</string>
      <string name="sim_dectection_next">Nadaljuj</string>
      <string name="sim_redetection">Preveri ponovno</string>
      <string name="sim_scard_detecting_check_mobile_not_available">"Vaša SIM kartica se ni mogla povezati na omrežje. Preverite ali imate dovolj sredstev na svojem računu in poskusite ponovno."</string>
