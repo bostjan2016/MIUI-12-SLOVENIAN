@@ -214,6 +214,12 @@
   <string name="context_menu_send_sms">Pošlji sporočilo</string>
   <string name="context_menu_view_contact">Poglej stik</string>
   <string name="context_menu_view_mms">Poglej MMS</string>
+     <string name="conv_content_defraud_tip">Prijavite goljufijo</string>
+     <string name="conv_content_risk">Poslano iz neznane številke</string>
+     <string name="conv_head_link_tip">Prijavite goljufijo</string>
+     <string name="conv_head_risk_tip">Morda gre za goljufijo v tujini</string>
+     <string name="conv_item_official">Uradno</string>
+     <string name="conv_item_risk_tip">Tveganje</string>
   <string name="conversation">Sporočila</string>
   <string name="conversation_listitem_avatar">Avatar</string>
   <string name="conversation_style">mehurček</string>
@@ -516,6 +522,7 @@
   <string name="menu_new_manual">Vnesi telefonsko številko</string>
   <string name="menu_pick_from_contact">Izberi iz stikov</string>
   <string name="menu_preferences">Nastavitve</string>
+     <string name="menu_report">Povratne informacije</string>
   <string name="menu_send_as_common">Pošlji kot SMS</string>
   <string name="menu_sms_block">Seznam blokiranih</string>
   <string name="menu_traffic_destination">Izhodišče</string>

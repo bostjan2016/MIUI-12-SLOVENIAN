@@ -830,7 +830,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="auto_task_default_task_summary_listen_music">Predvajajte glasbo in izberite vrsto slušalk</string>
      <string name="auto_task_default_task_summary_meet">Načrtujte čas sestanka in vklopite način Ne moti</string>
      <string name="auto_task_default_task_summary_noon_break">Načrtujte čas spanja in vklopite način Ne moti</string>
-     <string name="auto_task_default_task_summary_save_power">Vklopite varčevanje z energijo baterije, ko je baterija nižja od %s</string>
+     <string name="auto_task_default_task_summary_save_power">Vklopite varčevanje z energijo baterije, ko je baterija nižja od 30%</string>
      <string name="auto_task_default_task_summary_sleep">Načrtujte čas spanja in prilagodite vedenje naprave</string>
      <string name="auto_task_default_task_summary_watch_video">Odprite aplikacijo, vklopite WiFi, prilagodite glasnost</string>
      <string name="auto_task_default_task_title_driver_car">Vožnja</string>

@@ -457,6 +457,7 @@
      <string name="release_refresh">Spusti za osvežitev</string>
      <string name="remind_ringtone">Zvonjenje</string>
      <string name="repeat_count">X</string>
+     <string name="repeat_type">Ponovi</string>
      <string name="reset">Ponastavi</string>
      <string name="revert">Povrni</string>
      <string name="ringtone_all">Vse melodije zvonjenja</string>

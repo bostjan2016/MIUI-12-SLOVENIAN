@@ -29,7 +29,7 @@
      <string name="abc_toolbar_collapse_description">Strni</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="app_name">MiMacro</string>
-  <string name="brvah_app_name">Knjižnica</string>
+     <string name="brvah_app_name">Knjižnica</string>
      <string name="cancel">Prekliči</string>
      <string name="character_counter_content_description">Vnešeno znakov %1$d od %2$d</string>
      <string name="four_guide_introduce">Pritisnite tipko [Macro] na zaslonu da boste zagnali nastavljeno makro funkcijo</string>

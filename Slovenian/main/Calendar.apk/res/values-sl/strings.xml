@@ -1176,7 +1176,7 @@ Dodate lahko tudi opomnike, da ne boste zamudili ničesar pomembnega."</string>
      <string name="tb_mens_month_expected_date_unselected">%1$s. Day %2$d predvidenega cikla. Dotaknite se, da izberete datum.</string>
      <string name="tb_mens_month_forecast">%1$s. Pričakovan ciklus.</string>
      <string name="tb_mens_month_future_date">"%1$s. Datumov v prihodnosti ni mogoče izbrati."</string>
-     <string name="tb_mens_month_history">Average period duration in days: %1$d.Povprečno trajanje cikla v dneh: %2$d.</string>
+     <string name="tb_mens_month_history">Povprečno trajanje obdobja v dnevih: %1$d.Povprečno trajanje cikla v dneh: %2$d.</string>
      <string name="tb_mens_month_marked">%1$s. Menstrualni ciklus je označen.</string>
      <string name="tb_mens_month_no_marks">"%1$s. Stanje ni označeno."</string>
      <string name="tb_mens_month_panel_title">%1$s. Dotaknite se, če želite spremeniti datum.</string>

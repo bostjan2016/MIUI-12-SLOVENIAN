@@ -815,6 +815,7 @@ Prenesite in namestite Mi Mover."</string>
   <string name="transfer_connect_fail_summary">Dotaknite se gumba spodaj, da se ročno povežete</string>
     <string name="transfer_finish_bottom_tip">Če svoje stare naprave ne boste več uporabljali, lahko izbrišete vse podatke na njej ko potrdite, da so bili vse pomembne stvari uspešno prenesene.</string>
   <string name="transfer_finish_summary">Preneseno %1$s (%2$s)</string>
+     <string name="transfer_long_pause_in_progress">Prenos…</string>
     <string name="transfer_lose_connect_summary">Kaže da je bila povezava prekinjena. Ponovno se povežite.</string>
     <string name="transfer_lose_connect_title">Povezava je bila prekinjena</string>
     <string name="transfer_multi_connect_summary">Vaš prenos je bil prekinjen zaradi varnostnih razlogov. Če vseeno želite nadaljevati tapnite \"Poveži ponovno\".</string>
