@@ -1334,7 +1334,6 @@ Pametna obvestila lahko preberejo vso vsebino obvestil, vključno z osebnimi pod
      <string name="notification_history_title_placeholder">Obvestilo po meri iz aplikacije</string>
      <string name="notification_inbox_ellipsis">…</string>
      <string name="notification_listener_binding_label">Poslušalec obvestil</string>
-     <string name="notification_messaging_title_template">%1$s: %2$s</string>
      <string name="notification_phishing_alert_content_description">Opozorilo o lažnem predstavljanju</string>
      <string name="notification_ranker_binding_label">Storitev rangiranja obvestil</string>
      <string name="notification_reply_button_accessibility">Odgovori</string>
@@ -2707,7 +2706,6 @@ Preostalo poskusov :"</string>
      <string name="zen_mode_forever_dnd">Dokler ne izklopite načina »ne moti«</string>
      <string name="zen_mode_next_alarm_line_one">Do naslednjega alarma</string>
      <string name="zen_mode_next_alarm_summary">Do naslednjega alarma ob %1$s</string>
-     <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
      <string name="zen_mode_until">Do %1$s</string>
      <string name="zen_mode_until_next_day">Do %1$s</string>
      <string name="zen_upgrade_notification_content">Dotaknite se, da preverite, kaj je blokirano.</string>
