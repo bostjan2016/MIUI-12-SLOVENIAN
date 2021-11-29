@@ -244,7 +244,7 @@ Preklopite za ustavitev sinhronizacije."</string>
     <string name="category_folder">Mape</string>
     <string name="category_installed_app">Nameščene aplikacije</string>
     <string name="category_midrive">Mi Drive</string>
-    <string name="category_move_limit_notice">Na zgornji del zaslona lahko premaknete 3 do 7 stvari</string>
+    <string name="category_move_limit_notice">Na zgornji del zaslona lahko premaknete %1$d do %2$d stvari</string>
     <string name="category_music">Glasba</string>
     <string name="category_other">Ostalo</string>
     <string name="category_photo">Fotografije</string>
@@ -483,7 +483,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="download_btn_select_none">Prekliči izbiro</string>
     <string name="download_business_app_new_version">Najnovejša različica te aplikacije je že nameščena</string>
     <string name="download_business_app_update_install">Posodobitev je pripravljena za namestitev.</string>
-    <string name="download_business_v5_edit_mode_title_empty">0 izbranih</string>
+    <string name="download_business_v5_edit_mode_title_empty">Izberite stvari</string>
     <string name="download_change_dir">Spremeni mapo</string>
     <string name="download_complete">Uspešno prenešeno</string>
     <string name="download_completed">Preneseno</string>
@@ -504,7 +504,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="download_dialog_failed_body">Želite poskusiti ponovno kasneje ali to datoteko odstranim iz čakalne vrste prenosov?</string>
     <string name="download_dialog_file_already_exists">To datoteko ste že prenesli</string>
     <string name="download_dialog_file_length_hint_txt">"Velikost datoteke: "</string>
-    <string name="download_dialog_file_length_lessthan1kb">Manj kot 1KB</string>
+    <string name="download_dialog_file_length_lessthan1kb">Manj kot %1$dKB</string>
     <string name="download_dialog_file_length_nolength_error_txt">Ne morem prenesti</string>
     <string name="download_dialog_file_length_nolength_txt">Trenutek…</string>
     <string name="download_dialog_file_missing_body">Datoteke ni mogoče najti. Ste jo premaknili ali izbrisali?</string>
@@ -769,6 +769,8 @@ Pošljite to kodo nadzorniku."</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
     <string name="gaid">GAID(Kliknite Za izvoz)</string>
+     <string name="game_center_recommend_play">Predvajaj</string>
+     <string name="game_center_recommend_title">Priporočeno za vas</string>
     <string name="game_news_flow_download_bar_download">Prenesi</string>
     <string name="game_news_flow_download_bar_play">Predvajaj</string>
     <string name="game_played">Nedavno</string>
@@ -885,9 +887,9 @@ Pošljite to kodo nadzorniku."</string>
     <string name="lockpattern_need_to_unlock_wrong">Poskusite ponovno</string>
     <string name="lockpattern_pattern_confirmed_header">To je vaš vzorec za odklepanje:</string>
     <string name="lockpattern_pattern_entered_header">Končano!</string>
-    <string name="lockpattern_recording_incorrect_too_short">Poskusite ponovno. Povežite najmanj 4 točke.</string>
+    <string name="lockpattern_recording_incorrect_too_short">Poskusite ponovno. Povežite najmanj %1$d točke.</string>
     <string name="lockpattern_recording_inprogress">Spustite ko je vzorec končan</string>
-    <string name="lockpattern_recording_intro_header">Povežite najmanj 4 točke</string>
+    <string name="lockpattern_recording_intro_header">Povežite najmanj %1$d točke</string>
     <string name="lockpattern_retry_button_text">Ponastavi</string>
     <string name="login_failed_toast">Prijava ni uspela, osvežite in poskusite ponovno</string>
     <string name="login_or_register">ali</string>
@@ -898,7 +900,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="make_private_msg_1">Želite skriti to datoteko?</string>
     <string name="make_private_msg_2">Želite skriti te datoteke?</string>
     <string name="max_tabs_warning">Ne morem odpreti novih zavihkov</string>
-    <string name="maximum_input_alert">Maksimalni vnos je 2048 znakov</string>
+    <string name="maximum_input_alert">Maksimalni vnos je %1$d znakov</string>
     <string name="media_error_action_refresh">Osveži</string>
     <string name="media_error_action_replace_video_source">Ne morem zamenjati vira</string>
     <string name="media_error_failure">Ne morem predvajati videoposnetka</string>
@@ -2282,8 +2284,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_data_used_info">Porabljeno %2$s od %1$s</string>
     <string name="vpn_detail_guide1">Odklenite vse strežnike, da pospešite svojo povezavo</string>
     <string name="vpn_detail_guide2">Naročite se na storitve VPN za dostop do več spletnih mest</string>
-    <string name="vpn_detail_guide3">Skoraj vam je zmanjkalo podatkov. Poskusite naš 12-mesečni paket. Tapnite, da preberete več o svojih možnostih.</string>
-    <string name="vpn_detail_guide4">Zmanjkalo vam je podatkov. Poskusite naš 12-mesečni paket. Tapnite, da preberete več o svojih možnostih.</string>
+    <string name="vpn_detail_guide3">Skoraj vam je zmanjkalo podatkov. Poskusite naš %1$d-mesečni paket. Tapnite, da preberete več o svojih možnostih.</string>
+    <string name="vpn_detail_guide4">Zmanjkalo vam je podatkov. Poskusite naš %1$d-mesečni paket. Tapnite, da preberete več o svojih možnostih.</string>
     <string name="vpn_detail_guide5">Skoraj vam je zmanjkalo podatkov</string>
     <string name="vpn_detail_guide6">Zmanjkalo vam je podatkov</string>
     <string name="vpn_detail_subscribe">Naročite se</string>
@@ -2315,7 +2317,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_how_it_works">Kako deluje</string>
     <string name="whatsapp_intro_dialog_title">Nova funkcija</string>
     <string name="whatsapp_no_status_tips">Tukaj ni fotografij ali videoposnetkov. Oglejte si obvestila stanja v aplikaciji WhatsApp in se vrnite na stran.</string>
-    <string name="whatsapp_principle_page_message">WhatsApp shranjuje fotografije in videoposnetke, ki ste jih ogledali v skriti mapi. Ti predmeti izginejo po 24 urah. Zdaj lahko uporabite Mi brskalnik, da jih shranite.</string>
+    <string name="whatsapp_principle_page_message">WhatsApp shranjuje fotografije in videoposnetke, ki ste jih ogledali v skriti mapi. Ti predmeti izginejo po %1$d urah. Zdaj lahko uporabite Mi brskalnik, da jih shranite.</string>
     <string name="whatsapp_principle_page_title">Lahko shranite fotografije in videoposnetke iz WhatsAppa z uporabo Mi brskalnika</string>
     <string name="whatsapp_principle_step_1">Oglejte si fotografije in videoposnetke iz zavihka \"Stanje\" v WhatsApp.</string>
     <string name="whatsapp_principle_step_2">Vrnite se tukaj, da jih shranite.</string>

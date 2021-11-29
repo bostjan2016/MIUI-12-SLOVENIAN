@@ -103,6 +103,7 @@
   <string name="freeform_demo_title_skip">Preskoči</string>
      <string name="freeform_slide_to_small_freeform">Zmanjšajte plavajoče okno</string>
      <string name="freeform_slide_to_small_freeform_summary">Pritisnite in pridržite vrstico opravil in povlecite v kot</string>
+     <string name="freeform_slide_to_small_freeform_summary_pad">Povlecite vogal, da zmanjšate aplikacijo</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
@@ -187,6 +188,8 @@
      <string name="month_september_shortest">S</string>
      <string name="more">Več</string>
      <string name="morning">Jutro</string>
+     <string name="multi_window_cvw">Plavajoče okno</string>
+     <string name="multi_window_cvw_summary">Povlecite vogal, da preklopite na plavajoče okno in prilagodite njegovo velikost</string>
      <string name="night">Večer</string>
      <string name="noon">Poldne</string>
      <string name="not_set">Ni nastavljeno</string>

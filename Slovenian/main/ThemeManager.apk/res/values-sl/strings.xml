@@ -92,6 +92,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="app_disable_transparent_wallpaper">Brez transparentnega ozadja</string>
   <string name="app_enable_transparent_wallpaper">Z transparentnim ozadjem</string>
   <string name="app_name">Teme</string>
+     <string name="app_name_pad">Personalizacija</string>
      <string name="application_list_permission_desc">Za prikaz aplikacij, združljivih s prozornimi ozadji</string>
   <string name="apply_choosen_type_resource">Nastavi izbrane stvari</string>
   <string name="apply_default_font_tip">"Uporabljam trenutno sistemsko pisavo?"</string>
@@ -131,11 +132,13 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="boot_audio_dialog_title">Pozor</string>
   <string name="both_all_apply_failured">"Ne morem nastaviti ozadja"</string>
   <string name="both_all_apply_success">Ozadje nastavljeno</string>
+     <string name="bottomsheet_action_expand_halfway">Razširi do polovice</string>
      <string name="browse_mode">Način s povezavo</string>
      <string name="browse_mode_desc">"Teme se bodo povezale s spletom in uporabljale lokalno in spletno vsebino. Vaši osebni podatki ne bodo zbrani."</string>
   <string name="browser_local_resource">Lokalni viri</string>
   <string name="can_not_apply">Ne morem nastaviti</string>
    <string name="can_not_apply_error">"Ta video format ni podprt"</string>
+     <string name="can_not_apply_pc_video">"PC način ne podpira živih ozadij"</string>
     <string name="can_not_apply_size_invalid">Ta video je prevelik</string>
      <string name="cancel_download">Prenos preklican</string>
   <string name="card_data_request_error">Prišlo je do napake. Počakajte trenutek ali dva in poskusite ponovno.</string>
@@ -449,7 +452,12 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="font_compat_dialog_title">Težave z združljivostjo</string>
   <string name="font_compat_dialog_trial_confirm">Poskusi</string>
   <string name="font_compat_dialog_trial_content">Nekatere aplikacije morda ne podpirajo pisav drugih proizvajalcev. To težavo z združljivostjo bo odpravila prihajajoča posodobitev sistema. Vseeno poskusim s to pisavo?</string>
-  <string name="font_trial_end_purchase">Kupi pisavo</string>
+     <string name="font_pad_setting_charge_font">Plačano</string>
+     <string name="font_pad_setting_find_more_title">Več pisav</string>
+     <string name="font_pad_setting_free_font">Brezplačno</string>
+     <string name="font_pad_setting_local_font">Lokalne pisave</string>
+     <string name="font_pad_setting_title">Pisave</string>
+  <string name="font_trial_end_purchase">Kupite pisavo</string>
   <string name="forbid_transparent_wallpaper_by_second_space">Najprej uporabite prozorna ozadja v prvem prostoru.</string>
    <string name="forbid_video_wallpaper_by_second_space">Najprej uporabite dinamična ozadja v prvem prostoru.</string>
   <string name="forcetouch_featured">Izpostavljeni</string>
@@ -517,6 +525,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="hide_mamual_hide_miwallpaper">"Ne kaži ročno skrite efekte zač. zaslona"</string>
   <string name="hide_mamual_hide_theme">"Ne kaži skritih tem"</string>
   <string name="hide_mamual_hide_wallpaper">"Ne kaži skritih ozadij"</string>
+     <string name="hide_phone_wallpaper">Skrij ozadja telefona</string>
   <string name="hide_pull_down_message">Skrijem?</string>
   <string name="hide_pull_down_negative">"Ne skrivaj"</string>
   <string name="hide_pull_down_positive">Skrij</string>
@@ -526,6 +535,9 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="home_daily">Dnevno ozadje</string>
   <string name="i_know">Razumem</string>
   <string name="icon_content_description">Ikona dialoga</string>
+     <string name="icon_pad_setting_find_more_title">Več ikon</string>
+     <string name="icon_pad_setting_local_icon">Lokalne ikone</string>
+     <string name="icon_pad_setting_title">Ikone</string>
   <string name="in_the_end">Ni več stvari za prikaz</string>
   <string name="incall_show_apply">Profilni videoposetek za odhodne klice</string>
   <string name="incall_show_apply_fail">"Ne morem nastaviti"</string>
@@ -557,6 +569,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="lab">Beta storitve</string>
   <string name="like_list">Stvari ki so mi všeč</string>
   <string name="live_wallpaper">Živo ozadje</string>
+     <string name="load_from_local_photos">Galerija</string>
   <string name="loading">Nalaganje…</string>
   <string name="loading_picture">Nalaganje slike…</string>
   <string name="loading_resource_detail_fail">"Ne morem naložiti vira!"</string>
@@ -579,8 +592,20 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
      <string name="login_theme">Prijavite se v Teme</string>
   <string name="long_click_can_hide_resource">Pritisnite in držite za skrivanje stvari</string>
      <string name="loop_wallpaper_is_here">Diaprojekcija slik za ozadje je na voljo</string>
+     <string name="material_clock_toggle_content_description">Izberite dop. ali pop.</string>
+     <string name="material_hour_selection">Izberite uro</string>
+     <string name="material_hour_suffix">"%1$s"</string>
+     <string name="material_minute_selection">Izberite minute</string>
+     <string name="material_minute_suffix">%1$s minut</string>
   <string name="material_slider_range_end">Konec,</string>
   <string name="material_slider_range_start">Začetek,</string>
+     <string name="material_timepicker_am">dop.</string>
+     <string name="material_timepicker_clock_mode_description">Preklopi na način ure za vnos časa.</string>
+     <string name="material_timepicker_hour">Ura</string>
+     <string name="material_timepicker_minute">Minuta</string>
+     <string name="material_timepicker_pm">pop.</string>
+     <string name="material_timepicker_select_time">Izberite čas</string>
+     <string name="material_timepicker_text_input_mode_description">Za vnos časa preklopi na način vnosa besedila.</string>
   <string name="mi_wallpaper">MIUI ozadje</string>
   <string name="midnight">Polnoč</string>
   <string name="mine_tab_not_login">"Prijavite se za pregled stvari.
@@ -629,6 +654,8 @@ mm"</string>
   <string name="miuishare_title_share">Deli</string>
   <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
+     <string name="miuix_access_state_desc">Izbrano</string>
+     <string name="miuix_alphabet_indexer_name">Indeksna vrstica</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
   <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
   <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
@@ -655,6 +682,8 @@ mm"</string>
   <string name="miuix_compat_dialog_title">Nastavljena privzeta tema na \"%s\"</string>
   <string name="miuix_compat_dialog_update_title">Potrebna je posodobitev</string>
   <string name="miuix_compat_mms">Sporočila</string>
+     <string name="miuix_indexer_collect">Zbirke</string>
+     <string name="miuix_indexer_selected">Izbrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -736,7 +765,7 @@ mm"</string>
   <string name="mtrl_picker_range_header_only_end_selected">Datum začetka – %1$s</string>
   <string name="mtrl_picker_range_header_only_start_selected">%1$s – Datum konca</string>
   <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
-  <string name="mtrl_picker_range_header_title">Izberite razpon datuma</string>
+  <string name="mtrl_picker_range_header_title">Izberite razpon</string>
   <string name="mtrl_picker_range_header_unselected">Datum začetka - Datum konca</string>
   <string name="mtrl_picker_save">Shrani</string>
   <string name="mtrl_picker_text_input_date_hint">Datum</string>
@@ -829,6 +858,7 @@ Ogled in uporaba stvari, ki ste jih kupili ali dodali med priljubljene."</string
   <string name="personalize_title">Slike ozadja in personalizacija</string>
   <string name="personalize_wallpaper_sub_title">Super slike ozadja in poudarjene slike</string>
   <string name="personalize_wallpaper_title">Slike ozadja</string>
+     <string name="personalized_cta_content_text">Dobrodošli v Temah! S to aplikacijo lahko upravljate svoja ozadja, melodije zvonjenja, pisave in drugo.</string>
      <string name="phone_exit_theme_warning_content">"Ko se odjavite, ne boste mogli izvesti naslednjih dejanj:
 1. Ogled in uporaba stvari, ki ste jih kupili ali dodali med priljubljene.
 2. Dodajanje komentarjev in všečkov, spremljanje drugih ljudi in komuniciranje z njimi."</string>
@@ -1053,6 +1083,10 @@ You can grant this permission in Settings > Zasebnost."</string>
   <string name="resource_delete">Izbriši</string>
   <string name="resource_delete_all">Izbrišem %1$d izbranih stvari?</string>
   <string name="resource_delete_confirm">Izbrišem te stvari?</string>
+     <string name="resource_delete_font_title">Izbriši pisave</string>
+     <string name="resource_delete_icon_title">Izbriši ikone</string>
+     <string name="resource_delete_ring_title">Izbriši zvonjenja</string>
+     <string name="resource_delete_wallpaper_title">Izbriši ozadja</string>
   <string name="resource_delta_update_failed">Posodobitev ni uspela: spet prenašam temo...</string>
   <string name="resource_delta_update_successful">Posodobitev je uspela</string>
   <string name="resource_delta_update_total">%1$d delta posodobitev shranjena %2$s</string>
@@ -1099,7 +1133,8 @@ You can grant this permission in Settings > Zasebnost."</string>
   <string name="resource_free_use_last_one_day">Vaš poskusni termin poteče jutri.</string>
   <string name="resource_get_auth_checking">Preverjanje…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Deset naprav je že bilo odobrenih na tem računu</string>
-  <string name="resource_get_auth_exceed_max_limit_title">Število dovoljenih naprav je preseženo</string>
+     <string name="resource_get_auth_exceed_max_limit_tips_pad">Personalizacijo lahko uporabljate z enim računom v največ 10 napravah.</string>
+  <string name="resource_get_auth_exceed_max_limit_title">Preveč pooblaščenih naprav</string>
   <string name="resource_get_auth_has_been_undercarriaged">Ta tema ni več na voljo.</string>
   <string name="resource_get_auth_not_official">Teme iz drugih virov niso podprte</string>
   <string name="resource_get_auth_retrieving">Pridobivanje dovoljenja...</string>
@@ -1296,6 +1331,7 @@ You can grant this permission in Settings > Zasebnost."</string>
   <string name="show_mamual_hide_miwallpaper">Pokaži ročno skrite efekte zač. zaslona</string>
   <string name="show_mamual_hide_theme">Pokaži brezplačne teme</string>
   <string name="show_mamual_hide_wallpaper">Pokaži brezplačna ozadja</string>
+     <string name="show_phone_wallpaper">Pokaži ozadja telefona</string>
      <string name="still_apply">Uporabi</string>
      <string name="storage_migration_exit_msg">Da bi bile teme združljive s prihajajočimi različicami Androida, smo prenesene elemente premaknili na novo lokacijo. Znova zaženite aplikacijo, da uporabite spremembe in si ogledate preneseno vsebino.</string>
      <string name="storage_permission_denied_desc">Dovolite Temam dostop do shrambe za ogled stvari</string>
@@ -1319,10 +1355,15 @@ You can grant this permission in Settings > Zasebnost."</string>
   <string name="system_aod_dialog_title">Vedno na zaslonu je izključeno</string>
   <string name="system_cta_agree_desc">Dovoli, da se ta aplikacija poveže na splet in ji dajte zgoraj navedena obvezna dovoljenja.</string>
   <string name="system_cta_all_purpose">Dobrodošli v temah! S to aplikacijo lahko upravljate teme, ozadja, melodije zvonjenja in pisave.</string>
+     <string name="system_cta_all_purpose_fold">Dobrodošli v ozadjih in personalizaciji! S to aplikacijo lahko upravljate teme, ozadja, melodije zvonjenja in pisave za vedno vklopljene zaslone.</string>
+     <string name="system_cta_all_purpose_pad">Dobrodošli v Personalizaciji! To aplikacijo lahko uporabite za upravljanje ozadij, melodij zvonjenja, ikon aplikacij in pisav.</string>
   <string name="system_cta_main_purpose">Upravljajte in uporabljajte spletne in offline teme, ozadja, melodije zvonjenja, pisave in video ozadja</string>
+     <string name="system_cta_retry_get_permission_btn_pad">Začni</string>
+     <string name="system_cta_retry_get_permission_msg_pad">Potrebna so dovoljenja</string>
   <string name="system_cta_runtime_perm_desc_get_accounts">Za dostop do IMEI in zagotavljanje storitev prenosa</string>
   <string name="system_cta_runtime_perm_desc_read_phone_state">Dostop do ID-ja naprave za prepoznavanje naprave</string>
   <string name="system_cta_runtime_perm_desc_storage">Za uporabo stvari, shranjenih v napravi, za prilagajanje in shranjevanje kupljenih stvari</string>
+     <string name="system_cta_runtime_perm_desc_storage_pad">Za uporabo stvari, shranjenih v napravi, za prilagajanje in shranjevanje kupljenih stvari</string>
   <string name="system_precust">Vnaprej nameščene</string>
   <string name="tag_ad">Oglas</string>
   <string name="task_already_exist">Naloga že obstaja</string>
@@ -1523,6 +1564,10 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
   <string name="video_wallpaper_import">Tapni za dodajanje</string>
      <string name="voice_input">Glasovni vnos</string>
   <string name="wallpaper_apply">Nastavi</string>
+     <string name="wallpaper_apply_full">Vse</string>
+     <string name="wallpaper_apply_large">Notranji zaslon</string>
+     <string name="wallpaper_apply_pcmode">Nastavi ozadje v načinu PC</string>
+     <string name="wallpaper_apply_small">Zunanji zaslon</string>
   <string name="wallpaper_auto_change_title">Zakl. zaslon</string>
   <string name="wallpaper_crop">Obreži</string>
      <string name="wallpaper_dark_mode_image_preview_tip">Temni način</string>
@@ -1567,10 +1612,16 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
   <string name="wallpaper_personal_dialog_title">Prilagodite svoja ozadja</string>
   <string name="wallpaper_scroll_type_tips">Premikanje slika ozadja</string>
   <string name="wallpaper_set_as_both">Nastavi oboje</string>
+     <string name="wallpaper_set_as_both_large">Nastavi oboje</string>
+     <string name="wallpaper_set_as_both_small">Nastavi oboje</string>
   <string name="wallpaper_set_as_desktop">Nastavi za sliko ozadja</string>
+     <string name="wallpaper_set_as_desktop_large">Nastavi kot notranji začetni zaslon</string>
+     <string name="wallpaper_set_as_desktop_small">Nastavi kot zunanji začetni zaslon</string>
   <string name="wallpaper_set_as_float_wallpaper">Nastavi kot transparentno ozadje</string>
   <string name="wallpaper_set_as_incall_show">Nastavi kot profilni video</string>
   <string name="wallpaper_set_as_lockscreen">Nastavi za zaklenjeni zaslon</string>
+     <string name="wallpaper_set_as_lockscreen_large">Nastavi kot notranji zakl. zaslon</string>
+     <string name="wallpaper_set_as_lockscreen_small">Nastavi kot zunanji zakl. zaslon</string>
   <string name="wallpaper_setting_all">Vse slike ozadja</string>
      <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
      <string name="wallpaper_setting_find_more_text">Več online ozadij</string>

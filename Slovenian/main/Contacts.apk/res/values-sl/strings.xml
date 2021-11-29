@@ -1001,6 +1001,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"<
      <string name="invalidContactMessage">Stik ne obstaja</string>
      <string name="invalid_contacts_excluded_to_save_to_group">Samo zapisi s stiki bodo shranjeni v skupino</string>
      <string name="invalid_contacts_to_save_to_group">"Ne morem shraniti neznanih številk"</string>
+     <string name="item_offical">Uradno</string>
      <string name="keep_local">"Ne sinhr."</string>
      <string name="keep_local_btn">Uporabi notranji pomnilnik naprave</string>
      <string name="label_custom_type">"Po meri"</string>

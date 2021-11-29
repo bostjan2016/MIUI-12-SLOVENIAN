@@ -4401,6 +4401,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="freeform_guide_settings">Plavajoče okno</string>
   <string name="freeform_guide_slide_to_small_freeform_summary">"Pritisnite in pridržite spodnji del okna ter ga povlecite v zgornji desni kot.
 Ta storitev deluje samo, če je sistemska navigacija nastavljena na gibe."</string>
+     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Povlecite vogal, da zmanjšate aplikacijo</string>
      <string name="freeform_guide_slide_to_small_freeform_title">Drsna v plavajoča okna</string>
   <string name="freeform_guide_slide_up_to_close_summary">Povlecite navzgor iz delovne vrstice plavajočega okna</string>
   <string name="freeform_guide_slide_up_to_close_title">Zapiranje plavajočih oken</string>
@@ -6660,7 +6661,9 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="multi_user_mode_backup_message">"Ne morem uporabiti var. kopijo v Več-uporabniškem načinu. Izključite Več-uporabniški način za nadaljevanje."</string>
   <string name="multi_user_mode_dialog_message">"Ne morem uporabljati Mi Mover v načinu dela Gost. Izključite Več-uporabniški način za nadaljevanje."</string>
   <string name="multi_user_mode_dialog_title">"Vi ste v načinu dela Več uporabnikov"</string>
-  <string name="multifunction_keyboard">Večnamenski</string>
+     <string name="multi_window_cvw_summary">Povlecite vogal, da preklopite na plavajoče okno in prilagodite njegovo velikost</string>
+     <string name="multi_window_cvw_title">Plavajoče okno</string>
+  <string name="multifunction_keyboard">Večnamensko</string>
      <string name="multiple_users_main_switch_title">Uporabi več uporabnikov</string>
   <string name="music_HiFi_title">HiFi avdio</string>
   <string name="music_app_unavailable">Preverite ali je aplikacija Mi Glasba na voljo.</string>

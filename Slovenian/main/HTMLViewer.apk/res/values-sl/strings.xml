@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
     <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
+     <string name="action_use_network">Uporabi</string>
     <string name="actionbar_button_up_description">Nazaj</string>
   <string name="ad_service">Oglaševanje</string>
      <string name="afternoon">Popoldne</string>
@@ -41,6 +42,7 @@
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="early_morning">Jutro</string>
+     <string name="error_continue_via_browser">Podrobnosti</string>
      <string name="evening">Popoldne</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
@@ -200,6 +202,7 @@
   <string name="settings_safetylegal_activity_title">Varnostne informacije</string>
   <string name="settings_safetylegal_activity_unreachable">"Nimate podatkovne povezave. Za pregled teh podatkov pojdite na %s iz kateregakoli računalnika povezanega s spletom."</string>
   <string name="settings_safetylegal_title">Varnostne informacije</string>
+     <string name="ssl_error_untrusted">"Potrdila ni izdal zaupanja vreden overitelj potrdil. Vseeno uporabim?"</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>

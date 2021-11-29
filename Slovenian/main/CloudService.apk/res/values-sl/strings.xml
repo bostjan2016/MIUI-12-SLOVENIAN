@@ -151,6 +151,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="dialog_storage_full_title">Cloud shramba je polna</string>
      <string name="dialog_storage_low_content">Nadgradite svoj načrt shranjevanja v oblaku, da boste lahko normalno sinhronizirali stvari.</string>
      <string name="dialog_storage_low_title">Premalo prostora v oblaku</string>
+     <string name="dialog_storage_upgrade_later">Ne, hvala</string>
+     <string name="dialog_storage_upgrade_now">Nadgradi</string>
      <string name="dialog_title_prompt">Pozor</string>
      <string name="disable_find_device_error">"Ne morem izklopiti opravila Najdi napravo. %1$s"</string>
      <string name="disable_find_device_success">"Najdi napravo" je izključeno.</string>

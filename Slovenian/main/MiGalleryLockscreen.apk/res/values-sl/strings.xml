@@ -411,6 +411,10 @@ Pošljite to kodo nadzorniku."</string>
      <string name="lockscreen_magazine_system_title">Izvenmrežno</string>
      <string name="lockscreen_magazine_title">Dnevna ozadja zakl. zaslona</string>
      <string name="lockscreen_wallpaper_changed">Slika ozadja zamenjana</string>
+     <string name="login_app">Vpis</string>
+     <string name="login_app_cancel">Prekliči</string>
+     <string name="login_app_confirm">Vpis</string>
+     <string name="login_xiaomi_account_summary">"Prebral sem in se strinjam z Mi račun &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Pogoji uporabe&lt;/font>&lt;/a> in &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Pravila o zasebnosti&lt;/font>&lt;/a>."</string>
      <string name="logout">Odjava</string>
      <string name="logout_account">Odjava</string>
      <string name="logout_cancel">Prekliči</string>
@@ -569,6 +573,7 @@ mm"</string>
      <string name="no_phone">Ni številke telefona</string>
      <string name="no_pic_data">"Ne najdem slike"</string>
      <string name="noon">Polnoč</string>
+     <string name="not_agree_summary">Najprej se strinjajte z našimi pogoji</string>
      <string name="not_allowed">Ni dovoljeno</string>
      <string name="not_cancel_button">Ne</string>
      <string name="not_revoke_button">Prekliči</string>
@@ -857,6 +862,8 @@ mm"</string>
      <string name="privacy_update_summary1">Wallpaper Carousel Pravila o zasebnosti so bila posodobljena:</string>
      <string name="privacy_update_summary2">"Preberite in se strinjajte z novo različico &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o zasebnosti&lt;/font>&lt;/a> preden nadaljujete."</string>
      <string name="privacy_update_summary3">"Ne boste mogli še naprej uporabljati Wallpaper Carousel, razen če se strinjate z novo različico &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o zasebnosti&lt;/font>&lt;/a>. Se strinjate z posodobitvijo?"</string>
+     <string name="privacy_update_title1">Posodobljena pravila o zasebnosti</string>
+     <string name="privacy_update_title2">Pozor</string>
      <string name="prv_end">" "Ni več stvari za prikaz" "</string>
      <string name="prv_loading">" "Samo trenutek…" "</string>
      <string name="prv_nodata">" "Ni podatkov" "</string>

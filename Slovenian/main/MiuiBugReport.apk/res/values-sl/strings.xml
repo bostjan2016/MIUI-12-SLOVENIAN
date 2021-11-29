@@ -27,8 +27,9 @@
     <string name="abc_shareactionprovider_share_with">Deljenje z</string>
     <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi preko aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
+     <string name="access_denied_info">Preveč poskusov. Počakajte minuto ali dve in poskusite znova.</string>
     <string name="account_bind_secure_email_title">Dodajte obnovitveni elektronski naslov</string>
-    <string name="account_bind_secure_phone_title">Dodaj obnovitveno telefonsko številko</string>
+    <string name="account_bind_secure_phone_title">Dodajte obnovitveno telefonsko številko</string>
     <string name="account_crop_user_avatar">Obreži sliko</string>
     <string name="account_empty_user_name">Vnesite uporabniško ime za vaš Mi Račun</string>
     <string name="account_error_all_space_user_name">Uporabniško ime ne more vsebovati samo presledek</string>
@@ -161,6 +162,9 @@ Pošljite to kodo nadzorniku."</string>
     <string name="discard_draft_dialog_button_discard">Zavrzi</string>
     <string name="discard_draft_dialog_content">Vse spremembe v poročilu bodo izgubljene.</string>
     <string name="discard_draft_dialog_title">Zavržem osnutke?</string>
+     <string name="doing_login">Vpis…</string>
+     <string name="doing_query_account">Preverjanje podatkov o računu…</string>
+     <string name="doing_register">Preverjanje računa…</string>
      <string name="early_morning">Jutro</string>
     <string name="err_type">Vrsta napake</string>
     <string name="err_type_app">Aplikacije</string>
@@ -369,10 +373,12 @@ Pošljite to kodo nadzorniku."</string>
     <string name="goon_feedback_main">Nadaljuj</string>
   <string name="goto_sign_up">Napravi račun</string>
     <string name="hint_feedback_main">Opišite težavo</string>
+     <string name="i_get_it">Razumem</string>
   <string name="i_know">V redu</string>
   <string name="identity">Identifikacija</string>
   <string name="inconsistent_pwd">"Gesli se ne ujemata"</string>
   <string name="input_email_address_notice">"Ta e-poštni naslov bo uporabljen za preverjanje vašega računa"</string>
+     <string name="input_length_exceeds_limit">Besedilo, ki ste ga vnesli, je predolgo</string>
   <string name="input_new_pwd">Vnesite novo geslo</string>
   <string name="isornot_your_mi_account">Je to vaš Mi Račun?</string>
     <string name="issue_search">Išči</string>
@@ -398,6 +404,11 @@ Pošljite to kodo nadzorniku."</string>
     <string name="kr_authorization_user_protocol">Pogoji uporabe (obvezno)</string>
   <string name="loading">Samo trenutek…</string>
   <string name="loading_apps">Branje seznama…</string>
+     <string name="login_by_local_phone_long_text">Vpis</string>
+     <string name="login_by_local_phone_short_text">Vpis</string>
+     <string name="login_other">Drug Mi račun</string>
+     <string name="login_register_by_local_phone_long_text">Ustvari račun</string>
+     <string name="login_with_sns">Drugi načini za prijavo</string>
     <string name="logo_title">Povratne informacije</string>
   <string name="logout_account">Odjava</string>
     <string name="max_error">Vaš %1$s bi moral biti krajši.</string>
@@ -409,6 +420,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="mi_service_dialog_title">Predstavljanje »Storitve in povratne informacije«</string>
      <string name="midnight">Noč</string>
   <string name="min_error">Vaš %1$s bi moral biti daljši.</string>
+     <string name="mishop_login_other">Drug račun</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Indeksna vrstica</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
@@ -425,6 +437,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
+     <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
@@ -503,6 +516,8 @@ Pošljite to kodo nadzorniku."</string>
     <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="net_error_info">Ni omrežne povezave, tapnite tukaj, da odprete Nastavitve</string>
   <string name="network_err">"Ne morem se povezati na omrežje."</string>
+     <string name="network_error_info">Prišlo je do omrežne napake. Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="network_timeout_info">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Poskusite ponovno."</string>
   <string name="network_unavailable_dialog_button_ok">V redu</string>
   <string name="network_unavailable_dialog_content">Vaše poročilo bo poslano, ko boste imeli podatkovno povezavo.</string>
   <string name="network_unavailable_dialog_title">Ne morem se povezati na omrežje</string>
@@ -617,6 +632,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="phone_num_use_for">Telefonska številka se uporablja za:</string>
     <string name="phone_number">Telefonska številka</string>
     <string name="photoPickerNotFoundText">Ni slik.</string>
+     <string name="please_agree_protocal">Prosimo, da se strinjate s protokolom</string>
     <string name="plus_one_submit_dialog_content">Vaše pov. inf. skupaj z priponkami bodo poslane Mi strežnikom.</string>
     <string name="plus_one_submit_dialog_not_show_again">Zapomni si izbiro</string>
      <string name="pm">pop.</string>
@@ -628,9 +644,15 @@ Pošljite to kodo nadzorniku."</string>
 %2$s
 Preberite in se strinjajte z novo različico %3$s preden nadaljujete."</string>
      <string name="privacy_policy_update_title">Posodobljena Pravila o zasebnosti</string>
+     <string name="progressbar_title">Preverjanje varnostnih težav…</string>
+     <string name="protocal_dialog_cancel">Prekliči</string>
+     <string name="protocal_dialog_confirm">Strinjam se</string>
+     <string name="protocal_dialog_title">Pozor</string>
     <string name="psw_hint">Geslo</string>
     <string name="psw_sign_in">Prijavite se z geslom</string>
     <string name="refresh">Osveži</string>
+     <string name="register_by_local_phone_long_text">Ustvari račun</string>
+     <string name="register_by_local_phone_short_text">Ustvari račun</string>
     <string name="related_question_answer_details">Podobna težava</string>
     <string name="reply">Odgovori</string>
     <string name="reply_failed">Ne morem odgovoriti</string>
@@ -638,7 +660,13 @@ Preberite in se strinjajte z novo različico %3$s preden nadaljujete."</string>
     <string name="reply_select_log_hint">Izberite zapis</string>
     <string name="reply_successful">Uspešno odgovorjeno</string>
     <string name="report_miui">Prijavi napake</string>
+     <string name="request_agree">Dovoli</string>
   <string name="request_camera_permission_message">Ta storitev mora dobiti vaše dovoljenje na naslednji način, strogo bomo upoštevali ustrezne zakone za zaščito vaših osebnih podatkov:&lt;br&gt;&lt;br&gt;&lt;b&gt; Dostop do kamere: Doživite storitve snemanja v realnem času za nastavitev Avatarja&lt;/b&gt;&lt;br&gt;&lt;br&gt; Če se ne strinjate z odobritvijo zgornjih dovoljenj, ta funkcija ne bo delovala pravilno, vendar ne bo vplivala na vašo uporabo osnovnih funkcij te aplikacije. Če želite umakniti soglasje, lahko v nastavitvah izklopite dovoljenje.</string>
+     <string name="request_cancel">Prekliči</string>
+     <string name="request_error_invalid_token">"Ni bilo mogoče preveriti"</string>
+     <string name="request_error_network">Prišlo je do omrežne napake. Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="request_error_unknown">Prišlo je do sistemske napake. Pojdite nazaj in poskusite znova.</string>
+     <string name="request_gallery_permission_message">Dovolite dostop do Galerija:&lt;br />Za nastavitev profilnih fotografij</string>
     <string name="resend_active_email">Ponovno pošlji</string>
     <string name="resend_email_reach_limit_message">Zahtevali ste preveč preverjanj po e-pošti. Poglejte ali e-pošta za preverjanje ni mogoče v mapi Vsiljena pošta.</string>
     <string name="resend_email_reach_limit_title">Preveč poskusov</string>
@@ -666,6 +694,7 @@ Preberite in se strinjajte z novo različico %3$s preden nadaljujete."</string>
     <string name="sign_in">Prijava</string>
   <string name="sign_in_progress">Prijava…</string>
     <string name="sign_in_title">Prijavite se z Mi Računom</string>
+     <string name="skip_query_account">Preskoči</string>
     <string name="sms_send_success">Uspešno poslano</string>
     <string name="sns_access_token_expired_warning">Potekel je čas seje. Prijavite se ponovno za ponovno povezovanje s tem računom.</string>
     <string name="sns_bind_limit">Preveč poskusov. Poskusite drugi način prijave.</string>
@@ -692,6 +721,7 @@ Preberite in se strinjajte z novo različico %3$s preden nadaljujete."</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
     <string name="system_app_select">Miui aplikacije</string>
+     <string name="system_error_info">Sistem je zaseden. Počakajte minuto ali dve in poskusite znova.</string>
     <string name="systemui">Plošča obvestil</string>
     <string name="tab_title_chat">Pogosta vprašanja</string>
     <string name="tab_title_my_reports">Moja poročila</string>
@@ -747,6 +777,7 @@ Preberite in se strinjajte z novo različico %3$s preden nadaljujete."</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
+     <string name="unknown_error_info">Neznana napak</string>
   <string name="update_dialog_cancel">Prekliči</string>
   <string name="update_dialog_confirm">Posodobi</string>
   <string name="update_dialog_content_log">"Kaj je novega:
@@ -759,11 +790,24 @@ Velikost: %2$s"</string>
     <string name="update_phone_notice">Spremeni nastavitve varnosti</string>
     <string name="upload_error_log">Naložite poročilo</string>
   <string name="upload_log_failed">"Ne morem poslati poročila"</string>
+     <string name="user_agreement_hint_3rd_app"><Data>"Prebral sem in se strinjam z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a> in Mi račun &lt;a href=\"%3$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%4$s\">Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_3rd_app_mobile"><Data>"Prebral sem in se strinjam z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=\"%3$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%4$s\">Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=\"%5$s\">Pravila in pogoji storitev preverjanja China Mobile&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Prebral sem in se strinjam z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=\"%3$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%4$s\">Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=\"%5$s\">Pravila in pogoji storitev preverjanja računa eSurfing&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Prebral sem in se strinjam z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=\"%3$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%4$s\">Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=\"%5$s\">Pravila in pogoji storitev preverjanja China Unicom&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_default"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_default_1"><Data>Prebral sem in se strinjam z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti.&lt;/a></Data></string>
+     <string name="user_agreement_hint_default_extra"><Data>"Prebral sem in se strinjam z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti.&lt;/a> Prva prijava bo samodejno ustvarila račun Xiaomi"</Data></string>
+     <string name="user_agreement_hint_first_login">"Račun bomo ustvarili samodejno, če boste svojo telefonsko številko uporabili prvič."</string>
+     <string name="user_agreement_hint_with_mobile"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=\"%3$s\">Pravila in pogoji storitev preverjanja China Mobile&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_with_telecom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=\"%3$s\">Pravila in pogoji storitev preverjanja računa eSurfing&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_with_unicom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=\"%3$s\">Pravila in pogoji storitev preverjanja China Unicom&lt;/a>."</Data></string>
+     <string name="user_agreement_protocal_dialog_hint_default"><Data>"Prebral sem in se strinjam z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a> in Mi račun &lt;a href=\"%3$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%4$s\">Pravila o zasebnosti&lt;/a>."</Data></string>
   <string name="user_avatar_update_title">Zamenjaj sliko profila</string>
   <string name="user_avatar_uploading">Samo trenutek…</string>
   <string name="user_id_hint">E-pošta/Telefon/ID Mi Računa</string>
      <string name="user_must_known">Pozor</string>
      <string name="user_must_known_content">"Ne boste mogli še naprej uporabljati naših storitev, razen če se strinjate z novo različico %s. Se strinjate z posodobljeno politiko zasebnosti?"</string>
+     <string name="user_name_phone_number">Telefonska številka</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>
     <string name="v_code_title">Vnesite kodo za preverjanje</string>

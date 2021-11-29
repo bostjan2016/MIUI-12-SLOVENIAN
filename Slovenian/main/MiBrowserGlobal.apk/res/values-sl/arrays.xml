@@ -80,6 +80,13 @@
         <item>Zelena</item>
         <item>Modra</item>
      </string-array>
+     <string-array name="nf_ad_feedback_reason">
+        <item>Ni zanimivo</item>
+        <item>Ponavljajoče</item>
+        <item>Slaba kvaliteta</item>
+        <item>Neprimerne fotografije</item>
+        <item>Goljufive informacije</item>
+     </string-array>
      <string-array name="nf_feedback_reason">
         <item>Eksplicitna vsebina</item>
         <item>Laž</item>
