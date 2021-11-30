@@ -1846,6 +1846,8 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
   <string name="paint_highlight_cancel_context">Shranim narisano sliko?</string>
   <string name="paint_highlight_cancel_title">Zavrzi spremembe</string>
   <string name="pc_device_model_name">Računalnik</string>
+     <string name="pc_redmi_device_model_name">Redmi prenosnik</string>
+     <string name="pc_xiaomi_device_model_name">Xiaomi prenosnik</string>
   <string name="people_album_empty_title">Fotografije so lahko razvrščene po osebah</string>
   <string name="people_jump_failed">Počakajte da se fotografije z osebami sinhronizirajo z Mi Cloudom in poskusite ponovno</string>
   <string name="people_mark_mode_title">Izberi \"%s\"</string>

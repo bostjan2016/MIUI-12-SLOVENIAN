@@ -1047,6 +1047,7 @@ Spremenim nastavitve?"</string>
     <string name="auto_sync_account_title">Samodejno sinhroniziranje podatkov</string>
     <string name="auto_sync_personal_account_title">Samodejno sinhroniziranje osebnih podatkov</string>
     <string name="auto_sync_work_account_title">Samodejno sinhroniziranje delovnih podatkov</string>
+     <string name="auto_task_operation_close">Zapri</string>
   <string name="auto_upload_debug_log_summary">Diagnostični podatki lahko vsebujejo informacije o uporabi hardvera, operacijskem sistemu in aplikacijah. Podatki bodo uporabljeni za iskanje in analiziranje problema v sistemu in nikoli ne bodo uporabljeni za vašo identifikacijo.</string>
   <string name="auto_upload_debug_log_title">Samodejno pošlji diagnostične podatke</string>
     <string name="autofill_app">Storitev samodejnega izpolnjevanja</string>
@@ -1683,6 +1684,8 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
     <string name="bluetooth_enable_inband_ringing_summary">Omogoči, da se toni zvonjenja v telefonu predvajajo v slušalkah z mikrofonom Bluetooth</string>
      <string name="bluetooth_enable_page_scan">omogoči iskanje strani Bluetooth</string>
      <string name="bluetooth_enable_page_scan_summary">onemogoči / omogoči iskanje strani za preskus Bluetooth</string>
+     <string name="bluetooth_enable_pts_test">dovoli bluetooth PTS test</string>
+     <string name="bluetooth_enable_pts_test_summary">zavrni/dovoli PTS za Bluetooth test</string>
   <string name="bluetooth_enter_passkey_msg">Vnesite kodo za seznanjanje in nato pritisnite Return ali Enter</string>
   <string name="bluetooth_enter_passkey_other_device">Geslo boste morda morali vnesti tudi v drugi napravi.</string>
   <string name="bluetooth_enter_pin_msg">Naprava</string>
@@ -6084,6 +6087,7 @@ Tega ne morete povrniti!"</string>
     <string name="menu_duration_3h">"3 ure"</string>
     <string name="menu_duration_6h">"6 ur"</string>
     <string name="menu_hide_system">Skrij sistemske procese</string>
+     <string name="menu_item_notification_power_text">Optimizacija baterije</string>
   <string name="menu_item_show_more">Pokaži več</string>
   <string name="menu_key">Meni</string>
   <string name="menu_new">Nov APN</string>
@@ -7401,6 +7405,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="owner_info_settings_summary">Brez</string>
     <string name="owner_info_settings_title">Sporočilo na zaklenjenem zaslonu</string>
   <string name="owner_space">Prvi prostor</string>
+     <string name="p2p_summary_enable_GPS">Ta storitev deluje, ko so vklopljene lokacijske storitve</string>
   <string name="packages_subtitle">Vključeni paketi</string>
      <string name="pad_backup_summary">Varnostno kopirajte in obnovite elemente v tej napravi</string>
      <string name="pad_backup_title">Mobilna naprava</string>
@@ -10016,7 +10021,9 @@ Umaknem privolitev %s zdaj?"</string>
     <string name="speed_label_very_fast">Zelo hitro</string>
     <string name="speed_label_very_slow">Zelo počasno</string>
      <string name="speed_mode">Hitrostni način</string>
-     <string name="speed_mode_summary">Za odpravljanje napak v aplikacijah.</string>
+     <string name="speed_mode_noti_summary">Hitrostni način bo povečal porabo energije in proizvodnjo toplote</string>
+     <string name="speed_mode_noti_title">Hitrostni način vklopljen</string>
+     <string name="speed_mode_summary">Ko je vklopljeno, bo zmogljivost dosegla ekstremno stanje, vendar bo povečala porabo energije in ustvarila toploto. Previdno z vklopom...</string>
     <string name="spell_checker_master_switch_title">Uporaba črkovalnika</string>
     <string name="spell_checker_not_selected">Ni izbrano</string>
     <string name="spell_checker_primary_switch_title">Uporabi črkovalnik</string>

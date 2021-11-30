@@ -456,6 +456,7 @@
      <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
      <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
+     <string name="comma">Vejica</string>
      <string name="composer_failed_to_get_database_infomation">"Ni bilo mogoče pridobiti informacij iz podatkovne baze."</string>
      <string name="composer_has_no_exportable_contact">"Ni stikov za izvoz. Če imate stike v napravi nekateri ponudniki podatkov ne dovoljujejo izvoza podatkov iz telefona."</string>
      <string name="composer_not_initialized">"vCard se ni zagnala pravilno."</string>
@@ -1419,7 +1420,7 @@ Napravite varnostno kopijo stikov."</string>
      <string name="permission_dailog_title">Potrebna so dovoljenja</string>
      <string name="permission_notice_desc_access_fine_location">Za uvoz stikov iz drugih naprav prek povezave Bluetooth</string>
      <string name="permission_notice_desc_add_voicemail">Za uporabo storitve glasovne pošte in zvočnih sporočil</string>
-     <string name="permission_notice_desc_call_phone">Za klicanje v aplikacijah tretjih oseb</string>
+     <string name="permission_notice_desc_call_phone">Za klicanje prek bližnjic na začetnem zaslonu</string>
      <string name="permission_notice_desc_call_phone_for_pad">Za klicanje v aplikacijah tretjih oseb</string>
      <string name="permission_notice_desc_camera">Za fotografiranje profila</string>
      <string name="permission_notice_desc_read_call_logs">Za ogled zgodovine klicev</string>
@@ -1432,7 +1433,7 @@ Napravite varnostno kopijo stikov."</string>
      <string name="permission_notice_desc_write_external_storage">Za dodajanje fotografij profila in uvoz vCard</string>
      <string name="permission_record_audio_desc">Za uporabo vašega glasu med preverjanjem osebnega dokumenta</string>
      <string name="permission_retry_deny">Prekliči</string>
-     <string name="permission_retry_dialog_msg">Če želite uporabljati kartico SIM s to aplikacijo, upravljati stike in posodabljati zgodovino klicev, dovolite tej aplikaciji dostop do in urejanje vaših stikov in zgodovine klicev ter dostop do podatkov o napravi.</string>
+     <string name="permission_retry_dialog_msg">Če želite s to aplikacijo uporabljati svojo kartico SIM, klicati prek bližnjic na začetnem zaslonu, upravljati svoje stike in posodabljati zgodovino klicev, dovolite tej aplikaciji dostop in urejanje vaših stikov in zgodovine klicev, klicanje in dostop do podatkov o napravi.</string>
      <string name="permission_retry_dialog_msg_pad">Če želite s to aplikacijo uporabljati kartico SIM in upravljati stike, dovolite tej aplikaciji dostop do in urejanje vaših stikov ter dostop do podatkov o napravi.</string>
      <string name="permission_retry_setting">Nastavitve</string>
      <string name="permission_write_external_storage_desc">Za shranjevanje podatkov aplikacije</string>
@@ -1548,7 +1549,7 @@ Napravite varnostno kopijo stikov."</string>
      <string name="privacy_password_title3">Nadgradite svoje geslo</string>
      <string name="privacy_password_title4">Geslo nadgrajeno</string>
      <string name="privacy_settings_call_phone">Klic</string>
-     <string name="privacy_settings_call_phone_description">Za klicanje v aplikacijah tretjih oseb</string>
+     <string name="privacy_settings_call_phone_description">Za klicanje prek bližnjic na začetnem zaslonu</string>
      <string name="privacy_settings_call_phone_description_for_pad">Za klicanje v aplikacijah tretjih oseb</string>
      <string name="privacy_settings_call_phone_for_pad">Klic</string>
      <string name="privacy_settings_contacts">Stiki in telefon</string>

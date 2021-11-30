@@ -2207,7 +2207,7 @@ vašega igranja"</string>
      <string name="gd_setting_group_custom_line_location">Položaj orodij</string>
      <string name="gd_setting_group_custom_settings">Personalizacija</string>
      <string name="gd_setting_group_custom_vtb_apps">Video aplikacije</string>
-     <string name="gd_setting_group_smart_tool_box">Pametna orodja</string>
+     <string name="gd_setting_group_smart_tool_box">Stranska vrstica</string>
      <string name="gd_setting_group_title_switch">Prizori</string>
      <string name="gd_setting_gtb">Pokaži med igranjem iger</string>
      <string name="gd_setting_gtb_desc">Posebne storitve za igranje iger</string>
@@ -2216,7 +2216,7 @@ vašega igranja"</string>
      <string name="gd_setting_guide_two">Povlecite od roba, da odprete video orodjarno</string>
      <string name="gd_setting_miui_dock">Vedno pokaži</string>
      <string name="gd_setting_shorthand">Hitre beležke</string>
-     <string name="gd_setting_title">Pametna orodja</string>
+     <string name="gd_setting_title">Stranska vrstica</string>
      <string name="gd_setting_vtb">Prikaži med predvajanjem videoposnetkov</string>
      <string name="gd_setting_vtb_desc">Posebne storitve za predvajanje videa</string>
      <string name="gdpr_msg">"&lt;Data&gt;"Da boste zaznali varnostna tveganja in zaščitili vaše podatke, moramo zbrati potrebno količino informacij o vaši napravi. Preberite in se strinjajte z &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo naših storitev. V primeru, da nam ne dovolite zbiranja takšnih podatkov, boste to aplikacijo še vedno lahko uporabljali, vendar vam nekatere storitve ne bodo na voljo. "&lt;/Data&gt;</string>
@@ -3434,8 +3434,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="permission_instruction_read_notify_sms">To dovoljenje aplikacijam omogoča branje besedilnih sporočil obvestil, shranjenih v vaši napravi ali na kartici SIM.</string>
      <string name="permission_instruction_read_phone_state">"To dovoljenje aplikacijam omogoča dostop do vaše telefonske številke, IMEI, IMSI in drugih identifikatorjev naprav. Aplikacije običajno uporabljajo to dovoljenje za ugotavljanje, ali so vaši klici preusmerjeni. Če uporabljate navidezni ID naprave, aplikacije ne bodo mogle dostopati do vaših dejanskih identifikatorjev naprave
 ."</string>
-     <string name="permission_instruction_read_sms">"To dovoljenje aplikacijam omogoča branje vseh besedilnih sporočil, shranjenih v vaši napravi ali na kartici SIM. Takšna sporočila lahko vključujejo gesla, podatke o bančnem računu in druge osebne podatke.
-"</string>
+     <string name="permission_instruction_read_sms">"To dovoljenje aplikacijam omogoča branje vseh besedilnih in večpredstavnostnih sporočil, shranjenih v vaši napravi ali kartici SIM. Takšna sporočila lahko vsebujejo gesla, podatke o bančnem računu in druge osebne podatke."</string>
      <string name="permission_instruction_read_write_calendar">To dovoljenje aplikacijam omogoča dostop do koledarja ter branje, dodajanje, odstranjevanje, urejanje, skupno rabo in shranjevanje koledarskih dogodkov. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za pošiljanje sporočil v vašem imenu ali za urejanje koledarskih dogodkov brez vašega soglasja.</string>
      <string name="permission_instruction_receive_mms">To dovoljenje aplikacijam omogoča branje vseh večpredstavnostnih sporočil, shranjenih v vaši napravi ali na kartici SIM. Takšna sporočila lahko vključujejo gesla, podatke o bančnem računu in druge osebne podatke.</string>
      <string name="permission_instruction_record_audio">"To dovoljenje aplikacijam omogoča uporabo mikrofona za snemanje zvoka. Upoštevajte, da to dovoljenje aplikacijam omogoča snemanje česar koli, vključno z vašimi pogovori z drugimi. Najbolje je, da program dovoli uporabo tega dovoljenja samo med njihovo uporabo.
@@ -3772,6 +3771,8 @@ To skrajšuje trajanje baterije."</string>
      <string name="power_optimize_save_on_lockscreen">Varčujte energijo kadar je naprava zaklenjena</string>
      <string name="power_optimize_set_lockscreen_time_holder">Zakleni napravo po %d sek. neaktivnosti</string>
      <string name="power_phone">Glasovni klici</string>
+     <string name="power_rank_surface_flinger">Upodabljanje</string>
+     <string name="power_rank_system">Android sistem</string>
      <string name="power_recovery_mode">Preklopi baterijo na %1$s</string>
      <string name="power_save_choose_mode">Izberi profil</string>
      <string name="power_save_choose_recovery_mode">Izberi profil</string>
@@ -5301,6 +5302,11 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
      <string name="sys_freememory_title">Na voljo</string>
      <string name="sys_title_gamebooster_unit_gb">GB</string>
      <string name="sys_title_gamebooster_unit_mb">MB</string>
+     <string name="system_anti_fraud_dialog_confirm_btn_txt">Razumem</string>
+     <string name="system_anti_fraud_dialog_content">"Kaže da ste pravkar prejeli prevarantski klic ali sporočilo. Nadaljevanje s tem plačilom lahko povzroči finančne izgube."</string>
+     <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>Če vas osebje za pomoč strankam, organi ali osebe, ki jih morda poznate, prosijo, da dokončate to plačilo, &lt;/font>&lt;font = color=#F22424>preverite njihovo identiteto, preden nadaljujete.&lt;/font></string>
+     <string name="system_anti_fraud_dialog_image_txt">Zaščita proti goljufijam</string>
+     <string name="system_anti_fraud_dialog_title">Opozorila proti goljufijam</string>
      <string name="system_app">Sistemske aplikacije</string>
      <string name="system_app_permission_instruction">Ta aplikacija potrebuje naslednja dovoljenja za zagotavljanje osnovnih sistemskih storitev. Upravljanje dovoljenj je za to aplikacijo omejeno, saj bo spreminjanje statusov dovoljenj povzročilo nenormalnosti delovanja sistema.</string>
      <string name="system_application">Sistemske aplikacije</string>

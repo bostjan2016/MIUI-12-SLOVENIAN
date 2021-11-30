@@ -118,7 +118,7 @@
   <string name="friday_shortest">P</string>
   <string name="invalid_package_signature">Podpis aplikacije ni veljaven</string>
      <string name="login_mi_account_alert">Pozor</string>
-     <string name="login_mi_account_summary">Če želite omogočiti upravitelja gesel, se morate prijaviti v Moj račun, se boste prijavili zdaj?</string>
+     <string name="login_mi_account_summary">Upravitelj gesel sinhronizira gesla z vašim računom Mi. Se boste prijavili zdaj?</string>
      <string name="midnight">Polnoč</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>

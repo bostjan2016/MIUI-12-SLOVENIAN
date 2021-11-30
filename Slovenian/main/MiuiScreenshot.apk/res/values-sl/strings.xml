@@ -99,6 +99,7 @@
      <string name="garbage_count">Tu je %1$s starih primerkov</string>
     <string name="long_screenshot_guide_text">"Tapnite za izdelavo
 drsnega posnetka zaslona"</string>
+     <string name="long_screenshot_intercepted_error">"Posnetka zaslona ni bilo mogoče narediti. Poskusite ponovno."</string>
     <string name="long_screenshot_out_of_memory_error">Slika je prevelika</string>
     <string name="long_screenshot_processing">Obdelovanje…</string>
     <string name="long_screenshot_stop">Končano</string>

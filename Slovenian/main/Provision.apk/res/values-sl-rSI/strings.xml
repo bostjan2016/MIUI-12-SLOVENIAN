@@ -55,6 +55,7 @@
   <string name="application_permissions">Dovoljenja aplikacije</string>
   <string name="back">Nazaj</string>
   <string name="backup_introduction">S to aplikacijo lahko varnostno kopirate in obnovite stvari v napravi.</string>
+     <string name="bluetooth_introduction">Bluetooth uporablja sistem za brezžično komunikacijo. Za normalno delovanje Bluetooth potrebuje naslednja dovoljenja:</string>
      <string name="boot_video_desc">Poglejte svet v 2K</string>
      <string name="boot_video_replay">Predvajaj ponovno</string>
      <string name="boot_video_skip">Preskoči</string>
@@ -107,6 +108,7 @@
      <string name="disagreement_location_service_abnormal">"Če se ne strinjate z dodelitvijo teh dovoljenj, ne boste mogli uporabljati lokacijskih storitev. Lokacijske storitve lahko kadar koli vklopite ali izklopite v Nastavitve > Zaščita zasebnosti."</string>
      <string name="disagreement_mi_account_abnormal">"Če se ne strinjate s podelitvijo teh dovoljenj, ne boste mogli uporabljati storitev Mi račun. Storitve Mi račun lahko kadar koli vklopite ali izklopite v Nastavitve > Mi račun."</string>
      <string name="disagreement_service_not_working_properly">"Če se ne strinjate s podelitvijo teh dovoljenj, te aplikacije ne boste mogli uporabljati."</string>
+     <string name="disagreement_terminate_bluetooth">"Če teh dovoljenj ne želite odobriti, ne boste mogli uporabljati Bluetooth. Bluetooth lahko vklopite in izklopite ter dodate naprave v nastavitvah."</string>
   <string name="disagreement_terminate_miuidaemon">"Če se ne strinjate s temi dovoljenji ali če delite in naložite svoje osebne podatke, te storitve ne boste mogli uporabljati. V takšnih primerih se lahko odločite, da ne boste uporabljali te storitve, ali omejite dovoljenja v nastavitvah. Upoštevajte, da bomo dovoljenja uporabili šele, ko začnete prenašati podatke iz naprave, ko je njen zaslon poškodovan."</string>
   <string name="disagreement_terminate_service">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati te storitve. Lahko jo odstranite, se odjavite ali ji omejite dovoljenja v Nastavitvah."</string>
   <string name="download_introduction">Prenosi je aplikacija Xunlei, ki se uporablja za prenose in upravljanje prenesene vsebine (vključno z vsebino v trgovini App, videoposnetki, posodobitvami sistema, temami in vsebino brskalnika) za uporabnike naprav Xiaomi.</string>
@@ -324,7 +326,7 @@
   <string name="other_settings_enhanced_lockscreen_summary">Pridobite slike in zgodbe ki se dnevno dostavljajo na vaš zakl. zaslon. %1$s in %2$s.</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Pogoji in pravila</string>
   <string name="other_settings_location">Lokacije</string>
-  <string name="other_settings_location_summary">Dovoli aplikacijam dostop do vaše lokacije</string>
+  <string name="other_settings_location_summary">Dovolite aplikacijam in spletnim mestom dostop do podatkov o vaši lokaciji za zagotavljanje storitev, ki temeljijo na lokaciji</string>
   <string name="other_settings_mifg_online_content">Vrtenje ozadij</string>
   <string name="other_settings_mifg_online_content_summary">Za redno posodabljanje ozadij zakl. zaslona se povežite na omrežje.</string>
      <string name="other_settings_upload_debug_log_detail">"Pomagajte izboljšati izkušnjo naprave MIUI s samodejnim pošiljanjem diagnostičnih podatkov, podatkov o napravi in porabi podatkov za aplikacije podjetju Xiaomi. To bo pomagalo izboljšati življenjsko dobo baterije, stabilnost sistema MIUI in aplikacij ter še več.
@@ -346,12 +348,14 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
   <string name="permission_backup">Dostop do shrambe</string>
   <string name="permission_backup_introduction">Za dostop in shranjevanje varnostnih kopij v vaši napravi</string>
   <string name="permission_call_records">Dostop do zgodovine klicev:</string>
+     <string name="permission_call_records_describe_bluetooth_summary">Za omogočanje drugim združljivim napravam, ki jih povežete s to napravo, dostop do zgodovine klicev. To se bo zgodilo samo, če boste proaktivno zahtevali uporabo zgodovine klicev prek druge naprave. Zgodovina klicev in stiki, ki jih sistem deli prek Bluetooth, bodo predpomnjeni samo lokalno v vaših napravah in deljeni z njimi z vašim dovoljenjem.</string>
   <string name="permission_call_records_introduction">Za dostop do zgodovine klicev zaradi prikazovanja blokiranih stvari</string>
   <string name="permission_call_state_introduction">Za dostop do statusa telefona, snemanja klicev in ustavljanje snemanja med dohodnimi klici</string>
   <string name="permission_clock_info_introduction">Za shranjevanje podatkov alarma</string>
   <string name="permission_contact">Dostop do stikov:</string>
      <string name="permission_contact_describe">Dostop do stikov</string>
      <string name="permission_contact_describe_MIUIDaemon_summary">Za potrditev vaše identitete.</string>
+     <string name="permission_contact_describe_bluetooth_summary">Za omogočanje drugim združljivim napravam, ki jih povežete s to napravo, da dostopajo do stikov. To se bo zgodilo samo, če vklopite Bluetooth ali uredite svoje stike, ko je Bluetooth vklopljen.</string>
      <string name="permission_contact_describe_desktop_summary">Za uporabo funkcije za stik v sili na začetnem zaslonu v poenostavljenem načinu in prikaz obvestil o pogovorih;</string>
      <string name="permission_contact_describe_message_summary">Za prikaz ustreznih kontaktnih podatkov SMS in MMS.</string>
      <string name="permission_contact_introduction">Za nudenje funkcionalnosti seznama blokiranih in klicanje stikov v sili</string>

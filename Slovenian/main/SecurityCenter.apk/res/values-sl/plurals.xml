@@ -1014,9 +1014,13 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">Zaklep zaslona čez %d min</item>
         <item quantity="one">Zaklep zaslona čez %d min</item>
      </plurals>
+     <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%ds)</item>
+        <item quantity="one">(%ds)</item>
+     </plurals>
      <plurals name="system_check_content">
         <item quantity="other">%1$d stvari zavarovanih</item>
-        <item quantity="one">%1$d stvar zavarovan</item>
+        <item quantity="one">%1$d stvar zavarovana</item>
      </plurals>
      <plurals name="title_app_update_cn">
         <item quantity="other">&lt;Data>Posodobi &lt;font color=#F22424>%d&lt;/font> aplikacij&lt;/Data></item>
