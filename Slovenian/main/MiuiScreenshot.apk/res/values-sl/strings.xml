@@ -102,8 +102,10 @@ drsnega posnetka zaslona"</string>
      <string name="long_screenshot_intercepted_error">"Posnetka zaslona ni bilo mogoče narediti. Poskusite ponovno."</string>
     <string name="long_screenshot_out_of_memory_error">Slika je prevelika</string>
     <string name="long_screenshot_processing">Obdelovanje…</string>
+     <string name="long_screenshot_processing_description_accessibility">Obdelovanje</string>
     <string name="long_screenshot_stop">Končano</string>
     <string name="long_screenshot_top_msg">Izdelava posnetka zaslona…</string>
+     <string name="long_screenshot_top_msg_description_accessibility">Izdelava posnetka zaslona</string>
     <string name="long_screenshot_top_msg_manual">Obrežite posnetek zaslona in tapnite gumb, da končate</string>
      <string name="memory_leak">Pomanjkanje spomina</string>
     <string name="midnight">Polnoč</string>
