@@ -3851,6 +3851,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
     <string name="enterprise_privacy_settings_summary_with_name">Spremembe in nastavitve, ki jih upravlja %s</string>
     <string name="enterprise_privacy_usage_stats">Trajanje uporabe in količina prenesenih podatkov za vsako od aplikacij</string>
     <string name="enterprise_privacy_wipe_device">Skrbnik lahko izbriše vse podatke v napravi</string>
+     <string name="environmental_speech_recognition">Prepoznavanje zvoka okolice</string>
   <string name="eq_auto">Lastno</string>
   <string name="eq_blues">Blues</string>
   <string name="eq_cancel">Prekini</string>

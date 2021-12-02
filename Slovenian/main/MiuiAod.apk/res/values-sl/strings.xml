@@ -171,7 +171,7 @@ dd.MM."</string>
      <string name="fmt_weekday_time">W T</string>
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
-  <string name="font_thickness">Odebeljeni font</string>
+     <string name="font_thickness">Odebeljeni font</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>

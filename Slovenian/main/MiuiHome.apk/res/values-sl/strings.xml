@@ -453,7 +453,7 @@
   <string name="lock_screen_wallpaper">Ozadje zakl. zaslona</string>
      <string name="maml_download_dialog_cancel_text">Čakaj na WiFi</string>
      <string name="maml_download_dialog_cancel_text_china">Čakaj na WiFi</string>
-     <string name="maml_download_dialog_checkbox_text">"Ne kaži več"</string>
+     <string name="maml_download_dialog_checkbox_text">"Ne kaži več %d minut"</string>
      <string name="maml_download_dialog_confirm_text">Prenos</string>
      <string name="maml_download_dialog_message">%s MB mobilnih podatkov bo uporabljenih za prenos. Prenesem vseeno?</string>
      <string name="maml_download_dialog_title">Opozorilo o uporabi podatkov</string>
@@ -712,6 +712,7 @@
      <string name="resource_canary_leak_tip">spušča!</string>
      <string name="resource_canary_wait_for_heapdump_message">Posnetek kopice dampinga...</string>
   <string name="restore_icon_successful">Uspešno dodano</string>
+     <string name="russia_preinstall_folder_name">Rusija</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>

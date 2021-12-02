@@ -141,7 +141,6 @@
         <item>Onemogočeno</item>
         <item>Omogočeno filtrirano</item>
         <item>Omogočeno</item>
-
      </string-array>
      <string-array name="bt_hci_snoop_log_values">
         <item>onemogočeno</item>
@@ -222,9 +221,9 @@
         <item>Izklopljeno</item>
         <item>64 KB na medpomnilnik dnevnika</item>
         <item>256 KB na medpomnilnik dnevnika</item>
-        <item>1 KB na medpomnilnik dnevnika</item>
-        <item>4 KB na medpomnilnik dnevnika</item>
-        <item>16 KB na medpomnilnik dnevnika</item>
+        <item>1 MB na medpomnilnik dnevnika</item>
+        <item>4 MB na medpomnilnik dnevnika</item>
+        <item>16 MB na medpomnilnik dnevnika</item>
      </string-array>
      <string-array name="select_logd_size_titles">
         <item>Izklopljeno</item>

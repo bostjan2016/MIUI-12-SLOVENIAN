@@ -946,8 +946,8 @@ Poskusite znova čez %d s."</string>
      <string name="kg_invalid_puk">Vnovič vnesite pravilno kodo PUK. Večkratni poskusi bodo trajno onemogočili kartico SIM.</string>
      <string name="kg_invalid_sim_pin_hint">Vnesite PIN ki vsebuje od štiri do osem številk.</string>
      <string name="kg_invalid_sim_puk_hint">Koda PUK mora biti 8 mestno število.</string>
-     <string name="kg_login_account_recovery_hint">"Ali ste pozabili uporabniško ime ali geslo?
-Obiščite "<b>google.com/accounts/recovery</b>.</string>
+      <string name="kg_login_account_recovery_hint">"Ali ste pozabili uporabniško ime ali geslo?
+Obiščite <b>google.com/accounts/recovery</b>."</string>
      <string name="kg_login_checking_password">Preverjanje računa….</string>
      <string name="kg_login_instructions">Če želite odkleniti napravo se prijavite z Google računom.</string>
      <string name="kg_login_invalid_input">Neveljavno uporabniško ime ali geslo.</string>
