@@ -1826,7 +1826,6 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_camera_volumekey_function_entry_timer">Odštevanje sprožilca</string>
      <string name="pref_camera_volumekey_function_entry_volume">Zvok</string>
      <string name="pref_camera_volumekey_function_entry_zoom">Povečava</string>
-     <string name="pref_camera_volumekey_function_entryvalue_timer">časovnik</string>
      <string name="pref_camera_volumekey_function_title">Opravilo tipk za glasnost</string>
      <string name="pref_camera_watermark_title">Dodaj oznako časa na fotografijo</string>
      <string name="pref_camera_whitebalance_entry_auto">Samodejno</string>
@@ -1906,7 +1905,6 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_lens_dirty_detect_summary">Prejmite obvestilo ko je leča umazana</string>
      <string name="pref_lens_dirty_detect_title">Obvesti o umazani leči</string>
      <string name="pref_live_duration_title">Trajanje v živo</string>
-     <string name="pref_live_volumekey_function_default">glasnost</string>
      <string name="pref_manual_exposure_title">Čas eksp.</string>
      <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
      <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
@@ -2039,7 +2037,6 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_video_time_lapse_frame_interval_entry_90">Interval 3 sekund (90 krat)</string>
      <string name="pref_video_time_lapse_frame_interval_entry_900">Interval 30 sekund (900 krat)</string>
      <string name="pref_video_time_lapse_frame_interval_title">Interval časovnega zamika</string>
-     <string name="pref_video_volumekey_function_default">sprožilec</string>
      <string name="pref_watermark_off">Izklj.</string>
      <string name="pref_watermark_on">Vklj.</string>
      <string name="pref_watermark_style_entry_dualcamera">Dvojna kamera</string>
