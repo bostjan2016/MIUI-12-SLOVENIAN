@@ -2219,6 +2219,7 @@ vašega igranja"</string>
      <string name="gd_setting_title">Stranska vrstica</string>
      <string name="gd_setting_vtb">Prikaži med predvajanjem videoposnetkov</string>
      <string name="gd_setting_vtb_desc">Posebne storitve za predvajanje videa</string>
+     <string name="gd_splite_screen_tips">"Razdeljeni zaslon ne podpira plavajočih oken"</string>
      <string name="gdpr_msg">"&lt;Data&gt;"Da boste zaznali varnostna tveganja in zaščitili vaše podatke, moramo zbrati potrebno količino informacij o vaši napravi. Preberite in se strinjajte z &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo naših storitev. V primeru, da nam ne dovolite zbiranja takšnih podatkov, boste to aplikacijo še vedno lahko uporabljali, vendar vam nekatere storitve ne bodo na voljo. "&lt;/Data&gt;</string>
      <string name="get_detail_by_click">Tapnite za prikaz posrobnosti</string>
      <string name="get_sys_info">Dobivanje informacij…</string>
@@ -3291,6 +3292,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="pc_abnormal_scan_reason_use_GPS">Prepogosto uporablja storitve lokacije</string>
      <string name="pc_abnormal_scan_reason_wake_system">Prepogosto zbuja sistem</string>
      <string name="pc_activity_title">Optimiziraj baterijo</string>
+     <string name="pc_battery_chart_loading">Delam…</string>
      <string name="pc_battery_detail_curve_reference_now">Zdaj</string>
      <string name="pc_battery_detail_device_item_title">Statistika porabe baterije</string>
      <string name="pc_battery_history_battery_detail_menu_item">Podrobnosti</string>
@@ -5925,6 +5927,7 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
      <string name="vb_ve_settings_picture_stronger">Izboljšane animacije</string>
      <string name="vb_video_effects_3d">Prostorski zvok</string>
      <string name="vb_video_effects_3d_summary">Izboljšajte globino reprodukcije zvoka za slušalke in zvočnike</string>
+     <string name="vb_video_effects_3d_summary_headset">Povečajte občutek potopljenosti in zaokroženosti pri poslušanju zvoka v slušalkah</string>
      <string name="vb_video_effects_3d_surround">Prostorski zvok</string>
      <string name="vb_video_effects_display_style">Stil</string>
      <string name="vb_video_effects_dolby">Dolby Atmos</string>

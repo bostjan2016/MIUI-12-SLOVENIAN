@@ -104,6 +104,7 @@
      <string name="account_verify_guide_bind_mail_desc">Dodajte obnovitveni e -poštni naslov</string>
      <string name="account_verify_guide_bind_phone_desc">Dodajte obnovitveni telefon</string>
      <string name="account_verify_guide_set_password_desc">Nastavite geslo</string>
+     <string name="account_verify_guide_verify_phone_desc">Potrdite obnovitveni telefon</string>
   <string name="account_vip_achievements">Dosežki</string>
   <string name="account_vip_level">Račun</string>
   <string name="account_xiaomi_service">Storitve</string>
@@ -151,6 +152,10 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa ."</string>
   <string name="cloud_description_closed">Zasedeno | Sinhr. je izključena</string>
   <string name="cloud_description_normal">Zasedeno</string>
   <string name="cloud_service">Mi Cloud</string>
+     <string name="cloud_service_status_backup_not_open">Varnostno kopiranje je izklopljeno</string>
+     <string name="cloud_service_status_cloud_not_open">Izklopljeno</string>
+     <string name="cloud_service_status_storage_full">Pomnilnik je poln</string>
+     <string name="cloud_service_status_storage_not_enough">Ni dovolj prostora</string>
   <string name="collect_diagnosis_log">Zberi zapise pregleda</string>
   <string name="com_facebook_device_auth_instructions">Obiščite &lt;b&gt;facebook.com/device&lt;/b&gt; in vnesite zgoraj navedeno kodo.</string>
   <string name="com_facebook_image_download_unknown_error">Nepričakovana napaka med prenosom slike.</string>
@@ -505,6 +510,8 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="notify_network_restricted_content_hidden_state">"Aktivnost Mi Računa v ozadju je omejena. Tapnite za odobritev."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Račun nima dostopa do spleta. Tapnite za odobritev."</string>
   <string name="notify_network_restricted_title">"Mi Račun se ne more povezati na omrežje"</string>
+     <string name="notify_verify_again_security_phone">Potrdi</string>
+     <string name="notify_verify_security_phone">Telefon</string>
   <string name="oauth_get_scopes_failed">"Ne morem dobiti informacije o računu"</string>
   <string name="oauth_getting_scopes">Kontrola računa…</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; bo dobil naslednja dovoljenja:&lt;br&gt; &lt;br&gt; %3$s</string>

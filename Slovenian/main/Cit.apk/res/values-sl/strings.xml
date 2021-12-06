@@ -274,6 +274,7 @@ in polnilec obrnite nazaj"</string>
      <string name="cit_charger_test_tips_pd">Trenutni projekt mora preizkusiti USB_PD</string>
   <string name="cit_charger_waiting_in">Priključite polnilec</string>
   <string name="cit_charger_waiting_out">Izključite polnilec</string>
+     <string name="cit_cust_img_version">Poizvedba o podatkih o različici CUST</string>
      <string name="cit_def_torch_on_one">Vklopite prvo bliskavico</string>
      <string name="cit_def_torch_on_three">Vklopite tretjo bliskavico</string>
      <string name="cit_def_torch_on_two">Vklopite drugo bliskavico</string>

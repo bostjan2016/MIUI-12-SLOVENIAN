@@ -1831,6 +1831,7 @@ Z %2$s še niste bili povezani."</string>
   <string name="bluetooth_profile_pbap_summary">Uporablja se za dajanje stikov v skupno rabo</string>
   <string name="bluetooth_profile_sap">Uporablja se za dostop do kartice SIM</string>
      <string name="bluetooth_profile_vcp">Nadzor glasnosti</string>
+     <string name="bluetooth_profile_volume_control">KONTROLA_GLASNOSTI</string>
   <string name="bluetooth_quick_toggle_summary">Vklopi Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_remember_choice">Ne sprašuj več</string>
@@ -3140,6 +3141,8 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
   <string name="deselect_all">Prekliči izbrano</string>
   <string name="detail_app_button">Informacije o aplikaciji</string>
   <string name="detail_question">Podrobnosti</string>
+     <string name="detailed_wifi_logging_disabled">Podrobno beleženje Wi-Fi je izklopljeno</string>
+     <string name="detailed_wifi_logging_enabled">Podrobno beleženje Wi-Fi je vklopljeno</string>
   <string name="details_subtitle">Podrobnosti uporabe</string>
   <string name="details_title">Podrobnosti uporabe</string>
     <string name="dev_logpersist_clear_warning_message">Ko prenehamo spremljanje s trajnim dnevniškim orodjem, moramo podatke tega orodja, shranjene v napravi, izbrisati.</string>
@@ -4468,7 +4471,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="game_settings_summary">Vklop bližnjice na nadzorni plošči igre itd</string>
     <string name="game_settings_title">Nastavitve iger</string>
     <string name="game_storage_settings">Igre</string>
-     <string name="gd_setting_title">Pametna orodja</string>
+     <string name="gd_setting_title">Stranska vrstica</string>
     <string name="general_category_title">Splošno</string>
     <string name="general_notification_header">Upravljanje</string>
      <string name="general_text">Polje za besedilo</string>
@@ -5822,7 +5825,7 @@ kot PIN za Prvi prostor"</string>
   <string name="macaddr_label">MAC naslov:</string>
      <string name="magic_list_empty_text">Trenutno ni nobene aplikacije, združljive s to storitvijo</string>
      <string name="magic_list_empty_text_pad">Trenutno ni nobene aplikacije, združljive s to storitvijo</string>
-     <string name="magic_window_name">Optimiziraj aplikacije za ležeči prikaz</string>
+     <string name="magic_window_name">Vzporedna okna</string>
      <string name="magic_window_name_pad">Optimiziraj aplikacije za ležeči prikaz</string>
   <string name="mah">%d mAh</string>
     <string name="main_clear_accounts">"
@@ -6080,6 +6083,7 @@ Tega ne morete povrniti!"</string>
   <string name="memory_usage">Uporaba pomnilnika</string>
   <string name="memory_usage_apps">Pomnilnik ki ga uporabljajo aplikacije</string>
     <string name="memory_use_summary">Povprečno uporabljenega pomnilnika v zadnjih 3 urah: %1$s</string>
+     <string name="memorycard_calculating">Izračunavam…</string>
     <string name="menu_cancel">"Zavrzi"</string>
   <string name="menu_check">Izkušnja</string>
   <string name="menu_delete">Izbriši APN</string>
@@ -11322,7 +11326,7 @@ Iz profila bodo prav tako odstranjeni shranjeni prstni odtisi, tako da z njimi n
   <string name="unlogin_account_summary">Vse Mi storitve. En Mi Račun</string>
   <string name="unlogin_account_title">Prijavite se v Mi Račun</string>
   <string name="unmount_inform_text">Pomnilnik USB bo izpet.</string>
-  <string name="unmute_sound_title">Zvok izklopa utišanja</string>
+  <string name="unmute_sound_title">Predvajaj zvok, ko je tihi način izklopljen</string>
   <string name="unrestrict_max_aspect_ratio_title">Te aplikacije so optimizirane za cel zaslon</string>
     <string name="unrestricted_app_summary">Dovoli neomejen podatkovni dostop, ko je vklopljeno varčevanje s podatki</string>
     <string name="unrestricted_app_title">Neomejen podatkovni prenos</string>

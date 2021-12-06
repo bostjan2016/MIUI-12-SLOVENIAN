@@ -172,10 +172,11 @@
      <string name="accessibility_preview_selected">Izbrano</string>
      <string name="accessibility_preview_shrink">Oddalji</string>
      <string name="accessibility_preview_zoom_tip">%1$.1fX zoom predogled</string>
-     <string name="accessibility_pro_parameters_panel_on">Odpri meni s parametri PRO</string>
+     <string name="accessibility_privacy_watermark">Zaščitni vodni žig</string>
+     <string name="accessibility_pro_parameters_panel_on">Odpri meni z parametri PRO</string>
      <string name="accessibility_pro_video_simple_mode">Lite način</string>
      <string name="accessibility_protrait">Portret</string>
-     <string name="accessibility_pull_down_to_open_camera">Potegni dol dolje za odpiranje kamere</string>
+     <string name="accessibility_pull_down_to_open_camera">Potegni dol za odpiranje kamere</string>
      <string name="accessibility_record_button">Tipka Snemanje</string>
      <string name="accessibility_reduce">Oddalji</string>
      <string name="accessibility_reference_line_image_off">Mrežne črte niso prikazane</string>
@@ -586,6 +587,10 @@ in za trenutek zapustite pregled"</string>
      <string name="dialog_google_lens_option_0">Google Leče (priporočeno)</string>
      <string name="dialog_ok">V redu</string>
      <string name="dialog_ok_time">V redu (%ds)</string>
+     <string name="dialog_privacy_watermark_button_cancel">Prekliči</string>
+     <string name="dialog_privacy_watermark_button_input">Vstop</string>
+     <string name="dialog_privacy_watermark_msg">Vnesite besedilo</string>
+     <string name="dialog_privacy_watermark_title">Zaščitni vodni žig</string>
      <string name="dirty_tip_toast">Leča je umazana. Očistite jo.</string>
      <string name="disable_video_snapshot_hint">Snemanje videa je onemogočeno kadar so vključeni posebni efekti.</string>
      <string name="do_not_remind_me">"Ne kaži več"</string>
@@ -1233,6 +1238,8 @@ zgledali večji na fotografijah"</string>
      <string name="network_connection_prerequisites_china">Vklopite Bluetooth in WiFi v Centru za kontrolo, če želite uporabljati snemanje z dvojnim telefonom.</string>
      <string name="network_connection_rejected">Zavrnjeno</string>
      <string name="network_connection_timed_out">Povezava potekla</string>
+     <string name="newbie_privacy_watermark_msg">Uporabite vodne žige, da zaščitite svoje dokumente pred nepooblaščenim kopiranjem</string>
+     <string name="newbie_privacy_watermark_title">Zaščitite svoje dokumente</string>
      <string name="night">Večer</string>
      <string name="no_save">"Ne shrani"</string>
      <string name="no_storage">Pred uporabo kamere vstavite SD kartico.</string>
@@ -1323,6 +1330,7 @@ pritisnite sprožilec"</string>
      <string name="pm">pop.</string>
      <string name="popup_tip_3d_beauty_intro_text">3D olepšanje</string>
      <string name="popup_tips_near_range_mode">Način zapiranja</string>
+     <string name="popup_tips_privacy_watermark_edit">Uredite vodni žig</string>
      <string name="portait_effect_entry_blackwhite">B&amp;W</string>
      <string name="portait_effect_entry_cool">Mint</string>
      <string name="portait_effect_entry_dusk">Zora</string>
@@ -1927,6 +1935,11 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_popup_camera_title">Pop-up kamera</string>
      <string name="pref_priority_storage_title">Shrani na SD kartico</string>
      <string name="pref_privacy_title">Pravila o zasebnosti</string>
+     <string name="pref_privacy_watermark_edit">Besedilo po meri</string>
+     <string name="pref_privacy_watermark_edit_clear_history">Izbriši zgodovino</string>
+     <string name="pref_privacy_watermark_edit_history">Zgodovina</string>
+     <string name="pref_privacy_watermark_entry">Zaščitni vodni žig</string>
+     <string name="pref_privacy_watermark_switch">Pokaži stikalo za vodni žig</string>
      <string name="pref_pro_video_volumekey_function_default">sprožilec</string>
      <string name="pref_qc_focus_position_title">Fokus</string>
      <string name="pref_retain_ai_scene">AI kamera</string>

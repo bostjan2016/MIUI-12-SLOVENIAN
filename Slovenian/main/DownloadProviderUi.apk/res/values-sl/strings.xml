@@ -16,7 +16,7 @@
      <string name="abc_capital_on">VKLOP</string>
      <string name="abc_menu_alt_shortcut_label">Alt +</string>
      <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
-     <string name="abc_menu_delete_shortcut_label">delete</string>
+     <string name="abc_menu_delete_shortcut_label">izbriši</string>
      <string name="abc_menu_enter_shortcut_label">enter</string>
      <string name="abc_menu_function_shortcut_label">Fn +</string>
      <string name="abc_menu_meta_shortcut_label">Meta +</string>
@@ -457,6 +457,7 @@ Pošljite to kodo tehnikom."</string>
      <string name="pref_download_revert_default">Shrani na privzeto lokacijo</string>
      <string name="pref_download_settings_title">Omejitev velikosti prenosa</string>
      <string name="pref_download_storage_path">Naredi novo mapo za prenose</string>
+     <string name="pref_download_storage_path_2">Lokacija za prenesene stvari</string>
      <string name="pref_permission_description">Podrobnosti o dovoljenjih</string>
      <string name="pref_sniff_shortcut">Naredi bližnjico</string>
      <string name="pref_summary_any_bytes_popup">Vedno čakaj na WiFi povezavo za prenos datotek</string>

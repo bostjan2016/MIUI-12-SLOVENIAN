@@ -185,7 +185,7 @@
      <string name="accessibility_keyguard_face_unlock_view">Odklepanje z obrazom</string>
      <string name="accessibility_left_control_center_button">Bližnjica</string>
      <string name="accessibility_left_lock_screen_magazine_button">Glasba</string>
-     <string name="accessibility_left_xmyzl_button">Xiaomi Čarobna Kontrola</string>
+     <string name="accessibility_left_xmyzl_button">Xiaomi Hitra povezava</string>
      <string name="accessibility_location_active">Zahteve za lokacijo so aktivne</string>
      <string name="accessibility_lock_icon">Naprava je zaklenjena.</string>
      <string name="accessibility_long_click_tile">Odpiranje nastavitev</string>
@@ -1069,6 +1069,7 @@ Izbor"</string>
      <string name="face_unlock_fail_retry">"Ne morem prepoznati obraza. Tapnite zgoraj za ponovni poskus."</string>
      <string name="face_unlock_fail_retry_global">Tapnite zgoraj da uporabite odklep z obrazom</string>
      <string name="face_unlock_identify_error">Prišlo je do napake pri prepoznavanju</string>
+     <string name="face_unlock_locked">"Trenutno ne morem uporabiti odklepanja z obrazom"</string>
      <string name="face_unlock_not_found">"Ne morem vas prepoznati"</string>
      <string name="face_unlock_not_roi">Imejte obraz znotraj okvirja</string>
      <string name="face_unlock_offset_bottom">Malo spustite telefon</string>
@@ -1364,8 +1365,10 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
      <string name="input_password_hint_text">Vnesite geslo</string>
      <string name="input_password_hint_text_v11">Vnesite geslo</string>
      <string name="input_pattern_after_boot_msg">Ob ponovnem zagonu naprave morate narisati vzorec</string>
+     <string name="input_pattern_after_face_not_allowed">Vnesite geslo vsaj enkrat vsakih %d ur, da obdržite to napravo varno</string>
      <string name="input_pattern_hint_text">Narišite svoj vzorec za odklep</string>
      <string name="input_pattern_hint_text_v11">Narišite vzorec</string>
+     <string name="input_pattern_or_finger_after_face_not_allowed">Vnesite svoje geslo ali uporabite prstni odtis vsaj enkrat vsakih %d ur, da obdržite to napravo varno</string>
      <string name="input_pin_after_boot_msg">Ko se naprava znova zažene, morate vnesti kodo PIN</string>
      <string name="input_pin_code">Vnesite PIN</string>
      <string name="input_pin_hint_text_v11">Vnesite PIN</string>
@@ -2196,7 +2199,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="open_lock_screen_magazine_hint_text">Povlecite desno za odpiranje bližnjic</string>
      <string name="open_remote_center_hint_text">Povlecite desno za prikaz bližnjic</string>
      <string name="open_saver_setting_action">Nastavitve</string>
-     <string name="open_xmyzl_hint_text">Podrsajte desno za odpiranje Xiaomi Magic Control</string>
+     <string name="open_xmyzl_hint_text">Podrsajte desno za odpiranje Xiaomi Hitri dostop</string>
      <string name="orb_search_action">Dejanje iskanja</string>
      <string name="osu_completing_sign_up">Zaključevanje registracije…</string>
      <string name="osu_connect_failed">Ne morem se povezati</string>

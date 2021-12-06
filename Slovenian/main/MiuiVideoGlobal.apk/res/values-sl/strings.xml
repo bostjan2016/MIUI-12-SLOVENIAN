@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="Earlier">Prej</string>
+     <string name="Earlier">Prej</string>
      <string name="This_week">Ta teden</string>
      <string name="Today">Danes</string>
      <string name="Yesterday">Včeraj</string>
@@ -314,10 +314,11 @@ Pošljite to kodo nadzorniku."</string>
      <string name="dialog_privacy_info_new4">"Dobrodošli v Mi Video! Ta aplikacija ponuja naslednje storitve:&lt;br>&lt;/br> - Spletne storitve pretakanja&lt;br>&lt;/br>- Lokalni video predvajalnik&lt;br>&lt;/br>Mi Video mora zbrati potrebne osebne podatke, da vam omogoči osnovne storitve. Kako ravnamo s podatki, ki jih zbiramo, lahko izveste v našem pravilniku o zasebnosti. Povezane nastavitve boste lahko spremenili v Nastavitve> Gesla &amp;amp; Varnost.&lt;br>&lt;/br>Preberite in se strinjajte z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> pred uporabo Mi Video."</string>
      <string name="dialog_privacy_revoke_cancel">Prekliči</string>
      <string name="dialog_privacy_revoke_count_down">Preklic soglasja (%1$ds)</string>
-     <string name="dialog_privacy_revoke_description">Z izklopom stikala umaknete soglasje k Pravilniku o zasebnosti Mi Video. Nehali bomo zbirati vaše osebne podatke. Že zbrani in hranjeni osebni podatki bodo izbrisani v določenem roku, kot to zahteva veljavna zakonodaja. Vaš umik soglasja s politiko zasebnosti bo zavrnil sprejemanje spletnih storitev na podlagi zbranih osebnih podatkov.</string>
+     <string name="dialog_privacy_revoke_description">Preklicali boste svoje soglasje s politiko zasebnosti Mi Video. Vaše osebne podatke bomo nehali zbirati. Osebni podatki, ki so že zbrani in shranjeni, bodo izbrisani v določenem roku, kot zahteva veljavna zakonodaja. Vaš preklic soglasja s politiko zasebnosti bo obravnavan kot zavrnitev sprejemanja spletnih storitev na podlagi zbranih osebnih podatkov.</string>
      <string name="dialog_privacy_revoke_fail">Vaša naprava se mora povezati z omrežjem, da boste lahko umaknili soglasje. Preverite omrežne nastavitve in poskusite znova.</string>
      <string name="dialog_privacy_revoke_ok">Preklic soglasja</string>
      <string name="dialog_privacy_revoke_success">Preklic soglasja uspešen</string>
+     <string name="dialog_privacy_revoke_title">Preklic soglasja</string>
      <string name="dialog_privacy_revoking">Preklic soglasja…</string>
      <string name="dialog_privacy_title">Pogoji in pravila</string>
      <string name="dialog_revoke_privacy_info_new2">Ko prekličete dovoljenje bo aplikacija prenehala zbirati podatke, vsi povezani podatki pa bodo izbrisani iz naših strežnikov. Zaradi tega je lahko aplikacija tako rekoč neuporabna. Želite vseeno preklicati dovoljenje?</string>
@@ -328,7 +329,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="disagree">"Ne strinjam se"</string>
      <string name="diy_channels_tips">Zdaj si lahko prilagodite seznam kanalov.</string>
      <string name="do_not_show_again">Ne kaži več</string>
-     <string name="download">Prenos</string>
+     <string name="download">Prenosi</string>
      <string name="download_checking_tip">Pripravljanje na prenos…</string>
      <string name="download_complete">Prenešeno</string>
      <string name="download_completed_push_title">Prenos končan</string>
@@ -1361,7 +1362,10 @@ Izboljša varnost vašega računa."</string>
      <string name="popup_click_for_download_video">Prenesi video</string>
      <string name="popup_pip_activate_button">Nastavitve</string>
      <string name="popup_pip_not_activated">Najprej dovolite Mi Video, da uporabi sliko v sliki.</string>
-     <string name="privacy_revoke_setting">Z izklopom stikala umaknete soglasje k Pravilniku o zasebnosti Mi Video.</string>
+     <string name="privacy_agree_subtitle">Soglasje s politiko zasebnosti vam omogoča uporabo vseh storitev Mi Video</string>
+     <string name="privacy_agree_title">Soglasje</string>
+     <string name="privacy_revoke_setting">Z izklopom stikala umaknete soglasje k Pravila o zasebnosti Mi Video.</string>
+     <string name="privacy_revoke_subtitle">Preklic soglasja k Pravila o zasebnosti Mi Video</string>
      <string name="privacy_revoke_title">Preklic soglasja</string>
      <string name="pro_prize_popup_style_one">Umakni reklame za %s</string>
      <string name="pro_prize_popup_style_two">Odkleni več storitev za %s</string>
@@ -1544,6 +1548,8 @@ Izboljša varnost vašega računa."</string>
      <string name="tab_name_moment">Trenutki</string>
      <string name="tab_name_trending">V trendu</string>
      <string name="tab_name_video">Videoposnetki</string>
+     <string name="talkback_ad_clicked">Oglasi</string>
+     <string name="talkback_background_playback">Predvajanje v ozadju</string>
      <string name="target_sdk_version_30_upgrade_tips">Nekaterih videoposnetkov si tukaj morda ne boste mogli ogledati zaradi omejitev Android 11. Tapnite \"Datoteke\", da poiščete druge videoposnetke.</string>
      <string name="temporary_not_available">Ta storitev še ni na voljo</string>
      <string name="the_item_choosed_tint">%s izbrano</string>

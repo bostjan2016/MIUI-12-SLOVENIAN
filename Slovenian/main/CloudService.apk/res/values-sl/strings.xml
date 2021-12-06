@@ -1197,6 +1197,12 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
      <string name="unactivated_user">Odjavljen</string>
+     <string name="update_dialog_check_button_text">Preveri za posodobitve</string>
+     <string name="update_dialog_ignore_button_text">Ne, hvala</string>
+     <string name="update_dialog_no_internet_toast_text">Preverite spletno povezavo in poskusite znova</string>
+     <string name="update_dialog_no_update_toast_text">Nameščena verzija je zadnja</string>
+     <string name="update_dialog_title">Na voljo je posodobitev</string>
+     <string name="update_dialog_update_button_text">Posodobi</string>
      <string name="upgrade_space">Dodaj prostor</string>
      <string name="upgrade_space_gb">GB</string>
      <string name="upgrade_space_mibipreyear">%s Mi kreditov na leto</string>

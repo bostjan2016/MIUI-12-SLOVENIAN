@@ -211,6 +211,7 @@
      <string name="bluetooth_profile_pbap_summary">Uporabi za dajanje stikov v skupno rabo</string>
      <string name="bluetooth_profile_sap">Dostop do kartice SIM</string>
      <string name="bluetooth_profile_vcp">Nadzor glasnosti</string>
+     <string name="bluetooth_profile_volume_control">KONTROLA_GLASNOSTI</string>
      <string name="bluetooth_sap_profile_summary_connected">Vzpostavljena povezava s profilom SAP</string>
      <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do kartice SIM</string>
      <string name="bluetooth_search_for_devices">najdi naprave</string>

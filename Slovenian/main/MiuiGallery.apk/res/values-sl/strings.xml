@@ -152,6 +152,13 @@
      <string name="album_page_empty">Prazno</string>
      <string name="album_page_label">Albumi</string>
      <string name="album_pano_name">Panorame</string>
+     <string name="album_permission_activity_title">Urejanje dovoljenj</string>
+     <string name="album_permission_state_granted">Dovoljeno</string>
+     <string name="album_permission_state_non_granted">Dovoli</string>
+     <string name="album_permission_subtitle_single">%2$d album (%1$s)</string>
+     <string name="album_permission_tip_text">Galerija potrebuje dovoljenja, da lahko sinhronizira, ureja in upravlja spodaj prikazane stvari.</string>
+     <string name="album_permission_title_granted">Dovoljeno</string>
+     <string name="album_permission_title_non_granted">Ni dovoljeno</string>
      <string name="album_quota_fulfiled">Preveč albumov. Izbriši nekaj albumov in poskusi ponovno.</string>
      <string name="album_rubbish_cant_change_status">"Ne morem sinhronizirati albume premeščene v smeti"</string>
      <string name="album_rubbish_clear_all_item_description">Izbriši smeti</string>
@@ -295,6 +302,7 @@
      <string name="backup_device_space_low_title">Ni dovolj prostora</string>
      <string name="backup_dirty_num">Skupaj: %s</string>
      <string name="backup_dirty_tip">Fotografije in videoposnetki niso shranjeni</string>
+     <string name="backup_disable_message">Galerija mora počistiti predpomnilnik aplikacije, ker ste izklopili sinhronizacijo z oblakom.</string>
      <string name="backup_file_over_size_desc">"Fotografije večje od %1$s in videoposnetki večji od %2$s se ne morejo shraniti."</string>
      <string name="backup_immediately">Shrani</string>
      <string name="backup_need_sync_desc">Pritisni tipko za nadaljevanje</string>
@@ -335,7 +343,7 @@
      <string name="base_btn_download">Prenesi</string>
      <string name="begin_share">Končana izdelava otroškega albuma \"%s\", delite ga zdaj</string>
      <string name="begin_share_toast">Napravim zasebni album za tega otroka pred deljenjem?</string>
-     <string name="filter_category_black_white">B&amp;W</string>
+     <string name="black_white">Flat C&amp; B</string>
      <string name="blackshark">Black Shark</string>
      <string name="blackshark_1">Black Shark</string>
      <string name="blackshark_2">Black Shark 2</string>
@@ -636,6 +644,7 @@
      <string name="default_relation_name">Nova skupina</string>
      <string name="define_by_user">Prilagojeno</string>
      <string name="delete">Izbriši</string>
+     <string name="delete_account_message">Galerija mora počistiti predpomnilnik aplikacije, ker ste se odjavili iz računa Mi.</string>
      <string name="delete_album_failed">"Ne morem izbrisati."</string>
      <string name="delete_album_msg_format">Izbrišem album \"%2$s\" %1$s %3$s?</string>
      <string name="delete_album_msg_format_cloud">Izbrišem %1$s %2$s iz Mi Clouda in vseh sinhroniziranih naprav?</string>
@@ -669,6 +678,12 @@
      <string name="device_status_sending">Pošiljanje…</string>
      <string name="device_status_success">Uspešno poslano</string>
      <string name="device_status_waiting">Na čakanju…</string>
+     <string name="device_storage_space_low_dialog_des">Shranite izvirne fotografije in videoposnetke v oblak, medtem ko v tej napravi hranite manjše visokokakovostne kopije, da sprostite %s prostora za shranjevanje.</string>
+     <string name="device_storage_space_low_dialog_title">Ni dovolj prostora za shranjevanje</string>
+     <string name="device_storage_space_low_notice_des">Sinhronizirajte fotografije in videoposnetke z oblakom, da sprostite %s</string>
+     <string name="device_storage_space_low_notice_title">Zmanjkuje prostora za shranjevanje</string>
+     <string name="device_storage_space_low_textline_button">Začni</string>
+     <string name="device_storage_space_low_textline_des">"Osvobodite %s prostora. "</string>
      <string name="device_type_pc">Računalnik</string>
      <string name="disable_auto_upload_tip">"Izključim sinhr. z Mi Cloudom za ta album?"</string>
      <string name="disable_auto_upload_title">Izključi sinhr. z Mi Cloud</string>
@@ -820,6 +835,8 @@
      <string name="error_storage_full_action">Sprostite prostor za shranjevanje</string>
      <string name="error_storage_full_msg">Sprostite prostor za shranjevanje na napravi in poskusite ponovno.</string>
      <string name="error_storage_full_tip">Ni dovolj prostora za shranjevanje</string>
+     <string name="error_storage_no_write_permission_tip_action">Dovoli</string>
+     <string name="error_storage_no_write_permission_tip_title">"Nekateri albumi zahtevajo dovoljenja za sinhronizacijo. "</string>
      <string name="error_sync_off_action">Vključi</string>
      <string name="error_sync_off_msg">"Preverite če ste vključili sinhronizacijo s Mi Cloudom."</string>
      <string name="error_sync_off_tip">Sinhr. je izključena</string>
@@ -1004,6 +1021,7 @@ za fotografije"</string>
      <string name="filter_popular_autumn">Jesen</string>
      <string name="filter_popular_blackred">Sangria</string>
      <string name="filter_popular_bluedream">Dremanje</string>
+     <string name="filter_popular_blues">Blues</string>
      <string name="filter_popular_coffee">Kava</string>
      <string name="filter_popular_coldsmoke">Cool mist</string>
      <string name="filter_popular_comic">Anime</string>
@@ -1028,6 +1046,7 @@ za fotografije"</string>
      <string name="filter_popular_smokegreen">Sage</string>
      <string name="filter_popular_summercloud">Vesper</string>
      <string name="filter_popular_sunset">Sončni zahod</string>
+     <string name="filter_popular_sunset_gold">Sijaj</string>
      <string name="filter_popular_wakakusa">Wakakusa</string>
      <string name="filter_popular_watergreen">Emerald</string>
      <string name="filter_popular_windchime">Zvonček</string>
@@ -1233,6 +1252,7 @@ za fotografije"</string>
      <string name="help">"Ne najdete naprav?"</string>
      <string name="help_content">"Če ne najdete potrebne naprave prosite drugo osebo da vključi Mi Share."</string>
      <string name="hidden_album_display_name">Skriti album</string>
+     <string name="hide_nearby_photos">Skrij fotografije in videoposnetke v bližini</string>
      <string name="highlight">Poudarki</string>
      <string name="hisense">Hisense</string>
      <string name="hisense_phone">Hisense</string>
@@ -1308,6 +1328,7 @@ za fotografije"</string>
      <string name="input_or_select_a_name">Vnesite ali izberite ime</string>
      <string name="input_relation_name">Vnesi ime skupine</string>
      <string name="install_fail">"Ne morem prebrati dodatka zaradi napake."</string>
+     <string name="install_media_editor_latest_message">Če želite urejati stvari, najprej prenesite vtičnik.</string>
      <string name="install_media_editor_message">Če želite urejati stvari, najprej prenesite vtičnik. Prenesem zdaj?</string>
      <string name="install_media_editor_title">Prenesi vtičnik</string>
      <string name="internal_storage_device">Notranji pomnilnik</string>
@@ -1340,7 +1361,7 @@ za fotografije"</string>
      <string name="kilobyteShort">KB</string>
      <string name="limit_height">Višina mora biti &gt; 0</string>
      <string name="limit_width">Širina mora biti &gt; 0</string>
-     <string name="live_photo">Fotografija v živo</string>
+     <string name="live_photo">Dinamičen posnetek</string>
      <string name="load_complete">Tu ni ničesar</string>
      <string name="load_failed">"Ne morem prebrati podatke, tapnite za ponovni poskus"</string>
      <string name="load_relations">Samo trenutek…</string>
@@ -1490,6 +1511,7 @@ za fotografije"</string>
      <string name="map_grant_position_permission_after_declined_twice_message">Če si želite ogledati fotografije in videoposnetke na zemljevidu, najprej omogočite Galeriji dostop do vaše lokacije.</string>
      <string name="map_grant_position_permission_subtitle">Za prikaz bližnjih fotografij in video posnetkov na zemljevidu</string>
      <string name="map_guide_message">Oglejte si fotografije in videoposnetke na zemljevidu</string>
+     <string name="map_location">Premakni na trenutno lokacijo</string>
      <string name="map_positioning_failed_tip">"Podatkov o lokaciji ni mogoče dobiti zaradi šibkega signala"</string>
      <string name="map_privacy_dialog_message"><Data>Ta storitev vam omogoča ogled fotografij in videoposnetkov z informacijami o lokaciji na zemljevidu. Za zagotavljanje te storitve uporabljamo Baidu Map Open SDK. Preberite &lt;a href=\"%1$s\">Baidu Zemljevid Pravila o zasebnosti Izdelki in storitve odprte platforme&lt;/a> za več informacij.</Data></string>
      <string name="map_privacy_dialog_title">Galerija zemljevid</string>
@@ -1541,6 +1563,13 @@ za fotografije"</string>
      <string name="mi_pad_5_pro_5g">Xiaomi Pad 5 Pro 5G</string>
      <string name="micloud_introduce">Samodejno sinhroniziraj fotografije in videoposnetke (potreben je Mi Račun)</string>
      <string name="midnight">Polnoč</string>
+     <string name="migrate_msg">Nekateri albumi zahtevajo dovoljenja za premikanje stvari po posodobitvi sistema.</string>
+     <string name="miplay_adjust_volume">Nastavite glasnost na %d</string>
+     <string name="miplay_pause_video">Premor</string>
+     <string name="miplay_play_video">Predvajaj</string>
+     <string name="miplay_seekbar_content_description">Napredek predvajanja: %1$s %2$s</string>
+     <string name="miplay_stop_video">Ustavi predvajanje videa</string>
+     <string name="miplay_volume_btn">Glasnost</string>
      <string name="mishare_all_devices">Vse naprave</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Indeksna vrstica</string>
@@ -1635,7 +1664,7 @@ za fotografije"</string>
      <string name="mosaic_item_talkback_effect8">Rože</string>
      <string name="mosaic_item_talkback_effect9">Zvezde</string>
      <string name="mosaic_item_talkback_eraser">Radirka</string>
-     <string name="motion_photo_enter" />
+     <string name="motion_photo_enter">Dinamičen posnetek</string>
      <string name="motion_photo_play">Predvajaj</string>
      <string name="move_to_other_albums_tip">Premestim ta album v album Ostalo?</string>
      <string name="move_to_rubbish_albums_tip">Premestim izbrane albume v smeti?</string>
@@ -1769,6 +1798,7 @@ za fotografije"</string>
      <string name="ok">V redu</string>
      <string name="old">Staro</string>
      <string name="onekey_auto">Avto</string>
+     <string name="onekey_beautify_tag_done">Učinki uporabljeni</string>
      <string name="onekey_food">Hrana</string>
      <string name="onekey_none">Original</string>
      <string name="onekey_portrait">Portret</string>
@@ -1849,6 +1879,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="operation_unforce_top">Odstrani z vrha</string>
      <string name="operation_unhide">Pokaži</string>
      <string name="operation_video_compress">Strni videoposnetek</string>
+     <string name="operation_watermark">Zaščitni vodni žig</string>
      <string name="oppo">OPPO</string>
      <string name="oppo_phone">OPPO</string>
      <string name="orientation_lock_tip">Samod. vrtenje izključeno</string>
@@ -1892,8 +1923,13 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="permission_contacts_name">Stiki</string>
      <string name="permission_contacts_name_2">Dostop do stikov</string>
      <string name="permission_contract_name">Stiki</string>
+     <string name="permission_custom_cta_network_button_negative">"Ne strinjam se"</string>
+     <string name="permission_custom_cta_network_button_positive">Strinjam se</string>
+     <string name="permission_custom_cta_network_title">Pozor</string>
+     <string name="permission_location">Lokacija</string>
+     <string name="permission_location_desc">Za prikaz fotografij in videoposnetkov na zemljevidu</string>
      <string name="permission_optional_category">Izbirna dovoljenja</string>
-     <string name="permission_phone_desc">Za mrežne zahteve na temelju ID-a naprave</string>
+     <string name="permission_phone_desc">Za omrežne zahteve na temelju ID-a naprave</string>
      <string name="permission_phone_name">Telefon</string>
      <string name="permission_require_category">Obvezna dovoljenja</string>
      <string name="permission_storage_desc">Za prikaz, urejanje in shranjevanje fotografij</string>
@@ -1960,6 +1996,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Kaže da niste povezani na WiFi omrežje. Uporabim %1$d MB mob. podatkov za prenos dodatka?"</string>
      <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Kaže da niste povezani na WiFi omrežje. Uporabim %1$d MB mob. podatkov za prenos dodatka?"</string>
      <string name="photo_editor_navigator_sticker_download_without_wifi_title">Prenesi dodatek</string>
+     <string name="photo_editor_privacy_watermark">Zaščitni vodni žig</string>
      <string name="photo_editor_remove_watermark">Odstrani vodni žig</string>
      <string name="photo_editor_remove_watermark_on">Dodaj vodni žig</string>
      <string name="photo_editor_remover">Izbriši</string>
@@ -2019,6 +2056,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="photo_editor_talkback_sky_audio_open">Predvajaj zvok</string>
      <string name="photo_editor_talkback_undo">Razveljavi</string>
      <string name="photo_editor_text">Besedilo</string>
+     <string name="photo_editor_watermark_default">NE KOPIRAJ!</string>
      <string name="photo_font_cancel_download">Prekliči</string>
      <string name="photo_font_download">Prenesi</string>
      <string name="photo_font_download_failed_for_notwork">"Ne morem prenesti. Povežite se na omrežje in poskusite ponovno."</string>
@@ -2287,6 +2325,15 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="rubbish_album_move_to_other_album_success">Te stvari zdaj lahko pogledate v \"Ostali albumi\".</string>
      <string name="rubbish_nomedia_manager_button_text">Urejajte albume z \".nomedia\" datotekami</string>
      <string name="runtime_permission_ungranted">Aplikacija Galerija zaprta ker nima dovoljenja</string>
+     <string name="saf_hyper_link_text">Urejanje dovoljenj</string>
+     <string name="saf_operation_guide_1">"Galerija potrebuje vaše dovoljenje, da lahko zaščiti in upravlja vaše podatke. "</string>
+     <string name="saf_operation_guide_2">Da daste dovoljenje tapnite \"%1$s\" in potem izberite \"%2$s\".</string>
+     <string name="saf_operation_guide_param1">Naprej</string>
+     <string name="saf_operation_guide_param2">Dostop do te mape</string>
+     <string name="saf_requester_cancel">Prekliči</string>
+     <string name="saf_requester_title">Dovolite galeriji dostop do \"%s\"</string>
+     <string name="saf_secret_album">Zasebni album</string>
+     <string name="saf_secret_album_guide">Ta aplikacija potrebuje dovoljenja za prikaz stvari iz vašega zasebnega albuma.</string>
      <string name="same_name_album_exist_and_toast">"Album s istim imenom že obstaja. Namesto tega je izdelan '%s."</string>
      <string name="samsung">Samsung</string>
      <string name="samsung_phone">Samsung phone</string>
@@ -2303,6 +2350,14 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="scan_barcode_to_join">Skenirajte QR kodo za dodajanje albuma</string>
      <string name="scan_qr_code_buttom_text">Skenirajte QR kodo za ogled albuma</string>
      <string name="scanning_device_tips">Iskanje naprav v bližini… Preverite če se druga naprava nahaja v načinu odkrivanja.</string>
+     <string name="scope_storage_dialog_cancel_btn">Prekliči</string>
+     <string name="scope_storage_dialog_confirm_btn">Naprej</string>
+     <string name="scope_storage_dialog_description">Dovoljenja za galerijo so bila posodobljena. Dovolite Galeriji dostop do te mape, da si boste lahko ogledali njeno vsebino.</string>
+     <string name="scope_storage_dialog_guide_content"><Data>Tapnite &lt;b>\"%1$s\"&lt;/b> in potem izberite &lt;b>\"%2$s\"&lt;/b>.</Data></string>
+     <string name="scope_storage_dialog_guide_title">Kako dati dovoljenja</string>
+     <string name="scope_storage_dialog_title">Zahtevana so dovoljenja</string>
+     <string name="scope_storage_operation_btn_1">Shrani</string>
+     <string name="scope_storage_operation_btn_2">Dostop do te mape</string>
      <string name="screen_doodle_talkback_size">Doodle širina črte</string>
      <string name="screen_editor_btn_delete">Izbriši</string>
      <string name="screen_editor_btn_save">Shrani</string>
@@ -2477,6 +2532,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="show_in_other_albums_disable_toast_long_press_menu">Uspešno premeščeno, pojdite na albume Ostalo za pregled</string>
      <string name="show_in_other_albums_enable_toast_long_press_menu">Uspešno premeščeno, pojdite na Albumi za pregled</string>
      <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Premeščeno v smeti</string>
+     <string name="show_nearby_photos">Pokaži fotografije in videoposnetke v bližini</string>
      <string name="signature_dialog_clear">Očisti</string>
      <string name="signature_manage_dialog_title_string">Podpis</string>
      <string name="signature_view_add_signature_String">Dodaj podpis</string>
@@ -2615,6 +2671,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="sticker_tab_talkback_frog">Žaba</string>
      <string name="sticker_tab_talkback_graduate">Diploma</string>
      <string name="sticker_tab_talkback_graffito">Pisalo</string>
+     <string name="sticker_tab_talkback_halloween">Noč čarovnic</string>
      <string name="sticker_tab_talkback_line">Črte</string>
      <string name="sticker_tab_talkback_lovely">Prikupnost</string>
      <string name="sticker_tab_talkback_markpen">Marker</string>
@@ -3327,6 +3384,9 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="vlog_video_trans_code_cons">Uvažam…</string>
      <string name="voice_assistant">Glasovni vnos</string>
      <string name="watch_all_photo">Galerija</string>
+     <string name="watermark_enter">Zaščitni vodni žig</string>
+     <string name="watermark_summary">Prepoznajte fotografije ID-jev, shranjenih v tej napravi, in prejemajte pozive za dodajanje zaščitnih vodnih žigov</string>
+     <string name="watermark_title">Zaščitni vodni žig</string>
      <string name="web_sso_login_fail">Znova se morate prijaviti</string>
      <string name="web_sso_login_message">Prijava…</string>
      <string name="webview_reload">Poskusi ponovno</string>
