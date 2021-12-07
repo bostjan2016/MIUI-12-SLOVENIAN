@@ -1366,6 +1366,7 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
      <string name="input_password_hint_text_v11">Vnesite geslo</string>
      <string name="input_pattern_after_boot_msg">Ob ponovnem zagonu naprave morate narisati vzorec</string>
      <string name="input_pattern_after_face_not_allowed">Vnesite geslo vsaj enkrat vsakih %d ur, da obdržite to napravo varno</string>
+     <string name="input_pattern_after_restart_msg">Za nadaljevanje potrdite zaklepanje zaslona</string>
      <string name="input_pattern_hint_text">Narišite svoj vzorec za odklep</string>
      <string name="input_pattern_hint_text_v11">Narišite vzorec</string>
      <string name="input_pattern_or_finger_after_face_not_allowed">Vnesite svoje geslo ali uporabite prstni odtis vsaj enkrat vsakih %d ur, da obdržite to napravo varno</string>

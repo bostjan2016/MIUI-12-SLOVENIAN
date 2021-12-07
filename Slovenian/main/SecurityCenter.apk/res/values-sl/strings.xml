@@ -2099,7 +2099,7 @@ Posnemite zaporedja in jih kadar koli uporabite!"</string>
      <string name="gb_performance_mode">Način igre</string>
      <string name="gb_performance_tips">"Če dolgo uporabljate zmogljivi način delovanja
 lahko izprazni baterijo in povzroči pregrevanje"</string>
-  <string name="gb_shortcut_pref_title">Bližnjica zač. zaslona</string>
+     <string name="gb_shortcut_pref_title">Bližnjica zač. zaslona</string>
      <string name="gb_shoulder_key">Virtualne tipke</string>
      <string name="gb_shoulder_key_add_show_btn">Pokaži virtualne tipke med igranjem</string>
      <string name="gb_shoulder_key_add_tips">Premakni [L] in [D] tipko v poljuben funkcijski položaj in jih uporabite prek virtualnih gumbov</string>

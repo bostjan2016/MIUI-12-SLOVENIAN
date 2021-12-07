@@ -253,6 +253,7 @@
   <string name="allContactdeleteSuccess">Izbrisani so vsi stiki iz SIM</string>
   <string name="all_day">Cel dan</string>
   <string name="all_empty_alert">Vnesite podrobnosti novega SIP računa.</string>
+     <string name="allow">Dovoljeno</string>
   <string name="allow_mock_location">Dovoli testne lokacije</string>
   <string name="allow_mock_location_summary">Dovoli testne lokacije</string>
   <string name="already_auto">Samodejna izbira je odprta.</string>
@@ -275,6 +276,7 @@
   <string name="areacode_set_default">Privzeto</string>
      <string name="arrears_sim_summary">Dopolnite stanje telefona, da ostanete povezani</string>
      <string name="arrears_sim_title">Nezadostno sredstev</string>
+     <string name="ask">Vprašaj</string>
   <string name="atr_disable">Prometna poročila so izklopljena</string>
   <string name="atr_enable">Prometna poročila so vklopljena</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -2114,6 +2116,7 @@ Kontaktirajte vašega operaterja."</string>
   <string name="not_supported_number_content">"Paket doplačila ne podpira številke storitev. Namesto tega uporabite navadno SIM za klicanje. Stroški klica so vaš problem."</string>
   <string name="not_supported_number_content_title">Ni podprto</string>
   <string name="not_voice_capable">Glasovno klicanje ni podprto</string>
+     <string name="notallow">Ni dovoljeno</string>
   <string name="notification_action_end_call">Prekini povezavo</string>
   <string name="notification_channel_demo">Demo naprava</string>
     <string name="notification_channel_sip_account">Opuščeni računi SIP</string>
@@ -2148,6 +2151,8 @@ Kontaktirajte vašega operaterja."</string>
     <string name="numerous_emergency_numbers_title">Številke za klic v sili</string>
   <string name="nw_subset_unlock_failed">SIM odklep neuspešen</string>
   <string name="nw_subset_unlock_success">SIM odklep omrežja uspešen.</string>
+     <string name="obtain_location_information">Lokacija</string>
+     <string name="obtain_location_information_summary">Za optimizacijo trenutnega omrežnega okolja</string>
     <string name="oem_radio_info_label">Informacije/nastavitve za OEM</string>
   <string name="oem_unlock_enable">OEM odklep</string>
   <string name="oem_unlock_enable_summary">Naj bo koda za zagon sistema odklenjena</string>
@@ -2282,6 +2287,7 @@ Poskusite ponovno ali pokličite podporo"</string>
 "</string>
   <string name="pause_prompt_yes">Da</string>
   <string name="payphone">Telefonska govorilnica</string>
+     <string name="permission_description">Podrobnosti o dovoljenjih</string>
   <string name="phoneAppLabel">Telefon</string>
   <string name="phoneIconLabel">Telefon</string>
   <string name="phone_account_settings">Računi za klicanje</string>
@@ -2381,6 +2387,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="prefered_network_type_3g_promp">Preden izberete 3G kot prednostno omrežje morate izključiti VoLTE. Izključim zdaj?</string>
   <string name="preference_auto_ip_summary_disable">Izključeno</string>
     <string name="preference_category_ringtone">Zvonjenje in vibriranje</string>
+     <string name="preference_check_privacy">Pokaži pravila o zasebnosti</string>
     <string name="preference_copied">»%1$s« je bilo kopirano v odložišče.</string>
      <string name="preference_countrycode_title">Koda države</string>
   <string name="preference_data_usage_summary">Nastavite vaš podatkovni plan za kontrolo uporabe mobilnih podatkov</string>
@@ -2389,6 +2396,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="preference_dial_pad_touch_tone_off">Izklj.</string>
   <string name="preference_dial_pad_touch_tone_piano">Tipke klavirja</string>
   <string name="preference_dial_pad_touch_tone_title">Zvoki številčnice</string>
+     <string name="preference_permission_related">Dovoljenja</string>
      <string name="preference_summary_default_combination">%1$s / %2$s</string>
   <string name="preference_telocation_summary_countrycode_off">Kode države ne vpiši samodejno</string>
   <string name="preference_telocation_summary_countrycode_on">Samodejno vpiši kodo države</string>
@@ -2487,6 +2495,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="preferred_wificall_title">Nastavitve omrežja</string>
   <string name="primary_account_summary_with">Primarni račun. %s</string>
   <string name="privacy_policy_title">Pravila o zasebnosti</string>
+     <string name="privacy_setting">Zasebnost</string>
   <string name="private_dns_broken">Do zasebnega strežnika DNS ni mogoče dostopati</string>
     <string name="private_dns_mode_off">Izklopljeno</string>
     <string name="private_dns_mode_opportunistic">Samodejno</string>
@@ -2631,6 +2640,8 @@ Vmesnik UT: %5$s"</string>
   <string name="rc_unlock_failed">RUIM odklep neuspešen</string>
   <string name="rc_unlock_success">RUIM odklep uspešen</string>
   <string name="rcs_not_supported">"Rcs ni podprt"</string>
+     <string name="read_call_log">Snemanje zvoka</string>
+     <string name="read_call_log_summary">Za snemanje klicev</string>
   <string name="reading_settings">Branje nastavitev…</string>
   <string name="refueling_package_a">Paket A</string>
   <string name="refueling_package_b">Paket B</string>

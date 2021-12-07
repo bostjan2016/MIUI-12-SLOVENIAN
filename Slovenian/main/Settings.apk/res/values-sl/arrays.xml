@@ -3,7 +3,7 @@
 <resources>   
      <string-array name="accessibility_button_gesture_selector_titles">
         <item>Gumb</item>
-        <item>Poteza</item>
+        <item>Gibi</item>
      </string-array>
      <string-array name="accessibility_button_location_selector_titles">
         <item>Prekrivanje drugih aplikacij</item>
@@ -721,8 +721,8 @@
      </string-array>
      <string-array name="eap_ocsp_type">
         <item>Brez preverjanja</item>
-        <item>Zahtevaj stanje potrdila</item>
-        <item>Obvezno stanje potrdila</item>
+        <item>Zahtevaj status potrdila</item>
+        <item>Zahtevaj status potrdila</item>
      </string-array>
      <string-array name="edge_touch_volume_action">
         <item>Pritisnite za nastavitev - Dvakrat pritisnite za vklop</item>
@@ -1448,6 +1448,14 @@
         <item>RNDIS (Ethernet USB)</item>
         <item>Vir zvoka</item>
         <item>MIDI</item>
+     </string-array>
+     <string-array name="usb_configuration_values">
+        <item>nič</item>
+        <item>mtp</item>
+        <item>ptp</item>
+        <item>rndis</item>
+        <item>audio_source</item>
+        <item>midi</item>
      </string-array>
      <string-array name="usb_connection_mode_entries">
         <item>Vprašaj pri povezavi</item>
