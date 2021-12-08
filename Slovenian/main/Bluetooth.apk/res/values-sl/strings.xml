@@ -349,7 +349,7 @@
      <string name="size_peta_byte">PB</string>
      <string name="size_suffix">%1$s%2$s</string>
      <string name="size_tera_byte">TB</string>
-     <string name="snapdragon_sound_notification_content">Ta naprava podpira Qualcomm® Snapdragon Sound™ tehnologijo</string>
+     <string name="snapdragon_sound_notification_content">Ta naprava podpira Snapdragon Sound™ tehnologijo</string>
      <string name="snapdragon_sound_notification_title">Bluetooth</string>
      <string name="some_app_taking">(%1$s že uporablja to opravilo…)</string>
      <string name="start_server">Zaženi TCP server</string>

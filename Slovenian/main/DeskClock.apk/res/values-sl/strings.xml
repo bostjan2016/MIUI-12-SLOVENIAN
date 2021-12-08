@@ -117,6 +117,7 @@
      <string name="channel_name_timer">Kronometer</string>
      <string name="check_theme_app_install">Preverite ali je aplikacija Teme nameščena v vaši napravi.</string>
      <string name="check_voice_assist_app_version">Posodobite Mi AI na najnovejšo verzijo.</string>
+     <string name="cities_show_limit_desc">"Več ur ni mogoče prikazati"</string>
      <string name="city_time_contrast_desc">Tapnite za primerjavo časa v različnih mestih</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="clock_bg_button_setting_summary_common">izberite barvo ozadja za aplikacijo ura</string>
@@ -366,7 +367,7 @@
      <string name="module_white_noise_download_data">Ura mora prenesti avdio datoteke za časovnike hrupa okolice. Ura mora prenesti ≈30MB avdio datotek da bo to delovalo. Prenesem?</string>
      <string name="module_white_noise_download_data_privacy"><Data>"Če želite prenesti zvočne datoteke za časovnike hrupa okolice (≈30 MB) in zagotoviti prilagojene storitve, se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Uporabljate mobilne podatke. Se strinjate?"</Data></string>
      <string name="module_white_noise_download_wifi">Ura mora prenesti avdio datoteke za časovnike hrupa okolice. Prenesem?</string>
-     <string name="module_white_noise_download_wifi_privacy"><Data>Če želite prenesti zvočne datoteke za časovnike hrupa okolice in zagotoviti prilagojene storitve, se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a> Se strinjate?</Data></string>
+     <string name="module_white_noise_download_wifi_privacy"><Data>Če želite prenesti zvočne datoteke za časovnike hrupa okolice in zagotoviti prilagojene storitve, se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>. Se strinjate?</Data></string>
      <string name="monday">Ponedeljek</string>
      <string name="monday_short">Pon</string>
      <string name="monday_shortest">P</string>

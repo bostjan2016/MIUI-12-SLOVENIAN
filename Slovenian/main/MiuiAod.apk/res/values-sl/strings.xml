@@ -289,8 +289,8 @@ dd.MM."</string>
      <string name="night">Večer</string>
      <string name="noon">Poldne</string>
      <string name="not_set">Ni nastavljeno</string>
-     <string name="notification_anim_pulse">Pulzno</string>
-     <string name="notification_anim_rhythm">Ritem</string>
+     <string name="notification_anim_pulse">Pulzno (rdeče)</string>
+     <string name="notification_anim_rhythm">Pulzno (modro)</string>
      <string name="notification_anim_star">Zvezdna svetloba</string>
      <string name="notification_channel_alerts">Opozorila</string>
      <string name="notification_nothing">Nič</string>
