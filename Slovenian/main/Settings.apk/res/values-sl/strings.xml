@@ -5336,7 +5336,6 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="lights_title">LED svetloba</string>
      <string name="line_breaking_summary">Optimizirajte odstavek prelamljanja vrstice</string>
      <string name="line_breaking_title">Optimizirajte besedilo</string>
-     <string name="link_speed">%1$d Mbps</string>
      <string name="link_speed_label">Hitrost povezave:</string>
      <string name="link_turbo_prompt">"Statistika na tej strani kaže samo količino podatkov uporabljeno za za večanje hitrosti WiFi povezave. Statistika porabe mobilnih podatkov je nerealna."</string>
      <string name="link_turbo_settings_all_app_display_loading">Samo trenutek…</string>
@@ -6081,7 +6080,6 @@ Tega ne morete povrniti!"</string>
      <string name="memory_title">Na voljo: %1$s\u0009\u0009Skupaj: %2$s</string>
      <string name="memory_usage">Uporaba pomnilnika</string>
      <string name="memory_usage_apps">Pomnilnik ki ga uporabljajo aplikacije</string>
-     <string name="memory_use_running_format">%1$s / %2$s</string>
      <string name="memory_use_summary">Povprečno uporabljenega pomnilnika v zadnjih 3 urah: %1$s</string>
      <string name="memorycard_calculating">Izračunavam…</string>
      <string name="menu_cancel">"Zavrzi"</string>
@@ -6907,7 +6905,6 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="nfc_how_it_works_title">Plačevanje v terminalu</string>
      <string name="nfc_main_switch_title">Uporabi NFC</string>
      <string name="nfc_more_title">Več…</string>
-     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
      <string name="nfc_payment_btn_text_set_deault">Nastavi za privzeto</string>
      <string name="nfc_payment_btn_text_update">Posodobi</string>
      <string name="nfc_payment_default">Privzeto za plačevanje</string>
@@ -7858,7 +7855,6 @@ Pred uporabo preberite in sprejmite %s."</string>
      <string name="power_cell">Način čakanja</string>
      <string name="power_center">Optimizacija baterije</string>
      <string name="power_charge_remaining">%1$s do napolnjenosti</string>
-     <string name="power_charging">%1$s - %2$s</string>
      <string name="power_charging_duration">%1$s - %2$s do napolnjenosti</string>
      <string name="power_charging_duration_ac">%1$s – %2$s do napolnjenosti preko napajalnika</string>
      <string name="power_charging_duration_usb">%1$s – %2$s do napolnjenosti preko USB-ja</string>
@@ -7931,7 +7927,6 @@ Sočasno pritisnite gumba za vklop in povečanje glasnosti."</string>
      <string name="power_remaining_less_than_duration_only">Preostalo manj kot %1$s</string>
      <string name="power_remaining_more_than_subtext">Preostali čas delovanja: manj kot %1$s (%2$s)</string>
      <string name="power_remaining_only_more_than_subtext">Preostali čas delovanja: več kot %1$s</string>
-     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
      <string name="power_screen">Zaslon</string>
      <string name="power_service">Storitve</string>
      <string name="power_settings_title">Sistemske zmogljivosti</string>
@@ -8200,7 +8195,6 @@ Sočasno pritisnite gumba za vklop in povečanje glasnosti."</string>
      <string name="privileged_action_disable_sub_dialog_title">Želite izklopiti storitev operaterja %1$s?</string>
      <string name="privileged_action_disable_sub_dialog_title_without_carrier">Želite izklopiti kartico SIM?</string>
      <string name="process_dex2oat_label">Optimizacija aplikacij</string>
-     <string name="process_format">%1$s (%2$d)</string>
      <string name="process_mediaserver_label">Predstavnostni strežnik</string>
      <string name="process_provider_in_use_description">Ponudnik %1$s je v uporabi.</string>
      <string name="process_service_in_use_description">Storitev %1$s je v uporabi.</string>
@@ -9511,11 +9505,9 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
      <string name="sensor_toggle_description">Za vse aplikacije in storitve</string>
      <string name="sensors_off_quick_settings_title">Izklop tipal</string>
      <string name="service_background_processes">Prosto: %1$s</string>
-     <string name="service_client_name">%1$s</string>
      <string name="service_foreground_processes">V uporabi: %1$s</string>
      <string name="service_manage">Nastavitve</string>
      <string name="service_manage_description">%1$s: trenutno v uporabi. Dotaknite se »Nastavitve«, če želite to nadzirati.</string>
-     <string name="service_process_name">%1$s</string>
      <string name="service_restarting">Ponovni zagon</string>
      <string name="service_started_by_app">Zagnala aplikacija.</string>
      <string name="service_stop">Ustavi</string>
@@ -9826,7 +9818,6 @@ Morda je koda PIN napačna."</string>
      <string name="sim_select_card">Izberite kartico SIM</string>
      <string name="sim_selection_channel_title">Izbira kartice SIM</string>
      <string name="sim_selection_required_pref">Zahtevana je izbira</string>
-     <string name="sim_settings_summary">%1$s - %2$s</string>
      <string name="sim_settings_title">Kartice SIM</string>
      <string name="sim_setup_channel_id">Aktivacija omrežja</string>
      <string name="sim_setup_wizard_title">Kartici SIM</string>
@@ -9848,7 +9839,6 @@ Dvakrat tapnite za odpiranje Nedavno.""</string>
      <string name="size_kilo_byte">KB</string>
      <string name="size_mega_byte">MB</string>
      <string name="size_peta_byte">PB</string>
-     <string name="size_suffix">%1$s %2$s</string>
      <string name="size_tera_byte">TB</string>
      <string name="skip_anyway_button_label">Vseeno preskoči</string>
      <string name="skip_label">Preskoči</string>
@@ -10098,7 +10088,6 @@ Umaknem privolitev %s zdaj?"</string>
      <string name="status_bar_settings_all_app_display_loading">Nalaganje…</string>
      <string name="status_bar_settings_app_notification_preferences">Nastavitve aplikacije</string>
      <string name="status_bar_settings_basic_settings">Osnovne nastavitve</string>
-     <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
      <string name="status_bar_settings_custom_carrier">Uredi ime ponudnika storitev</string>
      <string name="status_bar_settings_custom_notification">Urejanje obvestil</string>
      <string name="status_bar_settings_custom_wifi_name">Uredi WiFi ime</string>
@@ -10532,9 +10521,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="summary_err_backup_no_network">"Ne morem se povezati na omrežje"</string>
      <string name="summary_err_restore_encrypting">"Ne morem vrniti. Preverite ali je ta var. kopija napravljena z uporabo vašega Mi Računa."</string>
      <string name="summary_err_restore_no_network">"Ne morem se povezati na omrežje"</string>
-     <string name="summary_font_size">%1$s</string>
      <string name="summary_font_size_v2">Nastavljanje velikosti teksta, slik in ikon</string>
-     <string name="summary_range_symbol_combination">%1$s - %2$s</string>
      <string name="summary_range_verbal_combination">%1$s do %2$s</string>
      <string name="summary_two_lines_placeholder">" 
  "</string>
@@ -12149,7 +12136,6 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
      <string name="wifi_calling_off_explanation_2" />
      <string name="wifi_calling_pref_managed_by_carrier">Nastavitev upravlja operater</string>
      <string name="wifi_calling_roaming_mode_dialog_title">Prednostna izbira za gostovanje</string>
-     <string name="wifi_calling_roaming_mode_summary">%1$s</string>
      <string name="wifi_calling_roaming_mode_title">Prednostna izbira za gostovanje</string>
      <string name="wifi_calling_settings_activation_instructions">Aktivirajte klicanje preko WiFi-ja</string>
      <string name="wifi_calling_settings_title">Klicanje preko WiFi-ja</string>
@@ -13266,10 +13252,8 @@ Posodobite nastavitve da:
      <string name="zone_auto_summaryOn">Uporabi časovni pas omrežja</string>
      <string name="zone_auto_title">Uporabi časovni pas omrežja</string>
      <string name="zone_change_to_from_dst">%1$s se začne dne %2$s.</string>
-     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
      <string name="zone_info_footer">Uporabljen bo časovni pas %1$s. Čas %2$s začne veljati %3$s.</string>
      <string name="zone_info_footer_no_dst">Uporabljen bo časovni pas %1$s. Brez preklapljanja med zimskim in poletnim časom.</string>
-     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
      <string name="zone_list_menu_sort_alphabetically">Razvrsti po abecedi</string>
      <string name="zone_list_menu_sort_by_timezone">Razvrsti po časovnem pasu</string>
      <string name="zone_menu_by_offset">Izberi po zamiku glede na UTC</string>
