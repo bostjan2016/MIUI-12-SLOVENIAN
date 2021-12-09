@@ -483,7 +483,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="new_more_settings_label">Dodatne nastavitve</string>
      <string name="new_pc_backup_content1">%1$d. Odpri \"%2$s\".</string>
      <string name="new_pc_backup_content2">%d. Počakajte da se varnostno kopirajo vse stvari.</string>
-     <string name="new_pc_backup_content3">%d. Najdite var. kopije u MIUI-Backup-AllBackup.</string>
+     <string name="new_pc_backup_content3">%d. Najdite var. kopije v MIUI-Backup-AllBackup.</string>
      <string name="new_pc_backup_content4">%d. Kopirajte datoteke na svoj računalnik.</string>
      <string name="new_pc_backup_restore_link">Mobilna naprava</string>
      <string name="new_pc_backup_restore_link_pad">Mobilna naprava</string>

@@ -442,7 +442,7 @@ povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto
      <string name="passport_uplink_slot1_reg">Uporabi SIM 1</string>
      <string name="passport_uplink_slot2_reg">Uporabi SIM 2</string>
      <string name="passport_use_generated_pwd_message">Zapomnite si geslo. Lahko ga uporabite za prijavo na druge Mi storitve.</string>
-     <string name="passport_use_generated_pwd_title">zapomnite si vaše geslo!</string>
+     <string name="passport_use_generated_pwd_title">Zapomnite si vaše geslo!</string>
      <string name="passport_user_agreement">Pogoji uporabe</string>
      <string name="passport_user_agreement_link">"&lt;Data>Prebral sem in se strinjam z Xiaomi &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>.&lt;/Data>"</string>
      <string name="passport_user_agreement_link_more">"&lt;Data>Prebral sem in se strinjam z naslednjimi dokumenti: Xiaomi &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
