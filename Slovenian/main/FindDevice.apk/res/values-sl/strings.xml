@@ -38,6 +38,9 @@
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
      <string name="copy">Kopiraj</string>
+     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"Za dostop do telefonske številke, da najdete to napravo, ko ni povezana s spletom"</string>
+     <string name="custom_define_permission_desc_android.permission.SEND_SMS">"Za iskanje te naprave, ko ni povezana s spletom"</string>
+     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Za lociranje vaše naprave in preklop v način izgubljeno</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
      <string name="default_debt_msg_words">"Ta naprava je zaklenjena zaradi zamude pri plačilu obroka.

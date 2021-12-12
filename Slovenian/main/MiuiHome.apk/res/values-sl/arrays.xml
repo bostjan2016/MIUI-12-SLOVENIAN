@@ -45,6 +45,13 @@
         <item>Privzeto</item>
         <item>Google</item>
      </string-array>
+     <string-array name="icon_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+     </string-array>
      <string-array name="minus_screen_entries">
         <item>Nič</item>
         <item>Osebni asistent</item>
@@ -65,4 +72,4 @@
         <item>Levo</item>
         <item>Desno</item>
      </string-array>
-</resources> 
+</resources>

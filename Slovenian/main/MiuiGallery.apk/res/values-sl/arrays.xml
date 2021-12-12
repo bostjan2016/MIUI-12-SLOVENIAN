@@ -184,7 +184,7 @@
      <string-array name="magic_idp_size_category_profession">
         <item>Potrdilo učitelja za osnovno in srednjo šolo</item>
         <item>Certifikat učiteljev</item>
-        <item>"Vozniško dovoljenje"</item>
+        <item>Vozniško dovoljenje</item>
         <item>Dovoljenje za vodiča</item>
         <item>Dovoljenje za elektronski vodnik</item>
         <item>Državni sodni izpit</item>
@@ -317,4 +317,4 @@
         <item>Dnevni dogodki</item>
         <item>Navadno &amp; nenavadno</item>
      </string-array>
-</resources> 
+</resources>

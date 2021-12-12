@@ -381,7 +381,7 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="privacy_setting_show_lelink_policy">Pokaži HappyCast Pravila o zasebnosti</string>
      <string name="privacy_setting_show_policy">Pokaži Pravila o zasebnosti</string>
      <string name="privacy_setting_show_user_agreement">Pokaži Pogoje uporabe</string>
- <string name="privacy_text_1"><Data>"Dobrodošli v Predvajanje zaslona! Predvajanje omogoča predvajanje stvari iz zaslona telefona na večji zunanji monitor.
+     <string name="privacy_text_1"><Data>"Dobrodošli v Predvajanje zaslona! Predvajanje omogoča predvajanje stvari iz zaslona telefona na večji zunanji monitor.
 Vaše osebne podatke bomo zaščitili v skladu z ustreznimi zakoni, predpisi in politiko zasebnosti. Nekatere storitve ponuja neodvisni ponudnik storitev HappyCast. Pred uporabo te storitve preberite in se strinjajte z &lt;a href=%2$s>HappyCast Pogoji uporabe&lt;/a> in &lt;a href=%1$s>HappyCast Pravila o zasebnosti&lt;/a>.
 Za normalno delovanje se mora ta aplikacija povezati na splet in za zbiranje vaših osebnih podatkov zahteva naslednja dovoljenja:"</Data></string>
     <string name="privacy_text_2"><Data>"Če se ne strinjate s temi dovoljenji ali nočete deliti in naložiti svojih osebnih podatkov, te aplikacije ne boste mogli uporabljati. V takih primerih lahko v nastavitvah odstranite to aplikacijo, se odjavite ali omejite dovoljenja.

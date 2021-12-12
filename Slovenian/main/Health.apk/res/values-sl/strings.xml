@@ -1905,6 +1905,8 @@ Posodobim?"</string>
      <string name="visceral_fat">Visceralna maščoba</string>
      <string name="visceral_fat_descripe_content">Visceralna maščoba je potrebna za stabilizacijo in zaščito notranjih organov. Vendar pa visoka visceralna maščoba poveča tveganje za bolezni srca in ožilja ter presnove.</string>
      <string name="voice_remind">"Povečali smo glasnost, da boste bolje slišali navodila."</string>
+     <string name="volume_decibel">dB</string>
+     <string name="volume_decibel_abridge">dB</string>
      <string name="volume_high">Glasno</string>
      <string name="volume_high_description">"Da se izognete poškodbam sluha, uporabite slušalke za odpravljanje hrupa. Ne povečujte glasnosti, da prikrijete hrup."</string>
      <string name="volume_level">Zvoki okolja</string>

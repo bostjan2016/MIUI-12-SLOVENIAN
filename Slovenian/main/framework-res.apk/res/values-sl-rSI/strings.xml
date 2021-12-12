@@ -436,7 +436,7 @@ To bližnjico lahko v meniju »Nastavitve« > »Storitve za ljudi s posebnimi po
      <string name="condition_provider_service_binding_label">Ponudnik storitev</string>
      <string name="conference_call">Konferenčni klic</string>
      <string name="config_rawContactsLocalAccountName">privzeto</string>
-     <string name="configure_input_methods">Izbira tipkovnic</string>
+     <string name="configure_input_methods">Izbira tipkovnice</string>
      <string name="confirm_battery_saver">V redu</string>
      <string name="console_running_notification_message">Učinkovitost delovanja je slabša. Uporabo konzole lahko onemogočite v zagonskem nalagalniku.</string>
      <string name="console_running_notification_title">Serijska konzola je omogočena</string>
@@ -946,7 +946,7 @@ Poskusite znova čez %d s."</string>
      <string name="kg_invalid_puk">Vnovič vnesite pravilno kodo PUK. Večkratni poskusi bodo trajno onemogočili kartico SIM.</string>
      <string name="kg_invalid_sim_pin_hint">Vnesite PIN ki vsebuje od štiri do osem številk.</string>
      <string name="kg_invalid_sim_puk_hint">Koda PUK mora biti 8 mestno število.</string>
-      <string name="kg_login_account_recovery_hint">"Ali ste pozabili uporabniško ime ali geslo?
+     <string name="kg_login_account_recovery_hint">"Ali ste pozabili uporabniško ime ali geslo?
 Obiščite <b>google.com/accounts/recovery</b>."</string>
      <string name="kg_login_checking_password">Preverjanje računa….</string>
      <string name="kg_login_instructions">Če želite odkleniti napravo se prijavite z Google računom.</string>
@@ -1246,7 +1246,7 @@ Znova poskusite čez %d s."</string>
      <string name="mmiErrorWhileRoaming">Ne morem spremeniti nastavitev preusmeritve dokler ste v gostovanju.</string>
      <string name="mmiFdnError">Operacija je omejena samo na številke s fiksnim klicanjem.</string>
      <string name="mobile_no_internet">Mobilno omrežje nima dostopa do spleta</string>
-  <string name="month_day_year" formatted="false">%d. %B %Y</string>
+     <string name="month_day_year" formatted="false">%d. %B %Y</string>
      <string name="more_item_label">Več</string>
      <string name="move_button_text">Zamenjaj</string>
      <string name="music_recognition_manager_service">Storitev upravljalnika za prepoznavanje glasbe</string>

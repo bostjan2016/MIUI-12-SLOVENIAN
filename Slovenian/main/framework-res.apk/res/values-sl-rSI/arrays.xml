@@ -122,7 +122,7 @@
         <item>Po meri</item>
      </string-array>
      <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Za telefoniranje in klicanje preko WiFi-ja, morate zahtevati od mobilnega operaterja da vam vklopi to storitev. Nato ponovno vključite  klice v Nastavitvah.</item>
+        <item>Za telefoniranje in klicanje preko WiFi-ja, morate zahtevati od mobilnega operaterja, da vam vklopi to storitev. Nato ponovno vključite klice v Nastavitvah.</item>
      </string-array>
      <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Registrirajte se pri mobilnem operaterju</item>

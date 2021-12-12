@@ -464,6 +464,7 @@
      <string name="conversation_cert_info_tips">Pošiljatelj je sporočilo podpisal z varnim certifikatom</string>
      <string name="conversation_cert_info_title">Podpisano</string>
      <string name="conversation_cert_trust">Verjemi podpisu</string>
+     <string name="conversation_content_provider">Ponudnik vsebine pogovora</string>
      <string name="conversation_detail_hide">Skrij</string>
      <string name="conversation_detail_show">Podrobnosti</string>
      <string name="conversation_folder_moved">Premaknjen v %1$s</string>

@@ -554,7 +554,7 @@
      <string name="picture_done">Končano</string>
      <string name="picture_done_front_num">%1$d/%2$d V redu</string>
      <string name="picture_editor">Urednik</string>
-     <string name="picture_empty">s fotoaparatom lahko fotografirate ali snemate videoposnetke</string>
+     <string name="picture_empty">S fotoaparatom lahko fotografirate ali snemate videoposnetke</string>
      <string name="picture_empty_audio_title">"Ni zvočnih datotek
 "</string>
      <string name="picture_empty_title">"Ni videa ali fotografij
@@ -565,7 +565,7 @@
      <string name="picture_is_being_saved">Slika se shranjuje</string>
      <string name="picture_jurisdiction">Dostop za branje pomnilniške kartice je zavrnjen</string>
      <string name="picture_know">V redu</string>
-     <string name="picture_long_chart">Long</string>
+     <string name="picture_long_chart">Dolgo</string>
      <string name="picture_message_audio_max_num">Izberite do %1$s zvokov</string>
      <string name="picture_message_max_num">Izberite do %1$s slik</string>
      <string name="picture_message_video_max_num">Izberite do %1$s videoposnetkov</string>

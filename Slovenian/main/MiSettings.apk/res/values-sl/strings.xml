@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
+     <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
      <string name="abc_action_bar_up_description">Pomik navzgor</string>
      <string name="abc_action_menu_overflow_description">Več možnosti</string>
      <string name="abc_action_mode_done">Končano</string>

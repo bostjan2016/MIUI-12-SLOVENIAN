@@ -42,7 +42,7 @@
      <string-array name="battery_options">
         <item>Zmeraj pokaži odstotek</item>
         <item>Pokaži odstotek med polnjenjem (privzeto)</item>
-        <item>"Ne kaži te ikone"</item>
+        <item>Ne kaži te ikone</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Uporabi sistemsko izbiro (privzeto)</item>
@@ -55,6 +55,12 @@
         <item>16 bitov/vzorec</item>
         <item>24 bitov/vzorec</item>
         <item>32 bitov/vzorec</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>Uporabi sistemsko izbiro (privzeto)</item>
@@ -178,6 +184,20 @@
         <item>Živo (privzeto)</item>
         <item>Naravno</item>
         <item>Standardno</item>
+     </string-array>
+     <string-array name="data_type_name_default_value">
+        <item></item>
+        <item>G</item>
+        <item>E</item>
+        <item>3G</item>
+        <item>H</item>
+        <item>H+</item>
+        <item>4G</item>
+        <item>4G+</item>
+        <item></item>
+        <item>LTE</item>
+        <item>5G</item>
+        <item>5G+</item>
      </string-array>
      <string-array name="debug_hw_overdraw_entries">
         <item>Izklop</item>
@@ -582,5 +602,14 @@
         <item>Merilo animacije: 2 x</item>
         <item>Merilo animacije: 5 x</item>
         <item>Merilo animacije: 10 x</item>
+     </string-array>
+     <string-array name="window_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
      </string-array>
 </resources>

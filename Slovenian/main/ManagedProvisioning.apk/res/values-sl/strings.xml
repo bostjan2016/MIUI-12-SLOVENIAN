@@ -70,7 +70,7 @@ Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite
      <string name="change_device_launcher">Zamenjajte zaganjalnik</string>
      <string name="character_counter_content_description">Vnešeno znakov %1$d od %2$d</string>
      <string name="character_counter_overflowed_content_description">Prekoračena je omejitev števila znakov %1$d od %2$d</string>
-  <string name="chip_text">Chip tekst</string>
+     <string name="chip_text">Chip tekst</string>
      <string name="clear_text_end_icon_content_description">Očisti tekst</string>
      <string name="close">Zapri</string>
      <string name="close_list">Zapri seznam</string>
