@@ -51,8 +51,8 @@
      <string-array name="group_name_translate">
         <item>Privzeto</item>
         <item>Skriti način</item>
-        <item>Način Branja</item>
-        <item>Multimedija</item>
+        <item>Način branja</item>
+        <item>Predstavnosti</item>
      </string-array>
      <string-array name="hmode_app_classify1">
         <item>Lastno</item>

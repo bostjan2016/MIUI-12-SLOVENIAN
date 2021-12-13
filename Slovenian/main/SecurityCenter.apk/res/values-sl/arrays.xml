@@ -101,7 +101,7 @@
      <string-array name="debug_open_intercept">
         <item>Do datotek v napravi boste lahko dostopali in jih urejali preko računalnika.</item>
         <item>Namestitev aplikacij v vašo napravo brez vašega izrecnega dovoljenja bo dovoljena.</item>
-        <item>"Lahko boste daljinski spremljali in snemali vsebino vašega zaslona."</item>
+        <item>Lahko boste daljinsko spremljali in snemali vsebino vašega zaslona.</item>
         <item>Dostopili boste lahko do podrobnih informacij o svoji napravi.</item>
      </string-array>
      <string-array name="ew_emergency_organ_donation_arrays">
@@ -130,7 +130,7 @@
      </string-array>
      <string-array name="mi_service_traffic_type">
         <item>"Mobilni podatki "</item>
-        <item>"WiFi uporaba "</item>
+        <item>"WiFi poraba "</item>
      </string-array>
      <string-array name="miui_optimization_close_intercept">
         <item>Važno: Več sistemskih aplikacij lahko preneha delovati pravilno.</item>

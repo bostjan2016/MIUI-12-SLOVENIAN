@@ -115,7 +115,7 @@
         <item>Omogočeno</item>
      </string-array>
      <string-array name="bt_hci_snoop_log_values">
-        <item>nemogočeno</item>
+        <item>onemogočeno</item>
         <item>filtrirano</item>
         <item>polno</item>
      </string-array>

@@ -125,6 +125,7 @@
      <string name="app_description_title">Odstranim \"Glasba\" iz začetnega zaslona?</string>
      <string name="app_downloads">%s prenosov</string>
      <string name="app_label">Prenosi</string>
+     <string name="app_name">Glasba</string>
      <string name="app_permission_confirm">Razumem</string>
      <string name="app_permission_optional">Izbirna dovoljenja</string>
      <string name="app_permission_require">Obvezna dovoljenja</string>
@@ -319,7 +320,9 @@
      <string name="continue_backup">Nadaljuj</string>
      <string name="copy">Kopiraj</string>
      <string name="count_format">%2$1.1fK</string>
+     <string name="count_format_float">%2$1.1fK</string>
      <string name="count_million_format">%2$1.2fM</string>
+     <string name="count_million_format_float">%2$1.1fM</string>
      <string name="cp_info_first">"Storitev Online streaming glasbe 
   
 predvsem nudi Ultimate Inc."</string>

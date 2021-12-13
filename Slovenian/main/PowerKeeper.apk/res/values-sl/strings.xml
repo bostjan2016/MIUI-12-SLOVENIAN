@@ -103,7 +103,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
      <string name="disabled">Izklj.</string>
      <string name="early_morning">Jutro</string>
      <string name="empty_title_apps_container_list">Ni aplikacij</string>
-     <string name="enable_hide_mode">Vključi Varčevanje baterije</string>
+     <string name="enable_hide_mode">Vključite Varčevanje baterije</string>
      <string name="enable_sleep_mode">Vključite način mirovanja za optimiziranje porabe baterije ponoči</string>
      <string name="error_filename_too_long">Ime datoteke je predolgo.</string>
      <string name="error_icon_content_description">Napaka</string>

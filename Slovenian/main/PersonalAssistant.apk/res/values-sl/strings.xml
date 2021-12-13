@@ -134,7 +134,7 @@
      <string name="app_course_title_default">Urnik pouka</string>
      <string name="app_course_version_remind">Posodobite Mi AI za več informacij</string>
      <string name="app_debug_settings_copied_to_clipboard">Kopirano v odložišče</string>
-     <string name="app_display_linkage_default">Malo hitreje....</string>
+     <string name="app_display_linkage_default">KrNeki....</string>
      <string name="app_display_setting_edit_hint">Vnesite besedilo</string>
      <string name="app_display_setting_edit_instruction">Naslovi so prikazani na vrhu Menija aplikacij. Vsebujejo lahko do 14 kitajskih znakov ali do 28 črk.</string>
      <string name="app_display_setting_edit_toast">Ta naslov je predolg</string>
@@ -275,7 +275,7 @@
      <string name="app_setting_xiaoai">Mi AI tipka</string>
      <string name="app_sleep">Spanje</string>
      <string name="app_sleep_awake">Budnost</string>
-     <string name="app_sleep_continue">Spite še malo?</string>
+     <string name="app_sleep_continue">Boste spali še malo?</string>
      <string name="app_sleep_deep">Globoko</string>
      <string name="app_sleep_enough">Dovolj</string>
      <string name="app_sleep_light">Rahlo</string>
@@ -737,7 +737,8 @@ Prosimo, pošljite to kodo tehnikom."</string>
      <string name="mi_agenda">Dogodki koledarja</string>
      <string name="mi_basketball">Košarka</string>
      <string name="mi_delivery">Mi dostava</string>
-     <string name="mi_express">Moja hitra dostava</string>
+     <string name="mi_express">Mi hitra dostava</string>
+     <string name="mi_express_setting">Mi hitra dostava nastavitve</string>
      <string name="mi_football">Nogomet</string>
      <string name="mi_function">Bližnjice</string>
      <string name="mi_payment">Moja plačila</string>

@@ -43,13 +43,14 @@
      <string name="am">dop.</string>
      <string name="app_activity_main_title">Tiskanje</string>
      <string name="app_label">Print Spooler</string>
+     <string name="app_name">Tiskanje</string>
      <string name="blocked_notification_title_template">Tiskalnik je blokiral %1$s</string>
      <string name="button_delete">Izbriši</string>
      <string name="button_ok">V redu</string>
      <string name="cancel">Prekliči</string>
      <string name="cancel_print">Prekliči tiskanje</string>
      <string name="cancelling_notification_title_template">Preklic: %1$s</string>
-     <string name="cannot_add_printer">Ne morete dodati tiskalnike</string>
+     <string name="cannot_add_printer">Ne morem dodati tiskalnike</string>
      <string name="choose_print_service">Izberite storitev tiskanja</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
