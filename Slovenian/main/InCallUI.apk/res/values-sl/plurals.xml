@@ -28,28 +28,28 @@
      <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
-    </plurals>
-    <plurals name="call_title_redialing_with_times">
-        <item quantity="other">Ponovno klicano %d krat</item>
-        <item quantity="one">Ponovno klicano %d krat</item>
-    </plurals>
-	<plurals name="auto_disconnect_timer_tip">
+     </plurals>
+     <plurals name="antispam_marked_count">
+        <item quantity="other">Prijavilo %d MIUI uporabnikov</item>
+        <item quantity="one">Prijavil %d MIUI uporabnik</item>
+     </plurals>
+     <plurals name="auto_disconnect_timer_tip">
         <item quantity="other">Prekinjanje povezave čez %1$s sek…</item>
         <item quantity="one">Prekinjanje povezave čez %1$s sek…</item>
-    </plurals>
-   <plurals name="call_recording_notification_complete">
+     </plurals>
+     <plurals name="call_recording_notification_complete">
         <item quantity="other">Posneto: %d klicev.</item>
         <item quantity="one">%d klic posnet.</item>
-	</plurals>
+     </plurals>
+     <plurals name="call_title_redialing_with_times">
+        <item quantity="other">Ponovno klicano %d krat</item>
+        <item quantity="one">Ponovno klicano %d krat</item>
+     </plurals>
      <plurals name="conference_call_number">
         <item quantity="other">%s oseb</item>
         <item quantity="one">%s oseba</item>
      </plurals>
-	 <plurals name="antispam_marked_count">
-        <item quantity="other">Prijavilo %d MIUI uporabnikov</item>
-        <item quantity="one">Prijavil %d MIUI uporabnik</item>
-    </plurals>
-    <plurals name="duration_hours">
+     <plurals name="duration_hours">
         <item quantity="other">%d ur</item>
         <item quantity="one">%d ura</item>
      </plurals>
@@ -57,10 +57,10 @@
         <item quantity="other">%d min</item>
         <item quantity="one">%d minuta</item>
      </plurals>
-   <plurals name="duration_seconds">
+     <plurals name="duration_seconds">
         <item quantity="other">%d sek</item>
         <item quantity="one">%d sekunda</item>
-    </plurals>
+     </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>

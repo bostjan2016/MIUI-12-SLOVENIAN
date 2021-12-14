@@ -41,17 +41,17 @@
         <item quantity="other">%1$s je dostopal/a do stvari v odložišču %2$d krat</item>
         <item quantity="one">%1$s je dostopal/a do stvari v odložišču %2$d krat</item>
      </plurals>
-    <plurals name="days">
+     <plurals name="days">
         <item quantity="other">%s dni</item>
         <item quantity="one">%s dan</item>
-    </plurals>
+     </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>
-    <plurals name="hours">
+     <plurals name="hours">
         <item quantity="other">%s ur</item>
         <item quantity="one">%s ura</item>
-    </plurals>
+     </plurals>
      <plurals name="in_a_hour">
         <item quantity="other">Čez 1 uro</item>
      </plurals>
@@ -68,7 +68,7 @@
      <plurals name="less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
      </plurals>
-    <plurals name="minutes">
+     <plurals name="minutes">
         <item quantity="other">%s min.</item>
         <item quantity="one">%s min.</item>
      </plurals>
@@ -79,7 +79,7 @@
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
-    </plurals>
+     </plurals>
      <plurals name="perm_manager_suggest_allow_content">
         <item quantity="other">"Že ste dovolili %2$s dostop do stvari v odložišču %1$d krat. Želite zmeraj dovoliti %3$s dostop do stvari v odložišču?"</item>
         <item quantity="one">"Že ste dovolili %2$s dostop do stvari v odložišču %1$d krat. Želite zmeraj dovoliti %3$s dostop do stvari v odložišču?"</item>
@@ -88,8 +88,8 @@
         <item quantity="other">"Že ste omejili dostop do stvari v odložišču %2$s %1$d krat. Trajno omejim dostop do odložišča za %3$s?"</item>
         <item quantity="one">"Že ste omejili dostop do stvari v odložišču %2$s %1$d krat. Trajno omejim dostop do odložišča za %3$s?"</item>
      </plurals>
-    <plurals name="seconds">
+     <plurals name="seconds">
         <item quantity="other">%s sek.</item>
         <item quantity="one">%s sek.</item>
-    </plurals>
+     </plurals>
 </resources>

@@ -29,10 +29,10 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
      </plurals>
-    <plurals name="article_num">
+     <plurals name="article_num">
         <item quantity="other">%d člankov</item>
         <item quantity="one">%d članek</item>
-    </plurals>
+     </plurals>
      <plurals name="days">
         <item quantity="other">%s dni</item>
         <item quantity="one">%s dan</item>
@@ -43,12 +43,12 @@
      </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
-    </plurals>
+     </plurals>
      <plurals name="hours">
         <item quantity="other">%s ur</item>
         <item quantity="one">%s ura</item>
      </plurals>
-    <plurals name="in_a_hour">
+     <plurals name="in_a_hour">
         <item quantity="other">Čez 1 uro</item>
      </plurals>
      <plurals name="in_half_hour">
@@ -64,14 +64,14 @@
      <plurals name="less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
      </plurals>
-	 <plurals name="llks_tools_remote_control_data">
+     <plurals name="llks_tools_remote_control_data">
         <item quantity="other">Stvari: %s</item>
         <item quantity="one">%s stvar</item>
-    </plurals>
-    <plurals name="llks_tools_smart_devices_data">
+     </plurals>
+     <plurals name="llks_tools_smart_devices_data">
         <item quantity="other">%s naprav</item>
         <item quantity="one">%s naprava</item>
-    </plurals>
+     </plurals>
      <plurals name="lockscreen_magazine_subscribe">
         <item quantity="other">Sledilcev: %1$s</item>
         <item quantity="one">%1$s sledilec</item>
@@ -116,8 +116,8 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred %d min</item>
      </plurals>
-	 <plurals name="wm_cw_count">
+     <plurals name="wm_cw_count">
         <item quantity="other">%d slik</item>
         <item quantity="one">%d slika</item>
-     </plurals>		 
+     </plurals>
 </resources>

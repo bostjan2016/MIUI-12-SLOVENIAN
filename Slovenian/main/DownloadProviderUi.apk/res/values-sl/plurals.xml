@@ -21,6 +21,8 @@
      <plurals name="abbrev_in_num_minutes">
         <item quantity="other">čez %d min</item>
         <item quantity="one">čez 1 min</item>
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred 1 min</item>
      </plurals>
      <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
@@ -37,22 +39,22 @@
         <item quantity="other">Izbrisano %s prenosov</item>
         <item quantity="one">Izbrisan %d prenos</item>
      </plurals>
-	 <plurals name="durationDays">
+     <plurals name="durationDays">
         <item quantity="other">%1$d dni</item>
         <item quantity="one">%1$d dan</item>
-    </plurals>
-    <plurals name="durationHours">
+     </plurals>
+     <plurals name="durationHours">
         <item quantity="other">%1$d ura</item>
         <item quantity="one">%1$d ura</item>
-    </plurals>
-    <plurals name="durationMinutes">
+     </plurals>
+     <plurals name="durationMinutes">
         <item quantity="other">%1$d min</item>
         <item quantity="one">%1$d min</item>
-    </plurals>
-    <plurals name="durationSeconds">
+     </plurals>
+     <plurals name="durationSeconds">
         <item quantity="other">%1$d sek</item>
         <item quantity="one">%1$d sek</item>
-    </plurals>
+     </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>
@@ -80,11 +82,11 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
-   <plurals name="numberOfItemsAvailable">
+     <plurals name="numberOfItemsAvailable">
         <item quantity="other">Izbrišem %d stvari?</item>
         <item quantity="one">Izbrišem to stvar?</item>
-	</plurals>
-	<plurals name="number_items">
+     </plurals>
+     <plurals name="number_items">
         <item quantity="other">stvari %s</item>
         <item quantity="one">%s stvar</item>
      </plurals>
@@ -96,4 +98,4 @@
         <item quantity="other">Najdeno %d rezultatov</item>
         <item quantity="one">Najden 1 rezultat</item>
      </plurals>
-</resources> 
+</resources>

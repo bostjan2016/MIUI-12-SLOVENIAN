@@ -28,10 +28,10 @@
      <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
-    </plurals>
-    <plurals name="half_hour_ago">
+     </plurals>
+     <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
-    </plurals>
+     </plurals>
      <plurals name="in_a_hour">
         <item quantity="other">Čez 1 uro</item>
      </plurals>
@@ -47,13 +47,13 @@
      </plurals>
      <plurals name="less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
+     </plurals>
+     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">izbrano %d stvari</item>
         <item quantity="one">izbrana %d stvar</item>
      </plurals>
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
-    </plurals>
+     </plurals>
 </resources>

@@ -29,18 +29,18 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
      </plurals>
-   <plurals name="cloud_backup_detail_frequence_day">
-         <item quantity="other">Napravi var. kopijo vsakih %d dni</item>
-         <item quantity="one">Napravi var. kopijo vsak dan</item>
+     <plurals name="cloud_backup_detail_frequence_day">
+        <item quantity="other">Napravi var. kopijo vsakih %d dni</item>
+        <item quantity="one">Napravi var. kopijo vsak dan</item>
      </plurals>
      <plurals name="cloud_backup_detail_manage_summary">
-         <item quantity="other">Var. kopije %1$s (%2$s)</item>
-         <item quantity="one">Var. kopija %1$s (%2$s)</item>
+        <item quantity="other">Var. kopije %1$s (%2$s)</item>
+        <item quantity="one">Var. kopija %1$s (%2$s)</item>
      </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
-    </plurals>
-    <plurals name="in_a_hour">
+     </plurals>
+     <plurals name="in_a_hour">
         <item quantity="other">Čez 1 uro</item>
      </plurals>
      <plurals name="in_half_hour">
