@@ -125,7 +125,6 @@
      <string name="app_description_title">Odstranim \"Glasba\" iz začetnega zaslona?</string>
      <string name="app_downloads">%s prenosov</string>
      <string name="app_label">Prenosi</string>
-     <string name="app_name">Glasba</string>
      <string name="app_permission_confirm">Razumem</string>
      <string name="app_permission_optional">Izbirna dovoljenja</string>
      <string name="app_permission_require">Obvezna dovoljenja</string>
