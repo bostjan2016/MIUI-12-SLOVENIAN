@@ -64,6 +64,10 @@
         <item quantity="other">%d stvari izbrano</item>
         <item quantity="one">%d stvar izbrana</item>
      </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+     </plurals>
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d minut</item>
         <item quantity="one">pred 1 minuto</item>

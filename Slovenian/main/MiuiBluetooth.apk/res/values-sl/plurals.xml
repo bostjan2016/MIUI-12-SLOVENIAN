@@ -44,7 +44,7 @@
      <plurals name="fast_connect_reset_nzbt">
         <item quantity="other">Pritisnite in držite gumb %1$s sek. med izklopom</item>
         <item quantity="one">Pritisnite in držite gumb %1$s sek. med izklopom</item>
-    </plurals>
+     </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>

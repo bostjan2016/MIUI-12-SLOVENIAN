@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_preference_activity_title">O globalnem iskanju</string>
   <string name="account_prifix">Račun:</string>
      <string name="app_loaction">Najdi na začet. zaslonu</string>
   <string name="app_name">Iskanje</string>

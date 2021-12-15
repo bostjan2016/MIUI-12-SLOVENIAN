@@ -23,11 +23,11 @@
         <item quantity="one">čez 1 min</item>
      </plurals>
      <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">Pravkar</item>
      </plurals>
      <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred 1 min</item>
      </plurals>
      <plurals name="abc_slice_duration_days">
         <item quantity="other">Pred %d dnevi</item>

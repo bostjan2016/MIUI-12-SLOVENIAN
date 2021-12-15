@@ -28,7 +28,7 @@
      <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
-    </plurals>
+     </plurals>
      <plurals name="days">
         <item quantity="other">%s dni</item>
         <item quantity="one">%s dan</item>
@@ -39,8 +39,8 @@
      <plurals name="hours">
         <item quantity="other">%s ur</item>
         <item quantity="one">%s ura</item>
-    </plurals>
-    <plurals name="in_a_hour">
+     </plurals>
+     <plurals name="in_a_hour">
         <item quantity="other">Čez 1 uro</item>
      </plurals>
      <plurals name="in_half_hour">

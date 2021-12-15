@@ -29,10 +29,10 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
      </plurals>
-    <plurals name="composite_notification_title_template">
+     <plurals name="composite_notification_title_template">
         <item quantity="other">Število predlog: %1$d</item>
         <item quantity="one">Predloga %1$d</item>
-	</plurals>
+     </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>
@@ -52,7 +52,7 @@
      <plurals name="less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
      </plurals>
-    <plurals name="minutes">
+     <plurals name="minutes">
         <item quantity="other">%s min.</item>
         <item quantity="one">%s min.</item>
      </plurals>
@@ -68,8 +68,8 @@
         <item quantity="other">Najdeno tiskalnikov: %1$s</item>
         <item quantity="one">Najden je %1$s tiskalnik</item>
      </plurals>
-    <plurals name="print_services_recommendation_subtitle">
+     <plurals name="print_services_recommendation_subtitle">
         <item quantity="other">Namestite da boste našli %1$s tiskalnikov</item>
         <item quantity="one">Namestite da boste našli %1$s tiskalnik</item>
-    </plurals>
+     </plurals>
 </resources>

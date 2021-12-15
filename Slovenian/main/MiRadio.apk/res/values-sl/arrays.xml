@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
+     <string-array name="account_user_gender_name">
         <item>Moški</item>
         <item>Ženska</item>
-    </string-array>
-    <string-array name="sleep_duration_values">
-        <item>15 minut</item>
-        <item>30 minut</item>
-        <item>45 minut</item>
-        <item>1 ura</item>
-    </string-array>
-    <string-array name="alphabet_table">
+     </string-array>
+     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
         <item>C</item>
@@ -38,21 +32,21 @@
         <item>Y</item>
         <item>Z</item>
         <item>\#</item>
-    </string-array>
-    <string-array name="aritst_area_filter_api">
+     </string-array>
+     <string-array name="aritst_area_filter_api">
         <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
         <item>4</item>
-    </string-array>
-    <string-array name="aritst_gender_filter_api">
+     </string-array>
+     <string-array name="aritst_gender_filter_api">
         <item>vse</item>
         <item>moški</item>
         <item>ženska</item>
         <item>skupina</item>
-    </string-array>
-    <string-array name="freq_entries">
+     </string-array>
+     <string-array name="freq_entries">
         <item>" "</item>
         <item>0</item>
         <item>1</item>
@@ -65,8 +59,8 @@
         <item>8</item>
         <item>9</item>
         <item>.</item>
-    </string-array>
-    <string-array name="number_key_entries">
+     </string-array>
+     <string-array name="number_key_entries">
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -77,11 +71,17 @@
         <item>7</item>
         <item>8</item>
         <item>9</item>
-    </string-array>
-    <string-array name="sleep_duration_values_seconds">
+     </string-array>
+     <string-array name="sleep_duration_values">
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>45 minut</item>
+        <item>1 ura</item>
+     </string-array>
+     <string-array name="sleep_duration_values_seconds">
         <item>900</item>
         <item>1800</item>
         <item>2700</item>
         <item>3600</item>
-    </string-array>
+     </string-array>
 </resources>

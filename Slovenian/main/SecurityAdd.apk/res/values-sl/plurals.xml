@@ -23,7 +23,7 @@
         <item quantity="one">čez 1 min</item>
      </plurals>
      <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Prav zdaj</item>
+        <item quantity="other">Pravkar</item>
      </plurals>
      <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">pred %d min</item>
@@ -40,25 +40,25 @@
      </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
-    </plurals>
-    <plurals name="in_a_hour">
-         <item quantity="other">Čez 1 uro</item>
+     </plurals>
+     <plurals name="in_a_hour">
+        <item quantity="other">Čez 1 uro</item>
      </plurals>
      <plurals name="in_half_hour">
-         <item quantity="other">Čez pol ure</item>
+        <item quantity="other">Čez pol ure</item>
      </plurals>
      <plurals name="in_less_than_one_minute">
-         <item quantity="other">Takoj</item>
+        <item quantity="other">Takoj</item>
      </plurals>
      <plurals name="in_num_minutes">
-         <item quantity="other">čez %d min</item>
-         <item quantity="one">čez 1 minuto</item>
-    </plurals>
+        <item quantity="other">čez %d min</item>
+        <item quantity="one">čez 1 minuto</item>
+     </plurals>
      <plurals name="install_game_count_title">
         <item quantity="other">Dodano %d iger</item>
         <item quantity="one">Dodana %d igra</item>
      </plurals>
-    <plurals name="less_than_one_minute_ago">
+     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Prav zdaj</item>
      </plurals>
      <plurals name="miuix_appcompat_items_selected">
@@ -77,8 +77,8 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
-    <plurals name="uninstall_game_count_title">
-         <item quantity="other">"Ni dodano %d iger"</item>
-         <item quantity="one">"Ni dodana %d igra"</item>
+     <plurals name="uninstall_game_count_title">
+        <item quantity="other">"Ni dodano %d iger"</item>
+        <item quantity="one">"Ni dodana %d igra"</item>
      </plurals>
-</resources> 
+</resources>
