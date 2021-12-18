@@ -176,6 +176,8 @@
      <string name="auto_update">Samodejno posodobi</string>
      <string name="auto_update_tip">Sistemske aplikacije lahko posodobite z uporabo mobilnih podatkov. To lahko povzroči dodatne stroške.</string>
      <string name="auto_upgrade">Poodobi samodejno</string>
+     <string name="autoplay_is_off">Samodejno predvajanje je izklopljeno</string>
+     <string name="autoplay_is_on">Samodejno predvajanje je vklopljeno</string>
      <string name="avail_services">Na voljo</string>
      <string name="available_playlist_name_format">Nov seznam predvajanja %d</string>
      <string name="avoid_to_use_traffic_summary">Ne uporabljajte mobilnega omrežja za predvajanje glasbe preko omrežja</string>
@@ -1162,6 +1164,13 @@ predvsem nudi Ultimate Inc."</string>
      <string name="nowplaying_circle_style_wave">Val</string>
      <string name="nowplaying_dialog_title_delete_tracks">Odstranim pesem iz čakalne vrste?</string>
      <string name="nowplaying_menu_item_delete">Odstrani</string>
+     <string name="offline_notification_text">Dotaknite se, da odprete oglas</string>
+     <string name="offline_notification_title">Oglejte si oglas, ki ste ga shranili, ko ste bili brez povezave</string>
+     <string name="offline_opt_in_confirm">V redu</string>
+     <string name="offline_opt_in_confirmation">"Ko boste spet na spletu, boste prejeli obvestilo s povezavo"</string>
+     <string name="offline_opt_in_decline">Ne, hvala</string>
+     <string name="offline_opt_in_message">"Poslali vam bomo obvestilo s povezavo do spletnega mesta oglaševalca."</string>
+     <string name="offline_opt_in_title">"Odprite oglas, ko boste spet na spletu."</string>
      <string name="ok">"V redu"</string>
      <string name="one_month">1 mesec</string>
      <string name="online_apk_acquired">Prenešeno %d%%</string>

@@ -1168,6 +1168,7 @@ Dodate lahko tudi opomnike, da ne boste zamudili ničesar pomembnega."</string>
      <string name="talk_back_read_date">Trenutni datum: %1$s (%2$s po luninem koledarju).</string>
      <string name="talk_back_setting">Nastavitve</string>
      <string name="talk_back_tab_switch">Zamenjaj prikaze</string>
+     <string name="talk_back_tab_switch_language">Izberite jezik</string>
      <string name="tardis">TARDIS</string>
      <string name="tb_go_back_today">Vrni se na danes</string>
      <string name="tb_mens_month_date_selected">%1$s izbrano.</string>

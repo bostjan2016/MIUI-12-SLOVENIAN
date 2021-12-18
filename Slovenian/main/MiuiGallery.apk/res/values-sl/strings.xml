@@ -714,6 +714,9 @@
      <string name="double_tap_to_higher_definition">Dvakrat tapnite še enkrat za HD pregled</string>
      <string name="download">Prenašanje</string>
      <string name="download_canceled">Prenos preklican</string>
+     <string name="download_delete_error_desc">"Te stvari ni mogoče obnoviti, ker ste jo izbrisali iz te naprave in oblaka. Odstranim prazno datoteko zdaj?"</string>
+     <string name="download_delete_error_positive">Odstrani</string>
+     <string name="download_delete_error_title">Manjkajoče stvari</string>
      <string name="download_error_format">"Ne morem prenesti %s"</string>
      <string name="download_error_tip">. Prenos je prekinjen.</string>
      <string name="download_origin_dialog_message">"Originalne slike bodo prevzete iz Mi Clouda. Lokalne fotografije ne bodo optimizirane."</string>
@@ -1244,6 +1247,7 @@ za fotografije"</string>
      <string name="grant_permission_write_clipboard">Če želite kopirati stvari dovolite tej aplikaciji, da shranjuje v odložišče.</string>
      <string name="grayscale">Toni sive</string>
      <string name="group_header_title_immutable_album">Organizirajte fotografije</string>
+     <string name="group_header_title_media_group">Vrste medijev</string>
      <string name="group_header_title_third_album">Več albumov</string>
      <string name="group_header_title_user_create_album">Moji albumi</string>
      <string name="has_invalid_recipient">Neveljavni prejemnik: %1$s</string>
@@ -1513,6 +1517,7 @@ za fotografije"</string>
      <string name="map_guide_message">Oglejte si fotografije in videoposnetke na zemljevidu</string>
      <string name="map_location">Premakni na trenutno lokacijo</string>
      <string name="map_positioning_failed_tip">"Podatkov o lokaciji ni mogoče dobiti zaradi šibkega signala"</string>
+     <string name="map_privacy_dialog_content"><Data>Ta storitev vam omogoča ogled fotografij in videoposnetkov z informacijami o lokaciji na zemljevidu. Za zagotavljanje te storitve uporabljamo Baidu Map Open SDK. Preberite in se strinjajte z &lt;a href=\"%1$s\">Izjava o skupni rabi podatkov tretjih oseb Zemljevid galerije&lt;/a> pred uporabo.</Data></string>
      <string name="map_privacy_dialog_message"><Data>Ta storitev vam omogoča ogled fotografij in videoposnetkov z informacijami o lokaciji na zemljevidu. Za zagotavljanje te storitve uporabljamo Baidu Map Open SDK. Preberite &lt;a href=\"%1$s\">Baidu Zemljevid Pravila o zasebnosti Izdelki in storitve odprte platforme&lt;/a> za več informacij.</Data></string>
      <string name="map_privacy_dialog_title">Galerija zemljevid</string>
      <string name="map_privacy_policy">Galerija zemljevid Pravila o zasebnosti</string>
@@ -1524,6 +1529,18 @@ za fotografije"</string>
      <string name="mark_operation_processing">Obdelava…</string>
      <string name="mark_operation_succeeded">Uspešno dodano</string>
      <string name="mark_people_ignore_info_message">Pritisnite in zadržite fotografije oseb da jih dodate v skupine</string>
+     <string name="media_type_burst_photo">Izbruh</string>
+     <string name="media_type_clone_photo">Kloni</string>
+     <string name="media_type_doc_photo">Dokumenti</string>
+     <string name="media_type_fast_motion_video">Časovni zamik</string>
+     <string name="media_type_front_photo">Selfiji</string>
+     <string name="media_type_gif">GIF</string>
+     <string name="media_type_live_vv">Vlog</string>
+     <string name="media_type_motion_photo">Dinamično</string>
+     <string name="media_type_pano_photo">Panorame</string>
+     <string name="media_type_portrait_photo">Portret</string>
+     <string name="media_type_raw">RAW</string>
+     <string name="media_type_slow_motion_video">Slo-mo</string>
      <string name="megabyteShort">MB</string>
      <string name="meizu">Meizu</string>
      <string name="meizu_phone">Meizu</string>
@@ -2152,6 +2169,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="privacy_map">Galerija Zemljevid</string>
      <string name="privacy_map_detail"><Data>Ta storitev vam omogoča ogled fotografij in videoposnetkov z informacijami o lokaciji na zemljevidu. Za zagotavljanje te storitve uporabljamo Baidu Zemljevid Open SDK. Preberite in se strinjajte z &lt;a href=\"%1$s\">Politika zasebnosti Baidu Zemljevid za izdelke in storitve odprte platforme&lt;/a> preden nadaljujete.</Data></string>
      <string name="privacy_map_detail_content">Baidu Zemljevid za izdelke in storitve odprte platforme</string>
+     <string name="privacy_map_detail_content_new">Izjava o skupni rabi podatkov tretjih oseb Zemljevid galerije</string>
      <string name="privacy_permission">Dovoljenja</string>
      <string name="privacy_permission_account">Računi</string>
      <string name="privacy_permission_account_detail">Za prijavo in sinhronizacijo elementov z oblakom</string>
@@ -2174,9 +2192,12 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="privacy_permission_shotcut_detail">Za ustvarjanje bližnjic na začetnem zaslonu</string>
      <string name="privacy_permission_storage">Shramba</string>
      <string name="privacy_permission_storage_detail">Za shranjevanje fotografij in videoposnetkov</string>
+     <string name="privacy_reject_map_detail_new"><Data>"Vaš preklic soglasja za &lt;a href=\"%1$s\">Izjava o skupni rabi podatkov tretjih oseb Galerija Zemljevid&lt;/a> bo obravnavano kot zavrnitev sprejemanja storitev Galerija Zemljevid. Še vedno boste lahko normalno uporabljali druge funkcije Galerije. Umaknem soglasje zdaj?"</Data></string>
      <string name="privacy_rejected">Preklic soglasja</string>
      <string name="privacy_rejected_map">Preklic soglasja Pravila o zasebnosti Galerija Zemljevid</string>
      <string name="privacy_rejected_map_detail">"Vaš preklic soglasja Pravila o zasebnosti Galerija Zemljevid bo obravnavan, kot da zavračate sprejemanje njenih storitev. Druge osnovne funkcije in storitve Galerije ne bodo prizadete. Vseeno prekličem?"</string>
+     <string name="privacy_rejected_map_new">Preklic soglasja za izjavo o skupni rabi podatkov tretjih oseb za Galerija Zemljevid</string>
+     <string name="privacy_rejected_pos_btn">Withdraw</string>
      <string name="private_entry_lock_state_activated_text">Spusti za odpiranje zasebne mape</string>
      <string name="private_entry_lock_state_enterd_text">Povleci dol za odpiranje zasebne mape</string>
      <string name="problem_feedback">Povratne inf.</string>
