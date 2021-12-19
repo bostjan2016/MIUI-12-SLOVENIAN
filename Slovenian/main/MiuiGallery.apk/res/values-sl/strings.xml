@@ -1537,7 +1537,7 @@ za fotografije"</string>
      <string name="media_type_gif">GIF</string>
      <string name="media_type_live_vv">Vlog</string>
      <string name="media_type_motion_photo">Dinamično</string>
-     <string name="media_type_pano_photo">Panorame</string>
+     <string name="media_type_pano_photo">Panorama</string>
      <string name="media_type_portrait_photo">Portret</string>
      <string name="media_type_raw">RAW</string>
      <string name="media_type_slow_motion_video">Slo-mo</string>
@@ -2197,7 +2197,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="privacy_rejected_map">Preklic soglasja Pravila o zasebnosti Galerija Zemljevid</string>
      <string name="privacy_rejected_map_detail">"Vaš preklic soglasja Pravila o zasebnosti Galerija Zemljevid bo obravnavan, kot da zavračate sprejemanje njenih storitev. Druge osnovne funkcije in storitve Galerije ne bodo prizadete. Vseeno prekličem?"</string>
      <string name="privacy_rejected_map_new">Preklic soglasja za izjavo o skupni rabi podatkov tretjih oseb za Galerija Zemljevid</string>
-     <string name="privacy_rejected_pos_btn">Withdraw</string>
+     <string name="privacy_rejected_pos_btn">Preklic</string>
      <string name="private_entry_lock_state_activated_text">Spusti za odpiranje zasebne mape</string>
      <string name="private_entry_lock_state_enterd_text">Povleci dol za odpiranje zasebne mape</string>
      <string name="problem_feedback">Povratne inf.</string>
