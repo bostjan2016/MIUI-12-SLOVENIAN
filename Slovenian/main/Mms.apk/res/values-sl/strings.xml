@@ -54,6 +54,10 @@
      <string name="add_slide_hint">Dotaknite se da ustvarite nov diapozitiv</string>
      <string name="add_smiley">Smejko</string>
      <string name="add_timing">Čas</string>
+     <string name="add_to_block_by_number">"Dodano %s
+med blokirane"</string>
+     <string name="add_to_block_by_tag">"Sporočila ki vsebujejo \"%s\"
+dodana med blokirane"</string>
      <string name="add_to_browser_favorite_failed">Ni uspelo</string>
      <string name="add_to_browser_favorite_success">Uspelo</string>
      <string name="add_video">Dodaj video posnetek</string>
@@ -1365,6 +1369,10 @@ Oglejte si priporočene!"</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
+     <string name="suspected_fraud_action">Dotaknite se za prijavo.</string>
+     <string name="suspected_fraud_action_tip">"Možna prevara. "</string>
+     <string name="suspected_fraud_link_tip">"Nevaren URL. "</string>
+     <string name="suspected_fraud_tip">Možna prevara</string>
      <string name="switch_to_editor">Urejanje</string>
      <string name="switch_to_menu">Meni</string>
      <string name="system_permission_declare_agree">Strinjam se</string>

@@ -36,6 +36,7 @@
      <string name="about_newest">Wallpaper Carousel je posodobljen.</string>
      <string name="about_permission">Dovoljenja</string>
      <string name="about_update">Posodobi</string>
+     <string name="access_denied_info">Preveč poskusov. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="account_bind_secure_email_title">Dodajte obnovitveni elektronski naslov</string>
      <string name="account_bind_secure_phone_title">Dodaj obnovitveno telefonsko številko</string>
      <string name="account_crop_user_avatar">Obreži sliko</string>
@@ -254,6 +255,10 @@ Pošljite to kodo nadzorniku."</string>
      <string name="disable_dlg_title">Izključim Wallpaper Carousel?</string>
      <string name="dislike">Izbriši</string>
      <string name="dlg_cancel">Prekliči</string>
+     <string name="doing_login">Prijava</string>
+     <string name="doing_query_account">Preverjanje podatkov o računu…</string>
+     <string name="doing_register">Ustvarjanje računa…</string>
+     <string name="dot_and_space">• </string>
      <string name="double_click_to_exit_activity">Tapni ponovno za izhod</string>
      <string name="early_morning">Jutro</string>
      <string name="edit_wallpaper">Urejanje ozadij</string>
@@ -338,11 +343,14 @@ Pošljite to kodo nadzorniku."</string>
      <string name="get_ph_ticket">Pridobite kodo</string>
      <string name="get_phone_bind_exceed_limit">Povežete lahko do 3 Mi Račune s to telefonsko številko. Ne morete dodati novih računov.</string>
      <string name="get_phone_verifycode_exceed_limit">Preveč poslanih kod za potrjevanje na ta naslov e-pošte. Počakajte 24 ur in poskusite ponovno.</string>
+     <string name="getverifycode_seconde">s</string>
      <string name="goto_confirm">Nastavitve</string>
      <string name="goto_sign_up">Napravi račun</string>
+     <string name="header_help">Pomoč</string>
      <string name="history_list_no_data">Ni stvari</string>
      <string name="hour_1">Vsako uro</string>
      <string name="hour_3">Vsake 3 ure</string>
+     <string name="i_know">Razumem</string>
      <string name="icon_content_description">Ikona dialoga</string>
      <string name="idbct_desc">Prilagodite Wallpaper Carousel glede na vrsto omrežja</string>
      <string name="idbct_opt_auto_select_desc_text">Prenesi standardne slike s pomočjo mobilnih podatkov in HD slike z WiFi</string>
@@ -355,6 +363,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="identity">Identifikacija</string>
      <string name="inconsistent_pwd">"Gesli se ne ujemata"</string>
      <string name="input_email_address_notice">"Ta naslov e-pošte bomo uporabili za potrditev vašega računa"</string>
+     <string name="input_length_exceeds_limit">Besedilo ki ste ga vnesli je predolgo</string>
      <string name="input_new_pwd">Vnesite novo geslo</string>
      <string name="isornot_your_mi_account">Je to tvoj Mi Račun?</string>
      <string name="just_a_second">Samo trenutek…</string>
@@ -414,6 +423,11 @@ Pošljite to kodo nadzorniku."</string>
      <string name="login_app">Vpis</string>
      <string name="login_app_cancel">Prekliči</string>
      <string name="login_app_confirm">Vpis</string>
+     <string name="login_by_local_phone_long_text">Prijavite se zdaj</string>
+     <string name="login_by_local_phone_short_text">Prijavite se</string>
+     <string name="login_other">Drug Mi račun</string>
+     <string name="login_register_by_local_phone_long_text">Ustvari račun</string>
+     <string name="login_with_sns">Drugi načini za prijavo</string>
      <string name="login_xiaomi_account_summary">"Prebral sem in se strinjam z Mi račun &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Pogoji uporabe&lt;/font>&lt;/a> in &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Pravila o zasebnosti&lt;/font>&lt;/a>."</string>
      <string name="logout">Odjava</string>
      <string name="logout_account">Odjava</string>
@@ -430,6 +444,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="midnight">Noč</string>
      <string name="minutes_15">Vsakih 15 min.</string>
      <string name="minutes_5">Vsakih 5 min.</string>
+     <string name="mishop_login_other">Drug račun</string>
      <string name="miui_clock_city_name_local">Lokalno</string>
      <string name="miui_clock_city_name_second">Druga ura</string>
      <string name="miui_clock_fancy_colon"></string>
@@ -564,6 +579,8 @@ mm"</string>
      <string name="mtrl_picker_toggle_to_text_input_mode">Prestavite na način vnosa teksta</string>
      <string name="mtrl_picker_toggle_to_year_selection">Tapnite za prehod na izbiro leta</string>
      <string name="need_open_gallery">Vključi Wallpaper Carousel</string>
+     <string name="network_error_info">Prišlo je do omrežne napake. Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="network_timeout_info">"Ne morem se povezati na omrežje. Poskusite znova."</string>
      <string name="new_feature_title">"Kaj je novega"</string>
      <string name="nick_name">Ime</string>
      <string name="night">Noč</string>
@@ -592,6 +609,7 @@ mm"</string>
      <string name="open_gallery">Wallpaper Carousel</string>
      <string name="open_gallery_tips">Tapnite da vključite Wallpaper Carousel</string>
      <string name="open_guid_des">Pojdite v u Nastavitve &gt; Dovoljenja &gt; Ostala dovoljenja &gt; Wallpaper Carousel in dajte aplikaciji vsa potrebna dovoljenja.</string>
+     <string name="open_settings">Nastavitve</string>
      <string name="open_sub_title">Izberite kategorije</string>
      <string name="open_title">Wallpaper Carousel</string>
      <string name="open_unable">"Wallpaper Carousel deluje samo z MIUI privzetimi zakl. zasloni."</string>
@@ -852,6 +870,7 @@ mm"</string>
      <string name="platform_unavailable_wechat">Namesti Wechat</string>
      <string name="platform_unavailable_wechatmoment">Namesti Wechat</string>
      <string name="platform_unavailable_weibo">Namesti Weibo</string>
+     <string name="please_agree_protocal">Prosimo, da se strinjate s protokolom</string>
      <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
      <string name="privacy_policy">Pravila o zasebnosti</string>
@@ -864,6 +883,10 @@ mm"</string>
      <string name="privacy_update_summary3">"Ne boste mogli še naprej uporabljati Wallpaper Carousel, razen če se strinjate z novo različico &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o zasebnosti&lt;/font>&lt;/a>. Se strinjate z posodobitvijo?"</string>
      <string name="privacy_update_title1">Posodobljena pravila o zasebnosti</string>
      <string name="privacy_update_title2">Pozor</string>
+     <string name="progressbar_title">Preverjanje varnostnih težav…</string>
+     <string name="protocal_dialog_cancel">Prekliči</string>
+     <string name="protocal_dialog_confirm">Strinjam se</string>
+     <string name="protocal_dialog_title">Pozor</string>
      <string name="prv_end">" "Ni več stvari za prikaz" "</string>
      <string name="prv_loading">" "Samo trenutek…" "</string>
      <string name="prv_nodata">" "Ni podatkov" "</string>
@@ -881,8 +904,17 @@ mm"</string>
      <string name="recommend_switch_dlg_title">Izključim priporočila?</string>
      <string name="recommend_switch_title">Prilagojena priporočila</string>
      <string name="refresh_network">Osveži</string>
+     <string name="register_by_local_phone_long_text">Ustvarite račun</string>
+     <string name="register_by_local_phone_short_text">Ustvarite račun</string>
      <string name="remove">Odstrani</string>
      <string name="req_permission_dis_tip">Potrebno je dovoljenje</string>
+     <string name="request_agree">Dovoli</string>
+     <string name="request_camera_permission_message">"Vaše osebne podatke bomo varovali v skladu z ustreznimi zakoni in predpisi. Ta aplikacija potrebuje naslednja dovoljenja za normalno delovanje:&lt;br>&lt;br>&lt;b>Uporaba kamere (za nastavitev fotografije profila)&lt;/b>&lt;br>&lt;br>Če se ne strinjate s podelitvijo takšnih dovoljenj, ne boste mogli uporabljati nekaterih funkcij te aplikacije; vendar vam bo njegova osnovna funkcionalnost še vedno na voljo. V nastavitvah lahko kadar koli omejite dovoljenja ali prekličete pooblastilo."</string>
+     <string name="request_cancel">Prekliči</string>
+     <string name="request_error_invalid_token">"Ne morem preveriti"</string>
+     <string name="request_error_network">Prišlo je do omrežne napake. Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="request_error_unknown">Prišlo je do sistemske napake. Pojdite nazaj in poskusite znova.</string>
+     <string name="request_gallery_permission_message">Dovolite dostop do Galerije:&lt;br />Za nastavitev profilnih fotografij</string>
      <string name="require_permission">Potrebna so dovoljenja</string>
      <string name="require_permission_text">Če želite shraniti in si ogledati stvari, dovolite Wallpaper Carousel dostop do shrambe.</string>
      <string name="resend_active_email">Pošlji ponovno</string>
@@ -962,6 +994,7 @@ mm"</string>
      <string name="sign_in">Prijavi se</string>
      <string name="sign_in_progress">Prijava…</string>
      <string name="sign_in_title">Prijavite se z svojim Mi Računom</string>
+     <string name="skip_query_account">Preskoči</string>
      <string name="sliding_on_unlock">Potegni gor za odklep</string>
      <string name="sms_send_success">Uspešno poslano</string>
      <string name="sns_access_token_expired_warning">Čas za prijavo v račun je potekel. Ponovno se prijavite, da se ponovno povežete s tem računom.</string>
@@ -1061,6 +1094,7 @@ mm"</string>
      <string name="sure_close_gallery">Izklučim Wallpaper Carousel?</string>
      <string name="sure_close_gallery_des">"Ne boste dobivali novih slik za ozadje za začetni in zakl. zaslon če izključite Wallpaper Carousel. Vseeno izključim?"</string>
      <string name="system_default">Privzeto</string>
+     <string name="system_error_info">Sistem je zaseden. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="tab_user_title_bar_text">Nastavitve</string>
      <string name="tb_collapse_desc">Skrij meni \"Skupna raba\"</string>
      <string name="temporary_not_available">Ta storitev še ni na voljo</string>
@@ -1111,6 +1145,7 @@ mm"</string>
      <string name="uninstall_introduction_text_title">O Wallpaper Carousel</string>
      <string name="uninstall_warning_text_desc">"Brez Wallpaper Carousela ne boste dobivali novih slik za ozadje. Lahko pa boste na novo namestili aplikacijo. Izbrišem Wallpaper Carousel?"</string>
      <string name="uninstall_warning_text_title">Odstranjevanje Wallpaper Carousela…</string>
+     <string name="unknown_error_info">Neznana napaka</string>
      <string name="update_email_address_dialog_message">Pred posodobitvijo e-pošte morate potrditi svojo identiteto.</string>
      <string name="update_email_address_dialog_title">Aktiviranje email naslova za obnovitev</string>
      <string name="update_find_new_version">Posodobitev na voljo</string>
@@ -1118,9 +1153,22 @@ mm"</string>
      <string name="upload_error_log">Pošlji dnevnik</string>
      <string name="user_ac_click_to_login">Tapni za prijavo</string>
      <string name="user_ac_not_login">Niste prijavljeni</string>
+     <string name="user_agreement_hint_3rd_app"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_3rd_app_mobile"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=%5$s>Določila in pogoji storitev preverjanja China Mobile&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=%5$s>Pravila in pogoji storitev preverjanja računa eSurfing&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=%5$s>Določila in pogoji storitev preverjanja China Unicom&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_default"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_default_1"><Data>Preberite in se strinjate z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti.&lt;/a></Data></string>
+     <string name="user_agreement_hint_default_extra"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti.&lt;/a> Prva prijava bo samodejno ustvarila račun Xiaomi"</Data></string>
+     <string name="user_agreement_hint_first_login">"Račun bomo ustvarili samodejno, če boste svojo telefonsko številko uporabili prvič."</string>
+     <string name="user_agreement_hint_with_mobile"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=%3$s>Določila in pogoji storitev preverjanja China Mobile&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_with_telecom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=%3$s>Pravila in pogoji storitev preverjanja računa eSurfing&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_with_unicom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=%3$s>Določila in pogoji storitev preverjanja China Unicom&lt;/a>."</Data></string>
+     <string name="user_agreement_protocal_dialog_hint_default"><Data>"Preberite in se strinjate z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in Mi račun's &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data></string>
      <string name="user_avatar_update_title">Zamenjaj sliko profila</string>
      <string name="user_avatar_uploading">Samo trenutek…</string>
      <string name="user_id_hint">E-pošta/Št. telefona</string>
+     <string name="user_name_phone_number">Telefonska številka</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
      <string name="v_code_title">Vnesite kontrolno kodo v 2 korakih</string>
