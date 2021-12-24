@@ -1164,7 +1164,7 @@ mm"</string>
      <string name="user_agreement_hint_with_mobile"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=%3$s>Določila in pogoji storitev preverjanja China Mobile&lt;/a>."</Data></string>
      <string name="user_agreement_hint_with_telecom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=%3$s>Pravila in pogoji storitev preverjanja računa eSurfing&lt;/a>."</Data></string>
      <string name="user_agreement_hint_with_unicom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=%3$s>Določila in pogoji storitev preverjanja China Unicom&lt;/a>."</Data></string>
-     <string name="user_agreement_protocal_dialog_hint_default"><Data>"Preberite in se strinjate z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in Mi račun's &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_agreement_protocal_dialog_hint_default"><Data>"Preberite in se strinjajte z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> kot tudi Mi račun's &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data></string>
      <string name="user_avatar_update_title">Zamenjaj sliko profila</string>
      <string name="user_avatar_uploading">Samo trenutek…</string>
      <string name="user_id_hint">E-pošta/Št. telefona</string>
