@@ -21,8 +21,6 @@
      <plurals name="abbrev_in_num_minutes">
         <item quantity="other">čez %d min</item>
         <item quantity="one">čez 1 min</item>
-        <item quantity="other">pred %d min</item>
-        <item quantity="one">pred 1 min</item>
      </plurals>
      <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
