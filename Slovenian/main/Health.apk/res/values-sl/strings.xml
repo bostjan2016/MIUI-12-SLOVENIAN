@@ -1173,7 +1173,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
      <string name="rem_Duration_increase_description">Vaše REM spanje je predolgo</string>
      <string name="rem_duration">Trajanje REM spanja</string>
      <string name="rem_duration_decrease_description">Vaše REM spanje je prekratko</string>
-     <string name="rem_duration_description" formatted="false">REM se nanaša na gibanje oči. Spanje lahko razdelimo na hitro gibanje oči (REM) in počasno gibanje oči (NREM). Hitro spanje predstavlja približno 20 do 25% vašega skupnega trajanja spanja. Ko se ljudje v tej fazi zbudijo, jih 74 do 95% pravi, da so sanjali in se lahko spomnijo svojih sanj. Možgani so zelo aktivni in telo se med spanjem REM popolnoma sprosti, zaradi česar je ta faza spanja ključna za ohranjanje kognitivnih funkcij.</string>
+     <string name="rem_duration_description">REM se nanaša na gibanje oči. Spanje lahko razdelimo na hitro gibanje oči (REM) in počasno gibanje oči (NREM). Hitro spanje predstavlja približno 20 do 25%% vašega skupnega trajanja spanja. Ko se ljudje v tej fazi zbudijo, jih 74 do 95%% pravi, da so sanjali in se lahko spomnijo svojih sanj. Možgani so zelo aktivni in telo se med spanjem REM popolnoma sprosti, zaradi česar je ta faza spanja ključna za ohranjanje kognitivnih funkcij.</string>
      <string name="rem_duration_normal_description">Trajanje REM spanja je normalno</string>
      <string name="remarks">Opomba</string>
      <string name="remind">Opomni</string>
