@@ -1426,7 +1426,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
      <string name="deep_power_save_item_title_lock_screen_time">Izključi zaslon</string>
      <string name="deep_save_memory_clean_summary">Izbriši predpomnilnik kadar je naprava zaklenjena da preprečite aplikacijam uporabo baterije</string>
      <string name="deep_save_ontime_boot_shutdown_summary">Določite čas za vklop in izklop naprave</string>
-     <string name="default_condition_summary">Npr. \"Baterija je manj kot %s\"</string>
+     <string name="default_condition_summary">Npr. \"Baterija je manj kot 20%\"</string>
      <string name="default_condition_title">Dodaj pogoj</string>
      <string name="default_condition_title_continue">Dodaj pogoj</string>
      <string name="default_result_summary">Npr. \"Izklopi letalski način\"</string>
