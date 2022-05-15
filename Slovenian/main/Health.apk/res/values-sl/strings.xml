@@ -1744,7 +1744,7 @@ podatkov o spanju"</string>
      <string name="tb_stand_day_ring">Danes, %1$s je akumuliral da konča stanje, cilj je končati stanje po 12 urah</string>
      <string name="tb_stand_wm_column_chart">Vstajanje med %1$s in %2$s. Povlecite vodoravno, da preklapljate med časovnimi obdobji. Dotaknite se za ogled podrobnosti.</string>
      <string name="tb_stand_wm_column_click">%1$s, stanje %2$d, %3$s</string>
-     <string name="tb_step_widget">Danes. %1$s. Napredek: %2$d%</string>
+     <string name="tb_step_widget" formatted="false">Danes. %1$s. Napredek: %2$d%</string>
      <string name="tb_unmultiple_selecte_all">Prekliči izbrano</string>
      <string name="tb_user_account_signed">Mi Račun: %1$s.</string>
      <string name="tb_user_account_unsigned">Tapnite za prijavo v Mi Račun</string>
