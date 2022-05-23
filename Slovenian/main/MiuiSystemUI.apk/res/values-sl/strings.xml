@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-     <string name="0">Uporabite gibe da skrijete/prikažete tipke zaslona.</string>
      <string name="abbrev_wday_month_day_no_year">EEEE, d. MMMM</string>
      <string name="abbrev_wday_month_day_no_year_alarm">EEE, d. MMM</string>
      <string name="abc_action_bar_home_description">Krmarjenje domov</string>
